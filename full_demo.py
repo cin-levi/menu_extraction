@@ -126,8 +126,8 @@ class LayoutLMDemo(object):
                 # else:
                 data['paragraphs'][0]['qas'].append(qa)
 
-            full_data= {'data': data}
-            predictions = self.model.predict(full_data['data'], calculate_acc=False, training_mode='NER', test_bs=2)
+            predictions = self.model.predict([data], calculate_acc=False, training_mode='NER', test_bs=2)
+            print(predictions)
             clustered_items, other_entities = self.sort_items(predictions)
             # map back to the original location
             for entity in other_entities:
