@@ -6,8 +6,8 @@ from flask import Flask, request, jsonify
 
 app = Flask('levi_invoice_demo')
 
-model_path = prj_path + '/outputs/invoices_v1/model_epoch_30'
-question_list_file = prj_path + '/data/invoice/question_list.json'
+model_path = prj_path + '/outputs/model_epoch_30'
+question_list_file = prj_path + '/data/wine_menus/question_list.json'
 question_list = json.load(open(question_list_file, 'r', encoding='utf-8'))
 demo = LayoutLMDemo(model_path)
 

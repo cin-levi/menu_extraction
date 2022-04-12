@@ -127,10 +127,10 @@ def read_data(folder):
     # with open(prj_path + '/data/wine_menus/question_list.json', 'w', encoding='utf-8') as f:
     #     json.dump(sorted(list(set(all_keys))), f, ensure_ascii=False)
 
-    with open(prj_path + '/data/wine_menus/test.json', 'w', encoding='utf-8') as f:
+    with open(prj_path + '/data/wine_menus/train.json', 'w', encoding='utf-8') as f:
         json.dump(full_data, f, ensure_ascii=False)
 
 
 if __name__ == '__main__':
-    read_data(prj_path + '/data/json/testing')
+    read_data(prj_path + '/data/json/training')
     pass

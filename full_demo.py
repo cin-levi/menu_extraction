@@ -5,11 +5,7 @@ from models.inference import LayoutLMInference, LayoutLMV2Inference
 from unidecode import unidecode
 from uuid import uuid4
 from utils.convert_invoice_to_qa_format import normalize_boxes
-from models.kmean_grouping import sort_parts
-from utils.pdf_to_img import _convert_pdf_to_image
-import cv2
-import base64
-import numpy as np
+from models.sort_entities import sort_parts
 
 class LayoutLMDemo(object):
     def __init__(self, model_path, version='v1'):
@@ -33,10 +29,10 @@ class LayoutLMDemo(object):
                                  max([x[2] for x in entity['position']]),
                                  max([x[3] for x in entity['position']]),
                                  ]
-            accepted_entities.extend([x for x in output[key] if x['entity_type'] in ['item_name', 'item_number',
-                                                                                     'unit_price', 'sub_total']])
-            other_entities.extend([x for x in output[key] if x['entity_type'] not in ['item_name', 'item_number',
-                                                                                      'unit_price', 'sub_total']])
+            accepted_entities.extend([x for x in output[key] if x['entity_type'] in ['v', 'w', 'p']])
+            other_entities.extend([x for x in output[key] if x['entity_type'] not in ['v', 'w', 'p']])
+        #TODO: The algorithm need to be changed a bit here
+        # Use dbscan to detect the
         clustered_items = sort_parts(accepted_entities)[0]
         return clustered_items, other_entities
 
@@ -67,7 +63,7 @@ class LayoutLMDemo(object):
                 else:
                     a_item['quantity'] = e['text']
                 output_boxes.append(e)
-            if len(cluster)>1:
+            if len(cluster) > 1:
                 output_boxes.append(
                     {'entity_type': 'cluster',
                      'text': '    '.join([e['text'] for e in cluster]),
@@ -109,62 +105,58 @@ class LayoutLMDemo(object):
         min_y = min([float(x['bbox'][1]) for x in boxes])
         max_x = max([float(x['bbox'][2]) for x in boxes])
         max_y = max([float(x['bbox'][3]) for x in boxes])
-        final_text, bboxes, labels = normalize_boxes(boxes)
-        final_text = unidecode(final_text).lower()
 
-        data = {'title': 'test', 'paragraphs': [{'context': final_text, 'qas': [], "position": bboxes}]}
+        pages = sorted(list(set(x['page_number'] for x in boxes)))
+        output = {}
+        for p in pages:
+            if p == 5:
+                return output
+            _boxes = [box for box in boxes if box['page_number'] == p]
+            final_text, bboxes, labels = normalize_boxes(_boxes)
+            final_text = unidecode(final_text).lower()
 
-        for key in all_keys:
-            qa = {'question': key,
-                  'answers': [],
-                  'id': str(uuid4()),
-                  'is_impossible': True
-                  }
-            # else:
-            data['paragraphs'][0]['qas'].append(qa)
+            data = {'title': 'test', 'paragraphs': [{'context': final_text, 'qas': [], "position": bboxes}]}
 
-        full_data['data'].append(data)
-        predictions = self.model.predict(full_data['data'], calculate_acc=False, training_mode='NER', test_bs=2)
-        clustered_items, other_entities = self.sort_items(predictions)
-        # map back to the original location
-        for entity in other_entities:
-            # int((box[0] - min_x) / (max_x - min_x) * 1000)
-            entity['box'][0] = int(entity['box'][0] / 1000 * (max_x - min_x) + min_x)
-            entity['box'][1] = int(entity['box'][1] / 1000 * (max_y - min_y) + min_y)
-            entity['box'][2] = int(entity['box'][2] / 1000 * (max_x - min_x) + min_x)
-            entity['box'][3] = int(entity['box'][3] / 1000 * (max_y - min_y) + min_y)
-        for cluster in clustered_items:
-            for entity in cluster:
+            for key in all_keys:
+                qa = {'question': key,
+                      'answers': [],
+                      'id': str(uuid4()),
+                      'is_impossible': True
+                      }
+                # else:
+                data['paragraphs'][0]['qas'].append(qa)
+
+            full_data['data'].append(data)
+            predictions = self.model.predict(full_data['data'], calculate_acc=False, training_mode='NER', test_bs=2)
+            clustered_items, other_entities = self.sort_items(predictions)
+            # map back to the original location
+            for entity in other_entities:
+                # int((box[0] - min_x) / (max_x - min_x) * 1000)
                 entity['box'][0] = int(entity['box'][0] / 1000 * (max_x - min_x) + min_x)
                 entity['box'][1] = int(entity['box'][1] / 1000 * (max_y - min_y) + min_y)
                 entity['box'][2] = int(entity['box'][2] / 1000 * (max_x - min_x) + min_x)
                 entity['box'][3] = int(entity['box'][3] / 1000 * (max_y - min_y) + min_y)
-        json_output, output_boxes = self.write_output(clustered_items, other_entities)
-        img = document.imgs[0]
-        # for box in output_boxes:
-        #     cv2.rectangle(img, (box['box'][0], box['box'][1]), (box['box'][2], box['box'][3]), color=(255, 0, 255),
-        #                   thickness=1)
-        # cv2.imshow("debug", img)
-        # cv2.waitKey()
-        string_img = base64.b64encode(cv2.imencode('.jpg', img)[1]).decode()
-        output_img = {'boxes': output_boxes, "image": string_img}
-        return json_output, output_img
+            for cluster in clustered_items:
+                for entity in cluster:
+                    entity['box'][0] = int(entity['box'][0] / 1000 * (max_x - min_x) + min_x)
+                    entity['box'][1] = int(entity['box'][1] / 1000 * (max_y - min_y) + min_y)
+                    entity['box'][2] = int(entity['box'][2] / 1000 * (max_x - min_x) + min_x)
+                    entity['box'][3] = int(entity['box'][3] / 1000 * (max_y - min_y) + min_y)
+            json_output, output_boxes = self.write_output(clustered_items, other_entities)
+            output[p] = json_output
+        return output
 
 
 if __name__ == '__main__':
     from processors import prj_path
 
-    model_path = prj_path + '/outputs/invoices_v1/model_epoch_30'
-    question_list_file = prj_path + '/data/invoice/question_list.json'
+    model_path = prj_path + '/outputs/model_epoch_30'
+    question_list_file = prj_path + '/data/wine_menus/question_list.json'
     question_list = json.load(open(question_list_file, 'r', encoding='utf-8'))
     demo = LayoutLMDemo(model_path, version='v1')
 
-    pdf_file = prj_path + '/data/template_78.pdf'
-    json_output, output_img = demo.process(pdf_file, question_list)
-    string = output_img['image']
-    jpg_original = base64.b64decode(string)
-    jpg_as_np = np.frombuffer(jpg_original, dtype=np.uint8)
-    img = cv2.imdecode(jpg_as_np, flags=1)
-    cv2.imshow("img", img)
-    cv2.waitKey()
+    # pdf_file = prj_path + '/data/pdf/testing/Adda - wine reserve.pdf'
+    pdf_file = prj_path + '/data/pdf/testing/Batard.pdf'
+    output = demo.process(pdf_file, question_list)
+    print(output)
     # json.dump(json_output, open(prj_path + '/data/output.json', 'w', encoding='utf-8'), ensure_ascii=False)

@@ -4,7 +4,7 @@ import torch
 from tqdm import tqdm
 from datetime import datetime
 from models.layoutlm_model import NERLayoutLM
-from models.layoutlmv2_model import NERLayoutLMv2
+# from models.layoutlmv2_model import NERLayoutLMv2
 from processors.fastqa_based_processor import CustomProcessor, Result, NerResult
 
 from transformers import AutoTokenizer, BertConfig

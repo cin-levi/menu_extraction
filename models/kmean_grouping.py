@@ -6,6 +6,11 @@ import copy
 import math
 import collections
 
+"""
+The algorithm need to be adjusted because the price and the vintage is usually on the right of the name
+The Kmean is not good for this one, we nee
+"""
+
 
 def normalize_and_mapping_data(all_entities):
     all_consider_entities = sorted([e for e in all_entities], key=lambda x: (x['box'][1], x['box'][0]))
@@ -50,8 +55,8 @@ def sort_parts(all_entities: List[Dict] = None):
     group_completed = list(set([e['entity_type'] for e in all_consider_entities]))
     label_num = {label: sum([1 if e['entity_type'] == label else 0 for e in all_consider_entities]) for label in
                  group_completed}
-    max_cluster = max([label_num[l] for l in label_num])
-    min_cluster = min([label_num[l] for l in label_num])
+    num_cluster = len(label_num['p'])
+
 
     clusters_loss = []
     centers_candidate = []

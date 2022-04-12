@@ -14,7 +14,7 @@ if __name__ == '__main__':
 
     data_dir = prj_path + '/data/wine_menus/'
     train_file = f'train.json'
-    test_file = 'train.json'
+    test_file = 'test.json'
     output_dir = prj_path + '/outputs'
     cache_dir = prj_path + '/caches'
 
