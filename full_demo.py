@@ -7,6 +7,7 @@ from uuid import uuid4
 from utils.convert_invoice_to_qa_format import normalize_boxes
 from models.sort_entities import sort_parts
 
+
 class LayoutLMDemo(object):
     def __init__(self, model_path, version='v1'):
         if version == 'v1':
@@ -31,8 +32,10 @@ class LayoutLMDemo(object):
                                  ]
             accepted_entities.extend([x for x in output[key] if x['entity_type'] in ['v', 'w', 'p']])
             other_entities.extend([x for x in output[key] if x['entity_type'] not in ['v', 'w', 'p']])
-        #TODO: The algorithm need to be changed a bit here
+        # TODO: The algorithm need to be changed a bit here
         # Use dbscan to detect the
+        if len(accepted_entities) == 0:
+            return [], None
         clustered_items = sort_parts(accepted_entities)[0]
         return clustered_items, other_entities
 
