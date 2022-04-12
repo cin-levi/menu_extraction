@@ -1,0 +1,1345 @@
+[
+  {
+    "page_number": 1,
+    "text": "Menu — Adda",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "59.99",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.addanyc.com/menu",
+    "bbox": [
+      "712.70",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "We are open from Tue - Sun 5pm - 9pm for indoor and outdoor dining.",
+    "bbox": [
+      "268.39",
+      "130.32",
+      "573.02",
+      "140.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "×",
+    "bbox": [
+      "789.50",
+      "128.97",
+      "795.19",
+      "138.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ORIGINAL RECIPES, LOCAL TASTE",
+    "bbox": [
+      "309.31",
+      "170.95",
+      "530.05",
+      "181.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A",
+    "bbox": [
+      "328.89",
+      "207.58",
+      "354.67",
+      "248.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "d",
+    "bbox": [
+      "353.84",
+      "207.58",
+      "373.73",
+      "248.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "d",
+    "bbox": [
+      "374.55",
+      "207.58",
+      "394.43",
+      "248.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "a M",
+    "bbox": [
+      "395.26",
+      "207.58",
+      "454.33",
+      "248.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "en",
+    "bbox": [
+      "454.12",
+      "207.58",
+      "492.24",
+      "248.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "u",
+    "bbox": [
+      "493.06",
+      "207.58",
+      "512.29",
+      "248.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FOOD",
+    "bbox": [
+      "198.24",
+      "324.07",
+      "230.29",
+      "336.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DRINKS",
+    "bbox": [
+      "245.79",
+      "324.07",
+      "285.07",
+      "336.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BEER",
+    "bbox": [
+      "300.59",
+      "324.07",
+      "327.35",
+      "336.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE (GLASS)WINE (RESERVE)RESTAURANT WEEK",
+    "bbox": [
+      "342.86",
+      "324.07",
+      "643.46",
+      "336.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE",
+    "bbox": [
+      "396.36",
+      "377.17",
+      "445.35",
+      "394.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROOFTOP REDS, GRUNER VELTLINER",
+    "bbox": [
+      "101.25",
+      "429.88",
+      "316.08",
+      "442.25"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "ROOFTOP REDS, GRUNER VELTLINER",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$45",
+    "bbox": [
+      "387.50",
+      "429.49",
+      "403.83",
+      "440.74"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$45",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DOMAINE ZINCK, GEWURZTRAMINER",
+    "bbox": [
+      "437.88",
+      "429.88",
+      "655.97",
+      "442.25"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "DOMAINE ZINCK, GEWURZTRAMINER",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$50",
+    "bbox": [
+      "723.15",
+      "429.49",
+      "740.46",
+      "440.74"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "765.50",
+      "437.30",
+      "798.50",
+      "470.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "NEW YORK, 2018",
+    "bbox": [
+      "101.25",
+      "448.65",
+      "181.55",
+      "459.90"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "NEW YORK, 2018",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FRANCE, 2018",
+    "bbox": [
+      "437.88",
+      "448.65",
+      "503.62",
+      "459.90"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "FRANCE, 2018",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "AME DU VIN, COTES DE PROVENCE, ROSE,",
+    "bbox": [
+      "101.25",
+      "485.60",
+      "346.50",
+      "497.98"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "AME DU VIN, COTES DE PROVENCE, ROSE,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$50",
+    "bbox": [
+      "386.52",
+      "485.21",
+      "403.84",
+      "496.46"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GIESEN, SAUVIGNON BLANC",
+    "bbox": [
+      "437.88",
+      "485.60",
+      "602.88",
+      "497.98"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "GIESEN, SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$60",
+    "bbox": [
+      "722.20",
+      "485.21",
+      "740.47",
+      "496.46"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FRANCE, 2018",
+    "bbox": [
+      "101.25",
+      "504.38",
+      "166.99",
+      "515.62"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "FRANCE, 2018",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "NEW ZEALAND, 2018",
+    "bbox": [
+      "437.88",
+      "504.38",
+      "537.33",
+      "515.62"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "NEW ZEALAND, 2018",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1 av 4",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "24.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2022-04-10 09:54",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menu — Adda",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "59.99",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.addanyc.com/menu",
+    "bbox": [
+      "712.70",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RAEBURN, CHARDONNAY,",
+    "bbox": [
+      "101.25",
+      "39.26",
+      "251.82",
+      "51.64"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "RAEBURN, CHARDONNAY,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$60",
+    "bbox": [
+      "385.58",
+      "38.88",
+      "403.85",
+      "50.12"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CALIFORNIA, 2019",
+    "bbox": [
+      "101.25",
+      "58.04",
+      "187.49",
+      "69.29"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "CALIFORNIA, 2019",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RED",
+    "bbox": [
+      "406.52",
+      "152.54",
+      "435.18",
+      "169.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ANTUCURA, MALBEC",
+    "bbox": [
+      "101.25",
+      "205.24",
+      "222.72",
+      "217.61"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "ANTUCURA, MALBEC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$55",
+    "bbox": [
+      "388.31",
+      "204.85",
+      "403.84",
+      "216.10"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$55",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MIRZA GHALIB, RED BLEND",
+    "bbox": [
+      "437.88",
+      "205.24",
+      "597.07",
+      "217.61"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "MIRZA GHALIB, RED BLEND",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$50",
+    "bbox": [
+      "723.15",
+      "204.85",
+      "740.46",
+      "216.10"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MENDOZA, ARGENTINA, 2019",
+    "bbox": [
+      "101.25",
+      "224.01",
+      "241.53",
+      "235.26"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "MENDOZA, ARGENTINA, 2",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPAIN, 2016",
+    "bbox": [
+      "437.88",
+      "224.01",
+      "493.33",
+      "235.26"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "SPAIN, 2016",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2016",
+            "answer_start": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DOMAINE DE DIONYSOS, CAIRANNE LA",
+    "bbox": [
+      "101.25",
+      "260.96",
+      "329.46",
+      "273.34"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "DOMAINE DE DIONYSOS, CAIRANNE LA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$55",
+    "bbox": [
+      "388.31",
+      "260.58",
+      "403.84",
+      "271.83"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$55",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SCATTERED PEAKS, CABERNET SAUVIGNON",
+    "bbox": [
+      "437.88",
+      "260.96",
+      "693.73",
+      "273.34"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "SCATTERED PEAKS, CABERNET SAUVIGNON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$65",
+    "bbox": [
+      "723.99",
+      "260.58",
+      "740.47",
+      "271.83"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$65",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CIGALETTE",
+    "bbox": [
+      "101.25",
+      "275.81",
+      "166.55",
+      "288.19"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "CIGALETTE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "NAPA VALLEY, 2017",
+    "bbox": [
+      "437.88",
+      "279.74",
+      "529.23",
+      "290.99"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "NAPA VALLEY, 2017",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "FRANCE, 2016",
+    "bbox": [
+      "101.25",
+      "294.59",
+      "167.14",
+      "305.84"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "FRANCE, 2016",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2016",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PRIMARIUS WINERY, PINOT NOIR RESERVE",
+    "bbox": [
+      "437.88",
+      "316.69",
+      "687.37",
+      "329.06"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "PRIMARIUS WINERY, PINOT NOIR RESERVE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$60",
+    "bbox": [
+      "722.20",
+      "316.30",
+      "740.47",
+      "327.55"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "OREGON, UNITED STATES 2018",
+    "bbox": [
+      "437.88",
+      "335.46",
+      "587.24",
+      "346.71"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "OREGON, UNITED STATES 2018",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "",
+    "bbox": [
+      "765.50",
+      "437.30",
+      "798.50",
+      "470.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2 av 4",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "24.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2022-04-10 09:54",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Menu — Adda",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "59.99",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.addanyc.com/menu",
+    "bbox": [
+      "712.70",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "",
+    "bbox": [
+      "765.50",
+      "437.30",
+      "798.50",
+      "470.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3 av 4",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "24.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2022-04-10 09:54",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Menu — Adda",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "59.99",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.addanyc.com/menu",
+    "bbox": [
+      "712.70",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Reserve",
+    "bbox": [
+      "101.25",
+      "151.99",
+      "181.31",
+      "178.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Hours",
+    "bbox": [
+      "322.91",
+      "151.99",
+      "386.39",
+      "178.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Contact Us",
+    "bbox": [
+      "544.58",
+      "151.99",
+      "660.05",
+      "178.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "DINNER:",
+    "bbox": [
+      "322.91",
+      "207.06",
+      "379.13",
+      "217.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PHONE:",
+    "bbox": [
+      "544.58",
+      "207.06",
+      "600.32",
+      "217.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Tue–Sun | 5pm–9pm",
+    "bbox": [
+      "322.91",
+      "228.06",
+      "451.23",
+      "238.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "718.433.3888",
+    "bbox": [
+      "544.58",
+      "228.06",
+      "627.21",
+      "238.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "LUNCH:",
+    "bbox": [
+      "322.91",
+      "260.31",
+      "372.45",
+      "270.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "GENERAL INQUIRIES:",
+    "bbox": [
+      "544.58",
+      "260.31",
+      "694.23",
+      "270.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sat & Sun | 12pm–3pm",
+    "bbox": [
+      "322.91",
+      "281.31",
+      "467.01",
+      "291.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "hello@addanyc.com",
+    "bbox": [
+      "544.58",
+      "281.31",
+      "672.21",
+      "291.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Closed Mondays, Christmas,",
+    "bbox": [
+      "322.91",
+      "313.56",
+      "512.92",
+      "324.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PRESS INQUIRIES:",
+    "bbox": [
+      "544.58",
+      "313.56",
+      "674.59",
+      "324.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "& New Year’s Day",
+    "bbox": [
+      "322.91",
+      "334.56",
+      "436.50",
+      "345.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "press@addanyc.com",
+    "bbox": [
+      "544.58",
+      "334.56",
+      "674.44",
+      "345.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ADDA INDIAN CANTEEN | 31-31 THOMSON AVENUE LONG ISLAND CITY, NY 11101",
+    "bbox": [
+      "156.20",
+      "385.56",
+      "683.16",
+      "396.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "",
+    "bbox": [
+      "765.50",
+      "437.30",
+      "798.50",
+      "470.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4 av 4",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "24.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2022-04-10 09:54",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

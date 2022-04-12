@@ -1,0 +1,14 @@
+version: '2'
+
+services:
+  demo-invoice:
+    image: invoice:1.0
+    command: ['python3', 'api.py']
+    restart: always
+    container_name: demo_invoice
+    volumes:
+      - "./outputs:/opt/outputs"
+    ports:
+      - 5000:5000
+~
+~
