@@ -100,7 +100,7 @@ class LayoutLMDemo(object):
             for paragraph in document.paragraphs
         ]
         # process o here
-        full_data = {'data': []}
+        # full_data = {'data': []}
         min_x = min([float(x['bbox'][0]) for x in boxes])
         min_y = min([float(x['bbox'][1]) for x in boxes])
         max_x = max([float(x['bbox'][2]) for x in boxes])
@@ -126,7 +126,7 @@ class LayoutLMDemo(object):
                 # else:
                 data['paragraphs'][0]['qas'].append(qa)
 
-            full_data['data'].append(data)
+            full_data= {'data': data}
             predictions = self.model.predict(full_data['data'], calculate_acc=False, training_mode='NER', test_bs=2)
             clustered_items, other_entities = self.sort_items(predictions)
             # map back to the original location
@@ -155,8 +155,8 @@ if __name__ == '__main__':
     question_list = json.load(open(question_list_file, 'r', encoding='utf-8'))
     demo = LayoutLMDemo(model_path, version='v1')
 
-    # pdf_file = prj_path + '/data/pdf/testing/Adda - wine reserve.pdf'
-    pdf_file = prj_path + '/data/pdf/testing/Batard.pdf'
+    pdf_file = prj_path + '/data/pdf/testing/Adda - wine reserve.pdf'
+    # pdf_file = prj_path + '/data/pdf/testing/Batard.pdf'
     output = demo.process(pdf_file, question_list)
     print(output)
     # json.dump(json_output, open(prj_path + '/data/output.json', 'w', encoding='utf-8'), ensure_ascii=False)
