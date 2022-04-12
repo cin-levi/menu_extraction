@@ -35,7 +35,7 @@ class LayoutLMDemo(object):
         # TODO: The algorithm need to be changed a bit here
         # Use dbscan to detect the
         if len(accepted_entities) == 0:
-            return [], None
+            return [], []
         clustered_items = sort_parts(accepted_entities)[0]
         return clustered_items, other_entities
 
