@@ -18,15 +18,18 @@ class JsonData(BaseModel):
 
 @app.route("/inference", methods=['POST'])
 def inference():
-    file = request.files.get("file")
-    with open("tmp.pdf", 'wb') as f:
-        f.write(file.read())
+    try:
+        file = request.files.get("file")
+        with open("tmp.pdf", 'wb') as f:
+            f.write(file.read())
 
-    # Process
-    json_output, output_img = demo.process("tmp.pdf", question_list)
+        # Process
+        json_output = demo.process("tmp.pdf", question_list)
+    except Exception as e:
+        json_output = {'error': e}
 
     return jsonify(json_output)
 
 
 if __name__ == '__main__':
-    app.run('0.0.0.0', port=5000)
+    app.run('0.0.0.0', port=8000)
