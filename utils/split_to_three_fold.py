@@ -22,7 +22,8 @@ fold_indexes = [fold_0_indexes, fold_1_indexes, fold_2_indexes]
 
 for i in range(k):
     output_folder = data_folder + f'{fold_prefix}{i}'
-    test_idx = fold_indexes[i]
+    # test_idx = fold_indexes[i]
+    test_idx = all_indexes[i * avg_num_each_fold: (i + 1) * avg_num_each_fold]
     train_idx = [idx for idx in all_indexes if idx not in test_idx]
     train_samples = [data[idx] for idx in train_idx]
     test_samples = [data[idx] for idx in test_idx]
