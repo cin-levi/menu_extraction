@@ -1,0 +1,2578 @@
+[
+  {
+    "page_number": 1,
+    "text": "Menus | Claro BK in Brooklyn, NY",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "142.83",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.clarobk.com/menus/#coctel",
+    "bbox": [
+      "680.51",
+      "1.16",
+      "842.01",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "M",
+    "bbox": [
+      "310.73",
+      "307.05",
+      "376.98",
+      "361.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "376.98",
+      "307.05",
+      "411.76",
+      "361.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "N",
+    "bbox": [
+      "411.76",
+      "307.05",
+      "454.85",
+      "361.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "U",
+    "bbox": [
+      "454.85",
+      "307.05",
+      "497.73",
+      "361.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "S",
+    "bbox": [
+      "497.73",
+      "307.05",
+      "531.26",
+      "361.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "63.80",
+      "313.57",
+      "77.19",
+      "351.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "764.81",
+      "313.57",
+      "778.20",
+      "351.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1 av 8",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "24.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2022-04-10 19:11",
+    "bbox": [
+      "770.45",
+      "586.16",
+      "842.00",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menus | Claro BK in Brooklyn, NY",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "142.83",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.clarobk.com/menus/#coctel",
+    "bbox": [
+      "680.51",
+      "1.16",
+      "842.01",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Our menu is subject to day-of changes.",
+    "bbox": [
+      "310.84",
+      "173.25",
+      "531.68",
+      "185.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "We serve organic meat and produce, locally sourced whenever possible, and non-GMO, Oaxacan criollo corn, stone ground in-",
+    "bbox": [
+      "69.78",
+      "203.25",
+      "772.73",
+      "215.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "house. We are a gluten-free establishment, and all cheeses and sausages are made in-house.",
+    "bbox": [
+      "160.64",
+      "221.25",
+      "681.84",
+      "233.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "T.J. Steele, Executive Chef",
+    "bbox": [
+      "350.65",
+      "251.25",
+      "491.84",
+      "263.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MEZCAL LIST",
+    "bbox": [
+      "119.72",
+      "336.66",
+      "213.34",
+      "348.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MEZCAL FLIGHTS",
+    "bbox": [
+      "259.20",
+      "336.66",
+      "381.38",
+      "348.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BEVERAGES",
+    "bbox": [
+      "430.85",
+      "336.66",
+      "512.43",
+      "348.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DINNER",
+    "bbox": [
+      "561.89",
+      "336.66",
+      "616.56",
+      "348.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BRUNCH",
+    "bbox": [
+      "662.42",
+      "336.66",
+      "721.50",
+      "348.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BAR FOOD MENU",
+    "bbox": [
+      "302.83",
+      "371.46",
+      "424.42",
+      "383.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TAKE OUT",
+    "bbox": [
+      "470.27",
+      "371.46",
+      "538.41",
+      "383.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "C",
+    "bbox": [
+      "340.67",
+      "428.38",
+      "362.36",
+      "458.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "O",
+    "bbox": [
+      "361.91",
+      "428.38",
+      "387.11",
+      "458.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "C",
+    "bbox": [
+      "387.11",
+      "428.38",
+      "408.80",
+      "458.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TELES",
+    "bbox": [
+      "408.80",
+      "428.38",
+      "501.32",
+      "458.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SAN PASCUALITO",
+    "bbox": [
+      "350.04",
+      "479.87",
+      "491.97",
+      "494.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "El Buho Mezcal infused Shiso, Melate - Mango Brandy, Yuzu, Harry’s berries,",
+    "bbox": [
+      "209.85",
+      "502.35",
+      "632.14",
+      "514.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Whey, Club soda",
+    "bbox": [
+      "374.62",
+      "520.35",
+      "467.39",
+      "532.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1166",
+    "bbox": [
+      "413.51",
+      "538.35",
+      "428.86",
+      "550.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2 av 8",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "24.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2022-04-10 19:11",
+    "bbox": [
+      "770.45",
+      "586.16",
+      "842.00",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Menus | Claro BK in Brooklyn, NY",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "142.83",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.clarobk.com/menus/#coctel",
+    "bbox": [
+      "680.51",
+      "1.16",
+      "842.01",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TONICO CITRICO",
+    "bbox": [
+      "352.75",
+      "41.26",
+      "489.24",
+      "56.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Isolation Proof Winter Gin, Aveze Gentian Liquor, Kalani Coconut Liquor,",
+    "bbox": [
+      "219.90",
+      "63.75",
+      "622.12",
+      "75.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Citrus Oleo Saccharum, Lime, Tonic water",
+    "bbox": [
+      "304.96",
+      "81.75",
+      "537.03",
+      "93.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "1166",
+    "bbox": [
+      "413.51",
+      "99.75",
+      "428.86",
+      "111.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CLARO/OSCURO MILK PUNCH",
+    "bbox": [
+      "300.98",
+      "135.76",
+      "541.02",
+      "150.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Clari�ed - Mal Bien Mezcal, Don Fulano Tequila Reposado, Amontillado",
+    "bbox": [
+      "224.12",
+      "158.25",
+      "617.86",
+      "170.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sherry, Cocchi Americano, Demerara, Lemon, Charred Habanero Oil.",
+    "bbox": [
+      "229.71",
+      "176.25",
+      "612.30",
+      "188.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "1166",
+    "bbox": [
+      "413.51",
+      "194.25",
+      "428.86",
+      "206.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "JUNGLA MILK PUNCH",
+    "bbox": [
+      "333.25",
+      "230.26",
+      "508.75",
+      "245.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Clari�ed - El Buho Mezcal, El Tesoro Tequila Reposado, Campari, Pineapple,",
+    "bbox": [
+      "211.54",
+      "252.75",
+      "630.49",
+      "264.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Lime",
+    "bbox": [
+      "407.42",
+      "270.75",
+      "434.57",
+      "282.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "1166",
+    "bbox": [
+      "413.51",
+      "288.75",
+      "428.86",
+      "300.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MÁQUINA VERDE",
+    "bbox": [
+      "349.21",
+      "324.76",
+      "492.79",
+      "339.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "El Buho Mezcal, Green Chartreuse, Serrano, Cucumber, Coconut, Basil, Lime",
+    "bbox": [
+      "209.07",
+      "347.25",
+      "632.94",
+      "359.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "1155",
+    "bbox": [
+      "413.51",
+      "365.25",
+      "428.86",
+      "377.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "LE CLUB",
+    "bbox": [
+      "388.04",
+      "401.26",
+      "453.96",
+      "416.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "El Buho Mezcal, Hibiscus Shrub, Ginger, Lemon, Aquafaba, Bitters",
+    "bbox": [
+      "238.49",
+      "423.75",
+      "603.50",
+      "435.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "1155",
+    "bbox": [
+      "413.51",
+      "441.75",
+      "428.86",
+      "453.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CORAJILLO SHAKERATO",
+    "bbox": [
+      "323.85",
+      "477.76",
+      "518.15",
+      "492.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Oaxacan Cold Brew, Dekabend Oaxacan Rum, Licor 43, Gi�ard Banane Du",
+    "bbox": [
+      "214.49",
+      "500.25",
+      "627.51",
+      "512.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bresil Liqueur, Chocolate Dust",
+    "bbox": [
+      "336.75",
+      "518.25",
+      "505.22",
+      "530.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "1155",
+    "bbox": [
+      "413.51",
+      "536.25",
+      "428.86",
+      "548.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3 av 8",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "24.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2022-04-10 19:11",
+    "bbox": [
+      "770.45",
+      "586.16",
+      "842.00",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Menus | Claro BK in Brooklyn, NY",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "142.83",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.clarobk.com/menus/#coctel",
+    "bbox": [
+      "680.51",
+      "1.16",
+      "842.01",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "LA COLMENA",
+    "bbox": [
+      "366.24",
+      "41.26",
+      "475.75",
+      "56.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cimarron Tequila Blanco, Italicus Bergamot liquor, Honey/ Fennel, Jasmin tea,",
+    "bbox": [
+      "205.14",
+      "63.75",
+      "636.88",
+      "75.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Lemon - Alegria candy",
+    "bbox": [
+      "359.26",
+      "81.75",
+      "482.77",
+      "93.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "1155",
+    "bbox": [
+      "413.51",
+      "99.75",
+      "428.86",
+      "111.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "served hot",
+    "bbox": [
+      "391.29",
+      "117.75",
+      "450.70",
+      "129.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "V",
+    "bbox": [
+      "378.91",
+      "195.28",
+      "400.27",
+      "225.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "IN",
+    "bbox": [
+      "400.27",
+      "195.28",
+      "437.89",
+      "225.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "O",
+    "bbox": [
+      "437.89",
+      "195.28",
+      "463.09",
+      "225.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RAVENTOS I BLANC",
+    "bbox": [
+      "342.64",
+      "246.76",
+      "499.36",
+      "261.76"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "RAVENTOS I BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Blanc de Blancs - Conca del Riu Anoia, Spain. 2018",
+    "bbox": [
+      "281.61",
+      "269.25",
+      "560.37",
+      "281.25"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Blanc de Blancs - Conca del Riu Anoia, Spain",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "1155",
+    "bbox": [
+      "413.51",
+      "287.25",
+      "428.86",
+      "299.25"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "1155",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "6600",
+    "bbox": [
+      "413.51",
+      "305.25",
+      "428.86",
+      "317.25"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "6600",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "VALLE DE TINTOS. MONOGRAMA",
+    "bbox": [
+      "286.61",
+      "341.26",
+      "555.38",
+      "356.26"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "VALLE DE TINTOS. MONOGRAMA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cabernet Sauvignon, Merlot - Valle de Guadalupe, Baja California. Mexico",
+    "bbox": [
+      "217.44",
+      "363.75",
+      "624.56",
+      "375.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Cabernet Sauvignon, Merlot - Valle de Guadalupe, Baja California. Mexico",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2016",
+    "bbox": [
+      "407.27",
+      "381.75",
+      "434.72",
+      "393.75"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2016",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "1166",
+    "bbox": [
+      "413.51",
+      "399.75",
+      "428.86",
+      "411.75"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "1166",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "6655",
+    "bbox": [
+      "413.51",
+      "417.75",
+      "428.86",
+      "429.75"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "6655",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "V",
+    "bbox": [
+      "298.35",
+      "495.28",
+      "319.71",
+      "525.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "IN",
+    "bbox": [
+      "319.71",
+      "495.28",
+      "357.33",
+      "525.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "O",
+    "bbox": [
+      "357.33",
+      "495.28",
+      "382.53",
+      "525.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "N",
+    "bbox": [
+      "382.53",
+      "495.28",
+      "414.54",
+      "525.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "A",
+    "bbox": [
+      "414.54",
+      "495.28",
+      "438.54",
+      "525.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "TU",
+    "bbox": [
+      "438.24",
+      "495.28",
+      "480.00",
+      "525.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "R",
+    "bbox": [
+      "480.00",
+      "495.28",
+      "501.81",
+      "525.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "A",
+    "bbox": [
+      "501.81",
+      "495.28",
+      "525.81",
+      "525.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "L",
+    "bbox": [
+      "525.81",
+      "495.28",
+      "543.63",
+      "525.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4 av 8",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "24.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2022-04-10 19:11",
+    "bbox": [
+      "770.45",
+      "586.16",
+      "842.00",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Menus | Claro BK in Brooklyn, NY",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "142.83",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.clarobk.com/menus/#coctel",
+    "bbox": [
+      "680.51",
+      "1.16",
+      "842.01",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BICHI. NO NAME STILL",
+    "bbox": [
+      "328.59",
+      "41.26",
+      "513.40",
+      "56.26"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "BICHI. NO NAME STILL",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Dolcetto - Tijuanua, Mexico. 2018",
+    "bbox": [
+      "328.44",
+      "63.75",
+      "513.58",
+      "75.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Dolcetto - Tijuanua, Mexico. 2018",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "1166",
+    "bbox": [
+      "413.51",
+      "81.75",
+      "428.86",
+      "93.75"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "1166",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "6655",
+    "bbox": [
+      "413.51",
+      "99.75",
+      "428.86",
+      "111.75"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "6655",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "TRASIEGO. SELECCIÓN BLANCA",
+    "bbox": [
+      "294.90",
+      "135.76",
+      "547.09",
+      "150.76"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "TRASIEGO. SELECCIÓN BLANCA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Viognier, Arneis, Marsanne - Valle de Guadalupe, Baja California. Mexico 2020",
+    "bbox": [
+      "205.18",
+      "158.25",
+      "636.83",
+      "170.25"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Viognier, Arneis, Marsanne - Valle de Guadalupe, Baja California. Mexico",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 73
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "1166",
+    "bbox": [
+      "413.51",
+      "176.25",
+      "428.86",
+      "188.25"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "1166",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "6655",
+    "bbox": [
+      "413.51",
+      "194.25",
+      "428.86",
+      "206.25"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "6655",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "VALLE SECO. VINO DE MI PRIMA VERA",
+    "bbox": [
+      "264.25",
+      "230.26",
+      "577.74",
+      "245.26"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "VALLE SECO. VINO DE MI PRIMA VERA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet Sauvignon - Valle de Guadalupe, Baja California. Mexico 2019",
+    "bbox": [
+      "223.74",
+      "252.75",
+      "618.28",
+      "264.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Cabernet Sauvignon - Valle de Guadalupe, Baja California. Mexico",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "1166",
+    "bbox": [
+      "413.51",
+      "270.75",
+      "428.86",
+      "282.75"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "1166",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "6655",
+    "bbox": [
+      "413.51",
+      "288.75",
+      "428.86",
+      "300.75"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "6655",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "C",
+    "bbox": [
+      "347.75",
+      "366.28",
+      "369.44",
+      "396.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ER",
+    "bbox": [
+      "369.08",
+      "366.28",
+      "410.21",
+      "396.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "V",
+    "bbox": [
+      "410.21",
+      "366.28",
+      "431.57",
+      "396.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "EZ",
+    "bbox": [
+      "430.91",
+      "366.28",
+      "470.24",
+      "396.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "A",
+    "bbox": [
+      "470.24",
+      "366.28",
+      "494.24",
+      "396.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "FIVE BOROUGH BREWING CO. - TINY JUICY IPA",
+    "bbox": [
+      "230.62",
+      "417.76",
+      "611.37",
+      "432.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "88",
+    "bbox": [
+      "417.25",
+      "440.25",
+      "425.12",
+      "452.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "GHOSTFISH GRAPEFRUIT IPA",
+    "bbox": [
+      "304.26",
+      "476.26",
+      "537.72",
+      "491.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Gluten free",
+    "bbox": [
+      "389.49",
+      "498.75",
+      "452.51",
+      "510.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "88",
+    "bbox": [
+      "417.25",
+      "516.75",
+      "425.12",
+      "528.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5 av 8",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "24.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "2022-04-10 19:11",
+    "bbox": [
+      "770.45",
+      "586.16",
+      "842.00",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Menus | Claro BK in Brooklyn, NY",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "142.83",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://www.clarobk.com/menus/#coctel",
+    "bbox": [
+      "680.51",
+      "1.16",
+      "842.01",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "GHOSTFISH VANISHING POINT PALE ALE",
+    "bbox": [
+      "257.75",
+      "41.26",
+      "584.26",
+      "56.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Gluten free",
+    "bbox": [
+      "389.49",
+      "63.75",
+      "452.51",
+      "75.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "88",
+    "bbox": [
+      "417.25",
+      "81.75",
+      "425.12",
+      "93.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "GHOSTFISH WATCHSTANDER STOUT",
+    "bbox": [
+      "275.82",
+      "117.76",
+      "566.18",
+      "132.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Gluten free",
+    "bbox": [
+      "389.49",
+      "140.25",
+      "452.51",
+      "152.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "1100",
+    "bbox": [
+      "413.51",
+      "158.25",
+      "428.86",
+      "170.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "N",
+    "bbox": [
+      "293.36",
+      "235.78",
+      "317.30",
+      "265.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "/A",
+    "bbox": [
+      "317.30",
+      "235.78",
+      "351.56",
+      "265.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "B",
+    "bbox": [
+      "351.56",
+      "235.78",
+      "382.34",
+      "265.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "EV",
+    "bbox": [
+      "382.34",
+      "235.78",
+      "423.02",
+      "265.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ER",
+    "bbox": [
+      "422.36",
+      "235.78",
+      "463.49",
+      "265.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "A",
+    "bbox": [
+      "463.49",
+      "235.78",
+      "487.49",
+      "265.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "G",
+    "bbox": [
+      "487.49",
+      "235.78",
+      "510.65",
+      "265.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ES",
+    "bbox": [
+      "510.65",
+      "235.78",
+      "548.60",
+      "265.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "AGUA FRESCA",
+    "bbox": [
+      "364.09",
+      "287.26",
+      "477.89",
+      "302.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Mango Tepache",
+    "bbox": [
+      "376.56",
+      "309.75",
+      "465.44",
+      "321.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "77",
+    "bbox": [
+      "417.25",
+      "327.75",
+      "425.12",
+      "339.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "AGUA FRESCA",
+    "bbox": [
+      "364.09",
+      "363.76",
+      "477.89",
+      "378.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Matcha Sesame Horchata",
+    "bbox": [
+      "349.51",
+      "386.25",
+      "492.50",
+      "398.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "77",
+    "bbox": [
+      "417.25",
+      "404.25",
+      "425.12",
+      "416.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MEXICAN COKE",
+    "bbox": [
+      "356.81",
+      "440.26",
+      "485.18",
+      "455.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "66",
+    "bbox": [
+      "417.25",
+      "462.75",
+      "425.12",
+      "474.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "JARRITOS MANDARIN",
+    "bbox": [
+      "330.64",
+      "498.76",
+      "511.36",
+      "513.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "66",
+    "bbox": [
+      "417.25",
+      "521.25",
+      "425.12",
+      "533.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6 av 8",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "24.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2022-04-10 19:11",
+    "bbox": [
+      "770.45",
+      "586.16",
+      "842.00",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Menus | Claro BK in Brooklyn, NY",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "142.83",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://www.clarobk.com/menus/#coctel",
+    "bbox": [
+      "680.51",
+      "1.16",
+      "842.01",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SARATOGA SPARKLING WATER",
+    "bbox": [
+      "295.62",
+      "41.26",
+      "546.38",
+      "56.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "44",
+    "bbox": [
+      "417.25",
+      "63.75",
+      "425.12",
+      "75.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "1100",
+    "bbox": [
+      "413.51",
+      "81.75",
+      "428.86",
+      "93.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "OAXACA COLD BREW COFFEE",
+    "bbox": [
+      "302.44",
+      "117.76",
+      "539.56",
+      "132.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "66",
+    "bbox": [
+      "417.25",
+      "140.25",
+      "425.12",
+      "152.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "FRENCH PRESS OAXACAN COFFEE",
+    "bbox": [
+      "286.16",
+      "176.26",
+      "555.83",
+      "191.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "1122",
+    "bbox": [
+      "413.51",
+      "198.75",
+      "428.86",
+      "210.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "B",
+    "bbox": [
+      "253.30",
+      "276.28",
+      "276.01",
+      "306.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "R",
+    "bbox": [
+      "276.01",
+      "276.28",
+      "297.82",
+      "306.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "U",
+    "bbox": [
+      "297.82",
+      "276.28",
+      "321.64",
+      "306.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "N",
+    "bbox": [
+      "321.64",
+      "276.28",
+      "345.58",
+      "306.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "C",
+    "bbox": [
+      "345.58",
+      "276.28",
+      "367.27",
+      "306.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "H",
+    "bbox": [
+      "367.27",
+      "276.28",
+      "391.63",
+      "306.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "B",
+    "bbox": [
+      "391.63",
+      "276.28",
+      "422.41",
+      "306.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "EV",
+    "bbox": [
+      "422.41",
+      "276.28",
+      "463.09",
+      "306.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ER",
+    "bbox": [
+      "462.46",
+      "276.28",
+      "503.59",
+      "306.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "A",
+    "bbox": [
+      "503.59",
+      "276.28",
+      "527.59",
+      "306.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "G",
+    "bbox": [
+      "527.59",
+      "276.28",
+      "550.75",
+      "306.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ES",
+    "bbox": [
+      "550.75",
+      "276.28",
+      "588.70",
+      "306.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SALUDA AL SOL SPRITZ",
+    "bbox": [
+      "326.76",
+      "327.76",
+      "515.22",
+      "342.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Hibiscus all spice, blanc de blancs sparkling wine",
+    "bbox": [
+      "285.84",
+      "350.25",
+      "556.18",
+      "362.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "1155",
+    "bbox": [
+      "413.51",
+      "368.25",
+      "428.86",
+      "380.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BLOODY MARIA",
+    "bbox": [
+      "353.99",
+      "404.26",
+      "488.00",
+      "419.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Choice of Mezcal or Tequila, umami, tomato, arbol / guajillo chili, chorizo,",
+    "bbox": [
+      "217.55",
+      "426.75",
+      "624.45",
+      "438.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "morena",
+    "bbox": [
+      "399.00",
+      "444.75",
+      "443.00",
+      "456.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "1155",
+    "bbox": [
+      "413.51",
+      "462.75",
+      "428.86",
+      "474.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MICHELADA",
+    "bbox": [
+      "369.23",
+      "498.76",
+      "472.76",
+      "513.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "1122",
+    "bbox": [
+      "413.51",
+      "521.25",
+      "428.86",
+      "533.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7 av 8",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "24.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "2022-04-10 19:11",
+    "bbox": [
+      "770.45",
+      "586.16",
+      "842.00",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Menus | Claro BK in Brooklyn, NY",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "142.83",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://www.clarobk.com/menus/#coctel",
+    "bbox": [
+      "680.51",
+      "1.16",
+      "842.01",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "",
+    "bbox": [
+      "66.31",
+      "109.20",
+      "73.17",
+      "121.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "",
+    "bbox": [
+      "90.21",
+      "109.20",
+      "100.50",
+      "121.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "PRESS",
+    "bbox": [
+      "651.97",
+      "110.51",
+      "694.87",
+      "122.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CONTACT",
+    "bbox": [
+      "711.60",
+      "110.51",
+      "776.75",
+      "122.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "powered by BentoBox",
+    "bbox": [
+      "373.65",
+      "150.52",
+      "467.59",
+      "158.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8 av 8",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "24.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "2022-04-10 19:11",
+    "bbox": [
+      "770.45",
+      "586.16",
+      "842.00",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

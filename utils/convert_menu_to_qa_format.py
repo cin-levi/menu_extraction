@@ -38,13 +38,17 @@ def normalize_boxes(boxes):
                         for other_annotation in annotation[other_label]:
                             for wine_annotation in annotation['w']:
                                 if other_annotation['text'] in wine_annotation['text']:
+                                    # if not wine_annotation['test'].strip().endswith(other_annotation['text'].strip()):
+                                    #     another_wine
                                     wine_annotation['text'] = wine_annotation['text'][:wine_annotation['text'].find(
                                         other_annotation['text'])]
+
         for annotation in box['annots']:
             if annotation:
                 for label in annotation:
                     for answer in annotation[label]:
-                        if label not in ['w', 'v', 'p']:
+                        if label.strip() not in ['w', 'v', 'p']:
+                            print(label)
                             1 / 0
                         start_sentence = len(full_text) + 1 if len(full_text) > 0 else 0
                         start_answer = start_sentence + answer['answer_start']
@@ -124,13 +128,13 @@ def read_data(folder):
                 data['paragraphs'][0]['qas'].append(qa)
             full_data['data'].append(data)
 
-    # with open(prj_path + '/data/wine_menus/question_list.json', 'w', encoding='utf-8') as f:
-    #     json.dump(sorted(list(set(all_keys))), f, ensure_ascii=False)
+    with open(prj_path + '/data/question_list.json', 'w', encoding='utf-8') as f:
+        json.dump(sorted(list(set(all_keys))), f, ensure_ascii=False)
 
-    with open(prj_path + '/data/wine_menus/train.json', 'w', encoding='utf-8') as f:
+    with open(prj_path + '/data/full.json', 'w', encoding='utf-8') as f:
         json.dump(full_data, f, ensure_ascii=False)
 
 
 if __name__ == '__main__':
-    read_data(prj_path + '/data/json/training')
+    read_data(prj_path + '/data/json')
     pass

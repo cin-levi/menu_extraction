@@ -339,3 +339,5 @@ class Trainer(object):
             if i % SAVE_EVERY == 0:
                 print("save check point ...")
                 self.save(output_dir + f'/model_epoch_{i}')
+        return report_dict
+
