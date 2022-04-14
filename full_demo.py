@@ -5,7 +5,7 @@ from models.inference import LayoutLMInference, LayoutLMV2Inference
 from unidecode import unidecode
 from uuid import uuid4
 from utils.convert_invoice_to_qa_format import normalize_boxes
-from models.sort_entities import sort_parts
+from models.sort_entities import sort_entities
 
 
 class LayoutLMDemo(object):
@@ -14,58 +14,34 @@ class LayoutLMDemo(object):
             self.model = LayoutLMInference.load_from_checkpoint(model_path)
         else:
             self.model = LayoutLMV2Inference.load_from_checkpoint(model_path)
-        self.label_dict = {'b': 'brand',
-                           'ba': 'brand_address',
-                           'pname': 'payment_name',
-                           'pnum': 'payment_number'}
+        self.label_dict = {'w': 'wine_name',
+                           'v': 'vintage',
+                           'p': 'price'}
         pass
-
-    def sort_items(self, output):
-        accepted_entities = []
-        other_entities = []
-        for key in output:
-            for entity in output[key]:
-                entity['box'] = [min([x[0] for x in entity['position']]),
-                                 min([x[1] for x in entity['position']]),
-                                 max([x[2] for x in entity['position']]),
-                                 max([x[3] for x in entity['position']]),
-                                 ]
-            accepted_entities.extend([x for x in output[key] if x['entity_type'] in ['v', 'w', 'p']])
-            other_entities.extend([x for x in output[key] if x['entity_type'] not in ['v', 'w', 'p']])
-        # TODO: The algorithm need to be changed a bit here
-        # Use dbscan to detect the
-        if len(accepted_entities) == 0:
-            return [], []
-        clustered_items = sort_parts(accepted_entities)[0]
-        return clustered_items, other_entities
 
     def write_output(self, clustered_items, other_entities):
         output_boxes = []
-        output = {'items': []}
+        output = []
         for e in other_entities:
+            _wine = {}
             if e['entity_type'] in self.label_dict:
                 label = self.label_dict[e['entity_type']]
             else:
                 label = e['entity_type']
-            if label not in output:
-                output[label] = ''
-            output[label] += ' ' + e['text']
+            if label not in _wine:
+                _wine[label] = ''
+            _wine[label] += ' ' + e['text']
             output_boxes.append(e)
-            print(e)
+
         for cluster in clustered_items:
-            print(cluster)
             a_item = {}
             for e in cluster:
-
-                if e['entity_type'] != 'item_number':
-                    if e['entity_type'] in self.label_dict:
-                        label = self.label_dict[e['entity_type']]
-                    else:
-                        label = e['entity_type']
-                    a_item[label] = e['text']
-                else:
-                    a_item['quantity'] = e['text']
+                label = e['entity_type']
+                if label not in a_item:
+                    a_item[label] = ''
+                a_item[label] += ' ' + e['text']
                 output_boxes.append(e)
+            output.append(a_item)
             if len(cluster) > 1:
                 output_boxes.append(
                     {'entity_type': 'cluster',
@@ -77,10 +53,10 @@ class LayoutLMDemo(object):
                          max([e['box'][3] + 2 for e in cluster])
                      ]}
                 )
-            output['items'].append(a_item)
         return output, output_boxes
 
     def process(self, pdf, all_keys):
+        full_predictions = {}
         with tempfile.TemporaryDirectory() as tmpdir:
             print("tmpdir: ", tmpdir)
             clean_pdf_path = tmpdir + '/file.pdf'
@@ -112,7 +88,7 @@ class LayoutLMDemo(object):
         pages = sorted(list(set(x['page_number'] for x in boxes)))
         output = {}
         for p in pages:
-            if p == 5:
+            if p == 6:
                 return output
             _boxes = [box for box in boxes if box['page_number'] == p]
             final_text, bboxes, labels = normalize_boxes(_boxes)
@@ -130,8 +106,9 @@ class LayoutLMDemo(object):
                 data['paragraphs'][0]['qas'].append(qa)
 
             predictions = self.model.predict([data], calculate_acc=False, training_mode='NER', test_bs=2)
-            print(predictions)
-            clustered_items, other_entities = self.sort_items(predictions)
+            full_predictions[p] = predictions
+
+            clustered_items, other_entities = sort_entities(predictions)
             # map back to the original location
             for entity in other_entities:
                 # int((box[0] - min_x) / (max_x - min_x) * 1000)
@@ -147,18 +124,20 @@ class LayoutLMDemo(object):
                     entity['box'][3] = int(entity['box'][3] / 1000 * (max_y - min_y) + min_y)
             json_output, output_boxes = self.write_output(clustered_items, other_entities)
             output[p] = json_output
+        with open('predictions.json', 'w', encoding='utf-8') as f:
+            json.dump(full_predictions, f, ensure_ascii=False)
         return output
 
 
 if __name__ == '__main__':
     from processors import prj_path
 
-    model_path = prj_path + '/outputs/model_epoch_30'
-    question_list_file = prj_path + '/data/wine_menus/question_list.json'
+    model_path = prj_path + '/outputs/model_epoch_20'
+    question_list_file = prj_path + '/data/question_list.json'
     question_list = json.load(open(question_list_file, 'r', encoding='utf-8'))
     demo = LayoutLMDemo(model_path, version='v1')
 
-    pdf_file = prj_path + '/data/pdf/testing/Adda - wine reserve.pdf'
+    pdf_file = prj_path + '/data/pdf/City Vineyard(second menu).pdf'
     # pdf_file = prj_path + '/data/pdf/testing/Batard.pdf'
     output = demo.process(pdf_file, question_list)
     print(output)
