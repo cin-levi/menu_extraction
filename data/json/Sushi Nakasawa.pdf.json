@@ -2113,7 +2113,14 @@
       "129.93"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Tatenokawa, Kyogugen - 8%, Junmai Daiginjo",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2126,7 +2133,14 @@
       "125.94"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "920",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2139,7 +2153,14 @@
       "146.40"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Toko, Divine Droplets, Junmai Daiginjo Shizuku",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2152,7 +2173,14 @@
       "142.41"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "235",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2165,7 +2193,14 @@
       "179.52"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Heavensake, Junmai Ginjo",
+            "answer_start": 7
+          }
+        ]
+      }
     ]
   },
   {
@@ -2178,7 +2213,14 @@
       "175.53"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "135",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2191,7 +2233,14 @@
       "196.08"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Katsuyama, Diamond Akatsuki, Junmai Daiginjo",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2204,7 +2253,14 @@
       "192.09"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "1520",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2217,7 +2273,14 @@
       "212.64"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Niizawa, Atako No Matsu, Tokubetsu Honjozo",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2230,7 +2293,14 @@
       "208.65"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2243,7 +2313,14 @@
       "229.20"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Niizawa, Hojun, Yuzushu",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2256,7 +2333,14 @@
       "225.21"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "80",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2269,7 +2353,14 @@
       "245.78"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Niizawa, Super 7 - 2019, Junmai Daiginjo",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2282,7 +2373,14 @@
       "241.79"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "3600",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2295,7 +2393,14 @@
       "262.34"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Niizawa, Absolute 0, Junmai Daiginjo",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2308,7 +2413,14 @@
       "258.35"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "14000",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2321,7 +2433,14 @@
       "278.90"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Urakasumi, Junmai Daiginjo",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2334,7 +2453,14 @@
       "274.91"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "225",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2347,7 +2473,14 @@
       "312.02"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Asabiraki, Kyokusen, Junmai Daiginjo",
+            "answer_start": 6
+          }
+        ]
+      }
     ]
   },
   {
@@ -2360,7 +2493,14 @@
       "308.03"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "440",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2373,7 +2513,14 @@
       "328.61"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Nanbu Bijin, Ten Year, Junmai Daiginjo Koshu",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2386,7 +2533,14 @@
       "324.59"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "1210",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

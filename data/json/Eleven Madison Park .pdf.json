@@ -3325,7 +3325,14 @@
       "218.80"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Weinlaubenhof Kracher, Auslese, Neusiedlersee, Burgenland, Austria",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3338,7 +3345,14 @@
       "215.92"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3351,7 +3365,14 @@
       "229.60"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "2017",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3390,7 +3411,14 @@
       "283.86"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Albert Boxler, Sommerberg Grand Cru, Vendages Tardives, Alsace,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3403,7 +3431,14 @@
       "280.98"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "28",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3416,7 +3451,20 @@
       "294.66"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "France 2011",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2011",
+            "answer_start": 7
+          }
+        ]
+      }
     ]
   },
   {
@@ -3442,7 +3490,20 @@
       "343.62"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Peller Estates, Ice Wine, Niagara-on-the-Lake, Ontario, Canada",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 63
+          }
+        ]
+      }
     ]
   },
   {
@@ -3455,7 +3516,14 @@
       "340.74"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "35",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3481,7 +3549,20 @@
       "394.02"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Cauhapé,Symphonie de Novembre,Jurançon, Southwest, France",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2015",
+            "answer_start": 58
+          }
+        ]
+      }
     ]
   },
   {
@@ -3494,7 +3575,14 @@
       "391.14"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3520,7 +3608,20 @@
       "444.42"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Château Raymond-Lafon, Sauternes, Bordeaux, France",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2010",
+            "answer_start": 51
+          }
+        ]
+      }
     ]
   },
   {
@@ -3533,7 +3634,14 @@
       "441.54"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "25",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3559,7 +3667,20 @@
       "480.68"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Château d'Yquem, Sauternes, Bordeaux, France",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "1997",
+            "answer_start": 45
+          }
+        ]
+      }
     ]
   },
   {
@@ -3572,7 +3693,14 @@
       "481.40"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "95",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3598,7 +3726,20 @@
       "534.68"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Oremus, 5 Puttonyos, Aszú, Tokaj, Hungary",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2010",
+            "answer_start": 42
+          }
+        ]
+      }
     ]
   },
   {
@@ -3611,7 +3752,14 @@
       "531.80"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "40",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

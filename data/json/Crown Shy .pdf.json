@@ -2277,7 +2277,14 @@
       "133.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Chartogne-Taillet Saint Thierry",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2290,7 +2297,20 @@
       "132.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "2016",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "150",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -2316,7 +2336,14 @@
       "145.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Hugues Godmé Extra Brut",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2329,7 +2356,14 @@
       "144.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "NV",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2342,7 +2376,14 @@
       "144.05"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2368,7 +2409,14 @@
       "157.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Minière F&R Influence",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2381,7 +2429,20 @@
       "156.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "NV",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "110",
+            "answer_start": 2
+          }
+        ]
+      }
     ]
   },
   {
@@ -2407,7 +2468,14 @@
       "169.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Mouzon Leroux L'Atavique",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2420,7 +2488,14 @@
       "168.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "NV",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2433,7 +2508,14 @@
       "168.05"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "80",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2459,7 +2541,14 @@
       "181.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Pierre Paillard Les Parcelles XII",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2472,7 +2561,14 @@
       "180.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "NV",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2485,7 +2581,14 @@
       "180.05"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "90",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2524,7 +2627,14 @@
       "223.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Pierre Baillette Coeur de Craie",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2537,7 +2647,20 @@
       "222.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "2015",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "115",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -2563,7 +2686,14 @@
       "235.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Robert Barbichon",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2576,7 +2706,14 @@
       "234.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "NV",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2589,7 +2726,14 @@
       "234.05"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2615,7 +2759,14 @@
       "247.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Chartogne-Taillet Les Barres",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2628,7 +2779,20 @@
       "246.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "2013",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "195",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -2654,7 +2818,14 @@
       "259.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Chartogne-Taillet Les Couarres",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2667,7 +2838,20 @@
       "258.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "2016",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "150",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -2693,7 +2877,14 @@
       "271.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "David Léclapart L'Astre",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2706,7 +2897,20 @@
       "270.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "2013",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "275",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -2732,7 +2936,14 @@
       "283.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Marguet Verzenay",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2745,7 +2956,20 @@
       "282.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "2016",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "130",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -2771,7 +2995,14 @@
       "295.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Moussé Fils L'Or d'Eugene",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2784,7 +3015,14 @@
       "294.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "NV",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2797,7 +3035,14 @@
       "294.05"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2823,7 +3068,14 @@
       "307.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Guillaume Sergent Le Chemin des Chappes",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2836,7 +3088,14 @@
       "306.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "NV",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2849,7 +3108,14 @@
       "306.05"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "90",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2875,7 +3141,14 @@
       "319.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Ulysse Collin Les Maillons",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2888,7 +3161,20 @@
       "318.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "2016",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "170",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -2953,7 +3239,14 @@
       "121.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Pierre Callot Les Avats",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2966,7 +3259,20 @@
       "120.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "2009",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "110",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -2992,7 +3298,14 @@
       "133.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Doyard Extra Brut",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3005,7 +3318,20 @@
       "132.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "2012",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "185",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -3031,7 +3357,14 @@
       "145.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Doyard Extra Brut Les Lumières",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3044,7 +3377,20 @@
       "144.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "2008",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "460",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -3070,7 +3416,14 @@
       "157.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Serge Gallois",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3083,7 +3436,14 @@
       "156.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "NV",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3096,7 +3456,14 @@
       "156.05"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "70",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3122,7 +3489,14 @@
       "169.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "J.L. Vergnon Murmure",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3135,7 +3509,14 @@
       "168.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "NV",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3148,7 +3529,14 @@
       "168.05"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "80",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3174,7 +3562,14 @@
       "181.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "David Léclapart L'Apôtre",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3187,7 +3582,20 @@
       "180.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "2010",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "210",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -3213,7 +3621,14 @@
       "193.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "A. Margaine Special Club",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3226,7 +3641,20 @@
       "192.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "2013",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "150",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -3252,7 +3680,14 @@
       "205.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Robert Moncuit Le Grand Blancs",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3265,7 +3700,14 @@
       "204.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "NV",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3278,7 +3720,14 @@
       "204.05"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "75",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3304,7 +3753,14 @@
       "217.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Robert Moncuit Les Chétillons",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3317,7 +3773,20 @@
       "216.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "2015",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "230",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -3343,7 +3812,14 @@
       "229.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Clement Perseval",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3356,7 +3832,20 @@
       "228.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "2016",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "100",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -3382,7 +3871,14 @@
       "241.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Adrien Renoir Les Montants",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3395,7 +3891,20 @@
       "240.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "2015",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "160",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -3421,7 +3930,14 @@
       "253.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Varnier-Fanniere Cuvée Saint Denis",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3434,7 +3950,20 @@
       "252.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "NV",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "115",
+            "answer_start": 2
+          }
+        ]
+      }
     ]
   },
   {
@@ -3460,7 +3989,14 @@
       "265.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Vouette & Sorbée Brut Nature Blanc D'Argile",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3473,7 +4009,20 @@
       "264.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "190",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -3499,7 +4048,14 @@
       "277.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Vouette & Sorbée Extra Brut Blanc D'Argile (1.5L)",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3512,7 +4068,20 @@
       "276.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "2015",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "330",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -3538,7 +4107,14 @@
       "289.17"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Vouette et Sorbée Textures",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3551,7 +4127,20 @@
       "288.05"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "195",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {

@@ -218,7 +218,7 @@
     ],
     "annots": [
       {
-        "w": [
+        "wine": [
           {
             "text": "LA CHEVALIERE, ROSE",
             "answer_start": 0
@@ -238,7 +238,7 @@
     ],
     "annots": [
       {
-        "p": [
+        "price": [
           {
             "text": "$9",
             "answer_start": 0
@@ -258,7 +258,7 @@
     ],
     "annots": [
       {
-        "w": [
+        "wine": [
           {
             "text": "ALVERDI, PINOT GRIGIO, TERRE DEGLI OSCI",
             "answer_start": 0
@@ -278,7 +278,7 @@
     ],
     "annots": [
       {
-        "p": [
+        "price": [
           {
             "text": "$9",
             "answer_start": 0
@@ -311,13 +311,13 @@
     ],
     "annots": [
       {
-        "w": [
+        "wine": [
           {
             "text": "FRANCE, 2019",
             "answer_start": 0
           }
         ],
-        "v": [
+        "vintage": [
           {
             "text": "2019",
             "answer_start": 8
@@ -337,13 +337,13 @@
     ],
     "annots": [
       {
-        "w": [
+        "wine": [
           {
             "text": "ITALY, 2017",
             "answer_start": 0
           }
         ],
-        "p": [
+        "vintage": [
           {
             "text": "2017",
             "answer_start": 7

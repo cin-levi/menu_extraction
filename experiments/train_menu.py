@@ -3,7 +3,7 @@ import json
 
 from processors import prj_path
 
-# from neptune_credentials import fastqa_credential
+from neptune_credentials import fastqa_credential
 import os
 
 fold_prefix = 'fold_'
@@ -36,7 +36,7 @@ def train_kfold(data_folder, output_folder):
 
         report_fold = trainer.train(data_dir=data_dir, train_filename=train_file, test_filename=test_file,
                                     output_dir=output_dir,
-                                    train_bs=batch_size, test_bs=batch_size, num_train_epochs=20, cache_dir=cache_dir,
+                                    train_bs=batch_size, test_bs=batch_size, num_train_epochs=10, cache_dir=cache_dir,
                                     override_cache=True,
                                     report_name=f'menu_v1_{fold_prefix}{i}' + training_mode,
                                     training_mode=training_mode,
@@ -71,7 +71,7 @@ def train_full_data(data_dir, output_folder):
 
     trainer.train(data_dir=data_dir, train_filename=train_file, test_filename=test_file,
                   output_dir=output_dir,
-                  train_bs=batch_size, test_bs=batch_size, num_train_epochs=20, cache_dir=cache_dir,
+                  train_bs=batch_size, test_bs=batch_size, num_train_epochs=10, cache_dir=cache_dir,
                   override_cache=True,
                   report_name=f'menu_v1_full' + training_mode,
                   training_mode=training_mode,

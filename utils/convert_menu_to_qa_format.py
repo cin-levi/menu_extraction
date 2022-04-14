@@ -47,6 +47,12 @@ def normalize_boxes(boxes):
             if annotation:
                 for label in annotation:
                     for answer in annotation[label]:
+                        if label in ['wine', 'ww']:
+                            label = 'w'
+                        elif label == 'vintage':
+                            label = 'v'
+                        elif label == 'price':
+                            label = 'p'
                         if label.strip() not in ['w', 'v', 'p']:
                             print(label)
                             1 / 0
@@ -96,12 +102,15 @@ def read_data(folder):
         for box in boxes:
             box_in_pages[box['page_number']].append(box['annots'][0] is not None)
         page_with_annotation = [p for p in box_in_pages if any(box_in_pages[p])]
-        if len(pages) > 5:
-            max_page = max(page_with_annotation)
-            print('max_page: ', max_page)
-            accepted_pages = [p for p in pages if p <= max_page]
-        else:
-            accepted_pages = pages
+
+        # if len(pages) > 5:
+        #     max_page = max(page_with_annotation)
+        #     print('max_page: ', max_page)
+        #     accepted_pages = [p for p in pages if p <= max_page]
+        # else:
+        #     accepted_pages = pages
+        accepted_pages = page_with_annotation
+
         for p in accepted_pages:
 
             _boxes = [box for box in boxes if box['page_number'] == p]

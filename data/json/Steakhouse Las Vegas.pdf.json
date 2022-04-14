@@ -152,12 +152,6 @@
             "text": "$12",
             "answer_start": 0
           }
-        ],
-        "w": [
-          {
-            "text": "$12",
-            "answer_start": 0
-          }
         ]
       }
     ]
@@ -173,16 +167,16 @@
     ],
     "annots": [
       {
+        "w": [
+          {
+            "text": "Argentina",
+            "answer_start": 0
+          }
+        ],
         "v": [
           {
             "text": "2020",
             "answer_start": 10
-          }
-        ],
-        "w": [
-          {
-            "text": "Argentina 2020 (Bottle $46)",
-            "answer_start": 0
           }
         ]
       }
@@ -224,12 +218,6 @@
             "text": "$12",
             "answer_start": 0
           }
-        ],
-        "w": [
-          {
-            "text": "$12",
-            "answer_start": 0
-          }
         ]
       }
     ]
@@ -253,7 +241,7 @@
         ],
         "w": [
           {
-            "text": "California 2019 (Bottle $48)",
+            "text": "California",
             "answer_start": 0
           }
         ]
@@ -296,12 +284,6 @@
             "text": "$14",
             "answer_start": 0
           }
-        ],
-        "w": [
-          {
-            "text": "$14",
-            "answer_start": 0
-          }
         ]
       }
     ]
@@ -321,12 +303,6 @@
           {
             "text": "2018",
             "answer_start": 11
-          }
-        ],
-        "w": [
-          {
-            "text": "California 2018 (Bottle $56)",
-            "answer_start": 0
           }
         ]
       }
@@ -440,12 +416,6 @@
             "text": "$12",
             "answer_start": 0
           }
-        ],
-        "w": [
-          {
-            "text": "$12",
-            "answer_start": 0
-          }
         ]
       }
     ]
@@ -502,12 +472,6 @@
     "annots": [
       {
         "p": [
-          {
-            "text": "$11",
-            "answer_start": 0
-          }
-        ],
-        "w": [
           {
             "text": "$11",
             "answer_start": 0
@@ -572,12 +536,6 @@
             "text": "$14",
             "answer_start": 0
           }
-        ],
-        "w": [
-          {
-            "text": "$14",
-            "answer_start": 0
-          }
         ]
       }
     ]
@@ -634,12 +592,6 @@
     "annots": [
       {
         "p": [
-          {
-            "text": "$14",
-            "answer_start": 0
-          }
-        ],
-        "w": [
           {
             "text": "$14",
             "answer_start": 0
@@ -704,12 +656,6 @@
             "text": "$20",
             "answer_start": 0
           }
-        ],
-        "w": [
-          {
-            "text": "$20",
-            "answer_start": 0
-          }
         ]
       }
     ]
@@ -725,12 +671,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "2018",
-            "answer_start": 11
-          }
-        ],
         "w": [
           {
             "text": "California 2018 (Bottle $80)",
@@ -974,12 +914,6 @@
             "text": "$10",
             "answer_start": 0
           }
-        ],
-        "w": [
-          {
-            "text": "$10",
-            "answer_start": 0
-          }
         ]
       }
     ]
@@ -1020,12 +954,6 @@
             "text": "$11",
             "answer_start": 0
           }
-        ],
-        "w": [
-          {
-            "text": "$11",
-            "answer_start": 0
-          }
         ]
       }
     ]
@@ -1046,12 +974,6 @@
             "text": "2017",
             "answer_start": 8
           }
-        ],
-        "w": [
-          {
-            "text": "Germany 2017 (Bottle $40)",
-            "answer_start": 0
-          }
         ]
       }
     ]
@@ -1071,12 +993,6 @@
           {
             "text": "2018",
             "answer_start": 7
-          }
-        ],
-        "w": [
-          {
-            "text": "Oregon 2018 (Bottle $44)",
-            "answer_start": 0
           }
         ]
       }
@@ -1114,12 +1030,6 @@
     "annots": [
       {
         "p": [
-          {
-            "text": "$10",
-            "answer_start": 0
-          }
-        ],
-        "w": [
           {
             "text": "$10",
             "answer_start": 0
@@ -1164,12 +1074,6 @@
             "text": "$12",
             "answer_start": 0
           }
-        ],
-        "w": [
-          {
-            "text": "$12",
-            "answer_start": 0
-          }
         ]
       }
     ]
@@ -1190,12 +1094,6 @@
             "text": "2020",
             "answer_start": 12
           }
-        ],
-        "w": [
-          {
-            "text": "New Zealand 2020 (Bottle $40)",
-            "answer_start": 0
-          }
         ]
       }
     ]
@@ -1215,12 +1113,6 @@
           {
             "text": "2019",
             "answer_start": 11
-          }
-        ],
-        "w": [
-          {
-            "text": "California 2019 (Bottle $48)",
-            "answer_start": 0
           }
         ]
       }

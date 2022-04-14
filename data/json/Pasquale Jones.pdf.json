@@ -295,14 +295,7 @@
       "569.92"
     ],
     "annots": [
-      {
-        "w": [
-          {
-            "text": "\"Atmosphères\" · Domaine de la Louvetrie",
-            "answer_start": 0
-          }
-        ]
-      }
+      null
     ]
   },
   {
@@ -315,14 +308,7 @@
       "570.42"
     ],
     "annots": [
-      {
-        "p": [
-          {
-            "text": "1",
-            "answer_start": 3
-          }
-        ]
-      }
+      null
     ]
   },
   {
@@ -335,14 +321,7 @@
       "583.92"
     ],
     "annots": [
-      {
-        "w": [
-          {
-            "text": "Méthode Traditionelle, Loire Valley, France",
-            "answer_start": 0
-          }
-        ]
-      }
+      null
     ]
   },
   {
@@ -355,14 +334,7 @@
       "605.01"
     ],
     "annots": [
-      {
-        "w": [
-          {
-            "text": "\"La Nature'l\" · Hervé Rafflin",
-            "answer_start": 0
-          }
-        ]
-      }
+      null
     ]
   },
   {
@@ -375,14 +347,7 @@
       "605.51"
     ],
     "annots": [
-      {
-        "p": [
-          {
-            "text": "2",
-            "answer_start": 3
-          }
-        ]
-      }
+      null
     ]
   },
   {
@@ -395,14 +360,7 @@
       "619.01"
     ],
     "annots": [
-      {
-        "w": [
-          {
-            "text": "Extra Brut, 1er Cru Chigny-les-Roses, Champagne,",
-            "answer_start": 0
-          }
-        ]
-      }
+      null
     ]
   },
   {
@@ -415,14 +373,7 @@
       "633.01"
     ],
     "annots": [
-      {
-        "w": [
-          {
-            "text": "France",
-            "answer_start": 0
-          }
-        ]
-      }
+      null
     ]
   },
   {
@@ -3352,7 +3303,24 @@
       "196.92"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Saint-Romain · Christ",
+            "answer_start": 0
+          },
+          {
+            "text": "Buisson, 201",
+            "answer_start": 26
+          }
+        ],
+        "v": [
+          {
+            "text": "ophe",
+            "answer_start": 21
+          }
+        ]
+      }
     ]
   },
   {
@@ -3365,7 +3333,14 @@
       "197.42"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "95",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3378,7 +3353,24 @@
       "219.01"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Hautés · J.M. Vi",
+            "answer_start": 0
+          },
+          {
+            "text": "t, 201",
+            "answer_start": 20
+          }
+        ],
+        "v": [
+          {
+            "text": "ncen",
+            "answer_start": 16
+          }
+        ]
+      }
     ]
   },
   {
@@ -3391,7 +3383,14 @@
       "219.51"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "130",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3404,7 +3403,14 @@
       "233.01"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Auxey-Duresses",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3417,7 +3423,24 @@
       "254.09"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Auxey-Duresses · Jean-P",
+            "answer_start": 0
+          },
+          {
+            "text": "ppe Fichet, 201",
+            "answer_start": 27
+          }
+        ],
+        "v": [
+          {
+            "text": "hili",
+            "answer_start": 23
+          }
+        ]
+      }
     ]
   },
   {
@@ -3430,7 +3453,14 @@
       "254.59"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "125",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3443,7 +3473,24 @@
       "276.18"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Bourgogne Bla",
+            "answer_start": 0
+          },
+          {
+            "text": "rnaud Ente, 201",
+            "answer_start": 19
+          }
+        ],
+        "v": [
+          {
+            "text": "nc · A",
+            "answer_start": 13
+          }
+        ]
+      }
     ]
   },
   {
@@ -3456,7 +3503,14 @@
       "276.68"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "295",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3469,7 +3523,24 @@
       "298.27"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Meursault · Ar",
+            "answer_start": 0
+          },
+          {
+            "text": "Ente, 201",
+            "answer_start": 19
+          }
+        ],
+        "v": [
+          {
+            "text": "naud",
+            "answer_start": 14
+          }
+        ]
+      }
     ]
   },
   {
@@ -3482,7 +3553,14 @@
       "298.77"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "500",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

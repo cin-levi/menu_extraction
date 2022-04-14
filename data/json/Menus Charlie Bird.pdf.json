@@ -2077,7 +2077,14 @@
       "540.28"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "DIEBOLT-VALLOIS, \"FLEUR DE PASSION\"",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3181,7 +3188,14 @@
       "551.63"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "BERECHE & FILS, \"REFLET D'ANTAN\" BRUT",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

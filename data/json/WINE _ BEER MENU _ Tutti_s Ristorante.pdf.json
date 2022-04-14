@@ -1515,7 +1515,14 @@
       "390.25"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "SottoBosco \"Super Tuscano\", Palagetto, Toscano",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1528,7 +1535,14 @@
       "422.31"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": ".B.",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1541,7 +1555,14 @@
       "483.25"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Barolo, Piazza, Piemonte",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1554,7 +1575,14 @@
       "516.06"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": ".B.",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1749,7 +1777,14 @@
       "130.00"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Amarone, Della Valpolicella Classico \"Crosara de la Strie\"",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1762,7 +1797,14 @@
       "162.81"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": ".B.",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

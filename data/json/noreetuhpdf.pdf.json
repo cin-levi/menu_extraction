@@ -3509,7 +3509,14 @@
       "187.67"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "diebolt-vallois",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3522,7 +3529,20 @@
       "187.67"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "brut, prestige blanc de blancs, cramant",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "nv",
+            "answer_start": 40
+          }
+        ]
+      }
     ]
   },
   {
@@ -3535,7 +3555,14 @@
       "187.67"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "110",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3548,7 +3575,14 @@
       "206.39"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "pierre gimonnet",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3561,7 +3595,14 @@
       "206.39"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "extra brut, blanc de blancs, millésime de",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3574,7 +3615,14 @@
       "206.39"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "475",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3587,7 +3635,20 @@
       "217.39"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "collection, cuis 2008 (1500ml)",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2008",
+            "answer_start": 17
+          }
+        ]
+      }
     ]
   },
   {
@@ -3600,7 +3661,14 @@
       "236.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "henri goutorbe",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3613,7 +3681,20 @@
       "236.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "brut, special club, aÿ",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2008",
+            "answer_start": 23
+          }
+        ]
+      }
     ]
   },
   {
@@ -3626,7 +3707,14 @@
       "236.11"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "165",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3639,7 +3727,14 @@
       "255.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "charles heidsieck",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3652,7 +3747,20 @@
       "255.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "brut réserve, reims",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "nv",
+            "answer_start": 20
+          }
+        ]
+      }
     ]
   },
   {
@@ -3665,7 +3773,14 @@
       "255.11"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "225",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3678,7 +3793,14 @@
       "274.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "huré frères",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3691,7 +3813,20 @@
       "274.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "brut, l’invitation, ludes",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "nv",
+            "answer_start": 26
+          }
+        ]
+      }
     ]
   },
   {
@@ -3704,7 +3839,14 @@
       "274.11"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "93",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3717,7 +3859,14 @@
       "293.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "jacquesson",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3730,7 +3879,20 @@
       "293.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "extra brut, cuvée no. 744, dizy",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "nv",
+            "answer_start": 32
+          }
+        ]
+      }
     ]
   },
   {
@@ -3743,7 +3905,14 @@
       "293.11"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "160",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3756,7 +3925,14 @@
       "312.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "jacquesson",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3769,7 +3945,20 @@
       "312.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "extra brut, avize - champ caïn, dizy",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2009",
+            "answer_start": 37
+          }
+        ]
+      }
     ]
   },
   {
@@ -3782,7 +3971,14 @@
       "312.11"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "450",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3795,7 +3991,14 @@
       "331.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "marguet",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3808,7 +4011,20 @@
       "331.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "extra brut, sapience, ambonnay",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2010",
+            "answer_start": 31
+          }
+        ]
+      }
     ]
   },
   {
@@ -3821,7 +4037,14 @@
       "331.11"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "295",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3834,7 +4057,14 @@
       "350.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "piper-heidsieck",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3847,7 +4077,20 @@
       "350.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "brut, cuvée rare, reims",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2007",
+            "answer_start": 24
+          }
+        ]
+      }
     ]
   },
   {
@@ -3860,7 +4103,14 @@
       "350.11"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "275",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3873,7 +4123,14 @@
       "369.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "louis roederer",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3886,7 +4143,20 @@
       "369.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "brut, cristal, reims",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2008",
+            "answer_start": 21
+          }
+        ]
+      }
     ]
   },
   {
@@ -3899,7 +4169,14 @@
       "369.11"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "495",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3912,7 +4189,20 @@
       "388.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "taille aux loups (jacky blot)extra brut, montlouis-sur-loire",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2008",
+            "answer_start": 61
+          }
+        ]
+      }
     ]
   },
   {
@@ -3925,7 +4215,14 @@
       "388.11"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "135",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3938,7 +4235,14 @@
       "407.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "waris et ﬁlles",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3951,7 +4255,20 @@
       "407.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "brut, prémices, blanc de blancs, avize",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "nv",
+            "answer_start": 39
+          }
+        ]
+      }
     ]
   },
   {
@@ -3964,7 +4281,14 @@
       "407.11"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "95",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3977,7 +4301,14 @@
       "426.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "waris-larmandier",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3990,7 +4321,20 @@
       "426.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "extra brut, particules crayeuses, blanc de blancs,",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "145",
+            "answer_start": 51
+          }
+        ]
+      }
     ]
   },
   {
@@ -4003,7 +4347,20 @@
       "437.11"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "avize",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "nv",
+            "answer_start": 6
+          }
+        ]
+      }
     ]
   },
   {
@@ -4016,7 +4373,14 @@
       "474.84"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "billecart-salmon",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4029,7 +4393,20 @@
       "474.84"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "brut rosé, mareuil-sur-aÿ",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "nv",
+            "answer_start": 26
+          }
+        ]
+      }
     ]
   },
   {
@@ -4042,7 +4419,14 @@
       "474.84"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "150",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4055,7 +4439,14 @@
       "493.84"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "charles heidsieck",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4068,7 +4459,20 @@
       "493.84"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "brut rosé, reims",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "nv",
+            "answer_start": 17
+          }
+        ]
+      }
     ]
   },
   {
@@ -4081,7 +4485,14 @@
       "493.84"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "115",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4094,7 +4505,14 @@
       "512.84"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "grosjean",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4107,7 +4525,20 @@
       "512.84"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "extra brut rosé, montmary, vallée d’aoste",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 42
+          }
+        ]
+      }
     ]
   },
   {
@@ -4120,7 +4551,14 @@
       "512.84"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "65",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4133,7 +4571,14 @@
       "531.84"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "recaredo",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4146,7 +4591,20 @@
       "531.84"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "brut nature, intens rosat, gran reserva cava",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2014",
+            "answer_start": 45
+          }
+        ]
+      }
     ]
   },
   {
@@ -4159,7 +4617,14 @@
       "531.84"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "75",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

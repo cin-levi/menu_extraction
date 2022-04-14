@@ -36,7 +36,7 @@
     ],
     "annots": [
       {
-        "w\r\n": [
+        "w": [
           {
             "text": "Montesissa Emilio Rosissima Barbera Blend Rosé '20 - Emilia-Romagna, Italy",
             "answer_start": 0
@@ -211,14 +211,8 @@
       {
         "w": [
           {
-            "text": "El Maestro Sierra",
+            "text": "El Maestro Sierra 12 Years Old Amontillado - Jerez, Spain",
             "answer_start": 0
-          }
-        ],
-        "v": [
-          {
-            "text": "12 Years Old",
-            "answer_start": 18
           }
         ]
       }
@@ -341,12 +335,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "18",
-            "answer_start": 25
-          }
-        ],
         "w": [
           {
             "text": "Vigneti a Prua Mataòssu '18 - Colline Savonesi, Italy",
@@ -387,12 +375,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "18",
-            "answer_start": 16
-          }
-        ],
         "w": [
           {
             "text": "Guerila Rebula '18 - Vipavska Dolina, Slovenia",
@@ -433,12 +415,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "19",
-            "answer_start": 31
-          }
-        ],
         "w": [
           {
             "text": "St. Donat Márga Furmint Blend '19 - Balatonfüred-Csopak, Hungary",
@@ -479,12 +455,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "20",
-            "answer_start": 18
-          }
-        ],
         "w": [
           {
             "text": "Albamar Albariño '20 - Rías Baixas, Spain",
@@ -525,12 +495,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "19",
-            "answer_start": 24
-          }
-        ],
         "w": [
           {
             "text": "Porta del Vento Grillo '19 - Sicily, Italy",
@@ -571,12 +535,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "17",
-            "answer_start": 36
-          }
-        ],
         "w": [
           {
             "text": "Brooks Hope Well Vineyard Riesling '17 - Eola-Amity Hills, Oregon",
@@ -617,12 +575,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "20",
-            "answer_start": 46
-          }
-        ],
         "w": [
           {
             "text": "Domaine Mann L'Oiseau' Astral Gewürztraminer '20 - Alsace, France",
@@ -663,12 +615,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "'13",
-            "answer_start": 36
-          }
-        ],
         "w": [
           {
             "text": "Domaine de la Terre Rouge Roussanne '13 - Sierra Foothills, California",
@@ -709,12 +655,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "13",
-            "answer_start": 32
-          }
-        ],
         "w": [
           {
             "text": "Château Simone Clairette Blend '13 - Palette, France (Coravin)",
@@ -755,12 +695,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "14",
-            "answer_start": 43
-          }
-        ],
         "w": [
           {
             "text": "Rebholz Im Sonnenschein Weissburgunder GG '14 - Pfalz, Germany (Coravin)",
@@ -814,12 +748,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "'20",
-            "answer_start": 28
-          }
-        ],
         "w": [
           {
             "text": "Enderle & Moll Weiss & Grau '20 - Baden, Germany",
@@ -860,12 +788,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "'20",
-            "answer_start": 38
-          }
-        ],
         "w": [
           {
             "text": "Old World Winery L'Aureate Chardonnay '20 - Sonoma County, California",
@@ -906,12 +828,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "'20",
-            "answer_start": 21
-          }
-        ],
         "w": [
           {
             "text": "Kings Carey Grenache '20 - Los Olivos District, California",
@@ -952,12 +868,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "'20",
-            "answer_start": 50
-          }
-        ],
         "w": [
           {
             "text": "Les Vins Pirouettes Ultra Violet Pinot Noir Blend '20 - Alsace, France",
@@ -998,12 +908,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "18",
-            "answer_start": 46
-          }
-        ],
         "w": [
           {
             "text": "Clos Cibonne Spéciale des Vignettes Tibouren '18 - Côtes de Provence, France",
@@ -1057,12 +961,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "17",
-            "answer_start": 51
-          }
-        ],
         "w": [
           {
             "text": "Clos des Fous Grillos Cantores Cabernet Sauvignon '17 - Alto Cachapoal, Chile",
@@ -1103,12 +1001,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "'20",
-            "answer_start": 41
-          }
-        ],
         "w": [
           {
             "text": "Yves Cuilleron Les Vignes d'à Côté Syrah '20 - Collines Rhodaniennes, France",
@@ -1149,12 +1041,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "'20",
-            "answer_start": 18
-          }
-        ],
         "w": [
           {
             "text": "Osmote De Chaunac '20 - Finger Lakes, New York",
@@ -1195,12 +1081,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "'19",
-            "answer_start": 38
-          }
-        ],
         "w": [
           {
             "text": "Tua Rita Rosso dei Notri Merlot Blend '19 - Tuscany, Italy",
@@ -1241,12 +1121,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "20",
-            "answer_start": 22
-          }
-        ],
         "w": [
           {
             "text": "Hugo Mendes Castelão '20 - Lisboa, Portugal",
@@ -1287,12 +1161,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "20",
-            "answer_start": 40
-          }
-        ],
         "w": [
           {
             "text": "Marie-Charlotte Pinelli Grenache Blend '20 - VdF 'Corsica', France",
@@ -1333,12 +1201,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "20",
-            "answer_start": 41
-          }
-        ],
         "w": [
           {
             "text": "Fratelli Alessandria Speziale Pelaverga '20 - Verduno, Italy",
@@ -1379,12 +1241,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "21",
-            "answer_start": 36
-          }
-        ],
         "w": [
           {
             "text": "Koerner Light Red Pinot Noir Blend '21 - Adelaide Hills, Australia",
@@ -1425,12 +1281,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "'19",
-            "answer_start": 25
-          }
-        ],
         "w": [
           {
             "text": "Scerscé Nettare Nebbiolo '19 - Valtellina, Italy",
@@ -1471,12 +1321,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "'19",
-            "answer_start": 35
-          }
-        ],
         "w": [
           {
             "text": "Tres Sabores Perspective Zinfandel '19 - Rutherford, California",
@@ -1517,12 +1361,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "18",
-            "answer_start": 44
-          }
-        ],
         "w": [
           {
             "text": "A Tribute to Grace Spear Vineyard Grenache '18 - Sta. Rita Hills, California (Coravin)",
@@ -1563,12 +1401,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "09",
-            "answer_start": 35
-          }
-        ],
         "w": [
           {
             "text": "Perillo Taurasi Riserva Aglianico '09 - Campania, Italy (Coravin)",
@@ -1700,12 +1532,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "20",
-            "answer_start": 41
-          }
-        ],
         "w": [
           {
             "text": "Espera 'Palheto' Touriga Nacional Blend '20 - Lisboa, Portugal",
@@ -1726,12 +1552,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "21",
-            "answer_start": 38
-          }
-        ],
         "w": [
           {
             "text": "Koerner 'Light Red' Pinot Noir Blend '21 - Adelaide Hills, Australia",
@@ -1752,12 +1572,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "20",
-            "answer_start": 19
-          }
-        ],
         "w": [
           {
             "text": "Osmote De Chaunac '20 - Finger Lakes, New York",
@@ -1791,12 +1605,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "19",
-            "answer_start": 54
-          }
-        ],
         "w": [
           {
             "text": "Domaine du Bouchot 'Terres Blanches' Sauvignon Blanc '19 - Pouilly-Fumé, Central Vineyards",
@@ -1817,12 +1625,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "19",
-            "answer_start": 63
-          }
-        ],
         "w": [
           {
             "text": "Béatrice & Pascal Lambert 'Ligéris Dolium' Chenin Blanc Blend '19 - VdF 'Chinon, Touraine'",
@@ -1843,12 +1645,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "19",
-            "answer_start": 53
-          }
-        ],
         "w": [
           {
             "text": "Domaine de la Barbinière 'Les Silex' Cabernet Franc '19 - Fiefs Vendéens-Chantonnay, Pays Nantais",
@@ -1882,12 +1678,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "17",
-            "answer_start": 38
-          }
-        ],
         "w": [
           {
             "text": "Brooks 'Hope Well Vineyard' Riesling '17 - Eola-Amity Hills, Oregon",
@@ -1908,12 +1698,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "19",
-            "answer_start": 28
-          }
-        ],
         "w": [
           {
             "text": "Scerscé 'Nettare' Nebbiolo '19 - Valtellina, Italy",
@@ -1934,12 +1718,6 @@
     ],
     "annots": [
       {
-        "v": [
-          {
-            "text": "19",
-            "answer_start": 38
-          }
-        ],
         "w": [
           {
             "text": "Tres Sabores 'Perspective' Zinfandel '19 - Rutherford, California",
@@ -1972,7 +1750,14 @@
       "522.81"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Arajuo 'Eisele Vineyard' Sauvignon Blanc '13",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1985,7 +1770,14 @@
       "537.21"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "El Molino Pinot Noir '17 - Rutherford",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1998,7 +1790,14 @@
       "551.61"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Heitz Cellar 'Martha's Vineyard' Cabernet Sauvignon '09",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4858,7 +4657,14 @@
       "143.78"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Bruno Colin Les Vergers 1er Cru '17 - Chassagne-Montrachet, Côte de Beaune",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4871,7 +4677,14 @@
       "143.78"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "260",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4884,7 +4697,14 @@
       "156.53"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "De Moor Le Vendangeur Masqué '19 - Chablis, Yonne",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4897,7 +4717,14 @@
       "156.53"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4910,7 +4737,14 @@
       "169.28"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "De Moor Vau de Vey 1er Cru '18 - Chablis, Yonne",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4923,7 +4757,14 @@
       "169.28"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "170",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4936,7 +4777,14 @@
       "182.03"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Domaine des Comtes Lafon Clos de la Baronne '17 - Meursault, Côte de Beaune",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4949,7 +4797,14 @@
       "182.03"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "300",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4962,7 +4817,14 @@
       "194.78"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Domaine Darviot-Perrin Genevrières 1er Cru '07 - Meursault, Côte de Beaune",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4975,7 +4837,14 @@
       "194.78"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "450",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4988,7 +4857,14 @@
       "207.53"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Domaine Hudelot-Baillet '18 - Hautes Côtes de Nuits",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5001,7 +4877,14 @@
       "207.53"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "88",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5014,7 +4897,14 @@
       "220.28"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Domaine Jean-Michel Gaunoux '19 - Meursault, Côte de Beaune",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5027,7 +4917,14 @@
       "220.28"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "140",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5040,7 +4937,14 @@
       "233.03"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Domaine Sylvain Pataille Aligoté '19 - Burgundy",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5053,7 +4957,14 @@
       "233.03"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "82",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5066,7 +4977,14 @@
       "245.78"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Gilbert Picq '20 - Chablis, Yonne",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5079,7 +4997,14 @@
       "245.78"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "65",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5092,7 +5017,14 @@
       "258.53"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Hubert Bouzereau-Gruère & Filles Le Charmois 1er Cru '17 - Saint-Aubin, CdBeaune",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5105,7 +5037,14 @@
       "258.53"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "135",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5118,7 +5057,14 @@
       "271.28"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Robert Ampeau Les Combettes 1er Cru '96 - Puligny-Montrachet, Côte de Beaune",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5131,7 +5077,14 @@
       "271.28"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "500",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5157,7 +5110,14 @@
       "320.03"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Champalou Sec '20 - Vouvray, Touraine",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5170,7 +5130,14 @@
       "320.03"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "58",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5183,7 +5150,14 @@
       "332.78"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Château de Bonnezeaux Frimas Chenin Blanc '19 - VdF 'Anjou'",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5196,7 +5170,14 @@
       "332.78"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "99",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5209,7 +5190,14 @@
       "345.53"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Domaine du Bouchot Terres Blanches '19 - Pouilly-Fumé, Central Vineyards",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5222,7 +5210,14 @@
       "345.53"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "88",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5235,7 +5230,14 @@
       "358.28"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Domaine du Clos Naudin Foreau Demi-Sec '16 - Vouvray, Touraine",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5248,7 +5250,14 @@
       "358.28"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "100",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5261,7 +5270,14 @@
       "371.03"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Domaine du Collier '17 - Saumur",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5274,7 +5290,14 @@
       "371.03"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "130",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5287,7 +5310,14 @@
       "383.78"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Domaine du Nozay '20 - Sancerre, Central Vineyards",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5300,7 +5330,14 @@
       "383.78"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "70",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5313,7 +5350,14 @@
       "396.53"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Domaine de la Pépière Château Thébaud '17 - Muscadet Sèvre-et-Maine",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5326,7 +5370,14 @@
       "396.53"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "68",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5339,7 +5390,14 @@
       "409.28"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Domaine Taille Aux Loups Remus '19 - Montlouis-sur-Loire, Touraine",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5352,7 +5410,14 @@
       "409.28"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "72",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5365,7 +5430,14 @@
       "422.03"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Domaine de Villalin Grandes Vignes '20 - Quincy, Central Vineyards",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5378,7 +5450,14 @@
       "422.03"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "52",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5391,7 +5470,14 @@
       "434.78"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "François Cazin Vendanges Manuelles '19 - Cour-Cheverny, Touraine",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5404,7 +5490,14 @@
       "434.78"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "50",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5417,7 +5510,14 @@
       "447.53"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "François Cotat Les Culs de Beaujeu '19 - Sancerre, Central Vineyards",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5430,7 +5530,14 @@
       "447.53"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "150",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5443,7 +5550,14 @@
       "460.28"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Julien Courtois Sava Sol Menu Pineau '16 - VdF 'Sologne, Central Vineyards'",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5456,7 +5570,14 @@
       "460.28"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "110",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5469,7 +5590,14 @@
       "473.03"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Nicolas Joly '19 - Coulée de Serrant, Savennières",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5482,7 +5610,14 @@
       "473.03"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "188",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5495,7 +5630,14 @@
       "485.78"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Stephan Thibault Vin De Garde à Vue Chenin Blanc '18 - VdF 'Anjou'",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5508,7 +5650,14 @@
       "485.78"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "62",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

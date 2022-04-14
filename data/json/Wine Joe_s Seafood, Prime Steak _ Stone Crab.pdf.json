@@ -3628,7 +3628,20 @@
       "452.54"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "NV",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "GRAND ROSÉ, GOSSET, FRA",
+            "answer_start": 3
+          }
+        ]
+      }
     ]
   },
   {
@@ -3641,7 +3654,14 @@
       "452.54"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "98.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3654,7 +3674,20 @@
       "464.24"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "'16",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "PINOT BLANC, ROBERT SINSKEY, LOS CARNEROS, CA",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -3667,7 +3700,14 @@
       "464.24"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "60.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3680,7 +3720,20 @@
       "475.94"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "VIOGNIER, PRIDE, SONOMA COUNTY, CA",
+            "answer_start": 4
+          }
+        ],
+        "v": [
+          {
+            "text": "'18",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3693,7 +3746,14 @@
       "475.94"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "55.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3706,7 +3766,20 @@
       "487.64"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "16",
+            "answer_start": 1
+          }
+        ],
+        "w": [
+          {
+            "text": "RIESLING, POET'S LEAP, COLUMBIA VALLEY, WA",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -3719,7 +3792,14 @@
       "487.64"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "45.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3732,7 +3812,20 @@
       "499.34"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "'19",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "SAUVIGNON BLANC, KENZO, ASATSUYU, NAPA VALLEY, CA",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -3745,7 +3838,14 @@
       "499.34"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "100.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3758,7 +3858,20 @@
       "511.04"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "CHARDONNAY, DOMAINE DROUHIN, ARTHUR, DUNDEE HILLS, OR",
+            "answer_start": 4
+          }
+        ],
+        "v": [
+          {
+            "text": "'17",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3771,7 +3884,14 @@
       "511.04"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "50.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3784,7 +3904,20 @@
       "522.74"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "'17",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "CHASSAGNE-MONTRACHET, LOUIS JADOT, FRA",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -3797,7 +3930,14 @@
       "522.74"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "115.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3823,7 +3963,20 @@
       "558.74"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "VIÑA CASABLANCA, NIMBUS, CASABLANCA VALLEY, CHL",
+            "answer_start": 4
+          }
+        ],
+        "v": [
+          {
+            "text": "'16",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3836,7 +3989,14 @@
       "558.74"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "45.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3849,7 +4009,20 @@
       "570.44"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "'18",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "VENICA, RONCO DEL CERÒ, COLLIO, ITA",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -3862,7 +4035,14 @@
       "570.44"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "50.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3875,7 +4055,20 @@
       "582.14"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "CHATEAU PARENCHERE, BORDEAUX, FRA",
+            "answer_start": 4
+          }
+        ],
+        "v": [
+          {
+            "text": "'18",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3888,7 +4081,14 @@
       "582.14"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "55.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3901,7 +4101,20 @@
       "593.84"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "'20",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "RANGA RANGA, MARLBOROUGH, NZL",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -3914,7 +4127,14 @@
       "593.84"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "55.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3927,7 +4147,20 @@
       "605.54"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "'18",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "MULDERBOSCH, WESTERN CAPE, ZAF",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -3940,7 +4173,14 @@
       "605.54"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "60.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3953,7 +4193,20 @@
       "617.24"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "'20",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "THREE BROOMS, MARLBOROUGH, NZL",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -3966,7 +4219,14 @@
       "617.24"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "65.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3979,7 +4239,20 @@
       "628.94"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "'20",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "CLOUDY BAY, MARLBOROUGH, NZL",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -3992,7 +4265,14 @@
       "628.94"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "75.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4005,7 +4285,20 @@
       "640.64"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "'15",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "GAJA, ALTENI DI BRASSICA, LANGHE, ITA",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -4018,7 +4311,14 @@
       "640.64"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "250.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4044,7 +4344,20 @@
       "676.64"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "'20",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "HONIG, NAPA VALLEY, CA",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -4057,7 +4370,14 @@
       "676.64"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "45.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4070,7 +4390,20 @@
       "688.34"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "20",
+            "answer_start": 1
+          }
+        ],
+        "w": [
+          {
+            "text": "GROTH, NAPA VALLEY, CA",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -4083,7 +4416,14 @@
       "688.34"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "65.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4096,7 +4436,20 @@
       "700.04"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "'19",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "CLIFF LEDE, NAPA VALLEY, CA",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -4109,7 +4462,14 @@
       "700.04"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "73.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4122,7 +4482,20 @@
       "711.74"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "'18",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "SPOTTSWOODE, NAPA VALLEY, CA",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -4135,7 +4508,14 @@
       "711.74"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "95.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4148,7 +4528,20 @@
       "723.44"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "'18",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "ILLUMINATION, RUTHERFORD, CA",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -4161,7 +4554,14 @@
       "723.44"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "98.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4174,7 +4574,20 @@
       "735.14"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "'18",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "SINEGAL, NAPA VALLEY, CA",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -4187,7 +4600,14 @@
       "735.14"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "100.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4213,7 +4633,20 @@
       "771.14"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "'20",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "FUMÉ BLANC, FERRARI-CARANO, SONOMA COUNTY, CA",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -4226,7 +4659,14 @@
       "771.14"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "45.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4239,7 +4679,20 @@
       "782.84"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "'20",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "DECOY, SONOMA COUNTY, CA",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -4252,7 +4705,14 @@
       "782.84"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "50.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4265,7 +4725,20 @@
       "794.54"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "'20",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "TWOMEY, SONOMA COUNTY / NAPA COUNTY, CA",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -4278,7 +4751,14 @@
       "794.54"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "70.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4291,7 +4771,20 @@
       "806.24"
     ],
     "annots": [
-      null
+      {
+        "v": [
+          {
+            "text": "'19",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "ORIN SWIFT, BLANK STARE, RUSSIAN RIVER VALLEY, CA",
+            "answer_start": 4
+          }
+        ]
+      }
     ]
   },
   {
@@ -4304,7 +4797,14 @@
       "806.24"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "80.00",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
