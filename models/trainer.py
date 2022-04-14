@@ -306,6 +306,9 @@ class Trainer(object):
 
         report_dict = {}
         training_time = 0
+
+        report_file = output_dir + '/' + report_name + '_' + training_mode + '.json'
+
         for i in range(1, num_train_epochs + 1):
             print(f"training epoch {i} ...")
             now = datetime.datetime.now()
@@ -335,6 +338,24 @@ class Trainer(object):
             print("Detailed NER report: ")
             for x in ner_detail:
                 print(f"{x}\tP: {ner_detail[x]['p']}\tR: {ner_detail[x]['r']}\tF: {ner_detail[x]['f']}")
+            f1 = report_dict[i]['f1']
+
+            with open(report_file, 'w', encoding='utf-8') as f:
+                json.dump(report_dict, f, ensure_ascii=False)
+
+            if neptune_run != None:
+                # Todo: log to neptune
+                try:
+                    neptune_run['train/loss'].log(train_loss)
+                    neptune_run['train/epoch_time'].log(epoch_time)
+                    neptune_run['eval/squad_f1'].log(report_dict[i]['f1'])
+                    neptune_run['eval/squad_HasAns_f1'].log(report_dict[i]['HasAns_f1'])
+                    neptune_run['eval/squad_HasAns_exact'].log(report_dict[i]['HasAns_exact'])
+                    # neptune_run['eval/squad_NoAns_exact'].log(report_dict[i]['NoAns_exact'])
+                    neptune_run['eval/NER_tp'].log(report_dict[i]['tp'])
+                    neptune_run['eval/NER_micro_f1'].log(report_dict[i]['micro_ner_f1'])
+                except IOError:
+                    print("cannot sync neptune")
 
             if i % SAVE_EVERY == 0:
                 print("save check point ...")
