@@ -3,7 +3,7 @@ import json
 
 from processors import prj_path
 
-fastqa_credential = None
+from neptune_credentials import fastqa_credential
 import os
 
 fold_prefix = 'fold_'
@@ -50,3 +50,4 @@ def train_kfold(data_folder, output_folder):
 if __name__ == '__main__':
     data_folder = prj_path + '/data/kfold'
     output_folder = prj_path + '/outputs'
+    train_kfold(data_folder, output_folder)
