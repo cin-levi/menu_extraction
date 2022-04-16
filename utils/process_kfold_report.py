@@ -1,7 +1,7 @@
 import json
 import numpy as np
 
-kfold_report = 'D:\\menu_extraction\\full_report.json'
+kfold_report = 'D:\\menu_extraction\\full_report_new.json'
 
 with open(kfold_report, 'r', encoding='utf-8') as f:
     data = json.load(f)

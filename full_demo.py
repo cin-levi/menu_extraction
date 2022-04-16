@@ -137,7 +137,8 @@ if __name__ == '__main__':
     question_list = json.load(open(question_list_file, 'r', encoding='utf-8'))
     demo = LayoutLMDemo(model_path, version='v1')
 
-    pdf_file = prj_path + '/data/pdf/City Vineyard(second menu).pdf'
+    pdf_file = prj_path + '/data/pdf/Adda - wine reserve.pdf'
+    pdf_file = prj_path + '/data/pdf/Aldo Sohm.pdf'
     # pdf_file = prj_path + '/data/pdf/testing/Batard.pdf'
     output = demo.process(pdf_file, question_list)
     print(output)
