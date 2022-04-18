@@ -47,6 +47,7 @@ def normalize_boxes(boxes):
             if annotation:
                 for label in annotation:
                     for answer in annotation[label]:
+                        label = label.lower()
                         if label in ['wine', 'ww']:
                             label = 'w'
                         elif label == 'vintage':

@@ -1,0 +1,3620 @@
+[
+  {
+    "page_number": 1,
+    "text": "FOR THE TABLE",
+    "bbox": [
+      "263.08",
+      "186.38",
+      "349.65",
+      "196.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ARTISANAL PROSCIUTTO* Seasonal Fruit, Warm Baguette",
+    "bbox": [
+      "185.25",
+      "203.60",
+      "418.04",
+      "211.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "24",
+    "bbox": [
+      "418.75",
+      "207.32",
+      "427.47",
+      "215.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DÉLICE DE BOURGOGNE CHEESE Strawberry Preserves, Warm Baguette",
+    "bbox": [
+      "156.01",
+      "219.10",
+      "447.27",
+      "227.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "21",
+    "bbox": [
+      "447.99",
+      "222.82",
+      "456.71",
+      "230.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PROSCIUTTO AND DÉLICE BOARD* Seasonal Fruit, Strawberry Preserves, Warm Baguette",
+    "bbox": [
+      "123.07",
+      "234.60",
+      "480.21",
+      "242.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "45",
+    "bbox": [
+      "480.93",
+      "238.32",
+      "489.65",
+      "246.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SHRIMP COCKTAIL Lemon, Dijonnaise, Cocktail Sauce",
+    "bbox": [
+      "193.33",
+      "250.10",
+      "409.95",
+      "258.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "25",
+    "bbox": [
+      "410.67",
+      "253.82",
+      "419.39",
+      "261.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CRISPY ARTICHOKES* Potato, Rosemary Aioli",
+    "bbox": [
+      "209.34",
+      "265.60",
+      "393.94",
+      "273.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "21",
+    "bbox": [
+      "394.66",
+      "269.32",
+      "403.38",
+      "277.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BURRATA Roasted Peppers, Della Terra Aged Balsamic, Basil, Charred Sourdough",
+    "bbox": [
+      "140.08",
+      "281.10",
+      "463.20",
+      "289.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "25",
+    "bbox": [
+      "463.92",
+      "284.82",
+      "472.64",
+      "292.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SALADS",
+    "bbox": [
+      "285.50",
+      "310.38",
+      "327.22",
+      "320.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GEM LETTUCE Radish, Feta, Avocado, Buttermilk Herb Dressing",
+    "bbox": [
+      "184.70",
+      "327.60",
+      "419.23",
+      "335.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "419.62",
+      "331.32",
+      "428.02",
+      "339.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ARUGULA Fennel, Grapes, Sunflower Seeds, Parmigiano-Reggiano, Citrus Vinaigrette",
+    "bbox": [
+      "146.01",
+      "343.10",
+      "457.92",
+      "351.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "458.31",
+      "346.82",
+      "466.71",
+      "354.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SHAVED VEGETABLES Baby Greens, Pecans, Cider Vinaigrette",
+    "bbox": [
+      "186.45",
+      "358.60",
+      "417.48",
+      "366.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "19",
+    "bbox": [
+      "417.87",
+      "362.32",
+      "426.27",
+      "370.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CAESAR* Romaine, Parmigiano-Reggiano, Sourdough Croutons",
+    "bbox": [
+      "174.91",
+      "374.10",
+      "428.37",
+      "382.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "20",
+    "bbox": [
+      "429.09",
+      "377.82",
+      "437.81",
+      "385.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ENTRÉES",
+    "bbox": [
+      "281.09",
+      "403.38",
+      "334.36",
+      "415.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Served à la carte",
+    "bbox": [
+      "280.11",
+      "416.87",
+      "332.61",
+      "423.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RH BURGER* Sharp American, Pickles, Onion, Dijonnaise",
+    "bbox": [
+      "187.53",
+      "430.60",
+      "415.75",
+      "438.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "22",
+    "bbox": [
+      "416.47",
+      "434.32",
+      "425.19",
+      "442.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Add: Avocado 4, Thick Cut Pork Belly Bacon 7",
+    "bbox": [
+      "234.93",
+      "442.37",
+      "377.80",
+      "449.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SHAVED RIBEYE ON CHARRED GARLIC BREAD* Emmentaler Swiss, Cherry Peppers, Au Jus",
+    "bbox": [
+      "119.13",
+      "457.10",
+      "495.29",
+      "465.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "30",
+    "bbox": [
+      "484.87",
+      "460.82",
+      "493.59",
+      "468.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LOBSTER ROLL Drawn Butter, Mayonnaise, Old Bay",
+    "bbox": [
+      "198.87",
+      "472.60",
+      "415.55",
+      "480.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "34",
+    "bbox": [
+      "405.13",
+      "476.32",
+      "413.85",
+      "484.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BROILED SALMON* Honey, Black Pepper, Brown Butter, Lemon",
+    "bbox": [
+      "176.47",
+      "488.10",
+      "426.82",
+      "496.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "36",
+    "bbox": [
+      "427.53",
+      "491.82",
+      "436.25",
+      "499.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROASTED HALF CHICKEN* Garlic Confit, Potato Purée, Natural Jus",
+    "bbox": [
+      "169.23",
+      "503.60",
+      "434.06",
+      "511.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "38",
+    "bbox": [
+      "434.77",
+      "507.32",
+      "443.49",
+      "515.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16OZ CHARRED RIBEYE STEAK* Prime Beef, Steak Salt",
+    "bbox": [
+      "190.39",
+      "519.10",
+      "424.03",
+      "527.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "64",
+    "bbox": [
+      "413.61",
+      "522.82",
+      "422.33",
+      "530.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SIDES",
+    "bbox": [
+      "290.51",
+      "550.38",
+      "322.22",
+      "560.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FRENCH FRIES Garlic Aioli",
+    "bbox": [
+      "251.66",
+      "567.60",
+      "352.26",
+      "575.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "10",
+    "bbox": [
+      "352.66",
+      "571.32",
+      "361.06",
+      "579.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TRUFFLED FRIES* Black Truffles, Parmigiano-Reggiano, Parsley, Truffle Aioli",
+    "bbox": [
+      "162.97",
+      "583.10",
+      "440.95",
+      "591.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "20",
+    "bbox": [
+      "441.35",
+      "586.82",
+      "449.75",
+      "594.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SIMPLE GREEN SALAD Radish, Citrus Vinaigrette",
+    "bbox": [
+      "212.50",
+      "598.60",
+      "395.82",
+      "606.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9",
+    "bbox": [
+      "396.22",
+      "602.32",
+      "400.22",
+      "610.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "YUKON GOLD POTATO PURÉE Chive Butter",
+    "bbox": [
+      "221.04",
+      "614.10",
+      "382.88",
+      "622.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "11",
+    "bbox": [
+      "383.28",
+      "617.82",
+      "391.68",
+      "625.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHARRED HEIRLOOM BROCCOLINI Lemon, Garlic Confit, Calabrian Chili",
+    "bbox": [
+      "168.38",
+      "629.60",
+      "435.54",
+      "637.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "13",
+    "bbox": [
+      "435.94",
+      "633.32",
+      "444.34",
+      "641.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WILD MUSHROOMS Garlic, Thyme, Sherry Vinegar",
+    "bbox": [
+      "207.80",
+      "645.10",
+      "396.13",
+      "653.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15",
+    "bbox": [
+      "396.52",
+      "648.82",
+      "404.92",
+      "656.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Items can be cooked to order. Please let us know if you have any allergies or dietary restrictions as not all ingredients are listed.",
+    "bbox": [
+      "142.45",
+      "723.98",
+      "469.55",
+      "730.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "*Consuming raw or undercooked foods such as meats, poultry, seafood, shellfish, or eggs may increase risk of foodborne illness.",
+    "bbox": [
+      "138.68",
+      "731.98",
+      "473.32",
+      "738.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Individuals with certain underlying health conditions may be at higher risk.",
+    "bbox": [
+      "209.70",
+      "739.98",
+      "402.30",
+      "746.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RH BELLINI",
+    "bbox": [
+      "34.23",
+      "102.87",
+      "94.13",
+      "114.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RH MIMOSA",
+    "bbox": [
+      "322.12",
+      "102.87",
+      "385.25",
+      "114.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Prosecco, Peach Purée",
+    "bbox": [
+      "34.23",
+      "113.87",
+      "184.92",
+      "125.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Prosecco, Orange Juice",
+    "bbox": [
+      "322.12",
+      "113.87",
+      "472.93",
+      "125.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16",
+    "bbox": [
+      "109.32",
+      "119.30",
+      "116.82",
+      "126.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16",
+    "bbox": [
+      "398.33",
+      "119.30",
+      "407.56",
+      "126.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WINE BY THE GLASS",
+    "bbox": [
+      "34.23",
+      "140.72",
+      "143.51",
+      "150.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPARKLING",
+    "bbox": [
+      "34.23",
+      "157.79",
+      "76.29",
+      "165.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROSÉ",
+    "bbox": [
+      "322.23",
+      "157.79",
+      "342.33",
+      "165.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BISOL Prosecco, Jeio, Valdobbiadene, Italy",
+    "bbox": [
+      "34.23",
+      "172.82",
+      "161.93",
+      "180.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BISOL Prosecco, Jeio, Valdobbiadene, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MIRAVAL Studio, Méditerranée, France",
+    "bbox": [
+      "322.23",
+      "172.82",
+      "442.53",
+      "180.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MIRAVAL Studio, Méditerranée, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15 / 60",
+    "bbox": [
+      "161.93",
+      "176.31",
+      "186.30",
+      "183.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15 / 60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "17 / 68",
+    "bbox": [
+      "442.53",
+      "176.31",
+      "463.46",
+      "183.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17 / 68",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "JUVÉ Y CAMPS Cava, Reserva de la Familia, Penedès, Spain",
+    "bbox": [
+      "34.23",
+      "185.82",
+      "219.07",
+      "193.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "JUVÉ Y CAMPS Cava, Reserva de la Familia, Penedès, Spain",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHÂTEAU D’ESCLANS Whispering Angel, Côtes de Provence, France",
+    "bbox": [
+      "322.23",
+      "185.82",
+      "535.28",
+      "193.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHÂTEAU D’ESCLANS Whispering Angel, Côtes de Provence, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "17 / 68",
+    "bbox": [
+      "219.07",
+      "189.31",
+      "241.72",
+      "196.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17 / 68",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "20 / 80",
+    "bbox": [
+      "535.28",
+      "189.31",
+      "556.20",
+      "196.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "20 / 80",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GLORIA FERRER Blanc de Blancs, Carneros, California",
+    "bbox": [
+      "34.23",
+      "198.82",
+      "204.51",
+      "206.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "GLORIA FERRER Blanc de Blancs, Carneros, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ESPRIT GASSIER Côtes de Provence, France",
+    "bbox": [
+      "322.23",
+      "198.82",
+      "462.42",
+      "206.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ESPRIT GASSIER Côtes de Provence, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18 / 72",
+    "bbox": [
+      "204.50",
+      "202.31",
+      "225.43",
+      "209.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18 / 72",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "22 / 88",
+    "bbox": [
+      "462.42",
+      "202.31",
+      "483.35",
+      "209.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "22 / 88",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PIERRE SPARR Brut Rosé, Crémant d’Alsace, France",
+    "bbox": [
+      "34.23",
+      "211.82",
+      "197.19",
+      "219.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PIERRE SPARR Brut Rosé, Crémant d’Alsace, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LA SPINETTA Il Rosé di Casanova, Tuscany, Italy",
+    "bbox": [
+      "322.23",
+      "211.82",
+      "469.29",
+      "219.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LA SPINETTA Il Rosé di Casanova, Tuscany, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16 / 64",
+    "bbox": [
+      "197.19",
+      "215.31",
+      "218.12",
+      "222.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16 / 64",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15 / 60",
+    "bbox": [
+      "469.29",
+      "215.31",
+      "490.22",
+      "222.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15 / 60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SCHRAMSBERG Brut Rosé, North Coast, California",
+    "bbox": [
+      "34.23",
+      "224.82",
+      "194.36",
+      "232.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SCHRAMSBERG Brut Rosé, North Coast, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DAOU Discovery Collection, Paso Robles, California",
+    "bbox": [
+      "322.23",
+      "224.82",
+      "480.22",
+      "232.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DAOU Discovery Collection, Paso Robles, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "22 / 88",
+    "bbox": [
+      "194.36",
+      "228.31",
+      "215.28",
+      "235.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "22 / 88",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16 / 64",
+    "bbox": [
+      "480.22",
+      "228.31",
+      "501.14",
+      "235.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16 / 64",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROEDERER ESTATE Brut Rosé, Mendocino, California",
+    "bbox": [
+      "34.23",
+      "237.82",
+      "201.27",
+      "245.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ROEDERER ESTATE Brut Rosé, Mendocino, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SCRIBE Pinot Noir, Sonoma, California",
+    "bbox": [
+      "322.23",
+      "237.82",
+      "441.68",
+      "245.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SCRIBE Pinot Noir, Sonoma, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "20 / 80",
+    "bbox": [
+      "201.27",
+      "241.31",
+      "222.20",
+      "248.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "20 / 80",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "20 / 80",
+    "bbox": [
+      "441.68",
+      "241.31",
+      "462.61",
+      "248.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "20 / 80",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHAMPAGNE COLLET Brut Rosé, Champagne, France",
+    "bbox": [
+      "34.23",
+      "250.82",
+      "204.17",
+      "258.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHAMPAGNE COLLET Brut Rosé, Champagne, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BLACKBIRD VINEYARDS Arriviste, Napa Valley, California",
+    "bbox": [
+      "322.23",
+      "250.82",
+      "497.41",
+      "258.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BLACKBIRD VINEYARDS Arriviste, Napa Valley, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "30  / 120",
+    "bbox": [
+      "204.17",
+      "254.31",
+      "230.57",
+      "261.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "30  / 120",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18 / 72",
+    "bbox": [
+      "497.41",
+      "254.31",
+      "518.33",
+      "261.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18 / 72",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DOMAINE CARNEROS  Brut Rosé, Napa Valley, California",
+    "bbox": [
+      "34.23",
+      "263.82",
+      "211.00",
+      "271.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DOMAINE CARNEROS  Brut Rosé, Napa Valley, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PEYRASSOL Cuvée des Commandeurs, Provence, France",
+    "bbox": [
+      "322.23",
+      "263.82",
+      "501.63",
+      "271.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PEYRASSOL Cuvée des Commandeurs, Provence, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "25 / 100",
+    "bbox": [
+      "211.00",
+      "267.31",
+      "235.67",
+      "274.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "25 / 100",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "22 / 88",
+    "bbox": [
+      "501.63",
+      "267.31",
+      "522.56",
+      "274.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "22 / 88",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ALFRED GRATIEN  Brut Classic, Champagne, France",
+    "bbox": [
+      "34.23",
+      "276.82",
+      "197.49",
+      "284.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ALFRED GRATIEN  Brut Classic, Champagne, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DOMAINES OTT By Ott, Côtes de Provence, France",
+    "bbox": [
+      "322.23",
+      "276.82",
+      "482.09",
+      "284.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DOMAINES OTT By Ott, Côtes de Provence, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "32 / 128",
+    "bbox": [
+      "197.49",
+      "280.31",
+      "222.17",
+      "287.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "32 / 128",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "19 / 76",
+    "bbox": [
+      "482.09",
+      "280.31",
+      "503.02",
+      "287.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "19 / 76",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "VEUVE CLICQUOT Brut, Yellow Label, Champagne, France",
+    "bbox": [
+      "34.23",
+      "289.82",
+      "214.30",
+      "297.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VEUVE CLICQUOT Brut, Yellow Label, Champagne, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "VIE VITE EXTRAORDINAIRE, Côtes de Provence, France",
+    "bbox": [
+      "322.23",
+      "289.82",
+      "494.15",
+      "297.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VIE VITE EXTRAORDINAIRE, Côtes de Provence, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "35 / 140",
+    "bbox": [
+      "214.30",
+      "293.31",
+      "238.97",
+      "300.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "35 / 140",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "30 / 120",
+    "bbox": [
+      "494.15",
+      "293.31",
+      "518.83",
+      "300.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "30 / 120",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WHITE",
+    "bbox": [
+      "34.23",
+      "314.29",
+      "71.83",
+      "321.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RED",
+    "bbox": [
+      "322.23",
+      "314.29",
+      "338.76",
+      "321.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CARL GRAFF Riesling, Kabinett, Mosel, Germany",
+    "bbox": [
+      "34.23",
+      "329.32",
+      "187.26",
+      "336.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CARL GRAFF Riesling, Kabinett, Mosel, Germany",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LIOCO Pinot Noir, Mendocino County, California",
+    "bbox": [
+      "322.23",
+      "329.32",
+      "470.10",
+      "336.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LIOCO Pinot Noir, Mendocino County, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "17 / 68",
+    "bbox": [
+      "187.29",
+      "332.81",
+      "208.22",
+      "340.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17 / 68",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18 / 72",
+    "bbox": [
+      "470.14",
+      "332.81",
+      "491.06",
+      "340.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18 / 72",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SCARPETTA Pinot Grigio, Friuli, Italy",
+    "bbox": [
+      "34.23",
+      "342.32",
+      "146.95",
+      "349.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SCARPETTA Pinot Grigio, Friuli, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "FRANCOIS LABET Bourgogne, Pinot Noir, Burgundy, France",
+    "bbox": [
+      "322.23",
+      "342.32",
+      "508.17",
+      "349.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FRANCOIS LABET Bourgogne, Pinot Noir, Burgundy, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15 / 60",
+    "bbox": [
+      "146.99",
+      "345.81",
+      "169.64",
+      "353.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15 / 60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "25 / 100",
+    "bbox": [
+      "508.20",
+      "345.81",
+      "532.88",
+      "353.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "25 / 100",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "A TO Z Pinot Gris, Oregon",
+    "bbox": [
+      "34.23",
+      "355.32",
+      "116.63",
+      "362.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "A TO Z Pinot Gris, Oregon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GROS VENTRE CELLARS Pinot Noir, North Coast, California",
+    "bbox": [
+      "322.23",
+      "355.32",
+      "509.56",
+      "362.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "GROS VENTRE CELLARS Pinot Noir, North Coast, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16 / 64",
+    "bbox": [
+      "116.66",
+      "358.81",
+      "137.59",
+      "366.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16 / 64",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "24 / 96",
+    "bbox": [
+      "509.60",
+      "358.81",
+      "530.52",
+      "366.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "24 / 96",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ALLAN SCOTT Sauvignon Blanc, Marlborough, New Zealand",
+    "bbox": [
+      "34.23",
+      "368.32",
+      "222.63",
+      "375.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ALLAN SCOTT Sauvignon Blanc, Marlborough, New Zealand",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CATENA Malbec, Vista Flores, Mendoza, Argentina",
+    "bbox": [
+      "322.23",
+      "368.32",
+      "478.64",
+      "375.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CATENA Malbec, Vista Flores, Mendoza, Argentina",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16 / 64",
+    "bbox": [
+      "222.67",
+      "371.81",
+      "245.32",
+      "379.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16 / 64",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15 / 60",
+    "bbox": [
+      "478.68",
+      "371.81",
+      "499.61",
+      "379.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15 / 60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SAGET LA PERRIÈRE Sauvignon Blanc, Sancerre, France",
+    "bbox": [
+      "34.23",
+      "381.32",
+      "212.97",
+      "388.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAGET LA PERRIÈRE Sauvignon Blanc, Sancerre, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ANTINORI Cabernet Sauvignon Blend, Il Bruciato, Tuscany, Italy",
+    "bbox": [
+      "322.23",
+      "381.32",
+      "517.36",
+      "388.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ANTINORI Cabernet Sauvignon Blend, Il Bruciato, Tuscany, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "28 / 112",
+    "bbox": [
+      "213.00",
+      "384.81",
+      "237.68",
+      "392.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "28 / 112",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "23 / 92",
+    "bbox": [
+      "517.39",
+      "384.81",
+      "538.32",
+      "392.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "23 / 92",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TWOMEY Sauvignon Blanc, Napa Valley, California",
+    "bbox": [
+      "34.23",
+      "394.32",
+      "187.90",
+      "401.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "TWOMEY Sauvignon Blanc, Napa Valley, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BODEGAS MURIEL Tempranillo, Gran Reserva, Rioja, Spain",
+    "bbox": [
+      "322.23",
+      "394.32",
+      "509.43",
+      "401.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BODEGAS MURIEL Tempranillo, Gran Reserva, Rioja, Spain",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "21 / 84",
+    "bbox": [
+      "187.94",
+      "397.81",
+      "214.04",
+      "405.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "21 / 84",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "19 / 76",
+    "bbox": [
+      "509.47",
+      "397.81",
+      "530.39",
+      "405.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "19 / 76",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DOMAINE JOLLY Petite Chablis, Burgundy, France",
+    "bbox": [
+      "34.23",
+      "407.32",
+      "189.71",
+      "414.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DOMAINE JOLLY Petite Chablis, Burgundy, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HOURGLASS Proprietary Blend, HGIII, Napa Valley, California",
+    "bbox": [
+      "322.23",
+      "407.32",
+      "511.16",
+      "414.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "HOURGLASS Proprietary Blend, HGIII, Napa Valley, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "25 / 100",
+    "bbox": [
+      "189.74",
+      "410.81",
+      "214.42",
+      "418.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "25 / 100",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "23 / 92",
+    "bbox": [
+      "511.20",
+      "410.81",
+      "532.13",
+      "418.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "23 / 92",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHALK HILL Chardonnay, Russian River, Sonoma, California",
+    "bbox": [
+      "34.23",
+      "420.32",
+      "219.70",
+      "427.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHALK HILL Chardonnay, Russian River, Sonoma, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SILVER OAK Cabernet Sauvignon, Alexander Valley, California",
+    "bbox": [
+      "322.23",
+      "420.32",
+      "512.51",
+      "427.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SILVER OAK Cabernet Sauvignon, Alexander Valley, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18 / 72",
+    "bbox": [
+      "219.74",
+      "423.81",
+      "240.66",
+      "431.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18 / 72",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "40 / 160",
+    "bbox": [
+      "512.54",
+      "423.81",
+      "537.22",
+      "431.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "40 / 160",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHATEAU MONTELENA Chardonnay, Napa Valley, California",
+    "bbox": [
+      "34.23",
+      "433.32",
+      "220.48",
+      "440.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHATEAU MONTELENA Chardonnay, Napa Valley, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DUCKHORN Cabernet Sauvignon, Napa Valley, California",
+    "bbox": [
+      "322.23",
+      "433.32",
+      "499.57",
+      "440.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DUCKHORN Cabernet Sauvignon, Napa Valley, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "35 / 140",
+    "bbox": [
+      "220.52",
+      "436.81",
+      "245.19",
+      "444.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "35 / 140",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "37 / 148",
+    "bbox": [
+      "499.61",
+      "436.81",
+      "524.28",
+      "444.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "37 / 148",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HARTFORD COURT Chardonnay, Russian River, Sonoma, California",
+    "bbox": [
+      "34.23",
+      "446.32",
+      "243.43",
+      "453.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "HARTFORD COURT Chardonnay, Russian River, Sonoma, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CAYMUS-SUISUN Petite Sirah, Grand Durif, Suisun Valley, California",
+    "bbox": [
+      "322.23",
+      "446.32",
+      "532.80",
+      "453.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CAYMUS-SUISUN Petite Sirah, Grand Durif, Suisun Valley, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "22 / 88",
+    "bbox": [
+      "243.47",
+      "449.81",
+      "264.39",
+      "457.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "22 / 88",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "25 / 100",
+    "bbox": [
+      "532.84",
+      "449.81",
+      "557.51",
+      "457.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "25 / 100",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WINE BY THE BOTTLE",
+    "bbox": [
+      "34.23",
+      "465.72",
+      "153.40",
+      "475.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPARKLING & WHITE",
+    "bbox": [
+      "34.23",
+      "482.29",
+      "109.57",
+      "489.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RED VARIETALS",
+    "bbox": [
+      "322.23",
+      "482.29",
+      "376.74",
+      "489.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LOUIS ROEDERER Cristal Brut, Champagne, France 2013",
+    "bbox": [
+      "34.23",
+      "497.32",
+      "215.10",
+      "504.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LOUIS ROEDERER Cristal Brut, Champagne, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHÂTEAU MONT REDON Châteauneuf-du-Pape, France 2017",
+    "bbox": [
+      "322.23",
+      "497.32",
+      "515.09",
+      "504.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHÂTEAU MONT REDON Châteauneuf-du-Pape, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "575",
+    "bbox": [
+      "215.14",
+      "500.81",
+      "228.11",
+      "508.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "575",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "165",
+    "bbox": [
+      "515.12",
+      "500.81",
+      "526.37",
+      "508.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "165",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DOM PÉRIGNON Champagne, France 2012",
+    "bbox": [
+      "34.23",
+      "510.32",
+      "185.16",
+      "517.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DOM PÉRIGNON Champagne, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2012",
+            "answer_start": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MARCHESI ANTINORI Tignanello, Tuscany, Italy 2018",
+    "bbox": [
+      "322.23",
+      "510.32",
+      "487.47",
+      "517.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MARCHESI ANTINORI Tignanello, Tuscany, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "375",
+    "bbox": [
+      "172.31",
+      "513.81",
+      "183.56",
+      "521.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "375",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "280",
+    "bbox": [
+      "487.51",
+      "513.81",
+      "498.76",
+      "521.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "280",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DOMAINE LAROCHE Chardonnay, Les Blanchots, Chablis Grand Cru, France 2018",
+    "bbox": [
+      "34.23",
+      "523.32",
+      "302.29",
+      "530.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DOMAINE LAROCHE Chardonnay, Les Blanchots, Chablis Grand Cru, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LA SPINETTA Vignetto Garretti, Barolo, Piedmont, Italy 2017",
+    "bbox": [
+      "322.23",
+      "523.32",
+      "506.38",
+      "530.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LA SPINETTA Vignetto Garretti, Barolo, Piedmont, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "250",
+    "bbox": [
+      "289.45",
+      "526.81",
+      "300.70",
+      "534.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "250",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "185",
+    "bbox": [
+      "506.42",
+      "526.81",
+      "517.67",
+      "534.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "185",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SONOMA-CUTRER Chardonnay, Les Pierres, Sonoma, California 2018",
+    "bbox": [
+      "34.23",
+      "536.32",
+      "265.55",
+      "543.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SONOMA-CUTRER Chardonnay, Les Pierres, Sonoma, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHÂTEAU RAUZAN-SÉGLA Grand Cru Classé, Margaux, France 2017",
+    "bbox": [
+      "322.23",
+      "536.32",
+      "538.18",
+      "543.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHÂTEAU RAUZAN-SÉGLA Grand Cru Classé, Margaux, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "125",
+    "bbox": [
+      "252.70",
+      "539.81",
+      "263.95",
+      "547.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "125",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "390",
+    "bbox": [
+      "538.22",
+      "539.81",
+      "549.47",
+      "547.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "390",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CAKEBREAD CELLARS Chardonnay, Reserve, Carneros, California 2019",
+    "bbox": [
+      "34.23",
+      "549.32",
+      "287.83",
+      "556.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CAKEBREAD CELLARS Chardonnay, Reserve, Carneros, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PENFOLDS Shiraz, RWT Bin 798, Barossa Valley, Australia 2017",
+    "bbox": [
+      "322.23",
+      "549.32",
+      "519.46",
+      "556.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PENFOLDS Shiraz, RWT Bin 798, Barossa Valley, Australia",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "155",
+    "bbox": [
+      "258.29",
+      "552.81",
+      "269.54",
+      "560.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "155",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "295",
+    "bbox": [
+      "519.50",
+      "552.81",
+      "530.75",
+      "560.31"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "295",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "34.23",
+      "570.79",
+      "76.72",
+      "578.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "322.23",
+      "570.79",
+      "405.85",
+      "578.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MAISON CHAMPY Le Rognet, Corton Grand Cru, Burgundy France 2016",
+    "bbox": [
+      "34.23",
+      "585.82",
+      "287.83",
+      "593.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MAISON CHAMPY Le Rognet, Corton Grand Cru, Burgundy France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 59
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LAIL VINEYARDS Blueprint, Napa Valley, California 2018",
+    "bbox": [
+      "322.23",
+      "585.82",
+      "494.97",
+      "593.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LAIL VINEYARDS Blueprint, Napa Valley, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "280",
+    "bbox": [
+      "259.49",
+      "589.31",
+      "270.74",
+      "596.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "280",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "225",
+    "bbox": [
+      "495.01",
+      "589.31",
+      "506.26",
+      "596.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "225",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GARY FARRELL Hallberg Vineyard, Russian River Valley, California 2016",
+    "bbox": [
+      "34.23",
+      "598.82",
+      "267.45",
+      "606.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "GARY FARRELL Hallberg Vineyard, Russian River Valley, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "THE MASCOT Napa Valley, California 2016",
+    "bbox": [
+      "322.23",
+      "598.82",
+      "454.82",
+      "606.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "THE MASCOT Napa Valley, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "140",
+    "bbox": [
+      "252.88",
+      "602.31",
+      "265.85",
+      "609.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "140",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "295",
+    "bbox": [
+      "454.86",
+      "602.31",
+      "466.11",
+      "609.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "295",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROCHIOLI Russian River Valley, California 2018",
+    "bbox": [
+      "34.23",
+      "611.82",
+      "193.46",
+      "619.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ROCHIOLI Russian River Valley, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CAYMUS VINEYARDS Special Selection, Napa Valley, California 2017",
+    "bbox": [
+      "322.23",
+      "611.82",
+      "534.78",
+      "619.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CAYMUS VINEYARDS Special Selection, Napa Valley, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "185",
+    "bbox": [
+      "180.62",
+      "615.31",
+      "191.87",
+      "622.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "395",
+    "bbox": [
+      "534.82",
+      "615.31",
+      "546.07",
+      "622.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "395",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ZENA CROWN VINEYARD Slope, Eola-Amity Hills, Willamette Valley, Oregon 2017",
+    "bbox": [
+      "34.23",
+      "624.82",
+      "298.97",
+      "632.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ZENA CROWN VINEYARD Slope, Eola-Amity Hills, Willamette Valley, Oregon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 71
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPOTTSWOODE St. Helena, Napa Valley, California 2018",
+    "bbox": [
+      "322.23",
+      "624.82",
+      "499.11",
+      "632.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SPOTTSWOODE St. Helena, Napa Valley, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "160",
+    "bbox": [
+      "284.39",
+      "628.31",
+      "297.37",
+      "635.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "160",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "425",
+    "bbox": [
+      "499.15",
+      "628.31",
+      "510.40",
+      "635.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "425",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "KOSTA BROWNE Sonoma Coast, California 2019",
+    "bbox": [
+      "34.23",
+      "636.82",
+      "215.83",
+      "644.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "KOSTA BROWNE Sonoma Coast, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SHAFER Hillside Select, Stags Leap District, Napa Valley, California 2017",
+    "bbox": [
+      "322.23",
+      "636.82",
+      "544.95",
+      "644.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SHAFER Hillside Select, Stags Leap District, Napa Valley, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "210",
+    "bbox": [
+      "189.02",
+      "640.31",
+      "200.27",
+      "647.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "210",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "495",
+    "bbox": [
+      "544.99",
+      "640.31",
+      "556.24",
+      "647.81"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "495",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "COFFEE",
+    "bbox": [
+      "34.23",
+      "666.51",
+      "64.95",
+      "678.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TEA",
+    "bbox": [
+      "167.43",
+      "666.51",
+      "183.66",
+      "678.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "JUICES & SODAS",
+    "bbox": [
+      "322.56",
+      "666.51",
+      "385.54",
+      "678.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BEER",
+    "bbox": [
+      "463.45",
+      "665.84",
+      "482.66",
+      "673.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DECCsoarippprtrp ae4uds  cosco 5i n 4o  6",
+    "bbox": [
+      "34.23",
+      "680.46",
+      "78.08",
+      "721.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CMRLoHharadt Bci  hBLreaaeat rLtkgeafa at7mtset o 7 6t  6",
+    "bbox": [
+      "167.43",
+      "679.46",
+      "223.73",
+      "720.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LOCDeoiremaktne oCg n o5eak Jdeue i c  6e   6",
+    "bbox": [
+      "322.56",
+      "681.46",
+      "369.30",
+      "721.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SKGElotoyensollaisaa e nBA  IirSsgtlop aWianscad Bev 3ee D1l gG2ui aosUtnld rI bPPeaAnilns  A9n Wleer h8  e8at Ale 9",
+    "bbox": [
+      "463.45",
+      "677.87",
+      "575.41",
+      "718.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Latte 7",
+    "bbox": [
+      "34.23",
+      "718.51",
+      "57.42",
+      "731.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Jasmine Silver Tip 6",
+    "bbox": [
+      "167.43",
+      "719.46",
+      "233.94",
+      "730.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Fentimans 5Rose Lemonade",
+    "bbox": [
+      "322.56",
+      "717.94",
+      "408.08",
+      "732.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HCooltd C Bhroecwo l6ate 5",
+    "bbox": [
+      "34.23",
+      "730.46",
+      "84.98",
+      "751.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MPeepapdeorwm iCnht aLemaovmesil e6    6",
+    "bbox": [
+      "167.43",
+      "729.46",
+      "242.96",
+      "750.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Fentimans Ginger Beer  77",
+    "bbox": [
+      "322.56",
+      "728.94",
+      "411.86",
+      "747.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Unsweetened Iced Tea",
+    "bbox": [
+      "167.43",
+      "749.46",
+      "243.65",
+      "756.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "5",
+    "bbox": [
+      "238.31",
+      "752.94",
+      "242.06",
+      "760.44"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

@@ -1,0 +1,3827 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/17/22, 11:21 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menus | Misirizzi Restaurant in New York City, NY",
+    "bbox": [
+      "265.55",
+      "15.70",
+      "441.45",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "M",
+    "bbox": [
+      "267.44",
+      "395.03",
+      "295.05",
+      "431.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "enus",
+    "bbox": [
+      "295.41",
+      "395.03",
+      "345.56",
+      "431.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CALL 212-375-0100",
+    "bbox": [
+      "246.43",
+      "695.91",
+      "365.82",
+      "713.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "253.57",
+      "738.66",
+      "358.69",
+      "756.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.misirizzi.nyc/menus/#drinks",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.93",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/10",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/17/22, 11:21 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menus | Misirizzi Restaurant in New York City, NY",
+    "bbox": [
+      "265.55",
+      "15.70",
+      "441.45",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DINNER",
+    "bbox": [
+      "186.68",
+      "81.66",
+      "241.55",
+      "99.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DRINKS",
+    "bbox": [
+      "278.50",
+      "81.66",
+      "331.43",
+      "99.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DESSERT",
+    "bbox": [
+      "368.39",
+      "81.66",
+      "425.55",
+      "99.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Spritz &",
+    "bbox": [
+      "211.52",
+      "153.82",
+      "309.26",
+      "189.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Negroni",
+    "bbox": [
+      "309.26",
+      "153.82",
+      "401.49",
+      "189.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Try to imagine. You and your friends are elegantly dressed and sitting in an open-air",
+    "bbox": [
+      "54.23",
+      "187.70",
+      "558.76",
+      "199.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "bar in an Italian square sipping a colorful drink with a sprig of rosemary or some",
+    "bbox": [
+      "67.14",
+      "205.70",
+      "545.85",
+      "217.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "other exotic herb. Smile. Life is Beautiful!",
+    "bbox": [
+      "188.19",
+      "223.70",
+      "424.82",
+      "235.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "APEROL SPRITZ",
+    "bbox": [
+      "51.50",
+      "274.55",
+      "180.25",
+      "292.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "“The most popular in Italy. Born in Venice in the 1950s, combines Aperol, Prosecco,",
+    "bbox": [
+      "51.50",
+      "298.70",
+      "537.70",
+      "310.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Soda, and a slice of orange”",
+    "bbox": [
+      "51.50",
+      "316.70",
+      "219.44",
+      "328.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "51.50",
+      "334.70",
+      "64.14",
+      "346.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HUGO",
+    "bbox": [
+      "51.50",
+      "373.55",
+      "104.64",
+      "391.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "“Invented by a bartender in Trentino-Alto Adige, combined the Edelflower Syrup,",
+    "bbox": [
+      "51.50",
+      "397.70",
+      "528.43",
+      "409.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Prosecco, Soda, mint leaves and lime or lemon”",
+    "bbox": [
+      "51.50",
+      "415.70",
+      "335.42",
+      "427.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "51.50",
+      "433.70",
+      "64.14",
+      "445.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LIMONIAMO",
+    "bbox": [
+      "51.50",
+      "472.55",
+      "154.50",
+      "490.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "“WHEN LIFE GIVES YOU LEMON...” “Limoniamo” in Italian means making out...just saying”",
+    "bbox": [
+      "51.50",
+      "496.70",
+      "560.16",
+      "508.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Limoncello, Prosecco, San Pellegrino Limonata",
+    "bbox": [
+      "51.50",
+      "514.70",
+      "326.20",
+      "526.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "51.50",
+      "532.70",
+      "64.14",
+      "544.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MEZCALITO",
+    "bbox": [
+      "51.50",
+      "571.55",
+      "150.32",
+      "589.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "“If Italy meets Mexico” Mezcal, Aperol, Pineapple Juice, Prosecco",
+    "bbox": [
+      "51.50",
+      "595.70",
+      "431.58",
+      "607.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "51.50",
+      "613.70",
+      "64.14",
+      "625.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "NEGRONI",
+    "bbox": [
+      "51.50",
+      "652.55",
+      "131.04",
+      "670.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "“Created in Florence at Caffè Casoni in 1919. It is attributed to Count Camillo Negroni",
+    "bbox": [
+      "51.50",
+      "676.70",
+      "553.15",
+      "688.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "who ordered his Americano with CgAinL iLn s2t1e2a-d3 7o5f -so01d0a0. It is spicy and bitter at the same",
+    "bbox": [
+      "51.50",
+      "694.70",
+      "561.16",
+      "713.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "time with its combination of Campari, Gin, Sweet Vermouth”",
+    "bbox": [
+      "51.50",
+      "712.70",
+      "409.76",
+      "724.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "51.50",
+      "730.70",
+      "63.81",
+      "742.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "253.57",
+      "738.66",
+      "358.69",
+      "756.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.misirizzi.nyc/menus/#drinks",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.93",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/10",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/17/22, 11:21 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Menus | Misirizzi Restaurant in New York City, NY",
+    "bbox": [
+      "265.55",
+      "15.70",
+      "441.45",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "NEGRONI SBAGLIATO",
+    "bbox": [
+      "51.50",
+      "36.80",
+      "233.95",
+      "54.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "“Everyone makes mistakes! Imagine if your mistake ended up being an extremely",
+    "bbox": [
+      "51.50",
+      "60.95",
+      "537.96",
+      "72.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "popular cocktail. This is what happened at Bar Basso in Milan in the 1960s, when the",
+    "bbox": [
+      "51.50",
+      "78.95",
+      "549.51",
+      "90.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "bartender mistakenly grabbed the sparkling wine instead of gin, the rest is history”",
+    "bbox": [
+      "51.50",
+      "96.95",
+      "543.61",
+      "108.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "15",
+    "bbox": [
+      "51.50",
+      "114.95",
+      "63.81",
+      "126.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PINK NEGRONI",
+    "bbox": [
+      "51.50",
+      "153.80",
+      "175.56",
+      "171.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "“Happiness is a pinky promise” Gin, Aperol, Martini Bianco, Grapefruit",
+    "bbox": [
+      "51.50",
+      "177.95",
+      "459.67",
+      "189.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "15",
+    "bbox": [
+      "51.50",
+      "195.95",
+      "63.81",
+      "207.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BLACK NEGRONI",
+    "bbox": [
+      "51.50",
+      "234.80",
+      "192.91",
+      "252.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "“I had a dream...so I added chinotto to my negroni” Gin, Martini Rosso, Campari, San",
+    "bbox": [
+      "51.50",
+      "258.95",
+      "551.54",
+      "270.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pellegrino Chinotto",
+    "bbox": [
+      "51.50",
+      "276.95",
+      "165.01",
+      "288.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "15",
+    "bbox": [
+      "51.50",
+      "294.95",
+      "63.81",
+      "306.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Signature Cock\u0000",
+    "bbox": [
+      "204.01",
+      "378.82",
+      "392.43",
+      "414.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "il",
+    "bbox": [
+      "393.15",
+      "378.82",
+      "408.99",
+      "414.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "LUCIFERO",
+    "bbox": [
+      "51.50",
+      "445.55",
+      "134.77",
+      "463.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "“Careful, too much tequila can bring the devil out of anyone” 21 seeds cucumber",
+    "bbox": [
+      "51.50",
+      "469.70",
+      "532.23",
+      "481.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "jalapeno Tequila, Habanero bitter, Aperol, lime juice, Tajin",
+    "bbox": [
+      "51.50",
+      "487.70",
+      "392.86",
+      "499.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "16",
+    "bbox": [
+      "51.50",
+      "505.70",
+      "63.66",
+      "517.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "NOCHE EN PANAMA",
+    "bbox": [
+      "51.50",
+      "544.55",
+      "223.60",
+      "562.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "“The night is young and so are you” Abuelo Anejo Rum, Pineapple Juice, Ginger Ale,",
+    "bbox": [
+      "51.50",
+      "568.70",
+      "545.22",
+      "580.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Mint",
+    "bbox": [
+      "51.50",
+      "586.70",
+      "76.83",
+      "598.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "16",
+    "bbox": [
+      "51.50",
+      "604.70",
+      "63.66",
+      "616.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "STREGARITA",
+    "bbox": [
+      "51.50",
+      "643.55",
+      "158.62",
+      "661.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "“Strega liqueur is an italian digestif that includes about 70 botanicals, most notably",
+    "bbox": [
+      "51.50",
+      "667.70",
+      "548.79",
+      "679.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "saffron” Mixed with Ojo De Tigre Mezcal and Grapefruit Juice is a tasty paloma twist”",
+    "bbox": [
+      "51.50",
+      "685.70",
+      "552.91",
+      "697.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CALL 212-375-0100",
+    "bbox": [
+      "246.43",
+      "695.91",
+      "365.82",
+      "713.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "16",
+    "bbox": [
+      "51.50",
+      "703.70",
+      "63.66",
+      "715.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "253.57",
+      "738.66",
+      "358.69",
+      "756.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "AMALFI COAST",
+    "bbox": [
+      "51.50",
+      "742.55",
+      "180.76",
+      "760.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.misirizzi.nyc/menus/#drinks",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.93",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/10",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/17/22, 11:21 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Menus | Misirizzi Restaurant in New York City, NY",
+    "bbox": [
+      "265.55",
+      "15.70",
+      "441.45",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "“Let us take you straight to Amalfi” Citrus Amalfi Gin, San Pellegrino Tonica, Thyme",
+    "bbox": [
+      "51.50",
+      "33.95",
+      "538.75",
+      "45.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "16",
+    "bbox": [
+      "51.50",
+      "51.95",
+      "63.66",
+      "63.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SANGRIA",
+    "bbox": [
+      "51.50",
+      "90.80",
+      "130.48",
+      "108.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Secret Recipe Pitcher available $ 60",
+    "bbox": [
+      "51.50",
+      "114.95",
+      "265.34",
+      "126.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "16",
+    "bbox": [
+      "51.50",
+      "132.95",
+      "63.66",
+      "144.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "W",
+    "bbox": [
+      "204.38",
+      "216.82",
+      "229.01",
+      "252.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ine By The Glass",
+    "bbox": [
+      "229.73",
+      "216.82",
+      "408.61",
+      "252.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "(By The Glass)",
+    "bbox": [
+      "263.53",
+      "250.70",
+      "349.48",
+      "262.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CANNELLA PROSECCO BRUT",
+    "bbox": [
+      "51.50",
+      "301.55",
+      "294.97",
+      "319.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CANNELLA PROSECCO BRUT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "(toasted almond and yellow apple follow over to the lean vivacious palate along",
+    "bbox": [
+      "51.50",
+      "325.70",
+      "534.01",
+      "337.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(toasted almond and yellow apple follow over to the lean vivacious palate along",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "with citrus zest. It's simple and refreshing, with crisp acidity and a vigorous perlage)",
+    "bbox": [
+      "51.50",
+      "343.70",
+      "549.54",
+      "355.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "with citrus zest. It's simple and refreshing, with crisp acidity and a vigorous perlage)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "(Veneto) 12",
+    "bbox": [
+      "51.50",
+      "361.70",
+      "119.68",
+      "373.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(Veneto) 12",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "12",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "COSTARIPA",
+    "bbox": [
+      "51.50",
+      "400.55",
+      "152.48",
+      "418.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Rose'",
+    "bbox": [
+      "51.50",
+      "424.70",
+      "82.09",
+      "436.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rose'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "(Lombardia) 13",
+    "bbox": [
+      "51.50",
+      "442.70",
+      "142.47",
+      "454.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(Lombardia)",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MONTECARIANO VALPOLICELLA CLASSICO 2018",
+    "bbox": [
+      "51.50",
+      "481.55",
+      "461.47",
+      "499.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MONTECARIANO VALPOLICELLA CLASSICO",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "(fruity aroma with hints of sour cherry and violet. Harmonious and balanced with",
+    "bbox": [
+      "51.50",
+      "505.70",
+      "534.22",
+      "517.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "hints of fresh fruit, cherries and berries. Pleasant minerality elegant and stable",
+    "bbox": [
+      "51.50",
+      "523.70",
+      "517.70",
+      "535.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "tannins)",
+    "bbox": [
+      "51.50",
+      "541.70",
+      "101.68",
+      "553.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "(Veneto) 16",
+    "bbox": [
+      "51.50",
+      "559.70",
+      "120.47",
+      "571.70"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CATALDI MADONNA MONTEPULCIANO D'ABRUZZO 2019",
+    "bbox": [
+      "51.50",
+      "598.55",
+      "528.05",
+      "616.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CATALDI MADONNA MONTEPULCIANO D'ABRUZZO",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "(intense, clean aromas of blackcherry, blueberry, plum and violet, agreeable tannins,",
+    "bbox": [
+      "51.50",
+      "622.70",
+      "559.05",
+      "634.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "god body and intense flavor)",
+    "bbox": [
+      "51.50",
+      "640.70",
+      "225.96",
+      "652.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "(Abruzzo) 17",
+    "bbox": [
+      "51.50",
+      "658.70",
+      "123.49",
+      "670.70"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "COLPETRONE MOLTEFACLACLLO 2 1R2O-3S75S-O01 020015",
+    "bbox": [
+      "51.50",
+      "695.91",
+      "396.22",
+      "715.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "(ample fruit nose of raspberries and hints of spices and vanilla.Structured with",
+    "bbox": [
+      "51.50",
+      "721.70",
+      "519.88",
+      "733.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "tannins that complement the wineR’sE SroEuRnVdAnTesIsO)NS",
+    "bbox": [
+      "51.50",
+      "738.66",
+      "358.69",
+      "756.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.misirizzi.nyc/menus/#drinks",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.93",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/10",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/17/22, 11:21 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Menus | Misirizzi Restaurant in New York City, NY",
+    "bbox": [
+      "265.55",
+      "15.70",
+      "441.45",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(Umbria) 15",
+    "bbox": [
+      "51.50",
+      "33.95",
+      "122.02",
+      "45.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "OTELLA LUGANA 2019",
+    "bbox": [
+      "51.50",
+      "72.80",
+      "235.14",
+      "90.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(sweet and citrus, mineral, fine and elegant, warm and persistent)",
+    "bbox": [
+      "51.50",
+      "96.95",
+      "446.70",
+      "108.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(Veneto) 13",
+    "bbox": [
+      "51.50",
+      "114.95",
+      "120.08",
+      "126.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CORTE DEI PAPI PASSERINA 2019",
+    "bbox": [
+      "51.50",
+      "153.80",
+      "330.61",
+      "171.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(full bodied, fresh and fruity with tropical notes, smooth and aromatic, high acidity)",
+    "bbox": [
+      "51.50",
+      "177.95",
+      "548.25",
+      "189.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(Lazio) 14",
+    "bbox": [
+      "51.50",
+      "195.95",
+      "107.61",
+      "207.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ANTINORI CHARDONNAY \"BRAMITO\"",
+    "bbox": [
+      "51.50",
+      "234.80",
+      "363.08",
+      "252.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(dry medium bodied, half aged in steel and half in barrel, oak, butter and vanilla",
+    "bbox": [
+      "51.50",
+      "258.95",
+      "529.76",
+      "270.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "notes, good balance, high quality)",
+    "bbox": [
+      "51.50",
+      "276.95",
+      "256.58",
+      "288.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(Umbria) 16",
+    "bbox": [
+      "51.50",
+      "294.95",
+      "121.86",
+      "306.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sparkling",
+    "bbox": [
+      "251.70",
+      "378.82",
+      "361.29",
+      "414.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bottle",
+    "bbox": [
+      "289.41",
+      "412.70",
+      "323.58",
+      "424.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ANTICA FRATTA FRANCIACORTA BRUT",
+    "bbox": [
+      "51.50",
+      "463.55",
+      "383.24",
+      "481.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(rich tropical bouquet. Medium bodied on the palate with a refreshing mousse and",
+    "bbox": [
+      "51.50",
+      "487.70",
+      "547.56",
+      "499.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "flavors of green apple, pear, and melon)",
+    "bbox": [
+      "51.50",
+      "505.70",
+      "292.75",
+      "517.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(Lombardia) 80",
+    "bbox": [
+      "51.50",
+      "523.70",
+      "146.30",
+      "535.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "H. BLIN CHAMPAGNE 2009",
+    "bbox": [
+      "51.50",
+      "562.55",
+      "279.13",
+      "580.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(full of white fruits and just hinting at more mature nuttiness, this rich wine is ripe, full",
+    "bbox": [
+      "51.50",
+      "586.70",
+      "555.57",
+      "598.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "and already delicious)",
+    "bbox": [
+      "51.50",
+      "604.70",
+      "186.54",
+      "616.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(Champagne) 130",
+    "bbox": [
+      "51.50",
+      "622.70",
+      "162.06",
+      "634.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "W",
+    "bbox": [
+      "241.25",
+      "676.57",
+      "265.87",
+      "712.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "hite W",
+    "bbox": [
+      "265.87",
+      "676.57",
+      "339.42",
+      "712.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ine",
+    "bbox": [
+      "340.14",
+      "676.57",
+      "371.75",
+      "712.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CALL 212-375-0100",
+    "bbox": [
+      "246.43",
+      "695.91",
+      "365.82",
+      "713.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bottle",
+    "bbox": [
+      "289.41",
+      "710.45",
+      "323.58",
+      "722.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "253.57",
+      "738.66",
+      "358.69",
+      "756.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.misirizzi.nyc/menus/#drinks",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.93",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/10",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/17/22, 11:21 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Menus | Misirizzi Restaurant in New York City, NY",
+    "bbox": [
+      "265.55",
+      "15.70",
+      "441.45",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MASO POLI PINOT GRIGIO 2020",
+    "bbox": [
+      "51.50",
+      "36.80",
+      "320.56",
+      "54.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(full bodied dry, delicate to the nose, hints of pear, good balance and lasting)",
+    "bbox": [
+      "51.50",
+      "60.95",
+      "514.05",
+      "72.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(Trentino) 55",
+    "bbox": [
+      "51.50",
+      "78.95",
+      "129.96",
+      "90.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "SAN MICHELE MULLER THURGAU 2019",
+    "bbox": [
+      "51.50",
+      "117.80",
+      "370.96",
+      "135.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(elegant, soft, slightly aromatic, with overtones of flowers and citrus)",
+    "bbox": [
+      "51.50",
+      "141.95",
+      "459.86",
+      "153.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(Trentino) 60",
+    "bbox": [
+      "51.50",
+      "159.95",
+      "129.83",
+      "171.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "OTELLA LUGANA 2019",
+    "bbox": [
+      "51.50",
+      "198.80",
+      "235.14",
+      "216.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(sweet and citrus, mineral, fine and elegant, warm and persistent)",
+    "bbox": [
+      "51.50",
+      "222.95",
+      "446.70",
+      "234.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(Veneto) 60",
+    "bbox": [
+      "51.50",
+      "240.95",
+      "123.78",
+      "252.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CORTE DEI PAPI PASSERINA 2019",
+    "bbox": [
+      "51.50",
+      "279.80",
+      "330.61",
+      "297.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(full bodied, fresh and fruity with tropical notes, smooth and aromatic, high acidity)",
+    "bbox": [
+      "51.50",
+      "303.95",
+      "548.25",
+      "315.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(Lazio) 50",
+    "bbox": [
+      "51.50",
+      "321.95",
+      "110.60",
+      "333.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "TENUTA LUISA RIBOLLA GIALLA 2019",
+    "bbox": [
+      "51.50",
+      "360.80",
+      "355.99",
+      "378.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(dry, slighty citrus flavor, pleasant and delicate bouquet, flower note that recall",
+    "bbox": [
+      "51.50",
+      "384.95",
+      "522.60",
+      "396.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "acacia)",
+    "bbox": [
+      "51.50",
+      "402.95",
+      "98.80",
+      "414.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(Friuli V.G.) 55",
+    "bbox": [
+      "51.50",
+      "420.95",
+      "133.94",
+      "432.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MARCHESE ANTINORI CHARDONNAY BRAMITO 2019",
+    "bbox": [
+      "51.50",
+      "459.80",
+      "496.60",
+      "477.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(dry medium bodied, half aged in steel, half in barrel, oak, butter, vanilla notes, good",
+    "bbox": [
+      "51.50",
+      "483.95",
+      "554.10",
+      "495.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "balance, high quality)",
+    "bbox": [
+      "51.50",
+      "501.95",
+      "182.78",
+      "513.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(Umbria) 65",
+    "bbox": [
+      "51.50",
+      "519.95",
+      "125.15",
+      "531.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "COLOSI SALINA BIANCO 2020",
+    "bbox": [
+      "51.50",
+      "558.80",
+      "306.47",
+      "576.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(full bodied, sapid and fresh with peach character, spring flowers bouquet",
+    "bbox": [
+      "51.50",
+      "582.95",
+      "494.91",
+      "594.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(Sicilia) 55",
+    "bbox": [
+      "51.50",
+      "600.95",
+      "115.44",
+      "612.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "DONNA PAOLINA GRECO DI TUFO 2020",
+    "bbox": [
+      "51.50",
+      "639.80",
+      "385.98",
+      "657.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(notes of apricot, peach, and pear on the nose. The palate is smooth and mineral",
+    "bbox": [
+      "51.50",
+      "663.95",
+      "537.54",
+      "675.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "driven with an elegant structure)",
+    "bbox": [
+      "51.50",
+      "681.95",
+      "247.93",
+      "693.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CALL 212-375-0100",
+    "bbox": [
+      "246.43",
+      "695.91",
+      "365.82",
+      "713.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(Campania) 60",
+    "bbox": [
+      "51.50",
+      "699.95",
+      "145.76",
+      "711.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "PODERI ARCANGELO VERRENSEARCVACTIIAO NSSAN GIMIGNANO 2020",
+    "bbox": [
+      "51.50",
+      "738.66",
+      "536.87",
+      "756.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://www.misirizzi.nyc/menus/#drinks",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.93",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/10",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/17/22, 11:21 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Menus | Misirizzi Restaurant in New York City, NY",
+    "bbox": [
+      "265.55",
+      "15.70",
+      "441.45",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "(deep and delicate bouquet with scents of fresh fruits and white wild flowers.",
+    "bbox": [
+      "51.50",
+      "33.95",
+      "510.56",
+      "45.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Pleasant finish leaves characteristic almond notes lingering on the palate)",
+    "bbox": [
+      "51.50",
+      "51.95",
+      "497.76",
+      "63.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "(Toscana) 50",
+    "bbox": [
+      "51.50",
+      "69.95",
+      "132.84",
+      "81.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BROGLIA GAVI DI GAVI 2020",
+    "bbox": [
+      "51.50",
+      "108.80",
+      "295.02",
+      "126.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "(dry, high acidity, medium bodied, mineral with stone aromas on palate)",
+    "bbox": [
+      "51.50",
+      "132.95",
+      "486.88",
+      "144.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "(Piemonte) 60",
+    "bbox": [
+      "51.50",
+      "150.95",
+      "137.93",
+      "162.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BORTOLUZZI SAUVIGNON BLANC 2018",
+    "bbox": [
+      "51.50",
+      "189.80",
+      "377.43",
+      "207.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "(dry, medium acidity, light bouquet, apricot peach notes, medium finish)",
+    "bbox": [
+      "51.50",
+      "213.95",
+      "486.08",
+      "225.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "(Friuli V.G.) 55",
+    "bbox": [
+      "51.50",
+      "231.95",
+      "133.94",
+      "243.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "KLAUS LENTSCH PINOT BIANCO 2019",
+    "bbox": [
+      "51.50",
+      "270.80",
+      "365.47",
+      "288.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "( fresh and rac aroma, reminiscent of green apples and meadow blossoms. On the",
+    "bbox": [
+      "51.50",
+      "294.95",
+      "548.11",
+      "306.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "palate it is full, fresh and lively with a surprising and impressive body)",
+    "bbox": [
+      "51.50",
+      "312.95",
+      "465.91",
+      "324.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "(Trentino) 60",
+    "bbox": [
+      "51.50",
+      "330.95",
+      "129.83",
+      "342.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Red W",
+    "bbox": [
+      "254.08",
+      "414.82",
+      "326.59",
+      "450.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ine",
+    "bbox": [
+      "327.31",
+      "414.82",
+      "358.91",
+      "450.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Bottle",
+    "bbox": [
+      "289.41",
+      "448.70",
+      "323.58",
+      "460.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "TENUTE SAN LEONARDO SAN LEONARDO 2015",
+    "bbox": [
+      "51.50",
+      "499.55",
+      "442.60",
+      "517.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "(remarkable intensity on the nose, which layers bell peppers and wild berries over a",
+    "bbox": [
+      "51.50",
+      "523.70",
+      "551.22",
+      "535.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "background note of vanilla. Palate is full, warm and impressively rounded)",
+    "bbox": [
+      "51.50",
+      "541.70",
+      "494.85",
+      "553.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "(Trentino) 190",
+    "bbox": [
+      "51.50",
+      "559.70",
+      "134.08",
+      "571.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "GIOVANNI ROSSO LANGHE NEBBIOLO 2019",
+    "bbox": [
+      "51.50",
+      "598.55",
+      "415.35",
+      "616.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "(very elegant, notes of violet and roses, on the palate it is dry and well-balanced,",
+    "bbox": [
+      "51.50",
+      "622.70",
+      "534.98",
+      "634.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "with a nice structure, smooth tannins and a good freshness)",
+    "bbox": [
+      "51.50",
+      "640.70",
+      "412.33",
+      "652.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "(Piemonte) 65",
+    "bbox": [
+      "51.50",
+      "658.70",
+      "137.90",
+      "670.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "PRUNOTTO BAROLO DOCACLGL 2 2120-13675-0100",
+    "bbox": [
+      "51.50",
+      "695.91",
+      "365.82",
+      "715.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "(full bodied, velvety, very balanced, ample and complex aromas of violets and berry",
+    "bbox": [
+      "51.50",
+      "721.70",
+      "554.73",
+      "733.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "fruit)",
+    "bbox": [
+      "51.50",
+      "739.70",
+      "80.37",
+      "751.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "253.57",
+      "738.66",
+      "358.69",
+      "756.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://www.misirizzi.nyc/menus/#drinks",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.93",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/10",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/17/22, 11:21 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Menus | Misirizzi Restaurant in New York City, NY",
+    "bbox": [
+      "265.55",
+      "15.70",
+      "441.45",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "(Piemonte) 130",
+    "bbox": [
+      "51.50",
+      "33.95",
+      "142.05",
+      "45.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CASCINA DEL TORCC BAROLO 2016",
+    "bbox": [
+      "51.50",
+      "72.80",
+      "356.65",
+      "90.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "(dry, medium bodied, well structured tannin, earthy cherry aromas, black fruit and",
+    "bbox": [
+      "51.50",
+      "96.95",
+      "542.07",
+      "108.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "leather on the palate)",
+    "bbox": [
+      "51.50",
+      "114.95",
+      "182.97",
+      "126.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "(Piemonte) 70",
+    "bbox": [
+      "51.50",
+      "132.95",
+      "136.70",
+      "144.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BRUNO ROCCA BARBARESCO 2017",
+    "bbox": [
+      "51.50",
+      "171.80",
+      "350.79",
+      "189.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "(lots of ripe berries and round tannins that give the wine richness and softness)",
+    "bbox": [
+      "51.50",
+      "195.95",
+      "526.36",
+      "207.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "(Piemonte) 160",
+    "bbox": [
+      "51.50",
+      "213.95",
+      "142.44",
+      "225.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MONTECARIANO AMARONE CLASSICO 2016",
+    "bbox": [
+      "51.50",
+      "252.80",
+      "427.93",
+      "270.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "(structured and silky, enveloped in spices such as black pepper, cloves and",
+    "bbox": [
+      "51.50",
+      "276.95",
+      "502.51",
+      "288.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "cinnamon. Excellent balance between acidity and tannins, sophisticated scents of",
+    "bbox": [
+      "51.50",
+      "294.95",
+      "542.38",
+      "306.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "chocolate and hazelnut)",
+    "bbox": [
+      "51.50",
+      "312.95",
+      "199.11",
+      "324.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "(Veneto) 140",
+    "bbox": [
+      "51.50",
+      "330.95",
+      "128.77",
+      "342.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MONTECARIANO VALPOLICELLA CLASSICO 2018",
+    "bbox": [
+      "51.50",
+      "369.80",
+      "461.47",
+      "387.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "(fruity aroma with hints of sour cherry and violet. Harmonious and balanced with",
+    "bbox": [
+      "51.50",
+      "393.95",
+      "534.22",
+      "405.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "hints of fresh fruit, cherries and berries. Pleasant minerality elegant and stable",
+    "bbox": [
+      "51.50",
+      "411.95",
+      "517.70",
+      "423.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "tannins)",
+    "bbox": [
+      "51.50",
+      "429.95",
+      "101.68",
+      "441.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "(Veneto) 64",
+    "bbox": [
+      "51.50",
+      "447.95",
+      "124.08",
+      "459.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "RONCHI DI CIALLA RIBOLLA NERA 2018",
+    "bbox": [
+      "51.50",
+      "486.80",
+      "378.13",
+      "504.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "(strikingly unique bouquet that bursts open with beautiful aromas of black pepper",
+    "bbox": [
+      "51.50",
+      "510.95",
+      "543.15",
+      "522.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "and dusty spicebox. Red berries come through, along with a spicy finish)",
+    "bbox": [
+      "51.50",
+      "528.95",
+      "484.54",
+      "540.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "(Friuli V.G.) 68",
+    "bbox": [
+      "51.50",
+      "546.95",
+      "133.76",
+      "558.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MARCHESE ANTINORI SUPERTUSCAN “IL BRUCIATO” 2020",
+    "bbox": [
+      "51.50",
+      "585.80",
+      "544.77",
+      "603.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "(full bodied, dry and oaky, aromas of blackberries and blueberries, medium tannins,",
+    "bbox": [
+      "51.50",
+      "609.95",
+      "552.93",
+      "621.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "well balanced acidity)",
+    "bbox": [
+      "51.50",
+      "627.95",
+      "184.88",
+      "639.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "(Toscana) 90",
+    "bbox": [
+      "51.50",
+      "645.95",
+      "132.42",
+      "657.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MARCHESE ANTINORI CHIANTI CLASSICO RISERVA 2016",
+    "bbox": [
+      "51.50",
+      "684.80",
+      "528.07",
+      "702.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CALL 212-375-0100",
+    "bbox": [
+      "246.43",
+      "695.91",
+      "365.82",
+      "713.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "(aged in large oak casts, full bodied, black and red fruit aromas with toasty oak and",
+    "bbox": [
+      "51.50",
+      "708.95",
+      "552.73",
+      "720.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "herb savory tannins, long finish)",
+    "bbox": [
+      "51.50",
+      "726.95",
+      "242.50",
+      "738.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "253.57",
+      "738.66",
+      "358.69",
+      "756.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "(Toscana) 100",
+    "bbox": [
+      "51.50",
+      "744.95",
+      "137.38",
+      "756.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://www.misirizzi.nyc/menus/#drinks",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.93",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/10",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "4/17/22, 11:21 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Menus | Misirizzi Restaurant in New York City, NY",
+    "bbox": [
+      "265.55",
+      "15.70",
+      "441.45",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "MARCHESE ANTINORI \"GUADO AL TASSO\" BOLGHERI",
+    "bbox": [
+      "51.50",
+      "36.80",
+      "496.77",
+      "54.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "SUPERIORE 2017",
+    "bbox": [
+      "51.50",
+      "63.80",
+      "188.97",
+      "81.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(rich with powerful fruit and tannins, yet always polished and beautiful. Intense",
+    "bbox": [
+      "51.50",
+      "87.95",
+      "521.28",
+      "99.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "vanilla to the underlying ripe currants and blackberries. Full-bodied, very tight and",
+    "bbox": [
+      "51.50",
+      "105.95",
+      "542.97",
+      "117.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "polished.)",
+    "bbox": [
+      "51.50",
+      "123.95",
+      "110.66",
+      "135.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(Toscana) 350",
+    "bbox": [
+      "51.50",
+      "141.95",
+      "140.10",
+      "153.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "FATTORIA DEL CERRO NOBILE MONTEPULCIANO 2015",
+    "bbox": [
+      "51.50",
+      "180.80",
+      "502.51",
+      "198.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Nobile Montepulciano 2014 (full bodied, massive in the mouth, ripe and powerful",
+    "bbox": [
+      "51.50",
+      "204.95",
+      "529.26",
+      "216.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "aromas of berries and smoke, big velvety tannins and long finish)",
+    "bbox": [
+      "51.50",
+      "222.95",
+      "443.12",
+      "234.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(Toscana) 70",
+    "bbox": [
+      "51.50",
+      "240.95",
+      "131.46",
+      "252.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "FOSSACOLLE ROSSO DI MONTALCINO 2019",
+    "bbox": [
+      "51.50",
+      "279.80",
+      "419.26",
+      "297.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(on the nose is fresh and fruity, with some hints of tertiary scents. A firm structure,",
+    "bbox": [
+      "51.50",
+      "303.95",
+      "536.56",
+      "315.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "shows already great roundness, supports the alcohol content in perfect equilibrium)",
+    "bbox": [
+      "51.50",
+      "321.95",
+      "555.49",
+      "333.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(Toscana) 80",
+    "bbox": [
+      "51.50",
+      "339.95",
+      "132.82",
+      "351.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "PIETRANERA BRUNELLO DI MONTALCINO 2016",
+    "bbox": [
+      "51.50",
+      "378.80",
+      "439.87",
+      "396.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(on the nose it presents a wide range of aromas with hints of fruit and spices along",
+    "bbox": [
+      "51.50",
+      "402.95",
+      "547.99",
+      "414.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "with nuances of cacao and chocolate. Supple tannins stand out in the elegant and",
+    "bbox": [
+      "51.50",
+      "420.95",
+      "547.60",
+      "432.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "long finish)",
+    "bbox": [
+      "51.50",
+      "438.95",
+      "118.05",
+      "450.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(Toscana) 130",
+    "bbox": [
+      "51.50",
+      "456.95",
+      "136.81",
+      "468.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "CATALDI MADONNA MONTEPULCIANO D’ABRUZZO 2019",
+    "bbox": [
+      "51.50",
+      "495.80",
+      "529.31",
+      "513.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(intense, clean aromas of blackcherry, blueberry, plum and violet, agreeable tannins,",
+    "bbox": [
+      "51.50",
+      "519.95",
+      "559.05",
+      "531.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "god body and intense flavor)",
+    "bbox": [
+      "51.50",
+      "537.95",
+      "225.96",
+      "549.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(Abruzzo) 68",
+    "bbox": [
+      "51.50",
+      "555.95",
+      "127.97",
+      "567.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "TRULLO DI PEZZA PRIMITIVO DI MANDURIA “LICURTI”",
+    "bbox": [
+      "51.50",
+      "594.80",
+      "496.21",
+      "612.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(fresh floral notes complement tangerine, lemon and yellow apple. Perfect balance",
+    "bbox": [
+      "51.50",
+      "618.95",
+      "549.14",
+      "630.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "of acidity with a long clean finish resonating with green papaya and English custard)",
+    "bbox": [
+      "51.50",
+      "636.95",
+      "559.15",
+      "648.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(Puglia) 60",
+    "bbox": [
+      "51.50",
+      "654.95",
+      "117.82",
+      "666.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "GRIFALCO AGLIANICO DCAELLL  V21U2-L3T7U5-R01E0 0“DAMASCHITO” 2016",
+    "bbox": [
+      "51.50",
+      "693.80",
+      "541.95",
+      "713.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(smokey and mineral-driven on the nose with a hint of dried flowers. cocoa and",
+    "bbox": [
+      "51.50",
+      "717.95",
+      "528.48",
+      "729.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "graphite on the palate with mouthR fEillSinEgR tVaAnTnIinOs NanSd a long-lasting finish)",
+    "bbox": [
+      "51.50",
+      "735.95",
+      "495.25",
+      "756.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "https://www.misirizzi.nyc/menus/#drinks",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.93",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "9/10",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "4/17/22, 11:21 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Menus | Misirizzi Restaurant in New York City, NY",
+    "bbox": [
+      "265.55",
+      "15.70",
+      "441.45",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "(Basilicata) 110",
+    "bbox": [
+      "51.50",
+      "33.95",
+      "140.91",
+      "45.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "FEDERICO GRAZIANI ETNA ROSSO “ROSSO DI MEZZO”",
+    "bbox": [
+      "51.50",
+      "72.80",
+      "507.55",
+      "90.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "(fruit-driven aromas, followed by notes of caper leaf and fresh aromatic herbs. On",
+    "bbox": [
+      "51.50",
+      "96.95",
+      "543.27",
+      "108.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "the palate lively, elegant, and subtle, with a flinty, mineral-driven finish)",
+    "bbox": [
+      "51.50",
+      "114.95",
+      "476.74",
+      "126.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "(Sicilia) 175",
+    "bbox": [
+      "51.50",
+      "132.95",
+      "118.57",
+      "144.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "NURAGHE CRABIONI CANNONAU 2019",
+    "bbox": [
+      "51.50",
+      "171.80",
+      "380.79",
+      "189.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "(Intense with sweet notes of ripe red fruit reminiscent of Maraschino cherries under",
+    "bbox": [
+      "51.50",
+      "195.95",
+      "547.40",
+      "207.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "spirits, powerful and warm wine that is soft and intense in the mouth with persistent",
+    "bbox": [
+      "51.50",
+      "213.95",
+      "550.68",
+      "225.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "aroma)",
+    "bbox": [
+      "51.50",
+      "231.95",
+      "97.69",
+      "243.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "(Sardegna) 55",
+    "bbox": [
+      "51.50",
+      "249.95",
+      "140.28",
+      "261.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "CALL 212-375-0100",
+    "bbox": [
+      "246.43",
+      "695.91",
+      "365.82",
+      "713.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "253.57",
+      "738.66",
+      "358.69",
+      "756.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "https://www.misirizzi.nyc/menus/#drinks",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.93",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "10/10",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

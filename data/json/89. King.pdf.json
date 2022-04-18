@@ -1,0 +1,5212 @@
+[
+  {
+    "page_number": 1,
+    "text": "Wines by the Bottle",
+    "bbox": [
+      "351.35",
+      "19.72",
+      "442.85",
+      "29.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "White",
+    "bbox": [
+      "583.92",
+      "66.03",
+      "610.93",
+      "75.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sparkling",
+    "bbox": [
+      "183.30",
+      "78.28",
+      "225.31",
+      "87.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Italy",
+    "bbox": [
+      "419.63",
+      "77.28",
+      "440.38",
+      "86.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dry Lambrusco San Vincent, Gianluca Bergianti",
+    "bbox": [
+      "42.27",
+      "89.80",
+      "226.06",
+      "98.80"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Dry Lambrusco San Vincent, Gianluca Bergianti",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "75",
+    "bbox": [
+      "362.38",
+      "89.80",
+      "374.36",
+      "98.80"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "75",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rosato Spumante Terre Siciliane Brut, COS 2019",
+    "bbox": [
+      "42.27",
+      "101.05",
+      "227.81",
+      "110.05"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rosato Spumante Terre Siciliane Brut, COS",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "95",
+    "bbox": [
+      "362.38",
+      "101.05",
+      "374.36",
+      "110.05"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Blanc de Morgex Ventanni, Ermes Pavese 2013 (Valle d'Aosta)",
+    "bbox": [
+      "420.13",
+      "100.77",
+      "667.90",
+      "110.77"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Blanc de Morgex Ventanni, Ermes Pavese",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "105",
+    "bbox": [
+      "758.50",
+      "101.05",
+      "775.48",
+      "110.05"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "105",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rosé Champagne Shaman Grand Cru Extra Brut, Marguet NV",
+    "bbox": [
+      "42.27",
+      "112.55",
+      "274.31",
+      "121.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rosé Champagne Shaman Grand Cru Extra Brut, Marguet",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "135",
+    "bbox": [
+      "357.38",
+      "112.55",
+      "374.36",
+      "121.55"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "135",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Kerner, Manni Nössing 2017 (Alto Adige)",
+    "bbox": [
+      "420.13",
+      "113.55",
+      "588.15",
+      "122.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Kerner, Manni Nössing",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "85",
+    "bbox": [
+      "763.50",
+      "113.05",
+      "775.48",
+      "122.05"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne Grand Cuvee, Thomas Perseval 2015",
+    "bbox": [
+      "42.27",
+      "124.05",
+      "232.06",
+      "133.05"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne Grand Cuvee, Thomas Perseval",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "145",
+    "bbox": [
+      "357.38",
+      "124.05",
+      "374.36",
+      "133.05"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "145",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Malvasia Chioma Integrale, Vignai da Duline 2019 (Friuli)",
+    "bbox": [
+      "427.63",
+      "125.30",
+      "648.93",
+      "134.30"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Malvasia Chioma Integrale, Vignai da Duline",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "95",
+    "bbox": [
+      "763.50",
+      "125.30",
+      "775.48",
+      "134.30"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne Les Vignes Basses Blanc de Noirs, Julien Prélat NV",
+    "bbox": [
+      "42.27",
+      "135.30",
+      "277.58",
+      "144.30"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne Les Vignes Basses Blanc de Noirs, Julien Prélat",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "125",
+    "bbox": [
+      "357.38",
+      "135.30",
+      "374.36",
+      "144.30"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "125",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Colio Bianco, Borgo del Tiglio 2018 (Friuli)",
+    "bbox": [
+      "427.63",
+      "137.30",
+      "593.93",
+      "146.30"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Colio Bianco, Borgo del Tiglio",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "85",
+    "bbox": [
+      "763.50",
+      "137.30",
+      "775.48",
+      "146.30"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne Special Club, Grongnet 2014",
+    "bbox": [
+      "42.27",
+      "146.83",
+      "200.56",
+      "155.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne Special Club, Grongnet",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "135",
+    "bbox": [
+      "357.38",
+      "146.83",
+      "374.36",
+      "155.83"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "135",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Friulano Buri Bellaria, Ronco del Gnemiz 2019 (Friuli)",
+    "bbox": [
+      "419.63",
+      "149.58",
+      "636.68",
+      "158.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Friulano Buri Bellaria, Ronco del Gnemiz",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "120",
+    "bbox": [
+      "758.50",
+      "149.58",
+      "775.48",
+      "158.58"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "120",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne Mouvance Brut Nature, A. Lamblot 2017",
+    "bbox": [
+      "42.27",
+      "158.08",
+      "246.06",
+      "167.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne Mouvance Brut Nature, A. Lamblot",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "150",
+    "bbox": [
+      "357.38",
+      "158.08",
+      "374.36",
+      "167.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "150",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Vitovska, Edi Kante 2013 (Friuli)",
+    "bbox": [
+      "427.63",
+      "161.58",
+      "555.65",
+      "170.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Vitovska, Edi Kante",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "95",
+    "bbox": [
+      "763.50",
+      "161.58",
+      "775.48",
+      "170.58"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne Val Vilaine Blanc de Noirs, Cédric Bouchard 2019",
+    "bbox": [
+      "42.27",
+      "169.58",
+      "277.58",
+      "178.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne Val Vilaine Blanc de Noirs, Cédric Bouchard",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "165",
+    "bbox": [
+      "357.38",
+      "169.58",
+      "374.36",
+      "178.58"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "165",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Vitovska Solo  Vodopivec 2016 (Friuli)",
+    "bbox": [
+      "427.63",
+      "173.83",
+      "576.90",
+      "182.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Vitovska Solo  Vodopivec",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "135",
+    "bbox": [
+      "758.50",
+      "173.83",
+      "775.48",
+      "182.83"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "135",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne Blanc de Blancs Mineral, Pascal Agrapart 2015",
+    "bbox": [
+      "42.27",
+      "180.83",
+      "269.56",
+      "189.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne Blanc de Blancs Mineral, Pascal Agrapart",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "185",
+    "bbox": [
+      "357.38",
+      "180.83",
+      "374.36",
+      "189.83"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "185",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bianco Secco Ca’ del Merlo, Giuseppe Quintarelli 2019 (Veneto)",
+    "bbox": [
+      "427.63",
+      "185.83",
+      "670.46",
+      "194.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bianco Secco Ca’ del Merlo, Giuseppe Quintarelli",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "120",
+    "bbox": [
+      "758.50",
+      "185.83",
+      "775.48",
+      "194.83"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "120",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne Blanc de Blancs Beaux Regards, Bérêche 2017",
+    "bbox": [
+      "42.27",
+      "192.33",
+      "263.56",
+      "201.33"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne Blanc de Blancs Beaux Regards, Bérêche",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "225",
+    "bbox": [
+      "357.38",
+      "192.33",
+      "374.36",
+      "201.33"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "225",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Timorasso Derthona, Vigneti Massa 2019 (Piemonte)",
+    "bbox": [
+      "427.63",
+      "198.08",
+      "632.43",
+      "207.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Timorasso Derthona, Vigneti Massa",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "75",
+    "bbox": [
+      "763.50",
+      "198.08",
+      "775.48",
+      "207.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "75",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne Les Pierrieres Extra Brut Blanc de Blancs, Ulysse Collin NV",
+    "bbox": [
+      "42.27",
+      "203.58",
+      "311.08",
+      "212.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne Les Pierrieres Extra Brut Blanc de Blancs, Ulysse Collin",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "265",
+    "bbox": [
+      "357.38",
+      "203.58",
+      "374.36",
+      "212.58"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "265",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Roero Arneis Loreto, Valfaccenda 2017 (Piemonte)",
+    "bbox": [
+      "427.63",
+      "210.10",
+      "624.18",
+      "219.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Roero Arneis Loreto, Valfaccenda",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "95",
+    "bbox": [
+      "763.50",
+      "210.10",
+      "775.48",
+      "219.10"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne Basses Croix Blanc de Blancs, Emilien Feneuil 2016",
+    "bbox": [
+      "42.27",
+      "215.10",
+      "283.83",
+      "224.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne Basses Croix Blanc de Blancs, Emilien Feneuil",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "285",
+    "bbox": [
+      "357.38",
+      "215.10",
+      "374.36",
+      "224.10"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "285",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sauvignon Blanc, Sesti 2018 (Toscana)",
+    "bbox": [
+      "427.63",
+      "222.35",
+      "577.65",
+      "231.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc, Sesti",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "75",
+    "bbox": [
+      "763.50",
+      "222.35",
+      "775.48",
+      "231.35"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "75",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Vernacchia di San Gimignano Carato, Montenidoli 2017 (Toscana)",
+    "bbox": [
+      "427.63",
+      "234.35",
+      "682.21",
+      "243.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Vernacchia di San Gimignano Carato, Montenidoli",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "105",
+    "bbox": [
+      "758.50",
+      "234.35",
+      "775.48",
+      "243.35"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "105",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "White",
+    "bbox": [
+      "190.80",
+      "237.85",
+      "217.81",
+      "246.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "France",
+    "bbox": [
+      "34.25",
+      "249.35",
+      "64.50",
+      "258.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bianco Terre Aquilane Luci, Praesidium 2018 (Abruzzo)",
+    "bbox": [
+      "427.63",
+      "246.60",
+      "644.18",
+      "255.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bianco Terre Aquilane Luci, Praesidium",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "80",
+    "bbox": [
+      "763.50",
+      "246.60",
+      "775.48",
+      "255.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "80",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Riesling Clos Liebenberg, Valentin Zusslin 2016 (Alsace)",
+    "bbox": [
+      "42.27",
+      "260.60",
+      "257.31",
+      "269.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Riesling Clos Liebenberg, Valentin Zusslin",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "95",
+    "bbox": [
+      "362.38",
+      "260.60",
+      "374.36",
+      "269.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pecorino, Tiberio 2020 (Abruzzo)",
+    "bbox": [
+      "427.63",
+      "258.60",
+      "558.90",
+      "267.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pecorino, Tiberio",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "65",
+    "bbox": [
+      "763.50",
+      "258.60",
+      "775.48",
+      "267.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "65",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Jacquère Argile Blanc, Domaine des Ardoisières 2020 (Savoie)",
+    "bbox": [
+      "42.27",
+      "272.12",
+      "281.33",
+      "281.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Jacquère Argile Blanc, Domaine des Ardoisières",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "75",
+    "bbox": [
+      "362.38",
+      "272.12",
+      "374.36",
+      "281.12"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "75",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Trebbiano d’Abruzzo, Amorotti 2018 (Abruzzo)",
+    "bbox": [
+      "427.63",
+      "270.87",
+      "612.68",
+      "279.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Trebbiano d’Abruzzo, Amorotti",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "95",
+    "bbox": [
+      "763.50",
+      "270.87",
+      "775.48",
+      "279.87"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Muscadet Sèvre-et-Maine Briords, Pépière 2020  (Loire)",
+    "bbox": [
+      "42.27",
+      "283.37",
+      "258.06",
+      "292.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Muscadet Sèvre-et-Maine Briords, Pépière",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "65",
+    "bbox": [
+      "362.38",
+      "283.37",
+      "374.36",
+      "292.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Trebbiano d’Abruzzo, Valentini 2017 (Abruzzo)",
+    "bbox": [
+      "427.63",
+      "283.12",
+      "612.43",
+      "292.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Trebbiano d’Abruzzo, Valentini",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "195",
+    "bbox": [
+      "758.50",
+      "283.12",
+      "775.48",
+      "292.12"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "195",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pinot Gris Macération, Jérôme Bretaudeau 2020 Orange  (Loire)",
+    "bbox": [
+      "42.27",
+      "294.87",
+      "290.08",
+      "303.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Gris Macération, Jérôme Bretaudeau",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "85",
+    "bbox": [
+      "362.38",
+      "294.87",
+      "374.36",
+      "303.87"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Malvasia di Candia No. 25, Fiorano 1992 (Lazio)",
+    "bbox": [
+      "427.63",
+      "295.12",
+      "612.43",
+      "304.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Malvasia di Candia No. 25, Fiorano",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "1992",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "95",
+    "bbox": [
+      "763.50",
+      "295.12",
+      "775.48",
+      "304.12"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chenin Blanc Poïèsis, Clos des Plantes 2019 (Loire)",
+    "bbox": [
+      "42.27",
+      "306.12",
+      "238.31",
+      "315.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chenin Blanc Poïèsis, Clos des Plantes",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "105",
+    "bbox": [
+      "357.38",
+      "306.12",
+      "374.36",
+      "315.12"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "105",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Malvasia di Puntinata Colle Gaio, Colli di Catone 1994 (Lazio)",
+    "bbox": [
+      "427.63",
+      "307.37",
+      "662.43",
+      "316.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Malvasia di Puntinata Colle Gaio, Colli di Catone",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "1994",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "195",
+    "bbox": [
+      "758.50",
+      "307.37",
+      "775.48",
+      "316.37"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "195",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Saumur Blanc, Domaine Collier 2018 (Loire)",
+    "bbox": [
+      "42.27",
+      "317.62",
+      "214.31",
+      "326.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Saumur Blanc, Domaine Collier",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "145",
+    "bbox": [
+      "357.38",
+      "317.62",
+      "374.36",
+      "326.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "145",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Mataòssu Vigneto Reiné, Punta Crena 2019 (Liguria)",
+    "bbox": [
+      "427.63",
+      "319.37",
+      "628.93",
+      "328.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Mataòssu Vigneto Reiné, Punta Crena",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "65",
+    "bbox": [
+      "763.50",
+      "319.37",
+      "775.48",
+      "328.37"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "65",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Saumur Blanc Brézé Domaine Guiberteau 2016 (Loire)",
+    "bbox": [
+      "42.27",
+      "328.87",
+      "253.31",
+      "337.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Saumur Blanc Brézé Domaine Guiberteau",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "165",
+    "bbox": [
+      "357.38",
+      "328.87",
+      "374.36",
+      "337.87"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "165",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Umbria Bianco Santa Chiara, Paolo Bea 2018 Orange (Umbria)",
+    "bbox": [
+      "427.63",
+      "331.65",
+      "668.43",
+      "340.65"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Umbria Bianco Santa Chiara, Paolo Bea",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "85",
+    "bbox": [
+      "763.50",
+      "331.65",
+      "775.48",
+      "340.65"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Savennières Clos de la Hutte, Thibaud Boudignon 2018 (Loire)",
+    "bbox": [
+      "42.27",
+      "340.40",
+      "282.08",
+      "349.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Savennières Clos de la Hutte, Thibaud Boudignon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "185",
+    "bbox": [
+      "357.38",
+      "340.40",
+      "374.36",
+      "349.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "185",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Greco di Tufo, Ciro Picariello 2020 (Campania)",
+    "bbox": [
+      "427.63",
+      "343.65",
+      "608.43",
+      "352.65"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Greco di Tufo, Ciro Picariello",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "65",
+    "bbox": [
+      "763.50",
+      "343.65",
+      "775.48",
+      "352.65"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "65",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chablis, Moreau-Naudet 2019 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "351.65",
+      "205.81",
+      "360.65"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chablis, Moreau-Naudet",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "85",
+    "bbox": [
+      "362.38",
+      "351.65",
+      "374.36",
+      "360.65"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Costa d’Amalfi Fiorduva, Marisa Cuomo 2018 (Campania)",
+    "bbox": [
+      "427.63",
+      "355.90",
+      "648.93",
+      "364.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Costa d’Amalfi Fiorduva, Marisa Cuomo",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "165",
+    "bbox": [
+      "758.50",
+      "355.90",
+      "775.48",
+      "364.90"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "165",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chablis Fourchaume, Gérard Duplessis 2018 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "363.15",
+      "260.05",
+      "372.15"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chablis Fourchaume, Gérard Duplessis",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 37
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "125",
+    "bbox": [
+      "357.38",
+      "363.15",
+      "374.36",
+      "372.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Catalanesca Monte Summa, Cantine Olivella 2016 (Campania)",
+    "bbox": [
+      "427.63",
+      "367.90",
+      "664.18",
+      "376.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Catalanesca Monte Summa, Cantine Olivella",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "95",
+    "bbox": [
+      "763.50",
+      "367.90",
+      "775.48",
+      "376.90"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bouzeron,  Domaine A. & P. De Villaine 2018 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "374.65",
+      "260.81",
+      "383.65"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bouzeron,  Domaine A. & P. De Villaine",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "85",
+    "bbox": [
+      "362.38",
+      "374.65",
+      "374.36",
+      "383.65"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Terre del Volturno Polveri della Sacarrupata, Nanni Copé 2018 (Campania)",
+    "bbox": [
+      "427.63",
+      "380.15",
+      "716.20",
+      "389.15"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Terre del Volturno Polveri della Sacarrupata, Nanni Copé",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "105",
+    "bbox": [
+      "758.50",
+      "380.15",
+      "775.48",
+      "389.15"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "105",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Mâcon-Verzé Le Chemin Blanc, Nicolas Maillet 2015 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "385.90",
+      "288.33",
+      "394.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Mâcon-Verzé Le Chemin Blanc, Nicolas Maillet",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "85",
+    "bbox": [
+      "362.38",
+      "385.90",
+      "374.36",
+      "394.90"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Fiano Cupo, Pietracupa 2018 (Campania)",
+    "bbox": [
+      "427.63",
+      "392.18",
+      "586.40",
+      "401.18"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Fiano Cupo, Pietracupa",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "018",
+            "answer_start": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "120",
+    "bbox": [
+      "758.50",
+      "392.18",
+      "775.48",
+      "401.18"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "120",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bourgogne Blanc Cras-Monopole, Domaine de la Cras 2017 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "397.42",
+      "314.58",
+      "406.42"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bourgogne Blanc Cras-Monopole, Domaine de la Cras",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "95",
+    "bbox": [
+      "362.38",
+      "397.42",
+      "374.36",
+      "406.42"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cattarato Biancoviola, Aldo Viola 2018 (Sicilia",
+    "bbox": [
+      "427.63",
+      "404.43",
+      "604.93",
+      "413.43"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cattarato Biancoviola, Aldo Viola",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "70",
+    "bbox": [
+      "763.50",
+      "404.43",
+      "775.48",
+      "413.43"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "70",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bourgogne Blanc, Anne Boisson 2019 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "408.67",
+      "234.81",
+      "417.67"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bourgogne Blanc, Anne Boisson",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "105",
+    "bbox": [
+      "357.38",
+      "408.67",
+      "374.36",
+      "417.67"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "105",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Grillo Calaiancu, Mortellito 2020 (Sicilia",
+    "bbox": [
+      "427.63",
+      "416.42",
+      "582.91",
+      "425.42"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grillo Calaiancu, Mortellito",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "65",
+    "bbox": [
+      "763.50",
+      "416.42",
+      "775.48",
+      "425.42"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "65",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Savigny-Les-Beaune Blanc, Simon Bize 2019 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "420.18",
+      "260.81",
+      "429.18"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Savigny-Les-Beaune Blanc, Simon Bize",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019 (",
+            "answer_start": 37
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "120",
+    "bbox": [
+      "357.38",
+      "420.18",
+      "374.36",
+      "429.18"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "120",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Auxey-Duresses Les Hautés, Jean-Marc Vincent 2017(Burgundy)",
+    "bbox": [
+      "42.27",
+      "431.43",
+      "289.83",
+      "440.43"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Auxey-Duresses Les Hautés, Jean-Marc Vincent",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "135",
+    "bbox": [
+      "357.38",
+      "431.43",
+      "374.36",
+      "440.43"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "135",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Grillo Vino di Contrada SM, Arianna Occhipinti 2020 (Sicilia)",
+    "bbox": [
+      "427.63",
+      "428.67",
+      "659.18",
+      "437.67"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grillo Vino di Contrada SM, Arianna Occhipinti",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "135",
+    "bbox": [
+      "758.50",
+      "428.67",
+      "775.48",
+      "437.67"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "135",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Saint-Aubin En L'Ebaupin, Le Grappin 2019 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "442.92",
+      "256.81",
+      "451.92"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Saint-Aubin En L'Ebaupin, Le Grappin",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 37
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "125",
+    "bbox": [
+      "357.38",
+      "442.92",
+      "374.36",
+      "451.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "125",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Zibibbo Ammàno #8, Cantine Barbera 2020 (Sicilia)",
+    "bbox": [
+      "420.13",
+      "440.65",
+      "627.65",
+      "450.65"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Zibibbo Ammàno #8, Cantine Barbera",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "75",
+    "bbox": [
+      "763.50",
+      "440.92",
+      "775.48",
+      "449.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "75",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Saint-Aubin Derrière Chez Edouard , Antoine Jobard 2019 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "454.20",
+      "310.08",
+      "463.20"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Saint-Aubin Derrière Chez Edouard , Antoine Jobard",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "195",
+    "bbox": [
+      "357.38",
+      "454.20",
+      "374.36",
+      "463.20"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "195",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Etna Bianco Gamma, Federico Curtaz 2019 (Sicilia)",
+    "bbox": [
+      "427.63",
+      "452.93",
+      "624.68",
+      "461.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Etna Bianco Gamma, Federico Curtaz",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "95",
+    "bbox": [
+      "763.50",
+      "452.93",
+      "775.48",
+      "461.93"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Saint Romain, Hubert Lignier 2019 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "465.70",
+      "224.81",
+      "474.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Saint Romain, Hubert Lignier",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019 (",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "145",
+    "bbox": [
+      "357.38",
+      "465.70",
+      "374.36",
+      "474.70"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "145",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Etna Bianco Superiore Pietra Marina, Benanti 2013 (Sicilia)",
+    "bbox": [
+      "427.63",
+      "465.45",
+      "657.18",
+      "474.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Etna Bianco Superiore Pietra Marina, Benanti",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "145",
+    "bbox": [
+      "758.50",
+      "465.45",
+      "775.48",
+      "474.45"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "145",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Puligny Montrachet, Bachelet-Monnot 2019 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "476.95",
+      "258.81",
+      "485.95"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Puligny Montrachet, Bachelet-Monnot",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "175",
+    "bbox": [
+      "357.38",
+      "476.95",
+      "374.36",
+      "485.95"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "175",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Meursault, Domaine Roulot  2017 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "488.45",
+      "220.31",
+      "497.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Meursault, Domaine Roulot",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "285",
+    "bbox": [
+      "357.38",
+      "488.45",
+      "374.36",
+      "497.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rosé",
+    "bbox": [
+      "561.92",
+      "489.70",
+      "583.90",
+      "498.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chassagne-Montrachet Morgeot, Bernard Moreau 2018 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "499.95",
+      "302.33",
+      "508.95"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chassagne-Montrachet Morgeot, Bernard Moreau",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "225",
+    "bbox": [
+      "357.38",
+      "499.95",
+      "374.36",
+      "508.95"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "225",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bandol, Domaine Tempier 2020 (Provence)",
+    "bbox": [
+      "419.63",
+      "501.70",
+      "596.68",
+      "510.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bandol, Domaine Tempier",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "95",
+    "bbox": [
+      "763.50",
+      "501.70",
+      "775.48",
+      "510.70"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bandol, Domaine Tempier 2020 (Provence)",
+    "bbox": [
+      "42.27",
+      "511.20",
+      "211.31",
+      "520.20"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bandol, Domaine Tempier",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "120",
+    "bbox": [
+      "357.38",
+      "511.20",
+      "374.36",
+      "520.20"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "120",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Vin de Corse ‘Valle di Nero’, Comte Abbatucci 2015 (Corsica)",
+    "bbox": [
+      "419.63",
+      "514.70",
+      "661.18",
+      "523.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Vin de Corse ‘Valle di Nero’, Comte Abbatucci",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "85",
+    "bbox": [
+      "763.50",
+      "514.70",
+      "775.48",
+      "523.70"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Palette Blanc, Château Simone 2016 (Provence)",
+    "bbox": [
+      "42.27",
+      "522.72",
+      "226.81",
+      "531.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Palette Blanc, Château Simone",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "105",
+    "bbox": [
+      "357.38",
+      "522.72",
+      "374.36",
+      "531.72"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "105",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "St Guilhem-le-Désert, Mas de Daumas Gassac 2020 (Languedoc)",
+    "bbox": [
+      "42.27",
+      "533.97",
+      "288.58",
+      "542.97"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "St Guilhem-le-Désert, Mas de Daumas Gassac",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "115",
+    "bbox": [
+      "357.38",
+      "533.97",
+      "374.36",
+      "542.97"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "115",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Côtes Catalanes Blanc, Clos du Rouge Gorge 2018 (Roussillon)",
+    "bbox": [
+      "42.27",
+      "545.47",
+      "281.83",
+      "554.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Côtes Catalanes Blanc, Clos du Rouge Gorge",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "95",
+    "bbox": [
+      "362.38",
+      "545.47",
+      "374.36",
+      "554.47"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Vermentinu Faustine, Comte Abbatucci 2015 (Corsica)",
+    "bbox": [
+      "42.27",
+      "556.72",
+      "252.31",
+      "565.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Vermentinu Faustine, Comte Abbatucci",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 37
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "85",
+    "bbox": [
+      "362.38",
+      "556.72",
+      "374.36",
+      "565.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Wines by the Bottle",
+    "bbox": [
+      "351.35",
+      "19.72",
+      "442.85",
+      "29.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Red",
+    "bbox": [
+      "580.68",
+      "43.28",
+      "598.68",
+      "52.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Red",
+    "bbox": [
+      "205.33",
+      "54.53",
+      "223.31",
+      "63.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Italy",
+    "bbox": [
+      "419.63",
+      "54.53",
+      "440.38",
+      "63.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "France",
+    "bbox": [
+      "34.25",
+      "66.03",
+      "64.50",
+      "75.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Collio Rosso Martissima 2018  (Friuli)",
+    "bbox": [
+      "427.63",
+      "66.03",
+      "575.40",
+      "75.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "85",
+    "bbox": [
+      "747.75",
+      "66.03",
+      "759.73",
+      "75.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Marie et Florian Curtet, Mondeuse 2017 (Savoie)",
+    "bbox": [
+      "42.27",
+      "77.28",
+      "231.31",
+      "86.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "75",
+    "bbox": [
+      "382.63",
+      "77.28",
+      "394.61",
+      "86.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Schioppettino, Venica & Venica 2012 (Friuli)",
+    "bbox": [
+      "427.63",
+      "78.03",
+      "600.18",
+      "87.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "95",
+    "bbox": [
+      "747.75",
+      "78.03",
+      "759.73",
+      "87.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Côte du Jura PP, Francois Rousset Martin 2018 (Jura)                                                                     95",
+    "bbox": [
+      "42.27",
+      "89.55",
+      "394.61",
+      "98.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Valpolicella Classico Superiore Ripasso, Monte dei Ragni 2016 (Veneto)",
+    "bbox": [
+      "419.63",
+      "90.30",
+      "702.95",
+      "99.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "135",
+    "bbox": [
+      "742.73",
+      "90.30",
+      "759.73",
+      "99.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bourgueil Nuit d'Ivresse, Catherine & Pierre Breton 2017 (Loire)",
+    "bbox": [
+      "42.27",
+      "101.55",
+      "289.83",
+      "110.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "85",
+    "bbox": [
+      "382.63",
+      "101.55",
+      "394.61",
+      "110.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sangiovese Romagna Le Lucciole, Chiara Condello 2018 (Emilia-Romagna)                    1   2  5",
+    "bbox": [
+      "420.13",
+      "102.30",
+      "766.73",
+      "111.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chinon Eminence Grise, Clos des Capucins 2017 (Loire)",
+    "bbox": [
+      "42.27",
+      "113.80",
+      "254.06",
+      "122.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "95",
+    "bbox": [
+      "382.63",
+      "113.80",
+      "394.61",
+      "122.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Ghemme Chioso dei Pomi, Rovellotti 2014 (Piemonte)",
+    "bbox": [
+      "427.63",
+      "114.55",
+      "633.68",
+      "123.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "95",
+    "bbox": [
+      "747.75",
+      "114.55",
+      "759.73",
+      "123.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Saumur-Champigny, Clos Rougeard 2015 (Loire)",
+    "bbox": [
+      "42.27",
+      "126.05",
+      "231.06",
+      "135.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "195",
+    "bbox": [
+      "377.63",
+      "126.05",
+      "394.61",
+      "135.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Freisa Vivace, Vietti 2017 (Piemonte)",
+    "bbox": [
+      "427.63",
+      "126.80",
+      "573.90",
+      "135.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "65",
+    "bbox": [
+      "747.75",
+      "126.80",
+      "759.73",
+      "135.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bourgogne Passetoutgrains, Bernard Moreau 2019 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "138.05",
+      "285.83",
+      "147.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "95",
+    "bbox": [
+      "382.63",
+      "138.05",
+      "394.61",
+      "147.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pelaverga, G.B Burlotto 2020 (Piemonte)",
+    "bbox": [
+      "427.63",
+      "138.80",
+      "585.90",
+      "147.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "85",
+    "bbox": [
+      "747.75",
+      "138.80",
+      "759.73",
+      "147.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bourgogne Hautes-Côtes de Beaune, Pierre Boisson 2019 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "150.33",
+      "310.33",
+      "159.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "85",
+    "bbox": [
+      "382.63",
+      "150.33",
+      "394.61",
+      "159.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Barbera d’Alba Donna Elena, Cascina delle Rose 2019 (Piemonte)",
+    "bbox": [
+      "427.63",
+      "151.08",
+      "678.70",
+      "160.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "75",
+    "bbox": [
+      "747.75",
+      "151.08",
+      "759.73",
+      "160.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bourgogne Rouge Les Perrières, Simon Bize 2019 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "162.33",
+      "278.33",
+      "171.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "105",
+    "bbox": [
+      "377.63",
+      "162.33",
+      "394.61",
+      "171.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Barbera d’Alba Francia, Giacomo Conterno 2019 (Piemonte)",
+    "bbox": [
+      "427.63",
+      "163.08",
+      "660.43",
+      "172.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "155",
+    "bbox": [
+      "742.73",
+      "163.08",
+      "759.73",
+      "172.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bourgogne Rouge Pinot Fin, Arnoux-Lachaux 2019 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "174.58",
+      "284.33",
+      "183.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "165",
+    "bbox": [
+      "377.63",
+      "174.58",
+      "394.61",
+      "183.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Nebbiolo delle Langhe Pian delle Mole, Giulia Negri 2019 (Piemonte)",
+    "bbox": [
+      "427.63",
+      "175.33",
+      "690.96",
+      "184.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "85",
+    "bbox": [
+      "747.75",
+      "175.33",
+      "759.73",
+      "184.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bourgogne Rouge, Mugneret Gibourg 2019 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "186.58",
+      "255.31",
+      "195.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "185",
+    "bbox": [
+      "377.63",
+      "186.58",
+      "394.61",
+      "195.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Langhe Rosso, Roagna 2016 (Piemonte)",
+    "bbox": [
+      "427.63",
+      "187.33",
+      "582.41",
+      "196.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "95",
+    "bbox": [
+      "747.75",
+      "187.33",
+      "759.73",
+      "196.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Vosne-Romanée Les Suchots  Jérôme Chezeaux 2018 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "198.83",
+      "291.08",
+      "207.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "175",
+    "bbox": [
+      "377.63",
+      "198.83",
+      "394.61",
+      "207.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Barolo Bussia Riserva, Alessandro E Gian Natale Fantino 2011 (Piemonte)",
+    "bbox": [
+      "427.63",
+      "199.58",
+      "710.70",
+      "208.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "165",
+    "bbox": [
+      "742.73",
+      "199.58",
+      "759.73",
+      "208.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Morey Saint Denis Clos Solon, Domaine Fourrier 2019 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "210.85",
+      "296.08",
+      "219.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "195",
+    "bbox": [
+      "377.63",
+      "210.85",
+      "394.61",
+      "219.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Barolo Monvigliero, Castello di Verduno 2013 (Piemonte)",
+    "bbox": [
+      "427.63",
+      "211.60",
+      "648.68",
+      "220.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "195",
+    "bbox": [
+      "742.73",
+      "211.60",
+      "759.73",
+      "220.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chambolle-Musigny, Domaine Roumier 2019 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "223.10",
+      "263.56",
+      "232.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "325",
+    "bbox": [
+      "377.63",
+      "223.10",
+      "394.61",
+      "232.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Barbaresco Roncaglie, Poderi Colla 2018 (Piemonte)",
+    "bbox": [
+      "427.63",
+      "223.85",
+      "630.18",
+      "232.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "135",
+    "bbox": [
+      "742.73",
+      "223.85",
+      "759.73",
+      "232.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Santenay Les Passetemps, Jean-Marc Vincent 2016 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "235.10",
+      "282.08",
+      "244.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "125",
+    "bbox": [
+      "377.63",
+      "235.10",
+      "394.61",
+      "244.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Barbaresco Montestefano, Serafino Rivella 2017 (Piemonte)",
+    "bbox": [
+      "427.63",
+      "235.85",
+      "657.93",
+      "244.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "175",
+    "bbox": [
+      "742.73",
+      "235.85",
+      "759.73",
+      "244.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Volnay, Marquis d’Angerville 2019 (Burgundy)",
+    "bbox": [
+      "42.27",
+      "247.35",
+      "223.81",
+      "256.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "195",
+    "bbox": [
+      "377.63",
+      "247.35",
+      "394.61",
+      "256.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Barbaresco Rose delle Casasse, Cascina Baricchi 2011 (Piemonte)",
+    "bbox": [
+      "427.63",
+      "248.10",
+      "677.21",
+      "257.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "195",
+    "bbox": [
+      "742.73",
+      "248.10",
+      "759.73",
+      "257.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Morgon, Marcel Lapierre 2020 (Beaujolais)",
+    "bbox": [
+      "42.27",
+      "259.35",
+      "209.81",
+      "268.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "85",
+    "bbox": [
+      "382.63",
+      "259.35",
+      "394.61",
+      "268.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Barbaresco Gallina, Roagna 2014 (Piemonte)",
+    "bbox": [
+      "427.63",
+      "260.10",
+      "601.93",
+      "269.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "225",
+    "bbox": [
+      "742.73",
+      "260.10",
+      "759.73",
+      "269.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Côtes-de-Brouilly, Nicole Chanrion 2003 (Beaujolais)",
+    "bbox": [
+      "42.27",
+      "271.62",
+      "249.56",
+      "280.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "105",
+    "bbox": [
+      "377.63",
+      "271.62",
+      "394.61",
+      "280.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chianti Classico, Fontodi 2018 (Toscana)",
+    "bbox": [
+      "427.63",
+      "272.37",
+      "586.40",
+      "281.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "95",
+    "bbox": [
+      "747.75",
+      "272.37",
+      "759.73",
+      "281.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Saint-Joseph Vieilles Vignes, Domaine Faury 2019 (Rhône)",
+    "bbox": [
+      "34.75",
+      "283.87",
+      "266.30",
+      "292.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "95",
+    "bbox": [
+      "382.63",
+      "283.87",
+      "394.61",
+      "292.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Brunello di Montalcino, Il Colle 2015 (Toscana)",
+    "bbox": [
+      "427.63",
+      "284.62",
+      "610.43",
+      "293.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "135",
+    "bbox": [
+      "742.73",
+      "284.62",
+      "759.73",
+      "293.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Saint-Joseph Cessieux, Hervé Souhaut 2019 (Rhône)",
+    "bbox": [
+      "42.27",
+      "295.87",
+      "241.81",
+      "304.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "125",
+    "bbox": [
+      "377.63",
+      "295.87",
+      "394.61",
+      "304.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Brunello di Montalcino Vigneti del Versante, Pian Dell’Orino 2016 (Toscana)",
+    "bbox": [
+      "427.63",
+      "296.62",
+      "719.45",
+      "305.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "195",
+    "bbox": [
+      "742.73",
+      "296.62",
+      "759.73",
+      "305.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Saint-Joseph Clos Florentin, Domaine Jean-Louis Chave 2018 (Rhône)",
+    "bbox": [
+      "42.27",
+      "308.12",
+      "307.83",
+      "317.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "210",
+    "bbox": [
+      "377.63",
+      "308.12",
+      "394.61",
+      "317.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Brunello di Montalcino, Sesti 2012 (Toscana)",
+    "bbox": [
+      "427.63",
+      "308.87",
+      "602.43",
+      "317.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "225",
+    "bbox": [
+      "742.73",
+      "308.87",
+      "759.73",
+      "317.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cornas, Aurelian Chatagnier 2018 (Rhône)",
+    "bbox": [
+      "42.27",
+      "320.12",
+      "207.56",
+      "329.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "165",
+    "bbox": [
+      "377.63",
+      "320.12",
+      "394.61",
+      "329.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rosso di Toscana Chiesamonti, Podere Le Boncie 2018 (Toscana)",
+    "bbox": [
+      "427.63",
+      "320.87",
+      "677.21",
+      "329.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "120",
+    "bbox": [
+      "742.73",
+      "320.87",
+      "759.73",
+      "329.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Crozes-Hermitage, Paul Jaboulet Aîné 1985 (Rhône)",
+    "bbox": [
+      "42.27",
+      "332.40",
+      "243.31",
+      "341.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "185",
+    "bbox": [
+      "377.63",
+      "332.40",
+      "394.61",
+      "341.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rosso di Toscana, Montevertine 2018 (Toscana)",
+    "bbox": [
+      "427.63",
+      "333.15",
+      "614.43",
+      "342.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "135",
+    "bbox": [
+      "742.73",
+      "333.15",
+      "759.73",
+      "342.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Vacqueyras, Les Sang de Cailloux 2019 (Rhône)",
+    "bbox": [
+      "34.75",
+      "343.62",
+      "224.53",
+      "353.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "75",
+    "bbox": [
+      "382.63",
+      "344.40",
+      "394.61",
+      "353.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rosso di Toscana Choltempo Fiorello, Stella di Campalto NV (Toscana)",
+    "bbox": [
+      "427.63",
+      "345.15",
+      "695.95",
+      "354.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "150",
+    "bbox": [
+      "742.73",
+      "345.15",
+      "759.73",
+      "354.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Châteauneuf-du-Pape, Saint Préfert 2019 (Rhône)",
+    "bbox": [
+      "42.27",
+      "356.65",
+      "235.31",
+      "365.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "105",
+    "bbox": [
+      "377.63",
+      "356.65",
+      "394.61",
+      "365.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rosso di Toscana Poggio ai Chiari, Colle Santa Mustiola 2005 (Toscana)",
+    "bbox": [
+      "427.63",
+      "357.40",
+      "701.70",
+      "366.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "175",
+    "bbox": [
+      "742.73",
+      "357.40",
+      "759.73",
+      "366.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Vin de France Les Rouliers, Henri Bonneau (Rhône)",
+    "bbox": [
+      "42.27",
+      "368.65",
+      "239.06",
+      "377.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "135",
+    "bbox": [
+      "377.63",
+      "368.65",
+      "394.61",
+      "377.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cepparello, Isole e Olena 2018 (Toscana)",
+    "bbox": [
+      "427.63",
+      "369.40",
+      "585.16",
+      "378.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "165",
+    "bbox": [
+      "742.73",
+      "369.40",
+      "759.73",
+      "378.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Côtes de Bordeaux Emilien, Château le Puy 2017  (Bordeaux)",
+    "bbox": [
+      "42.27",
+      "380.90",
+      "276.58",
+      "389.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "95",
+    "bbox": [
+      "382.63",
+      "380.90",
+      "394.61",
+      "389.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Fontalloro, Fèlsina 1994 (Toscana)",
+    "bbox": [
+      "427.63",
+      "381.65",
+      "562.90",
+      "390.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "195",
+    "bbox": [
+      "742.73",
+      "381.65",
+      "759.73",
+      "390.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Margaux Perrain, Clos du Jaugueyron 2014 (Bordeaux)",
+    "bbox": [
+      "42.27",
+      "392.92",
+      "254.06",
+      "401.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "145",
+    "bbox": [
+      "377.63",
+      "392.92",
+      "394.61",
+      "401.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Montepulciano d’Abruzzo Erba Salata, Colle Flòrido 2019 (Abruzzo)",
+    "bbox": [
+      "427.63",
+      "393.67",
+      "690.71",
+      "402.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "85",
+    "bbox": [
+      "747.75",
+      "393.67",
+      "759.73",
+      "402.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Saint-Julien, Château Léoville Las Cases 2004 (Bordeaux)",
+    "bbox": [
+      "42.27",
+      "405.17",
+      "262.56",
+      "414.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "275",
+    "bbox": [
+      "377.63",
+      "405.17",
+      "394.61",
+      "414.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cesanese Silene, Damiano Ciolli 2019 (Lazio)",
+    "bbox": [
+      "427.63",
+      "405.92",
+      "600.68",
+      "414.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "65",
+    "bbox": [
+      "747.75",
+      "405.92",
+      "759.73",
+      "414.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Palette, Château Simone 2015 (Provence)",
+    "bbox": [
+      "34.25",
+      "417.17",
+      "203.31",
+      "426.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "95",
+    "bbox": [
+      "382.63",
+      "417.17",
+      "394.61",
+      "426.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Umbria Rosso San Valentino, Paolo Bea 2016 (Umbria)",
+    "bbox": [
+      "427.63",
+      "417.93",
+      "638.68",
+      "426.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "135",
+    "bbox": [
+      "742.73",
+      "417.93",
+      "759.73",
+      "426.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bandol La Migoua, Domaine Tempier 2009 Magnum (Provence)",
+    "bbox": [
+      "42.27",
+      "429.42",
+      "288.33",
+      "438.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "295",
+    "bbox": [
+      "377.63",
+      "429.42",
+      "394.61",
+      "438.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Aglianico Ognostro, Marco Tinessa 2018 (Campania)",
+    "bbox": [
+      "427.63",
+      "430.18",
+      "630.18",
+      "439.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "105",
+    "bbox": [
+      "742.73",
+      "430.18",
+      "759.73",
+      "439.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Alpilles, Domaine de Trevallon 2018 (Provence)",
+    "bbox": [
+      "42.27",
+      "441.68",
+      "228.56",
+      "450.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "165",
+    "bbox": [
+      "377.63",
+      "441.68",
+      "394.61",
+      "450.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Frappato Tuttu, Mortellito 2020 (Sicilia)",
+    "bbox": [
+      "427.63",
+      "442.42",
+      "583.65",
+      "451.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "65",
+    "bbox": [
+      "747.75",
+      "442.42",
+      "759.73",
+      "451.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Saint-Guilhem-le-Désert, Mas de Daumas Gassac 2011 (Languedoc)",
+    "bbox": [
+      "42.27",
+      "453.70",
+      "301.58",
+      "462.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "275",
+    "bbox": [
+      "377.63",
+      "453.70",
+      "394.61",
+      "462.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Frappato Vino  di Contrada BB, Arianna Occhipinti 2019 (Sicilia)",
+    "bbox": [
+      "427.63",
+      "454.45",
+      "674.20",
+      "463.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "145",
+    "bbox": [
+      "742.73",
+      "454.45",
+      "759.73",
+      "463.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Irouléguy Haitza, Arretxea 2010 (Basque)",
+    "bbox": [
+      "42.27",
+      "465.95",
+      "204.81",
+      "474.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "105",
+    "bbox": [
+      "377.63",
+      "465.95",
+      "394.61",
+      "474.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Nero d’Avola Archiemede, Marabino 2016 (Sicilia))",
+    "bbox": [
+      "427.63",
+      "466.70",
+      "623.43",
+      "475.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "95",
+    "bbox": [
+      "747.75",
+      "466.70",
+      "759.73",
+      "475.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sciaccarellu La Robe d’Ange, Clos Fornelli 2019 (Corsica)",
+    "bbox": [
+      "34.75",
+      "477.95",
+      "259.06",
+      "486.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "65",
+    "bbox": [
+      "382.63",
+      "477.95",
+      "394.61",
+      "486.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Etna Rosso Serra della Contessa, Benanti 2011 (Sicilia)",
+    "bbox": [
+      "427.63",
+      "478.70",
+      "637.18",
+      "487.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "135",
+    "bbox": [
+      "742.73",
+      "478.70",
+      "759.73",
+      "487.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Patrimonio Grotte di Sole, Antoine Arena 2012 (Corsica)",
+    "bbox": [
+      "34.75",
+      "490.20",
+      "256.81",
+      "499.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "125",
+    "bbox": [
+      "377.63",
+      "490.20",
+      "394.61",
+      "499.20"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

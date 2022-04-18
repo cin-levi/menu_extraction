@@ -13,12 +13,6 @@ k = 3
 avg_num_each_fold = int(len(data) / k)
 all_indexes = range(len(data))
 
-fold_0_indexes = random.sample(all_indexes, avg_num_each_fold)
-remaining_indexes = [x for x in all_indexes if x not in fold_0_indexes]
-fold_1_indexes = random.sample(remaining_indexes, avg_num_each_fold)
-fold_2_indexes = [x for x in remaining_indexes if x not in fold_1_indexes]
-
-fold_indexes = [fold_0_indexes, fold_1_indexes, fold_2_indexes]
 
 for i in range(k):
     output_folder = data_folder + f'{fold_prefix}{i}'

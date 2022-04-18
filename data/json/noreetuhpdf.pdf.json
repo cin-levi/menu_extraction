@@ -4650,7 +4650,14 @@
       "75.32"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "clair-daü (by louis jadot)",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4663,7 +4670,20 @@
       "75.32"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "rosé de marsannay",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 18
+          }
+        ]
+      }
     ]
   },
   {
@@ -4676,7 +4696,14 @@
       "75.32"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "80",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4689,7 +4716,14 @@
       "94.04"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "château le puy",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4702,7 +4736,20 @@
       "94.04"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "rose-marie, côtes de francs, bordeaux",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 38
+          }
+        ]
+      }
     ]
   },
   {
@@ -4715,7 +4762,14 @@
       "94.04"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "105",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4728,7 +4782,14 @@
       "112.77"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "château simone",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4741,7 +4802,20 @@
       "112.77"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "palette rosé",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 13
+          }
+        ]
+      }
     ]
   },
   {
@@ -4754,7 +4828,14 @@
       "112.77"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "110",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4793,7 +4874,14 @@
       "216.19"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "henri et gilles buisson",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4806,7 +4894,20 @@
       "216.19"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "sous le château, saint romain",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2015",
+            "answer_start": 30
+          }
+        ]
+      }
     ]
   },
   {
@@ -4819,7 +4920,14 @@
       "216.19"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "70",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4832,7 +4940,14 @@
       "234.91"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "françois carillon",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4845,7 +4960,26 @@
       "234.91"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "clos st. jean, chassagne-montrachet 1er cru",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2015",
+            "answer_start": 44
+          }
+        ],
+        "p": [
+          {
+            "text": "175",
+            "answer_start": 48
+          }
+        ]
+      }
     ]
   },
   {
@@ -4858,7 +4992,14 @@
       "253.64"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "cheveau",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4871,7 +5012,20 @@
       "253.64"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "vers cras, pouilly-fuissé",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 26
+          }
+        ]
+      }
     ]
   },
   {
@@ -4884,7 +5038,14 @@
       "253.64"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "76",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

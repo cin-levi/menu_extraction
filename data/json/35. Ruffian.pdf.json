@@ -1,0 +1,584 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/16/22, 12:14 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MISEbox",
+    "bbox": [
+      "337.58",
+      "15.70",
+      "370.04",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Clos Cibonne, Tibouren 'Tradition' Rosé / Provence, France 2020 - $23/$90",
+    "bbox": [
+      "35.00",
+      "42.66",
+      "397.47",
+      "53.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "W",
+    "bbox": [
+      "35.00",
+      "49.42",
+      "55.28",
+      "70.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ine by the Glass",
+    "bbox": [
+      "55.28",
+      "49.42",
+      "204.99",
+      "70.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Richly flavored and textured: Chilled sake macerating with peach skins and mint. Subtle bitterness is reminiscent of",
+    "bbox": [
+      "35.00",
+      "57.81",
+      "518.66",
+      "67.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "orange wine.",
+    "bbox": [
+      "35.00",
+      "72.06",
+      "89.38",
+      "81.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Reds",
+    "bbox": [
+      "52.85",
+      "109.80",
+      "83.71",
+      "124.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tinto de Rulo, Pipeño / Sur, Chile 2021 - $16/$62",
+    "bbox": [
+      "35.00",
+      "135.66",
+      "270.67",
+      "146.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tinto de Rulo, Pipeño / Sur, Chile",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2021",
+            "answer_start": 35
+          }
+        ],
+        "P": [
+          {
+            "text": "$16/$62",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "There's not much to this wine - what you see is what you get. It's fresh, light, friendly, funky, and still damn delicious.",
+    "bbox": [
+      "35.00",
+      "150.06",
+      "526.42",
+      "159.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Kolfok, 'Querschnitt' Rotburger & Co / Burgenland, Austria 2019 - $17/$66",
+    "bbox": [
+      "35.00",
+      "186.66",
+      "396.26",
+      "197.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Kolfok, 'Querschnitt' Rotburger & Co / Burgenland, Austria",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 59
+          }
+        ],
+        "P": [
+          {
+            "text": "$17/$66",
+            "answer_start": 66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Wild, brambly blackberries meet elderflower and sage and a slap of iron for good measure . You'd think Beaujolais at",
+    "bbox": [
+      "35.00",
+      "201.81",
+      "527.56",
+      "211.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "first, but nope - All Austrian!",
+    "bbox": [
+      "35.00",
+      "216.06",
+      "154.62",
+      "225.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Santomas, Refošk / Istria, Slovenia 2019 - $20/$78",
+    "bbox": [
+      "35.00",
+      "252.66",
+      "278.25",
+      "263.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Santomas, Refošk / Istria, Slovenia",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 36
+          }
+        ],
+        "P": [
+          {
+            "text": "$20/$78",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Smells like fresh berry jam, tastes like leather and earth, and has a silky-smooth finish. Drinks like Tuscany, but all",
+    "bbox": [
+      "35.00",
+      "267.06",
+      "510.35",
+      "276.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Slovenian.",
+    "bbox": [
+      "35.00",
+      "281.31",
+      "77.82",
+      "290.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Malatinszky 'Serena Ruba' Cabernet Blend / Villány, Hungary 2012 - $23/$90",
+    "bbox": [
+      "35.00",
+      "318.66",
+      "407.95",
+      "329.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Malatinszky 'Serena Ruba' Cabernet Blend / Villány, Hungary",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2012",
+            "answer_start": 60
+          }
+        ],
+        "P": [
+          {
+            "text": "$23/$90",
+            "answer_start": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dried flowers and blackberry jam, black cherry cordial, and a sprinkle of black pepper. Made from only free-run juice",
+    "bbox": [
+      "35.00",
+      "333.06",
+      "525.50",
+      "342.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "and aged in Hungarian oak. Drinking really fu*king good right now.",
+    "bbox": [
+      "35.00",
+      "347.31",
+      "319.60",
+      "356.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "After Dinner Imbibements (3oz pours)",
+    "bbox": [
+      "52.85",
+      "385.05",
+      "299.57",
+      "399.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Nepéta, Amaro / Sicily, Italy NV - $20",
+    "bbox": [
+      "35.00",
+      "410.91",
+      "216.96",
+      "421.71"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Nepéta, Amaro / Sicily, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 30
+          }
+        ],
+        "P": [
+          {
+            "text": "$20",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Neutral grape spirit from organic vineyards in Sicily, infused with Sicilian oranges and lemon, bitter herbs - specifically",
+    "bbox": [
+      "35.00",
+      "425.31",
+      "531.94",
+      "434.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Nepitella, a wild herb grown in Sicily, with a taste between mint and oregano. Savory and delicious.",
+    "bbox": [
+      "35.00",
+      "439.56",
+      "452.68",
+      "449.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Capertif 'Kaapse Dief' Aromatized Wine / Western Cape, South Africa -$19",
+    "bbox": [
+      "35.00",
+      "476.91",
+      "396.62",
+      "487.71"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Capertif 'Kaapse Dief' Aromatized Wine / Western Cape, South Africa",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$19",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A fortified aromatized wine from South Africa! Whhaaat! Made from press juice of Chenin Blanc and fortified with",
+    "bbox": [
+      "35.00",
+      "491.31",
+      "513.57",
+      "500.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "brandy. Cloves, smoke, fienbos (think what garrigue is to southern France). There's a faint reminiscence of flavored cola,",
+    "bbox": [
+      "35.00",
+      "505.56",
+      "539.40",
+      "515.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "too. Served chilled, but delicious over ice, too.",
+    "bbox": [
+      "35.00",
+      "519.81",
+      "228.89",
+      "529.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Los Bermejos, Malvasia Naturalmente Dulce / Canary Islands, Spain NV - $22",
+    "bbox": [
+      "35.00",
+      "556.41",
+      "409.65",
+      "567.21"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Los Bermejos, Malvasia Naturalmente Dulce / Canary Islands, Spain",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 66
+          }
+        ],
+        "P": [
+          {
+            "text": "$22",
+            "answer_start": 71
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Late harvest Malvasia from the volcanic island of Lanzarote in the Canary Islands. Just enough sweetness, and just",
+    "bbox": [
+      "35.00",
+      "571.56",
+      "513.69",
+      "581.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "enough freshness. Scrumptious and rare.",
+    "bbox": [
+      "35.00",
+      "585.81",
+      "207.22",
+      "595.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MISE",
+    "bbox": [
+      "500.94",
+      "731.36",
+      "545.26",
+      "748.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "powered by",
+    "bbox": [
+      "441.22",
+      "738.21",
+      "500.94",
+      "749.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "box",
+    "bbox": [
+      "545.26",
+      "736.49",
+      "572.75",
+      "747.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://app.misebox.io/guests/ruffian/wine-by-the-glass-2",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "226.41",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/1",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]
