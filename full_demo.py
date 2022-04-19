@@ -32,7 +32,8 @@ class LayoutLMDemo(object):
                 _wine[label] = ''
             _wine[label] += ' ' + e['text']
             output_boxes.append(e)
-
+        """Sort output based on y0"""
+        clustered_items = sorted(clustered_items, key=lambda cluster: min([x['box'][1] for x in cluster]))
         for cluster in clustered_items:
             a_item = {}
             for e in cluster:
@@ -89,7 +90,7 @@ class LayoutLMDemo(object):
         output = {}
         for p in pages:
             if p == 6:
-                return output
+                break
             _boxes = [box for box in boxes if box['page_number'] == p]
             final_text, bboxes, labels = normalize_boxes(_boxes)
             final_text = unidecode(final_text).lower()
@@ -137,8 +138,9 @@ if __name__ == '__main__':
     question_list = json.load(open(question_list_file, 'r', encoding='utf-8'))
     demo = LayoutLMDemo(model_path, version='v1')
 
-    pdf_file = prj_path + '/data/pdf/Adda - wine reserve.pdf'
-    pdf_file = prj_path + '/data/pdf/Aldo Sohm.pdf'
+    # pdf_file = prj_path + '/data/pdf/Adda - wine reserve.pdf'
+    pdf_file = prj_path + '/data/pdf/45. Contento.pdf'
+    # pdf_file = prj_path + '/data/pdf/24. Gage _ Tollner.pdf'
     # pdf_file = prj_path + '/data/pdf/testing/Batard.pdf'
     output = demo.process(pdf_file, question_list)
     print(output)

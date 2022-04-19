@@ -3,7 +3,7 @@ import json
 
 from processors import prj_path
 
-from neptune_credentials import fastqa_credential
+# from neptune_credentials import fastqa_credential
 import os
 
 fold_prefix = 'fold_'

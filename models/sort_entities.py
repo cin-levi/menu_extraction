@@ -55,18 +55,58 @@ def calculate_distance(cluster_1, cluster_2):
 
 
 def vertical_merge(clusters):
-    # sort cluster by x0, chose either name or price , the one have less value
+    # sort cluster by x0, chose the middle number
     num_prices = len([e for c in clusters for e in c if e['entity_type'] == 'p'])
     num_names = len([e for c in clusters for e in c if e['entity_type'] == 'w'])
-    accepted_label = 'p' if num_prices <= num_names else 'w'
+    num_vintages = len([e for c in clusters for e in c if e['entity_type'] == 'v'])
+    if num_names == 0 and num_prices == 0:
+        accepted_label = 'v'
+    elif num_names == 0 and num_vintages == 0:
+        accepted_label = 'p'
+    elif num_prices == 0 and num_vintages == 0:
+        accepted_label = 'w'
+    elif min(num_prices, num_vintages) <= num_names and max(num_prices, num_vintages) >= num_names and num_names > 0:
+        accepted_label = 'w'
+    elif min(num_names, num_vintages) <= num_prices and max(num_names, num_vintages) >= num_prices and num_prices > 0:
+        accepted_label = 'p'
+    else:
+        accepted_label = 'v'
+    print("accepted_label: ", accepted_label)
     pointer = [i if accepted_label in [e['entity_type'] for e in clusters[i]] else None for i in range(len(clusters))]
-    # Find closest
-    for i in range(len(pointer)):
-        if pointer[i] is None:
-            distance = [calculate_distance(clusters[i], clusters[j]) if pointer[j] is not None else 5e10 for j in
-                        range(len(clusters))]
-            pointer[i] = np.argmin(distance)
+    checking = [i for i in range(len(pointer)) if pointer[i] is not None]
+    candidate = [i for i in range(len(pointer)) if pointer[i] is None]
+    # TODO: Apply the greedy algorithm here, it is quite stupid and slow but let improve later
+    # Handle infinite loop here
+    while len(candidate) > 0:
+        closest_candidates = [candidate[np.argmin([calculate_distance(clusters[checking[i]], clusters[candidate[j]])
+                                                   for j in range(len(candidate))])] for i in range(len(checking))]
 
+        # resolve conflict between candidates here (two checking may have the same candidate)
+        unique_candidates = sorted(list(set(closest_candidates)))  # also is the next_checking
+        if len(unique_candidates) == 0:
+            print("unique_candidates: ", unique_candidates)
+            print(len(clusters))
+            print(len(checking))
+            print(clusters)
+            1 / 0
+        candidate_checking_dict = {c: [] for c in unique_candidates}
+        for i in range(len(closest_candidates)):
+            candidate_checking_dict[closest_candidates[i]].append(checking[i])
+        for c in candidate_checking_dict:
+            reverse_candidiates = candidate_checking_dict[c]
+            if len(reverse_candidiates) > 1:
+                best_index = np.argmin(
+                    [calculate_distance(clusters[c], clusters[reverse_candidiates[j]]) for j in
+                     range(len(reverse_candidiates))])
+                candidate_checking_dict[c] = reverse_candidiates[best_index]
+            # Not sure that I can still understand the logic when checking it in the future LoL
+            else:
+                candidate_checking_dict[c] = reverse_candidiates[0]
+            pointer[c] = pointer[candidate_checking_dict[c]]
+        checking.extend(unique_candidates)
+        candidate = [i for i in range(len(pointer)) if i not in checking]
+
+    # Remove loop
     for i in range(len(pointer)):
         if pointer[i] != i and pointer[pointer[i]] == i:
             pointer[pointer[i]] = pointer[i]
