@@ -1,0 +1,8526 @@
+[
+  {
+    "page_number": 1,
+    "text": "CONTENTS",
+    "bbox": [
+      "122.69",
+      "110.98",
+      "165.31",
+      "118.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "wwiinneess  bbyy  tthhee  ggllaassss",
+    "bbox": [
+      "38.54",
+      "140.71",
+      "249.46",
+      "167.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "II",
+    "bbox": [
+      "15.30",
+      "204.18",
+      "35.50",
+      "229.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ttaalliiaann  ssppaarrkklliinngg  wwiinneess",
+    "bbox": [
+      "35.50",
+      "204.18",
+      "272.70",
+      "229.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ssttiillll",
+    "bbox": [
+      "87.49",
+      "267.91",
+      "142.57",
+      "294.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "rroossėė",
+    "bbox": [
+      "142.57",
+      "267.91",
+      "200.51",
+      "294.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DD",
+    "bbox": [
+      "31.38",
+      "328.37",
+      "66.69",
+      "355.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "oonn''ss  sseeccrreett",
+    "bbox": [
+      "66.69",
+      "328.37",
+      "193.97",
+      "355.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ssttaasshh",
+    "bbox": [
+      "193.97",
+      "328.37",
+      "270.00",
+      "355.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "uuppttoowwnn",
+    "bbox": [
+      "111.69",
+      "364.45",
+      "185.67",
+      "391.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GRAPES OF NORTHERN ITALY",
+    "bbox": [
+      "84.59",
+      "383.85",
+      "212.79",
+      "392.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "mm",
+    "bbox": [
+      "103.70",
+      "444.45",
+      "124.00",
+      "471.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "iiddttoowwnn",
+    "bbox": [
+      "124.00",
+      "444.45",
+      "193.66",
+      "471.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GRAPES OF CENTRAL ITALY",
+    "bbox": [
+      "87.45",
+      "463.85",
+      "209.94",
+      "472.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ddoowwnnttoowwnn",
+    "bbox": [
+      "94.68",
+      "524.45",
+      "202.68",
+      "551.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GRAPES OF SOUTHERN ITALY",
+    "bbox": [
+      "84.53",
+      "543.85",
+      "212.85",
+      "552.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "vvaarriieettáá  FF",
+    "bbox": [
+      "55.56",
+      "636.45",
+      "159.88",
+      "663.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "rraanncceessee",
+    "bbox": [
+      "159.88",
+      "636.45",
+      "241.80",
+      "663.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ccoocckkttaaiillss,,  eettcc..",
+    "bbox": [
+      "70.35",
+      "686.45",
+      "227.01",
+      "713.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "wwiinneess  bbyy  tthhee  ggllaassss",
+    "bbox": [
+      "50.83",
+      "51.89",
+      "262.67",
+      "78.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPARKLING",
+    "bbox": [
+      "30.75",
+      "78.58",
+      "91.17",
+      "87.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cá Montanari, 'Opera' Lambrusco di",
+    "bbox": [
+      "30.75",
+      "100.35",
+      "235.27",
+      "109.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Cá Montanari, 'Opera' Lambrusco di",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "260.39",
+      "101.73",
+      "271.73",
+      "110.73"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Modena Secco, Emilia-Romagna, IT NV",
+    "bbox": [
+      "30.75",
+      "110.35",
+      "237.10",
+      "119.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Modena Secco, Emilia-Romagna, IT N",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "NV",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Lini 910 Labrusca Lambrusco Bianco",
+    "bbox": [
+      "30.75",
+      "130.35",
+      "230.51",
+      "139.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Lini 910 Labrusca Lambrusco Bianco",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "260.39",
+      "131.73",
+      "271.73",
+      "140.73"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Emilia-Romagna, IT NV",
+    "bbox": [
+      "30.75",
+      "140.35",
+      "154.20",
+      "149.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Emilia-Romagna, IT NV",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "NV",
+            "answer_start": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Barone Pizzini Rosato",
+    "bbox": [
+      "30.75",
+      "161.35",
+      "159.45",
+      "170.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Barone Pizzini Rosato",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "24",
+    "bbox": [
+      "260.39",
+      "161.73",
+      "271.73",
+      "170.73"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "24",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Lombardy IT 2014",
+    "bbox": [
+      "30.75",
+      "171.35",
+      "123.47",
+      "180.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Lombardy IT 2014",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2014",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WHITE",
+    "bbox": [
+      "30.75",
+      "189.58",
+      "64.88",
+      "198.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Fontezoppa Verdicchio di Matelica",
+    "bbox": [
+      "30.75",
+      "211.35",
+      "224.73",
+      "220.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Fontezoppa Verdicchio di Matelica",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16",
+    "bbox": [
+      "260.39",
+      "211.73",
+      "271.73",
+      "220.73"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Marche, IT 2019",
+    "bbox": [
+      "30.75",
+      "221.35",
+      "116.95",
+      "230.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Marche, IT 2019",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Klaus Lentsch Pinot Bianco",
+    "bbox": [
+      "30.75",
+      "241.35",
+      "184.21",
+      "250.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Klaus Lentsch Pinot Bianco",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "17",
+    "bbox": [
+      "260.39",
+      "241.73",
+      "271.73",
+      "250.73"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Alto Adige, IT 2015",
+    "bbox": [
+      "30.75",
+      "251.35",
+      "140.26",
+      "260.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Alto Adige, IT 2015",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2015",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "260.39",
+      "265.73",
+      "271.73",
+      "274.73"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Terra Costantino Etna Bianco 'Aetna'",
+    "bbox": [
+      "30.75",
+      "271.35",
+      "244.05",
+      "280.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Terra Costantino Etna Bianco 'Aetna'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sicily, IT 2018",
+    "bbox": [
+      "30.75",
+      "281.35",
+      "119.31",
+      "290.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Sicily, IT 2018",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "22",
+    "bbox": [
+      "260.39",
+      "295.73",
+      "271.73",
+      "304.73"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "22",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Soliste Chardonnay 'l'Age d'Or'",
+    "bbox": [
+      "30.75",
+      "301.35",
+      "208.03",
+      "310.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Soliste Chardonnay 'l'Age d'Or'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Russian River Valley 2013",
+    "bbox": [
+      "30.75",
+      "311.35",
+      "175.59",
+      "320.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Russian River Valley 2013",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2013",
+            "answer_start": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "24",
+    "bbox": [
+      "260.39",
+      "325.73",
+      "271.73",
+      "334.73"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "24",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Marchionni 'a Vigliano' Trebbiano",
+    "bbox": [
+      "30.75",
+      "331.35",
+      "222.83",
+      "340.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Marchionni 'a Vigliano' Trebbiano",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tuscany, IT 2018",
+    "bbox": [
+      "30.75",
+      "341.35",
+      "121.75",
+      "350.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Tuscany, IT 2018",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "**",
+    "bbox": [
+      "222.48",
+      "350.82",
+      "234.48",
+      "374.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROSÉ",
+    "bbox": [
+      "30.75",
+      "379.58",
+      "57.59",
+      "388.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Ronchi di Cialla Rosato",
+    "bbox": [
+      "30.75",
+      "401.35",
+      "166.18",
+      "410.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Ronchi di Cialla Rosato",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "260.39",
+      "402.73",
+      "271.73",
+      "411.73"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Friuli-Venezia Giulia, IT 2019",
+    "bbox": [
+      "30.75",
+      "411.35",
+      "203.50",
+      "420.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Friuli-Venezia Giulia, IT",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "San Salvatore Paestum Rosato 'Vetere',16",
+    "bbox": [
+      "30.75",
+      "431.35",
+      "271.73",
+      "441.73"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "San Salvatore Paestum Rosato 'Vetere',",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "16",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Campania, IT 2020",
+    "bbox": [
+      "30.75",
+      "441.35",
+      "129.22",
+      "450.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Campania, IT 2020",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "IT",
+            "answer_start": 10
+          },
+          {
+            "text": "2020",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RED",
+    "bbox": [
+      "30.75",
+      "469.58",
+      "51.55",
+      "478.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Southold Farm and Cellar 'Forgotten",
+    "bbox": [
+      "30.75",
+      "491.35",
+      "241.32",
+      "500.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Southold Farm and Cellar 'Forgotten",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "260.39",
+      "492.73",
+      "271.73",
+      "501.73"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dreams' Sangiovese Fredricksburg,",
+    "bbox": [
+      "30.75",
+      "501.35",
+      "228.68",
+      "510.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Dreams' Sangiovese Fredricksburg,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Texas 2020 (Available Chilled)",
+    "bbox": [
+      "30.75",
+      "511.35",
+      "203.53",
+      "520.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Texas 2020 (Available Chilled)",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bovio Langhe Nebbiolo 'Firagnetti'",
+    "bbox": [
+      "30.75",
+      "531.35",
+      "228.75",
+      "540.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Bovio Langhe Nebbiolo 'Firagnetti'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "17",
+    "bbox": [
+      "260.39",
+      "532.73",
+      "271.73",
+      "541.73"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Piedmont, IT 2018",
+    "bbox": [
+      "30.75",
+      "541.35",
+      "129.45",
+      "550.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Piedmont, IT 2018",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Timbre Pinot Noir 'Super Group'",
+    "bbox": [
+      "30.75",
+      "561.35",
+      "211.77",
+      "570.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Timbre Pinot Noir 'Super Group'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "20",
+    "bbox": [
+      "260.39",
+      "562.73",
+      "271.73",
+      "571.73"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "20",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "California 2016",
+    "bbox": [
+      "30.75",
+      "571.35",
+      "116.64",
+      "580.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "California 2016",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2016",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tolaini, 'Valdisanti' Cabernet Blend",
+    "bbox": [
+      "30.75",
+      "591.35",
+      "239.53",
+      "600.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Tolaini, 'Valdisanti' Cabernet Blend",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "22",
+    "bbox": [
+      "260.39",
+      "592.73",
+      "271.73",
+      "601.73"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "22",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tuscany, IT 2016",
+    "bbox": [
+      "30.75",
+      "601.35",
+      "127.61",
+      "610.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Tuscany, IT 2016",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2016",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "La Fornace Brunello",
+    "bbox": [
+      "30.75",
+      "621.35",
+      "142.18",
+      "630.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "La Fornace Brunello",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "33",
+    "bbox": [
+      "260.39",
+      "622.73",
+      "271.73",
+      "631.73"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "33",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tuscany, IT 2015",
+    "bbox": [
+      "30.75",
+      "631.35",
+      "121.91",
+      "640.35"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Tuscany, IT 2015",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2015",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "iiff  yyoouu  lliikkee  oorraannggee  wwiinnee,,",
+    "bbox": [
+      "45.65",
+      "688.29",
+      "290.21",
+      "718.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "**",
+    "bbox": [
+      "28.08",
+      "705.06",
+      "40.08",
+      "729.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ttrryy  tthheessee..",
+    "bbox": [
+      "34.45",
+      "712.63",
+      "166.35",
+      "739.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SS",
+    "bbox": [
+      "66.46",
+      "51.05",
+      "93.06",
+      "76.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ppaarrkklliinngg  wwiinneess",
+    "bbox": [
+      "93.06",
+      "51.05",
+      "241.46",
+      "76.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "La Spinee Prosecco Metodo Antico",
+    "bbox": [
+      "17.75",
+      "87.33",
+      "203.66",
+      "96.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "60",
+    "bbox": [
+      "267.67",
+      "92.33",
+      "279.01",
+      "101.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "(Pet Nat) Veneto, IT NV",
+    "bbox": [
+      "17.75",
+      "97.33",
+      "147.90",
+      "106.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "64",
+    "bbox": [
+      "267.67",
+      "112.33",
+      "279.01",
+      "121.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Lini 910 Labrusca Lambrusco Bianco",
+    "bbox": [
+      "17.75",
+      "117.33",
+      "217.51",
+      "126.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "**",
+    "bbox": [
+      "148.42",
+      "121.50",
+      "160.42",
+      "145.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Emilia-Romagna, IT NV",
+    "bbox": [
+      "17.75",
+      "127.33",
+      "141.20",
+      "136.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "90",
+    "bbox": [
+      "267.67",
+      "142.33",
+      "279.01",
+      "151.33"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "90",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Madson Rose (Pet Nat), Santa Clara 2020",
+    "bbox": [
+      "17.75",
+      "147.33",
+      "240.27",
+      "156.33"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Madson Rose (Pet Nat), Santa Clara",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "**",
+    "bbox": [
+      "240.00",
+      "162.84",
+      "252.00",
+      "186.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Barone Pizzini Rosato",
+    "bbox": [
+      "17.75",
+      "167.33",
+      "146.45",
+      "176.33"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Barone Pizzini Rosato",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "96",
+    "bbox": [
+      "267.67",
+      "172.33",
+      "279.01",
+      "181.33"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "96",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Lombardy, IT 2013",
+    "bbox": [
+      "17.75",
+      "177.33",
+      "115.58",
+      "186.33"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Lombardy, IT 2013",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2013",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Barone Pizzini 'Bagnadore Riserva',",
+    "bbox": [
+      "17.75",
+      "197.33",
+      "226.20",
+      "206.33"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Barone Pizzini 'Bagnadore Riserva',",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "105",
+    "bbox": [
+      "261.73",
+      "202.33",
+      "279.01",
+      "211.33"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "105",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Lombardy, IT 2009",
+    "bbox": [
+      "17.75",
+      "207.33",
+      "115.74",
+      "216.33"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Lombardy, IT 2009",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2009",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ssttiillll",
+    "bbox": [
+      "79.56",
+      "242.07",
+      "134.64",
+      "269.07"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "ssttiill",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "rroosséé",
+    "bbox": [
+      "134.64",
+      "242.07",
+      "189.94",
+      "269.07"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "rro",
+            "answer_start": 0
+          },
+          {
+            "text": "s",
+            "answer_start": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Ronchi di Cialla Rosato",
+    "bbox": [
+      "17.75",
+      "265.90",
+      "153.18",
+      "274.90"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Ronchi di Cialla Rosato",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "60",
+    "bbox": [
+      "267.67",
+      "272.33",
+      "279.01",
+      "281.33"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Friuli-Venezia Giulia, IT 2019",
+    "bbox": [
+      "17.75",
+      "275.90",
+      "190.50",
+      "284.90"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Friuli-Venezia Giulia, IT",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "San Salvatore Paestum Rosato 'Vetere',",
+    "bbox": [
+      "17.75",
+      "295.90",
+      "237.63",
+      "304.90"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "San Salvatore Paestum Rosato 'Vetere',",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "64",
+    "bbox": [
+      "267.67",
+      "302.33",
+      "279.01",
+      "311.33"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "64",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Campania, IT 2020",
+    "bbox": [
+      "17.75",
+      "305.90",
+      "116.22",
+      "314.90"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Campania, IT 2020",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Vigneti Tardis Paestum Rosato 'Lunedi'",
+    "bbox": [
+      "17.75",
+      "325.90",
+      "238.97",
+      "334.90"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Vigneti Tardis Paestum Rosato 'Lunedi'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "80",
+    "bbox": [
+      "267.67",
+      "332.33",
+      "279.01",
+      "341.33"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "80",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Campania, 2018",
+    "bbox": [
+      "17.75",
+      "335.90",
+      "98.72",
+      "344.90"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Campania, 2018",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "**",
+    "bbox": [
+      "104.90",
+      "358.02",
+      "116.90",
+      "382.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "DD",
+    "bbox": [
+      "17.75",
+      "368.12",
+      "53.07",
+      "395.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "oonn''ss  sseeccrreett",
+    "bbox": [
+      "53.07",
+      "368.12",
+      "180.34",
+      "395.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ssttaasshh",
+    "bbox": [
+      "180.34",
+      "368.12",
+      "256.37",
+      "395.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "LIMITED QUANTITY, CHECK AVAILABILITY",
+    "bbox": [
+      "19.54",
+      "392.74",
+      "220.16",
+      "400.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Il Grappolo 'Sassocheto' Brunello di",
+    "bbox": [
+      "19.54",
+      "413.72",
+      "235.75",
+      "422.72"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Il Grappolo 'Sassocheto' Brunello di",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "250",
+    "bbox": [
+      "260.40",
+      "415.11",
+      "277.68",
+      "424.11"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "250",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Montalcino Tuscany, IT 2010",
+    "bbox": [
+      "19.54",
+      "423.72",
+      "175.84",
+      "432.72"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Montalcino Tuscany, IT 2010",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2010",
+            "answer_start": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Ronchi di Cialla Refosco,",
+    "bbox": [
+      "19.54",
+      "443.72",
+      "171.30",
+      "452.72"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Ronchi di Cialla Refosco,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "290",
+    "bbox": [
+      "260.40",
+      "447.11",
+      "277.68",
+      "456.11"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "290",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Friuli-Giulia Venezia, IT 2011 (Magnum)",
+    "bbox": [
+      "19.54",
+      "453.72",
+      "244.94",
+      "462.72"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2011",
+            "answer_start": 26
+          }
+        ],
+        "w": [
+          {
+            "text": "Friuli-Giulia Venezia, IT 2011 (Magnum)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Piancornello Brunello",
+    "bbox": [
+      "19.54",
+      "473.72",
+      "143.15",
+      "482.72"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Piancornello Brunello",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Tuscany, IT 2013 (Magnum)",
+    "bbox": [
+      "19.54",
+      "483.72",
+      "162.90",
+      "492.72"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2013",
+            "answer_start": 12
+          }
+        ],
+        "w": [
+          {
+            "text": "Tuscany, IT 2013 (Magnum)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "320",
+    "bbox": [
+      "260.40",
+      "483.11",
+      "277.68",
+      "492.11"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "320",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Ronchi di Cialla Schioppettino,",
+    "bbox": [
+      "19.54",
+      "503.72",
+      "207.67",
+      "512.72"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Ronchi di Cialla Schioppettino,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "575",
+    "bbox": [
+      "260.40",
+      "507.11",
+      "277.68",
+      "516.11"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "575",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Friuli-Venezia Giulia, IT 1990 (Magnum)",
+    "bbox": [
+      "19.54",
+      "513.72",
+      "244.72",
+      "522.72"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "1990",
+            "answer_start": 26
+          }
+        ],
+        "w": [
+          {
+            "text": "Friuli-Venezia Giulia, IT 1990 (Magnum)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "595",
+    "bbox": [
+      "260.40",
+      "527.11",
+      "277.68",
+      "536.11"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "595",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Podere Sapaio 'Sapaio' Tuscany, IT 2008",
+    "bbox": [
+      "19.54",
+      "533.72",
+      "250.53",
+      "542.72"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2008",
+            "answer_start": 35
+          }
+        ],
+        "w": [
+          {
+            "text": "Podere Sapaio 'Sapaio' Tuscany, IT 2008",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "(Magnum)",
+    "bbox": [
+      "19.54",
+      "543.72",
+      "65.25",
+      "552.72"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "(Magnum)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "615",
+    "bbox": [
+      "260.40",
+      "557.11",
+      "277.68",
+      "566.11"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "615",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Tignanello Tuscany, IT 2018 (Magnum)",
+    "bbox": [
+      "19.54",
+      "563.72",
+      "227.59",
+      "572.72"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 23
+          }
+        ],
+        "w": [
+          {
+            "text": "Tignanello Tuscany, IT 2018 (Magnum)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "625",
+    "bbox": [
+      "260.40",
+      "577.11",
+      "277.68",
+      "586.11"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "625",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Ornellaia Tuscany, IT 2015",
+    "bbox": [
+      "19.54",
+      "583.72",
+      "169.90",
+      "592.72"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Ornellaia Tuscany, IT",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2015",
+            "answer_start": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Elio Altare 'Cerretta' Barolo",
+    "bbox": [
+      "19.54",
+      "603.72",
+      "187.11",
+      "612.72"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Elio Altare 'Cerretta' Barolo",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "725",
+    "bbox": [
+      "260.40",
+      "607.11",
+      "277.68",
+      "616.11"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "725",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Piedmont, IT 2012 (Magnum)",
+    "bbox": [
+      "19.54",
+      "613.72",
+      "170.58",
+      "622.72"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2012",
+            "answer_start": 13
+          }
+        ],
+        "w": [
+          {
+            "text": "Piedmont, IT 2012 (Magnum)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Joseph Phelps 'Insignia'",
+    "bbox": [
+      "19.54",
+      "633.72",
+      "159.00",
+      "642.72"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Joseph Phelps 'Insignia'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "775",
+    "bbox": [
+      "260.40",
+      "637.11",
+      "277.68",
+      "646.11"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "775",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Napa Valley 2007, 2009, 2010",
+    "bbox": [
+      "19.54",
+      "643.72",
+      "178.37",
+      "652.72"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Napa Valley 2007, 2009, 2",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2007,",
+            "answer_start": 12
+          },
+          {
+            "text": "2009,",
+            "answer_start": 18
+          },
+          {
+            "text": "2010",
+            "answer_start": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Scarecrow Napa Valley 2016 and 2017",
+    "bbox": [
+      "19.54",
+      "663.72",
+      "222.77",
+      "672.72"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Scarecrow Napa Valley",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2016",
+            "answer_start": 22
+          },
+          {
+            "text": "2017",
+            "answer_start": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "1050",
+    "bbox": [
+      "254.46",
+      "667.11",
+      "277.68",
+      "676.11"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "1050",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Aldo Conterno Barolo 'Granbussia'",
+    "bbox": [
+      "19.54",
+      "683.72",
+      "212.33",
+      "692.72"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Aldo Conterno Barolo 'Granbussia'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "iiff  yyoouu  lliikkee  oorraannggee  wwiinnee,,",
+    "bbox": [
+      "-260.35",
+      "688.29",
+      "-15.79",
+      "718.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Piedmont, IT 2010",
+    "bbox": [
+      "19.54",
+      "693.72",
+      "118.16",
+      "702.72"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Piedmont, IT 2010",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2010",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "1400",
+    "bbox": [
+      "254.46",
+      "687.11",
+      "277.68",
+      "696.11"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "1400",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ttrryy  tthheessee..",
+    "bbox": [
+      "-271.55",
+      "712.63",
+      "-139.65",
+      "739.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Harlan Estate Cabernet (Very Limited)",
+    "bbox": [
+      "19.54",
+      "713.72",
+      "235.66",
+      "722.72"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Harlan Estate Cabernet (Very Limited)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2500",
+    "bbox": [
+      "254.46",
+      "717.11",
+      "277.68",
+      "726.11"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "2500",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Napa Valley 2012",
+    "bbox": [
+      "19.54",
+      "723.72",
+      "112.22",
+      "732.72"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Napa Valley 2012",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2012",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "uuppttoowwnn",
+    "bbox": [
+      "113.55",
+      "51.01",
+      "194.45",
+      "78.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "GRAPES OF NORTHERN ITALY",
+    "bbox": [
+      "89.83",
+      "71.70",
+      "218.19",
+      "79.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "WHITES",
+    "bbox": [
+      "28.00",
+      "84.38",
+      "68.34",
+      "93.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Via Alpina Pinot Grigio",
+    "bbox": [
+      "28.00",
+      "106.16",
+      "162.81",
+      "115.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Via Alpina Pinot Grigio",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "60",
+    "bbox": [
+      "268.03",
+      "108.81",
+      "279.01",
+      "117.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Friuli-Venezia Giulia",
+    "bbox": [
+      "28.00",
+      "116.16",
+      "149.49",
+      "125.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Friuli-Venezia Giulia",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "62",
+    "bbox": [
+      "268.03",
+      "128.81",
+      "279.01",
+      "137.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "62",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Ronchi di Cialla Ribolla Gialla",
+    "bbox": [
+      "28.00",
+      "136.16",
+      "210.72",
+      "145.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Ronchi di Cialla Ribolla Gialla",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Friuli-Venezia Giulia 2018",
+    "bbox": [
+      "28.00",
+      "146.16",
+      "177.76",
+      "155.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Friuli-Venezia Giulia 2018",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "64",
+    "bbox": [
+      "268.03",
+      "158.81",
+      "279.01",
+      "167.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "64",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Davide Vignato Gamarelli Classico 'El",
+    "bbox": [
+      "28.00",
+      "166.16",
+      "239.16",
+      "175.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Davide Vignato Gamarelli Classico 'El",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Gian' Veneto 2016",
+    "bbox": [
+      "28.00",
+      "176.16",
+      "120.91",
+      "185.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Gian' Veneto 2016",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2016",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alois Lageder Pinot Grigio 'Porer'",
+    "bbox": [
+      "28.00",
+      "196.16",
+      "226.22",
+      "205.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Alois Lageder Pinot Grigio 'Porer'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "70",
+    "bbox": [
+      "268.03",
+      "198.81",
+      "279.01",
+      "207.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "70",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alto Adige 2018",
+    "bbox": [
+      "28.00",
+      "206.16",
+      "114.36",
+      "215.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Alto Adige 2018",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "**",
+    "bbox": [
+      "223.92",
+      "212.58",
+      "235.92",
+      "236.58"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "**",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Schiopetto Friulano",
+    "bbox": [
+      "28.00",
+      "226.16",
+      "139.44",
+      "235.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Schiopetto Friulano",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "74",
+    "bbox": [
+      "268.03",
+      "228.81",
+      "279.01",
+      "237.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "74",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Friuli Venezia Giulia 2018",
+    "bbox": [
+      "28.00",
+      "236.16",
+      "178.96",
+      "245.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Friuli Venezia Giulia",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "85",
+    "bbox": [
+      "268.03",
+      "252.81",
+      "279.01",
+      "261.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Ermes Pavese Blanc de Morgex",
+    "bbox": [
+      "28.00",
+      "256.16",
+      "193.20",
+      "265.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Ermes Pavese Blanc de Morgex",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Valle d'Aosta 2019",
+    "bbox": [
+      "28.00",
+      "266.16",
+      "130.40",
+      "275.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Valle d'Aosta 2019",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Vitovska Vodopivec 'Origine'",
+    "bbox": [
+      "28.00",
+      "286.16",
+      "190.03",
+      "295.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Vitovska Vodopivec 'Origine'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "95",
+    "bbox": [
+      "268.03",
+      "286.81",
+      "279.01",
+      "295.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Friuli Venezia-Giulia 2015",
+    "bbox": [
+      "28.00",
+      "296.16",
+      "184.93",
+      "305.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Friuli Venezia-Giulia 2015",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2015",
+            "answer_start": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "**",
+    "bbox": [
+      "186.24",
+      "303.30",
+      "198.24",
+      "327.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Gravner Ribolla Gialla",
+    "bbox": [
+      "28.00",
+      "316.16",
+      "157.25",
+      "325.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Gravner Ribolla Gialla",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "145",
+    "bbox": [
+      "262.45",
+      "316.81",
+      "279.01",
+      "325.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "145",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Friuli-Venezia Giulia 2012",
+    "bbox": [
+      "28.00",
+      "326.16",
+      "177.91",
+      "335.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Friuli-Venezia Giulia 2",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2012",
+            "answer_start": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "**",
+    "bbox": [
+      "180.24",
+      "337.86",
+      "192.24",
+      "361.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "REDS",
+    "bbox": [
+      "28.00",
+      "344.38",
+      "54.99",
+      "353.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Amalia Cascina in Langa Dolcetto",
+    "bbox": [
+      "28.00",
+      "366.16",
+      "222.60",
+      "375.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Amalia Cascina in Langa Dolcetto",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "60",
+    "bbox": [
+      "268.03",
+      "366.81",
+      "279.01",
+      "375.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "d'Alba Piedmont 2017",
+    "bbox": [
+      "28.00",
+      "376.16",
+      "142.91",
+      "385.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "d'Alba Piedmont 2017",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Luigi Oddero Barbera d'Alba",
+    "bbox": [
+      "28.00",
+      "396.16",
+      "184.98",
+      "405.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Luigi Oddero Barbera d'Alba",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "65",
+    "bbox": [
+      "268.03",
+      "396.81",
+      "279.01",
+      "405.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "65",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Piedmont 2017",
+    "bbox": [
+      "28.00",
+      "406.16",
+      "103.28",
+      "415.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Piedmont 2017",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Grosjean Cornalin 'Vigne Rovettaz'",
+    "bbox": [
+      "28.00",
+      "426.16",
+      "231.42",
+      "435.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Grosjean Cornalin 'Vigne Rovettaz'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "70",
+    "bbox": [
+      "268.03",
+      "426.81",
+      "279.01",
+      "435.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "70",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Valle d'Aosta 2019",
+    "bbox": [
+      "28.00",
+      "436.16",
+      "130.40",
+      "445.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Valle d'Aosta 2019",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Azienda Agricola La Luna Rospo 'Bric",
+    "bbox": [
+      "28.00",
+      "456.16",
+      "244.41",
+      "465.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Azienda Agricola La Luna Rospo 'Bric",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "75",
+    "bbox": [
+      "268.03",
+      "456.81",
+      "279.01",
+      "465.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "75",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Rocche' Barbera d'Asti Piedmont 2015",
+    "bbox": [
+      "28.00",
+      "466.16",
+      "237.21",
+      "475.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Rocche' Barbera d'Asti Piedmont 2015",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2015",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Hilberg Barbera d'Alba",
+    "bbox": [
+      "28.00",
+      "486.16",
+      "160.95",
+      "495.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Hilberg Barbera d'Alba",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "85",
+    "bbox": [
+      "268.03",
+      "486.81",
+      "279.01",
+      "495.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Piedmont 2015",
+    "bbox": [
+      "28.00",
+      "496.16",
+      "103.81",
+      "505.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Piedmont 2015",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2015",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "San Fereolo Dogliani (Dolcetto)",
+    "bbox": [
+      "28.00",
+      "516.16",
+      "208.40",
+      "525.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "San Fereolo Dogliani (Dolcetto)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "95",
+    "bbox": [
+      "268.03",
+      "516.81",
+      "279.01",
+      "525.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Piedmont 2012",
+    "bbox": [
+      "28.00",
+      "526.16",
+      "103.79",
+      "535.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Piedmont 2012",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2012",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Ronchi di Cialla, Schioppettino",
+    "bbox": [
+      "28.00",
+      "546.16",
+      "216.20",
+      "555.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Ronchi di Cialla, Schioppettino",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "120",
+    "bbox": [
+      "262.45",
+      "546.81",
+      "279.01",
+      "555.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "120",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Friuli-Venezia Giulia 2015",
+    "bbox": [
+      "28.00",
+      "556.16",
+      "177.93",
+      "565.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Friuli-Venezia Giulia 2015",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2015",
+            "answer_start": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "iiff  yyoouu  lliikkee  oorraannggee  wwiinnee,,",
+    "bbox": [
+      "49.11",
+      "694.26",
+      "293.66",
+      "724.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "**",
+    "bbox": [
+      "36.00",
+      "713.47",
+      "48.73",
+      "738.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ttrryy  tthheessee..",
+    "bbox": [
+      "37.91",
+      "718.60",
+      "169.81",
+      "745.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "uuppttoowwnn",
+    "bbox": [
+      "112.80",
+      "52.01",
+      "193.70",
+      "79.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "GRAPES OF NORTHERN ITALY",
+    "bbox": [
+      "89.08",
+      "72.70",
+      "217.44",
+      "80.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "REDS — CONTINUED",
+    "bbox": [
+      "34.56",
+      "87.61",
+      "142.11",
+      "96.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "155",
+    "bbox": [
+      "270.01",
+      "102.38",
+      "286.57",
+      "111.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Braida Barbera d'Asti,'Bricco",
+    "bbox": [
+      "34.56",
+      "107.38",
+      "189.90",
+      "116.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "dell'Uccellone'  Piedmont 2016",
+    "bbox": [
+      "34.56",
+      "117.38",
+      "200.07",
+      "126.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "167",
+    "bbox": [
+      "270.01",
+      "132.38",
+      "286.57",
+      "141.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Montecariano Amarone della",
+    "bbox": [
+      "34.56",
+      "137.38",
+      "194.25",
+      "146.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Valpolicella Classico Veneto 2013",
+    "bbox": [
+      "34.56",
+      "147.38",
+      "227.41",
+      "156.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "215",
+    "bbox": [
+      "270.01",
+      "161.38",
+      "286.57",
+      "170.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Foradori Teroldego 'Granato'",
+    "bbox": [
+      "34.56",
+      "166.38",
+      "196.85",
+      "175.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Alto-Adige 2007",
+    "bbox": [
+      "34.56",
+      "176.38",
+      "120.64",
+      "185.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "REDS — NEBBIOLO",
+    "bbox": [
+      "34.56",
+      "202.61",
+      "133.28",
+      "211.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Carlone Davide Boca",
+    "bbox": [
+      "34.56",
+      "223.38",
+      "151.15",
+      "232.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "95",
+    "bbox": [
+      "275.59",
+      "226.38",
+      "286.57",
+      "235.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Piedmont 2015",
+    "bbox": [
+      "34.56",
+      "233.38",
+      "110.37",
+      "242.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Massimo Clerico Lessona Riserva",
+    "bbox": [
+      "34.56",
+      "252.38",
+      "222.60",
+      "261.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "98",
+    "bbox": [
+      "275.59",
+      "256.38",
+      "286.57",
+      "265.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Piedmont 2012",
+    "bbox": [
+      "34.56",
+      "262.38",
+      "110.35",
+      "271.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cascina Bruciata Barbaresco",
+    "bbox": [
+      "34.56",
+      "282.38",
+      "193.44",
+      "291.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "125",
+    "bbox": [
+      "270.01",
+      "284.38",
+      "286.57",
+      "293.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Piedmont 2015",
+    "bbox": [
+      "34.56",
+      "292.38",
+      "110.37",
+      "301.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Parusso Barolo",
+    "bbox": [
+      "34.56",
+      "312.38",
+      "121.43",
+      "321.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Piedmont 2015",
+    "bbox": [
+      "34.56",
+      "322.38",
+      "110.37",
+      "331.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "130",
+    "bbox": [
+      "270.01",
+      "320.38",
+      "286.57",
+      "329.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "135",
+    "bbox": [
+      "270.01",
+      "337.38",
+      "286.57",
+      "346.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Castello Conti Boca",
+    "bbox": [
+      "34.56",
+      "342.38",
+      "152.02",
+      "351.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Piedmont 2016",
+    "bbox": [
+      "34.56",
+      "352.38",
+      "110.15",
+      "361.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Antoniolo Gattinara Riserva 'Castelle'141",
+    "bbox": [
+      "34.56",
+      "371.38",
+      "286.57",
+      "381.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Piedmont 2015",
+    "bbox": [
+      "34.56",
+      "382.38",
+      "110.37",
+      "391.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Aldo Conterno Langhe Nebbiolo",
+    "bbox": [
+      "34.56",
+      "402.38",
+      "211.38",
+      "411.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "145",
+    "bbox": [
+      "270.01",
+      "401.38",
+      "286.57",
+      "410.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "'Il Favot'Piedmont 2017",
+    "bbox": [
+      "34.56",
+      "412.38",
+      "165.55",
+      "421.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bovio Barolo 'Gattera'",
+    "bbox": [
+      "34.56",
+      "432.38",
+      "167.14",
+      "441.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "155",
+    "bbox": [
+      "270.01",
+      "431.38",
+      "291.97",
+      "440.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Piedmont 2016",
+    "bbox": [
+      "34.56",
+      "442.38",
+      "110.15",
+      "451.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Grasso Barbaresco, Piedmont 2006",
+    "bbox": [
+      "34.56",
+      "462.38",
+      "221.79",
+      "471.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "158",
+    "bbox": [
+      "270.01",
+      "461.38",
+      "286.57",
+      "470.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Luigi Baudana (GD Vajra) Barolo del",
+    "bbox": [
+      "34.56",
+      "482.38",
+      "242.78",
+      "491.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "168",
+    "bbox": [
+      "270.01",
+      "481.38",
+      "286.57",
+      "490.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Commune di Serralunga Piedmont 2015",
+    "bbox": [
+      "34.56",
+      "492.38",
+      "241.31",
+      "501.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bruno Rocca Barbaresco 'Curra'",
+    "bbox": [
+      "34.56",
+      "508.38",
+      "209.03",
+      "517.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "185",
+    "bbox": [
+      "270.01",
+      "508.38",
+      "286.57",
+      "517.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Piedmont 2015",
+    "bbox": [
+      "34.56",
+      "518.38",
+      "110.37",
+      "527.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Paolo Conterno Barolo 'Ginestra'",
+    "bbox": [
+      "34.56",
+      "538.38",
+      "226.18",
+      "547.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "215",
+    "bbox": [
+      "270.01",
+      "537.38",
+      "286.57",
+      "546.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Piedmont 2013",
+    "bbox": [
+      "34.56",
+      "548.38",
+      "110.38",
+      "557.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "225",
+    "bbox": [
+      "270.01",
+      "564.38",
+      "286.57",
+      "573.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Domenico Clerico Barolo 'Pajana'",
+    "bbox": [
+      "34.56",
+      "568.38",
+      "220.65",
+      "577.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Piedmont 2013",
+    "bbox": [
+      "34.56",
+      "578.38",
+      "110.38",
+      "587.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "325",
+    "bbox": [
+      "270.01",
+      "591.38",
+      "286.57",
+      "600.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Vietti Barolo 'Ravera' Piedmont 2017",
+    "bbox": [
+      "34.56",
+      "598.38",
+      "258.08",
+      "607.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "iiff  yyoouu  lliikkee  oorraannggee  wwiinnee,,",
+    "bbox": [
+      "-256.89",
+      "694.26",
+      "-12.34",
+      "724.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ttrryy  tthheessee..",
+    "bbox": [
+      "-268.09",
+      "718.60",
+      "-136.19",
+      "745.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "uuppttoowwnn",
+    "bbox": [
+      "114.55",
+      "52.01",
+      "195.45",
+      "79.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "GRAPES OF NORTHERN ITALY",
+    "bbox": [
+      "90.83",
+      "72.70",
+      "219.19",
+      "80.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ITALIAN-AMERICAN WHITES",
+    "bbox": [
+      "29.00",
+      "88.33",
+      "178.42",
+      "97.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Massican Annia Tocai Friulano Ribolla 85",
+    "bbox": [
+      "29.00",
+      "109.81",
+      "266.85",
+      "119.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Gialla Blend Napa Valley 2019",
+    "bbox": [
+      "29.00",
+      "120.10",
+      "198.44",
+      "129.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Massican 'Gemina' Pinot Bianco, Greco 100",
+    "bbox": [
+      "29.00",
+      "140.10",
+      "271.52",
+      "149.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Napa Valley, California 2020",
+    "bbox": [
+      "29.00",
+      "150.10",
+      "190.45",
+      "159.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "iiff  yyoouu  lliikkee  oorraannggee  wwiinnee,,",
+    "bbox": [
+      "45.65",
+      "592.02",
+      "290.21",
+      "622.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "**",
+    "bbox": [
+      "32.55",
+      "605.23",
+      "43.55",
+      "627.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ttrryy  tthheessee..",
+    "bbox": [
+      "34.45",
+      "616.36",
+      "166.35",
+      "642.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "mm",
+    "bbox": [
+      "103.81",
+      "50.01",
+      "124.12",
+      "77.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "iiddttoowwnn",
+    "bbox": [
+      "124.12",
+      "50.01",
+      "200.69",
+      "77.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "GRAPES OF CENTRAL ITALY",
+    "bbox": [
+      "90.94",
+      "70.70",
+      "213.59",
+      "78.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "WHITES",
+    "bbox": [
+      "33.00",
+      "86.38",
+      "73.34",
+      "95.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Marchionni Bianco Tuscany 2018",
+    "bbox": [
+      "33.00",
+      "108.16",
+      "207.96",
+      "117.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "68",
+    "bbox": [
+      "268.03",
+      "106.36",
+      "279.01",
+      "115.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Cirelli Pecorino 'Anfora' Abruzzo 2018",
+    "bbox": [
+      "33.00",
+      "128.16",
+      "252.74",
+      "137.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "88",
+    "bbox": [
+      "268.03",
+      "128.36",
+      "279.01",
+      "137.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "**",
+    "bbox": [
+      "247.88",
+      "137.17",
+      "259.88",
+      "161.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Marchionni 'a Vigliano' Trebbiano",
+    "bbox": [
+      "33.00",
+      "148.16",
+      "230.47",
+      "157.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "98",
+    "bbox": [
+      "268.03",
+      "152.36",
+      "279.01",
+      "161.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Tuscany 2018",
+    "bbox": [
+      "33.00",
+      "158.16",
+      "101.56",
+      "167.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "**",
+    "bbox": [
+      "225.00",
+      "161.55",
+      "237.00",
+      "185.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Paolo Bea 'Santa Chiara'",
+    "bbox": [
+      "33.00",
+      "178.16",
+      "172.32",
+      "187.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Umbria 2017",
+    "bbox": [
+      "33.00",
+      "188.16",
+      "96.20",
+      "197.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "125",
+    "bbox": [
+      "262.45",
+      "188.36",
+      "279.01",
+      "197.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "**",
+    "bbox": [
+      "175.68",
+      "192.32",
+      "187.68",
+      "216.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Monteraponi Trebbiano",
+    "bbox": [
+      "33.00",
+      "208.16",
+      "156.47",
+      "217.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "165",
+    "bbox": [
+      "262.45",
+      "212.36",
+      "279.01",
+      "221.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Tuscany 2018",
+    "bbox": [
+      "33.00",
+      "218.16",
+      "101.56",
+      "227.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "REDS",
+    "bbox": [
+      "33.00",
+      "246.38",
+      "59.99",
+      "255.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Marchionni Rosso Vigliano Tuscany 201869",
+    "bbox": [
+      "33.00",
+      "268.16",
+      "279.01",
+      "279.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Riecine Chianti Classico Tuscany 2019",
+    "bbox": [
+      "33.00",
+      "288.16",
+      "249.24",
+      "297.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "80",
+    "bbox": [
+      "268.03",
+      "291.36",
+      "279.01",
+      "300.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Fattoria Paradiso Sangiovese di",
+    "bbox": [
+      "33.00",
+      "308.16",
+      "220.13",
+      "317.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "85",
+    "bbox": [
+      "268.03",
+      "311.36",
+      "279.01",
+      "320.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Romagna Emilia-Romagna 20089",
+    "bbox": [
+      "33.00",
+      "318.16",
+      "197.88",
+      "327.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Villa Medoro Montepulciano d'Abruzzo",
+    "bbox": [
+      "33.00",
+      "338.16",
+      "243.88",
+      "347.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "94",
+    "bbox": [
+      "268.03",
+      "337.36",
+      "279.01",
+      "346.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Abruzzo 2015",
+    "bbox": [
+      "33.00",
+      "348.16",
+      "101.95",
+      "357.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Selvapiana Chianti Rufina Riserva",
+    "bbox": [
+      "33.00",
+      "368.16",
+      "226.78",
+      "377.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "100",
+    "bbox": [
+      "262.45",
+      "369.36",
+      "279.01",
+      "378.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "'Bucerchiale' Tuscany 2017",
+    "bbox": [
+      "33.00",
+      "378.16",
+      "182.14",
+      "387.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Le Terazze Rosso Conero Riserva",
+    "bbox": [
+      "33.00",
+      "398.16",
+      "214.26",
+      "407.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "105",
+    "bbox": [
+      "262.45",
+      "401.36",
+      "279.01",
+      "410.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "'Sassi Neri' Marche 2016",
+    "bbox": [
+      "33.00",
+      "408.16",
+      "170.57",
+      "417.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Il Conventino Vino Nobile di",
+    "bbox": [
+      "33.00",
+      "428.16",
+      "189.68",
+      "437.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "118",
+    "bbox": [
+      "262.45",
+      "433.36",
+      "279.01",
+      "442.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Montepulciano Riserva Tuscany 2015",
+    "bbox": [
+      "33.00",
+      "438.16",
+      "217.61",
+      "447.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Badia a Coltibuono 'Sangioveto'",
+    "bbox": [
+      "33.00",
+      "458.16",
+      "214.11",
+      "467.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "130",
+    "bbox": [
+      "262.45",
+      "463.36",
+      "279.01",
+      "472.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Tuscany 2016",
+    "bbox": [
+      "33.00",
+      "468.16",
+      "101.51",
+      "477.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Salcheto 'Salco' Vino Nobile di",
+    "bbox": [
+      "33.00",
+      "488.16",
+      "219.28",
+      "497.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "135",
+    "bbox": [
+      "262.45",
+      "493.36",
+      "279.01",
+      "502.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Montepulciano Tuscany 2013",
+    "bbox": [
+      "33.00",
+      "498.16",
+      "185.19",
+      "507.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Fongoli Montefalco Sagrantino",
+    "bbox": [
+      "33.00",
+      "518.16",
+      "203.92",
+      "527.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "140",
+    "bbox": [
+      "262.45",
+      "521.36",
+      "279.01",
+      "530.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Umbria 2008",
+    "bbox": [
+      "33.00",
+      "528.16",
+      "96.88",
+      "537.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "145",
+    "bbox": [
+      "262.45",
+      "543.36",
+      "279.01",
+      "552.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Piancornello Brunello di Montalcino",
+    "bbox": [
+      "33.00",
+      "548.16",
+      "239.72",
+      "557.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Tuscany 2015",
+    "bbox": [
+      "33.00",
+      "558.16",
+      "101.73",
+      "567.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Poggio Scalette 'Il Carbonaione'",
+    "bbox": [
+      "33.00",
+      "578.16",
+      "219.97",
+      "587.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Tuscany 2017",
+    "bbox": [
+      "33.00",
+      "588.16",
+      "101.20",
+      "597.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "148",
+    "bbox": [
+      "262.45",
+      "587.36",
+      "279.01",
+      "596.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "iiff  yyoouu  lliikkee  oorraannggee  wwiinnee,,",
+    "bbox": [
+      "-260.35",
+      "592.02",
+      "-15.79",
+      "622.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "La Gerla Brunello di Montalcino",
+    "bbox": [
+      "33.00",
+      "608.16",
+      "215.23",
+      "617.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "158",
+    "bbox": [
+      "262.45",
+      "607.36",
+      "279.01",
+      "616.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ttrryy  tthheessee..",
+    "bbox": [
+      "-271.55",
+      "616.36",
+      "-139.65",
+      "642.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Tuscany 2015",
+    "bbox": [
+      "33.00",
+      "618.16",
+      "101.73",
+      "627.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Altesino Brunello di Montalcino",
+    "bbox": [
+      "33.00",
+      "638.16",
+      "215.77",
+      "647.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "185",
+    "bbox": [
+      "262.45",
+      "637.36",
+      "279.01",
+      "646.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Tuscany 2016",
+    "bbox": [
+      "33.00",
+      "648.16",
+      "101.51",
+      "657.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Cinelli Colombini Brunello di",
+    "bbox": [
+      "33.00",
+      "668.16",
+      "209.46",
+      "677.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "325",
+    "bbox": [
+      "262.45",
+      "667.36",
+      "279.01",
+      "676.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Montalcino Riserva Tuscany 2013",
+    "bbox": [
+      "33.00",
+      "678.16",
+      "214.40",
+      "687.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "mm",
+    "bbox": [
+      "105.56",
+      "52.01",
+      "125.87",
+      "79.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "iiddttoowwnn",
+    "bbox": [
+      "125.87",
+      "52.01",
+      "202.44",
+      "79.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "GRAPES OF CENTRAL ITALY",
+    "bbox": [
+      "92.69",
+      "72.70",
+      "215.34",
+      "80.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "ITALIAN-AMERICAN REDS",
+    "bbox": [
+      "28.25",
+      "86.80",
+      "164.33",
+      "95.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Southold Farm and Cellar 'Forgotten",
+    "bbox": [
+      "28.25",
+      "108.57",
+      "238.82",
+      "117.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "64",
+    "bbox": [
+      "260.89",
+      "108.57",
+      "271.26",
+      "117.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Dreams' Sangiovese Fredricksburg,",
+    "bbox": [
+      "28.25",
+      "118.57",
+      "226.18",
+      "127.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Texas 2020 (Available Chilled)",
+    "bbox": [
+      "28.25",
+      "128.57",
+      "201.03",
+      "137.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Rootdown Sangiovese 'Janes Vineyard'",
+    "bbox": [
+      "28.25",
+      "148.57",
+      "238.84",
+      "157.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "78",
+    "bbox": [
+      "260.89",
+      "148.57",
+      "271.26",
+      "157.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Mendocino, California 2018",
+    "bbox": [
+      "28.25",
+      "158.57",
+      "179.44",
+      "167.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Vinous Obscura Sagrantino",
+    "bbox": [
+      "28.25",
+      "178.57",
+      "175.91",
+      "187.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "98",
+    "bbox": [
+      "260.89",
+      "178.57",
+      "271.26",
+      "187.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Columbia Gorge, Oregon 2018",
+    "bbox": [
+      "28.25",
+      "188.57",
+      "186.03",
+      "197.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Leonetti Sangiovese,",
+    "bbox": [
+      "28.25",
+      "208.57",
+      "151.04",
+      "217.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "185",
+    "bbox": [
+      "255.62",
+      "208.57",
+      "271.26",
+      "217.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Walla Walla, Washington 2013",
+    "bbox": [
+      "28.25",
+      "218.57",
+      "192.00",
+      "227.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Central Coast Group Project",
+    "bbox": [
+      "28.25",
+      "238.57",
+      "186.38",
+      "247.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "220",
+    "bbox": [
+      "255.62",
+      "238.57",
+      "271.26",
+      "247.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Sangiovese 'Super-Cali' California,",
+    "bbox": [
+      "28.25",
+      "248.57",
+      "235.68",
+      "257.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "2013",
+    "bbox": [
+      "28.25",
+      "258.57",
+      "50.22",
+      "267.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "ddoowwnnttoowwnn",
+    "bbox": [
+      "98.25",
+      "52.01",
+      "206.25",
+      "79.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "GRAPES OF SOUTHERN ITALY AND ISLANDS",
+    "bbox": [
+      "55.26",
+      "72.70",
+      "249.28",
+      "80.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "WHITES",
+    "bbox": [
+      "33.00",
+      "86.33",
+      "73.34",
+      "95.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Valdibella Grillo 'Sulle Bucce'",
+    "bbox": [
+      "33.00",
+      "108.10",
+      "213.70",
+      "117.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "65",
+    "bbox": [
+      "269.83",
+      "110.30",
+      "280.81",
+      "119.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Sicily, IT 2019",
+    "bbox": [
+      "33.00",
+      "118.10",
+      "117.84",
+      "127.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "**",
+    "bbox": [
+      "213.12",
+      "123.30",
+      "225.12",
+      "147.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Bruno de Conciliis Greco di Tufo 'Oro'",
+    "bbox": [
+      "33.00",
+      "138.10",
+      "255.01",
+      "147.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "78",
+    "bbox": [
+      "269.83",
+      "143.30",
+      "280.81",
+      "152.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Campania 2016",
+    "bbox": [
+      "33.00",
+      "148.10",
+      "108.54",
+      "157.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Vigneti Tardis 'Mercoledi'",
+    "bbox": [
+      "33.00",
+      "166.10",
+      "182.87",
+      "175.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "80",
+    "bbox": [
+      "269.83",
+      "165.30",
+      "280.81",
+      "174.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Campania 2018",
+    "bbox": [
+      "33.00",
+      "174.10",
+      "108.60",
+      "183.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "**",
+    "bbox": [
+      "187.68",
+      "183.78",
+      "199.68",
+      "207.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Tenuta delle Terre Nerre Etna Bianco",
+    "bbox": [
+      "33.00",
+      "198.10",
+      "243.51",
+      "207.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "100",
+    "bbox": [
+      "264.25",
+      "200.30",
+      "280.81",
+      "209.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "'Le Vigne Niche' Sicily 2019",
+    "bbox": [
+      "33.00",
+      "206.10",
+      "193.91",
+      "215.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "REDS",
+    "bbox": [
+      "33.00",
+      "232.33",
+      "59.99",
+      "241.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Passopisciaro Terre Siciliana",
+    "bbox": [
+      "33.00",
+      "254.10",
+      "207.83",
+      "263.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "68",
+    "bbox": [
+      "269.83",
+      "254.30",
+      "280.81",
+      "263.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "'Scinniri' Sicily 2017",
+    "bbox": [
+      "33.00",
+      "264.10",
+      "157.65",
+      "273.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Alberto Longo Nero di Troia 'Le",
+    "bbox": [
+      "33.00",
+      "284.10",
+      "219.33",
+      "293.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "70",
+    "bbox": [
+      "269.83",
+      "288.30",
+      "280.81",
+      "297.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Cruste' Puglia, 2016",
+    "bbox": [
+      "33.00",
+      "294.10",
+      "153.21",
+      "303.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Alberto Loi Cannonau di Sardegna 'Sa",
+    "bbox": [
+      "33.00",
+      "314.10",
+      "250.53",
+      "323.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "75",
+    "bbox": [
+      "269.83",
+      "314.30",
+      "280.81",
+      "323.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Mola' Sardinia 2017",
+    "bbox": [
+      "33.00",
+      "324.10",
+      "141.93",
+      "333.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Vigneti Tardis 'Martedi'",
+    "bbox": [
+      "33.00",
+      "342.10",
+      "171.47",
+      "351.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "80",
+    "bbox": [
+      "269.83",
+      "340.30",
+      "280.81",
+      "349.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Campania 2018",
+    "bbox": [
+      "33.00",
+      "352.10",
+      "108.60",
+      "361.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "San Salvatore Aglianico 'Jungano'",
+    "bbox": [
+      "33.00",
+      "372.10",
+      "218.87",
+      "381.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "100",
+    "bbox": [
+      "264.25",
+      "372.30",
+      "280.81",
+      "381.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Campania 2016",
+    "bbox": [
+      "33.00",
+      "382.10",
+      "108.54",
+      "391.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "125",
+    "bbox": [
+      "264.25",
+      "391.30",
+      "280.81",
+      "400.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Tenuta delle Terre Nerre Etna Rosso",
+    "bbox": [
+      "33.00",
+      "402.10",
+      "242.86",
+      "411.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "'Moganazzi' Sicily 2017",
+    "bbox": [
+      "33.00",
+      "412.10",
+      "164.23",
+      "421.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Ippolito 1845 Gaglioppo, 'Ripe del",
+    "bbox": [
+      "33.00",
+      "432.10",
+      "236.64",
+      "441.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "135",
+    "bbox": [
+      "264.25",
+      "429.30",
+      "280.81",
+      "438.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Falco' Calabria 2011",
+    "bbox": [
+      "33.00",
+      "442.10",
+      "147.72",
+      "451.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Bruno de Conciliis Aglianico 'Naima'",
+    "bbox": [
+      "33.00",
+      "472.10",
+      "244.54",
+      "481.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "150",
+    "bbox": [
+      "264.25",
+      "469.30",
+      "280.81",
+      "478.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Campania 2011",
+    "bbox": [
+      "33.00",
+      "482.10",
+      "108.67",
+      "491.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Passopisciaro Nerello Mascalese",
+    "bbox": [
+      "33.00",
+      "502.10",
+      "215.23",
+      "511.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "'Contrada Chiappemacine' Sicily 2017",
+    "bbox": [
+      "33.00",
+      "512.10",
+      "242.10",
+      "521.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "195",
+    "bbox": [
+      "264.25",
+      "509.30",
+      "280.81",
+      "518.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Passopisciaro Nerello Mascalese",
+    "bbox": [
+      "33.00",
+      "532.10",
+      "215.23",
+      "541.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "'Contrada Ramparte' Sicily 2017",
+    "bbox": [
+      "33.00",
+      "542.10",
+      "217.43",
+      "551.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "210",
+    "bbox": [
+      "264.25",
+      "539.30",
+      "280.81",
+      "548.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "ITALIAN-AMERICAN WHITES",
+    "bbox": [
+      "33.00",
+      "570.33",
+      "182.42",
+      "579.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Penrose Falanghina 'Calleri Vineyard'",
+    "bbox": [
+      "33.00",
+      "592.10",
+      "248.51",
+      "601.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "70",
+    "bbox": [
+      "269.83",
+      "591.30",
+      "280.81",
+      "600.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "San Benito County, California 2016",
+    "bbox": [
+      "33.00",
+      "602.10",
+      "230.05",
+      "611.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Vinous Obscura Fiano Blend",
+    "bbox": [
+      "33.00",
+      "622.10",
+      "186.16",
+      "631.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "95",
+    "bbox": [
+      "269.83",
+      "619.30",
+      "280.81",
+      "628.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Columbia Gorge, Oregon 2019",
+    "bbox": [
+      "33.00",
+      "632.10",
+      "190.81",
+      "641.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "**",
+    "bbox": [
+      "192.96",
+      "640.26",
+      "204.96",
+      "664.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Ridge Falanghina",
+    "bbox": [
+      "33.00",
+      "650.10",
+      "132.29",
+      "659.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "98",
+    "bbox": [
+      "269.83",
+      "649.30",
+      "280.81",
+      "658.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Mendocino Valley, California 2018",
+    "bbox": [
+      "33.00",
+      "658.10",
+      "224.68",
+      "667.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "**iiff  yyoouu  lliikkee  oorraannggee  wwiinnee,,",
+    "bbox": [
+      "11.52",
+      "697.14",
+      "272.06",
+      "727.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "ttrryy  tthheessee..",
+    "bbox": [
+      "16.31",
+      "721.48",
+      "148.21",
+      "748.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "vvaarriieettáá  FF",
+    "bbox": [
+      "67.09",
+      "52.01",
+      "170.23",
+      "79.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "rraanncceessee",
+    "bbox": [
+      "170.23",
+      "52.01",
+      "242.91",
+      "79.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "GRAPES OF FRANCE — MADE IN ITALY OR AMERICA",
+    "bbox": [
+      "39.08",
+      "71.70",
+      "270.97",
+      "79.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "29.00",
+      "98.38",
+      "134.67",
+      "109.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Scarbolo",
+    "bbox": [
+      "29.00",
+      "120.16",
+      "75.53",
+      "129.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Friuli-Venezia Giulia, IT 2018",
+    "bbox": [
+      "29.00",
+      "130.16",
+      "201.72",
+      "139.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "64",
+    "bbox": [
+      "264.79",
+      "129.16",
+      "275.77",
+      "138.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Massican Napa Valley, California 2020",
+    "bbox": [
+      "29.00",
+      "150.16",
+      "243.60",
+      "159.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "100",
+    "bbox": [
+      "259.21",
+      "149.16",
+      "275.77",
+      "158.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Soliste 'St. Andelain'",
+    "bbox": [
+      "29.00",
+      "170.16",
+      "161.72",
+      "179.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "120",
+    "bbox": [
+      "259.21",
+      "169.16",
+      "275.77",
+      "178.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Lake County, California 2012",
+    "bbox": [
+      "29.00",
+      "180.16",
+      "190.79",
+      "189.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Eisele Vineyard, Napa Valley California",
+    "bbox": [
+      "29.00",
+      "200.16",
+      "241.71",
+      "209.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "225",
+    "bbox": [
+      "259.21",
+      "199.16",
+      "275.77",
+      "208.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "2017",
+    "bbox": [
+      "29.00",
+      "210.16",
+      "48.82",
+      "219.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "29.00",
+      "228.38",
+      "101.82",
+      "237.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Bovio 'Alessandro'",
+    "bbox": [
+      "29.00",
+      "250.16",
+      "138.10",
+      "259.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "78",
+    "bbox": [
+      "264.79",
+      "256.16",
+      "275.77",
+      "265.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Friuli-Venezia Giulia, IT 2018",
+    "bbox": [
+      "29.00",
+      "260.16",
+      "201.72",
+      "269.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Soliste 'l'Age d'Or'",
+    "bbox": [
+      "29.00",
+      "280.16",
+      "146.50",
+      "289.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "90",
+    "bbox": [
+      "264.79",
+      "283.16",
+      "275.77",
+      "292.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Russian River Valley California 2013",
+    "bbox": [
+      "29.00",
+      "290.16",
+      "237.99",
+      "299.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Borgo del Tiglio,",
+    "bbox": [
+      "29.00",
+      "308.16",
+      "145.76",
+      "317.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "120",
+    "bbox": [
+      "259.21",
+      "310.16",
+      "275.77",
+      "319.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Friuli-Venezia Giulia, IT 2017",
+    "bbox": [
+      "29.00",
+      "318.16",
+      "201.36",
+      "327.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Massican Chardonnay 'Hyde'",
+    "bbox": [
+      "29.00",
+      "338.16",
+      "180.79",
+      "347.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "135",
+    "bbox": [
+      "259.21",
+      "338.16",
+      "275.77",
+      "347.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Napa Valley California 2020",
+    "bbox": [
+      "29.00",
+      "348.16",
+      "185.60",
+      "357.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Aldo Conterno 'Bussiador'",
+    "bbox": [
+      "29.00",
+      "366.16",
+      "180.50",
+      "375.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "145",
+    "bbox": [
+      "259.21",
+      "364.16",
+      "275.77",
+      "373.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Piedmont, IT 2016",
+    "bbox": [
+      "29.00",
+      "376.16",
+      "127.64",
+      "385.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Kosta Browne 'One Sixteen'",
+    "bbox": [
+      "29.00",
+      "394.16",
+      "181.43",
+      "403.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "160",
+    "bbox": [
+      "259.21",
+      "392.16",
+      "275.77",
+      "401.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Sonoma, California 2017",
+    "bbox": [
+      "29.00",
+      "404.16",
+      "162.16",
+      "413.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "29.00",
+      "422.38",
+      "90.51",
+      "431.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Klaus Lentsch, 'Bachgart',",
+    "bbox": [
+      "29.00",
+      "444.16",
+      "190.75",
+      "453.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "95",
+    "bbox": [
+      "264.79",
+      "447.16",
+      "275.77",
+      "456.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Alto-Adige, IT 2016",
+    "bbox": [
+      "29.00",
+      "454.16",
+      "137.90",
+      "463.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Soliste 'Narcisse' Sonoma Coast",
+    "bbox": [
+      "29.00",
+      "474.16",
+      "216.13",
+      "483.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "105",
+    "bbox": [
+      "259.21",
+      "475.16",
+      "275.77",
+      "484.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "California 2016",
+    "bbox": [
+      "29.00",
+      "484.16",
+      "114.89",
+      "493.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Joyce 'Vista Los Lobos'",
+    "bbox": [
+      "29.00",
+      "504.16",
+      "162.43",
+      "513.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "115",
+    "bbox": [
+      "259.21",
+      "510.16",
+      "275.77",
+      "519.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Monterey, California 2018",
+    "bbox": [
+      "29.00",
+      "514.16",
+      "173.08",
+      "523.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "B. Kosuge 'Habitat' Sonoma Coast",
+    "bbox": [
+      "29.00",
+      "534.16",
+      "216.03",
+      "543.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "140",
+    "bbox": [
+      "259.21",
+      "531.16",
+      "275.77",
+      "540.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "California 2016",
+    "bbox": [
+      "29.00",
+      "544.16",
+      "114.89",
+      "553.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Keller 'El Coro' Sonoma Coast",
+    "bbox": [
+      "29.00",
+      "564.16",
+      "198.36",
+      "573.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "145",
+    "bbox": [
+      "259.21",
+      "566.16",
+      "275.77",
+      "575.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "California 2015",
+    "bbox": [
+      "29.00",
+      "574.16",
+      "115.11",
+      "583.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Brittan 'Gestalt' Willamette Valley",
+    "bbox": [
+      "29.00",
+      "594.16",
+      "233.08",
+      "603.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "150",
+    "bbox": [
+      "259.21",
+      "594.16",
+      "275.77",
+      "603.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Oregon 2016",
+    "bbox": [
+      "29.00",
+      "604.16",
+      "92.40",
+      "613.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Eden Rift Cienega Valley",
+    "bbox": [
+      "29.00",
+      "624.16",
+      "169.66",
+      "633.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "160",
+    "bbox": [
+      "259.21",
+      "629.16",
+      "275.77",
+      "638.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "California 2017",
+    "bbox": [
+      "29.00",
+      "634.16",
+      "114.59",
+      "643.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Marcassin",
+    "bbox": [
+      "29.00",
+      "654.16",
+      "81.35",
+      "663.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "420",
+    "bbox": [
+      "259.21",
+      "659.16",
+      "280.86",
+      "668.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Sonoma Coast, California 2016",
+    "bbox": [
+      "29.00",
+      "664.16",
+      "198.02",
+      "673.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "vvaarriieettáá  FF",
+    "bbox": [
+      "63.09",
+      "51.01",
+      "166.23",
+      "78.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "rraanncceessee",
+    "bbox": [
+      "166.23",
+      "51.01",
+      "238.91",
+      "78.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "GRAPES OF FRANCE — MADE IN ITALY OR AMERICA",
+    "bbox": [
+      "35.08",
+      "70.70",
+      "266.97",
+      "78.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "CABERNET SAUVIGNON AND BLENDS",
+    "bbox": [
+      "34.00",
+      "106.64",
+      "227.40",
+      "115.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Joey Tensley 'Fundamental'",
+    "bbox": [
+      "34.00",
+      "128.42",
+      "190.19",
+      "137.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "70",
+    "bbox": [
+      "272.71",
+      "134.26",
+      "283.69",
+      "143.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Central Coast",
+    "bbox": [
+      "34.00",
+      "138.42",
+      "109.97",
+      "147.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "95",
+    "bbox": [
+      "272.71",
+      "154.26",
+      "283.69",
+      "163.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "La Sala 'Campo All'Albero'",
+    "bbox": [
+      "34.00",
+      "158.42",
+      "183.39",
+      "167.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Tuscany, IT 2016",
+    "bbox": [
+      "34.00",
+      "168.42",
+      "124.94",
+      "177.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "135",
+    "bbox": [
+      "267.13",
+      "184.26",
+      "283.69",
+      "193.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Montecariano 'Puntara'",
+    "bbox": [
+      "34.00",
+      "188.42",
+      "162.23",
+      "197.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Veneto, IT 2013",
+    "bbox": [
+      "34.00",
+      "198.42",
+      "120.33",
+      "207.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Frogs Leap",
+    "bbox": [
+      "34.00",
+      "218.42",
+      "97.37",
+      "227.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "155",
+    "bbox": [
+      "267.13",
+      "224.26",
+      "283.69",
+      "233.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Napa Valley, California 2017",
+    "bbox": [
+      "34.00",
+      "228.42",
+      "195.17",
+      "237.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "175",
+    "bbox": [
+      "267.13",
+      "244.26",
+      "283.69",
+      "253.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "JB  Neufeld 'Old Goat'",
+    "bbox": [
+      "34.00",
+      "248.42",
+      "167.01",
+      "257.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Yakima, Washington 2016",
+    "bbox": [
+      "34.00",
+      "258.42",
+      "167.88",
+      "267.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "185",
+    "bbox": [
+      "267.13",
+      "274.26",
+      "283.69",
+      "283.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Farella Coombesville, California 2017",
+    "bbox": [
+      "34.00",
+      "278.42",
+      "249.21",
+      "287.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "210",
+    "bbox": [
+      "267.13",
+      "294.26",
+      "283.69",
+      "303.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Matthiasson Napa Valley 2017",
+    "bbox": [
+      "34.00",
+      "298.42",
+      "197.32",
+      "307.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Di Costanzo 'Farella Vineyard'",
+    "bbox": [
+      "34.00",
+      "318.42",
+      "207.81",
+      "327.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "240",
+    "bbox": [
+      "267.13",
+      "324.26",
+      "283.69",
+      "333.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Napa Valley, California 2016",
+    "bbox": [
+      "34.00",
+      "328.42",
+      "195.47",
+      "337.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "330",
+    "bbox": [
+      "267.13",
+      "344.26",
+      "283.69",
+      "353.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Tignanello Tuscany, IT 2018",
+    "bbox": [
+      "34.00",
+      "348.42",
+      "189.86",
+      "357.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Far Niente 'Oakville'",
+    "bbox": [
+      "34.00",
+      "368.42",
+      "155.61",
+      "377.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "420",
+    "bbox": [
+      "267.13",
+      "374.26",
+      "283.69",
+      "383.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Napa Valley, California 2012",
+    "bbox": [
+      "34.00",
+      "378.42",
+      "195.67",
+      "387.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "435",
+    "bbox": [
+      "267.13",
+      "394.26",
+      "283.69",
+      "403.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Peter Michael 'Au Paradis'",
+    "bbox": [
+      "34.00",
+      "398.42",
+      "184.79",
+      "407.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Napa Valley, California 2016",
+    "bbox": [
+      "34.00",
+      "408.42",
+      "195.47",
+      "417.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "450",
+    "bbox": [
+      "267.13",
+      "424.26",
+      "283.69",
+      "433.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "M. Etain Rutherford, California 2017",
+    "bbox": [
+      "34.00",
+      "428.42",
+      "242.09",
+      "437.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Meteor 'Special Family Reserve'",
+    "bbox": [
+      "34.00",
+      "448.42",
+      "214.77",
+      "457.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "500",
+    "bbox": [
+      "267.13",
+      "454.26",
+      "283.69",
+      "463.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Napa Valley, California 2013",
+    "bbox": [
+      "34.00",
+      "458.42",
+      "195.70",
+      "467.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "SYRAH",
+    "bbox": [
+      "34.00",
+      "486.64",
+      "68.88",
+      "495.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Central Coast Group Project Syrah",
+    "bbox": [
+      "34.00",
+      "508.42",
+      "229.75",
+      "517.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "225",
+    "bbox": [
+      "267.13",
+      "514.26",
+      "283.69",
+      "523.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "'Behind the Purple Door' California,",
+    "bbox": [
+      "34.00",
+      "518.42",
+      "245.83",
+      "527.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "2013",
+    "bbox": [
+      "34.00",
+      "528.42",
+      "55.70",
+      "537.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "230",
+    "bbox": [
+      "268.05",
+      "544.55",
+      "283.69",
+      "553.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Fontodi 'Case Via' Tuscany 2012",
+    "bbox": [
+      "34.00",
+      "548.42",
+      "215.82",
+      "557.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "ccoocckkttaaiillss",
+    "bbox": [
+      "112.56",
+      "52.01",
+      "209.44",
+      "79.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "NONNA'S LITTLE NIP",
+    "bbox": [
+      "32.25",
+      "94.49",
+      "150.57",
+      "105.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "4 / 12",
+    "bbox": [
+      "243.17",
+      "93.81",
+      "278.27",
+      "102.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Grapefruit, Campari & Prosecco",
+    "bbox": [
+      "32.25",
+      "106.26",
+      "219.26",
+      "115.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "MOONSTRUCK",
+    "bbox": [
+      "32.25",
+      "126.26",
+      "100.42",
+      "135.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "15",
+    "bbox": [
+      "266.92",
+      "123.81",
+      "278.26",
+      "132.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Rye, Don Ciccio Ferro China Amaro,",
+    "bbox": [
+      "32.25",
+      "136.26",
+      "244.27",
+      "145.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Vermouth, Bitters",
+    "bbox": [
+      "32.25",
+      "146.26",
+      "137.98",
+      "155.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "ANGURIA SPRITZ",
+    "bbox": [
+      "32.25",
+      "164.49",
+      "122.37",
+      "175.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "16",
+    "bbox": [
+      "266.92",
+      "169.81",
+      "278.26",
+      "178.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Prosecco, Carpano Bianco,",
+    "bbox": [
+      "32.25",
+      "176.26",
+      "193.68",
+      "185.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Watermelon, Thai Basil",
+    "bbox": [
+      "32.25",
+      "186.26",
+      "169.24",
+      "195.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "17",
+    "bbox": [
+      "266.92",
+      "199.81",
+      "278.26",
+      "208.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "THE PASQUALE",
+    "bbox": [
+      "32.25",
+      "204.49",
+      "109.87",
+      "215.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Gin, Cocchi Americano, Grapefruit",
+    "bbox": [
+      "32.25",
+      "216.26",
+      "243.70",
+      "225.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Liqueur, Lemon",
+    "bbox": [
+      "32.25",
+      "226.26",
+      "119.22",
+      "235.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "FAMOSO FUMOSO",
+    "bbox": [
+      "32.25",
+      "244.49",
+      "116.12",
+      "255.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "17",
+    "bbox": [
+      "266.92",
+      "249.81",
+      "278.26",
+      "258.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Mezcal, Yellow Pepper, Lemon,",
+    "bbox": [
+      "32.25",
+      "256.26",
+      "218.69",
+      "265.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Smoked Chili Oil",
+    "bbox": [
+      "32.25",
+      "266.26",
+      "131.72",
+      "275.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "THE TRIVESPA",
+    "bbox": [
+      "32.25",
+      "284.49",
+      "109.87",
+      "295.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "16",
+    "bbox": [
+      "266.92",
+      "289.81",
+      "278.26",
+      "298.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Italian Gin, Orange Blossom Honey,",
+    "bbox": [
+      "32.25",
+      "296.26",
+      "249.95",
+      "305.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Lemon, Egg White & Cream",
+    "bbox": [
+      "32.25",
+      "306.26",
+      "181.74",
+      "315.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "PINKY RING",
+    "bbox": [
+      "32.25",
+      "324.49",
+      "97.37",
+      "335.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "15",
+    "bbox": [
+      "266.92",
+      "329.81",
+      "278.26",
+      "338.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Bourbon, Carpano Antica,",
+    "bbox": [
+      "32.25",
+      "336.26",
+      "187.43",
+      "345.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Galliano, Campari",
+    "bbox": [
+      "32.25",
+      "346.26",
+      "137.98",
+      "355.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "MARGHERITA",
+    "bbox": [
+      "32.25",
+      "364.49",
+      "97.37",
+      "375.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "17",
+    "bbox": [
+      "266.92",
+      "369.81",
+      "278.26",
+      "378.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Tequila, Calabrian Chili Honey,",
+    "bbox": [
+      "32.25",
+      "376.26",
+      "225.51",
+      "385.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Blood Orange, Fennel Liquer",
+    "bbox": [
+      "32.25",
+      "386.26",
+      "200.50",
+      "395.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "PALERMO MAI TAI *",
+    "bbox": [
+      "32.25",
+      "404.49",
+      "141.12",
+      "415.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "16",
+    "bbox": [
+      "266.92",
+      "409.81",
+      "278.26",
+      "418.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Zacapa Rum, Banks Rum, Pistachio",
+    "bbox": [
+      "32.25",
+      "416.26",
+      "237.45",
+      "425.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Orgeat, Amara Amaro, Prickly Pear",
+    "bbox": [
+      "32.25",
+      "426.26",
+      "242.95",
+      "435.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "* Contains Tree Nuts",
+    "bbox": [
+      "32.25",
+      "455.28",
+      "120.90",
+      "463.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "ddrraafftt  bbeeeerr",
+    "bbox": [
+      "87.66",
+      "492.53",
+      "199.22",
+      "519.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "8",
+    "bbox": [
+      "271.85",
+      "521.01",
+      "277.25",
+      "530.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Rotating NY Selection",
+    "bbox": [
+      "32.25",
+      "534.07",
+      "156.26",
+      "543.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "ASK YOUR SERVER",
+    "bbox": [
+      "32.25",
+      "544.07",
+      "120.81",
+      "553.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "8",
+    "bbox": [
+      "271.85",
+      "561.01",
+      "277.25",
+      "570.01"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

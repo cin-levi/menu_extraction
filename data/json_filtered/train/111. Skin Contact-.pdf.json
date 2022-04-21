@@ -1,0 +1,10443 @@
+[
+  {
+    "page_number": 1,
+    "text": "SPARKLING",
+    "bbox": [
+      "54.00",
+      "71.50",
+      "115.92",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Julia Bernet, ‘Corpinnat 'Cuvee U’ -Xarel-lo",
+    "bbox": [
+      "54.00",
+      "86.51",
+      "274.11",
+      "97.51"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Julia Bernet, ‘Corpinnat 'Cuvee U’ -Xarel-lo",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15",
+    "bbox": [
+      "486.00",
+      "86.51",
+      "499.20",
+      "97.51"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Catalunya, Spain",
+    "bbox": [
+      "54.00",
+      "101.51",
+      "136.83",
+      "112.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Landron-Chartier, ‘Naturalich’ -Folle Blanche, PinotNoir",
+    "bbox": [
+      "54.00",
+      "116.52",
+      "338.81",
+      "127.52"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Landron-Chartier, ‘Naturalich’ -Folle Blanche, PinotNoir",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "14",
+    "bbox": [
+      "486.00",
+      "116.52",
+      "499.20",
+      "127.52"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Loire Valley, France",
+    "bbox": [
+      "54.00",
+      "131.52",
+      "149.27",
+      "142.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE",
+    "bbox": [
+      "54.00",
+      "161.53",
+      "91.22",
+      "172.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Črnko, ‘Jareninčan’ -Sauvignon Blanc, Müller-Thurgau",
+    "bbox": [
+      "54.00",
+      "176.53",
+      "326.89",
+      "187.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Črnko, ‘Jareninčan’ -Sauvignon Blanc, Müller-Thurgau",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "13",
+    "bbox": [
+      "486.00",
+      "176.53",
+      "499.20",
+      "187.53"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Štajerska, Slovenia",
+    "bbox": [
+      "54.00",
+      "191.54",
+      "146.68",
+      "202.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Lo-Fi Wines, Chenin Blanc- Chenin Blanc",
+    "bbox": [
+      "54.00",
+      "206.54",
+      "265.53",
+      "217.54"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Lo-Fi Wines, Chenin Blanc- Chenin Blanc",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "486.00",
+      "206.54",
+      "499.20",
+      "217.54"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Lombardy, Italy",
+    "bbox": [
+      "54.00",
+      "221.54",
+      "129.68",
+      "232.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SKIN CONTACT",
+    "bbox": [
+      "54.00",
+      "251.55",
+      "134.80",
+      "262.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bauer, ‘Barig’ -Gruner Veltliner, Roter Veltliner",
+    "bbox": [
+      "54.00",
+      "266.56",
+      "288.27",
+      "277.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bauer, ‘Barig’ -Gruner Veltliner, Roter Veltliner",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "14",
+    "bbox": [
+      "486.00",
+      "266.56",
+      "499.20",
+      "277.56"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Niederösterreich, Austria",
+    "bbox": [
+      "54.00",
+      "281.56",
+      "176.08",
+      "292.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "End of Nowhere, ‘Little Faith’- Pinot Gris, Chardonnay,Chenin Blanc",
+    "bbox": [
+      "54.00",
+      "296.56",
+      "396.17",
+      "307.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "End of",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16",
+    "bbox": [
+      "486.00",
+      "296.56",
+      "499.20",
+      "307.56"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "California, USA",
+    "bbox": [
+      "54.00",
+      "311.57",
+      "129.13",
+      "322.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Casa Balaguer, ‘Salicornio’- Malvasia, Alicante",
+    "bbox": [
+      "54.00",
+      "326.57",
+      "288.92",
+      "337.57"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Casa Balaguer, ‘Salicornio’- Malvasia, Alicante",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16",
+    "bbox": [
+      "486.00",
+      "326.57",
+      "499.20",
+      "337.57"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Alicante, Spain",
+    "bbox": [
+      "54.00",
+      "341.58",
+      "127.71",
+      "352.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Artizani, ‘In The Mood Of Amb'r’-Kisi",
+    "bbox": [
+      "54.00",
+      "356.58",
+      "247.84",
+      "367.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Artizani, ‘In The Mood Of Amb'r’-Kisi",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "17",
+    "bbox": [
+      "486.00",
+      "356.58",
+      "499.20",
+      "367.58"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Kakheti, Georgia",
+    "bbox": [
+      "54.00",
+      "371.58",
+      "134.72",
+      "382.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSÉ",
+    "bbox": [
+      "54.00",
+      "401.59",
+      "83.62",
+      "412.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Terres Promises, ‘Apostrophe’ -Cinsault, Grenache,Carignan",
+    "bbox": [
+      "54.00",
+      "416.60",
+      "359.10",
+      "427.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Terres Promises, ‘Apostrophe’ -Cinsault, Grenache,Carignan",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(Light)",
+    "bbox": [
+      "378.00",
+      "416.60",
+      "421.37",
+      "427.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(Light)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "14",
+    "bbox": [
+      "486.00",
+      "416.60",
+      "499.20",
+      "427.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Provence, France",
+    "bbox": [
+      "54.00",
+      "431.60",
+      "137.29",
+      "442.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Maria João Pato (Duckman), ‘Blablabla’ -Baga",
+    "bbox": [
+      "54.00",
+      "446.60",
+      "289.91",
+      "457.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Maria João Pato (Duckman), ‘Blablabla’ -Baga",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(Dark   )",
+    "bbox": [
+      "378.00",
+      "446.60",
+      "422.56",
+      "457.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(Dark   )",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15",
+    "bbox": [
+      "486.00",
+      "446.60",
+      "499.20",
+      "457.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bairrada, Portugal",
+    "bbox": [
+      "54.00",
+      "461.61",
+      "143.61",
+      "472.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RED",
+    "bbox": [
+      "54.00",
+      "491.62",
+      "76.49",
+      "502.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Ruth Lewandowski, ‘Feints’ -Dolcetto, Barbera, Sangiovese,Arneis",
+    "bbox": [
+      "54.00",
+      "506.62",
+      "389.00",
+      "517.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Ruth Lewandowski, ‘Feints’ -Dolcetto, Barbera, Sangiovese,Arneis",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "486.00",
+      "506.62",
+      "499.20",
+      "517.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "California, USA",
+    "bbox": [
+      "54.00",
+      "521.62",
+      "129.13",
+      "532.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "O Clarete, ‘Tinto Perfeito’ -Touriga Nacional, Franca,Roriz and Barroca",
+    "bbox": [
+      "54.00",
+      "536.63",
+      "408.58",
+      "547.63"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "O Clarete, ‘Tinto Perfeito’ -Touriga Nacional, Franca,Roriz and Barroca",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "14",
+    "bbox": [
+      "486.00",
+      "536.63",
+      "499.20",
+      "547.63"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Douro, Portugal",
+    "bbox": [
+      "54.00",
+      "551.63",
+      "132.10",
+      "562.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bairaktaris, ‘Old Monolithos Red’ -Agiorgitiko",
+    "bbox": [
+      "54.00",
+      "566.64",
+      "287.00",
+      "577.64"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bairaktaris, ‘Old Monolithos Red’ -Agiorgitiko",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15",
+    "bbox": [
+      "486.00",
+      "566.64",
+      "499.20",
+      "577.64"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Nemea, Greece",
+    "bbox": [
+      "54.00",
+      "581.64",
+      "128.77",
+      "592.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Viña Ilusión, ‘Prana’- Tempranillo",
+    "bbox": [
+      "54.00",
+      "596.64",
+      "221.25",
+      "607.64"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Viña Ilusión, ‘Prana’- Tempranillo",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "13",
+    "bbox": [
+      "486.00",
+      "596.64",
+      "499.20",
+      "607.64"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rioja, Spain",
+    "bbox": [
+      "54.00",
+      "611.65",
+      "111.57",
+      "622.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "VERMOUTH, BEER & NON-ALCOHOLIC",
+    "bbox": [
+      "54.00",
+      "641.66",
+      "258.73",
+      "652.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Partida Creus, ‘Muz’ -Spain",
+    "bbox": [
+      "54.00",
+      "656.30",
+      "181.64",
+      "666.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Vermouth",
+    "bbox": [
+      "270.00",
+      "656.30",
+      "314.15",
+      "666.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "12",
+    "bbox": [
+      "486.00",
+      "656.30",
+      "498.00",
+      "666.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Twelve Percent Beer Project, Snappy! -CT",
+    "bbox": [
+      "54.00",
+      "669.94",
+      "249.57",
+      "679.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Lager (12oz)",
+    "bbox": [
+      "270.00",
+      "669.94",
+      "329.10",
+      "679.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "4",
+    "bbox": [
+      "486.00",
+      "669.94",
+      "492.00",
+      "679.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Blackberry Farm, Classic Saison- TN",
+    "bbox": [
+      "54.00",
+      "683.58",
+      "224.83",
+      "693.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Saison (12 oz)",
+    "bbox": [
+      "270.00",
+      "683.58",
+      "333.43",
+      "693.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "6",
+    "bbox": [
+      "486.00",
+      "683.58",
+      "492.00",
+      "693.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Fat Orange Cat, ‘Baby Kittens’ -CT",
+    "bbox": [
+      "54.00",
+      "697.22",
+      "216.15",
+      "707.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Hazy Style APA(16 oz)",
+    "bbox": [
+      "270.00",
+      "697.22",
+      "374.63",
+      "707.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "7",
+    "bbox": [
+      "486.00",
+      "697.22",
+      "492.00",
+      "707.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Avec, Low Sugar Mocktail- NYC",
+    "bbox": [
+      "54.00",
+      "710.86",
+      "203.01",
+      "720.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "5",
+    "bbox": [
+      "486.00",
+      "710.86",
+      "492.00",
+      "720.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sparkling Water",
+    "bbox": [
+      "54.00",
+      "724.50",
+      "130.50",
+      "734.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "6",
+    "bbox": [
+      "486.00",
+      "724.50",
+      "492.00",
+      "734.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "FOOD",
+    "bbox": [
+      "54.00",
+      "71.50",
+      "85.67",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Marcona Almonds",
+    "bbox": [
+      "54.00",
+      "101.51",
+      "146.66",
+      "112.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "6",
+    "bbox": [
+      "486.00",
+      "101.51",
+      "492.60",
+      "112.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Smoked Paprika, Thyme",
+    "bbox": [
+      "54.00",
+      "116.52",
+      "172.75",
+      "127.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Giardineria",
+    "bbox": [
+      "54.00",
+      "146.52",
+      "110.04",
+      "157.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "8",
+    "bbox": [
+      "486.00",
+      "146.52",
+      "492.60",
+      "157.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pickled vegetables",
+    "bbox": [
+      "54.00",
+      "161.53",
+      "146.53",
+      "172.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sourdough Bread",
+    "bbox": [
+      "54.00",
+      "191.54",
+      "143.55",
+      "202.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "6",
+    "bbox": [
+      "486.00",
+      "191.54",
+      "492.60",
+      "202.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Olive oil",
+    "bbox": [
+      "54.00",
+      "206.54",
+      "94.42",
+      "217.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Endive Salad",
+    "bbox": [
+      "54.00",
+      "236.55",
+      "120.08",
+      "247.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13",
+    "bbox": [
+      "486.00",
+      "236.55",
+      "499.20",
+      "247.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Shaved Piave (Cheese), Tarragon, Pear, Pistachios, Shallot vinaigrette",
+    "bbox": [
+      "54.00",
+      "251.55",
+      "393.74",
+      "262.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Butternut Squash and Burrata",
+    "bbox": [
+      "54.00",
+      "281.56",
+      "207.71",
+      "292.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "486.00",
+      "281.56",
+      "499.20",
+      "292.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Arugula, Pomegranate, Hazelnut, Balsamic Reduction",
+    "bbox": [
+      "54.00",
+      "296.56",
+      "317.48",
+      "307.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Layered Potato",
+    "bbox": [
+      "54.00",
+      "326.57",
+      "131.42",
+      "337.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "486.00",
+      "326.57",
+      "499.20",
+      "337.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Taleggio cream",
+    "bbox": [
+      "54.00",
+      "341.58",
+      "129.08",
+      "352.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sardines",
+    "bbox": [
+      "54.00",
+      "371.58",
+      "98.32",
+      "382.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13",
+    "bbox": [
+      "486.00",
+      "371.58",
+      "499.20",
+      "382.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pimente D'espelette / Baguette",
+    "bbox": [
+      "54.00",
+      "386.59",
+      "207.70",
+      "397.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Charcuterie",
+    "bbox": [
+      "54.00",
+      "416.60",
+      "112.89",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13",
+    "bbox": [
+      "486.00",
+      "416.60",
+      "499.20",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Choice of Picante, Sopressata, Saucisson Sec (or all three +2)  / Baguette",
+    "bbox": [
+      "54.00",
+      "431.60",
+      "410.57",
+      "442.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tête de Moine",
+    "bbox": [
+      "54.00",
+      "461.61",
+      "125.61",
+      "472.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "486.00",
+      "461.61",
+      "499.20",
+      "472.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "(Cheese) / Baguette",
+    "bbox": [
+      "54.00",
+      "476.61",
+      "151.08",
+      "487.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cucumber Tea Sandwich",
+    "bbox": [
+      "54.00",
+      "506.62",
+      "179.43",
+      "517.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "486.00",
+      "506.62",
+      "499.20",
+      "517.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Horseradish cream cheese, Don Bocarte Anchovy, Toasted Brioche",
+    "bbox": [
+      "54.00",
+      "521.62",
+      "380.36",
+      "532.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Figs and Creme Fraiche",
+    "bbox": [
+      "54.00",
+      "551.63",
+      "173.37",
+      "562.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "12",
+    "bbox": [
+      "486.00",
+      "551.63",
+      "499.20",
+      "562.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Hazelnuts, Honey",
+    "bbox": [
+      "54.00",
+      "566.64",
+      "141.26",
+      "577.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bread is sourced from Party Bus Bakery @ 31 Essex Street.",
+    "bbox": [
+      "54.00",
+      "626.65",
+      "345.58",
+      "637.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Meat is sourced from Ends Meat @ Essex Market.",
+    "bbox": [
+      "54.00",
+      "641.66",
+      "296.20",
+      "652.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Giardineria is sourced from Pickle Guys @ 357 Grand St",
+    "bbox": [
+      "54.00",
+      "656.66",
+      "327.90",
+      "667.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SPARKLING WHITE",
+    "bbox": [
+      "54.00",
+      "71.50",
+      "156.12",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Marchese Luca Spinola, Frizzante",
+    "bbox": [
+      "54.00",
+      "103.76",
+      "222.67",
+      "114.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Piedmont, Italy",
+    "bbox": [
+      "342.00",
+      "103.76",
+      "416.16",
+      "114.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "61",
+    "bbox": [
+      "522.00",
+      "103.76",
+      "535.20",
+      "114.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cortese - Checkered tablecloth wine label, classic col fondo frizzante wine. Fresh and easy",
+    "bbox": [
+      "54.00",
+      "121.02",
+      "497.90",
+      "132.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Julia Bernet, Corpinnat ‘Cuvée U’",
+    "bbox": [
+      "54.00",
+      "138.27",
+      "220.89",
+      "149.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Catalunya, Spain",
+    "bbox": [
+      "342.00",
+      "138.27",
+      "424.83",
+      "149.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "58",
+    "bbox": [
+      "522.00",
+      "138.27",
+      "535.20",
+      "149.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Xarel-lo - Xavi planted vines the year his daughter Julia was born. Mineral, crisp",
+    "bbox": [
+      "54.00",
+      "155.53",
+      "445.48",
+      "166.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Grange Tiphaine, ‘Nouveau Nez’",
+    "bbox": [
+      "54.00",
+      "172.78",
+      "217.16",
+      "183.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Loire Valley, France",
+    "bbox": [
+      "342.00",
+      "172.78",
+      "437.27",
+      "183.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "65",
+    "bbox": [
+      "522.00",
+      "172.78",
+      "535.20",
+      "183.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chenin Blanc - A very Champagne-like sparkler, with density, and a slightly creamy ﬁnish",
+    "bbox": [
+      "54.00",
+      "190.04",
+      "493.61",
+      "201.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Recaredo, Corpinnat ‘Terrers’ Brut Nature",
+    "bbox": [
+      "54.00",
+      "207.29",
+      "265.08",
+      "218.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Catalunya,Spain",
+    "bbox": [
+      "342.00",
+      "207.29",
+      "424.83",
+      "218.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "82",
+    "bbox": [
+      "522.00",
+      "207.29",
+      "535.20",
+      "218.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Macabeo / Xarel-lo / Parellada - Champagne level, from 2015 aged on lees for a long time",
+    "bbox": [
+      "54.00",
+      "224.54",
+      "496.87",
+      "235.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Les Capriades, Pet-Nat Menu Pineau",
+    "bbox": [
+      "54.00",
+      "241.80",
+      "240.21",
+      "252.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Loire Valley,France",
+    "bbox": [
+      "342.00",
+      "241.80",
+      "437.27",
+      "252.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "70",
+    "bbox": [
+      "522.00",
+      "241.80",
+      "535.20",
+      "252.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Menu Pineau - Moses and Pascal make one thing: Pet-Nats, and they are very good at what they do!",
+    "bbox": [
+      "54.00",
+      "259.05",
+      "545.83",
+      "270.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Meinklang, Foam Somló",
+    "bbox": [
+      "54.00",
+      "276.31",
+      "176.56",
+      "287.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Somló, Hungary",
+    "bbox": [
+      "342.00",
+      "276.31",
+      "421.65",
+      "287.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "53",
+    "bbox": [
+      "522.00",
+      "276.31",
+      "535.20",
+      "287.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Hárslevelű / Juhfark - Delicious, fresh, funky pet-nat from the legendary volcanic hill, ‘Somló’",
+    "bbox": [
+      "54.00",
+      "293.56",
+      "507.75",
+      "304.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Jo Landron, ‘Atmospheres’",
+    "bbox": [
+      "54.00",
+      "310.82",
+      "187.71",
+      "321.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Loire Valley, France",
+    "bbox": [
+      "342.00",
+      "310.82",
+      "437.27",
+      "321.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "56",
+    "bbox": [
+      "522.00",
+      "310.82",
+      "535.20",
+      "321.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Folle Blanche / Pinot Noir / Chardonnay - Classic style dry sparkler. Wet rocks and sea spray",
+    "bbox": [
+      "54.00",
+      "328.07",
+      "506.98",
+      "339.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bechtold, Cremant d’Alsace",
+    "bbox": [
+      "54.00",
+      "345.33",
+      "195.44",
+      "356.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Alsace, France",
+    "bbox": [
+      "342.00",
+      "345.33",
+      "413.19",
+      "356.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "62",
+    "bbox": [
+      "522.00",
+      "345.33",
+      "535.20",
+      "356.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Auxerrois / Chardonnay - Classy, nice mousse, dry, traditional-style sparkler",
+    "bbox": [
+      "54.00",
+      "362.58",
+      "454.86",
+      "373.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Guillemot-Michel, ‘Une Bulle’",
+    "bbox": [
+      "54.00",
+      "379.84",
+      "203.74",
+      "390.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Burgundy, France",
+    "bbox": [
+      "342.00",
+      "379.84",
+      "427.87",
+      "390.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "58",
+    "bbox": [
+      "522.00",
+      "379.84",
+      "535.20",
+      "390.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chardonnay - Methode Ancestrale (Pet-Nat) that drinks like a methode traditionelle",
+    "bbox": [
+      "54.00",
+      "397.09",
+      "465.84",
+      "408.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Huré Frères, ‘L’Invitation’",
+    "bbox": [
+      "54.00",
+      "414.35",
+      "181.14",
+      "425.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Champagne, France",
+    "bbox": [
+      "342.00",
+      "414.35",
+      "439.68",
+      "425.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "121",
+    "bbox": [
+      "522.00",
+      "414.35",
+      "541.79",
+      "425.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Meunier / Pinot Noir / Chardonnay - Subtle creamy notes, butter and toast, overall very tasty",
+    "bbox": [
+      "54.00",
+      "431.60",
+      "534.91",
+      "442.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Lassaigne, ‘Vignes Montgueux’ Blanc de Blancs",
+    "bbox": [
+      "54.00",
+      "448.85",
+      "296.70",
+      "459.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Champagne,France",
+    "bbox": [
+      "342.00",
+      "448.85",
+      "439.68",
+      "459.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "130",
+    "bbox": [
+      "522.00",
+      "448.85",
+      "541.79",
+      "459.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chardonnay - Mineral style, with citrus zest and crisp, clean ﬁnish",
+    "bbox": [
+      "54.00",
+      "466.11",
+      "375.56",
+      "477.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Puech Redon, ‘Pour de Vrai’ Pet-Nat",
+    "bbox": [
+      "54.00",
+      "483.36",
+      "238.13",
+      "494.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Rhone Valley,France",
+    "bbox": [
+      "342.00",
+      "483.36",
+      "444.78",
+      "494.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "50",
+    "bbox": [
+      "522.00",
+      "483.36",
+      "535.20",
+      "494.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cinsault / Aramon - Cyril Cuche in collaboration with Eric Texier, made this tasty, hazy Pet-Nat",
+    "bbox": [
+      "54.00",
+      "500.62",
+      "516.04",
+      "511.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Hausherr, ‘Sentier au Sud Pet-Nat’",
+    "bbox": [
+      "54.00",
+      "517.87",
+      "230.39",
+      "528.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Alsace, France",
+    "bbox": [
+      "342.00",
+      "517.87",
+      "413.19",
+      "528.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "66",
+    "bbox": [
+      "522.00",
+      "517.87",
+      "535.20",
+      "528.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Riesling / Pinot Gris - Is it the funkiest Pet-Nat we have? Give it some time open to ﬁnd out",
+    "bbox": [
+      "54.00",
+      "535.13",
+      "498.32",
+      "546.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Mersel, Leb-Nat",
+    "bbox": [
+      "54.00",
+      "552.38",
+      "136.47",
+      "563.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bekaa Valley, Lebanon",
+    "bbox": [
+      "342.00",
+      "552.38",
+      "453.26",
+      "563.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "65",
+    "bbox": [
+      "522.00",
+      "552.38",
+      "535.20",
+      "563.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Viognier / Merwah - Something between Pet-Nat and Traditional in style, nice fresh bubbles",
+    "bbox": [
+      "54.00",
+      "569.64",
+      "506.65",
+      "580.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pavese Ermes, ‘Esprit Fou’",
+    "bbox": [
+      "54.00",
+      "586.89",
+      "187.21",
+      "597.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Valle D’Aosta, Italy",
+    "bbox": [
+      "342.00",
+      "586.89",
+      "435.46",
+      "597.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "70",
+    "bbox": [
+      "522.00",
+      "586.89",
+      "535.20",
+      "597.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Prié Blanc - It’s a grape from the remote region in northern Italy, also the cutest label ever. Frothy fun!",
+    "bbox": [
+      "54.00",
+      "604.15",
+      "552.22",
+      "615.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sumenjak, Petillant Naturel",
+    "bbox": [
+      "54.00",
+      "621.40",
+      "195.09",
+      "632.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Jakobski Dol, Slovenia",
+    "bbox": [
+      "342.00",
+      "621.40",
+      "450.45",
+      "632.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "60",
+    "bbox": [
+      "522.00",
+      "621.40",
+      "535.20",
+      "632.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Muscat / Pinot Blanc / Riesling - Fun, hazy frothy Slovenian, very cute label, soft but still zippy",
+    "bbox": [
+      "54.00",
+      "638.66",
+      "514.08",
+      "649.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Landron-Chartier, ‘Natürlich’",
+    "bbox": [
+      "54.00",
+      "655.91",
+      "200.70",
+      "666.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Loire Valley, France",
+    "bbox": [
+      "342.00",
+      "655.91",
+      "437.27",
+      "666.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "54",
+    "bbox": [
+      "522.00",
+      "655.91",
+      "535.20",
+      "666.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Folle Blanche - With 10% Pinot Noir, which lends a peachy hue to this unﬁltered Pet-Nat",
+    "bbox": [
+      "54.00",
+      "673.16",
+      "492.10",
+      "684.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Ca de Noci, ‘Querciole’",
+    "bbox": [
+      "54.00",
+      "690.42",
+      "168.07",
+      "701.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Emilia-Romagna, Italy",
+    "bbox": [
+      "342.00",
+      "690.42",
+      "450.38",
+      "701.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "63",
+    "bbox": [
+      "522.00",
+      "690.42",
+      "535.20",
+      "701.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Spergola - Refermentation in bottle, one of the ﬁrst natural frizzante producers. A true classic",
+    "bbox": [
+      "54.00",
+      "707.67",
+      "511.33",
+      "718.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Rocher des Violettes, 'Pétillant'",
+    "bbox": [
+      "54.00",
+      "724.93",
+      "214.47",
+      "735.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Loire Valley,France",
+    "bbox": [
+      "342.00",
+      "724.93",
+      "437.27",
+      "735.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "50",
+    "bbox": [
+      "522.00",
+      "724.93",
+      "535.20",
+      "735.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chenin Blanc - When you don’t want to eat dessert, but you want something alittlesweet, this is it",
+    "bbox": [
+      "54.00",
+      "742.18",
+      "542.72",
+      "753.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SPARKLING ROSE",
+    "bbox": [
+      "54.00",
+      "71.50",
+      "148.52",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Capriades, ‘Pynoz Rosé’",
+    "bbox": [
+      "54.00",
+      "106.01",
+      "174.64",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Loire Valley, France",
+    "bbox": [
+      "342.00",
+      "106.01",
+      "437.27",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "70",
+    "bbox": [
+      "522.00",
+      "106.01",
+      "535.20",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pinot Noir - From the Pet-Nat masters, 2 years on the lees, fresh strawberries, chalky dry ﬁnish",
+    "bbox": [
+      "54.00",
+      "123.27",
+      "519.56",
+      "134.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Wildman Wine, ‘Piggy Pop’",
+    "bbox": [
+      "54.00",
+      "140.52",
+      "195.27",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "South Australia, Australia",
+    "bbox": [
+      "342.00",
+      "140.52",
+      "468.57",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "90",
+    "bbox": [
+      "522.00",
+      "140.52",
+      "535.20",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Nero d’Avola / Mataró / Fiano / Zibibbo / Arneis-Lots of tang and dry zingy red berry fruit, Fun!",
+    "bbox": [
+      "54.00",
+      "157.78",
+      "519.37",
+      "168.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Oriol Artigas, ‘Bardissots Oriental’",
+    "bbox": [
+      "54.00",
+      "175.03",
+      "229.72",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Catalunya,Spain",
+    "bbox": [
+      "342.00",
+      "175.03",
+      "424.83",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "86",
+    "bbox": [
+      "522.00",
+      "175.03",
+      "535.20",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Ull de Llebre (Tempranillo) / Moscatel - Bottled with lees, chunky! Floral and red fruited",
+    "bbox": [
+      "54.00",
+      "192.29",
+      "483.59",
+      "203.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Kabaj, Pet-Nat Rosé",
+    "bbox": [
+      "54.00",
+      "209.54",
+      "156.74",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Goriska Brda, Slovenia",
+    "bbox": [
+      "342.00",
+      "209.54",
+      "452.89",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "72",
+    "bbox": [
+      "522.00",
+      "209.54",
+      "535.20",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pinot Noir - A hit when we poured it by the glass, this is a dry and savory unﬁltered dark pink bubbly",
+    "bbox": [
+      "54.00",
+      "226.80",
+      "548.74",
+      "237.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SPARKLING SKIN CONTACT & SPARKLING RED",
+    "bbox": [
+      "54.00",
+      "278.56",
+      "301.01",
+      "289.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Wildman Wine, ‘Astro-Bunny’",
+    "bbox": [
+      "54.00",
+      "313.07",
+      "208.93",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "South Australia, Australia",
+    "bbox": [
+      "342.00",
+      "313.07",
+      "468.57",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "88",
+    "bbox": [
+      "522.00",
+      "313.07",
+      "535.20",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Zibibbo / Fiano / Arneis / Nero d'Avola - A hazy, skinsy, fun Pet-Nat with a psychedelic bunny label",
+    "bbox": [
+      "54.00",
+      "330.32",
+      "536.55",
+      "341.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Kumpf et Meyer, ‘Restons Dark’",
+    "bbox": [
+      "54.00",
+      "347.58",
+      "214.70",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alsace, France",
+    "bbox": [
+      "342.00",
+      "347.58",
+      "413.19",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "74",
+    "bbox": [
+      "522.00",
+      "347.58",
+      "535.20",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pinot Gris / Pinot Auxerrois - Amber-hued skin contact Pet-Nat, fresh and grippy",
+    "bbox": [
+      "54.00",
+      "364.83",
+      "448.65",
+      "375.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Est, Sparkling Red",
+    "bbox": [
+      "54.00",
+      "382.09",
+      "148.00",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Oregon, USA",
+    "bbox": [
+      "342.00",
+      "382.09",
+      "407.05",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "68",
+    "bbox": [
+      "522.00",
+      "382.09",
+      "535.20",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pinot Noir - A delicious, lighter style sparkling red, stewed fruits in bubble form",
+    "bbox": [
+      "54.00",
+      "399.34",
+      "443.50",
+      "410.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "WHITE",
+    "bbox": [
+      "54.00",
+      "451.11",
+      "91.22",
+      "462.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Ameztoi,Getariako Txakolina",
+    "bbox": [
+      "54.00",
+      "485.61",
+      "203.21",
+      "496.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Basque Country, Spain",
+    "bbox": [
+      "342.00",
+      "485.61",
+      "453.70",
+      "496.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "60",
+    "bbox": [
+      "522.00",
+      "485.61",
+      "535.20",
+      "496.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Hondarribi Zuri - The zippiest, pickled apple skin, \"is this even wine?\" fresh, slap-in-the-face white",
+    "bbox": [
+      "54.00",
+      "502.87",
+      "535.83",
+      "513.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Bodegas Albamar, Rias Baixas Albarino",
+    "bbox": [
+      "54.00",
+      "520.12",
+      "256.72",
+      "531.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Galicia, Spain",
+    "bbox": [
+      "342.00",
+      "520.12",
+      "408.21",
+      "531.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "60",
+    "bbox": [
+      "522.00",
+      "520.12",
+      "535.20",
+      "531.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Albarino - The fresh, “Spring in a bottle,” stony crisp specialty of the Atlantic coast of Spain",
+    "bbox": [
+      "54.00",
+      "537.38",
+      "501.40",
+      "548.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Miranda Chkhetiani, Tsolikouri",
+    "bbox": [
+      "54.00",
+      "554.63",
+      "208.48",
+      "565.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Tvishi, Georgia",
+    "bbox": [
+      "342.00",
+      "554.63",
+      "414.09",
+      "565.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "82",
+    "bbox": [
+      "522.00",
+      "554.63",
+      "535.20",
+      "565.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Tsolikouri - No skin contact here, just a beautiful white from the mountains in west Georgia",
+    "bbox": [
+      "54.00",
+      "571.89",
+      "499.78",
+      "582.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Gaudry, Sancerre 'Mélodie des Vieilles Vignes’",
+    "bbox": [
+      "54.00",
+      "589.14",
+      "290.94",
+      "600.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "LoireValley, France",
+    "bbox": [
+      "342.00",
+      "589.14",
+      "437.27",
+      "600.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "71",
+    "bbox": [
+      "522.00",
+      "589.14",
+      "535.20",
+      "600.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sauvignon Blanc - A damn good Sancerre, Biodynamic certiﬁed (rare for Sancerre)",
+    "bbox": [
+      "54.00",
+      "606.40",
+      "456.82",
+      "617.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Clos Lentiscus, ‘Cric Cric’ Penedes",
+    "bbox": [
+      "54.00",
+      "623.65",
+      "227.35",
+      "634.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Catalunya,Spain",
+    "bbox": [
+      "342.00",
+      "623.65",
+      "424.83",
+      "634.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "88",
+    "bbox": [
+      "522.00",
+      "623.65",
+      "535.20",
+      "634.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Xarel-lo - Tangy and fresh, zippy and thirst quenching, and it’s a liter bottle!",
+    "bbox": [
+      "54.00",
+      "640.91",
+      "424.24",
+      "651.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Lunotte (Christophe Foucher), ‘Roussignoux’",
+    "bbox": [
+      "54.00",
+      "658.16",
+      "280.06",
+      "669.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "LoireValley, France",
+    "bbox": [
+      "342.00",
+      "658.16",
+      "437.27",
+      "669.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "46",
+    "bbox": [
+      "522.00",
+      "658.16",
+      "535.20",
+      "669.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sauvignon Blanc - A wacky, wild, crisp and fresh natural Sauv Blanc. Both refreshing and mystifying",
+    "bbox": [
+      "54.00",
+      "675.42",
+      "545.58",
+      "686.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Domaine des Sanzay, Saumur Blanc ‘Les Bazilles’",
+    "bbox": [
+      "54.00",
+      "692.67",
+      "304.60",
+      "703.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "LoireValley, France",
+    "bbox": [
+      "342.00",
+      "692.67",
+      "437.27",
+      "703.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "54",
+    "bbox": [
+      "522.00",
+      "692.67",
+      "535.20",
+      "703.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chenin Blanc - A mellow Chenin with good stoniness and balance. Limestone soils, not too ripe",
+    "bbox": [
+      "54.00",
+      "709.92",
+      "522.89",
+      "720.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Moritz Kissinger, ‘0 Ohm’ Weiss",
+    "bbox": [
+      "54.00",
+      "727.18",
+      "215.67",
+      "738.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Rheinhessen, Germany",
+    "bbox": [
+      "342.00",
+      "727.18",
+      "455.18",
+      "738.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "70",
+    "bbox": [
+      "522.00",
+      "727.18",
+      "535.20",
+      "738.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chardonnay / Pinot Blanc - Freshness from Chard on limestone, density from Pinot Blanc on loam",
+    "bbox": [
+      "54.00",
+      "744.43",
+      "532.71",
+      "755.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cascina Belmonte, ‘Naturae’",
+    "bbox": [
+      "54.00",
+      "71.50",
+      "197.52",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Lombardia, Italy",
+    "bbox": [
+      "342.00",
+      "71.50",
+      "420.95",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "55",
+    "bbox": [
+      "522.00",
+      "71.50",
+      "535.20",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Riesling / Manzoni Bianco - Dry white with characteristic Lombardy zippiness",
+    "bbox": [
+      "54.00",
+      "88.76",
+      "431.99",
+      "99.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Brand, ‘Wildersatz’",
+    "bbox": [
+      "54.00",
+      "106.01",
+      "152.75",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pfalz, Germany",
+    "bbox": [
+      "342.00",
+      "106.01",
+      "416.92",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "56",
+    "bbox": [
+      "522.00",
+      "106.01",
+      "535.20",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pinot Blanc / Muller-Thurgau / Riesling / Silvaner + more - Wild fun hazy blend from the Brand Bros!",
+    "bbox": [
+      "54.00",
+      "123.27",
+      "546.55",
+      "134.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Christian Venier, ‘Les Hauts de Madon’ Blanc",
+    "bbox": [
+      "54.00",
+      "140.52",
+      "282.21",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "LoireValley, France",
+    "bbox": [
+      "342.00",
+      "140.52",
+      "437.27",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "70",
+    "bbox": [
+      "522.00",
+      "140.52",
+      "535.20",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Orbois (Menu Pineau) / Sauvignon Blanc - Round and stony but also a touch tropical.",
+    "bbox": [
+      "54.00",
+      "157.78",
+      "469.49",
+      "168.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chalmers, ‘Montevecchio Bianco’",
+    "bbox": [
+      "54.00",
+      "175.03",
+      "220.37",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Heathcote, Australia",
+    "bbox": [
+      "342.00",
+      "175.03",
+      "442.81",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "62",
+    "bbox": [
+      "522.00",
+      "175.03",
+      "535.20",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Vermentino / Pecorino / Ribolla / Falanghina / Moscato / Fiano - Fresh homage to Italian white",
+    "bbox": [
+      "54.00",
+      "192.29",
+      "511.66",
+      "203.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Maison Vevey, Blanc de la Salle et Morgex",
+    "bbox": [
+      "54.00",
+      "209.54",
+      "269.34",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Valled’Aosta, Italy",
+    "bbox": [
+      "342.00",
+      "209.54",
+      "433.98",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "70",
+    "bbox": [
+      "522.00",
+      "209.54",
+      "535.20",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Prié Blanc - Pure, alpine white from a little village nestled between Switzerland and France",
+    "bbox": [
+      "54.00",
+      "226.80",
+      "502.63",
+      "237.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Grange Tiphaine, Montlouis ‘Clef de Sol’",
+    "bbox": [
+      "54.00",
+      "244.05",
+      "259.51",
+      "255.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Loire Valley,France",
+    "bbox": [
+      "342.00",
+      "244.05",
+      "437.27",
+      "255.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "72",
+    "bbox": [
+      "522.00",
+      "244.05",
+      "535.20",
+      "255.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chenin Blanc - Some might call this the ideal Chenin Blanc. Very charming, dry but ripe",
+    "bbox": [
+      "54.00",
+      "261.30",
+      "482.87",
+      "272.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Philip Lardot, Riesling ‘der Hirt’",
+    "bbox": [
+      "54.00",
+      "278.56",
+      "214.76",
+      "289.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Mosel, Germany",
+    "bbox": [
+      "342.00",
+      "278.56",
+      "422.20",
+      "289.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "112",
+    "bbox": [
+      "522.00",
+      "278.56",
+      "541.79",
+      "289.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Riesling - Precise, masterfully beautiful dry Riesling. Philip has worked with Uli Stein for many years",
+    "bbox": [
+      "54.00",
+      "295.81",
+      "547.04",
+      "306.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Grange aux Belles, ‘Roche de Murs’",
+    "bbox": [
+      "54.00",
+      "313.07",
+      "233.66",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Loire Valley,France",
+    "bbox": [
+      "342.00",
+      "313.07",
+      "437.27",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "104",
+    "bbox": [
+      "522.00",
+      "313.07",
+      "541.79",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chenin Blanc - From a vineyard of pure stones on top of a cliff. Epic place for an epic Chenin Blanc",
+    "bbox": [
+      "54.00",
+      "330.32",
+      "534.46",
+      "341.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Vinyes Singulars, ‘Pim Pam’",
+    "bbox": [
+      "54.00",
+      "347.58",
+      "195.91",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Catalunya, Spain",
+    "bbox": [
+      "342.00",
+      "347.58",
+      "424.83",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "54",
+    "bbox": [
+      "522.00",
+      "347.58",
+      "535.20",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Macabeu / Xarel-lo / Parellada / Malvasia and more! - Wild, zippy, with sour beer vibes",
+    "bbox": [
+      "54.00",
+      "364.83",
+      "477.57",
+      "375.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cantina Giardino, Fiano ‘Gaia’",
+    "bbox": [
+      "54.00",
+      "382.09",
+      "204.42",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Campania, Italy",
+    "bbox": [
+      "342.00",
+      "382.09",
+      "417.94",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "88",
+    "bbox": [
+      "522.00",
+      "382.09",
+      "535.20",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Fiano - Pure and delicious, aged in amphoras that are made at the estate with their own clay",
+    "bbox": [
+      "54.00",
+      "399.34",
+      "507.78",
+      "410.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Julien Altabar, Bourgogne Blanc ‘La Fleur au Verre’",
+    "bbox": [
+      "54.00",
+      "416.60",
+      "314.15",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Burgundy, France",
+    "bbox": [
+      "342.00",
+      "416.60",
+      "427.87",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "82",
+    "bbox": [
+      "522.00",
+      "416.60",
+      "535.20",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chardonnay - Never has a sample that was left here blown more people away. Idyllic natural Chardo",
+    "bbox": [
+      "54.00",
+      "433.85",
+      "548.84",
+      "444.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Mosse, Anjou ‘Le Rouchefer’",
+    "bbox": [
+      "54.00",
+      "451.11",
+      "198.04",
+      "462.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Loire Valley, France",
+    "bbox": [
+      "342.00",
+      "451.11",
+      "437.27",
+      "462.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "91",
+    "bbox": [
+      "522.00",
+      "451.11",
+      "535.20",
+      "462.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chenin Blanc - Declassiﬁed Savennieres, absolutely fantastic, dense and slightly creamy Chenin",
+    "bbox": [
+      "54.00",
+      "468.36",
+      "525.21",
+      "479.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Altos de Montánchez, ‘Vegas Altas’ Blanco",
+    "bbox": [
+      "54.00",
+      "485.61",
+      "271.69",
+      "496.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Extremadura,Spain",
+    "bbox": [
+      "342.00",
+      "485.61",
+      "438.40",
+      "496.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "34",
+    "bbox": [
+      "522.00",
+      "485.61",
+      "535.20",
+      "496.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Eva de los Santos - This is a ridiculously good white for the money! Stony, like Muscadet",
+    "bbox": [
+      "54.00",
+      "502.87",
+      "486.79",
+      "513.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Methode Sauvage, ‘Arcana’",
+    "bbox": [
+      "54.00",
+      "520.12",
+      "192.07",
+      "531.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "California, USA",
+    "bbox": [
+      "342.00",
+      "520.12",
+      "417.13",
+      "531.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "65",
+    "bbox": [
+      "522.00",
+      "520.12",
+      "535.20",
+      "531.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Savagnin - A rare vineyard of Savagnin in California provides the fruit for this savory white",
+    "bbox": [
+      "54.00",
+      "537.38",
+      "496.96",
+      "548.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Celler del Roure, ‘Cullerot’",
+    "bbox": [
+      "54.00",
+      "554.63",
+      "189.02",
+      "565.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Valencia, Spain",
+    "bbox": [
+      "342.00",
+      "554.63",
+      "416.65",
+      "565.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "48",
+    "bbox": [
+      "522.00",
+      "554.63",
+      "535.20",
+      "565.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chardonnay / Macabeo / Malvasia / Verdil / Pedro Ximenez - Medium weight, nice evolution",
+    "bbox": [
+      "54.00",
+      "571.89",
+      "500.33",
+      "582.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Celler Pardas, ‘Blau Cru’",
+    "bbox": [
+      "54.00",
+      "589.14",
+      "178.05",
+      "600.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Catalunya, Spain",
+    "bbox": [
+      "342.00",
+      "589.14",
+      "424.83",
+      "600.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "82",
+    "bbox": [
+      "522.00",
+      "589.14",
+      "535.20",
+      "600.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Malvasia de Sitges - Fascinating, slightly oxidative white, with nice density",
+    "bbox": [
+      "54.00",
+      "606.40",
+      "420.21",
+      "617.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Lo-Fi Wines, Santa Ynez Valley Chenin",
+    "bbox": [
+      "54.00",
+      "623.65",
+      "252.12",
+      "634.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "California,USA",
+    "bbox": [
+      "342.00",
+      "623.65",
+      "417.13",
+      "634.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "72",
+    "bbox": [
+      "522.00",
+      "623.65",
+      "535.20",
+      "634.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chenin Blanc - Varietal characteristic with voluptuous weight. A ﬁne California Chenin",
+    "bbox": [
+      "54.00",
+      "640.91",
+      "476.69",
+      "651.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Mastro di Baglio, ‘Allaria’",
+    "bbox": [
+      "54.00",
+      "658.16",
+      "182.30",
+      "669.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sicily, Italy",
+    "bbox": [
+      "342.00",
+      "658.16",
+      "393.82",
+      "669.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "46",
+    "bbox": [
+      "522.00",
+      "658.16",
+      "535.20",
+      "669.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Grillo - Unﬁltered, zippy but textured and just right on the freshness level",
+    "bbox": [
+      "54.00",
+      "675.42",
+      "414.44",
+      "686.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Curtet, ‘Tonnerre des Gres’",
+    "bbox": [
+      "54.00",
+      "692.67",
+      "190.94",
+      "703.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Savoie, France",
+    "bbox": [
+      "342.00",
+      "692.67",
+      "412.66",
+      "703.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "86",
+    "bbox": [
+      "522.00",
+      "692.67",
+      "535.20",
+      "703.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Jacquère / Altesse - Yellow apple and pear, stone fruit and ﬂowers around a mineral core",
+    "bbox": [
+      "54.00",
+      "709.92",
+      "488.99",
+      "720.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "César Pérez, ‘La Salvacion’",
+    "bbox": [
+      "54.00",
+      "727.18",
+      "188.77",
+      "738.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Galicia, Spain",
+    "bbox": [
+      "342.00",
+      "727.18",
+      "408.21",
+      "738.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "70",
+    "bbox": [
+      "522.00",
+      "727.18",
+      "535.20",
+      "738.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Godello - A savory and dense expression with a touch of an oxidative note on the nose",
+    "bbox": [
+      "54.00",
+      "744.43",
+      "480.13",
+      "755.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "L’Octavin (Alice Bouvot),‘P’tit Poussot’",
+    "bbox": [
+      "54.00",
+      "71.50",
+      "254.24",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Jura, France",
+    "bbox": [
+      "342.00",
+      "71.50",
+      "399.47",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "123",
+    "bbox": [
+      "522.00",
+      "71.50",
+      "541.79",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chardonnay - From young vines of Chardonnay, a perfect introduction to Alice’s whites",
+    "bbox": [
+      "54.00",
+      "88.76",
+      "479.71",
+      "99.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "L’Octavin (Alice Bouvot),‘Pamino Blanc’",
+    "bbox": [
+      "54.00",
+      "106.01",
+      "258.75",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Jura,France",
+    "bbox": [
+      "342.00",
+      "106.01",
+      "399.47",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "148",
+    "bbox": [
+      "522.00",
+      "106.01",
+      "541.79",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chardonnay - From Alice’s old vines in La Mailloche parcel. Her most iconic white",
+    "bbox": [
+      "54.00",
+      "123.27",
+      "452.57",
+      "134.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Villana, Vino Bianco",
+    "bbox": [
+      "54.00",
+      "140.52",
+      "157.52",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Lazio, Italy",
+    "bbox": [
+      "342.00",
+      "140.52",
+      "393.93",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "52",
+    "bbox": [
+      "522.00",
+      "140.52",
+      "535.20",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Procanico / Malvasia - Stone fruit and soft acidity, good clean fun from our friend Joy Kull",
+    "bbox": [
+      "54.00",
+      "157.78",
+      "487.99",
+      "168.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Noella Morantin, ‘LBL’",
+    "bbox": [
+      "54.00",
+      "175.03",
+      "167.05",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Loire Valley, France",
+    "bbox": [
+      "342.00",
+      "175.03",
+      "437.27",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "86",
+    "bbox": [
+      "522.00",
+      "175.03",
+      "535.20",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sauvignon Blanc - This is next level Sauv Blanc, creamy and dense, mineral goodness",
+    "bbox": [
+      "54.00",
+      "192.29",
+      "475.41",
+      "203.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Roberto Henriquez, ‘Rivera del Notro’",
+    "bbox": [
+      "54.00",
+      "209.54",
+      "244.74",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Itata Valley,Chile",
+    "bbox": [
+      "342.00",
+      "209.54",
+      "427.70",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "52",
+    "bbox": [
+      "522.00",
+      "209.54",
+      "535.20",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Moscatel / Semillon / Corinto (Chasselas) - Aromatic with a little white pepper and ﬂeshy texture",
+    "bbox": [
+      "54.00",
+      "226.80",
+      "529.22",
+      "237.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Alessandria Viola, ‘Mei Origini’",
+    "bbox": [
+      "54.00",
+      "244.05",
+      "211.74",
+      "255.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sicily, Italy",
+    "bbox": [
+      "342.00",
+      "244.05",
+      "393.82",
+      "255.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "84",
+    "bbox": [
+      "522.00",
+      "244.05",
+      "535.20",
+      "255.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Catarratto - A full bodied white, with ample weight, from one of our favorite natural Sicilian producers",
+    "bbox": [
+      "54.00",
+      "261.30",
+      "554.89",
+      "272.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Julien Courtois, ‘Originel’",
+    "bbox": [
+      "54.00",
+      "278.56",
+      "180.60",
+      "289.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Loire Valley, France",
+    "bbox": [
+      "342.00",
+      "278.56",
+      "437.27",
+      "289.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "130",
+    "bbox": [
+      "522.00",
+      "278.56",
+      "541.79",
+      "289.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "80% Menu Pineau (aka Arbois), 20% Romorantin - Truly an aromatic and precise expression",
+    "bbox": [
+      "54.00",
+      "295.81",
+      "505.89",
+      "306.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pepe, Trebbiano ‘15",
+    "bbox": [
+      "54.00",
+      "313.07",
+      "154.92",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Abruzzo, Italy",
+    "bbox": [
+      "342.00",
+      "313.07",
+      "409.09",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "190",
+    "bbox": [
+      "522.00",
+      "313.07",
+      "541.79",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Trebbiano - Viscous and lush, ethereal. Emidio Pepe is like the godfather of Italian natural wine",
+    "bbox": [
+      "54.00",
+      "330.32",
+      "520.12",
+      "341.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sebastien Riffault, Sancerre (several cuvées available)Loire Valley, France",
+    "bbox": [
+      "54.00",
+      "347.58",
+      "437.27",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "94",
+    "bbox": [
+      "522.00",
+      "347.58",
+      "535.20",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sauvignon Blanc - We have several of these iconic wines available, ask us if you’d like the rundown",
+    "bbox": [
+      "54.00",
+      "364.83",
+      "541.13",
+      "375.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Marie et Vincent Tricot, ‘OX’(500ml)",
+    "bbox": [
+      "54.00",
+      "382.09",
+      "240.74",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Auvergne,France",
+    "bbox": [
+      "342.00",
+      "382.09",
+      "428.05",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "138",
+    "bbox": [
+      "522.00",
+      "382.09",
+      "541.79",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pinot Noir - Blanc de Noirs, so a white wine from a red grape, aged in oxidative style for 60 months",
+    "bbox": [
+      "54.00",
+      "399.34",
+      "540.54",
+      "410.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "SKIN CONTACT",
+    "bbox": [
+      "54.00",
+      "485.61",
+      "134.80",
+      "496.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Duport, ‘Le Beurot’",
+    "bbox": [
+      "54.00",
+      "520.12",
+      "151.53",
+      "531.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Savoie, France",
+    "bbox": [
+      "342.00",
+      "520.12",
+      "412.66",
+      "531.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "60",
+    "bbox": [
+      "522.00",
+      "520.12",
+      "535.20",
+      "531.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pinot Gris - The most delicately light orange wine we have, just a hint of color, stony and easy-going",
+    "bbox": [
+      "54.00",
+      "537.38",
+      "546.85",
+      "548.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Bauer, ‘Barig’",
+    "bbox": [
+      "54.00",
+      "554.63",
+      "122.44",
+      "565.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Niederösterreich, Austria",
+    "bbox": [
+      "342.00",
+      "554.63",
+      "464.08",
+      "565.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "52",
+    "bbox": [
+      "522.00",
+      "554.63",
+      "535.20",
+      "565.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Roter Veltliner / Grüner Veltliner - Hazy, clean, perfect entry level SC. Between white and orange",
+    "bbox": [
+      "54.00",
+      "571.89",
+      "530.04",
+      "582.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Domaine de L’Octavin, ‘Roi de Cepages’",
+    "bbox": [
+      "54.00",
+      "589.14",
+      "254.77",
+      "600.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Jura, France",
+    "bbox": [
+      "342.00",
+      "589.14",
+      "399.47",
+      "600.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "98",
+    "bbox": [
+      "522.00",
+      "589.14",
+      "535.20",
+      "600.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Riesling (Alsace) - This has a light touch of skin contact, not amber-hued, more like a skinsy, dry white",
+    "bbox": [
+      "54.00",
+      "606.40",
+      "554.66",
+      "617.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Beck-Hartweg, ‘Tout Naturellement Macéré’",
+    "bbox": [
+      "54.00",
+      "623.65",
+      "279.13",
+      "634.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "50",
+    "bbox": [
+      "522.00",
+      "623.65",
+      "535.20",
+      "634.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sylvaner / Pinot Blanc / Pinot Auxerrois / Pinot Gris - Super cheerful Alsace blend, light and lithe",
+    "bbox": [
+      "54.00",
+      "640.91",
+      "526.92",
+      "651.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Casa Balaguer, ‘Tragolargo’",
+    "bbox": [
+      "54.00",
+      "658.16",
+      "194.59",
+      "669.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Valencia, Spain",
+    "bbox": [
+      "342.00",
+      "658.16",
+      "416.65",
+      "669.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "52",
+    "bbox": [
+      "522.00",
+      "658.16",
+      "535.20",
+      "669.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Moscatel / Malvasia - Sharp, ﬂoral, and perfumed, very crispy - good for the warm days",
+    "bbox": [
+      "54.00",
+      "675.42",
+      "482.01",
+      "686.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Meinklang, ‘Mulatschak Weiss’",
+    "bbox": [
+      "54.00",
+      "692.67",
+      "210.61",
+      "703.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Burgenland, Austria",
+    "bbox": [
+      "342.00",
+      "692.67",
+      "440.65",
+      "703.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "48",
+    "bbox": [
+      "522.00",
+      "692.67",
+      "535.20",
+      "703.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Welschriesling / Pinot Gris / Traminer - The rite of passage with orange wine",
+    "bbox": [
+      "54.00",
+      "709.92",
+      "429.82",
+      "720.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Ternynck, Chablis Amphore",
+    "bbox": [
+      "54.00",
+      "727.18",
+      "194.28",
+      "738.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Burgundy, France",
+    "bbox": [
+      "342.00",
+      "727.18",
+      "427.87",
+      "738.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "85",
+    "bbox": [
+      "522.00",
+      "727.18",
+      "535.20",
+      "738.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chardonnay - It’s Chardo from Chablis, aged in clay amphora with skin contact. Subtle and special",
+    "bbox": [
+      "54.00",
+      "744.43",
+      "535.29",
+      "755.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Domaine de L’Octavin, ‘Mus’cat’",
+    "bbox": [
+      "54.00",
+      "71.50",
+      "215.11",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Jura, France",
+    "bbox": [
+      "342.00",
+      "71.50",
+      "399.47",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "98",
+    "bbox": [
+      "522.00",
+      "71.50",
+      "535.20",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Muscat - Alice makes this wine from Alsatian grapes. Floral, with a tickle on the tongue. Cute cat too!",
+    "bbox": [
+      "54.00",
+      "88.76",
+      "550.37",
+      "99.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Vins Pirouettes, ‘Eros’",
+    "bbox": [
+      "54.00",
+      "106.01",
+      "165.46",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Alsace, France",
+    "bbox": [
+      "342.00",
+      "106.01",
+      "413.19",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "54",
+    "bbox": [
+      "522.00",
+      "106.01",
+      "535.20",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Pinot Gris / Riesling / Sylvaner - Flavorful, ﬂoral, aromatic and easy-going",
+    "bbox": [
+      "54.00",
+      "123.27",
+      "415.30",
+      "134.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Ambyth Estate, Coquelicot Vineyard Riesling",
+    "bbox": [
+      "54.00",
+      "140.52",
+      "283.13",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "California,USA",
+    "bbox": [
+      "342.00",
+      "140.52",
+      "417.13",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "68",
+    "bbox": [
+      "522.00",
+      "140.52",
+      "535.20",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Riesling - Dry, with stone fruit and a wild side. Notes of ginger candy, spice and orange blossoms",
+    "bbox": [
+      "54.00",
+      "157.78",
+      "530.53",
+      "168.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Quinta da Costa do Pinhão, ‘Branco’",
+    "bbox": [
+      "54.00",
+      "175.03",
+      "236.30",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Douro, Portugal",
+    "bbox": [
+      "342.00",
+      "175.03",
+      "420.10",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "84",
+    "bbox": [
+      "522.00",
+      "175.03",
+      "535.20",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Gouveio / Viosinho / Malvasia / Rabigato - Delicate, elegant, with creaminess and some grip",
+    "bbox": [
+      "54.00",
+      "192.29",
+      "503.08",
+      "203.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Casa Balaguer, ‘Salicornio’",
+    "bbox": [
+      "54.00",
+      "209.54",
+      "189.13",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Valencia, Spain",
+    "bbox": [
+      "342.00",
+      "209.54",
+      "416.65",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "64",
+    "bbox": [
+      "522.00",
+      "209.54",
+      "535.20",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Malvasia - Dreamy, lightly aromatic SC. Herbs, tang, and Mediterranean vibe",
+    "bbox": [
+      "54.00",
+      "226.80",
+      "429.40",
+      "237.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Costador, ‘Orange de Noirs’",
+    "bbox": [
+      "54.00",
+      "244.05",
+      "194.17",
+      "255.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Catalunya, Spain",
+    "bbox": [
+      "342.00",
+      "244.05",
+      "424.83",
+      "255.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "68",
+    "bbox": [
+      "522.00",
+      "244.05",
+      "535.20",
+      "255.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Sumoll / Xarel-lo Vermell - Mellow, touch of melon, balanced minerals and acid. Yum!",
+    "bbox": [
+      "54.00",
+      "261.30",
+      "473.01",
+      "272.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Oriol Artigas, SOS #7 ‘Cellar Pujol’",
+    "bbox": [
+      "54.00",
+      "278.56",
+      "232.20",
+      "289.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Catalunya,Spain",
+    "bbox": [
+      "342.00",
+      "278.56",
+      "424.83",
+      "289.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "100",
+    "bbox": [
+      "522.00",
+      "278.56",
+      "541.79",
+      "289.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Lledoner Roig / Carinyena Blanca - Lovely, medium-bodied SC. Some fruit, some grip, long ﬁnish",
+    "bbox": [
+      "54.00",
+      "295.81",
+      "526.98",
+      "306.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Glassmaker Wine Co., ‘North Coast Orange’",
+    "bbox": [
+      "54.00",
+      "313.07",
+      "277.58",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "California,USA",
+    "bbox": [
+      "342.00",
+      "313.07",
+      "417.13",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "63",
+    "bbox": [
+      "522.00",
+      "313.07",
+      "535.20",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Roussanne / Sauvignon Blanc / Chenin Blanc - From an old co-worker of Eben’s!",
+    "bbox": [
+      "54.00",
+      "330.32",
+      "445.76",
+      "341.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Nikifore, Rkatsiteli-Mtsvane",
+    "bbox": [
+      "54.00",
+      "347.58",
+      "195.88",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Kakheti, Georgia",
+    "bbox": [
+      "342.00",
+      "347.58",
+      "422.72",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "63",
+    "bbox": [
+      "522.00",
+      "347.58",
+      "535.20",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Rkatsiteli / Mtsvane - A rare Georgian skin contact that is aged on skins instainless steel, not qvevri",
+    "bbox": [
+      "54.00",
+      "364.83",
+      "542.36",
+      "375.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Ancarani, ‘Andataeritorno’",
+    "bbox": [
+      "54.00",
+      "382.09",
+      "187.50",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Emilia-Romagna, Italy",
+    "bbox": [
+      "342.00",
+      "382.09",
+      "450.38",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "64",
+    "bbox": [
+      "522.00",
+      "382.09",
+      "535.20",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Famoso / Grechetto / Albana - Medium orange, medium tannins, herbs. Nice right down the middle SC",
+    "bbox": [
+      "54.00",
+      "399.34",
+      "554.61",
+      "410.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Jean-Yves Péron, ‘Cotillon des Dames’",
+    "bbox": [
+      "54.00",
+      "416.60",
+      "246.58",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Savoie, France",
+    "bbox": [
+      "342.00",
+      "416.60",
+      "412.66",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "120",
+    "bbox": [
+      "522.00",
+      "416.60",
+      "541.79",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Jacquère - One of the ﬁrst cult wines of the natural wine scene. Delicate, chamomile tea vibes",
+    "bbox": [
+      "54.00",
+      "433.85",
+      "512.42",
+      "444.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Jean-Yves Péron, ‘Grande Journée’",
+    "bbox": [
+      "54.00",
+      "451.11",
+      "226.67",
+      "462.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Savoie, France",
+    "bbox": [
+      "342.00",
+      "451.11",
+      "412.66",
+      "462.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "169",
+    "bbox": [
+      "522.00",
+      "451.11",
+      "541.79",
+      "462.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Altesse - Legendary skin contact from Savoie, dense and balanced",
+    "bbox": [
+      "54.00",
+      "468.36",
+      "380.47",
+      "479.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Jean-Yves Péron, ‘Les Barrieux’",
+    "bbox": [
+      "54.00",
+      "485.61",
+      "211.24",
+      "496.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Savoie, France",
+    "bbox": [
+      "342.00",
+      "485.61",
+      "412.66",
+      "496.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "162",
+    "bbox": [
+      "522.00",
+      "485.61",
+      "541.79",
+      "496.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Roussanne / Jacquère / Altesse - A darker, more dried fruit, apricot vibe.",
+    "bbox": [
+      "54.00",
+      "502.87",
+      "404.28",
+      "513.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Macatho, ‘Chacha’",
+    "bbox": [
+      "54.00",
+      "520.12",
+      "146.13",
+      "531.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Itata Valley, Chile",
+    "bbox": [
+      "342.00",
+      "520.12",
+      "427.70",
+      "531.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "68",
+    "bbox": [
+      "522.00",
+      "520.12",
+      "535.20",
+      "531.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Chasselas / Chardonnay - Fresh and slightly bretty SC from Chile. Nice grip and acid",
+    "bbox": [
+      "54.00",
+      "537.38",
+      "467.16",
+      "548.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Denavolo, Denavolo",
+    "bbox": [
+      "54.00",
+      "554.63",
+      "156.55",
+      "565.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Emilia-Romagna, Italy",
+    "bbox": [
+      "342.00",
+      "554.63",
+      "450.38",
+      "565.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "72",
+    "bbox": [
+      "522.00",
+      "554.63",
+      "535.20",
+      "565.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Malvasia / Ortrugo / Marsanne / Trebbiano - One of the OGs of Italian SC wine, Beautiful zingy nose",
+    "bbox": [
+      "54.00",
+      "571.89",
+      "542.06",
+      "582.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Kumpf et Meyer, ‘Anarchiste’",
+    "bbox": [
+      "54.00",
+      "589.14",
+      "199.87",
+      "600.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Alsace, France",
+    "bbox": [
+      "342.00",
+      "589.14",
+      "413.19",
+      "600.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "76",
+    "bbox": [
+      "522.00",
+      "589.14",
+      "535.20",
+      "600.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Muscat Ottonel - A combination of two vintages, a touch of earl gray over ﬂoral spice and subtle grip",
+    "bbox": [
+      "54.00",
+      "606.40",
+      "548.63",
+      "617.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Bodega Clandestina, ‘Censurat’",
+    "bbox": [
+      "54.00",
+      "623.65",
+      "213.80",
+      "634.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Catalunya, Spain",
+    "bbox": [
+      "342.00",
+      "623.65",
+      "424.83",
+      "634.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "84",
+    "bbox": [
+      "522.00",
+      "623.65",
+      "535.20",
+      "634.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Carignan Blanc - 30 days SC with daily manual punch down, followed by 5 months aging in amphora",
+    "bbox": [
+      "54.00",
+      "640.91",
+      "551.51",
+      "651.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Scherwiller, ‘Pepin’",
+    "bbox": [
+      "54.00",
+      "658.16",
+      "151.94",
+      "669.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Alsace, France",
+    "bbox": [
+      "342.00",
+      "658.16",
+      "413.19",
+      "669.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "68",
+    "bbox": [
+      "522.00",
+      "658.16",
+      "535.20",
+      "669.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Gewurztraminer, Pinot Auxerrois, Muscat - Spicy ﬂoral amber goodness. Classic aromatic Alsace SC",
+    "bbox": [
+      "54.00",
+      "675.42",
+      "544.49",
+      "686.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Bea, ‘Santa Chiara’",
+    "bbox": [
+      "54.00",
+      "692.67",
+      "150.13",
+      "703.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Umbria, Italy",
+    "bbox": [
+      "342.00",
+      "692.67",
+      "404.76",
+      "703.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "124",
+    "bbox": [
+      "522.00",
+      "692.67",
+      "541.79",
+      "703.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Grechetto / Garganega / Malvasia / Sauvignon / Chardonnay - Benchmark, zippy SC wine",
+    "bbox": [
+      "54.00",
+      "709.92",
+      "488.15",
+      "720.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Christian Binner, ‘Si Rose’",
+    "bbox": [
+      "54.00",
+      "727.18",
+      "184.83",
+      "738.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Alsace, France",
+    "bbox": [
+      "342.00",
+      "727.18",
+      "413.19",
+      "738.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "76",
+    "bbox": [
+      "522.00",
+      "727.18",
+      "535.20",
+      "738.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Gewurztraminer / Pinot Gris - Medium-bodied aromatic blend from a natural wine legend",
+    "bbox": [
+      "54.00",
+      "744.43",
+      "491.65",
+      "755.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Riffault, Sancerre ‘Auksinis Maceration’",
+    "bbox": [
+      "54.00",
+      "71.50",
+      "253.28",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Loire Valley, France",
+    "bbox": [
+      "342.00",
+      "71.50",
+      "437.27",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "98",
+    "bbox": [
+      "522.00",
+      "71.50",
+      "535.20",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Sauvignon Blanc - One week maceration with only the golden berries",
+    "bbox": [
+      "54.00",
+      "88.76",
+      "395.50",
+      "99.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Aldo Viola, ‘Krimiso’",
+    "bbox": [
+      "54.00",
+      "106.01",
+      "157.91",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Sicily, Italy",
+    "bbox": [
+      "342.00",
+      "106.01",
+      "393.82",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "82",
+    "bbox": [
+      "522.00",
+      "106.01",
+      "535.20",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Catarratto - From the \"other\" Viola, Aldo, apparently more chill and less crazy, like the wine",
+    "bbox": [
+      "54.00",
+      "123.27",
+      "502.35",
+      "134.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Castello di Stefanago, ‘Orangiosaurus’",
+    "bbox": [
+      "54.00",
+      "140.52",
+      "249.22",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Lombardy,Italy",
+    "bbox": [
+      "342.00",
+      "140.52",
+      "417.68",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "70",
+    "bbox": [
+      "522.00",
+      "140.52",
+      "535.20",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Chardonnay / Cortese - Some structure here, without deep color or intense dryness. It’s got the grip!",
+    "bbox": [
+      "54.00",
+      "157.78",
+      "543.99",
+      "168.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Bodegas Cueva, ‘Orange!’",
+    "bbox": [
+      "54.00",
+      "175.03",
+      "184.48",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Valencia, Spain",
+    "bbox": [
+      "342.00",
+      "175.03",
+      "416.65",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "64",
+    "bbox": [
+      "522.00",
+      "175.03",
+      "535.20",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Tardana / Macabeo - Big bold orange with tons of ﬂavor but not tannic or too intense",
+    "bbox": [
+      "54.00",
+      "192.29",
+      "469.96",
+      "203.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Camerlengo, ‘Accamilla’",
+    "bbox": [
+      "54.00",
+      "209.54",
+      "175.97",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Basilicata, Italy",
+    "bbox": [
+      "342.00",
+      "209.54",
+      "416.07",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "84",
+    "bbox": [
+      "522.00",
+      "209.54",
+      "535.20",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Malvasia / Santa Soﬁa / Cinguli - A hearty, soulful orange, medium body, with tannic grip and herbs",
+    "bbox": [
+      "54.00",
+      "226.80",
+      "540.38",
+      "237.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Kabaj, ‘Sivi Pinot’",
+    "bbox": [
+      "54.00",
+      "244.05",
+      "142.20",
+      "255.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Goriska Brda, Slovenia",
+    "bbox": [
+      "342.00",
+      "244.05",
+      "452.89",
+      "255.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "68",
+    "bbox": [
+      "522.00",
+      "244.05",
+      "535.20",
+      "255.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Pinot Gris - A fan favorite from the by the glass list, nice deep Slovenian SC with some grit and grip",
+    "bbox": [
+      "54.00",
+      "261.30",
+      "542.14",
+      "272.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Pascal Lambert, ‘Ligerius Dolium’",
+    "bbox": [
+      "54.00",
+      "278.56",
+      "224.74",
+      "289.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Loire Valley, France",
+    "bbox": [
+      "342.00",
+      "278.56",
+      "441.20",
+      "289.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "84",
+    "bbox": [
+      "522.00",
+      "278.56",
+      "535.20",
+      "289.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Chenin Blanc / Pinot Gris - Amphora aged Chenin Blanc with a touch of Pinot Gris for color and weight",
+    "bbox": [
+      "54.00",
+      "295.81",
+      "557.00",
+      "306.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Nareklishvili, Khikhvi Qvevri",
+    "bbox": [
+      "54.00",
+      "313.07",
+      "196.71",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Kakheti, Georgia",
+    "bbox": [
+      "342.00",
+      "313.07",
+      "422.72",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "63",
+    "bbox": [
+      "522.00",
+      "313.07",
+      "535.20",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Khikhvi - Aged in underground Qvevri (pots) for 6 months with skins, in the 8,000 year-old tradition",
+    "bbox": [
+      "54.00",
+      "330.32",
+      "542.59",
+      "341.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Pivnica Cajkov, ‘Rustical’",
+    "bbox": [
+      "54.00",
+      "347.58",
+      "178.21",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Cajkov, Slovakia",
+    "bbox": [
+      "342.00",
+      "347.58",
+      "420.74",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "68",
+    "bbox": [
+      "522.00",
+      "347.58",
+      "535.20",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Pesecká Leánka - Deep amber, fragrant and textured Skin Contact from ancient grape",
+    "bbox": [
+      "54.00",
+      "364.83",
+      "473.59",
+      "375.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Bechtold, ‘Comme un Rouge’ Grand Cru Engelberg",
+    "bbox": [
+      "54.00",
+      "382.09",
+      "311.58",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Alsace,France",
+    "bbox": [
+      "342.00",
+      "382.09",
+      "413.19",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "82",
+    "bbox": [
+      "522.00",
+      "382.09",
+      "535.20",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Pinot Gris - With long skin contact like a red. Uniquely reddish for an orange wine",
+    "bbox": [
+      "54.00",
+      "399.34",
+      "455.13",
+      "410.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Artizani, ‘In The Mood Of Amb'r’",
+    "bbox": [
+      "54.00",
+      "416.60",
+      "219.97",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Kakheti, Georgia",
+    "bbox": [
+      "342.00",
+      "416.60",
+      "422.72",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "68",
+    "bbox": [
+      "522.00",
+      "416.60",
+      "535.20",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Kisi - Resiny, smoky, amber Qvevri wine from Republic of Georgia. Apricots and earth",
+    "bbox": [
+      "54.00",
+      "433.85",
+      "471.11",
+      "444.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Gravner, Ribolla Anfora (2002)",
+    "bbox": [
+      "54.00",
+      "451.11",
+      "211.82",
+      "462.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Friuli-Venezia Giulia",
+    "bbox": [
+      "342.00",
+      "451.11",
+      "439.98",
+      "462.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "150",
+    "bbox": [
+      "522.00",
+      "451.11",
+      "541.79",
+      "462.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Ribolla Gialla - An iconic wine from one of the original Friuli orange wine producers",
+    "bbox": [
+      "54.00",
+      "468.36",
+      "462.94",
+      "479.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "La Stoppa, ‘Ageno’",
+    "bbox": [
+      "54.00",
+      "485.61",
+      "149.37",
+      "496.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Emilia-Romagna, Italy",
+    "bbox": [
+      "342.00",
+      "485.61",
+      "450.38",
+      "496.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "106",
+    "bbox": [
+      "522.00",
+      "485.61",
+      "541.79",
+      "496.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Malvasia, Ortrugo, and Trebbiano Toscano - We love you Elena! Intense and unforgettable",
+    "bbox": [
+      "54.00",
+      "502.87",
+      "495.38",
+      "513.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "ROSÉ",
+    "bbox": [
+      "54.00",
+      "589.14",
+      "83.62",
+      "600.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Folk Machine, Rosé",
+    "bbox": [
+      "54.00",
+      "623.65",
+      "151.81",
+      "634.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "California, USA",
+    "bbox": [
+      "342.00",
+      "623.65",
+      "417.13",
+      "634.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "62",
+    "bbox": [
+      "522.00",
+      "623.65",
+      "535.20",
+      "634.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Gamay Noir - Always super light and pretty, like a white wine with a touch of berries",
+    "bbox": [
+      "54.00",
+      "640.91",
+      "469.21",
+      "651.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Garalis, ‘Roseus’",
+    "bbox": [
+      "54.00",
+      "658.16",
+      "137.62",
+      "669.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Aegean Islands, Greece",
+    "bbox": [
+      "342.00",
+      "658.16",
+      "457.80",
+      "669.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "46",
+    "bbox": [
+      "522.00",
+      "658.16",
+      "535.20",
+      "669.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Limnio / Muscat - The Muscat gives ﬂoral aromatics, spice and charm. A nice touch for this Greek rosé",
+    "bbox": [
+      "54.00",
+      "675.42",
+      "551.07",
+      "686.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Maseria del Pino, ‘Superluna’",
+    "bbox": [
+      "54.00",
+      "692.67",
+      "202.04",
+      "703.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Sicily, Italy",
+    "bbox": [
+      "342.00",
+      "692.67",
+      "393.82",
+      "703.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "84",
+    "bbox": [
+      "522.00",
+      "692.67",
+      "535.20",
+      "703.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Nerello Mascalese - Odd little rosato that isn't ﬁnished fermenting! A bit tickly, a touch off-dry",
+    "bbox": [
+      "54.00",
+      "709.92",
+      "515.20",
+      "720.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Marco Merli, ‘Zerodibabo’",
+    "bbox": [
+      "54.00",
+      "727.18",
+      "182.98",
+      "738.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Umbria, Italy",
+    "bbox": [
+      "342.00",
+      "727.18",
+      "404.76",
+      "738.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "65",
+    "bbox": [
+      "522.00",
+      "727.18",
+      "535.20",
+      "738.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Sangiovese / Ciliegiolo - A rosé with perfect density and length",
+    "bbox": [
+      "54.00",
+      "744.43",
+      "364.69",
+      "755.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Lammidia, Rosato",
+    "bbox": [
+      "54.00",
+      "71.50",
+      "145.00",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Abruzzo, Italy",
+    "bbox": [
+      "342.00",
+      "71.50",
+      "409.09",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "63",
+    "bbox": [
+      "522.00",
+      "71.50",
+      "535.20",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Montepulciano - Unﬁltered, natural, kind of what Susucaru was like back in the day",
+    "bbox": [
+      "54.00",
+      "88.76",
+      "461.63",
+      "99.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Gulﬁ, ‘Rosa’",
+    "bbox": [
+      "54.00",
+      "106.01",
+      "114.63",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Sicily, Italy",
+    "bbox": [
+      "342.00",
+      "106.01",
+      "393.82",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "47",
+    "bbox": [
+      "522.00",
+      "106.01",
+      "535.20",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Nero D’Avola - Perfect, medium bodied rosé, bold but refreshing too",
+    "bbox": [
+      "54.00",
+      "123.27",
+      "388.76",
+      "134.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Duport, ‘Céline’",
+    "bbox": [
+      "54.00",
+      "140.52",
+      "133.27",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Savoie, France",
+    "bbox": [
+      "342.00",
+      "140.52",
+      "412.66",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "39",
+    "bbox": [
+      "486.00",
+      "140.52",
+      "499.20",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Gamay / Mondeuse / Chardonnay - Co-ferment of white and red grapes. Tasty and stony",
+    "bbox": [
+      "54.00",
+      "157.78",
+      "486.89",
+      "168.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Absentee Winery, Pink",
+    "bbox": [
+      "54.00",
+      "175.03",
+      "171.46",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "California, USA",
+    "bbox": [
+      "342.00",
+      "175.03",
+      "417.13",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "56",
+    "bbox": [
+      "522.00",
+      "175.03",
+      "535.20",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Carignan- A happy fruity place in between a dark rosé and a light red. Hi-chew anyone?",
+    "bbox": [
+      "54.00",
+      "192.29",
+      "484.76",
+      "203.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Petit Gimios, Rosé",
+    "bbox": [
+      "54.00",
+      "209.54",
+      "146.93",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Languedoc, France",
+    "bbox": [
+      "342.00",
+      "209.54",
+      "434.25",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "95",
+    "bbox": [
+      "522.00",
+      "209.54",
+      "535.20",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Cinsault / Aragon / Muscat - The touch of Muscat gives thisfunkyrosé an extra ﬂoral zing",
+    "bbox": [
+      "54.00",
+      "226.80",
+      "492.66",
+      "237.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "RED",
+    "bbox": [
+      "54.00",
+      "313.07",
+      "76.49",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Vins Pirouettes, ‘Ultra Violet’",
+    "bbox": [
+      "54.00",
+      "347.58",
+      "203.36",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Alsace, France",
+    "bbox": [
+      "342.00",
+      "347.58",
+      "413.19",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "66",
+    "bbox": [
+      "522.00",
+      "347.58",
+      "535.20",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "All the Pinots, Muscat, Gewurz, etc. - Red and white co ferment from Alsace, bright and cosmic!",
+    "bbox": [
+      "54.00",
+      "364.83",
+      "522.18",
+      "375.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Evan Lewandowski, ‘Feints’",
+    "bbox": [
+      "54.00",
+      "382.09",
+      "193.03",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "California, USA",
+    "bbox": [
+      "342.00",
+      "382.09",
+      "417.13",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "65",
+    "bbox": [
+      "522.00",
+      "382.09",
+      "535.20",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Dolcetto / Barbera / Nebbiolo / Arneis - A delightful co-ferment from red and white grapes",
+    "bbox": [
+      "54.00",
+      "399.34",
+      "497.53",
+      "410.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Vinas Mora, ‘Barbba’",
+    "bbox": [
+      "54.00",
+      "416.60",
+      "160.17",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Primošten, Croatia",
+    "bbox": [
+      "342.00",
+      "416.60",
+      "432.81",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "64",
+    "bbox": [
+      "522.00",
+      "416.60",
+      "535.20",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Debit, Marastina, Plavina, Lasin - Very juicy and tangy chillable red. The wine version of Lite-Brite",
+    "bbox": [
+      "54.00",
+      "433.85",
+      "532.69",
+      "444.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Clos Lentiscus, ‘Perill Noir Carinyena’",
+    "bbox": [
+      "54.00",
+      "451.11",
+      "243.91",
+      "462.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Pierre-Olivier Bonhomme, ‘Tesniere’",
+    "bbox": [
+      "54.00",
+      "468.36",
+      "238.09",
+      "479.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Loire Valley,France",
+    "bbox": [
+      "342.00",
+      "468.36",
+      "437.27",
+      "479.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "65",
+    "bbox": [
+      "522.00",
+      "468.36",
+      "535.20",
+      "479.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Pineau D'Aunis - One of the most classic, vibrant, spicy, prickly versions of this cult grape",
+    "bbox": [
+      "54.00",
+      "485.61",
+      "490.99",
+      "496.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Folk Machine, Valdiguie",
+    "bbox": [
+      "54.00",
+      "502.87",
+      "174.57",
+      "513.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "California, USA",
+    "bbox": [
+      "342.00",
+      "502.87",
+      "417.13",
+      "513.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "62",
+    "bbox": [
+      "522.00",
+      "502.87",
+      "535.20",
+      "513.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Valdiguié - A bright, tart, light red from a grape they thought was Gamay for 100+ years",
+    "bbox": [
+      "54.00",
+      "520.12",
+      "488.01",
+      "531.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Vetter, Spatburgunder ‘Steinterrassen’",
+    "bbox": [
+      "54.00",
+      "537.38",
+      "250.61",
+      "548.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Nahe, Germany",
+    "bbox": [
+      "342.00",
+      "537.38",
+      "418.22",
+      "548.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "98",
+    "bbox": [
+      "522.00",
+      "537.38",
+      "535.20",
+      "548.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Pinot Noir - We love a good French Pinot Noir, but this one from Germany is truly delicious",
+    "bbox": [
+      "54.00",
+      "554.63",
+      "498.34",
+      "565.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Flavia, Etna Rosso Litro (1 Liter)",
+    "bbox": [
+      "54.00",
+      "571.89",
+      "218.07",
+      "582.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Sicily, Italy",
+    "bbox": [
+      "342.00",
+      "571.89",
+      "393.82",
+      "582.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "68",
+    "bbox": [
+      "522.00",
+      "571.89",
+      "535.20",
+      "582.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Nerello Mascalese - Very pure, juicy, chillable and unmistakably Nerello Mascalese",
+    "bbox": [
+      "54.00",
+      "589.14",
+      "460.11",
+      "600.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Partida Creus, ‘TN’ Tinto Natural",
+    "bbox": [
+      "54.00",
+      "606.40",
+      "221.69",
+      "617.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Catalunya, Spain",
+    "bbox": [
+      "342.00",
+      "606.40",
+      "424.83",
+      "617.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "60",
+    "bbox": [
+      "522.00",
+      "606.40",
+      "535.20",
+      "617.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Merlot / Garrut / Cabernet Sauvignon - Tangy, tart, playful and fun",
+    "bbox": [
+      "54.00",
+      "623.65",
+      "378.33",
+      "634.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Robinot, 'Lumière des Sens’",
+    "bbox": [
+      "54.00",
+      "640.91",
+      "194.63",
+      "651.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Loire Valley, France",
+    "bbox": [
+      "342.00",
+      "640.91",
+      "437.27",
+      "651.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "111",
+    "bbox": [
+      "522.00",
+      "640.91",
+      "541.79",
+      "651.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Pineau D’Aunis - This is one of the classic wines produced by Loire Valley legend, JP Robinot",
+    "bbox": [
+      "54.00",
+      "658.16",
+      "508.75",
+      "669.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Bodegas Gratias, ‘Y Tu de Quien Eres’",
+    "bbox": [
+      "54.00",
+      "675.42",
+      "245.17",
+      "686.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Castilla-LaMancha, Spain",
+    "bbox": [
+      "342.00",
+      "675.42",
+      "470.14",
+      "686.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "48",
+    "bbox": [
+      "522.00",
+      "675.42",
+      "535.20",
+      "686.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Bobal / Sumoll / Local varieties - Funky, pure no nonsense natural red proper for a light chill",
+    "bbox": [
+      "54.00",
+      "692.67",
+      "503.41",
+      "703.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Jean-Yves Péron, ‘Champ Levat’",
+    "bbox": [
+      "54.00",
+      "709.92",
+      "214.45",
+      "720.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Savoie, France",
+    "bbox": [
+      "342.00",
+      "709.92",
+      "412.66",
+      "720.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "114",
+    "bbox": [
+      "522.00",
+      "709.92",
+      "541.79",
+      "720.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Mondeuse - Sometimes a cult natural wine is so good you just have to accept it’s awesome",
+    "bbox": [
+      "54.00",
+      "727.18",
+      "499.95",
+      "738.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Christian Ducroux, ‘Exspectatia’",
+    "bbox": [
+      "54.00",
+      "744.43",
+      "215.94",
+      "755.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Beaujolais, France",
+    "bbox": [
+      "342.00",
+      "744.43",
+      "430.88",
+      "755.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "45",
+    "bbox": [
+      "522.00",
+      "744.43",
+      "535.20",
+      "755.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Gamay - Fully natural vibes, with some dark cherry fruit and earthy funk, from a wise old winemaker",
+    "bbox": [
+      "54.00",
+      "71.50",
+      "546.43",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Maccario Dringenberg, Rossese ‘Uvaira’",
+    "bbox": [
+      "54.00",
+      "88.76",
+      "255.14",
+      "99.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Liguria,Italy",
+    "bbox": [
+      "342.00",
+      "88.76",
+      "402.07",
+      "99.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "76",
+    "bbox": [
+      "522.00",
+      "88.76",
+      "535.20",
+      "99.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Rossese di Dolceacqua - Northern Italian herbaceous red with a little pep!",
+    "bbox": [
+      "54.00",
+      "106.01",
+      "416.44",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Pierre Richard, ‘Hermetique’",
+    "bbox": [
+      "54.00",
+      "123.27",
+      "197.46",
+      "134.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Jura, France",
+    "bbox": [
+      "342.00",
+      "123.27",
+      "399.47",
+      "134.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "70",
+    "bbox": [
+      "522.00",
+      "123.27",
+      "535.20",
+      "134.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Trousseau - Light-medium red from local Jura variety. Soft black cherry fruit, light tannins",
+    "bbox": [
+      "54.00",
+      "140.52",
+      "491.12",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Chappaz, Pinot Noir ‘Pinot Charrat’",
+    "bbox": [
+      "54.00",
+      "157.78",
+      "232.60",
+      "168.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Valais, Switzerland",
+    "bbox": [
+      "342.00",
+      "157.78",
+      "435.80",
+      "168.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "190",
+    "bbox": [
+      "522.00",
+      "157.78",
+      "541.79",
+      "168.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Pinot Noir - Special expression from Switzerland. Delicate nose and dark  fruits",
+    "bbox": [
+      "54.00",
+      "175.03",
+      "441.79",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "I Vigneri, ‘Rosso I Vignieri’",
+    "bbox": [
+      "54.00",
+      "192.29",
+      "188.93",
+      "203.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Sicily, Italy",
+    "bbox": [
+      "342.00",
+      "192.29",
+      "393.82",
+      "203.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "76",
+    "bbox": [
+      "522.00",
+      "192.29",
+      "535.20",
+      "203.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Nerello Mascalese / Nerello Cappuccio - Salvo Foti is the OG of Sicilian wines with soul",
+    "bbox": [
+      "54.00",
+      "209.54",
+      "481.65",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Envinate, ‘Migan’",
+    "bbox": [
+      "54.00",
+      "226.80",
+      "140.49",
+      "237.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Canary Islands, Spain",
+    "bbox": [
+      "342.00",
+      "226.80",
+      "448.08",
+      "237.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "119",
+    "bbox": [
+      "522.00",
+      "226.80",
+      "541.79",
+      "237.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Listán Negro - From 100+ year-old vines, planted on volcanic soils on Tenerife. Canary funk and spice!",
+    "bbox": [
+      "54.00",
+      "244.05",
+      "554.61",
+      "255.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Partida Creus, ‘BB’",
+    "bbox": [
+      "54.00",
+      "261.30",
+      "149.88",
+      "272.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Catalunya, Spain",
+    "bbox": [
+      "342.00",
+      "261.30",
+      "424.83",
+      "272.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "72",
+    "bbox": [
+      "522.00",
+      "261.30",
+      "535.20",
+      "272.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Bobal - A bit more classic, light-medium bodied red, without the tang, but deﬁnitely Partida",
+    "bbox": [
+      "54.00",
+      "278.56",
+      "503.93",
+      "289.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Tissot, Poulsard Amphore",
+    "bbox": [
+      "54.00",
+      "295.81",
+      "186.93",
+      "306.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Jura, France",
+    "bbox": [
+      "342.00",
+      "295.81",
+      "399.47",
+      "306.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "149",
+    "bbox": [
+      "522.00",
+      "295.81",
+      "541.79",
+      "306.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Poulsard - One of the most special expressions of the grape, aged in amphora",
+    "bbox": [
+      "54.00",
+      "313.07",
+      "436.35",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Grosbois, Chinon ‘Cuisine de ma Mere’",
+    "bbox": [
+      "54.00",
+      "330.32",
+      "248.62",
+      "341.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Loire Valley,France",
+    "bbox": [
+      "342.00",
+      "330.32",
+      "437.27",
+      "341.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "56",
+    "bbox": [
+      "522.00",
+      "330.32",
+      "535.20",
+      "341.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Cabernet Franc - Super classic, not tannic, not funky, just good ol Cab Franc",
+    "bbox": [
+      "54.00",
+      "347.58",
+      "424.19",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Cornelissen, ‘Munjebel’ Rosso",
+    "bbox": [
+      "54.00",
+      "364.83",
+      "205.12",
+      "375.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Sicily, Italy",
+    "bbox": [
+      "342.00",
+      "364.83",
+      "393.82",
+      "375.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "104",
+    "bbox": [
+      "522.00",
+      "364.83",
+      "541.79",
+      "375.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Nerello Mascalese- From the 2020 vintage, exhibitingvolcanic Mount Etna elegance",
+    "bbox": [
+      "54.00",
+      "382.09",
+      "470.70",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Moritz Kissinger, ‘0 Ohm’ Rot",
+    "bbox": [
+      "54.00",
+      "399.34",
+      "202.53",
+      "410.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Rheinhessen, Germany",
+    "bbox": [
+      "342.00",
+      "399.34",
+      "455.18",
+      "410.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "70",
+    "bbox": [
+      "522.00",
+      "399.34",
+      "535.20",
+      "410.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Merlot / Dornfelder - Delicious, savory dark fruited red that is basically a Lambrusco with less bubbles",
+    "bbox": [
+      "54.00",
+      "416.60",
+      "554.78",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Mattiasson, ‘Tendu’",
+    "bbox": [
+      "54.00",
+      "433.85",
+      "152.76",
+      "444.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "California, USA",
+    "bbox": [
+      "342.00",
+      "433.85",
+      "417.13",
+      "444.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "52",
+    "bbox": [
+      "522.00",
+      "433.85",
+      "535.20",
+      "444.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Barbera / Montepulciano / Aglianico - A tasty, bistrot-style, Italian-inspired red. Bold and easy",
+    "bbox": [
+      "54.00",
+      "451.11",
+      "513.95",
+      "462.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Domaine du Mortiers, Bourgueil ‘Les Pins’",
+    "bbox": [
+      "54.00",
+      "468.36",
+      "267.42",
+      "479.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "LoireValley, France",
+    "bbox": [
+      "342.00",
+      "468.36",
+      "437.27",
+      "479.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "59",
+    "bbox": [
+      "522.00",
+      "468.36",
+      "535.20",
+      "479.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Cabernet Franc - When you crave a red that tastes classic, but has a little funk, turn to the Mortiers",
+    "bbox": [
+      "54.00",
+      "485.61",
+      "539.59",
+      "496.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Jean-Yves Péron, ‘Le Pas de L’Ours’",
+    "bbox": [
+      "54.00",
+      "502.87",
+      "231.77",
+      "513.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Savoie, France",
+    "bbox": [
+      "342.00",
+      "502.87",
+      "412.66",
+      "513.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "146",
+    "bbox": [
+      "522.00",
+      "502.87",
+      "541.79",
+      "513.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Mondeuse - A special, longer maceration red, with a brooding, darker side",
+    "bbox": [
+      "54.00",
+      "520.12",
+      "416.89",
+      "531.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Bichi, ‘Mistico’",
+    "bbox": [
+      "54.00",
+      "537.38",
+      "125.79",
+      "548.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Tecate, Mexico",
+    "bbox": [
+      "342.00",
+      "537.38",
+      "414.11",
+      "548.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "60",
+    "bbox": [
+      "522.00",
+      "537.38",
+      "535.20",
+      "548.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Field blend - Tempranillo, with Carignan, Mision and mystery grapes. A vibrant Mexican natural wine",
+    "bbox": [
+      "54.00",
+      "554.63",
+      "548.68",
+      "565.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Top Source, Columbia Valley Red",
+    "bbox": [
+      "54.00",
+      "571.89",
+      "222.52",
+      "582.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Washington, USA",
+    "bbox": [
+      "342.00",
+      "571.89",
+      "430.32",
+      "582.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "40",
+    "bbox": [
+      "522.00",
+      "571.89",
+      "535.20",
+      "582.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Syrah / Grenache - Modeled after a Cotes du Rhône blend, from Washington State",
+    "bbox": [
+      "54.00",
+      "589.14",
+      "458.03",
+      "600.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Julien Courtois, ‘Ancestrale’",
+    "bbox": [
+      "54.00",
+      "606.40",
+      "194.01",
+      "617.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Loire Valley, France",
+    "bbox": [
+      "342.00",
+      "606.40",
+      "437.27",
+      "617.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "120",
+    "bbox": [
+      "522.00",
+      "606.40",
+      "541.79",
+      "617.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Côt, Gamay, 10% Gascon - Truly a beautiful wine, vibrant, bright red and dark, meaty fruit.",
+    "bbox": [
+      "54.00",
+      "623.65",
+      "496.77",
+      "634.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Altos de Montánchez, ‘Vegas Altas’ Tinto",
+    "bbox": [
+      "54.00",
+      "640.91",
+      "263.93",
+      "651.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Extremadura,Spain",
+    "bbox": [
+      "342.00",
+      "640.91",
+      "438.40",
+      "651.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "36",
+    "bbox": [
+      "522.00",
+      "640.91",
+      "535.20",
+      "651.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Tempranillo - Bold, but really fresh and easy going",
+    "bbox": [
+      "54.00",
+      "658.16",
+      "303.20",
+      "669.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Damiano Ciolli, ‘Cirsium’",
+    "bbox": [
+      "54.00",
+      "675.42",
+      "178.64",
+      "686.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Lazio, Italy",
+    "bbox": [
+      "342.00",
+      "675.42",
+      "393.93",
+      "686.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "91",
+    "bbox": [
+      "522.00",
+      "675.42",
+      "535.20",
+      "686.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Cesanese d’Afﬁle - Old vines on volcanic red soil. Delicate bouquet of violets and dark cherries",
+    "bbox": [
+      "54.00",
+      "692.67",
+      "517.45",
+      "703.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Jonc Blanc, ‘Sens du Fruit’",
+    "bbox": [
+      "54.00",
+      "709.92",
+      "186.22",
+      "720.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Bergerac, France",
+    "bbox": [
+      "342.00",
+      "709.92",
+      "424.38",
+      "720.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "45",
+    "bbox": [
+      "522.00",
+      "709.92",
+      "535.20",
+      "720.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Cabernet Sauvignon / Merlot - Medium bodied, purple fruited red from just east of Bordeaux",
+    "bbox": [
+      "54.00",
+      "727.18",
+      "506.21",
+      "738.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Akutain, Rioja Reserva (2015)",
+    "bbox": [
+      "54.00",
+      "744.43",
+      "206.37",
+      "755.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Rioja, Spain",
+    "bbox": [
+      "342.00",
+      "744.43",
+      "399.57",
+      "755.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "92",
+    "bbox": [
+      "522.00",
+      "744.43",
+      "535.20",
+      "755.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Tempranillo - Low intervention, low sulfur, checks the boxes, and in the end a beautiful classic Rioja",
+    "bbox": [
+      "54.00",
+      "71.50",
+      "543.40",
+      "82.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "La Stoppa, ‘Trebbiolo’",
+    "bbox": [
+      "54.00",
+      "88.76",
+      "164.92",
+      "99.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Emilia-Romagna, Italy",
+    "bbox": [
+      "342.00",
+      "88.76",
+      "450.38",
+      "99.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "61",
+    "bbox": [
+      "522.00",
+      "88.76",
+      "535.20",
+      "99.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Barbera / Bonarda - Delicious, perfect medium bodied red, silky ﬁnish. Elena, you did it again!",
+    "bbox": [
+      "54.00",
+      "106.01",
+      "509.65",
+      "117.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Petit Gimios, ‘Rouge de Causse’",
+    "bbox": [
+      "54.00",
+      "123.27",
+      "214.56",
+      "134.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Languedoc, France",
+    "bbox": [
+      "342.00",
+      "123.27",
+      "434.25",
+      "134.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "94",
+    "bbox": [
+      "522.00",
+      "123.27",
+      "535.20",
+      "134.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Field blend - 12 varieties from a 100+ year old vineyard on a cliff. Rustic, natural, and singular",
+    "bbox": [
+      "54.00",
+      "140.52",
+      "515.01",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Viña Ilusión, ‘Prana’",
+    "bbox": [
+      "54.00",
+      "157.78",
+      "155.24",
+      "168.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Rioja, Spain",
+    "bbox": [
+      "342.00",
+      "157.78",
+      "399.57",
+      "168.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "48",
+    "bbox": [
+      "522.00",
+      "157.78",
+      "535.20",
+      "168.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Tempranillo - Full bodied and bold, but partial carbonic maceration lends a touch of brightness",
+    "bbox": [
+      "54.00",
+      "175.03",
+      "518.55",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Domaine Faillenc, Corbières",
+    "bbox": [
+      "54.00",
+      "192.29",
+      "196.29",
+      "203.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Languedoc, France",
+    "bbox": [
+      "342.00",
+      "192.29",
+      "434.25",
+      "203.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "40",
+    "bbox": [
+      "522.00",
+      "192.29",
+      "535.20",
+      "203.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Syrah / Grenache / Cinsault - Classic Languedoc red with blackberries proﬁle, and a ‘sauvage’ edge",
+    "bbox": [
+      "54.00",
+      "209.54",
+      "538.10",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Del Prete, Salice Salentino ‘Torre Nova’",
+    "bbox": [
+      "54.00",
+      "226.80",
+      "254.14",
+      "237.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Campania,Italy",
+    "bbox": [
+      "342.00",
+      "226.80",
+      "417.94",
+      "237.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "42",
+    "bbox": [
+      "522.00",
+      "226.80",
+      "535.20",
+      "237.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Malvasia Nera / Negroamaro - A true Calabrian red, with notes of dried herbs and sausage",
+    "bbox": [
+      "54.00",
+      "244.05",
+      "497.31",
+      "255.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Antonio Madeira, ‘Tinto Colheita’",
+    "bbox": [
+      "54.00",
+      "261.30",
+      "222.42",
+      "272.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Dão, Portugal",
+    "bbox": [
+      "342.00",
+      "261.30",
+      "409.78",
+      "272.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "63",
+    "bbox": [
+      "522.00",
+      "261.30",
+      "535.20",
+      "272.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Baga, Alfrocheiro, Jaen - Rustic and concentrated. Dark violets on contemplative nights.",
+    "bbox": [
+      "54.00",
+      "278.56",
+      "482.58",
+      "289.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Noëlla Morantin, ‘Tango Atlantico’",
+    "bbox": [
+      "54.00",
+      "295.81",
+      "228.87",
+      "306.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Loire Valley,France",
+    "bbox": [
+      "342.00",
+      "295.81",
+      "437.27",
+      "306.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "64",
+    "bbox": [
+      "522.00",
+      "295.81",
+      "535.20",
+      "306.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Cabernet Franc / Côt (Malbec) - Medium-full, darker red with sumptuous dark Loire fruit",
+    "bbox": [
+      "54.00",
+      "313.07",
+      "484.28",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Domaine Viret, ‘Renaissance’",
+    "bbox": [
+      "54.00",
+      "330.32",
+      "201.96",
+      "341.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Rhone Valley, France",
+    "bbox": [
+      "342.00",
+      "330.32",
+      "444.78",
+      "341.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "58",
+    "bbox": [
+      "522.00",
+      "330.32",
+      "535.20",
+      "341.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Grenache / Syrah / Mourvedre / Carignan - A complex and generous, earthy Southern Rhone red",
+    "bbox": [
+      "54.00",
+      "347.58",
+      "524.80",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Michelini Bros., ‘Esperando a Los Bárbaros’",
+    "bbox": [
+      "54.00",
+      "364.83",
+      "272.67",
+      "375.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Mendoza,Argentina",
+    "bbox": [
+      "342.00",
+      "364.83",
+      "441.11",
+      "375.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "52",
+    "bbox": [
+      "522.00",
+      "364.83",
+      "535.20",
+      "375.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Malbec - Dark and silky, with good extraction and no new oak ﬂavors",
+    "bbox": [
+      "54.00",
+      "382.09",
+      "393.59",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Maudit Flacon, ‘Artefact’",
+    "bbox": [
+      "54.00",
+      "399.34",
+      "179.30",
+      "410.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Languedoc, France",
+    "bbox": [
+      "342.00",
+      "399.34",
+      "434.25",
+      "410.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "74",
+    "bbox": [
+      "522.00",
+      "399.34",
+      "535.20",
+      "410.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Syrah / Mourvedre / Merlot - Super savory, dark and silky red. Black-fruited and thoroughly satisfying",
+    "bbox": [
+      "54.00",
+      "416.60",
+      "549.59",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "LARGE FORMAT(all wines are 1.5 Liter unless otherwisenotated)",
+    "bbox": [
+      "54.00",
+      "88.76",
+      "383.15",
+      "99.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "La Ginestra, ‘Tutto Amphora’ Bianco (Sparkling)",
+    "bbox": [
+      "54.00",
+      "123.27",
+      "297.72",
+      "134.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Tuscany,Italy",
+    "bbox": [
+      "342.00",
+      "123.27",
+      "408.08",
+      "134.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "140",
+    "bbox": [
+      "522.00",
+      "123.27",
+      "541.79",
+      "134.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Sangiovese - Blanc de Noirs style Pet-Nat, hazy, fermented in amphora, pretty damn delicious and fun",
+    "bbox": [
+      "54.00",
+      "140.52",
+      "554.61",
+      "151.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Oriol Artigas and Co., ‘3 Porcs’ (Sparkling Rosé)",
+    "bbox": [
+      "54.00",
+      "157.78",
+      "297.80",
+      "168.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Catalunya, Spain",
+    "bbox": [
+      "342.00",
+      "157.78",
+      "424.83",
+      "168.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "190",
+    "bbox": [
+      "522.00",
+      "157.78",
+      "541.79",
+      "168.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Cabernet Sauvignon / Merlot / Syrah - Tuets, Frisach and Oriol make one wine together every year.",
+    "bbox": [
+      "54.00",
+      "175.03",
+      "536.30",
+      "186.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "This time it’s a crazy Pet-Nat, with the lees left in the bottle to develop the bubbles. Chunky!",
+    "bbox": [
+      "54.00",
+      "192.29",
+      "506.77",
+      "203.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Riffault, Sancerre ‘Les Quarterons’ (White)",
+    "bbox": [
+      "54.00",
+      "209.54",
+      "272.66",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "LoireValley, France",
+    "bbox": [
+      "342.00",
+      "209.54",
+      "437.27",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "168",
+    "bbox": [
+      "522.00",
+      "209.54",
+      "541.79",
+      "220.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Sauvignon Blanc - Not your ordinary Sancerre, this one has more weight and fullness to it",
+    "bbox": [
+      "54.00",
+      "226.80",
+      "494.29",
+      "237.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Mosse, ‘Magic of Juju’ (White)",
+    "bbox": [
+      "54.00",
+      "244.05",
+      "206.82",
+      "255.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Loire Valley, France",
+    "bbox": [
+      "342.00",
+      "244.05",
+      "437.27",
+      "255.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "117",
+    "bbox": [
+      "522.00",
+      "244.05",
+      "541.79",
+      "255.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Chenin Blanc / Lion de L'oeil - Only thing better than Magic of Juju is a MAG of Magic of Juju!",
+    "bbox": [
+      "54.00",
+      "261.30",
+      "506.94",
+      "272.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Roberto Henriquez, ‘Super Estrella’ (Skin Contact)",
+    "bbox": [
+      "54.00",
+      "278.56",
+      "310.11",
+      "289.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Itata Valley, Chile",
+    "bbox": [
+      "342.00",
+      "278.56",
+      "427.70",
+      "289.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "112",
+    "bbox": [
+      "522.00",
+      "278.56",
+      "541.79",
+      "289.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Corinto (Chasselas) - One of the best Chasselas..es on earth. Slight skin contact, ever-evolving",
+    "bbox": [
+      "54.00",
+      "295.81",
+      "517.52",
+      "306.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Vignoble de Rêveur, ‘Un Instant Sur Terre’",
+    "bbox": [
+      "54.00",
+      "313.07",
+      "268.51",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Alsace,France",
+    "bbox": [
+      "342.00",
+      "313.07",
+      "413.19",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "184",
+    "bbox": [
+      "522.00",
+      "313.07",
+      "541.79",
+      "324.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Gewurztraminer / Pinot Gris / Riesling - The biggest, tallest bottle of orange wine in the building!",
+    "bbox": [
+      "54.00",
+      "330.32",
+      "528.79",
+      "341.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Altura, Isola del Giglio Ansonaco (Skin Contact)",
+    "bbox": [
+      "54.00",
+      "347.58",
+      "298.03",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Tuscany, Italy",
+    "bbox": [
+      "342.00",
+      "347.58",
+      "408.08",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "205",
+    "bbox": [
+      "522.00",
+      "347.58",
+      "541.79",
+      "358.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Ansonaco - Thick-skinned grape in the hands of the magical Carfagna family is a pure delight",
+    "bbox": [
+      "54.00",
+      "364.83",
+      "511.96",
+      "375.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Cornelissen, ‘Susucaru Rosato’ (Rosé)",
+    "bbox": [
+      "54.00",
+      "382.09",
+      "245.62",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Sicily, Italy",
+    "bbox": [
+      "342.00",
+      "382.09",
+      "393.82",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "140",
+    "bbox": [
+      "522.00",
+      "382.09",
+      "541.79",
+      "393.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Malvasia / Moscadella / Catarratto / Nerello Mascalese- from the stoic Frank Cornelissen",
+    "bbox": [
+      "54.00",
+      "399.34",
+      "489.13",
+      "410.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Alfredo Maestro, ‘Amanda’ Rosado (Rosé)",
+    "bbox": [
+      "54.00",
+      "416.60",
+      "267.05",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Castillay Leon, Spain",
+    "bbox": [
+      "342.00",
+      "416.60",
+      "447.65",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "110",
+    "bbox": [
+      "522.00",
+      "416.60",
+      "541.79",
+      "427.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Garnacha Tintorera - Cherry and raspberry on the nose and an electric red fruit palate",
+    "bbox": [
+      "54.00",
+      "433.85",
+      "474.73",
+      "444.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Buronfosse, ‘Se Kwa Sa’ (Red)",
+    "bbox": [
+      "54.00",
+      "451.11",
+      "207.66",
+      "462.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Jura, France",
+    "bbox": [
+      "342.00",
+      "451.11",
+      "399.47",
+      "462.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "264",
+    "bbox": [
+      "522.00",
+      "451.11",
+      "541.79",
+      "462.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Pinot / Poulsard / Trousseau / Gamay / Béclans / Enfariné - Wild Jura red if there ever was one",
+    "bbox": [
+      "54.00",
+      "468.36",
+      "513.57",
+      "479.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Laurent Saillard, ‘La Paire’ (Red)",
+    "bbox": [
+      "54.00",
+      "485.61",
+      "218.69",
+      "496.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Loire Valley,France",
+    "bbox": [
+      "342.00",
+      "485.61",
+      "437.27",
+      "496.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "121",
+    "bbox": [
+      "522.00",
+      "485.61",
+      "541.79",
+      "496.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Gamay - Everything we love about Loire Valley Gamay, bright and delicious, with a touch of structure",
+    "bbox": [
+      "54.00",
+      "502.87",
+      "549.95",
+      "513.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Domaine du Possible, ‘Fruit du Hasard’ (Red)",
+    "bbox": [
+      "54.00",
+      "520.12",
+      "282.96",
+      "531.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Jajistan,France",
+    "bbox": [
+      "342.00",
+      "520.12",
+      "415.72",
+      "531.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "100",
+    "bbox": [
+      "522.00",
+      "520.12",
+      "541.79",
+      "531.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Carignan / Syrah - One of the originators of the fresh semi-carbo style in Languedoc",
+    "bbox": [
+      "54.00",
+      "537.38",
+      "465.65",
+      "548.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Viniﬁcate, ‘Mahara’ (Red)",
+    "bbox": [
+      "54.00",
+      "554.63",
+      "182.46",
+      "565.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Andalucia, Spain",
+    "bbox": [
+      "342.00",
+      "554.63",
+      "424.51",
+      "565.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "168",
+    "bbox": [
+      "522.00",
+      "554.63",
+      "541.79",
+      "565.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Tintilla de Rota - A rare grape that is native to Andalucia. Dark, savory and energetic",
+    "bbox": [
+      "54.00",
+      "571.89",
+      "469.02",
+      "582.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Bruno Duchêne, Collioure ‘L’Anodine’ (Red)",
+    "bbox": [
+      "54.00",
+      "589.14",
+      "273.70",
+      "600.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Roussillon,France",
+    "bbox": [
+      "342.00",
+      "589.14",
+      "431.48",
+      "600.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "325",
+    "bbox": [
+      "522.00",
+      "589.14",
+      "541.79",
+      "600.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Grenache / Carignan - A special, hearty red that Bruno only produces in magnum!",
+    "bbox": [
+      "54.00",
+      "606.40",
+      "453.33",
+      "617.40"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

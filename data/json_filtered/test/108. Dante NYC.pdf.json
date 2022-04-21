@@ -1,0 +1,1093 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/17/22, 11:07 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menus | Dante NYC",
+    "bbox": [
+      "318.02",
+      "15.70",
+      "389.01",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "C",
+    "bbox": [
+      "96.68",
+      "261.11",
+      "119.19",
+      "294.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A",
+    "bbox": [
+      "124.44",
+      "261.11",
+      "148.81",
+      "294.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "F",
+    "bbox": [
+      "154.06",
+      "261.11",
+      "172.83",
+      "294.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "F",
+    "bbox": [
+      "178.08",
+      "261.11",
+      "196.85",
+      "294.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "202.10",
+      "261.11",
+      "222.72",
+      "294.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "D",
+    "bbox": [
+      "227.97",
+      "261.11",
+      "266.03",
+      "294.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A",
+    "bbox": [
+      "271.28",
+      "261.11",
+      "295.65",
+      "294.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "N",
+    "bbox": [
+      "300.90",
+      "261.11",
+      "325.27",
+      "294.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "T",
+    "bbox": [
+      "330.52",
+      "261.11",
+      "351.14",
+      "294.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "356.39",
+      "261.11",
+      "377.00",
+      "294.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "M",
+    "bbox": [
+      "382.25",
+      "261.11",
+      "425.95",
+      "294.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "431.20",
+      "261.11",
+      "451.82",
+      "294.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "N",
+    "bbox": [
+      "457.07",
+      "261.11",
+      "481.44",
+      "294.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "U",
+    "bbox": [
+      "486.69",
+      "261.11",
+      "511.06",
+      "294.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "NEGRONI SESSIONS",
+    "bbox": [
+      "119.71",
+      "597.55",
+      "246.82",
+      "609.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPRING INTO DANTE COCKTAILS",
+    "bbox": [
+      "280.02",
+      "597.55",
+      "492.52",
+      "609.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "OUR SIGNATURE COCKTAILS",
+    "bbox": [
+      "137.15",
+      "629.80",
+      "323.17",
+      "642.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FOOD A LA CARTE",
+    "bbox": [
+      "356.36",
+      "629.80",
+      "475.09",
+      "642.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BRUNCH",
+    "bbox": [
+      "194.86",
+      "662.05",
+      "250.18",
+      "674.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE BY THE GLASS",
+    "bbox": [
+      "283.37",
+      "662.05",
+      "417.39",
+      "674.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "JENNA'S BIRTHDAY BRUNCH",
+    "bbox": [
+      "118.85",
+      "694.30",
+      "303.46",
+      "706.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HAPPY BIRTHDAY HEIDI",
+    "bbox": [
+      "336.65",
+      "694.30",
+      "493.40",
+      "706.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPECIAL EVENTS BRUNCH",
+    "bbox": [
+      "132.83",
+      "726.55",
+      "303.22",
+      "738.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE BY THE BOTTLE",
+    "bbox": [
+      "336.41",
+      "726.55",
+      "479.41",
+      "738.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.dante-nyc.com/menus/#wine-list-copy",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "203.41",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/3",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/17/22, 11:07 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menus | Dante NYC",
+    "bbox": [
+      "318.02",
+      "15.70",
+      "389.01",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHEERS TO 30!",
+    "bbox": [
+      "131.41",
+      "34.30",
+      "226.81",
+      "46.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPECIAL EVENTS MENU",
+    "bbox": [
+      "260.00",
+      "34.30",
+      "413.75",
+      "46.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BEER",
+    "bbox": [
+      "446.95",
+      "34.30",
+      "480.83",
+      "46.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BEVERAGES",
+    "bbox": [
+      "266.68",
+      "66.55",
+      "345.56",
+      "78.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "APERITIF",
+    "bbox": [
+      "266.47",
+      "174.03",
+      "345.79",
+      "190.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Manzanilla | Bodegas Hidalgo ‘La Gitana’ | Sanlucar de Barrameda, Spain | NV 7",
+    "bbox": [
+      "122.55",
+      "211.43",
+      "490.44",
+      "222.68"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Manzanilla | Bodegas Hidalgo ‘La Gitana’ | Sanlucar de Barrameda, Spain",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 74
+          }
+        ],
+        "P": [
+          {
+            "text": "7",
+            "answer_start": 77
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Amontillado | Bodegas Rey Fernando de Castilla | Jerez, Spain | NV 9",
+    "bbox": [
+      "148.93",
+      "244.43",
+      "464.07",
+      "255.68"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Amontillado | Bodegas Rey Fernando de Castilla | Jerez, Spain |",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 64
+          }
+        ],
+        "P": [
+          {
+            "text": "9",
+            "answer_start": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHAMPAGNE",
+    "bbox": [
+      "250.46",
+      "309.78",
+      "361.80",
+      "326.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Champagne Pierre Moncuit | Hugues de Coulmet \"Blanc de Blancs\" NV 18",
+    "bbox": [
+      "136.60",
+      "347.18",
+      "476.40",
+      "358.43"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne Pierre Moncuit | Hugues de Coulmet \"Blanc de Blancs",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 63
+          }
+        ],
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROSÉ",
+    "bbox": [
+      "283.44",
+      "412.53",
+      "328.82",
+      "429.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Grenache blend, Moulin de Gassac 'Guilhem Rosé' | Languedoc-Roussillon | 2021 14",
+    "bbox": [
+      "114.76",
+      "450.68",
+      "498.23",
+      "461.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grenache blend, Moulin de Gassac 'Guilhem Rosé' | Languedoc-Roussillon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2021",
+            "answer_start": 73
+          }
+        ],
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 78
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WHITE",
+    "bbox": [
+      "277.45",
+      "516.03",
+      "334.80",
+      "532.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pinot Grigio | Venica & Venica 'Jesera' | Friuli | 2020 15",
+    "bbox": [
+      "180.96",
+      "553.43",
+      "432.03",
+      "564.68"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Grigio | Venica & Venica 'Jesera' | Friuli |",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 51
+          }
+        ],
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Fiano di Avellino | Ciro Picariello | Campania | 2020 13",
+    "bbox": [
+      "181.37",
+      "586.43",
+      "431.62",
+      "597.68"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Fiano di Avellino | Ciro Picariello | Campania",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 49
+          }
+        ],
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Garganega | Pra \"Monte Grande\"| Soave Classico | Veneto | 2020 16",
+    "bbox": [
+      "153.64",
+      "618.68",
+      "459.36",
+      "629.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Garganega | Pra \"Monte Grande\"| Soave Classico | Veneto",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 58
+          }
+        ],
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 63
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sauvignon Blanc | Pabiot \"Preludé \" | Pouilly-Fumé | Loire | 2019 19",
+    "bbox": [
+      "151.79",
+      "651.68",
+      "461.21",
+      "662.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc | Pabiot \"Preludé \" | Pouilly-Fumé | Loire",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 61
+          }
+        ],
+        "P": [
+          {
+            "text": "19",
+            "answer_start": 66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chardonnay | Olivier Merlin | Macon La Roche Vineuse | Burgundy 2019 15",
+    "bbox": [
+      "134.22",
+      "683.93",
+      "478.78",
+      "695.18"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay | Olivier Merlin | Macon La Roche Vineuse | Burgundy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 64
+          }
+        ],
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.dante-nyc.com/menus/#wine-list-copy",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "203.41",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/3",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/17/22, 11:07 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Menus | Dante NYC",
+    "bbox": [
+      "318.02",
+      "15.70",
+      "389.01",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RED",
+    "bbox": [
+      "288.50",
+      "53.28",
+      "323.75",
+      "70.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Barbera d’Alba | G.D. Vajra | Piedmont, Italy | 2020 15",
+    "bbox": [
+      "182.68",
+      "90.68",
+      "430.32",
+      "101.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Barbera d’Alba | G.D. Vajra | Piedmont, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 48
+          }
+        ],
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Noir | Maison Chanzy | Bourgogne, France | 2020 16",
+    "bbox": [
+      "174.34",
+      "123.68",
+      "438.66",
+      "134.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir | Maison Chanzy | Bourgogne, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 49
+          }
+        ],
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Noir | Talley Vineyards 'Estate' | Arroyo Grande Valley | California | 2018 Half Bottle 48",
+    "bbox": [
+      "94.19",
+      "155.93",
+      "518.81",
+      "167.18"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir | Talley Vineyards 'Estate' | Arroyo Grande Valley | California |",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 77
+          }
+        ],
+        "P": [
+          {
+            "text": "48",
+            "answer_start": 94
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Nebbiolo | Azelia | Langhe | Piedmont | 2020 13",
+    "bbox": [
+      "198.42",
+      "188.93",
+      "414.57",
+      "200.18"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Nebbiolo | Azelia | Langhe | Piedmont |",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Nebbiolo | Paolo Conterno \"Riva del Bric\" | Barolo | Piedmont | 2017 Half bottle 65",
+    "bbox": [
+      "117.90",
+      "221.18",
+      "495.10",
+      "232.43"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Nebbiolo | Paolo Conterno \"Riva del Bric\" | Barolo | Piedmont |",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 64
+          }
+        ],
+        "P": [
+          {
+            "text": "65",
+            "answer_start": 81
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sangiovese | Setriolo | Chianti Classico | Tuscany | 2017 14",
+    "bbox": [
+      "173.14",
+      "254.18",
+      "439.85",
+      "265.43"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sangiovese | Setriolo | Chianti Classico | Tuscany",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 53
+          }
+        ],
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cabernet Sauvignon | Hendry \"HRW\" | Napa Valley | California | 2018 19",
+    "bbox": [
+      "140.56",
+      "286.43",
+      "472.44",
+      "297.68"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon | Hendry \"HRW\" | Napa Valley | California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 63
+          }
+        ],
+        "P": [
+          {
+            "text": "19",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.dante-nyc.com/menus/#wine-list-copy",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "203.41",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/3",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

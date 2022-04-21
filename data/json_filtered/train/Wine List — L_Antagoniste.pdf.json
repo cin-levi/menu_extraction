@@ -1,0 +1,2635 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/12/22, 3:50 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Wine List — L'Antagoniste",
+    "bbox": [
+      "296.50",
+      "16.00",
+      "384.94",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ORDER DELIVERY",
+    "bbox": [
+      "251.42",
+      "40.26",
+      "343.84",
+      "52.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "×",
+    "bbox": [
+      "547.25",
+      "38.25",
+      "555.17",
+      "50.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "L'Antagoniste",
+    "bbox": [
+      "91.75",
+      "132.53",
+      "325.60",
+      "162.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Home",
+    "bbox": [
+      "91.75",
+      "171.05",
+      "119.18",
+      "181.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Reservations & Hours",
+    "bbox": [
+      "142.43",
+      "171.05",
+      "282.60",
+      "181.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Spring 2022 Dinner Menu",
+    "bbox": [
+      "305.85",
+      "171.05",
+      "467.16",
+      "181.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Brunch Menu",
+    "bbox": [
+      "114.25",
+      "200.30",
+      "191.00",
+      "210.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Wine List",
+    "bbox": [
+      "214.26",
+      "200.30",
+      "276.92",
+      "210.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Impressions",
+    "bbox": [
+      "300.18",
+      "200.30",
+      "376.93",
+      "210.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Press",
+    "bbox": [
+      "400.19",
+      "200.30",
+      "434.67",
+      "210.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Private Dining & Events",
+    "bbox": [
+      "114.25",
+      "228.80",
+      "275.56",
+      "239.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Wine list",
+    "bbox": [
+      "231.52",
+      "289.07",
+      "364.10",
+      "313.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Wine list is subject to change due to procurement of new",
+    "bbox": [
+      "92.93",
+      "394.41",
+      "503.07",
+      "406.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "wines and selling current wines.",
+    "bbox": [
+      "182.87",
+      "412.41",
+      "413.12",
+      "424.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Aperitifs",
+    "bbox": [
+      "91.75",
+      "520.41",
+      "156.51",
+      "532.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Aperol Spritz $13",
+    "bbox": [
+      "91.75",
+      "556.41",
+      "214.07",
+      "568.41"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Aperol Spritz",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "$13",
+            "answer_start": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Campari & Tonic $13",
+    "bbox": [
+      "91.75",
+      "592.41",
+      "228.46",
+      "604.41"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Campari & Tonic",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "$13",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "The Victor Hugo, St. Germain, Mint, Fresh lime juice,",
+    "bbox": [
+      "91.75",
+      "628.41",
+      "480.30",
+      "640.41"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "The Victor Hugo, St. Germain, Mint, Fresh lime juice,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Prosecco $15",
+    "bbox": [
+      "91.75",
+      "646.41",
+      "178.09",
+      "658.41"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Prosecco $15",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "$15",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Negroni Sbagliato, Campari, Carpano Antica, Prosecco $15",
+    "bbox": [
+      "91.75",
+      "682.41",
+      "494.69",
+      "694.41"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Negroni Sbagliato, Campari, Carpano Antica, Prosecco",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "$15",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "L’American, Campari, Carpano Antica, Sparkling Water $13",
+    "bbox": [
+      "91.75",
+      "718.41",
+      "494.69",
+      "730.41"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "L’American, Campari, Carpano Antica, Sparkling Water",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "$13",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Kir Royale, Raspberry Liquor, Prosecco $15",
+    "bbox": [
+      "91.75",
+      "754.41",
+      "393.95",
+      "766.41"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Kir Royale, Raspberry Liquor, Prosecco",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "$15",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "lantagoniste.com/new-page-1",
+    "bbox": [
+      "26.45",
+      "818.00",
+      "120.86",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/6",
+    "bbox": [
+      "558.31",
+      "818.00",
+      "568.53",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/12/22, 3:50 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Wine List — L'Antagoniste",
+    "bbox": [
+      "296.50",
+      "16.00",
+      "384.94",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sparkling Wine",
+    "bbox": [
+      "91.75",
+      "32.16",
+      "192.48",
+      "44.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Mas de Dumas, Gassac NV, Rose Sparkling, France $13",
+    "bbox": [
+      "91.75",
+      "68.16",
+      "458.71",
+      "80.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Mas de Dumas, Gassac NV, Rose Sparkling, France",
+            "answer_start": 0
+          }
+        ],
+        "p\r\n": [
+          {
+            "text": "$13",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Andre Clouet, Champagne Brut, Bouzy, NV $17",
+    "bbox": [
+      "91.75",
+      "104.16",
+      "401.15",
+      "116.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Andre Clouet, Champagne Brut, Bouzy,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "NV",
+            "answer_start": 37
+          }
+        ],
+        "p": [
+          {
+            "text": "$17",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "White Wine",
+    "bbox": [
+      "91.75",
+      "176.16",
+      "163.70",
+      "188.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Domaine de Pierre, Sauvignon Blanc, Touraine, 2019 $14",
+    "bbox": [
+      "91.75",
+      "212.16",
+      "480.30",
+      "224.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Domaine de Pierre, Sauvignon Blanc, Touraine,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 46
+          }
+        ],
+        "p": [
+          {
+            "text": "$14",
+            "answer_start": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Egon, Gruner Veltliner 2020, Austria $11",
+    "bbox": [
+      "91.75",
+      "248.16",
+      "379.56",
+      "260.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Egon, Gruner Veltliner",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 23
+          }
+        ],
+        "p": [
+          {
+            "text": "$11",
+            "answer_start": 37
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Ilatium Morini, Soave, Italy, 2019 $12",
+    "bbox": [
+      "91.75",
+      "284.16",
+      "365.17",
+      "296.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Ilatium Morini, Soave, Italy,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 30
+          }
+        ],
+        "p": [
+          {
+            "text": "$12",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rose",
+    "bbox": [
+      "91.75",
+      "356.16",
+      "120.53",
+      "368.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Peyrassol, Cotes de Provence, 2019 $12",
+    "bbox": [
+      "91.75",
+      "392.16",
+      "365.17",
+      "404.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Peyrassol, Cotes de Provence,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 30
+          }
+        ],
+        "p": [
+          {
+            "text": "$12",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Red Wine",
+    "bbox": [
+      "91.75",
+      "464.16",
+      "149.31",
+      "476.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "La Igriega, Malbec, Valle de Uco, Argentina, 2016 $12",
+    "bbox": [
+      "91.75",
+      "500.16",
+      "473.10",
+      "512.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "La Igriega, Malbec, Valle de Uco, Argentina,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2016",
+            "answer_start": 45
+          }
+        ],
+        "p": [
+          {
+            "text": "$12",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cooper Hill, Organic Pinot Noir, Oregon, 2019 $13",
+    "bbox": [
+      "91.75",
+      "536.16",
+      "444.32",
+      "548.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Cooper Hill, Organic Pinot Noir, Oregon,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 41
+          }
+        ],
+        "p": [
+          {
+            "text": "$13",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Les Vigne Aux, Cabernet Franc, France, 2020 $11",
+    "bbox": [
+      "91.75",
+      "572.16",
+      "429.93",
+      "584.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Les Vigne Aux, Cabernet Franc, France,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 39
+          }
+        ],
+        "p": [
+          {
+            "text": "$11",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dessert Wines by Glass",
+    "bbox": [
+      "91.75",
+      "644.16",
+      "250.05",
+      "656.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Quinta do Infantado, “Tawny” Porto $12",
+    "bbox": [
+      "91.75",
+      "680.16",
+      "365.17",
+      "692.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Quinta do Infantado, “Tawny” Porto",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "$1",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "lantagoniste.com/new-page-1",
+    "bbox": [
+      "26.45",
+      "818.00",
+      "120.86",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/6",
+    "bbox": [
+      "558.31",
+      "818.00",
+      "568.53",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/12/22, 3:50 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Wine List — L'Antagoniste",
+    "bbox": [
+      "296.50",
+      "16.00",
+      "384.94",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WINE BY BOTTLE",
+    "bbox": [
+      "187.20",
+      "74.57",
+      "408.41",
+      "98.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sparkling & Champagne",
+    "bbox": [
+      "91.75",
+      "143.91",
+      "242.85",
+      "155.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Mas de Dumas, Gassac Rose Frisant 2019 $39",
+    "bbox": [
+      "91.75",
+      "179.91",
+      "393.95",
+      "191.91"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Mas de Dumas, Gassac Rose Frisant",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 34
+          }
+        ],
+        "p": [
+          {
+            "text": "$39",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Ruge, Grover Prosecco, Italy $42",
+    "bbox": [
+      "91.75",
+      "215.91",
+      "322.00",
+      "227.91"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Ruge, Grover Prosecco, Italy",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "$42",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Eleonore Cuvee 2018, Cremant D’Alsace $50",
+    "bbox": [
+      "91.75",
+      "251.91",
+      "386.76",
+      "263.91"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Eleonore Cuvee 2018, Cremant D’Alsace",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "$50",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Gonet-Medeville, Chardonnay ler Champagne, France $78",
+    "bbox": [
+      "91.75",
+      "287.91",
+      "473.10",
+      "299.91"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Gonet-Medeville, Chardonnay ler Champagne, France",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "$78",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Taisne Riocour, Blanc De Noirs, Champagne, France $90",
+    "bbox": [
+      "91.75",
+      "323.91",
+      "473.10",
+      "335.91"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Taisne Riocour, Blanc De Noirs, Champagne, France",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "$90",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bollinger Special Cuvee NV $125",
+    "bbox": [
+      "91.75",
+      "359.91",
+      "314.80",
+      "371.91"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Bollinger Special Cuvee",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "NV",
+            "answer_start": 24
+          }
+        ],
+        "p": [
+          {
+            "text": "$125",
+            "answer_start": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Billecart-Salmon Brut Rose, Champagne $135",
+    "bbox": [
+      "91.75",
+      "395.91",
+      "393.95",
+      "407.91"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Billecart-Salmon Brut Rose, Champagne",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "$13",
+            "answer_start": 37
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Besserat Bellefon, Champagne Brut, France, 2014 $145",
+    "bbox": [
+      "91.75",
+      "431.91",
+      "465.91",
+      "443.91"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Besserat Bellefon, Champagne Brut, France,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2014",
+            "answer_start": 43
+          }
+        ],
+        "p": [
+          {
+            "text": "$145",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Krug Grande Cuvée, Champagne $275",
+    "bbox": [
+      "91.75",
+      "467.91",
+      "329.20",
+      "479.91"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Krug Grande Cuvée, Champagne",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "$275",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Rose Wine",
+    "bbox": [
+      "91.75",
+      "539.91",
+      "156.51",
+      "551.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Arnot Roberts, Heraldsburg California 2020 $55",
+    "bbox": [
+      "91.75",
+      "575.91",
+      "422.73",
+      "587.91"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Arnot Roberts, Heraldsburg California",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 38
+          }
+        ],
+        "p": [
+          {
+            "text": "$55",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "White Wine",
+    "bbox": [
+      "91.75",
+      "647.91",
+      "163.70",
+      "659.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Preiss-Zimmer, Pinot Blanc Reserve, Alsace, 2018 $28",
+    "bbox": [
+      "91.75",
+      "683.91",
+      "465.91",
+      "695.91"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Preiss-Zimmer, Pinot Blanc Reserve, Alsace,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 44
+          }
+        ],
+        "p": [
+          {
+            "text": "$28",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Grand Antoine, Sauvignon Blanc, Bordeax 2017 $35",
+    "bbox": [
+      "91.75",
+      "719.91",
+      "437.12",
+      "731.91"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Grand Antoine, Sauvignon Blanc, Bordeax",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 40
+          }
+        ],
+        "p": [
+          {
+            "text": "$35",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Fiano di Avellino, Contrada, Italy, 2017 $35",
+    "bbox": [
+      "91.75",
+      "755.91",
+      "408.34",
+      "767.91"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Fiano di Avellino, Contrada, Italy,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 36
+          }
+        ],
+        "p": [
+          {
+            "text": "$35",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "lantagoniste.com/new-page-1",
+    "bbox": [
+      "26.45",
+      "818.00",
+      "120.86",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/6",
+    "bbox": [
+      "558.31",
+      "818.00",
+      "568.53",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/12/22, 3:50 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Wine List — L'Antagoniste",
+    "bbox": [
+      "296.50",
+      "16.00",
+      "384.94",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Paumanok Vineyards, Riesling, Aquebogue, Long Island,",
+    "bbox": [
+      "91.75",
+      "32.16",
+      "480.30",
+      "44.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Paumanok Vineyards, Riesling, Aquebogue, Long Island,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2016 $35",
+    "bbox": [
+      "91.75",
+      "50.16",
+      "149.31",
+      "62.16"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2016",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "$35",
+            "answer_start": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Domaine Fontareche, Vin de Pays d’ Oc Viognier 2017 $35",
+    "bbox": [
+      "91.75",
+      "86.16",
+      "487.49",
+      "98.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Domaine Fontareche, Vin de Pays d’ Oc Viognier",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 47
+          }
+        ],
+        "p": [
+          {
+            "text": "$35",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Broadside Chardonnay, Central Coast, California, 2018 $41",
+    "bbox": [
+      "91.75",
+      "122.16",
+      "501.88",
+      "134.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Broadside Chardonnay, Central Coast, California,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 49
+          }
+        ],
+        "p": [
+          {
+            "text": "$41",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Dr. Thanisch, Riesling, Mosel, Germany, 2015 $43",
+    "bbox": [
+      "91.75",
+      "158.16",
+      "437.12",
+      "170.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Dr. Thanisch, Riesling, Mosel, Germany,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2015",
+            "answer_start": 40
+          }
+        ],
+        "p": [
+          {
+            "text": "$43",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Rudi Pichler, Riesling, Wachau, Austria, 2013 $46",
+    "bbox": [
+      "91.75",
+      "194.16",
+      "444.32",
+      "206.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Rudi Pichler, Riesling, Wachau, Austria,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2013",
+            "answer_start": 41
+          }
+        ],
+        "p": [
+          {
+            "text": "$4",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Jade & Jasper, Fiano, Australia, 2017 $48",
+    "bbox": [
+      "91.75",
+      "230.16",
+      "386.76",
+      "242.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Jade & Jasper, Fiano, Australia,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 33
+          }
+        ],
+        "p": [
+          {
+            "text": "$48",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Daniel Reverdy & Fils, Sancerre, Sauvignon, 2018 $48",
+    "bbox": [
+      "91.75",
+      "266.16",
+      "465.91",
+      "278.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Daniel Reverdy & Fils, Sancerre, Sauvignon,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 44
+          }
+        ],
+        "p": [
+          {
+            "text": "$48",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Hanzell Vineyards, “Sebella”, Chardonnay, Sonoma, 2013",
+    "bbox": [
+      "91.75",
+      "302.16",
+      "487.49",
+      "314.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Hanzell Vineyards, “Sebella”, Chardonnay, Sonoma,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2013",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$73",
+    "bbox": [
+      "91.75",
+      "320.16",
+      "113.34",
+      "332.16"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$73",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Vincent Girardin, Meursault, Burgundy, 2014 $83",
+    "bbox": [
+      "91.75",
+      "356.16",
+      "429.93",
+      "368.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Vincent Girardin, Meursault, Burgundy,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2014",
+            "answer_start": 39
+          }
+        ],
+        "p": [
+          {
+            "text": "$83",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "DuMol Charles Heintz Vinyard, Chardonnay, Sonoma, 2016",
+    "bbox": [
+      "91.75",
+      "392.16",
+      "487.49",
+      "404.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "DuMol Charles Heintz Vinyard, Chardonnay, Sonoma,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2016",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$83",
+    "bbox": [
+      "91.75",
+      "410.16",
+      "113.34",
+      "422.16"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$83",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "The Hilt, The Vanguard Winery, Chardonnay, California,",
+    "bbox": [
+      "91.75",
+      "446.16",
+      "487.49",
+      "458.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "The Hilt, The Vanguard Winery, Chardonnay, California,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2014 $83",
+    "bbox": [
+      "91.75",
+      "464.16",
+      "149.31",
+      "476.16"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2014",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "$83",
+            "answer_start": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Rose Wine",
+    "bbox": [
+      "91.75",
+      "608.16",
+      "156.51",
+      "620.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Ju de Vie, Rhone Valley, Rose, 2019 $32",
+    "bbox": [
+      "91.75",
+      "644.16",
+      "372.37",
+      "656.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Ju de Vie, Rhone Valley, Rose,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 31
+          }
+        ],
+        "p": [
+          {
+            "text": "$32",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chatea de la Clapiere, Cru Classe, Cotes de Provence,",
+    "bbox": [
+      "91.75",
+      "680.16",
+      "480.30",
+      "692.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Chatea de la Clapiere, Cru Classe, Cotes de Provence,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2019  $41",
+    "bbox": [
+      "91.75",
+      "698.16",
+      "156.51",
+      "710.16"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "$4",
+            "answer_start": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Daniel Reverdy & Fils, Rose, France, 2018 $41",
+    "bbox": [
+      "91.75",
+      "734.16",
+      "415.54",
+      "746.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Daniel Reverdy & Fils, Rose, France,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 37
+          }
+        ],
+        "p": [
+          {
+            "text": "$41",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Domaine de L’Olivette, Bandol, 2018 $49 (sold out)",
+    "bbox": [
+      "91.75",
+      "770.16",
+      "451.52",
+      "782.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Domaine de L’Olivette, Bandol,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 31
+          }
+        ],
+        "p": [
+          {
+            "text": "$49",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "lantagoniste.com/new-page-1",
+    "bbox": [
+      "26.45",
+      "818.00",
+      "120.86",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/6",
+    "bbox": [
+      "558.31",
+      "818.00",
+      "568.53",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/12/22, 3:50 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Wine List — L'Antagoniste",
+    "bbox": [
+      "296.50",
+      "16.00",
+      "384.94",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Red Wine",
+    "bbox": [
+      "91.75",
+      "104.16",
+      "149.31",
+      "116.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chateau La Braulterie de Peyraud, Bordeaux, 2016 $30",
+    "bbox": [
+      "91.75",
+      "176.16",
+      "465.91",
+      "188.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Chateau La Braulterie de Peyraud, Bordeaux,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2016",
+            "answer_start": 44
+          }
+        ],
+        "p": [
+          {
+            "text": "$30",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "La Igriega, Malbec, Valle de Uco, Argentina, 2018 $32",
+    "bbox": [
+      "91.75",
+      "212.16",
+      "473.10",
+      "224.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "La Igriega, Malbec, Valle de Uco, Argentina,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 45
+          }
+        ],
+        "p": [
+          {
+            "text": "$32",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Roche - Audran, Visan, Grenache, Syrah, 2018 $36",
+    "bbox": [
+      "91.75",
+      "248.16",
+      "437.12",
+      "260.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Roche - Audran, Visan, Grenache, Syrah,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 40
+          }
+        ],
+        "p": [
+          {
+            "text": "$36",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chateau Haut - Beynet, Merlot, Bordeaux, 2016 $36",
+    "bbox": [
+      "91.75",
+      "284.16",
+      "444.32",
+      "296.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Chateau Haut - Beynet, Merlot, Bordeaux,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2016",
+            "answer_start": 41
+          }
+        ],
+        "p": [
+          {
+            "text": "$36",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Martin Ray, Pinot Noir, Sonoma, 2018 $36",
+    "bbox": [
+      "91.75",
+      "320.16",
+      "379.56",
+      "332.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Martin Ray, Pinot Noir, Sonoma,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 32
+          }
+        ],
+        "p": [
+          {
+            "text": "$36",
+            "answer_start": 37
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Ricardelle de Lautrec, Pays d’Oc, Pinot Noir, 2018 $41",
+    "bbox": [
+      "91.75",
+      "356.16",
+      "480.30",
+      "368.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Ricardelle de Lautrec, Pays d’Oc, Pinot Noir,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 46
+          }
+        ],
+        "p": [
+          {
+            "text": "$41",
+            "answer_start": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chateau des Roques, Grenache, France, 2016 $41",
+    "bbox": [
+      "91.75",
+      "392.16",
+      "422.73",
+      "404.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Vina Zorzal Malayeto, Grenache, Spain, 2016 $48",
+    "bbox": [
+      "91.75",
+      "428.16",
+      "429.93",
+      "440.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Tenuta delle Terre Nere, Etna Rosso, Italy, 2017 $48",
+    "bbox": [
+      "91.75",
+      "464.16",
+      "465.91",
+      "476.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chateau Fourcas Dupre, Medoc, Bordeaux, 2005 $51",
+    "bbox": [
+      "91.75",
+      "500.16",
+      "437.12",
+      "512.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chateau Les Gruzelles, Pomerol, France, 2014 $52",
+    "bbox": [
+      "91.75",
+      "536.16",
+      "437.12",
+      "548.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pegaso, Barrancos de Pizarra, Spain, 2013 $52",
+    "bbox": [
+      "91.75",
+      "572.16",
+      "415.54",
+      "584.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Domaine de la Vougeraie, Pinot Noir, Burgundy, 2016 $60",
+    "bbox": [
+      "91.75",
+      "608.16",
+      "487.49",
+      "620.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Château Lartigue, Grand Vin de Bordeaux, 2000 $60",
+    "bbox": [
+      "91.75",
+      "644.16",
+      "451.52",
+      "656.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chateau Siran, Margaux, Bordeaux, 2014 $62",
+    "bbox": [
+      "91.75",
+      "680.16",
+      "393.95",
+      "692.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "La Parde Haut-Bailly, Bordeaux, 2012 $64",
+    "bbox": [
+      "91.75",
+      "716.16",
+      "379.56",
+      "728.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Clos Saint-Jean, Chateauneuf du Pape, Rohne, 2015 $68",
+    "bbox": [
+      "91.75",
+      "752.16",
+      "473.10",
+      "764.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Poderi Aldo Contero, Langhe Rosso, Italy, 2016 $68",
+    "bbox": [
+      "91.75",
+      "788.16",
+      "451.52",
+      "800.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "lantagoniste.com/new-page-1",
+    "bbox": [
+      "26.45",
+      "818.00",
+      "120.86",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/6",
+    "bbox": [
+      "558.31",
+      "818.00",
+      "568.53",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/12/22, 3:50 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Wine List — L'Antagoniste",
+    "bbox": [
+      "296.50",
+      "16.00",
+      "384.94",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chateau Tour Saint Christophe, Saint Emillion, 2017 $70",
+    "bbox": [
+      "91.75",
+      "32.16",
+      "487.49",
+      "44.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Tenuta di Sesta, Brunelo di Montalcino, DOCG Italy, 2015",
+    "bbox": [
+      "91.75",
+      "68.16",
+      "501.88",
+      "80.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$72",
+    "bbox": [
+      "91.75",
+      "86.16",
+      "113.34",
+      "98.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Ca’Marcanda, Gaia, Promis IGT, Italy, 2017 $78",
+    "bbox": [
+      "91.75",
+      "122.16",
+      "422.73",
+      "134.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chateau Bellevue, Saint-Emilion Grand Cru, France, 2014",
+    "bbox": [
+      "91.75",
+      "158.16",
+      "494.69",
+      "170.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$93",
+    "bbox": [
+      "91.75",
+      "176.16",
+      "113.34",
+      "188.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Roc De Cambes, Cotes de Bourg, France, 2016 $115",
+    "bbox": [
+      "91.75",
+      "212.16",
+      "437.12",
+      "224.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Castello Romitorio, Brunelo di Montalcino, DOCG Italy,",
+    "bbox": [
+      "91.75",
+      "248.16",
+      "487.49",
+      "260.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2015 $115",
+    "bbox": [
+      "91.75",
+      "266.16",
+      "156.51",
+      "278.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Clos L’ Eglise, Pomerol, Bordeaux, 2007 $125",
+    "bbox": [
+      "91.75",
+      "302.16",
+      "408.34",
+      "314.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Vega Sicilia Alion, Tempranillo, Spain, 2015 $142",
+    "bbox": [
+      "91.75",
+      "338.16",
+      "444.32",
+      "350.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chateau Belair Monange, Saint Emilion Grand Cru,",
+    "bbox": [
+      "91.75",
+      "374.16",
+      "444.32",
+      "386.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2014 $210",
+    "bbox": [
+      "91.75",
+      "392.16",
+      "156.51",
+      "404.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chateau Pontet - Canet, Pauillac, 2008 (100 Points",
+    "bbox": [
+      "91.75",
+      "428.16",
+      "458.71",
+      "440.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Rating!) $250",
+    "bbox": [
+      "91.75",
+      "446.16",
+      "185.29",
+      "458.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "238 Malcolm X Blvd, Brooklyn, NY 11221",
+    "bbox": [
+      "91.75",
+      "591.66",
+      "365.17",
+      "603.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "POWERED BY SQUARESPACE.",
+    "bbox": [
+      "91.75",
+      "736.96",
+      "191.00",
+      "742.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "lantagoniste.com/new-page-1",
+    "bbox": [
+      "26.45",
+      "818.00",
+      "120.86",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/6",
+    "bbox": [
+      "558.31",
+      "818.00",
+      "568.53",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

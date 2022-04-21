@@ -1,0 +1,5949 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/20/22, 7:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pepolino Ristorante Italiano | TriBeCa | New York City | NYC",
+    "bbox": [
+      "244.94",
+      "15.70",
+      "458.22",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Home",
+    "bbox": [
+      "81.62",
+      "48.71",
+      "111.80",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "About",
+    "bbox": [
+      "134.46",
+      "48.71",
+      "164.64",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Our Chefs",
+    "bbox": [
+      "187.30",
+      "48.71",
+      "237.00",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menus",
+    "bbox": [
+      "259.65",
+      "48.71",
+      "293.02",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Private Parties",
+    "bbox": [
+      "315.68",
+      "48.71",
+      "386.61",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Gallery",
+    "bbox": [
+      "409.27",
+      "48.71",
+      "444.67",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Reservations",
+    "bbox": [
+      "467.32",
+      "48.71",
+      "531.22",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "|",
+    "bbox": [
+      "466.75",
+      "54.50",
+      "473.34",
+      "66.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "|",
+    "bbox": [
+      "531.12",
+      "54.50",
+      "537.71",
+      "66.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(212) 966-9983",
+    "bbox": [
+      "44.00",
+      "57.53",
+      "113.04",
+      "67.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Facebook",
+    "bbox": [
+      "415.25",
+      "59.03",
+      "461.10",
+      "68.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Instagram",
+    "bbox": [
+      "478.71",
+      "59.03",
+      "525.46",
+      "68.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Resy",
+    "bbox": [
+      "540.83",
+      "59.03",
+      "563.45",
+      "68.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Order Online",
+    "bbox": [
+      "208.17",
+      "92.96",
+      "271.61",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Gift Cards",
+    "bbox": [
+      "294.27",
+      "92.96",
+      "343.07",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Contact",
+    "bbox": [
+      "365.73",
+      "92.96",
+      "404.67",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Home",
+    "bbox": [
+      "81.62",
+      "145.46",
+      "111.80",
+      "155.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "About",
+    "bbox": [
+      "134.46",
+      "145.46",
+      "164.64",
+      "155.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Our Chefs",
+    "bbox": [
+      "187.30",
+      "145.46",
+      "237.00",
+      "155.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menus",
+    "bbox": [
+      "259.65",
+      "145.46",
+      "293.02",
+      "155.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Private Parties",
+    "bbox": [
+      "315.68",
+      "145.46",
+      "386.61",
+      "155.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Gallery",
+    "bbox": [
+      "409.27",
+      "145.46",
+      "444.67",
+      "155.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Reservations",
+    "bbox": [
+      "467.32",
+      "145.46",
+      "531.22",
+      "155.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Order Online",
+    "bbox": [
+      "208.17",
+      "189.71",
+      "271.61",
+      "200.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Gift Cards",
+    "bbox": [
+      "294.27",
+      "189.71",
+      "343.07",
+      "200.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Contact",
+    "bbox": [
+      "365.73",
+      "189.71",
+      "404.67",
+      "200.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.pepolino.com/#menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "143.85",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/15",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/20/22, 7:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pepolino Ristorante Italiano | TriBeCa | New York City | NYC",
+    "bbox": [
+      "244.94",
+      "15.70",
+      "458.22",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Home",
+    "bbox": [
+      "81.62",
+      "48.71",
+      "111.80",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "About",
+    "bbox": [
+      "134.46",
+      "48.71",
+      "164.64",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Our Chefs",
+    "bbox": [
+      "187.30",
+      "48.71",
+      "237.00",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menus",
+    "bbox": [
+      "259.65",
+      "48.71",
+      "293.02",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Private Parties",
+    "bbox": [
+      "315.68",
+      "48.71",
+      "386.61",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Gallery",
+    "bbox": [
+      "409.27",
+      "48.71",
+      "444.67",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Reservations",
+    "bbox": [
+      "467.32",
+      "48.71",
+      "531.22",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "About Pepolino",
+    "bbox": [
+      "231.83",
+      "59.55",
+      "381.18",
+      "93.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Order Online",
+    "bbox": [
+      "208.17",
+      "92.96",
+      "271.61",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Gift Cards",
+    "bbox": [
+      "294.27",
+      "92.96",
+      "343.07",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Contact",
+    "bbox": [
+      "365.73",
+      "92.96",
+      "404.67",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pepolini is a casual yet elegant restaurant, serves an authentic delicious Tuscan cuisine in a in",
+    "bbox": [
+      "68.50",
+      "130.63",
+      "544.50",
+      "141.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "the heart of TriBeCa. Stop in to enjoy our outdoor dining, or our romantic bilevel setting, Daily",
+    "bbox": [
+      "70.07",
+      "150.88",
+      "542.92",
+      "162.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "specialties. complimented by red and white wine selections from around the world.",
+    "bbox": [
+      "91.72",
+      "171.13",
+      "524.16",
+      "182.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "In August 1999, Patrizio Siddu and Enzo Pezone opened the doors of Pepolino, and thrilled",
+    "bbox": [
+      "75.29",
+      "211.63",
+      "537.71",
+      "222.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "guests and critics with elegant Tuscan cuisine. Signature dishes run the gamut from \"tagliata di",
+    "bbox": [
+      "65.84",
+      "231.88",
+      "547.16",
+      "243.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "manzo\", cannellini and rosemary to a sumptuous pear-ricotta tart.",
+    "bbox": [
+      "140.55",
+      "252.13",
+      "475.34",
+      "263.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.pepolino.com/#menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "143.85",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/15",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/20/22, 7:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pepolino Ristorante Italiano | TriBeCa | New York City | NYC",
+    "bbox": [
+      "244.94",
+      "15.70",
+      "458.22",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Home",
+    "bbox": [
+      "81.62",
+      "48.71",
+      "111.80",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "About",
+    "bbox": [
+      "134.46",
+      "48.71",
+      "164.64",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Our Chefs",
+    "bbox": [
+      "187.30",
+      "48.71",
+      "237.00",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Menus",
+    "bbox": [
+      "259.65",
+      "48.71",
+      "293.02",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Private Parties",
+    "bbox": [
+      "315.68",
+      "48.71",
+      "386.61",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Gallery",
+    "bbox": [
+      "409.27",
+      "48.71",
+      "444.67",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Reservations",
+    "bbox": [
+      "467.32",
+      "48.71",
+      "531.22",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Order Online",
+    "bbox": [
+      "208.17",
+      "92.96",
+      "271.61",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Gift Cards",
+    "bbox": [
+      "294.27",
+      "92.96",
+      "343.07",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Contact",
+    "bbox": [
+      "365.73",
+      "92.96",
+      "404.67",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pepolino in",
+    "bbox": [
+      "22.78",
+      "97.63",
+      "79.85",
+      "127.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "",
+    "bbox": [
+      "539.00",
+      "97.63",
+      "569.00",
+      "127.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "\"T",
+    "bbox": [
+      "578.81",
+      "96.88",
+      "588.59",
+      "108.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "\"Authentic sense of \u0000avor bears",
+    "bbox": [
+      "144.45",
+      "106.63",
+      "305.15",
+      "117.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "\"Outstanding\" TriBeCa trattoria",
+    "bbox": [
+      "357.33",
+      "110.38",
+      "510.70",
+      "121.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "eca is Worth",
+    "bbox": [
+      "27.23",
+      "123.13",
+      "91.07",
+      "134.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "famil",
+    "bbox": [
+      "560.30",
+      "120.13",
+      "585.37",
+      "131.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "on this charming little Tribeca",
+    "bbox": [
+      "149.67",
+      "129.88",
+      "299.94",
+      "141.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "presenting a real taste of",
+    "bbox": [
+      "370.74",
+      "133.63",
+      "497.29",
+      "144.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "The Trip\"",
+    "bbox": [
+      "27.78",
+      "146.38",
+      "71.89",
+      "157.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "eatery.\"",
+    "bbox": [
+      "206.79",
+      "153.13",
+      "242.81",
+      "164.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Tuscany.\"",
+    "bbox": [
+      "411.13",
+      "156.88",
+      "456.89",
+      "168.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Our Chefs",
+    "bbox": [
+      "256.74",
+      "270.30",
+      "356.26",
+      "304.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.pepolino.com/#menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "143.85",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/15",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/20/22, 7:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pepolino Ristorante Italiano | TriBeCa | New York City | NYC",
+    "bbox": [
+      "244.94",
+      "15.70",
+      "458.22",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Home",
+    "bbox": [
+      "81.62",
+      "48.71",
+      "111.80",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "About",
+    "bbox": [
+      "134.46",
+      "48.71",
+      "164.64",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Our Chefs",
+    "bbox": [
+      "187.30",
+      "48.71",
+      "237.00",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Menus",
+    "bbox": [
+      "259.65",
+      "48.71",
+      "293.02",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Private Parties",
+    "bbox": [
+      "315.68",
+      "48.71",
+      "386.61",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Gallery",
+    "bbox": [
+      "409.27",
+      "48.71",
+      "444.67",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Reservations",
+    "bbox": [
+      "467.32",
+      "48.71",
+      "531.22",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Order Online",
+    "bbox": [
+      "208.17",
+      "92.96",
+      "271.61",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Gift Cards",
+    "bbox": [
+      "294.27",
+      "92.96",
+      "343.07",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Contact",
+    "bbox": [
+      "365.73",
+      "92.96",
+      "404.67",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chef Enzo Pezone",
+    "bbox": [
+      "77.75",
+      "220.80",
+      "253.75",
+      "254.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Enzo Pezone was born in Parete, Italy.",
+    "bbox": [
+      "77.75",
+      "291.88",
+      "270.19",
+      "303.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "At age 15 he picked up and moved to",
+    "bbox": [
+      "77.75",
+      "312.13",
+      "268.49",
+      "323.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Florence, where he started in training",
+    "bbox": [
+      "77.75",
+      "332.38",
+      "268.13",
+      "343.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "in the culinary arts. After a \u0000ve- year",
+    "bbox": [
+      "77.75",
+      "352.63",
+      "260.45",
+      "363.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "education, he was hired by Fabio",
+    "bbox": [
+      "77.75",
+      "372.88",
+      "245.80",
+      "384.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Picchi and Benedetta Vitali of Cibreo",
+    "bbox": [
+      "77.75",
+      "393.13",
+      "264.43",
+      "404.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "restaurant in Florence, where he",
+    "bbox": [
+      "77.75",
+      "413.38",
+      "243.10",
+      "424.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "continued learning under their",
+    "bbox": [
+      "77.75",
+      "433.63",
+      "232.80",
+      "444.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "tutelage for 14 years.",
+    "bbox": [
+      "77.75",
+      "453.88",
+      "186.04",
+      "465.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "The experience helped shape his",
+    "bbox": [
+      "77.75",
+      "494.38",
+      "248.29",
+      "505.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "pursuit of opening a restaurant of his",
+    "bbox": [
+      "77.75",
+      "514.63",
+      "264.78",
+      "525.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "own. In 1994, the dream carried him",
+    "bbox": [
+      "77.75",
+      "534.88",
+      "259.39",
+      "546.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "across the Atlantic Ocean to America.",
+    "bbox": [
+      "77.75",
+      "555.13",
+      "269.01",
+      "566.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Enzo worked at various",
+    "bbox": [
+      "77.75",
+      "575.38",
+      "196.40",
+      "586.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Welcome to",
+    "bbox": [
+      "268.31",
+      "589.15",
+      "344.69",
+      "602.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "establishments for \u0000ve years, learning",
+    "bbox": [
+      "77.75",
+      "595.63",
+      "270.68",
+      "606.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "about the AmePrican eresptauoranltino R",
+    "bbox": [
+      "77.75",
+      "615.88",
+      "334.58",
+      "671.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "istorante",
+    "bbox": [
+      "334.58",
+      "618.51",
+      "459.35",
+      "671.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "",
+    "bbox": [
+      "44.00",
+      "635.12",
+      "74.00",
+      "665.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "business, before opening Pepolino.",
+    "bbox": [
+      "77.75",
+      "636.13",
+      "257.27",
+      "647.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "",
+    "bbox": [
+      "539.00",
+      "635.12",
+      "569.00",
+      "665.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cuisine of Tuscany",
+    "bbox": [
+      "248.52",
+      "703.90",
+      "364.49",
+      "717.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.pepolino.com/#menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "143.85",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/15",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/20/22, 7:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pepolino Ristorante Italiano | TriBeCa | New York City | NYC",
+    "bbox": [
+      "244.94",
+      "15.70",
+      "458.22",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Home",
+    "bbox": [
+      "81.62",
+      "48.71",
+      "111.80",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "About",
+    "bbox": [
+      "134.46",
+      "48.71",
+      "164.64",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Our Chefs",
+    "bbox": [
+      "187.30",
+      "48.71",
+      "237.00",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Menus",
+    "bbox": [
+      "259.65",
+      "48.71",
+      "293.02",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Private Parties",
+    "bbox": [
+      "315.68",
+      "48.71",
+      "386.61",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Gallery",
+    "bbox": [
+      "409.27",
+      "48.71",
+      "444.67",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Reservations",
+    "bbox": [
+      "467.32",
+      "48.71",
+      "531.22",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Order Online",
+    "bbox": [
+      "243.38",
+      "72.30",
+      "369.62",
+      "106.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Order Online",
+    "bbox": [
+      "208.17",
+      "92.96",
+      "271.61",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Gift Cards",
+    "bbox": [
+      "294.27",
+      "92.96",
+      "343.07",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Contact",
+    "bbox": [
+      "365.73",
+      "92.96",
+      "404.67",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "M",
+    "bbox": [
+      "274.17",
+      "264.30",
+      "307.21",
+      "298.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "enu",
+    "bbox": [
+      "307.21",
+      "264.30",
+      "338.83",
+      "298.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "In two cozy, unpretentious rooms, you'll derive startling satisfaction from",
+    "bbox": [
+      "122.23",
+      "335.38",
+      "490.76",
+      "346.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "pastas as basic as sausage-and-arugula; the pleasing hominess of a mussel",
+    "bbox": [
+      "112.44",
+      "355.63",
+      "500.55",
+      "366.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "terrine or the luxuriance of rustic dishes like lamb stu\u0000ed with artichoke; and",
+    "bbox": [
+      "112.50",
+      "375.88",
+      "500.50",
+      "387.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "the absolute surprise of delicious desserts in an Italian trattoria.",
+    "bbox": [
+      "146.28",
+      "396.13",
+      "466.71",
+      "407.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Insalate &",
+    "bbox": [
+      "118.25",
+      "442.63",
+      "170.04",
+      "453.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Dolci &",
+    "bbox": [
+      "344.64",
+      "442.63",
+      "381.98",
+      "453.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Wine",
+    "bbox": [
+      "446.12",
+      "441.88",
+      "474.07",
+      "453.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pasta",
+    "bbox": [
+      "227.98",
+      "450.13",
+      "256.91",
+      "461.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Secondi",
+    "bbox": [
+      "279.42",
+      "450.13",
+      "322.13",
+      "461.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Antipasti",
+    "bbox": [
+      "118.25",
+      "457.63",
+      "164.34",
+      "468.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Dolcezze",
+    "bbox": [
+      "344.64",
+      "457.63",
+      "393.04",
+      "468.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "List",
+    "bbox": [
+      "446.12",
+      "456.88",
+      "465.12",
+      "468.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Frizzante/Sparkling",
+    "bbox": [
+      "107.00",
+      "498.26",
+      "267.45",
+      "524.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Prosecco Rose’ Brut",
+    "bbox": [
+      "107.00",
+      "540.13",
+      "213.15",
+      "551.38"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Prosecco Rose’ Brut",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$65",
+    "bbox": [
+      "270.61",
+      "540.71",
+      "288.99",
+      "551.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Prosecco Sparkling White$59",
+    "bbox": [
+      "321.50",
+      "540.13",
+      "492.62",
+      "551.38"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Prosecco Sparkling White",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$59",
+            "answer_start": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Wine",
+    "bbox": [
+      "323.75",
+      "555.13",
+      "351.71",
+      "566.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "2019/20 “Jelo” (Veneto)",
+    "bbox": [
+      "107.00",
+      "564.71",
+      "216.45",
+      "575.21"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019/20",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "“Acinum” Verona (Veneto)",
+    "bbox": [
+      "321.50",
+      "579.71",
+      "441.87",
+      "590.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Prosecco Cuvee’ “Sparkling",
+    "bbox": [
+      "107.00",
+      "645.88",
+      "252.81",
+      "657.13"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Prosecco Cuvee’ “Sparkling",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$17",
+    "bbox": [
+      "271.80",
+      "646.46",
+      "290.49",
+      "656.96"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Berlucchi 61 Brut “Italian",
+    "bbox": [
+      "321.50",
+      "645.88",
+      "452.49",
+      "657.13"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Berlucchi 61 Brut “Italian",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$97",
+    "bbox": [
+      "471.83",
+      "646.46",
+      "492.48",
+      "656.96"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$97",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "White Wine”",
+    "bbox": [
+      "107.00",
+      "660.88",
+      "181.20",
+      "672.13"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "White Wine”",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Champagne”",
+    "bbox": [
+      "321.50",
+      "660.88",
+      "393.47",
+      "672.13"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne”",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "187 ml (Veneto)",
+    "bbox": [
+      "107.00",
+      "685.46",
+      "180.12",
+      "695.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Franciacorta (Lombardia)",
+    "bbox": [
+      "321.50",
+      "685.46",
+      "442.62",
+      "695.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Vino Bianco",
+    "bbox": [
+      "107.00",
+      "743.51",
+      "208.22",
+      "769.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.pepolino.com/#menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "143.85",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/15",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/20/22, 7:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pepolino Ristorante Italiano | TriBeCa | New York City | NYC",
+    "bbox": [
+      "244.94",
+      "15.70",
+      "458.22",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "HomeRibollAab Gouiatlla Our Chefs",
+    "bbox": [
+      "81.62",
+      "48.71",
+      "237.00",
+      "61.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "M$1e3n.5u0s/$59PRrivoastee’  PFaivreti eRsosesG allery",
+    "bbox": [
+      "259.65",
+      "48.71",
+      "444.67",
+      "61.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$R14e.s5e0r/v$a5tions",
+    "bbox": [
+      "463.10",
+      "48.71",
+      "531.22",
+      "61.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2016/17 “Villa Russiz” (Venezia Giulia)",
+    "bbox": [
+      "107.00",
+      "74.96",
+      "281.88",
+      "85.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2019/20 “Leone de Castris” Salice",
+    "bbox": [
+      "321.50",
+      "74.96",
+      "481.75",
+      "85.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Order Online",
+    "bbox": [
+      "208.17",
+      "92.96",
+      "271.61",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Gift CSaradlesntinoC (Poungtalicat)",
+    "bbox": [
+      "294.27",
+      "92.96",
+      "406.52",
+      "104.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pinot Grigio",
+    "bbox": [
+      "107.00",
+      "159.88",
+      "171.41",
+      "171.13"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Grigio",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$15.50/$59Musa Lugana Still White",
+    "bbox": [
+      "260.60",
+      "159.88",
+      "453.37",
+      "171.13"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15.50/$59",
+            "answer_start": 0
+          }
+        ],
+        "W": [
+          {
+            "text": "Musa Lugana Still White",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$60",
+    "bbox": [
+      "471.23",
+      "160.46",
+      "493.06",
+      "170.96"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Made with Grapes Vegan Friendly",
+    "bbox": [
+      "107.00",
+      "188.96",
+      "268.69",
+      "199.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "100% Trebbiano Grape 2019/20",
+    "bbox": [
+      "321.50",
+      "188.96",
+      "470.58",
+      "199.46"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019/20",
+            "answer_start": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2020/21 “Ecolosi” (Sicilia)",
+    "bbox": [
+      "107.00",
+      "207.71",
+      "223.97",
+      "218.21"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020/21",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "“Buglioni” (Lombardia)",
+    "bbox": [
+      "321.50",
+      "207.71",
+      "428.53",
+      "218.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Vermentino",
+    "bbox": [
+      "107.00",
+      "273.88",
+      "171.70",
+      "285.13"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Vermentino",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$62",
+    "bbox": [
+      "270.83",
+      "274.46",
+      "291.48",
+      "284.96"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$62",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Gewurztraminer DOC",
+    "bbox": [
+      "321.50",
+      "273.88",
+      "437.20",
+      "285.13"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Gewurztraminer DOC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$64",
+    "bbox": [
+      "471.66",
+      "274.46",
+      "492.63",
+      "284.96"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$64",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2019/20 Costamolino “Argiolas”",
+    "bbox": [
+      "107.00",
+      "298.46",
+      "256.50",
+      "308.96"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019/20",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2020/21 ”Cantina Valle Isarco”",
+    "bbox": [
+      "321.50",
+      "298.46",
+      "462.53",
+      "308.96"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020/21",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(Sardegna)",
+    "bbox": [
+      "107.00",
+      "317.21",
+      "158.36",
+      "327.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(Trentino Alto Adige)",
+    "bbox": [
+      "321.50",
+      "317.21",
+      "417.90",
+      "327.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Zibibbo",
+    "bbox": [
+      "107.00",
+      "383.38",
+      "150.27",
+      "394.63"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Zibibbo",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$68",
+    "bbox": [
+      "270.36",
+      "383.96",
+      "291.93",
+      "394.46"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$68",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Gavi La Scolca White",
+    "bbox": [
+      "321.50",
+      "383.38",
+      "433.70",
+      "394.63"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Gavi La Scolca White",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$69",
+    "bbox": [
+      "471.38",
+      "383.96",
+      "492.92",
+      "394.46"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$69",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Label",
+    "bbox": [
+      "321.50",
+      "398.38",
+      "354.34",
+      "409.63"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Label",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "“Donna Fugata” 2019/20 (Sicilia)",
+    "bbox": [
+      "107.00",
+      "407.96",
+      "257.59",
+      "418.46"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019/20",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2019/20 dry white wine “La Scolca”",
+    "bbox": [
+      "321.50",
+      "422.96",
+      "493.76",
+      "433.46"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019/20",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(Piemonte/Liguria)",
+    "bbox": [
+      "321.50",
+      "441.71",
+      "411.18",
+      "452.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Ribolla Gialla Tenuta",
+    "bbox": [
+      "107.00",
+      "507.88",
+      "216.27",
+      "519.13"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Ribolla Gialla Tenuta",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$67",
+    "bbox": [
+      "270.62",
+      "508.46",
+      "291.68",
+      "518.96"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$67",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sauvignon Blanc",
+    "bbox": [
+      "321.50",
+      "507.88",
+      "413.56",
+      "519.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$69",
+    "bbox": [
+      "471.38",
+      "508.46",
+      "492.92",
+      "518.96"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$69",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sant’Helena",
+    "bbox": [
+      "107.00",
+      "522.88",
+      "174.35",
+      "534.13"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sant’Helena",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2018/2019 Monopolio Sanserena",
+    "bbox": [
+      "321.50",
+      "532.46",
+      "478.84",
+      "542.96"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018/2019",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2017/18 “Fantinel” (Friuli Venezia Giulia)",
+    "bbox": [
+      "107.00",
+      "547.46",
+      "290.35",
+      "557.96"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2017/18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "“Fondo Indizeno”(Friuli)",
+    "bbox": [
+      "321.50",
+      "551.21",
+      "429.45",
+      "561.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chardonnay  Monopolio",
+    "bbox": [
+      "107.00",
+      "617.38",
+      "233.64",
+      "628.63"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay  Monopoli",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$72",
+    "bbox": [
+      "271.24",
+      "617.96",
+      "291.06",
+      "628.46"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$72",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Arneis Blange",
+    "bbox": [
+      "321.50",
+      "617.38",
+      "398.38",
+      "628.63"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Arneis Blange",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$79",
+    "bbox": [
+      "471.85",
+      "617.96",
+      "492.45",
+      "628.46"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$79",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sannicola",
+    "bbox": [
+      "107.00",
+      "632.38",
+      "161.88",
+      "643.63"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sannicola",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2018/19 “ Ceretto” (Piemonte)",
+    "bbox": [
+      "321.50",
+      "641.96",
+      "460.75",
+      "652.46"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018/19",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2018/2019” Colli Orientali” (Friuli)",
+    "bbox": [
+      "107.00",
+      "656.96",
+      "260.07",
+      "667.46"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018/2019",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Cervaro Della Sala",
+    "bbox": [
+      "107.00",
+      "723.13",
+      "207.74",
+      "734.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$98",
+    "bbox": [
+      "270.45",
+      "723.71",
+      "291.85",
+      "734.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Terre Alte",
+    "bbox": [
+      "321.50",
+      "723.13",
+      "375.86",
+      "734.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$156",
+    "bbox": [
+      "469.55",
+      "723.71",
+      "494.75",
+      "734.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2019/20 “Castello della Sala”  Antinori",
+    "bbox": [
+      "107.00",
+      "747.71",
+      "285.74",
+      "758.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2017/18 blend of Friulano, Pinot",
+    "bbox": [
+      "321.50",
+      "747.71",
+      "471.85",
+      "758.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://www.pepolino.com/#menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "143.85",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/15",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/20/22, 7:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Pepolino Ristorante Italiano | TriBeCa | New York City | NYC",
+    "bbox": [
+      "244.94",
+      "15.70",
+      "458.22",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "(Umbria)",
+    "bbox": [
+      "107.00",
+      "31.46",
+      "147.73",
+      "41.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Bianco, Sauvignon “Livio Felluga”",
+    "bbox": [
+      "321.50",
+      "31.46",
+      "479.20",
+      "41.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Home",
+    "bbox": [
+      "81.62",
+      "48.71",
+      "111.80",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "About",
+    "bbox": [
+      "134.46",
+      "48.71",
+      "164.64",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Our Chefs",
+    "bbox": [
+      "187.30",
+      "48.71",
+      "237.00",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Menus",
+    "bbox": [
+      "259.65",
+      "48.71",
+      "293.02",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "P(rFivriautlei) Parties",
+    "bbox": [
+      "315.68",
+      "48.71",
+      "386.61",
+      "60.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Gallery",
+    "bbox": [
+      "409.27",
+      "48.71",
+      "444.67",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Reservations",
+    "bbox": [
+      "467.32",
+      "48.71",
+      "531.22",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Order Online",
+    "bbox": [
+      "208.17",
+      "92.96",
+      "271.61",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Gift Cards",
+    "bbox": [
+      "294.27",
+      "92.96",
+      "343.07",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Contact",
+    "bbox": [
+      "365.73",
+      "92.96",
+      "404.67",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Vino Rosso",
+    "bbox": [
+      "107.00",
+      "107.51",
+      "202.46",
+      "133.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Montepulciano D’Abruzzo $13/$58",
+    "bbox": [
+      "107.00",
+      "149.38",
+      "300.75",
+      "160.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Barbera D’Asti",
+    "bbox": [
+      "321.50",
+      "149.38",
+      "399.09",
+      "160.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$15/$62",
+    "bbox": [
+      "463.10",
+      "149.96",
+      "503.08",
+      "160.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Made with organic grapes  2018/19",
+    "bbox": [
+      "107.00",
+      "188.96",
+      "275.17",
+      "199.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "2016/17 “Araldica\" (Piemonte)",
+    "bbox": [
+      "321.50",
+      "188.96",
+      "459.95",
+      "199.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "“Era“  (Abruzzo)",
+    "bbox": [
+      "107.00",
+      "207.71",
+      "181.36",
+      "218.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Chianti Classico Riserva",
+    "bbox": [
+      "107.00",
+      "273.88",
+      "235.52",
+      "285.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$18/$72",
+    "bbox": [
+      "260.60",
+      "274.46",
+      "300.22",
+      "284.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Primitivo Di Medaglione",
+    "bbox": [
+      "321.50",
+      "273.88",
+      "450.51",
+      "285.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$59",
+    "bbox": [
+      "471.69",
+      "274.46",
+      "492.62",
+      "284.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "2016/17  “Alteo” Donna Laura (Toscana)",
+    "bbox": [
+      "107.00",
+      "298.46",
+      "292.29",
+      "308.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "2018/19 Vino da Tavola “Leone de",
+    "bbox": [
+      "321.50",
+      "298.46",
+      "483.83",
+      "308.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Castris’ (Puglia)",
+    "bbox": [
+      "321.50",
+      "317.21",
+      "393.10",
+      "327.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Remole",
+    "bbox": [
+      "107.00",
+      "383.38",
+      "151.02",
+      "394.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$61",
+    "bbox": [
+      "271.38",
+      "383.96",
+      "290.91",
+      "394.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Lambrusco  Red Sparkling$58",
+    "bbox": [
+      "321.50",
+      "383.38",
+      "492.63",
+      "394.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Wine",
+    "bbox": [
+      "323.75",
+      "398.38",
+      "356.73",
+      "409.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "2019/20 Blend of Sangiovese, Cabernet",
+    "bbox": [
+      "107.00",
+      "407.96",
+      "297.62",
+      "418.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "“Villa Castellazzo” (Emilia)",
+    "bbox": [
+      "321.50",
+      "422.96",
+      "441.91",
+      "433.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "& Sauvignon “Frescobaldi” (Toscana)",
+    "bbox": [
+      "107.00",
+      "426.71",
+      "279.09",
+      "437.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Masi Valpolicella Classico",
+    "bbox": [
+      "107.00",
+      "492.88",
+      "246.81",
+      "504.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$65",
+    "bbox": [
+      "270.61",
+      "493.46",
+      "291.70",
+      "503.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Pinot Nero",
+    "bbox": [
+      "321.50",
+      "492.88",
+      "380.25",
+      "504.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$67",
+    "bbox": [
+      "471.62",
+      "493.46",
+      "492.68",
+      "503.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "2018/19 ”Bonacosta” (Veneto)",
+    "bbox": [
+      "107.00",
+      "517.46",
+      "246.89",
+      "527.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "2017/2018 ”Calatroni” (Lombardia)",
+    "bbox": [
+      "321.50",
+      "517.46",
+      "480.73",
+      "527.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Donna Olimpia",
+    "bbox": [
+      "107.00",
+      "583.63",
+      "188.28",
+      "594.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$68",
+    "bbox": [
+      "270.36",
+      "584.21",
+      "291.93",
+      "594.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Rosso Bolgheri Yantra",
+    "bbox": [
+      "321.50",
+      "583.63",
+      "440.99",
+      "594.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$67",
+    "bbox": [
+      "471.62",
+      "584.21",
+      "492.68",
+      "594.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "2018/19 blend of Sauvignon, Merlot &",
+    "bbox": [
+      "107.00",
+      "608.21",
+      "287.34",
+      "618.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "2018/19 60% Cabernet 40% Merlot",
+    "bbox": [
+      "321.50",
+      "608.21",
+      "485.82",
+      "618.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Cabernet Franc “Tageto” (Toscana)",
+    "bbox": [
+      "107.00",
+      "626.96",
+      "269.85",
+      "637.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "”Tenuta Sette Cieli” (Toscana)",
+    "bbox": [
+      "321.50",
+      "626.96",
+      "458.51",
+      "637.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Chianti Classico",
+    "bbox": [
+      "107.00",
+      "693.13",
+      "193.86",
+      "704.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$71",
+    "bbox": [
+      "271.80",
+      "693.71",
+      "290.50",
+      "704.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Vino Nobile Di",
+    "bbox": [
+      "321.50",
+      "693.13",
+      "396.86",
+      "704.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$72",
+    "bbox": [
+      "472.24",
+      "693.71",
+      "492.06",
+      "704.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Montepulciano",
+    "bbox": [
+      "321.50",
+      "708.13",
+      "404.24",
+      "719.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "2018/19 100% Sangiovese “Castello di",
+    "bbox": [
+      "107.00",
+      "717.71",
+      "286.69",
+      "728.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "2015/16 (Podere San Giovanni)",
+    "bbox": [
+      "321.50",
+      "732.71",
+      "466.89",
+      "743.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Volpaia” Chianti (Toscana)",
+    "bbox": [
+      "107.00",
+      "736.46",
+      "228.01",
+      "746.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "(Toscana)",
+    "bbox": [
+      "321.50",
+      "751.46",
+      "366.35",
+      "761.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://www.pepolino.com/#menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "143.85",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/15",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/20/22, 7:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Pepolino Ristorante Italiano | TriBeCa | New York City | NYC",
+    "bbox": [
+      "244.94",
+      "15.70",
+      "458.22",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Home",
+    "bbox": [
+      "81.62",
+      "48.71",
+      "111.80",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "About",
+    "bbox": [
+      "134.46",
+      "48.71",
+      "164.64",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Our Chefs",
+    "bbox": [
+      "187.30",
+      "48.71",
+      "237.00",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Menus",
+    "bbox": [
+      "259.65",
+      "48.71",
+      "293.02",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Private Parties",
+    "bbox": [
+      "315.68",
+      "48.71",
+      "386.61",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Gallery",
+    "bbox": [
+      "409.27",
+      "48.71",
+      "444.67",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Reservations",
+    "bbox": [
+      "467.32",
+      "48.71",
+      "531.22",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Syrah  Le Cretes",
+    "bbox": [
+      "107.00",
+      "82.63",
+      "195.67",
+      "93.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$85",
+    "bbox": [
+      "270.66",
+      "83.21",
+      "291.63",
+      "93.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Chianti Classico  “Peppoli\" $89",
+    "bbox": [
+      "321.50",
+      "82.63",
+      "492.85",
+      "93.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Order Online",
+    "bbox": [
+      "208.17",
+      "92.96",
+      "271.61",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Gift Cards",
+    "bbox": [
+      "294.27",
+      "92.96",
+      "343.07",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Contact",
+    "bbox": [
+      "365.73",
+      "92.96",
+      "404.67",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "2017/18 “Les Cretes” (Valle D”aosta)",
+    "bbox": [
+      "107.00",
+      "107.21",
+      "274.46",
+      "117.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "2018/18 Antinori (Toscana)",
+    "bbox": [
+      "321.50",
+      "107.21",
+      "446.96",
+      "117.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Super Tuscan Lucente",
+    "bbox": [
+      "107.00",
+      "186.88",
+      "228.15",
+      "198.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$95",
+    "bbox": [
+      "270.69",
+      "187.46",
+      "291.62",
+      "197.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Super Tuscan “Daniello”",
+    "bbox": [
+      "321.50",
+      "186.88",
+      "451.54",
+      "198.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$99",
+    "bbox": [
+      "471.46",
+      "187.46",
+      "492.84",
+      "197.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "2018/19 “Frescobaldi” (Toscana)",
+    "bbox": [
+      "107.00",
+      "211.46",
+      "257.43",
+      "221.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "2015/16 Blend of 50% Cabernet 50%",
+    "bbox": [
+      "321.50",
+      "211.46",
+      "494.34",
+      "221.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Sangiovese (Toscana)",
+    "bbox": [
+      "321.50",
+      "230.21",
+      "424.35",
+      "240.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Super Tuscan ”Rocca Di",
+    "bbox": [
+      "107.00",
+      "296.38",
+      "232.49",
+      "307.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$115",
+    "bbox": [
+      "269.64",
+      "296.96",
+      "292.66",
+      "307.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Brunello Di Montalcino",
+    "bbox": [
+      "321.50",
+      "296.38",
+      "442.94",
+      "307.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$135",
+    "bbox": [
+      "469.93",
+      "296.96",
+      "494.36",
+      "307.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Frassinello”",
+    "bbox": [
+      "107.00",
+      "311.38",
+      "171.24",
+      "322.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Riserva",
+    "bbox": [
+      "321.50",
+      "311.38",
+      "363.16",
+      "322.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "2017/18 Sangiovese, Cabernet",
+    "bbox": [
+      "107.00",
+      "335.96",
+      "251.90",
+      "346.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "2015/16 “Vigna Manapetra” (Toscana)",
+    "bbox": [
+      "321.50",
+      "335.96",
+      "497.51",
+      "346.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Sauvignon, Merlot (Toscana)",
+    "bbox": [
+      "107.00",
+      "354.71",
+      "241.44",
+      "365.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Barolo",
+    "bbox": [
+      "107.00",
+      "420.88",
+      "144.56",
+      "432.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$148",
+    "bbox": [
+      "268.68",
+      "421.46",
+      "293.61",
+      "431.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "2016/17 DOCG  “Reva” (Piemonte)",
+    "bbox": [
+      "107.00",
+      "445.46",
+      "266.63",
+      "455.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Private Events",
+    "bbox": [
+      "236.21",
+      "670.80",
+      "376.78",
+      "704.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://www.pepolino.com/#menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "143.85",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/15",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "4/20/22, 7:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Pepolino Ristorante Italiano | TriBeCa | New York City | NYC",
+    "bbox": [
+      "244.94",
+      "15.70",
+      "458.22",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Pepolino restaurant is versatile and perfect for your next event. Whether a birthday, a corporate get-",
+    "bbox": [
+      "51.63",
+      "33.88",
+      "561.37",
+      "45.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Home",
+    "bbox": [
+      "81.62",
+      "48.71",
+      "111.80",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "About",
+    "bbox": [
+      "134.46",
+      "48.71",
+      "164.64",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Our Chefs",
+    "bbox": [
+      "187.30",
+      "48.71",
+      "237.00",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Menus",
+    "bbox": [
+      "259.65",
+      "48.71",
+      "293.02",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Private Parties",
+    "bbox": [
+      "315.68",
+      "48.71",
+      "386.61",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Gallery",
+    "bbox": [
+      "409.27",
+      "48.71",
+      "444.67",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Reservations",
+    "bbox": [
+      "467.32",
+      "48.71",
+      "531.22",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "together or a celebration, let us craft a personal menu to meet your needs, with special wines to",
+    "bbox": [
+      "60.80",
+      "54.13",
+      "552.20",
+      "65.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "compliment your menu selection. We look forward to hosting your next event.",
+    "bbox": [
+      "107.54",
+      "74.38",
+      "508.34",
+      "85.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Order Online",
+    "bbox": [
+      "208.17",
+      "92.96",
+      "271.61",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Gift Cards",
+    "bbox": [
+      "294.27",
+      "92.96",
+      "343.07",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Contact",
+    "bbox": [
+      "365.73",
+      "92.96",
+      "404.67",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Seating Capacity",
+    "bbox": [
+      "262.10",
+      "108.88",
+      "350.89",
+      "120.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "1st Floor: 28 people for sit down dining.",
+    "bbox": [
+      "207.08",
+      "129.88",
+      "408.80",
+      "141.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "2nd Floor: 60 people for sit down dining.",
+    "bbox": [
+      "203.69",
+      "150.13",
+      "412.20",
+      "161.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Please, \u0000ll out the inquiry form and we’ll get back to you shortly. Or, call 212.966.9983",
+    "bbox": [
+      "90.42",
+      "181.63",
+      "525.46",
+      "192.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Your nam",
+    "bbox": [
+      "116.00",
+      "275.21",
+      "162.20",
+      "285.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Your phon",
+    "bbox": [
+      "221.00",
+      "275.21",
+      "270.68",
+      "285.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Your email address",
+    "bbox": [
+      "116.00",
+      "326.96",
+      "208.65",
+      "337.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Date",
+    "bbox": [
+      "116.00",
+      "378.71",
+      "138.73",
+      "389.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Time",
+    "bbox": [
+      "116.00",
+      "430.46",
+      "140.51",
+      "440.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "",
+    "bbox": [
+      "315.87",
+      "451.39",
+      "330.12",
+      "465.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "",
+    "bbox": [
+      "545.37",
+      "451.39",
+      "559.62",
+      "465.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Guests",
+    "bbox": [
+      "116.00",
+      "482.21",
+      "149.66",
+      "492.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Special Notes",
+    "bbox": [
+      "86.00",
+      "533.96",
+      "153.19",
+      "544.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "SUBMIT",
+    "bbox": [
+      "155.62",
+      "633.53",
+      "194.51",
+      "643.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "https://www.pepolino.com/#menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "143.85",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "9/15",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "4/20/22, 7:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Pepolino Ristorante Italiano | TriBeCa | New York City | NYC",
+    "bbox": [
+      "244.94",
+      "15.70",
+      "458.22",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Home",
+    "bbox": [
+      "81.62",
+      "48.71",
+      "111.80",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "About",
+    "bbox": [
+      "134.46",
+      "48.71",
+      "164.64",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Our Chefs",
+    "bbox": [
+      "187.30",
+      "48.71",
+      "237.00",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Menus",
+    "bbox": [
+      "259.65",
+      "48.71",
+      "293.02",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Private Parties",
+    "bbox": [
+      "315.68",
+      "48.71",
+      "386.61",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Gallery",
+    "bbox": [
+      "409.27",
+      "48.71",
+      "444.67",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Reservations",
+    "bbox": [
+      "467.32",
+      "48.71",
+      "531.22",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Order Online",
+    "bbox": [
+      "208.17",
+      "92.96",
+      "271.61",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Gift Cards",
+    "bbox": [
+      "294.27",
+      "92.96",
+      "343.07",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Contact",
+    "bbox": [
+      "365.73",
+      "92.96",
+      "404.67",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Gallery",
+    "bbox": [
+      "271.31",
+      "676.80",
+      "341.69",
+      "710.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "https://www.pepolino.com/#menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "143.85",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "10/15",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "4/20/22, 7:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Pepolino Ristorante Italiano | TriBeCa | New York City | NYC",
+    "bbox": [
+      "244.94",
+      "15.70",
+      "458.22",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Home",
+    "bbox": [
+      "81.62",
+      "48.71",
+      "111.80",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "About",
+    "bbox": [
+      "134.46",
+      "48.71",
+      "164.64",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Our Chefs",
+    "bbox": [
+      "187.30",
+      "48.71",
+      "237.00",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Menus",
+    "bbox": [
+      "259.65",
+      "48.71",
+      "293.02",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Private Parties",
+    "bbox": [
+      "315.68",
+      "48.71",
+      "386.61",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Gallery",
+    "bbox": [
+      "409.27",
+      "48.71",
+      "444.67",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Reservations",
+    "bbox": [
+      "467.32",
+      "48.71",
+      "531.22",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Order Online",
+    "bbox": [
+      "208.17",
+      "92.96",
+      "271.61",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Gift Cards",
+    "bbox": [
+      "294.27",
+      "92.96",
+      "343.07",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Contact",
+    "bbox": [
+      "365.73",
+      "92.96",
+      "404.67",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "https://www.pepolino.com/#menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "143.85",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "11/15",
+    "bbox": [
+      "566.09",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "4/20/22, 7:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Pepolino Ristorante Italiano | TriBeCa | New York City | NYC",
+    "bbox": [
+      "244.94",
+      "15.70",
+      "458.22",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Home",
+    "bbox": [
+      "81.62",
+      "48.71",
+      "111.80",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "About",
+    "bbox": [
+      "134.46",
+      "48.71",
+      "164.64",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Our Chefs",
+    "bbox": [
+      "187.30",
+      "48.71",
+      "237.00",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Menus",
+    "bbox": [
+      "259.65",
+      "48.71",
+      "293.02",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Private Parties",
+    "bbox": [
+      "315.68",
+      "48.71",
+      "386.61",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Gallery",
+    "bbox": [
+      "409.27",
+      "48.71",
+      "444.67",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Reservations",
+    "bbox": [
+      "467.32",
+      "48.71",
+      "531.22",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Order Online",
+    "bbox": [
+      "208.17",
+      "92.96",
+      "271.61",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Gift Cards",
+    "bbox": [
+      "294.27",
+      "92.96",
+      "343.07",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Contact",
+    "bbox": [
+      "365.73",
+      "92.96",
+      "404.67",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "https://www.pepolino.com/#menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "143.85",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "12/15",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "4/20/22, 7:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Pepolino Ristorante Italiano | TriBeCa | New York City | NYC",
+    "bbox": [
+      "244.94",
+      "15.70",
+      "458.22",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Home",
+    "bbox": [
+      "81.62",
+      "48.71",
+      "111.80",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "About",
+    "bbox": [
+      "134.46",
+      "48.71",
+      "164.64",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Our Chefs",
+    "bbox": [
+      "187.30",
+      "48.71",
+      "237.00",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Menus",
+    "bbox": [
+      "259.65",
+      "48.71",
+      "293.02",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Private Parties",
+    "bbox": [
+      "315.68",
+      "48.71",
+      "386.61",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Gallery",
+    "bbox": [
+      "409.27",
+      "48.71",
+      "444.67",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Reservations",
+    "bbox": [
+      "467.32",
+      "48.71",
+      "531.22",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Order Online",
+    "bbox": [
+      "208.17",
+      "92.96",
+      "271.61",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Gift Cards",
+    "bbox": [
+      "294.27",
+      "92.96",
+      "343.07",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Contact",
+    "bbox": [
+      "365.73",
+      "92.96",
+      "404.67",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "https://www.pepolino.com/#menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "143.85",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "13/15",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "4/20/22, 7:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Pepolino Ristorante Italiano | TriBeCa | New York City | NYC",
+    "bbox": [
+      "244.94",
+      "15.70",
+      "458.22",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Home",
+    "bbox": [
+      "81.62",
+      "48.71",
+      "111.80",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "About",
+    "bbox": [
+      "134.46",
+      "48.71",
+      "164.64",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Our Chefs",
+    "bbox": [
+      "187.30",
+      "48.71",
+      "237.00",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Menus",
+    "bbox": [
+      "259.65",
+      "48.71",
+      "293.02",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Private Parties",
+    "bbox": [
+      "315.68",
+      "48.71",
+      "386.61",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Gallery",
+    "bbox": [
+      "409.27",
+      "48.71",
+      "444.67",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Reservations",
+    "bbox": [
+      "467.32",
+      "48.71",
+      "531.22",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Order Online",
+    "bbox": [
+      "208.17",
+      "92.96",
+      "271.61",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Gift Cards",
+    "bbox": [
+      "294.27",
+      "92.96",
+      "343.07",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Contact",
+    "bbox": [
+      "365.73",
+      "92.96",
+      "404.67",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Contact U",
+    "bbox": [
+      "249.16",
+      "398.55",
+      "355.07",
+      "432.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "s",
+    "bbox": [
+      "355.07",
+      "398.55",
+      "363.84",
+      "432.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "https://www.pepolino.com/#menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "143.85",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "14/15",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "4/20/22, 7:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Pepolino Ristorante Italiano | TriBeCa | New York City | NYC",
+    "bbox": [
+      "244.94",
+      "15.70",
+      "458.22",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Home",
+    "bbox": [
+      "81.62",
+      "48.71",
+      "111.80",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "About",
+    "bbox": [
+      "134.46",
+      "48.71",
+      "164.64",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Our Chefs",
+    "bbox": [
+      "187.30",
+      "48.71",
+      "237.00",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Menus",
+    "bbox": [
+      "259.65",
+      "48.71",
+      "293.02",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Private Parties",
+    "bbox": [
+      "315.68",
+      "48.71",
+      "386.61",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Gallery",
+    "bbox": [
+      "409.27",
+      "48.71",
+      "444.67",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Reservations",
+    "bbox": [
+      "467.32",
+      "48.71",
+      "531.22",
+      "59.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Order Online",
+    "bbox": [
+      "208.17",
+      "92.96",
+      "271.61",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Gift Cards",
+    "bbox": [
+      "294.27",
+      "92.96",
+      "343.07",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Contact",
+    "bbox": [
+      "365.73",
+      "92.96",
+      "404.67",
+      "103.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Copyright © 2021 Pepolino Ristorante",
+    "bbox": [
+      "222.30",
+      "347.96",
+      "392.96",
+      "358.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Pepolino Italian Restaurant in Tribeca, NYC",
+    "bbox": [
+      "212.37",
+      "367.86",
+      "402.89",
+      "376.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Web Design by Red Pepper Media | New York City",
+    "bbox": [
+      "196.60",
+      "386.61",
+      "416.18",
+      "395.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "https://www.pepolino.com/#menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "143.85",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "15/15",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

@@ -1,0 +1,2334 @@
+[
+  {
+    "page_number": 1,
+    "text": "Drink Menu – Steakhouse Las Vegas",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "148.01",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://primalsteakhouse.com/drink-menu/",
+    "bbox": [
+      "672.39",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PRIMAL",
+    "bbox": [
+      "257.30",
+      "58.54",
+      "284.14",
+      "64.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "OUR MENU",
+    "bbox": [
+      "310.71",
+      "58.54",
+      "350.00",
+      "64.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DRINK MENU",
+    "bbox": [
+      "376.56",
+      "58.54",
+      "424.21",
+      "64.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CONTACT US",
+    "bbox": [
+      "450.78",
+      "58.54",
+      "496.75",
+      "64.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MEET THE CHEF",
+    "bbox": [
+      "523.32",
+      "58.54",
+      "582.44",
+      "64.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "By the glass or bottle",
+    "bbox": [
+      "378.22",
+      "112.40",
+      "463.43",
+      "120.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RED WINES",
+    "bbox": [
+      "376.91",
+      "131.08",
+      "462.19",
+      "143.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PIATELLI VINEYARDS RESERVE MALBEC",
+    "bbox": [
+      "173.50",
+      "176.78",
+      "365.03",
+      "184.43"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "PIATELLI VINEYARDS RESERVE MALBEC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$12",
+    "bbox": [
+      "385.92",
+      "176.16",
+      "401.84",
+      "184.71"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$12",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Argentina 2020 (Bottle $46)",
+    "bbox": [
+      "173.50",
+      "189.77",
+      "278.44",
+      "198.32"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Argentina",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TRUE GRIT RESERVE PETITE SYRAH",
+    "bbox": [
+      "439.90",
+      "199.03",
+      "610.32",
+      "206.68"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "TRUE GRIT RESERVE PETITE SYRAH",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$12",
+    "bbox": [
+      "652.32",
+      "198.40",
+      "668.24",
+      "206.95"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$12",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "California 2019 (Bottle $48)",
+    "bbox": [
+      "439.90",
+      "212.02",
+      "541.86",
+      "220.57"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 11
+          }
+        ],
+        "w": [
+          {
+            "text": "California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "NOBLE VINES 181",
+    "bbox": [
+      "173.50",
+      "221.28",
+      "262.80",
+      "228.93"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "NOBLE VINES 181",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$14",
+    "bbox": [
+      "385.75",
+      "220.65",
+      "401.84",
+      "229.20"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "California 2018 (Bottle $56)",
+    "bbox": [
+      "173.50",
+      "234.27",
+      "275.54",
+      "242.82"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SEA SUN PINOT NOIR",
+    "bbox": [
+      "439.90",
+      "243.53",
+      "544.91",
+      "251.18"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "SEA SUN PINOT NOIR",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$14",
+    "bbox": [
+      "652.15",
+      "242.90",
+      "668.24",
+      "251.45"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$14",
+            "answer_start": 0
+          }
+        ],
+        "w": [
+          {
+            "text": "$14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "California 2019 (Bottle $56)",
+    "bbox": [
+      "439.90",
+      "256.52",
+      "542.07",
+      "265.07"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 11
+          }
+        ],
+        "w": [
+          {
+            "text": "California 2019 (Bottle $56)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "JUGGERNAUT CAB",
+    "bbox": [
+      "173.50",
+      "265.78",
+      "262.26",
+      "273.43"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "JUGGERNAUT CAB",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$12",
+    "bbox": [
+      "385.92",
+      "265.15",
+      "401.84",
+      "273.70"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$12",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "California (Bottle $50)",
+    "bbox": [
+      "173.50",
+      "278.77",
+      "256.97",
+      "287.32"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "California (Bottle $50)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RISSATTA SWEET RED",
+    "bbox": [
+      "439.90",
+      "288.02",
+      "542.13",
+      "295.67"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "RISSATTA SWEET RED",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$11",
+    "bbox": [
+      "651.83",
+      "287.40",
+      "668.24",
+      "295.95"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$11",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Italy (Bottle $42)",
+    "bbox": [
+      "439.90",
+      "301.01",
+      "502.44",
+      "309.56"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Italy (Bottle $42)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "J LOHR CAB",
+    "bbox": [
+      "173.50",
+      "310.28",
+      "232.22",
+      "317.93"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "J LOHR CAB",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$14",
+    "bbox": [
+      "385.75",
+      "309.65",
+      "401.84",
+      "318.20"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "California (Bottle $56)",
+    "bbox": [
+      "173.50",
+      "323.27",
+      "256.20",
+      "331.82"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "California (Bottle $56)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PASSIMENTO RED BLEND",
+    "bbox": [
+      "439.90",
+      "332.52",
+      "558.62",
+      "340.17"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "PASSIMENTO RED BLEND",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$14",
+    "bbox": [
+      "652.15",
+      "331.89",
+      "668.24",
+      "340.44"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Italy (Bottle $56)",
+    "bbox": [
+      "439.90",
+      "345.51",
+      "502.71",
+      "354.06"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Italy (Bottle $56)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CLAY SHANNON CAB",
+    "bbox": [
+      "173.50",
+      "354.77",
+      "275.44",
+      "362.42"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "CLAY SHANNON CAB",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$20",
+    "bbox": [
+      "386.49",
+      "354.15",
+      "401.84",
+      "362.70"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$20",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "California 2018 (Bottle $80)",
+    "bbox": [
+      "173.50",
+      "367.76",
+      "276.20",
+      "376.31"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "California 2018 (Bottle $80)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "By the glass or bottle",
+    "bbox": [
+      "378.22",
+      "482.90",
+      "463.43",
+      "491.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE WINES",
+    "bbox": [
+      "367.63",
+      "501.58",
+      "471.47",
+      "514.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RISSATA MOSCATO",
+    "bbox": [
+      "173.50",
+      "547.28",
+      "267.49",
+      "554.93"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "RISSATA MOSCATO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$10",
+    "bbox": [
+      "386.00",
+      "546.66",
+      "401.84",
+      "555.21"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$10",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TWENTY ACRES VINTAGE CHARDONNAY",
+    "bbox": [
+      "439.90",
+      "547.28",
+      "634.43",
+      "554.93"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "TWENTY ACRES VINTAGE CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$14",
+    "bbox": [
+      "652.15",
+      "546.66",
+      "668.24",
+      "555.21"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1 av 4",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "24.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2022-04-13 15:31",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Drink Menu – Steakhouse Las Vegas",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "148.01",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://primalsteakhouse.com/drink-menu/",
+    "bbox": [
+      "672.39",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Italy 2020 (Bottle $40)",
+    "bbox": [
+      "173.50",
+      "38.21",
+      "258.88",
+      "46.76"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Clarksburg 2019 (Bottle $53)",
+    "bbox": [
+      "439.90",
+      "38.21",
+      "545.69",
+      "46.76"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DR. LOOSEN RIESLING",
+    "bbox": [
+      "173.50",
+      "69.72",
+      "282.49",
+      "77.37"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "DR. LOOSEN RIESLING",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$10",
+    "bbox": [
+      "386.00",
+      "69.09",
+      "401.84",
+      "77.64"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$10",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "A TO Z CHARDONNAY",
+    "bbox": [
+      "439.90",
+      "69.72",
+      "548.23",
+      "77.37"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "A TO Z CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$11",
+    "bbox": [
+      "651.83",
+      "69.09",
+      "668.24",
+      "77.64"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$11",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Germany 2017 (Bottle $40)",
+    "bbox": [
+      "173.50",
+      "82.71",
+      "273.40",
+      "91.26"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Oregon 2018 (Bottle $44)",
+    "bbox": [
+      "439.90",
+      "82.71",
+      "534.13",
+      "91.26"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WHITE HAVEN SAUVIGNON BLANC",
+    "bbox": [
+      "173.50",
+      "114.22",
+      "339.32",
+      "121.87"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "WHITE HAVEN SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$10",
+    "bbox": [
+      "386.00",
+      "113.59",
+      "401.84",
+      "122.14"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$10",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BORGO MAGREDO PINOT GRIGIO",
+    "bbox": [
+      "439.90",
+      "114.22",
+      "607.20",
+      "121.87"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "BORGO MAGREDO PINOT GRIGIO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$12",
+    "bbox": [
+      "652.32",
+      "113.59",
+      "668.24",
+      "122.14"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$12",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "New Zealand 2020 (Bottle $40)",
+    "bbox": [
+      "173.50",
+      "127.21",
+      "293.44",
+      "135.76"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "California 2019 (Bottle $48)",
+    "bbox": [
+      "439.90",
+      "127.21",
+      "541.86",
+      "135.76"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RESERVE WINES",
+    "bbox": [
+      "356.78",
+      "242.58",
+      "482.31",
+      "255.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CAKEBREAD CHARDONNAY",
+    "bbox": [
+      "173.50",
+      "287.53",
+      "302.75",
+      "295.18"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "CAKEBREAD CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "STERLING CAB",
+    "bbox": [
+      "439.90",
+      "287.53",
+      "510.18",
+      "295.18"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "STERLING CAB",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "California 2020",
+    "bbox": [
+      "173.50",
+      "300.36",
+      "230.99",
+      "308.91"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 11
+          }
+        ],
+        "w": [
+          {
+            "text": "California 2020",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Napa Valley 2017",
+    "bbox": [
+      "439.90",
+      "300.36",
+      "504.74",
+      "308.91"
+    ],
+    "annots": [
+      {
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 12
+          }
+        ],
+        "w": [
+          {
+            "text": "Napa Valley 2017",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SONOMA CUTRER PINOT NOIR",
+    "bbox": [
+      "173.50",
+      "331.12",
+      "324.18",
+      "338.77"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "SONOMA CUTRER PINOT NOIR",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CAYMUS CAB",
+    "bbox": [
+      "439.90",
+      "331.12",
+      "505.18",
+      "338.77"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "CAYMUS CAB",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "California 2020",
+    "bbox": [
+      "173.50",
+      "343.95",
+      "230.99",
+      "352.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "California 2020",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "California 2019",
+    "bbox": [
+      "439.90",
+      "343.95",
+      "494.98",
+      "352.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "California 2019",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TERRAZAS MALBEC",
+    "bbox": [
+      "173.50",
+      "374.71",
+      "266.96",
+      "382.36"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "TERRAZAS MALBEC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TIGANELLO",
+    "bbox": [
+      "439.90",
+      "374.71",
+      "494.40",
+      "382.36"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "TIGANELLO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Argentina 2017",
+    "bbox": [
+      "173.50",
+      "387.54",
+      "228.56",
+      "396.09"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Argentina 2017",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Italy 2017",
+    "bbox": [
+      "439.90",
+      "387.54",
+      "474.63",
+      "396.09"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Italy 2017",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ORIN SWIFT RED BLEND",
+    "bbox": [
+      "173.50",
+      "418.30",
+      "287.49",
+      "425.95"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "ORIN SWIFT RED BLEND",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LEVIATHAN RED BLEND",
+    "bbox": [
+      "439.90",
+      "418.30",
+      "549.49",
+      "425.95"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "LEVIATHAN RED BLEND",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "California 2018",
+    "bbox": [
+      "173.50",
+      "431.13",
+      "228.45",
+      "439.68"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "California 2018",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "California 2020",
+    "bbox": [
+      "439.90",
+      "431.13",
+      "497.39",
+      "439.68"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "California 2020",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2 av 4",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "24.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2022-04-13 15:31",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Drink Menu – Steakhouse Las Vegas",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "148.01",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://primalsteakhouse.com/drink-menu/",
+    "bbox": [
+      "672.39",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Specialty",
+    "bbox": [
+      "403.01",
+      "39.95",
+      "438.65",
+      "48.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "COCKTAILS",
+    "bbox": [
+      "372.88",
+      "58.63",
+      "466.21",
+      "71.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "VIKING PUNCH",
+    "bbox": [
+      "173.50",
+      "104.33",
+      "244.84",
+      "111.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$16",
+    "bbox": [
+      "385.99",
+      "103.71",
+      "401.84",
+      "112.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "GUILLOTINE SMASH",
+    "bbox": [
+      "439.90",
+      "104.33",
+      "535.48",
+      "111.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$14",
+    "bbox": [
+      "652.15",
+      "103.71",
+      "668.24",
+      "112.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Kettle One Peach OB, Apricot, Cranberry, OJ, Sour Mix,",
+    "bbox": [
+      "173.50",
+      "117.32",
+      "377.80",
+      "125.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bu�alo Trace, Lime Juice, Simple, Mint Leaves, Blackberries -",
+    "bbox": [
+      "439.90",
+      "117.32",
+      "660.91",
+      "125.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Absinthe",
+    "bbox": [
+      "173.50",
+      "130.37",
+      "205.11",
+      "138.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "by Arianna",
+    "bbox": [
+      "439.90",
+      "130.37",
+      "480.41",
+      "138.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "KINGS ELIXOR",
+    "bbox": [
+      "173.50",
+      "161.88",
+      "242.95",
+      "169.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$16",
+    "bbox": [
+      "385.99",
+      "161.25",
+      "401.84",
+      "169.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "EMERALD SERPENT",
+    "bbox": [
+      "439.90",
+      "161.88",
+      "529.57",
+      "169.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$16",
+    "bbox": [
+      "652.39",
+      "161.25",
+      "668.24",
+      "169.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Smoke Wagon Straight Bourbon Whiskey, Hella Citrus bitters,",
+    "bbox": [
+      "173.50",
+      "174.87",
+      "397.45",
+      "183.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "DeLeon Blanco, Sage Syrup, Lime Juice, Jalapeno - by",
+    "bbox": [
+      "439.90",
+      "174.87",
+      "636.84",
+      "183.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Demerara Syrup - by Eddie",
+    "bbox": [
+      "173.50",
+      "187.92",
+      "274.02",
+      "196.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Jhovanny",
+    "bbox": [
+      "439.90",
+      "187.92",
+      "472.55",
+      "196.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CROWN JEWEL",
+    "bbox": [
+      "173.50",
+      "219.43",
+      "243.90",
+      "227.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$15",
+    "bbox": [
+      "385.90",
+      "218.80",
+      "401.84",
+      "227.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "FAIRY'S KISS",
+    "bbox": [
+      "439.90",
+      "219.43",
+      "501.99",
+      "227.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$10",
+    "bbox": [
+      "652.39",
+      "218.80",
+      "668.24",
+      "227.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Empress Gin, Lemon Juice, Lavender Syrup - by Tabitha",
+    "bbox": [
+      "173.50",
+      "232.42",
+      "376.46",
+      "240.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Strawberries, Basil, OJ, Pineapple, Lemon, Simple, Soda",
+    "bbox": [
+      "439.90",
+      "232.42",
+      "642.12",
+      "240.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Water, Sprite - by Jhovanny",
+    "bbox": [
+      "439.90",
+      "245.47",
+      "539.89",
+      "254.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MIST OF BABYLON",
+    "bbox": [
+      "173.50",
+      "263.93",
+      "264.59",
+      "271.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$15",
+    "bbox": [
+      "385.90",
+      "263.30",
+      "401.84",
+      "271.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Diplomatico Planas, Malibu, Cointreau, OJ, Simple, Egg White",
+    "bbox": [
+      "173.50",
+      "276.92",
+      "400.48",
+      "285.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MIDIEVAL SANGRIA",
+    "bbox": [
+      "439.90",
+      "276.98",
+      "533.51",
+      "284.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$11",
+    "bbox": [
+      "651.83",
+      "276.35",
+      "668.24",
+      "284.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "- by Eddie",
+    "bbox": [
+      "173.50",
+      "289.97",
+      "211.18",
+      "298.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Red Wine, Kettle One, Fresh Fruit Infusions - by Jhovanny",
+    "bbox": [
+      "439.90",
+      "289.97",
+      "647.70",
+      "298.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Craft and Lager",
+    "bbox": [
+      "389.68",
+      "449.65",
+      "451.97",
+      "458.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BEER LIST",
+    "bbox": [
+      "380.27",
+      "468.34",
+      "458.82",
+      "480.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MICHELOB ULTRA",
+    "bbox": [
+      "173.50",
+      "514.04",
+      "258.62",
+      "521.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$7",
+    "bbox": [
+      "392.15",
+      "513.41",
+      "401.84",
+      "521.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "GUINNESS",
+    "bbox": [
+      "439.90",
+      "514.04",
+      "487.73",
+      "521.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$8",
+    "bbox": [
+      "658.59",
+      "513.41",
+      "668.25",
+      "521.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "FAT TIRE AMBER ALE",
+    "bbox": [
+      "173.50",
+      "543.68",
+      "274.89",
+      "551.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$8",
+    "bbox": [
+      "392.19",
+      "543.06",
+      "401.85",
+      "551.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TENAYA CREEK HEFEWEISSEN",
+    "bbox": [
+      "439.90",
+      "543.68",
+      "582.64",
+      "551.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$8",
+    "bbox": [
+      "658.59",
+      "543.06",
+      "668.25",
+      "551.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3 av 4",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "24.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2022-04-13 15:31",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Drink Menu – Steakhouse Las Vegas",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "148.01",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://primalsteakhouse.com/drink-menu/",
+    "bbox": [
+      "672.39",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MODELO ESPECIAL",
+    "bbox": [
+      "173.50",
+      "44.67",
+      "267.00",
+      "52.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$8",
+    "bbox": [
+      "392.19",
+      "44.04",
+      "401.85",
+      "52.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PERONI",
+    "bbox": [
+      "439.90",
+      "44.67",
+      "475.37",
+      "52.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$9",
+    "bbox": [
+      "658.60",
+      "44.04",
+      "668.24",
+      "52.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SAMMY SEASONAL",
+    "bbox": [
+      "173.50",
+      "74.32",
+      "264.94",
+      "81.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$8",
+    "bbox": [
+      "392.19",
+      "73.69",
+      "401.85",
+      "82.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "DOG FISH 60 MINUTE IPA",
+    "bbox": [
+      "439.90",
+      "74.32",
+      "566.16",
+      "81.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$9",
+    "bbox": [
+      "658.60",
+      "73.69",
+      "668.24",
+      "82.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BLUE MOON",
+    "bbox": [
+      "173.50",
+      "103.97",
+      "232.85",
+      "111.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$8",
+    "bbox": [
+      "392.19",
+      "103.34",
+      "401.85",
+      "111.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "NINKASA TRICERAHOPS DBL IPA",
+    "bbox": [
+      "439.90",
+      "103.97",
+      "596.69",
+      "111.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$9",
+    "bbox": [
+      "658.60",
+      "103.34",
+      "668.24",
+      "111.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4 av 4",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "24.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2022-04-13 15:31",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

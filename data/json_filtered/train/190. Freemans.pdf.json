@@ -1,0 +1,3070 @@
+[
+  {
+    "page_number": 1,
+    "text": "HOME (/#HOME-SECTION) RESTAURANT (/#RESTAURANT-SECTION) MENU (/#AL-FRESCO-MENU-SECTION)",
+    "bbox": [
+      "66.30",
+      "20.00",
+      "543.70",
+      "27.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DRINKS (/#DRINKS-SECTION) RESERVATIONS (/#RESERVATIONS-OUTSIDE-SECTION) ONLINE SHOP (/SHOP)",
+    "bbox": [
+      "64.34",
+      "37.50",
+      "545.66",
+      "44.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HOME (/#HOME-SECTION) RESTAURANT (/#RESTAURANT-SECTION) MENU (/#AL-FRESCO-MENU-SECTION)",
+    "bbox": [
+      "66.02",
+      "50.00",
+      "543.98",
+      "58.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GIFT CARDS (HTTP://WWW.FREEMANSRESTAURANT.COM/SHOP/FREEMANS-RESTAURANT-GIFT-CARD/)",
+    "bbox": [
+      "86.99",
+      "55.00",
+      "523.01",
+      "62.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DRINKS (/#DRINKS-SECTION) RESERVATIONS (/#RESERVATIONS-OUTSIDE-SECTION) ONLINE SHOP (/SHOP)",
+    "bbox": [
+      "64.05",
+      "67.50",
+      "545.94",
+      "75.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PRIVATE DINING (/PRIVATE-DINING) BANZARBAR (HTTP://WWW.BANZARBAR.COM)",
+    "bbox": [
+      "124.06",
+      "72.50",
+      "485.93",
+      "79.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GIFT CARDS (HTTP://WWW.FREEMANSRESTAURANT.COM/SHOP/FREEMANS-RESTAURANT-GIFT-CARD/)",
+    "bbox": [
+      "86.99",
+      "85.00",
+      "523.01",
+      "92.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ORDER DELIVERY (HTTPS://WWW.TRYCAVIAR.COM/STORE/1079812?",
+    "bbox": [
+      "160.49",
+      "90.00",
+      "449.51",
+      "97.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DELIVERY=TRUE&UTM_CAMPAIGN=1079812&UTM_MEDIUM=WEBSITE&UTM_SOURCE=PARTNER-LINK)",
+    "bbox": [
+      "96.55",
+      "97.00",
+      "513.45",
+      "104.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PRIVATE DINING (/PRIVATE-DINING) BANZARBAR (HTTP://WWW.BANZARBAR.COM)",
+    "bbox": [
+      "123.92",
+      "102.50",
+      "486.07",
+      "110.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ORDER DELIVERY (HTTPS://WWW.TRYCAVIAR.COM/STORE/1079812?",
+    "bbox": [
+      "160.49",
+      "120.00",
+      "449.51",
+      "127.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DELIVERY=TRUE&UTM_CAMPAIGN=1079812&UTM_MEDIUM=WEBSITE&UTM_SOURCE=PARTNER-LINK)",
+    "bbox": [
+      "96.55",
+      "127.00",
+      "513.45",
+      "134.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HOURS",
+    "bbox": [
+      "270.41",
+      "509.50",
+      "302.56",
+      "517.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CONTACT",
+    "bbox": [
+      "444.73",
+      "509.50",
+      "488.27",
+      "517.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Down the",
+    "bbox": [
+      "52.50",
+      "513.56",
+      "141.46",
+      "532.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Brunch",
+    "bbox": [
+      "270.41",
+      "529.50",
+      "297.33",
+      "537.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(212) 420-0012",
+    "bbox": [
+      "444.73",
+      "529.50",
+      "497.45",
+      "537.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Alleyway...",
+    "bbox": [
+      "52.50",
+      "534.56",
+      "146.40",
+      "553.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Everyday 11:00AM to 4:00PM",
+    "bbox": [
+      "270.41",
+      "541.50",
+      "377.50",
+      "549.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Please note that office hours",
+    "bbox": [
+      "444.73",
+      "549.00",
+      "550.78",
+      "556.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "In the fall of 2004, we happened upon a",
+    "bbox": [
+      "52.50",
+      "560.00",
+      "198.80",
+      "567.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dinner",
+    "bbox": [
+      "270.41",
+      "561.00",
+      "297.13",
+      "568.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "are curtailed so we might not",
+    "bbox": [
+      "444.73",
+      "561.00",
+      "552.71",
+      "568.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "perfect cozy space at the end of an",
+    "bbox": [
+      "52.50",
+      "572.00",
+      "182.89",
+      "579.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sun to Mon 6:00PM to",
+    "bbox": [
+      "270.41",
+      "573.00",
+      "352.17",
+      "580.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "be able to answer the phone.",
+    "bbox": [
+      "444.73",
+      "573.00",
+      "552.01",
+      "580.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "unused alley off the Bowery, and",
+    "bbox": [
+      "52.50",
+      "584.00",
+      "173.36",
+      "591.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "10:00PM",
+    "bbox": [
+      "270.41",
+      "585.00",
+      "302.14",
+      "592.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Please email us at:",
+    "bbox": [
+      "444.73",
+      "585.00",
+      "513.35",
+      "592.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Freemans Restaurant was born.",
+    "bbox": [
+      "52.50",
+      "596.00",
+      "170.45",
+      "603.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tues to Sat 6:00PM to",
+    "bbox": [
+      "270.41",
+      "597.00",
+      "351.90",
+      "604.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "reservations@freemansrestaur",
+    "bbox": [
+      "444.73",
+      "597.00",
+      "557.32",
+      "604.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "11:00PM",
+    "bbox": [
+      "270.41",
+      "609.00",
+      "301.24",
+      "616.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ant.com",
+    "bbox": [
+      "444.73",
+      "609.00",
+      "474.02",
+      "616.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "The idea of the restaurant was to make a",
+    "bbox": [
+      "52.50",
+      "615.50",
+      "202.87",
+      "623.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(mailto:reservations@freeman",
+    "bbox": [
+      "444.73",
+      "621.00",
+      "554.57",
+      "628.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "rugged clandestine colonial American",
+    "bbox": [
+      "52.50",
+      "627.50",
+      "193.16",
+      "635.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "srestaurant.com)",
+    "bbox": [
+      "444.73",
+      "633.00",
+      "506.35",
+      "640.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tavern.",
+    "bbox": [
+      "52.50",
+      "639.50",
+      "78.57",
+      "647.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Location",
+    "bbox": [
+      "444.73",
+      "652.50",
+      "476.52",
+      "660.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "The cuisine was also imagined to early",
+    "bbox": [
+      "52.50",
+      "659.00",
+      "197.07",
+      "666.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Freemans is back open today",
+    "bbox": [
+      "270.41",
+      "657.50",
+      "378.30",
+      "665.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "American: Simple, Rustic, and inspired by",
+    "bbox": [
+      "52.50",
+      "671.00",
+      "204.22",
+      "678.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "12/28/21 for after a holiday",
+    "bbox": [
+      "270.41",
+      "669.50",
+      "371.70",
+      "677.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "END of Freemans Alley",
+    "bbox": [
+      "444.73",
+      "672.00",
+      "529.64",
+      "679.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Old World traditions.",
+    "bbox": [
+      "52.50",
+      "683.00",
+      "128.62",
+      "690.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "break. Per NYC mandate, we",
+    "bbox": [
+      "270.41",
+      "681.50",
+      "375.07",
+      "689.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "require proof of COVID-19",
+    "bbox": [
+      "270.41",
+      "693.50",
+      "365.57",
+      "701.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Freemans Alley is off",
+    "bbox": [
+      "444.73",
+      "691.50",
+      "521.91",
+      "699.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "COVID-19 UPDATE",
+    "bbox": [
+      "52.50",
+      "706.00",
+      "135.99",
+      "714.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "vacci…",
+    "bbox": [
+      "270.41",
+      "705.50",
+      "293.28",
+      "713.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rivington Street between",
+    "bbox": [
+      "444.73",
+      "703.50",
+      "538.37",
+      "711.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://t.co/WXLExE5XX5",
+    "bbox": [
+      "270.41",
+      "717.50",
+      "366.89",
+      "725.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chrystie and the Bowery on",
+    "bbox": [
+      "444.73",
+      "715.50",
+      "546.39",
+      "723.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Freemans is open and per NYC mandate",
+    "bbox": [
+      "52.50",
+      "725.50",
+      "201.00",
+      "733.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(https://t.co/WXLExE5XX5)",
+    "bbox": [
+      "270.41",
+      "729.50",
+      "371.54",
+      "737.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "the Lower East Side of New",
+    "bbox": [
+      "444.73",
+      "727.50",
+      "546.21",
+      "735.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "requires proof of COVID-19 vaccination for",
+    "bbox": [
+      "52.50",
+      "737.50",
+      "208.15",
+      "745.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "York City.",
+    "bbox": [
+      "444.73",
+      "739.50",
+      "478.47",
+      "747.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dec 28, 2021, 9:26 AM",
+    "bbox": [
+      "270.41",
+      "743.00",
+      "334.67",
+      "749.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "all guests dining indoors.",
+    "bbox": [
+      "52.50",
+      "749.50",
+      "144.66",
+      "757.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(https://twitter.com/FreemansAlley/status/1475835619578363913)",
+    "bbox": [
+      "270.41",
+      "755.50",
+      "470.67",
+      "761.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HOME (/#HOME-SECTION) RESTAURANT (/#RESTAURANT-SECTION) MENU (/#AL-FRESCO-MENU-SECTION)",
+    "bbox": [
+      "66.30",
+      "20.00",
+      "543.70",
+      "27.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DRINKS (/#DRINKS-SECTION) RESERVATIONS (/#RESERVATIONS-OUTSIDE-SECTION) ON(HLTITNPES :S/H/WOPW W(/.GSOHOOGPL)E.COM/MAPS/",
+    "bbox": [
+      "64.34",
+      "35.50",
+      "599.61",
+      "44.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GIFT CARDS (HTTP://WWW.FREEMANSRESTAURANT.COM/SHOP/FREEMANS-RESTAURANT-GIFT-CARD/)",
+    "bbox": [
+      "86.99",
+      "55.00",
+      "523.01",
+      "62.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PRIVATE DINING (/PRIVATE-DINING) BANZARBAR (HTTP://WWW.BANZARBAR.COM)",
+    "bbox": [
+      "124.06",
+      "72.50",
+      "485.93",
+      "79.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PURCHASE GIFT",
+    "bbox": [
+      "471.79",
+      "81.50",
+      "530.43",
+      "87.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ORDER DELIVERY (HTTPS://WWW.TRYCAVIAR.COM/STORE/1079812?",
+    "bbox": [
+      "160.49",
+      "90.00",
+      "449.51",
+      "97.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CARDS",
+    "bbox": [
+      "489.10",
+      "88.50",
+      "513.11",
+      "94.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DELIVERY=TRUE&UTM_CAMPAIGN=1079812&UTM_MEDIUM=WEBSITE&UTM_SOURCE=PAR(T/NSHEORP-/LFINREKE)MANS-",
+    "bbox": [
+      "96.55",
+      "95.50",
+      "538.80",
+      "104.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RESTAURANT-GIFT-",
+    "bbox": [
+      "465.25",
+      "102.50",
+      "536.97",
+      "108.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CARD)",
+    "bbox": [
+      "490.09",
+      "109.50",
+      "512.12",
+      "115.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ORDER DELIVERY (HTTPS",
+    "bbox": [
+      "504.85",
+      "148.50",
+      "597.65",
+      "154.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DELIVERY=TRUE&UTM_CAMPAIGN=107",
+    "bbox": [
+      "458.73",
+      "155.50",
+      "598.83",
+      "161.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "",
+    "bbox": [
+      "18.00",
+      "385.50",
+      "30.00",
+      "397.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "",
+    "bbox": [
+      "581.00",
+      "385.50",
+      "593.00",
+      "397.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Fall 2021 Menu",
+    "bbox": [
+      "242.48",
+      "639.05",
+      "368.52",
+      "658.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DinnerBrunchDessert",
+    "bbox": [
+      "251.84",
+      "673.75",
+      "358.95",
+      "682.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "STARTERS",
+    "bbox": [
+      "281.58",
+      "708.00",
+      "328.42",
+      "716.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Hot Artichoke Dip with Crisp Bread",
+    "bbox": [
+      "233.87",
+      "740.75",
+      "376.93",
+      "749.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "301.37",
+      "753.50",
+      "309.43",
+      "761.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Devils on Horseback",
+    "bbox": [
+      "263.35",
+      "12.75",
+      "347.45",
+      "21.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "HOME (/#HOME-SECTION) RESTAURANT (/#RESTAURANT-SECTION) MENU (/#AL-FRESCO-MENU-SECTION)",
+    "bbox": [
+      "66.30",
+      "20.00",
+      "543.70",
+      "27.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "12",
+    "bbox": [
+      "301.61",
+      "25.50",
+      "309.20",
+      "33.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "DRINKS (/#DRINKS-SECTION) RESERVATIONS (/#RESERVATIONS-OUTSIDE-SECTION) ONLINE SHOP (/SHOP)",
+    "bbox": [
+      "64.34",
+      "37.50",
+      "545.66",
+      "44.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Five Cheese Macaroni",
+    "bbox": [
+      "260.45",
+      "50.25",
+      "350.35",
+      "58.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "GIFT CARDS (HTTP://WWW.FREEMANSRESTAURANT.COM/SHOP/FREEMANS-RESTAURANT-GIFT-CARD/)",
+    "bbox": [
+      "86.99",
+      "55.00",
+      "523.01",
+      "62.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "18",
+    "bbox": [
+      "301.37",
+      "63.00",
+      "309.43",
+      "70.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PRIVATE DINING (/PRIVATE-DINING) BANZARBAR (HTTP://WWW.BANZARBAR.COM)",
+    "bbox": [
+      "124.06",
+      "72.50",
+      "485.93",
+      "79.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ORDER DELIVERY (HKTaTlPeS &:/ /DWelWicaWt.aT SRqYuCaAsVhI ASRa.lCaOdM/STORE/1079812?",
+    "bbox": [
+      "160.49",
+      "87.25",
+      "449.51",
+      "97.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "DELIVERY=TRUE&FUaTrrMo,_ dCrAieMd PbAluIeGbNe=r1ri0e7s,9 b8u1t2te&rUmTilMk b_MluEe DchIUeMes=eW, hEaBzeSlInTuEts&, UdTillM v_inSaOigUreRtCteE=PARTNER-LINK)",
+    "bbox": [
+      "96.55",
+      "97.00",
+      "513.45",
+      "107.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "17",
+    "bbox": [
+      "301.61",
+      "113.50",
+      "309.20",
+      "121.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Shaved Brussels Sprouts",
+    "bbox": [
+      "254.39",
+      "140.75",
+      "356.41",
+      "149.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Roasted apples, yellow beets, almonds, goat cheese vinaigrette",
+    "bbox": [
+      "187.78",
+      "153.50",
+      "423.02",
+      "161.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "18",
+    "bbox": [
+      "301.37",
+      "167.00",
+      "309.43",
+      "174.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "P.E.I. Mussels",
+    "bbox": [
+      "278.41",
+      "194.75",
+      "332.39",
+      "203.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Spring garlic, shallots, white wine, sourdough toast",
+    "bbox": [
+      "210.05",
+      "207.00",
+      "400.75",
+      "214.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "22",
+    "bbox": [
+      "301.29",
+      "220.50",
+      "309.51",
+      "228.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ENTREES",
+    "bbox": [
+      "284.14",
+      "286.50",
+      "325.85",
+      "294.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Wild Mushroom Farro",
+    "bbox": [
+      "260.98",
+      "319.25",
+      "349.82",
+      "327.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Celery root purée, arugula",
+    "bbox": [
+      "256.92",
+      "332.00",
+      "353.88",
+      "339.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "28",
+    "bbox": [
+      "301.05",
+      "345.50",
+      "309.75",
+      "353.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Grilled Whole Edenbrook Farm Trout",
+    "bbox": [
+      "229.55",
+      "373.25",
+      "381.24",
+      "381.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Grilled lemon",
+    "bbox": [
+      "280.41",
+      "385.50",
+      "330.38",
+      "393.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "33",
+    "bbox": [
+      "301.25",
+      "399.00",
+      "309.55",
+      "406.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Roasted Amish Chicken Breast",
+    "bbox": [
+      "242.61",
+      "426.75",
+      "368.20",
+      "435.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Farro, baby turnips, grilled scallions, truffle butter",
+    "bbox": [
+      "214.09",
+      "439.50",
+      "396.71",
+      "447.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "29",
+    "bbox": [
+      "301.09",
+      "453.00",
+      "309.72",
+      "460.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pan Roasted Salmon",
+    "bbox": [
+      "263.04",
+      "480.25",
+      "347.76",
+      "488.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Zucchini squash, arugula, dill vinaigrette",
+    "bbox": [
+      "231.00",
+      "493.00",
+      "379.80",
+      "500.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "35",
+    "bbox": [
+      "301.22",
+      "506.50",
+      "309.58",
+      "514.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pan Seared Bella Bella Duck",
+    "bbox": [
+      "246.73",
+      "534.25",
+      "364.08",
+      "542.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Herb roasted baby artichokes, heirloom grape tomatoes, smoked paprika-tomato butter",
+    "bbox": [
+      "143.48",
+      "546.50",
+      "467.32",
+      "554.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "37",
+    "bbox": [
+      "301.27",
+      "560.00",
+      "309.53",
+      "567.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Grilled Berkshire Pork Chop",
+    "bbox": [
+      "248.30",
+      "587.75",
+      "362.50",
+      "596.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Roasted shishito peppers, sunchokes, oregano pesto",
+    "bbox": [
+      "208.39",
+      "600.50",
+      "402.41",
+      "608.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "38",
+    "bbox": [
+      "301.03",
+      "614.00",
+      "309.77",
+      "621.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Grilled Black Angus Hanger Steak",
+    "bbox": [
+      "235.62",
+      "641.25",
+      "375.19",
+      "649.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Black garlic smashed potatoes, chimichurri, roasted mushrooms",
+    "bbox": [
+      "187.24",
+      "654.00",
+      "423.55",
+      "661.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "36",
+    "bbox": [
+      "301.00",
+      "667.50",
+      "309.79",
+      "675.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Grilled Tomahawk Steak",
+    "bbox": [
+      "255.37",
+      "694.75",
+      "355.44",
+      "703.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Serves 3-4",
+    "bbox": [
+      "285.98",
+      "707.50",
+      "324.81",
+      "715.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Market Price",
+    "bbox": [
+      "282.38",
+      "721.00",
+      "328.42",
+      "728.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SIDE DISHES",
+    "bbox": [
+      "275.98",
+      "13.00",
+      "334.02",
+      "21.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "HOME (/#HOME-SECTION) RESTAURANT (/#RESTAURANT-SECTION) MENU (/#AL-FRESCO-MENU-SECTION)",
+    "bbox": [
+      "66.30",
+      "20.00",
+      "543.70",
+      "27.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "DRINKS (/#DRINKS-SECTION) RESERVATIONS (/#RESERVATIONS-OUTSIDE-SECTION) ONLINE SHOP (/SHOP)",
+    "bbox": [
+      "64.34",
+      "37.50",
+      "545.66",
+      "44.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Black Garlic Smashed Potatoes",
+    "bbox": [
+      "241.01",
+      "45.75",
+      "369.79",
+      "54.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "GIFT CARDS (HTTP://WWW.FREEMANSRESTAURANT.COM/SHOP/FREEMANS-RESTAURANT-GIFT-CARD/)",
+    "bbox": [
+      "86.99",
+      "55.00",
+      "523.01",
+      "62.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "12",
+    "bbox": [
+      "301.61",
+      "58.50",
+      "309.20",
+      "66.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PRIVATE DINING (/PRIVATE-DINING) BANZARBAR (HTTP://WWW.BANZARBAR.COM)",
+    "bbox": [
+      "124.06",
+      "72.50",
+      "485.93",
+      "79.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "French Fries",
+    "bbox": [
+      "280.28",
+      "83.25",
+      "330.52",
+      "91.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ORDER DELIVERY (HTTPS://WWW.TRYCAVIAR.COM/STORE/1079812?",
+    "bbox": [
+      "160.49",
+      "90.00",
+      "449.51",
+      "97.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "DELIVERY=TRUE&UTM_CAMPAIGN=1079812&UTM_1M2EDIUM=WEBSITE&UTM_SOURCE=PARTNER-LINK)",
+    "bbox": [
+      "96.55",
+      "95.50",
+      "513.45",
+      "104.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Roasted Wild Mushrooms",
+    "bbox": [
+      "252.61",
+      "120.25",
+      "358.19",
+      "128.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "12",
+    "bbox": [
+      "301.61",
+      "133.00",
+      "309.20",
+      "140.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Crispy Brussels Sprouts",
+    "bbox": [
+      "256.69",
+      "157.25",
+      "354.11",
+      "165.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "chipotle honey and chia seeds",
+    "bbox": [
+      "249.29",
+      "170.00",
+      "361.52",
+      "177.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "12",
+    "bbox": [
+      "301.61",
+      "183.50",
+      "309.20",
+      "191.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Mixed Greens with Shaved Beets & Carrots",
+    "bbox": [
+      "217.73",
+      "211.25",
+      "393.06",
+      "219.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "lemon vinaigrette",
+    "bbox": [
+      "272.92",
+      "223.50",
+      "337.88",
+      "231.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "12",
+    "bbox": [
+      "301.61",
+      "237.00",
+      "309.20",
+      "244.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Fall 2021 Drink Menus",
+    "bbox": [
+      "210.51",
+      "378.06",
+      "400.49",
+      "397.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CocktailsWine by the GlassChampagneWhite WineRed WineRosé WineBeerSpirits",
+    "bbox": [
+      "96.41",
+      "404.25",
+      "514.38",
+      "412.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SPARKLING WINE",
+    "bbox": [
+      "263.16",
+      "438.50",
+      "345.34",
+      "446.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Parigot",
+    "bbox": [
+      "52.50",
+      "471.25",
+      "82.15",
+      "479.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Parigot",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$18",
+    "bbox": [
+      "193.04",
+      "471.50",
+      "205.96",
+      "479.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Crémant De Bourgogne Rosé,",
+    "bbox": [
+      "52.50",
+      "484.00",
+      "161.65",
+      "491.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Crémant De Bourgogne Rosé,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "France",
+    "bbox": [
+      "52.50",
+      "493.50",
+      "77.44",
+      "501.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "WHITE WINE",
+    "bbox": [
+      "274.10",
+      "556.50",
+      "334.40",
+      "564.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Riesling",
+    "bbox": [
+      "52.50",
+      "589.25",
+      "85.40",
+      "597.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Riesling",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$12",
+    "bbox": [
+      "193.51",
+      "589.50",
+      "205.95",
+      "597.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Muscadet",
+    "bbox": [
+      "228.66",
+      "589.25",
+      "269.15",
+      "597.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Muscadet",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$13",
+    "bbox": [
+      "369.63",
+      "589.50",
+      "382.12",
+      "597.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sancerre",
+    "bbox": [
+      "404.83",
+      "589.25",
+      "441.81",
+      "597.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sancerre",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$23",
+    "bbox": [
+      "545.16",
+      "589.50",
+      "558.29",
+      "597.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$23",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Empire Estate, Finger Lakes, NY",
+    "bbox": [
+      "52.50",
+      "602.00",
+      "169.64",
+      "609.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Empire Estate, Finger Lakes, NY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sèvre-et-Maine Sur Lie 'La Pépie,’",
+    "bbox": [
+      "228.66",
+      "602.00",
+      "352.13",
+      "609.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sèvre-et-Maine Sur Lie 'La Pépie,’",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "La Croix du Roy, Lucien Crochet,",
+    "bbox": [
+      "404.83",
+      "602.00",
+      "523.44",
+      "609.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "La Croix du Roy, Lucien Crochet,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2018",
+    "bbox": [
+      "52.50",
+      "612.00",
+      "69.58",
+      "619.50"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pépière, Loire, France 2020",
+    "bbox": [
+      "228.66",
+      "612.00",
+      "328.43",
+      "619.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pépière, Loire, France 2020",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Loire, France 2019",
+    "bbox": [
+      "404.83",
+      "612.00",
+      "471.57",
+      "619.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Loire, France 2019",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Gavi DOCG",
+    "bbox": [
+      "52.50",
+      "636.25",
+      "96.99",
+      "644.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Gavi DOCG",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$13",
+    "bbox": [
+      "193.47",
+      "636.50",
+      "205.95",
+      "644.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chardonnay",
+    "bbox": [
+      "228.66",
+      "636.25",
+      "278.39",
+      "644.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$16",
+    "bbox": [
+      "369.14",
+      "636.50",
+      "382.12",
+      "644.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Tenuta San Pietro, Piedmont, Italy",
+    "bbox": [
+      "52.50",
+      "649.00",
+      "176.12",
+      "656.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tenuta San Pietro, Piedmont, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Ophelia, Gothic Wines, Willamette",
+    "bbox": [
+      "228.66",
+      "649.00",
+      "354.91",
+      "656.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Ophelia, Gothic Wines, Willamette",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2020",
+    "bbox": [
+      "52.50",
+      "658.50",
+      "70.33",
+      "666.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Valley, Oregon 2018",
+    "bbox": [
+      "228.66",
+      "658.50",
+      "301.38",
+      "666.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Valley, Oregon 2018",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RED WINE",
+    "bbox": [
+      "280.32",
+      "721.50",
+      "328.18",
+      "729.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Rioja Crianza",
+    "bbox": [
+      "52.50",
+      "754.25",
+      "105.79",
+      "762.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rioja Crianza",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$14",
+    "bbox": [
+      "193.34",
+      "754.50",
+      "205.96",
+      "762.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Bodegas Ramirez de la Piscina,",
+    "bbox": [
+      "228.66",
+      "754.50",
+      "343.17",
+      "762.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bodegas Ramirez de la Piscina,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Rioja, Spain 2018",
+    "bbox": [
+      "228.66",
+      "764.50",
+      "290.30",
+      "772.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rioja, Spain 2018",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Vacqueyras",
+    "bbox": [
+      "52.50",
+      "12.25",
+      "100.41",
+      "20.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$15",
+    "bbox": [
+      "193.41",
+      "12.50",
+      "205.96",
+      "20.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Barbera d'Alba",
+    "bbox": [
+      "228.66",
+      "12.25",
+      "289.70",
+      "20.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$17",
+    "bbox": [
+      "369.67",
+      "12.50",
+      "382.12",
+      "20.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "HOME (/#HOME-SECTION) RESTAURANT (/#RESTAURANT-SECTION) MENU (/#AL-FRESCO-MENU-SECTION)",
+    "bbox": [
+      "66.30",
+      "20.00",
+      "543.70",
+      "27.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "'Arabesque', Domaine de Montvac,",
+    "bbox": [
+      "52.50",
+      "25.00",
+      "178.65",
+      "32.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Giacomo Borgogno e Figli,",
+    "bbox": [
+      "228.66",
+      "25.00",
+      "326.04",
+      "32.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RhôDnReI, NFrKaSn c(e/ 2#0D1R7INKS-SECTION) RESERPVieAdTmIOonNtS, I t(a/ly# 2R0E2S0ERVATIONS-OUTSIDE-SECTION) ONLINE SHOP (/SHOP)",
+    "bbox": [
+      "52.50",
+      "34.50",
+      "545.66",
+      "44.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "GIFT CARDS (HTTP://WWW.FREEMANSRESTAURANT.COM/SHOP/FREEMANS-RESTAURANT-GIFT-CARD/)",
+    "bbox": [
+      "86.99",
+      "55.00",
+      "523.01",
+      "62.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pinot Noir",
+    "bbox": [
+      "52.50",
+      "59.25",
+      "93.12",
+      "67.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$16",
+    "bbox": [
+      "192.98",
+      "59.50",
+      "205.96",
+      "67.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Zinfandel",
+    "bbox": [
+      "228.66",
+      "59.25",
+      "268.13",
+      "67.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$19",
+    "bbox": [
+      "369.27",
+      "59.50",
+      "382.12",
+      "67.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Nevermore, Gothic, PWRiIllVaAmTeEt tDeINING (/PRIVATThEr-eDeI NVaINlleGy)s, R idBgAeN VZinAeRyaBrAdRs, (HTTP://WWW.BANZARBAR.COM)",
+    "bbox": [
+      "52.50",
+      "72.00",
+      "485.93",
+      "79.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Valley, OR 2018",
+    "bbox": [
+      "52.50",
+      "81.50",
+      "108.71",
+      "89.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sonoma County, CA 2019",
+    "bbox": [
+      "228.66",
+      "81.50",
+      "320.43",
+      "89.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ORDER DELIVERY (HTTPS://WWW.TRYCAVIAR.COM/STORE/1079812?",
+    "bbox": [
+      "160.49",
+      "90.00",
+      "449.51",
+      "97.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "DELIVERY=TRUE&UTM_CAMPAIGN=1079812&UTM_MEDIUM=WEBSITE&UTM_SOURCE=PARTNER-LINK)",
+    "bbox": [
+      "96.55",
+      "97.00",
+      "513.45",
+      "104.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ROSÉ WINE",
+    "bbox": [
+      "277.25",
+      "144.50",
+      "331.25",
+      "152.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Telltale Rosé",
+    "bbox": [
+      "52.50",
+      "177.25",
+      "106.11",
+      "185.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Telltale Rosé",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$15",
+    "bbox": [
+      "193.41",
+      "177.50",
+      "205.96",
+      "185.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Gothic, Willamette Valley, OR 2019",
+    "bbox": [
+      "52.50",
+      "190.00",
+      "179.58",
+      "197.50"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Reservation Policy",
+    "bbox": [
+      "221.66",
+      "327.56",
+      "389.35",
+      "346.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "We are taking reservations for Indoor dining and the covered section of our outdoor dining.  Most of the outdoor seating is available on",
+    "bbox": [
+      "56.12",
+      "353.00",
+      "552.59",
+      "360.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "walk-in basis, weather permitting.",
+    "bbox": [
+      "243.39",
+      "365.00",
+      "367.40",
+      "372.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Freemans accepts reservation for parties of 1-8 guests 14 days in advance.",
+    "bbox": [
+      "168.41",
+      "384.50",
+      "442.40",
+      "392.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Groups of 9 and above are accommodated in a private room. Please email us for more details.",
+    "bbox": [
+      "132.54",
+      "404.00",
+      "478.26",
+      "411.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Please email us for options for private parties.",
+    "bbox": [
+      "219.90",
+      "423.50",
+      "390.91",
+      "431.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Walk-ins for small parties are encouraged at any time.",
+    "bbox": [
+      "203.18",
+      "443.00",
+      "407.62",
+      "450.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "A portion of seating is held for walk-in guests.  We seat only completed parties on a first come, first served basis.",
+    "bbox": [
+      "97.45",
+      "462.50",
+      "513.36",
+      "470.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "270.05",
+      "485.50",
+      "339.96",
+      "493.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Due to Covid-19 we are not in the office regular hours.  Please email us at: reservations@freemansrestaurant.com",
+    "bbox": [
+      "95.99",
+      "505.00",
+      "512.71",
+      "512.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(mailto:reservations@freemansrestaurant.com)",
+    "bbox": [
+      "219.57",
+      "517.00",
+      "391.23",
+      "524.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(http(http(http",
+    "bbox": [
+      "405.25",
+      "651.00",
+      "468.51",
+      "658.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "JOIN FREEMANS MAILING LIST",
+    "bbox": [
+      "123.95",
+      "657.93",
+      "223.80",
+      "664.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "FREEMANS RESTAURANT, NEW YORK CITY, NY212-420-0012INFO@FREEMANSRESTAURANT.COM (MAILTO:INFO@FREEMANSRESTAURANT.COM)",
+    "bbox": [
+      "66.52",
+      "725.00",
+      "543.98",
+      "731.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "For press or media inquires please contact: press@freemansrestaurant.com (mailto:press@freemansrestaurant.com)",
+    "bbox": [
+      "102.23",
+      "745.38",
+      "508.57",
+      "752.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Accessibility Statement (/accessibility-statement)",
+    "bbox": [
+      "217.56",
+      "764.88",
+      "393.24",
+      "772.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "HOME (/#HOME-SECTION) RESTAURANT (/#RESTAURANT-SECTION) MENU (/#AL-FRESCO-MENU-SECTION)",
+    "bbox": [
+      "66.30",
+      "20.00",
+      "543.70",
+      "27.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "DRINKS (/#DRINKS-SECTION) RESERVATIONS (/#RESERVATIONS-OUTSIDE-SECTION) ONLINE SHOP (/SHOP)",
+    "bbox": [
+      "64.34",
+      "37.50",
+      "545.66",
+      "44.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "GIFT CARDS (HTTP://WWW.FREEMANSRESTAURANT.COM/SHOP/FREEMANS-RESTAURANT-GIFT-CARD/)",
+    "bbox": [
+      "86.99",
+      "55.00",
+      "523.01",
+      "62.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "PRIVATE DINING (/PRIVATE-DINING) BANZARBAR (HTTP://WWW.BANZARBAR.COM)",
+    "bbox": [
+      "124.06",
+      "72.50",
+      "485.93",
+      "79.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ORDER DELIVERY (HTTPS://WWW.TRYCAVIAR.COM/STORE/1079812?",
+    "bbox": [
+      "160.49",
+      "90.00",
+      "449.51",
+      "97.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "DELIVERY=TRUE&UTM_CAMPAIGN=1079812&UTM_MEDIUM=WEBSITE&UTM_SOURCE=PARTNER-LINK)",
+    "bbox": [
+      "96.55",
+      "97.00",
+      "513.45",
+      "104.00"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

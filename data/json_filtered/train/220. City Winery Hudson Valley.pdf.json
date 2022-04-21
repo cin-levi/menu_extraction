@@ -1,0 +1,1434 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/18/22, 9:05 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Buy Wine - Free Delivery Over $120",
+    "bbox": [
+      "402.83",
+      "15.70",
+      "531.32",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sign In",
+    "bbox": [
+      "105.55",
+      "30.50",
+      "179.47",
+      "42.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SHOP OUR W",
+    "bbox": [
+      "339.31",
+      "169.34",
+      "468.80",
+      "199.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "INE",
+    "bbox": [
+      "468.50",
+      "169.34",
+      "501.73",
+      "199.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Free delivery to your door on wine orders over $120. Locally made with grapes from the best vineyards worldwide. Our",
+    "bbox": [
+      "75.79",
+      "299.17",
+      "767.35",
+      "312.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "wine makes a great gift, or take The Palate Survey to discover wines precisely matched, just for you. Have a wine promo",
+    "bbox": [
+      "74.40",
+      "318.68",
+      "770.99",
+      "332.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "code? Add your code.",
+    "bbox": [
+      "359.87",
+      "338.20",
+      "483.26",
+      "351.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GO TO",
+    "bbox": [
+      "60.52",
+      "426.00",
+      "88.75",
+      "436.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TYPE",
+    "bbox": [
+      "103.66",
+      "424.50",
+      "145.41",
+      "436.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "VARIETAL",
+    "bbox": [
+      "212.46",
+      "424.50",
+      "275.22",
+      "436.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "COLLECTIONS",
+    "bbox": [
+      "377.54",
+      "424.50",
+      "462.24",
+      "436.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPECIALS",
+    "bbox": [
+      "559.88",
+      "424.50",
+      "624.51",
+      "436.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A BENEFIT FOR UKRAINE CABERNET",
+    "bbox": [
+      "63.36",
+      "723.94",
+      "288.90",
+      "743.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "A BENEFIT FOR UKRAINE CABERNET",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SAUVIGNON",
+    "bbox": [
+      "138.21",
+      "740.45",
+      "214.05",
+      "759.97"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$35.00",
+    "bbox": [
+      "155.97",
+      "772.72",
+      "196.26",
+      "790.74"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$35.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CITY WINERY RESERVE PINOT NOIR",
+    "bbox": [
+      "72.73",
+      "1041.39",
+      "293.94",
+      "1060.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CITY WINERY RESERVE PINOT NOIR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "PINO",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CUVÉE GRIFFIN 2018",
+    "bbox": [
+      "118.80",
+      "1057.91",
+      "247.87",
+      "1077.42"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CUVÉE GRIFFIN 2018",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$45.00",
+    "bbox": [
+      "163.18",
+      "1090.18",
+      "203.47",
+      "1108.19"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$45.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://citywinery.com/hudsonvalley/Online/default.asp?BOparam::WScontent::loadArticle::permalink=buy-wine&BOparam::WScontent::loadArticle::context_id=&menu_id=8C8AE8E2-CBDF-4F40-93CA-E3F86153F5E21/5",
+    "bbox": [
+      "26.45",
+      "1168.70",
+      "816.51",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/18/22, 9:05 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Buy Wine - Free Delivery Over $120",
+    "bbox": [
+      "402.83",
+      "15.70",
+      "531.32",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CITY WINERY MUSIC BOX PETITE",
+    "bbox": [
+      "81.59",
+      "224.87",
+      "285.09",
+      "244.39"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "CITY WINERY MUSIC BOX PETITE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SIRAH 2019",
+    "bbox": [
+      "146.31",
+      "241.39",
+      "220.38",
+      "260.90"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "SIRAH 2019",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$28.00",
+    "bbox": [
+      "163.18",
+      "273.66",
+      "203.47",
+      "291.67"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$28.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PHILIP GLASS \"CHARDS OF GLASS\"",
+    "bbox": [
+      "62.74",
+      "557.34",
+      "289.51",
+      "576.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PHILIP GLASS \"CHARDS OF GLASS\"",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ICONIC CHARDONNAY 2019",
+    "bbox": [
+      "91.32",
+      "573.85",
+      "260.93",
+      "593.36"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ICONIC CHARDONNAY 2019",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$70.00",
+    "bbox": [
+      "155.97",
+      "606.12",
+      "196.26",
+      "624.13"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$70.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CITY WINERY MONTGOMERY MILLS",
+    "bbox": [
+      "74.13",
+      "889.05",
+      "292.54",
+      "908.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CITY WINERY MONTGOMERY MILLS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RIESLING 2019",
+    "bbox": [
+      "136.71",
+      "905.56",
+      "229.97",
+      "925.07"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RIESLING 2019",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$20.00",
+    "bbox": [
+      "163.18",
+      "937.83",
+      "203.47",
+      "955.84"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$20.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://citywinery.com/hudsonvalley/Online/default.asp?BOparam::WScontent::loadArticle::permalink=buy-wine&BOparam::WScontent::loadArticle::context_id=&menu_id=8C8AE8E2-CBDF-4F40-93CA-E3F86153F5E22/5",
+    "bbox": [
+      "26.45",
+      "1168.70",
+      "816.51",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/18/22, 9:05 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Buy Wine - Free Delivery Over $120",
+    "bbox": [
+      "402.83",
+      "15.70",
+      "531.32",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CITY WINERY NYC CAB CABERNET",
+    "bbox": [
+      "77.17",
+      "86.79",
+      "289.51",
+      "106.30"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CITY WINERY NYC CAB CABERNET",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SAUVIGNON 2019",
+    "bbox": [
+      "128.51",
+      "103.30",
+      "238.17",
+      "122.81"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON 2019",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$30.00",
+    "bbox": [
+      "163.18",
+      "135.57",
+      "203.47",
+      "153.58"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$30.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CITY WINERY HARMONY DROPS",
+    "bbox": [
+      "76.88",
+      "419.25",
+      "275.38",
+      "438.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CITY WINERY HARMONY DROPS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHARDONNAY 2018",
+    "bbox": [
+      "114.95",
+      "435.76",
+      "237.30",
+      "455.27"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY 2018",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$22.00",
+    "bbox": [
+      "155.97",
+      "468.03",
+      "196.26",
+      "486.04"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "$22.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CITY WINERY KNIT SYRAH 2018",
+    "bbox": [
+      "84.81",
+      "750.96",
+      "281.88",
+      "770.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CITY WINERY KNIT SYRAH",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$28.00",
+    "bbox": [
+      "163.18",
+      "783.23",
+      "203.47",
+      "801.24"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$28.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CITY WINERY SOLO PINOT BLANC",
+    "bbox": [
+      "79.05",
+      "1066.16",
+      "287.64",
+      "1085.67"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CITY WINERY SOLO PINOT BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2020",
+    "bbox": [
+      "167.98",
+      "1082.67",
+      "198.69",
+      "1102.18"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "2020",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$20.00",
+    "bbox": [
+      "163.18",
+      "1114.94",
+      "203.47",
+      "1132.95"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$20.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://citywinery.com/hudsonvalley/Online/default.asp?BOparam::WScontent::loadArticle::permalink=buy-wine&BOparam::WScontent::loadArticle::context_id=&menu_id=8C8AE8E2-CBDF-4F40-93CA-E3F86153F5E23/5",
+    "bbox": [
+      "26.45",
+      "1168.70",
+      "816.51",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/18/22, 9:05 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Buy Wine - Free Delivery Over $120",
+    "bbox": [
+      "402.83",
+      "15.70",
+      "531.32",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CITY WINERY SPRING STREET PINOT",
+    "bbox": [
+      "62.00",
+      "263.90",
+      "290.25",
+      "283.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "NOIR 2019",
+    "bbox": [
+      "143.21",
+      "280.41",
+      "209.05",
+      "299.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$32.00",
+    "bbox": [
+      "155.97",
+      "312.68",
+      "196.26",
+      "330.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CITY WINERY CLASSIC RED WINE 6-",
+    "bbox": [
+      "70.64",
+      "596.36",
+      "296.05",
+      "615.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PACK",
+    "bbox": [
+      "166.26",
+      "612.87",
+      "200.42",
+      "632.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$160.00",
+    "bbox": [
+      "159.67",
+      "645.14",
+      "207.00",
+      "663.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CITY WINERY CLASSIC RED WINE 3-",
+    "bbox": [
+      "70.64",
+      "928.07",
+      "296.05",
+      "947.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PACK",
+    "bbox": [
+      "166.26",
+      "944.58",
+      "200.42",
+      "964.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$80.00",
+    "bbox": [
+      "163.18",
+      "976.85",
+      "203.47",
+      "994.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "1",
+    "bbox": [
+      "358.92",
+      "1024.13",
+      "365.19",
+      "1036.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2",
+    "bbox": [
+      "383.20",
+      "1023.38",
+      "389.47",
+      "1035.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3",
+    "bbox": [
+      "406.74",
+      "1023.38",
+      "413.00",
+      "1035.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4",
+    "bbox": [
+      "430.27",
+      "1023.38",
+      "436.54",
+      "1035.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "5",
+    "bbox": [
+      "453.81",
+      "1023.38",
+      "460.07",
+      "1035.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "*PLEASE NOTE: We can ship wine to all US states except for: Alabama, Arkansas, Kentucky, Michigan, Mississippi, South Dakota, and",
+    "bbox": [
+      "67.12",
+      "1092.43",
+      "775.87",
+      "1104.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Utah. We cannot ship wine to PO Box addresses or outside the United States. You must be over 21 years old to order wine and someone",
+    "bbox": [
+      "60.61",
+      "1110.44",
+      "782.39",
+      "1122.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "over 21 must be available to sign for the order when it arrives. By submitting an order for wine you are stating that you are over 21",
+    "bbox": [
+      "76.19",
+      "1128.45",
+      "766.81",
+      "1140.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "years old. Thank you.",
+    "bbox": [
+      "365.53",
+      "1146.46",
+      "477.47",
+      "1158.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://citywinery.com/hudsonvalley/Online/default.asp?BOparam::WScontent::loadArticle::permalink=buy-wine&BOparam::WScontent::loadArticle::context_id=&menu_id=8C8AE8E2-CBDF-4F40-93CA-E3F86153F5E24/5",
+    "bbox": [
+      "26.45",
+      "1168.70",
+      "816.51",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/18/22, 9:05 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Buy Wine - Free Delivery Over $120",
+    "bbox": [
+      "402.83",
+      "15.70",
+      "531.32",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "INDULGE YOUR SENSES",
+    "bbox": [
+      "301.94",
+      "59.77",
+      "526.36",
+      "89.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Stay updated on the latest shows, deals and happenings at City Winery Hudson Valley",
+    "bbox": [
+      "166.44",
+      "96.54",
+      "661.68",
+      "110.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Your email address",
+    "bbox": [
+      "308.56",
+      "139.32",
+      "405.81",
+      "151.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "SIGN  UP",
+    "bbox": [
+      "426.37",
+      "137.07",
+      "462.53",
+      "151.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CUSTOMER CARE",
+    "bbox": [
+      "64.27",
+      "249.64",
+      "148.82",
+      "264.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ADDRESS & HOURS",
+    "bbox": [
+      "309.93",
+      "249.64",
+      "405.43",
+      "264.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "FAQ",
+    "bbox": [
+      "64.27",
+      "275.16",
+      "83.21",
+      "290.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CITY WINERY HUDSON VALLEY",
+    "bbox": [
+      "309.93",
+      "275.91",
+      "454.60",
+      "286.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "23 FACTORY STREET",
+    "bbox": [
+      "309.93",
+      "290.17",
+      "406.25",
+      "300.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CONTACT",
+    "bbox": [
+      "64.27",
+      "294.67",
+      "110.01",
+      "309.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "MONTGOMERY, NY 12549",
+    "bbox": [
+      "309.93",
+      "304.43",
+      "427.92",
+      "314.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "SAFETY",
+    "bbox": [
+      "64.27",
+      "314.18",
+      "101.96",
+      "329.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "845.424.0222",
+    "bbox": [
+      "309.93",
+      "318.68",
+      "370.44",
+      "329.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ADDRESS & HOURS",
+    "bbox": [
+      "64.27",
+      "333.69",
+      "159.78",
+      "348.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "MONDAY-TUESDAY CLOSED",
+    "bbox": [
+      "309.93",
+      "332.94",
+      "441.08",
+      "343.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "WEDNESDAY-THURSDAY 4-9PM",
+    "bbox": [
+      "309.93",
+      "347.20",
+      "460.33",
+      "357.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "TERMS AND CONDITIONS",
+    "bbox": [
+      "64.27",
+      "353.21",
+      "187.92",
+      "368.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "FRIDAY 4-10PM",
+    "bbox": [
+      "309.93",
+      "361.46",
+      "383.03",
+      "371.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "PRIVACY POLICY",
+    "bbox": [
+      "64.27",
+      "372.72",
+      "145.68",
+      "387.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "SATURDAY 12-10PM",
+    "bbox": [
+      "309.93",
+      "375.72",
+      "404.36",
+      "386.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "SUNDAY 11:30-9PM",
+    "bbox": [
+      "309.93",
+      "389.98",
+      "402.22",
+      "400.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "© 2022, City Winery, LLC",
+    "bbox": [
+      "64.27",
+      "489.04",
+      "195.11",
+      "501.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://citywinery.com/hudsonvalley/Online/default.asp?BOparam::WScontent::loadArticle::permalink=buy-wine&BOparam::WScontent::loadArticle::context_id=&menu_id=8C8AE8E2-CBDF-4F40-93CA-E3F86153F5E25/5",
+    "bbox": [
+      "26.45",
+      "1168.70",
+      "816.51",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

@@ -1,0 +1,1603 @@
+[
+  {
+    "page_number": 1,
+    "text": "BUBBLES",
+    "bbox": [
+      "115.76",
+      "77.44",
+      "178.24",
+      "92.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "COCKTAILS 20",
+    "bbox": [
+      "417.30",
+      "84.39",
+      "512.70",
+      "98.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Prosecco, Della Scala",
+    "bbox": [
+      "12.00",
+      "108.64",
+      "132.43",
+      "120.73"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Prosecco, Della Scala",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16",
+    "bbox": [
+      "271.79",
+      "108.64",
+      "282.00",
+      "120.64"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Frozen Limoncello",
+    "bbox": [
+      "413.95",
+      "115.03",
+      "516.05",
+      "127.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Veneto, Italy nv",
+    "bbox": [
+      "12.00",
+      "120.41",
+      "83.85",
+      "131.41"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "nv",
+            "answer_start": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Homemade Frozen Limoncello",
+    "bbox": [
+      "396.19",
+      "126.71",
+      "533.81",
+      "137.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Moscato d’Asti, Saracco",
+    "bbox": [
+      "12.00",
+      "135.14",
+      "140.31",
+      "147.23"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Moscato d’Asti, Saracco",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16",
+    "bbox": [
+      "271.79",
+      "135.14",
+      "282.00",
+      "147.14"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Piedmont, Italy 2020",
+    "bbox": [
+      "12.00",
+      "146.91",
+      "112.24",
+      "157.91"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Fall to Pieces",
+    "bbox": [
+      "427.90",
+      "146.03",
+      "502.10",
+      "158.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Herradura Reposado, Apple, Cinnamon Sugar Rim",
+    "bbox": [
+      "350.65",
+      "157.71",
+      "579.36",
+      "168.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne, Moët & Chandon ‘Brut Imperial’",
+    "bbox": [
+      "12.00",
+      "161.64",
+      "238.24",
+      "173.73"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne, Moët & Chandon ‘Brut Imperial’",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "oë",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "28",
+    "bbox": [
+      "269.10",
+      "161.64",
+      "284.93",
+      "173.64"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "28",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Épernay, France nv",
+    "bbox": [
+      "12.00",
+      "173.41",
+      "101.70",
+      "184.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Épernay, France nv",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "nv",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rubina Rosa",
+    "bbox": [
+      "432.98",
+      "177.03",
+      "497.02",
+      "189.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rosé Champagne, Veuve Clicquot",
+    "bbox": [
+      "12.00",
+      "188.14",
+      "183.84",
+      "200.23"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rosé Champagne, Veuve Clicquot",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "30",
+    "bbox": [
+      "266.58",
+      "188.14",
+      "284.93",
+      "200.14"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "30",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Finlandia Grapefruit, Yuzu, Pomegranate",
+    "bbox": [
+      "372.28",
+      "188.71",
+      "557.72",
+      "199.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Reims, France nv",
+    "bbox": [
+      "12.00",
+      "199.91",
+      "90.95",
+      "210.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Reims, France nv",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "nv",
+            "answer_start": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LAVO-lini",
+    "bbox": [
+      "439.40",
+      "208.03",
+      "493.13",
+      "220.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE",
+    "bbox": [
+      "123.80",
+      "221.44",
+      "170.21",
+      "236.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Della Scala Prosecco, Passionfruit, St. Germain",
+    "bbox": [
+      "358.97",
+      "219.71",
+      "571.03",
+      "230.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Culaccino",
+    "bbox": [
+      "436.45",
+      "239.03",
+      "493.55",
+      "251.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pinot Grigio, Zuccolo",
+    "bbox": [
+      "12.00",
+      "252.64",
+      "126.66",
+      "264.73"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Grigio, Zuccolo",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16",
+    "bbox": [
+      "257.15",
+      "252.64",
+      "282.00",
+      "264.64"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Stoli Vanil, Frangelico, Fresh Brewed Espresso",
+    "bbox": [
+      "360.80",
+      "250.71",
+      "569.20",
+      "261.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Friuli-Venezia Giulia, Italy 2018",
+    "bbox": [
+      "12.00",
+      "264.41",
+      "151.25",
+      "275.41"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sanga-Rita",
+    "bbox": [
+      "436.57",
+      "270.03",
+      "493.43",
+      "282.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sauvignon Blanc, Domaine Paul Buisse",
+    "bbox": [
+      "12.00",
+      "279.14",
+      "215.05",
+      "291.23"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc, Domaine Paul Buisse",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16",
+    "bbox": [
+      "260.07",
+      "279.14",
+      "282.00",
+      "291.14"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Milagro Silver, Fresh Citrus, Strawberry",
+    "bbox": [
+      "376.69",
+      "281.71",
+      "553.31",
+      "292.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Touraine, Loire Valley, France 2018",
+    "bbox": [
+      "12.00",
+      "290.91",
+      "172.64",
+      "301.91"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Basilico",
+    "bbox": [
+      "442.94",
+      "301.03",
+      "487.06",
+      "313.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dry Riesling, Empire Estate",
+    "bbox": [
+      "12.00",
+      "305.64",
+      "158.93",
+      "317.73"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Dry Riesling, Empire Estate",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "17",
+    "bbox": [
+      "260.51",
+      "305.64",
+      "282.00",
+      "317.64"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Grey Goose Le Citron, Strawberry, Basil",
+    "bbox": [
+      "374.45",
+      "312.71",
+      "555.55",
+      "323.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Finger Lakes, New York 2017",
+    "bbox": [
+      "12.00",
+      "317.41",
+      "158.68",
+      "328.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Finger Lakes, New York 2017",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chardonnay, Smoke Tree",
+    "bbox": [
+      "12.00",
+      "332.14",
+      "142.95",
+      "344.23"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay, Smoke Tree",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "257.12",
+      "332.14",
+      "282.00",
+      "344.14"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Solleone Spritz",
+    "bbox": [
+      "422.52",
+      "332.03",
+      "507.48",
+      "344.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sonoma County, California 2018",
+    "bbox": [
+      "12.00",
+      "343.91",
+      "162.74",
+      "354.91"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Ketel One Botanicals Grapefruit & Rose, Aperol, Ginger",
+    "bbox": [
+      "338.71",
+      "343.71",
+      "591.29",
+      "354.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chardonnay, Jordan",
+    "bbox": [
+      "12.00",
+      "358.64",
+      "121.07",
+      "370.73"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay, Jordan",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "25",
+    "bbox": [
+      "254.73",
+      "358.64",
+      "282.00",
+      "370.64"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "25",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Vecchia Fiamma",
+    "bbox": [
+      "423.75",
+      "363.03",
+      "506.25",
+      "375.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Russian River Valley, Sonoma, California 2013",
+    "bbox": [
+      "12.00",
+      "370.41",
+      "221.42",
+      "381.41"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Woodford Reserve Bourbon, Amaro dell’Etna, Vanilla",
+    "bbox": [
+      "345.20",
+      "374.71",
+      "584.80",
+      "385.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Lost in Palermo",
+    "bbox": [
+      "423.05",
+      "394.03",
+      "506.95",
+      "406.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSÉ",
+    "bbox": [
+      "128.08",
+      "398.44",
+      "165.92",
+      "413.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Milagro Silver, Cointreau, Serrano Chile, Blood Orange",
+    "bbox": [
+      "340.36",
+      "405.71",
+      "589.64",
+      "416.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cosa Nostra",
+    "bbox": [
+      "430.44",
+      "420.53",
+      "499.56",
+      "432.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Grenache, ‘The Palm’, by Whispering Angel",
+    "bbox": [
+      "12.00",
+      "429.64",
+      "232.20",
+      "441.73"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grenache, ‘The Palm’, by Whispering Angel",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16",
+    "bbox": [
+      "271.79",
+      "429.64",
+      "282.00",
+      "441.64"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Ilegal Mezcal, Peach, Fresh Lime",
+    "bbox": [
+      "391.36",
+      "432.21",
+      "538.65",
+      "443.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Côtes de Provence, France 2020",
+    "bbox": [
+      "12.00",
+      "441.41",
+      "167.58",
+      "452.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Côtes de Provence, France 2020",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Il Tropicale",
+    "bbox": [
+      "433.22",
+      "451.53",
+      "496.78",
+      "463.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pinot Noir, François Crochet",
+    "bbox": [
+      "12.00",
+      "456.14",
+      "163.37",
+      "468.23"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir, François Crochet",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "271.76",
+      "456.14",
+      "282.00",
+      "468.14"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bacardi Cuatro Anejo, Pineapple, Red Bull Tropical Edition",
+    "bbox": [
+      "332.44",
+      "463.21",
+      "597.57",
+      "474.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sancerre, France 2018",
+    "bbox": [
+      "12.00",
+      "467.91",
+      "117.86",
+      "478.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sancerre, France 2018",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RED",
+    "bbox": [
+      "132.95",
+      "489.44",
+      "164.22",
+      "504.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BEER 9",
+    "bbox": [
+      "442.93",
+      "504.89",
+      "487.07",
+      "519.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pinot Nero, Mazzolino ‘Terraze’",
+    "bbox": [
+      "12.00",
+      "520.64",
+      "173.29",
+      "532.73"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Nero, Mazzolino ‘Terraze’",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16",
+    "bbox": [
+      "257.15",
+      "520.64",
+      "282.00",
+      "532.64"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Peroni ‘Nastro Azzurro’",
+    "bbox": [
+      "413.39",
+      "524.71",
+      "516.61",
+      "535.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Lombardy, Italy 2017",
+    "bbox": [
+      "12.00",
+      "533.41",
+      "122.68",
+      "544.41"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bud Light",
+    "bbox": [
+      "443.07",
+      "537.97",
+      "486.93",
+      "548.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Malbec, Terrazas de los Andes ‘Reserva’",
+    "bbox": [
+      "12.00",
+      "548.14",
+      "230.93",
+      "560.23"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Malbec, Terrazas de los Andes ‘Reserva",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "17",
+    "bbox": [
+      "272.22",
+      "548.14",
+      "282.00",
+      "560.14"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Heineken",
+    "bbox": [
+      "443.81",
+      "551.24",
+      "486.19",
+      "562.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Mendoza, Argentina 2018",
+    "bbox": [
+      "12.00",
+      "559.91",
+      "132.69",
+      "570.91"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Stella Artois",
+    "bbox": [
+      "437.32",
+      "564.51",
+      "492.68",
+      "575.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Barbera d’Alba, Damilano ‘Lablu’",
+    "bbox": [
+      "12.00",
+      "574.64",
+      "194.93",
+      "586.73"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Barbera d’Alba, Damilano ‘Lablu’",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "17",
+    "bbox": [
+      "272.22",
+      "574.64",
+      "282.00",
+      "586.64"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Amstel Light",
+    "bbox": [
+      "436.63",
+      "577.77",
+      "493.37",
+      "588.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Piedmont, Italy 2014",
+    "bbox": [
+      "12.00",
+      "586.41",
+      "125.37",
+      "597.41"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dos Equis Ambar",
+    "bbox": [
+      "425.76",
+      "591.04",
+      "504.24",
+      "602.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chianti Classico, Castello di Volpaia",
+    "bbox": [
+      "12.00",
+      "601.14",
+      "239.71",
+      "613.23"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chianti Classico, Castello di Volpaia",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "19",
+    "bbox": [
+      "264.00",
+      "601.14",
+      "280.07",
+      "613.14"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "19",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Birra del Borgo ‘Duchessa’ Saison",
+    "bbox": [
+      "388.41",
+      "604.31",
+      "541.59",
+      "615.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tuscany, Italy 2017",
+    "bbox": [
+      "12.00",
+      "612.91",
+      "99.65",
+      "623.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tuscany, Italy 2017",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sierra Nevada ‘Torpedo’ Extra IPA",
+    "bbox": [
+      "387.46",
+      "617.57",
+      "542.54",
+      "628.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Super Tuscan, Tolaini ‘Al Passo’",
+    "bbox": [
+      "12.00",
+      "627.64",
+      "170.09",
+      "639.73"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Super Tuscan, Tolaini ‘Al Passo’",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "20",
+    "bbox": [
+      "228.00",
+      "627.64",
+      "281.11",
+      "639.64"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "20",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Ommegang Witte",
+    "bbox": [
+      "424.00",
+      "630.84",
+      "506.00",
+      "641.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tuscany, Italy 2013",
+    "bbox": [
+      "12.00",
+      "639.41",
+      "97.20",
+      "650.41"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Heineken 0.0 Non-Alcoholic",
+    "bbox": [
+      "400.68",
+      "644.11",
+      "529.32",
+      "655.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cabernet, ‘Maestro’, by Robert Mondavi",
+    "bbox": [
+      "12.00",
+      "654.14",
+      "230.93",
+      "666.23"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet, ‘Maestro’, by Robert Mondavi",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "25",
+    "bbox": [
+      "264.00",
+      "654.14",
+      "279.55",
+      "666.14"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "25",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Napa Valley, California 2017",
+    "bbox": [
+      "12.00",
+      "665.91",
+      "142.49",
+      "676.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Napa Valley, California 2017",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "05.21.21",
+    "bbox": [
+      "288.00",
+      "768.08",
+      "318.11",
+      "778.08"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

@@ -1,0 +1,8193 @@
+[
+  {
+    "page_number": 1,
+    "text": "SUMMER COCKTAILS",
+    "bbox": [
+      "130.52",
+      "23.34",
+      "292.61",
+      "35.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$14",
+    "bbox": [
+      "195.64",
+      "37.75",
+      "223.89",
+      "49.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "STRAWBERRY FIZZ",
+    "bbox": [
+      "58.17",
+      "70.92",
+      "182.76",
+      "80.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GINTINI",
+    "bbox": [
+      "276.65",
+      "70.92",
+      "323.28",
+      "80.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tito’s Vodka, St Germain,",
+    "bbox": [
+      "56.20",
+      "83.87",
+      "184.25",
+      "93.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Aviation Gin, simple syrup,",
+    "bbox": [
+      "233.47",
+      "83.87",
+      "368.95",
+      "93.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "lemon, simple syrup,",
+    "bbox": [
+      "67.40",
+      "95.87",
+      "173.04",
+      "105.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "triple sec, cranberry, lime, lime",
+    "bbox": [
+      "222.52",
+      "95.87",
+      "379.90",
+      "105.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "strawberry purée,",
+    "bbox": [
+      "74.71",
+      "107.87",
+      "169.23",
+      "117.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "garnish.",
+    "bbox": [
+      "279.89",
+      "107.87",
+      "320.93",
+      "117.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "strawberries, and cilantro.",
+    "bbox": [
+      "52.96",
+      "119.87",
+      "187.49",
+      "129.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PASSIONFRUIT",
+    "bbox": [
+      "250.45",
+      "140.72",
+      "352.47",
+      "150.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SUMMERGIN",
+    "bbox": [
+      "79.87",
+      "152.72",
+      "158.06",
+      "162.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MARGARITA",
+    "bbox": [
+      "258.94",
+      "152.72",
+      "340.99",
+      "162.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Aviator Gin, lime, simple",
+    "bbox": [
+      "58.54",
+      "165.67",
+      "185.40",
+      "175.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Exotico Tequila, Goya",
+    "bbox": [
+      "246.48",
+      "165.67",
+      "355.95",
+      "175.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "syrup, muddled cucumber.",
+    "bbox": [
+      "52.92",
+      "177.67",
+      "185.93",
+      "187.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "passionfruit, Cointreau,",
+    "bbox": [
+      "240.87",
+      "177.67",
+      "365.06",
+      "187.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Giffard passionfruit,",
+    "bbox": [
+      "249.79",
+      "189.67",
+      "356.13",
+      "199.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "lime juice and agave.",
+    "bbox": [
+      "246.97",
+      "201.67",
+      "353.86",
+      "211.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CUCUMBER &",
+    "bbox": [
+      "76.13",
+      "210.52",
+      "167.81",
+      "220.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CILANTRO MARGARITA",
+    "bbox": [
+      "45.49",
+      "222.52",
+      "195.45",
+      "232.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sombra Mezcal, sparkling",
+    "bbox": [
+      "54.05",
+      "235.47",
+      "186.40",
+      "245.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "wine, agave, lime juice,",
+    "bbox": [
+      "60.77",
+      "247.47",
+      "179.67",
+      "257.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "cilantro, cucumber with",
+    "bbox": [
+      "59.30",
+      "259.47",
+      "184.64",
+      "269.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "a spicy rim.",
+    "bbox": [
+      "90.54",
+      "271.47",
+      "148.30",
+      "281.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sun’s out.",
+    "bbox": [
+      "261.55",
+      "302.55",
+      "313.58",
+      "325.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "D",
+    "bbox": [
+      "288.02",
+      "328.60",
+      "308.15",
+      "346.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "rinks up!",
+    "bbox": [
+      "310.33",
+      "322.74",
+      "348.58",
+      "343.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Please inform a member of our team if you have any food or beverage allergies.",
+    "bbox": [
+      "87.28",
+      "571.09",
+      "332.25",
+      "577.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "THE CLASSICS",
+    "bbox": [
+      "141.39",
+      "31.71",
+      "258.21",
+      "43.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$14",
+    "bbox": [
+      "183.88",
+      "46.11",
+      "212.12",
+      "58.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TOM COLLINS",
+    "bbox": [
+      "64.84",
+      "79.28",
+      "152.58",
+      "89.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "OAXACA OLD",
+    "bbox": [
+      "245.28",
+      "79.28",
+      "337.11",
+      "89.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Aviation Gin, lemon juice,",
+    "bbox": [
+      "43.56",
+      "88.96",
+      "176.86",
+      "98.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "FASHIONED",
+    "bbox": [
+      "251.46",
+      "91.28",
+      "327.94",
+      "101.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "simple syrup and club soda.",
+    "bbox": [
+      "37.04",
+      "100.96",
+      "178.27",
+      "110.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sombra Mezcal, simple",
+    "bbox": [
+      "229.93",
+      "100.96",
+      "352.47",
+      "110.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "syrup, orange bitters",
+    "bbox": [
+      "235.88",
+      "112.96",
+      "346.51",
+      "122.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "and angostura bitter.",
+    "bbox": [
+      "235.78",
+      "124.96",
+      "341.51",
+      "134.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MANHATTAN",
+    "bbox": [
+      "66.45",
+      "133.82",
+      "150.97",
+      "143.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Ezra Bourbon, tribuno",
+    "bbox": [
+      "52.36",
+      "143.50",
+      "168.06",
+      "153.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "sweet vermouth and",
+    "bbox": [
+      "55.71",
+      "155.50",
+      "164.70",
+      "165.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GIMLET",
+    "bbox": [
+      "264.81",
+      "157.82",
+      "314.59",
+      "167.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "angostura bitters.",
+    "bbox": [
+      "62.47",
+      "167.50",
+      "152.84",
+      "177.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pearl Vodka, lime juice",
+    "bbox": [
+      "231.06",
+      "167.50",
+      "351.33",
+      "177.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "and simple syrup.",
+    "bbox": [
+      "244.09",
+      "179.50",
+      "333.20",
+      "189.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DAIQUIRI",
+    "bbox": [
+      "79.48",
+      "200.35",
+      "137.93",
+      "210.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "El Dorado rum, lime juice",
+    "bbox": [
+      "44.59",
+      "210.03",
+      "175.83",
+      "220.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "STORMY N’ DARK",
+    "bbox": [
+      "233.62",
+      "212.35",
+      "345.78",
+      "222.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "and simple syrup.",
+    "bbox": [
+      "63.10",
+      "222.03",
+      "152.21",
+      "232.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Gosling rum, ginger",
+    "bbox": [
+      "239.06",
+      "222.03",
+      "343.34",
+      "232.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "beer and lime juice.",
+    "bbox": [
+      "238.65",
+      "234.03",
+      "338.64",
+      "244.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "COSMOPOLITAN",
+    "bbox": [
+      "56.68",
+      "254.89",
+      "160.73",
+      "264.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Citron Vodka, Cointreau,",
+    "bbox": [
+      "46.15",
+      "264.57",
+      "174.26",
+      "274.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "lime juice, cranberry juice",
+    "bbox": [
+      "41.89",
+      "276.57",
+      "178.52",
+      "286.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "and simple syrup.",
+    "bbox": [
+      "63.10",
+      "288.57",
+      "152.21",
+      "298.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "NEGRONI",
+    "bbox": [
+      "77.82",
+      "321.42",
+      "139.59",
+      "331.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "The classics",
+    "bbox": [
+      "257.77",
+      "311.67",
+      "328.58",
+      "337.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Botanist Gin, Campari and",
+    "bbox": [
+      "41.85",
+      "331.10",
+      "175.06",
+      "341.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sweet Vermouth.",
+    "bbox": [
+      "64.46",
+      "343.10",
+      "150.86",
+      "353.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "done right",
+    "bbox": [
+      "288.84",
+      "334.18",
+      "332.54",
+      "355.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Please inform a member of our team if you have any food or beverage allergies.",
+    "bbox": [
+      "75.52",
+      "579.45",
+      "320.48",
+      "585.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "COCKTAILS",
+    "bbox": [
+      "154.12",
+      "31.71",
+      "245.48",
+      "43.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$14",
+    "bbox": [
+      "183.88",
+      "46.11",
+      "212.12",
+      "58.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MADISON PARK PUNCH",
+    "bbox": [
+      "33.64",
+      "79.28",
+      "180.78",
+      "89.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "THE FLING",
+    "bbox": [
+      "254.99",
+      "79.28",
+      "321.40",
+      "89.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "El Dorado Rum, Gin Lane,",
+    "bbox": [
+      "44.57",
+      "92.23",
+      "175.84",
+      "102.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pearl Vodka, basil syrup,",
+    "bbox": [
+      "226.94",
+      "92.23",
+      "355.46",
+      "102.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pink, triple sec, white",
+    "bbox": [
+      "52.71",
+      "104.23",
+      "167.71",
+      "114.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "strawberry puree and",
+    "bbox": [
+      "234.31",
+      "104.23",
+      "348.08",
+      "114.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "cranberry juice, Pinapple",
+    "bbox": [
+      "44.36",
+      "116.23",
+      "176.06",
+      "126.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "lemon juice.",
+    "bbox": [
+      "257.80",
+      "116.23",
+      "321.10",
+      "126.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "juice, lemon juice, mint",
+    "bbox": [
+      "48.84",
+      "128.23",
+      "171.57",
+      "138.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "and blueberries.",
+    "bbox": [
+      "66.39",
+      "140.23",
+      "154.03",
+      "150.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SIESTA SUNRISE",
+    "bbox": [
+      "235.62",
+      "142.55",
+      "340.78",
+      "152.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Tanteo Jalapeno,",
+    "bbox": [
+      "245.87",
+      "155.50",
+      "336.53",
+      "165.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SMOKEY APRICOT",
+    "bbox": [
+      "49.55",
+      "169.82",
+      "170.87",
+      "179.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "watermelon, lime juice,",
+    "bbox": [
+      "230.03",
+      "167.50",
+      "352.36",
+      "177.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MARGARITA",
+    "bbox": [
+      "68.18",
+      "181.82",
+      "146.23",
+      "191.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "prosecco and blue agave",
+    "bbox": [
+      "225.10",
+      "179.50",
+      "353.80",
+      "189.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Banhez Mezcal, apricot",
+    "bbox": [
+      "47.91",
+      "194.76",
+      "172.51",
+      "204.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "liqueur, lime juice and agave",
+    "bbox": [
+      "35.28",
+      "206.76",
+      "181.63",
+      "216.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RED SANGRIA",
+    "bbox": [
+      "243.48",
+      "205.82",
+      "332.92",
+      "215.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "nectar, rimmed with a hot",
+    "bbox": [
+      "42.85",
+      "218.76",
+      "177.56",
+      "228.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Red wine, apple brandy,",
+    "bbox": [
+      "228.40",
+      "218.76",
+      "353.99",
+      "228.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "and sweet salt.",
+    "bbox": [
+      "69.08",
+      "230.76",
+      "146.23",
+      "240.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "peach liqueur and fresh fruit",
+    "bbox": [
+      "216.00",
+      "230.76",
+      "362.90",
+      "240.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PEACH",
+    "bbox": [
+      "265.45",
+      "257.08",
+      "316.95",
+      "267.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BLUEBERRY",
+    "bbox": [
+      "68.60",
+      "263.62",
+      "151.81",
+      "273.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MOSCOW MULE",
+    "bbox": [
+      "239.41",
+      "269.08",
+      "336.98",
+      "279.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BOURBON SIDECAR",
+    "bbox": [
+      "45.25",
+      "275.62",
+      "172.16",
+      "285.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Deep Eddy Peach Vodka,",
+    "bbox": [
+      "225.98",
+      "282.03",
+      "356.41",
+      "292.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Ezra Bourbon,",
+    "bbox": [
+      "72.16",
+      "288.57",
+      "148.25",
+      "298.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "lime juice, ginger beer.",
+    "bbox": [
+      "230.74",
+      "294.03",
+      "346.56",
+      "304.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "blueberry purée, lemon juice,",
+    "bbox": [
+      "33.80",
+      "300.57",
+      "183.11",
+      "310.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "triple sec, half sugar rim",
+    "bbox": [
+      "45.88",
+      "312.57",
+      "174.54",
+      "322.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "and lemon wheel.",
+    "bbox": [
+      "62.59",
+      "324.57",
+      "151.82",
+      "334.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MOCKTAILS",
+    "bbox": [
+      "153.79",
+      "379.75",
+      "245.81",
+      "391.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$8",
+    "bbox": [
+      "187.66",
+      "394.15",
+      "208.34",
+      "406.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CUCUMBER &",
+    "bbox": [
+      "68.33",
+      "419.44",
+      "160.01",
+      "429.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ISLAND",
+    "bbox": [
+      "262.92",
+      "419.44",
+      "316.72",
+      "429.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHAMOMILE",
+    "bbox": [
+      "72.43",
+      "431.44",
+      "149.91",
+      "441.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "DREAM",
+    "bbox": [
+      "263.39",
+      "431.44",
+      "310.25",
+      "441.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Fresh chamomile tea, cucumber,",
+    "bbox": [
+      "29.51",
+      "438.62",
+      "195.33",
+      "448.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "House made coconut puree,",
+    "bbox": [
+      "222.28",
+      "438.62",
+      "356.36",
+      "448.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "lime juice, muddled cucumber.",
+    "bbox": [
+      "34.40",
+      "448.12",
+      "190.43",
+      "458.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "pineapple juice and lime juice.",
+    "bbox": [
+      "217.15",
+      "448.12",
+      "358.99",
+      "458.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Add Aviation Gin +$4.00",
+    "bbox": [
+      "39.95",
+      "461.71",
+      "182.38",
+      "470.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Add El Dorado Rum  +$4.00",
+    "bbox": [
+      "206.12",
+      "461.71",
+      "367.52",
+      "470.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "HIBISCUS &",
+    "bbox": [
+      "80.67",
+      "492.43",
+      "159.48",
+      "502.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CUCUMBER WATER",
+    "bbox": [
+      "226.27",
+      "489.71",
+      "350.36",
+      "499.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cucumber-infused",
+    "bbox": [
+      "239.87",
+      "499.39",
+      "339.76",
+      "509.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PASSION FRUIT",
+    "bbox": [
+      "68.75",
+      "504.43",
+      "165.56",
+      "514.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Fresh brewed hibiscus tea,",
+    "bbox": [
+      "55.07",
+      "511.61",
+      "181.58",
+      "521.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "spring water.",
+    "bbox": [
+      "254.39",
+      "511.39",
+      "321.75",
+      "521.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "passion fruit syrup, lime juice,",
+    "bbox": [
+      "49.10",
+      "521.11",
+      "187.56",
+      "531.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$5",
+    "bbox": [
+      "278.21",
+      "525.71",
+      "295.42",
+      "535.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "muddled mint.",
+    "bbox": [
+      "84.20",
+      "530.61",
+      "152.45",
+      "540.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Add Pearl Vodka +$4.00",
+    "bbox": [
+      "45.96",
+      "544.20",
+      "188.20",
+      "553.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "All the fun, none of",
+    "bbox": [
+      "259.71",
+      "549.28",
+      "358.04",
+      "578.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "the hangover!",
+    "bbox": [
+      "279.13",
+      "569.35",
+      "343.72",
+      "594.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Please inform a member of our team if you have any food or beverage allergies.",
+    "bbox": [
+      "75.52",
+      "593.91",
+      "320.48",
+      "599.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SPARKLING & CHAMPAGNE",
+    "bbox": [
+      "91.51",
+      "31.62",
+      "302.70",
+      "43.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "125 ML / BOTTLE",
+    "bbox": [
+      "140.58",
+      "44.55",
+      "250.03",
+      "54.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CARPENE MALVOLTI, NV",
+    "bbox": [
+      "31.57",
+      "79.00",
+      "186.44",
+      "89.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PIPER-HEIDISIECK,",
+    "bbox": [
+      "230.27",
+      "77.43",
+      "352.72",
+      "89.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Veneto, Italy, 187ml bottle",
+    "bbox": [
+      "42.90",
+      "88.68",
+      "172.11",
+      "98.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BRUT CUVEE, NV",
+    "bbox": [
+      "234.72",
+      "91.75",
+      "345.27",
+      "101.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Reims, France, 750 ml",
+    "bbox": [
+      "233.47",
+      "101.43",
+      "343.53",
+      "111.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$13",
+    "bbox": [
+      "95.91",
+      "106.26",
+      "122.09",
+      "116.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$130",
+    "bbox": [
+      "272.17",
+      "119.01",
+      "307.83",
+      "129.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SEGURA CAVA",
+    "bbox": [
+      "59.87",
+      "133.53",
+      "158.14",
+      "143.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cataluna, Spain",
+    "bbox": [
+      "68.38",
+      "143.21",
+      "146.62",
+      "153.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "VEUVE CLICQUOT,",
+    "bbox": [
+      "231.56",
+      "143.01",
+      "351.44",
+      "153.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BRUT RESERVE, NV",
+    "bbox": [
+      "226.30",
+      "155.01",
+      "353.70",
+      "165.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$13/52",
+    "bbox": [
+      "82.60",
+      "160.80",
+      "132.41",
+      "170.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Reims, France, 750 ml",
+    "bbox": [
+      "233.47",
+      "164.69",
+      "343.53",
+      "174.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$140",
+    "bbox": [
+      "271.89",
+      "182.28",
+      "308.11",
+      "192.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CHANDON ROSE, NV",
+    "bbox": [
+      "39.00",
+      "187.50",
+      "177.88",
+      "198.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Yountville, California,",
+    "bbox": [
+      "54.37",
+      "197.75",
+      "166.63",
+      "207.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "HUGHES GODME,",
+    "bbox": [
+      "232.20",
+      "206.28",
+      "351.79",
+      "216.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "187ml bottle",
+    "bbox": [
+      "76.78",
+      "209.75",
+      "138.23",
+      "219.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "GRAND BRUT, NV",
+    "bbox": [
+      "230.58",
+      "217.71",
+      "348.29",
+      "228.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$14",
+    "bbox": [
+      "95.73",
+      "227.33",
+      "122.27",
+      "237.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Verzenay, France, 750 ml",
+    "bbox": [
+      "226.10",
+      "227.96",
+      "350.89",
+      "237.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$150",
+    "bbox": [
+      "272.22",
+      "245.55",
+      "307.78",
+      "255.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CAVICCHIOL ROSE",
+    "bbox": [
+      "48.88",
+      "257.33",
+      "172.12",
+      "267.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "1928, NV",
+    "bbox": [
+      "79.18",
+      "269.33",
+      "141.83",
+      "279.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "VILMART AND CLE,",
+    "bbox": [
+      "228.94",
+      "266.55",
+      "354.06",
+      "276.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Emilia Romagna, Italy, 750ml",
+    "bbox": [
+      "36.10",
+      "279.01",
+      "178.91",
+      "289.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PREMIER CRU BRUT,",
+    "bbox": [
+      "225.14",
+      "278.55",
+      "354.86",
+      "288.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2006",
+    "bbox": [
+      "270.55",
+      "289.98",
+      "310.20",
+      "300.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$45",
+    "bbox": [
+      "94.83",
+      "296.60",
+      "123.18",
+      "306.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Rilly, France, 750 ml",
+    "bbox": [
+      "238.54",
+      "300.23",
+      "338.46",
+      "310.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MELSHEIMER",
+    "bbox": [
+      "65.78",
+      "317.60",
+      "151.47",
+      "327.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$200",
+    "bbox": [
+      "270.53",
+      "317.82",
+      "309.47",
+      "327.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sparkling Riesling",
+    "bbox": [
+      "61.79",
+      "327.28",
+      "155.71",
+      "337.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Mosel, Germany, 750 ml",
+    "bbox": [
+      "48.40",
+      "339.28",
+      "166.61",
+      "349.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "DOM PERIGNON,",
+    "bbox": [
+      "238.05",
+      "341.82",
+      "344.94",
+      "351.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BRUT, 2006",
+    "bbox": [
+      "251.07",
+      "353.25",
+      "327.80",
+      "363.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$60",
+    "bbox": [
+      "94.10",
+      "356.87",
+      "123.90",
+      "366.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Epernay, France, 750 ml",
+    "bbox": [
+      "228.99",
+      "363.50",
+      "348.00",
+      "373.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "POL ROGER, BRUT",
+    "bbox": [
+      "50.20",
+      "380.87",
+      "170.81",
+      "390.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$275",
+    "bbox": [
+      "271.99",
+      "381.08",
+      "308.00",
+      "391.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RESERVE, NV",
+    "bbox": [
+      "64.13",
+      "392.30",
+      "152.75",
+      "402.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Epernay, France, 750 ml",
+    "bbox": [
+      "48.00",
+      "402.55",
+      "167.01",
+      "412.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CHARLES HEIDSIECK,",
+    "bbox": [
+      "220.40",
+      "405.08",
+      "359.59",
+      "415.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BRUT, 1995",
+    "bbox": [
+      "253.61",
+      "416.51",
+      "328.26",
+      "427.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$95",
+    "bbox": [
+      "95.00",
+      "420.14",
+      "120.00",
+      "430.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Reims, France, 750 ml",
+    "bbox": [
+      "233.47",
+      "426.76",
+      "343.53",
+      "436.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$375",
+    "bbox": [
+      "272.18",
+      "444.35",
+      "304.82",
+      "454.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "L. AUBRY FILS,",
+    "bbox": [
+      "61.83",
+      "450.67",
+      "159.17",
+      "460.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BRUT, NV",
+    "bbox": [
+      "78.63",
+      "462.67",
+      "139.38",
+      "472.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Jouy-les-Reims,",
+    "bbox": [
+      "67.04",
+      "472.35",
+      "153.96",
+      "482.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "France, 750 ml",
+    "bbox": [
+      "70.78",
+      "484.35",
+      "144.22",
+      "494.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$120",
+    "bbox": [
+      "91.14",
+      "501.94",
+      "126.87",
+      "511.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Please inform a member of our team if you have any food or beverage allergies.",
+    "bbox": [
+      "77.32",
+      "576.60",
+      "318.68",
+      "582.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "WHITE WINE",
+    "bbox": [
+      "151.10",
+      "37.40",
+      "248.50",
+      "49.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "175 ML / BOTTLE",
+    "bbox": [
+      "146.49",
+      "48.01",
+      "249.51",
+      "60.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "HOUSE WINE",
+    "bbox": [
+      "75.58",
+      "61.54",
+      "128.67",
+      "69.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "267.44",
+      "61.54",
+      "327.11",
+      "69.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "52.77",
+      "80.46",
+      "152.48",
+      "90.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "MATCH BOOK",
+    "bbox": [
+      "252.26",
+      "80.46",
+      "340.48",
+      "90.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MATCH BOOK",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$13 GL /$45 CARAFE",
+    "bbox": [
+      "30.94",
+      "92.46",
+      "174.31",
+      "102.46"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$13 GL /$45 CARAFE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Yolo County, California, 2018",
+    "bbox": [
+      "223.50",
+      "90.14",
+      "369.25",
+      "102.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Yolo County, California,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$13/45",
+    "bbox": [
+      "269.67",
+      "104.46",
+      "323.07",
+      "114.46"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$13/45",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "62.69",
+      "110.74",
+      "144.36",
+      "118.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ECHO BAY,",
+    "bbox": [
+      "68.11",
+      "129.66",
+      "140.14",
+      "139.66"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "ECHO BAY,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "SANDHI,",
+    "bbox": [
+      "269.16",
+      "128.46",
+      "326.58",
+      "138.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SANDHI,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sauvignon Blanc, New Zealand,",
+    "bbox": [
+      "22.19",
+      "139.34",
+      "182.56",
+      "149.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Santa Barbara County,",
+    "bbox": [
+      "239.37",
+      "138.14",
+      "356.38",
+      "148.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Santa Barbara County,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "2018",
+    "bbox": [
+      "89.23",
+      "151.34",
+      "115.53",
+      "161.34"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "California, 2018",
+    "bbox": [
+      "255.76",
+      "150.14",
+      "336.48",
+      "160.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "California, 2018",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$14/50",
+    "bbox": [
+      "75.28",
+      "165.66",
+      "129.98",
+      "175.66"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14/50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$16/60",
+    "bbox": [
+      "268.79",
+      "164.46",
+      "323.95",
+      "174.46"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16/60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "SANCERRE",
+    "bbox": [
+      "79.55",
+      "183.94",
+      "124.70",
+      "191.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "GROTH,",
+    "bbox": [
+      "271.37",
+      "188.46",
+      "324.38",
+      "198.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "GROTH,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Napa Valley, California, 2017",
+    "bbox": [
+      "224.49",
+      "198.14",
+      "367.75",
+      "208.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Napa Valley, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RAIMBAULT,",
+    "bbox": [
+      "63.21",
+      "202.86",
+      "145.05",
+      "212.86"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RAIMBAULT,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sancerre, Loire Valley, France",
+    "bbox": [
+      "26.93",
+      "212.54",
+      "177.82",
+      "222.54"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sancerre, Loire Valley, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$22/80",
+    "bbox": [
+      "267.87",
+      "212.46",
+      "324.88",
+      "222.46"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$22/80",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$17/65",
+    "bbox": [
+      "76.07",
+      "226.86",
+      "129.19",
+      "236.86"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17/65",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "VIRE CLESSE,",
+    "bbox": [
+      "251.33",
+      "236.46",
+      "344.42",
+      "246.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VIRE CLESSE,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "PINOT GRIGIO",
+    "bbox": [
+      "73.70",
+      "247.54",
+      "133.35",
+      "255.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Maconnais Burgundy,",
+    "bbox": [
+      "241.25",
+      "246.14",
+      "354.50",
+      "256.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Maconnais Burgundy,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "France, 2017",
+    "bbox": [
+      "263.22",
+      "258.14",
+      "329.02",
+      "268.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "France, 2017",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "TIEFENBRUNNER,",
+    "bbox": [
+      "45.21",
+      "266.46",
+      "163.05",
+      "276.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "TIEFENBRUNNER,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$24/90",
+    "bbox": [
+      "267.76",
+      "272.46",
+      "324.99",
+      "282.46"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$24/90",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pinot Grigio,",
+    "bbox": [
+      "70.13",
+      "276.14",
+      "138.12",
+      "286.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Grigio,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Alto Adige, Italy, 2018",
+    "bbox": [
+      "47.21",
+      "288.14",
+      "157.54",
+      "298.14"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 19
+          }
+        ],
+        "W": [
+          {
+            "text": "Alto Adige, Italy, 2018",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RIESLING",
+    "bbox": [
+      "276.36",
+      "293.14",
+      "315.39",
+      "301.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$13/45",
+    "bbox": [
+      "75.93",
+      "302.46",
+      "129.33",
+      "312.46"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$13/45",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "HERMANN J. WIEMER,",
+    "bbox": [
+      "226.12",
+      "312.06",
+      "369.62",
+      "322.06"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "HERMANN J. WIEMER,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "COOPER MOUNTAIN",
+    "bbox": [
+      "38.77",
+      "326.46",
+      "166.49",
+      "336.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "COOPER MOUNTAIN",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "FINGERLAKES SEMIDRY,",
+    "bbox": [
+      "218.82",
+      "322.85",
+      "373.98",
+      "335.26"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FINGERLAKES SEMIDRY,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Willamette Valley,",
+    "bbox": [
+      "56.92",
+      "336.14",
+      "151.33",
+      "346.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Willamette Valley,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Riesling 2017",
+    "bbox": [
+      "264.37",
+      "336.05",
+      "328.44",
+      "347.05"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Riesling 2017",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Beaverton.",
+    "bbox": [
+      "74.24",
+      "348.14",
+      "130.51",
+      "358.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Beaverton.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$14/$50",
+    "bbox": [
+      "264.71",
+      "350.46",
+      "328.04",
+      "360.46"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14/$50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$14/56",
+    "bbox": [
+      "75.92",
+      "362.46",
+      "129.33",
+      "372.46"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14/56",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "J. LOHR,",
+    "bbox": [
+      "269.29",
+      "375.66",
+      "326.46",
+      "385.66"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "J. LOHR,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CORTESE",
+    "bbox": [
+      "82.48",
+      "385.54",
+      "124.57",
+      "393.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Monterey County,",
+    "bbox": [
+      "254.83",
+      "385.34",
+      "339.92",
+      "395.34"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Monterey County,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "White Riesling 2019",
+    "bbox": [
+      "249.11",
+      "397.34",
+      "343.14",
+      "407.34"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "White Riesling 2019",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "VILLA SPARINA GAVI,",
+    "bbox": [
+      "32.88",
+      "404.46",
+      "172.37",
+      "414.46"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "A GA",
+            "answer_start": 12
+          }
+        ],
+        "W": [
+          {
+            "text": "VILLA SPARINA GAVI,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Piedmont, Italy, 2018",
+    "bbox": [
+      "48.92",
+      "414.14",
+      "155.84",
+      "424.14"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 17
+          }
+        ],
+        "W": [
+          {
+            "text": "Piedmont, Italy, 2018",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$14/$50",
+    "bbox": [
+      "264.71",
+      "417.66",
+      "325.04",
+      "427.66"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14/$50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$15/55",
+    "bbox": [
+      "76.31",
+      "428.46",
+      "128.95",
+      "438.46"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15/55",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "GEWURZTRAMINER",
+    "bbox": [
+      "62.58",
+      "449.14",
+      "144.47",
+      "457.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ROSÉ WINE",
+    "bbox": [
+      "246.43",
+      "458.38",
+      "337.00",
+      "470.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BANYAN,",
+    "bbox": [
+      "72.41",
+      "468.06",
+      "135.84",
+      "478.06"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BANYAN,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "175 ML / BOTTLE",
+    "bbox": [
+      "235.44",
+      "471.31",
+      "344.39",
+      "481.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Monterey County,",
+    "bbox": [
+      "57.33",
+      "477.74",
+      "150.92",
+      "487.74"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Monterey County,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "California, 2018",
+    "bbox": [
+      "62.02",
+      "489.74",
+      "142.74",
+      "499.74"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 12
+          }
+        ],
+        "W": [
+          {
+            "text": "California, 2018",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cote de Roses,",
+    "bbox": [
+      "244.10",
+      "491.50",
+      "342.72",
+      "501.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cote de Roses,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "es,",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$14/50",
+    "bbox": [
+      "75.28",
+      "504.06",
+      "129.98",
+      "514.06"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14/50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Languedoc, France 2020.",
+    "bbox": [
+      "226.47",
+      "501.19",
+      "355.85",
+      "511.19"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Languedoc, France 20",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$14/$50",
+    "bbox": [
+      "258.25",
+      "515.50",
+      "324.58",
+      "525.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14/$50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CORTESE",
+    "bbox": [
+      "82.48",
+      "524.74",
+      "121.77",
+      "532.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Hampton Water,",
+    "bbox": [
+      "240.67",
+      "539.50",
+      "342.16",
+      "549.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Hampton Water,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "South of France,",
+    "bbox": [
+      "248.61",
+      "549.18",
+      "333.71",
+      "559.18"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "South of France,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "FLORAL DE MELGACO",
+    "bbox": [
+      "31.76",
+      "553.26",
+      "173.49",
+      "563.26"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FLORAL DE MELGACO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Alvarinho, Minho,",
+    "bbox": [
+      "57.68",
+      "562.94",
+      "147.07",
+      "572.94"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Alvarinho, Minho,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$16/$60",
+    "bbox": [
+      "258.02",
+      "563.50",
+      "321.81",
+      "573.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16/$60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Portugal.",
+    "bbox": [
+      "78.65",
+      "574.94",
+      "126.11",
+      "584.94"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Portugal.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$14/56",
+    "bbox": [
+      "75.92",
+      "589.26",
+      "129.33",
+      "599.26"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14/56",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Please i nform a member of our team if you have any food or beverage allergies.",
+    "bbox": [
+      "77.32",
+      "599.30",
+      "318.68",
+      "611.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RED WINE",
+    "bbox": [
+      "160.21",
+      "25.35",
+      "239.39",
+      "37.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "175 ML / BOTTLE",
+    "bbox": [
+      "146.49",
+      "35.96",
+      "249.51",
+      "48.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "HOUSE WINE",
+    "bbox": [
+      "73.70",
+      "54.04",
+      "126.79",
+      "62.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MALBEC",
+    "bbox": [
+      "280.14",
+      "66.90",
+      "315.36",
+      "74.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "SANGIOVESE BLEND",
+    "bbox": [
+      "34.13",
+      "72.96",
+      "167.37",
+      "82.96"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SANGIOVESE BLEND",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$13 GL/ $45 CARAFE",
+    "bbox": [
+      "29.06",
+      "88.22",
+      "169.43",
+      "98.22"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$13 GL/ $45 CARAFE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "TRIVENTO,",
+    "bbox": [
+      "263.74",
+      "85.82",
+      "332.77",
+      "95.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "TRIVENTO,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Mendoza, Argentina, 2017",
+    "bbox": [
+      "230.26",
+      "95.50",
+      "365.74",
+      "105.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Mendoza, Argentina,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$14/50",
+    "bbox": [
+      "270.90",
+      "109.82",
+      "322.60",
+      "119.82"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14/50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "52.94",
+      "113.04",
+      "147.55",
+      "121.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BROADSIDE,",
+    "bbox": [
+      "61.02",
+      "131.96",
+      "140.48",
+      "141.96"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BROADSIDE,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ZINFANDEL",
+    "bbox": [
+      "274.70",
+      "134.64",
+      "320.80",
+      "142.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Paso Robles,",
+    "bbox": [
+      "67.11",
+      "141.64",
+      "137.39",
+      "151.64"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Paso Robles,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "California.",
+    "bbox": [
+      "73.79",
+      "153.64",
+      "127.21",
+      "163.64"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "California.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "TERRA D’ORO,",
+    "bbox": [
+      "252.04",
+      "151.24",
+      "346.96",
+      "163.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "TERRA D’ORO,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Amador County,",
+    "bbox": [
+      "257.54",
+      "163.24",
+      "338.46",
+      "173.24"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Amador County,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$13/52",
+    "bbox": [
+      "74.34",
+      "167.96",
+      "124.15",
+      "177.96"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$13/52",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Califonia, 2017",
+    "bbox": [
+      "260.05",
+      "175.24",
+      "335.96",
+      "185.24"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Califonia, 2017",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "NEWTON SKYSIDE,",
+    "bbox": [
+      "40.59",
+      "195.23",
+      "160.90",
+      "205.23"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "NEWTON SKYSIDE,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$15/55",
+    "bbox": [
+      "271.93",
+      "195.56",
+      "321.57",
+      "205.56"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15/55",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "North Coast,",
+    "bbox": [
+      "67.97",
+      "204.91",
+      "133.03",
+      "214.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "North Coast,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RIDGE VINEYARDS",
+    "bbox": [
+      "238.15",
+      "216.83",
+      "361.36",
+      "226.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RIDGE VINEYARDS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "California, 2017",
+    "bbox": [
+      "60.54",
+      "220.17",
+      "140.46",
+      "230.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "California, 2017",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "THREE VALLEYS,",
+    "bbox": [
+      "243.51",
+      "226.51",
+      "355.49",
+      "238.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "THREE VALLEYS,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$17/65",
+    "bbox": [
+      "74.19",
+      "234.49",
+      "127.31",
+      "244.49"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17/65",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sonoma County,",
+    "bbox": [
+      "256.50",
+      "238.51",
+      "343.00",
+      "248.51"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sonoma County,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Califonia, 2017",
+    "bbox": [
+      "260.05",
+      "250.51",
+      "335.96",
+      "260.51"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Califonia, 2017",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "PETER FRANUS",
+    "bbox": [
+      "49.07",
+      "258.49",
+      "155.42",
+      "268.49"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PETER FRANUS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$19/75",
+    "bbox": [
+      "271.79",
+      "264.83",
+      "321.71",
+      "274.83"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$19/75",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BRANDIN VINEYARD,",
+    "bbox": [
+      "34.28",
+      "270.49",
+      "167.21",
+      "280.49"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BRANDIN VINEYARD,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Napa Valley,",
+    "bbox": [
+      "69.33",
+      "280.17",
+      "135.17",
+      "290.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Napa Valley,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "California, 2016",
+    "bbox": [
+      "59.84",
+      "292.17",
+      "141.16",
+      "302.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "California, 2016",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CORVINO",
+    "bbox": [
+      "278.38",
+      "289.64",
+      "317.12",
+      "297.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$45/160",
+    "bbox": [
+      "69.10",
+      "306.49",
+      "132.39",
+      "316.49"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$45/160",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "VENTURINI",
+    "bbox": [
+      "261.74",
+      "308.56",
+      "337.76",
+      "318.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VENTURINI",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "VALPOLICELLA,",
+    "bbox": [
+      "247.19",
+      "320.56",
+      "349.31",
+      "330.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VALPOLICELLA,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "LLA",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "STAGS LEAP ,",
+    "bbox": [
+      "56.47",
+      "330.49",
+      "145.03",
+      "340.49"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "STAGS LEAP ,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Veneto, Italy, 2017",
+    "bbox": [
+      "251.37",
+      "330.24",
+      "344.63",
+      "340.24"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Veneto, Italy, 2017",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Stags Leap District,",
+    "bbox": [
+      "49.98",
+      "340.17",
+      "154.51",
+      "350.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Stags Leap District,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$14/50",
+    "bbox": [
+      "270.90",
+      "343.64",
+      "324.60",
+      "354.56"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14/50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "California.",
+    "bbox": [
+      "73.79",
+      "352.17",
+      "127.21",
+      "362.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "California.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$-/153",
+    "bbox": [
+      "76.12",
+      "366.49",
+      "125.38",
+      "376.49"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$-/153",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "GRENACHE/SYRAH",
+    "bbox": [
+      "259.50",
+      "372.44",
+      "336.00",
+      "380.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MERLOT",
+    "bbox": [
+      "83.05",
+      "387.17",
+      "117.45",
+      "395.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "DAMIANE BRUSSET,",
+    "bbox": [
+      "234.36",
+      "391.36",
+      "362.15",
+      "401.36"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DAMIANE BRUSSET,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "USSE",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Rhone, France, 2017",
+    "bbox": [
+      "246.20",
+      "401.04",
+      "349.80",
+      "411.04"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rhone, France, 2017",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "TARRICA,",
+    "bbox": [
+      "69.23",
+      "406.09",
+      "132.27",
+      "416.09"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "TARRICA,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Paso Robles,",
+    "bbox": [
+      "67.11",
+      "415.77",
+      "137.39",
+      "425.77"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Paso Robles,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$15/55",
+    "bbox": [
+      "271.93",
+      "415.36",
+      "324.57",
+      "425.36"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15/55",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "California 2018",
+    "bbox": [
+      "61.48",
+      "427.77",
+      "139.52",
+      "437.77"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "California 2018",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$14/50",
+    "bbox": [
+      "73.40",
+      "442.09",
+      "128.10",
+      "452.09"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14/50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ORIN SWIFT,",
+    "bbox": [
+      "259.10",
+      "439.36",
+      "340.40",
+      "449.36"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "ORIN SWIFT,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ABSTRACT,",
+    "bbox": [
+      "260.48",
+      "451.36",
+      "336.03",
+      "461.36"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "ABSTRACT,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Napa Valley,",
+    "bbox": [
+      "266.83",
+      "461.04",
+      "332.67",
+      "471.04"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "Napa Valley,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "76.02",
+      "472.04",
+      "125.48",
+      "482.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "California, 2015",
+    "bbox": [
+      "257.55",
+      "473.04",
+      "338.45",
+      "483.04"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "California, 2015",
+            "answer_start": 0
+          },
+          {
+            "text": "2015",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$19/75",
+    "bbox": [
+      "271.79",
+      "487.36",
+      "321.71",
+      "497.36"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$19/75",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CHLOE,",
+    "bbox": [
+      "76.32",
+      "494.64",
+      "127.67",
+      "506.96"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHLOE,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Monterey County,",
+    "bbox": [
+      "55.45",
+      "506.64",
+      "149.04",
+      "516.64"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Monterey County,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "TEMPRANILLO",
+    "bbox": [
+      "268.47",
+      "512.18",
+      "327.04",
+      "520.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "California 2018",
+    "bbox": [
+      "61.48",
+      "518.64",
+      "139.52",
+      "528.64"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "California 2018",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "LA RIOJA ALTA",
+    "bbox": [
+      "248.28",
+      "531.10",
+      "351.23",
+      "541.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LA RIOJA ALTA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$14/$50",
+    "bbox": [
+      "69.08",
+      "536.23",
+      "129.41",
+      "546.23"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14/$50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RIOJA VINA",
+    "bbox": [
+      "258.63",
+      "543.10",
+      "340.87",
+      "553.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RIOJA VINA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ALBERDI RESERVA,",
+    "bbox": [
+      "235.10",
+      "555.10",
+      "361.41",
+      "565.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ALBERDI RESERVA,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "RVA",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Rioja Alta, Spain, 2014",
+    "bbox": [
+      "240.96",
+      "564.78",
+      "355.05",
+      "574.78"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rioja Alta, Spain, 2014",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$16/60",
+    "bbox": [
+      "270.67",
+      "579.10",
+      "322.83",
+      "589.10"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16/60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Please inform a member of our team if you have any food or beverage allergies.",
+    "bbox": [
+      "77.32",
+      "600.00",
+      "318.68",
+      "606.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SPIRITS",
+    "bbox": [
+      "168.64",
+      "33.35",
+      "227.36",
+      "45.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "VODKA",
+    "bbox": [
+      "169.43",
+      "60.84",
+      "226.57",
+      "72.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BELVEDERE",
+    "bbox": [
+      "43.64",
+      "85.06",
+      "121.60",
+      "95.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "STOLI",
+    "bbox": [
+      "180.36",
+      "85.06",
+      "218.64",
+      "95.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "STOLI O",
+    "bbox": [
+      "291.02",
+      "85.06",
+      "341.74",
+      "95.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$14",
+    "bbox": [
+      "69.35",
+      "97.06",
+      "92.89",
+      "107.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$14",
+    "bbox": [
+      "186.23",
+      "97.06",
+      "209.77",
+      "107.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$13",
+    "bbox": [
+      "303.29",
+      "97.06",
+      "326.47",
+      "107.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "GREY GOOSE",
+    "bbox": [
+      "38.25",
+      "118.33",
+      "126.98",
+      "128.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "STOLI CITRON",
+    "bbox": [
+      "154.81",
+      "118.33",
+      "244.19",
+      "128.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "STOLI VANILLA",
+    "bbox": [
+      "267.39",
+      "118.33",
+      "365.38",
+      "128.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$14",
+    "bbox": [
+      "69.35",
+      "130.33",
+      "92.89",
+      "140.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$13",
+    "bbox": [
+      "186.41",
+      "130.33",
+      "209.59",
+      "140.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$13",
+    "bbox": [
+      "303.29",
+      "130.33",
+      "326.47",
+      "140.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "PEARL VODKA",
+    "bbox": [
+      "150.85",
+      "145.60",
+      "248.15",
+      "155.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "KETTLE ONE",
+    "bbox": [
+      "41.25",
+      "151.60",
+      "123.98",
+      "161.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "TITOS",
+    "bbox": [
+      "296.57",
+      "151.60",
+      "336.19",
+      "161.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$14",
+    "bbox": [
+      "69.35",
+      "163.60",
+      "92.89",
+      "173.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$12",
+    "bbox": [
+      "186.33",
+      "160.87",
+      "209.68",
+      "170.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$13",
+    "bbox": [
+      "303.29",
+      "163.60",
+      "326.47",
+      "173.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "TEQUILA / MEZCAL",
+    "bbox": [
+      "122.63",
+      "200.64",
+      "273.37",
+      "212.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BANHEZ",
+    "bbox": [
+      "53.79",
+      "222.89",
+      "114.44",
+      "232.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CASAMIGOS",
+    "bbox": [
+      "158.44",
+      "222.89",
+      "243.55",
+      "232.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "PATRON",
+    "bbox": [
+      "289.26",
+      "222.89",
+      "343.51",
+      "232.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MECAL",
+    "bbox": [
+      "58.58",
+      "234.89",
+      "106.66",
+      "244.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "REPOSADO",
+    "bbox": [
+      "161.92",
+      "234.89",
+      "237.08",
+      "244.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$16",
+    "bbox": [
+      "303.14",
+      "234.89",
+      "326.63",
+      "244.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$12",
+    "bbox": [
+      "69.44",
+      "246.89",
+      "95.79",
+      "256.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$17",
+    "bbox": [
+      "186.43",
+      "246.89",
+      "212.57",
+      "256.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CASAMIGOS",
+    "bbox": [
+      "275.33",
+      "265.43",
+      "357.44",
+      "275.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CASAMIGOS",
+    "bbox": [
+      "41.56",
+      "270.89",
+      "123.67",
+      "280.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DON JULIO 1942",
+    "bbox": [
+      "146.84",
+      "270.89",
+      "252.16",
+      "280.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MEZCAL",
+    "bbox": [
+      "288.36",
+      "277.43",
+      "344.41",
+      "287.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ANEJO",
+    "bbox": [
+      "58.12",
+      "282.89",
+      "104.12",
+      "292.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$42",
+    "bbox": [
+      "185.14",
+      "282.89",
+      "213.86",
+      "292.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$14",
+    "bbox": [
+      "303.11",
+      "292.70",
+      "326.65",
+      "302.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$18",
+    "bbox": [
+      "69.37",
+      "298.16",
+      "95.87",
+      "308.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DON JULIO",
+    "bbox": [
+      "164.27",
+      "306.89",
+      "234.73",
+      "316.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BLANCO",
+    "bbox": [
+      "170.52",
+      "318.89",
+      "228.48",
+      "328.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CASAMIGOS",
+    "bbox": [
+      "41.56",
+      "322.16",
+      "123.67",
+      "332.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SOMBRA",
+    "bbox": [
+      "286.21",
+      "323.23",
+      "346.55",
+      "333.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$17",
+    "bbox": [
+      "186.43",
+      "330.89",
+      "212.57",
+      "340.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BLANCO",
+    "bbox": [
+      "53.64",
+      "334.16",
+      "111.60",
+      "344.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MEZCAL",
+    "bbox": [
+      "288.36",
+      "338.50",
+      "344.41",
+      "348.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$16",
+    "bbox": [
+      "69.37",
+      "346.16",
+      "92.86",
+      "356.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "EXOTICO",
+    "bbox": [
+      "170.36",
+      "354.89",
+      "225.65",
+      "364.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$12",
+    "bbox": [
+      "303.21",
+      "353.77",
+      "329.56",
+      "363.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$12",
+    "bbox": [
+      "186.33",
+      "370.16",
+      "209.68",
+      "380.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RUM",
+    "bbox": [
+      "180.82",
+      "412.61",
+      "215.18",
+      "424.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BACARDI",
+    "bbox": [
+      "51.83",
+      "438.47",
+      "116.40",
+      "448.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MALIBU",
+    "bbox": [
+      "173.81",
+      "438.47",
+      "225.19",
+      "448.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SAILOR JERRY",
+    "bbox": [
+      "268.02",
+      "438.47",
+      "364.75",
+      "448.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "LIGHT",
+    "bbox": [
+      "62.55",
+      "450.47",
+      "102.69",
+      "460.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$12",
+    "bbox": [
+      "186.33",
+      "450.47",
+      "212.67",
+      "460.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$14",
+    "bbox": [
+      "303.11",
+      "450.47",
+      "329.65",
+      "460.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$12",
+    "bbox": [
+      "69.44",
+      "462.47",
+      "98.79",
+      "472.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MEYERS",
+    "bbox": [
+      "171.25",
+      "474.47",
+      "227.75",
+      "484.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "WRAY AND",
+    "bbox": [
+      "279.29",
+      "474.47",
+      "353.47",
+      "484.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "EL DORADO",
+    "bbox": [
+      "43.69",
+      "486.47",
+      "121.54",
+      "496.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$14",
+    "bbox": [
+      "186.23",
+      "486.47",
+      "212.77",
+      "496.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "NEPHEW",
+    "bbox": [
+      "286.58",
+      "486.47",
+      "349.18",
+      "496.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$12",
+    "bbox": [
+      "69.44",
+      "498.47",
+      "95.79",
+      "508.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "OVERPROOF",
+    "bbox": [
+      "274.67",
+      "498.47",
+      "355.13",
+      "508.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RON",
+    "bbox": [
+      "184.05",
+      "510.47",
+      "217.95",
+      "520.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$14",
+    "bbox": [
+      "303.11",
+      "513.74",
+      "326.65",
+      "523.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "GOSLINGS",
+    "bbox": [
+      "47.99",
+      "522.47",
+      "117.25",
+      "532.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ZACCAPA 23",
+    "bbox": [
+      "155.92",
+      "522.47",
+      "243.08",
+      "532.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$12",
+    "bbox": [
+      "69.44",
+      "534.47",
+      "92.79",
+      "544.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$18",
+    "bbox": [
+      "186.25",
+      "534.47",
+      "209.75",
+      "544.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DON PAPA",
+    "bbox": [
+      "282.05",
+      "544.27",
+      "353.72",
+      "554.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$14",
+    "bbox": [
+      "303.11",
+      "556.27",
+      "326.65",
+      "566.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Please inform a member of our team if you have any food or beverage allergies.",
+    "bbox": [
+      "77.32",
+      "579.45",
+      "318.68",
+      "585.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "SPIRITS",
+    "bbox": [
+      "168.64",
+      "33.35",
+      "227.36",
+      "45.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "GIN",
+    "bbox": [
+      "184.35",
+      "60.84",
+      "211.65",
+      "72.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "AVIATION",
+    "bbox": [
+      "51.08",
+      "85.06",
+      "114.15",
+      "95.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BROOKLYN",
+    "bbox": [
+      "163.38",
+      "85.06",
+      "235.62",
+      "95.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "NEVERSINK",
+    "bbox": [
+      "276.67",
+      "85.06",
+      "356.09",
+      "95.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$12",
+    "bbox": [
+      "69.44",
+      "97.06",
+      "95.79",
+      "107.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$14",
+    "bbox": [
+      "186.23",
+      "97.06",
+      "212.77",
+      "107.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$14",
+    "bbox": [
+      "303.11",
+      "97.06",
+      "329.65",
+      "107.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BEEFEATER",
+    "bbox": [
+      "43.29",
+      "121.06",
+      "121.94",
+      "131.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "GIN LANE PINK",
+    "bbox": [
+      "150.15",
+      "121.06",
+      "248.85",
+      "131.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "TANQUERAY",
+    "bbox": [
+      "275.11",
+      "121.06",
+      "354.68",
+      "131.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$12",
+    "bbox": [
+      "69.44",
+      "133.06",
+      "95.79",
+      "143.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$12",
+    "bbox": [
+      "186.33",
+      "133.06",
+      "212.67",
+      "143.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$14",
+    "bbox": [
+      "303.11",
+      "136.33",
+      "326.65",
+      "146.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BOMBAY",
+    "bbox": [
+      "53.64",
+      "157.06",
+      "111.59",
+      "167.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "HENDRICKS",
+    "bbox": [
+      "160.60",
+      "157.06",
+      "238.40",
+      "167.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "SAPPHIRE",
+    "bbox": [
+      "48.32",
+      "169.06",
+      "116.91",
+      "179.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$14",
+    "bbox": [
+      "186.23",
+      "169.06",
+      "209.77",
+      "179.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$12",
+    "bbox": [
+      "69.44",
+      "181.06",
+      "92.79",
+      "191.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BOURBON/WHISKY",
+    "bbox": [
+      "120.69",
+      "231.69",
+      "265.90",
+      "246.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "ANGELS ENVY",
+    "bbox": [
+      "34.08",
+      "264.18",
+      "131.15",
+      "274.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CROWN ROYAL",
+    "bbox": [
+      "150.99",
+      "264.18",
+      "248.01",
+      "274.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MARKER’S",
+    "bbox": [
+      "281.10",
+      "264.18",
+      "351.66",
+      "274.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$14",
+    "bbox": [
+      "69.35",
+      "276.18",
+      "95.89",
+      "286.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$14",
+    "bbox": [
+      "186.23",
+      "276.18",
+      "215.77",
+      "286.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MARK",
+    "bbox": [
+      "295.33",
+      "276.18",
+      "340.43",
+      "286.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$14",
+    "bbox": [
+      "303.11",
+      "288.18",
+      "329.65",
+      "298.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BASIL HAYDEN",
+    "bbox": [
+      "34.15",
+      "300.18",
+      "131.09",
+      "310.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "EAGLE RARE",
+    "bbox": [
+      "155.94",
+      "300.18",
+      "243.06",
+      "310.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$15",
+    "bbox": [
+      "69.63",
+      "312.18",
+      "98.61",
+      "322.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$16",
+    "bbox": [
+      "186.26",
+      "312.18",
+      "212.74",
+      "322.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MICHTER’S",
+    "bbox": [
+      "280.48",
+      "312.18",
+      "352.28",
+      "322.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BOURBON",
+    "bbox": [
+      "282.83",
+      "324.18",
+      "349.94",
+      "334.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BLANTON’S",
+    "bbox": [
+      "44.45",
+      "336.18",
+      "120.78",
+      "346.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "JACK DANIELS",
+    "bbox": [
+      "150.82",
+      "336.18",
+      "248.18",
+      "346.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$14",
+    "bbox": [
+      "303.11",
+      "336.18",
+      "329.65",
+      "346.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$17",
+    "bbox": [
+      "69.54",
+      "348.18",
+      "95.69",
+      "358.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$14",
+    "bbox": [
+      "186.23",
+      "348.18",
+      "212.77",
+      "358.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MICHTER’S",
+    "bbox": [
+      "280.48",
+      "360.18",
+      "355.28",
+      "370.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BULLEIT",
+    "bbox": [
+      "55.53",
+      "372.18",
+      "109.71",
+      "382.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "JAMESON",
+    "bbox": [
+      "165.90",
+      "372.18",
+      "236.10",
+      "382.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "RYE",
+    "bbox": [
+      "301.87",
+      "372.18",
+      "333.90",
+      "382.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$14",
+    "bbox": [
+      "69.35",
+      "384.18",
+      "98.89",
+      "394.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$14",
+    "bbox": [
+      "186.23",
+      "384.18",
+      "212.77",
+      "394.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$14",
+    "bbox": [
+      "303.11",
+      "384.18",
+      "329.65",
+      "394.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BULLEIT RYE",
+    "bbox": [
+      "41.01",
+      "408.18",
+      "124.22",
+      "418.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "KNOB CREEK",
+    "bbox": [
+      "155.51",
+      "408.18",
+      "243.49",
+      "418.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "SEAGRAM’S 7",
+    "bbox": [
+      "270.15",
+      "408.18",
+      "362.62",
+      "418.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$14",
+    "bbox": [
+      "69.35",
+      "420.18",
+      "98.89",
+      "430.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$16",
+    "bbox": [
+      "186.26",
+      "420.18",
+      "209.75",
+      "430.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$12",
+    "bbox": [
+      "303.21",
+      "420.18",
+      "326.56",
+      "430.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CANADIAN",
+    "bbox": [
+      "46.35",
+      "444.18",
+      "118.88",
+      "454.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CLUB",
+    "bbox": [
+      "63.85",
+      "456.18",
+      "104.38",
+      "466.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$12",
+    "bbox": [
+      "69.44",
+      "468.18",
+      "95.79",
+      "478.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Please inform a member of our team if you have any food or beverage allergies.",
+    "bbox": [
+      "77.32",
+      "576.60",
+      "318.68",
+      "582.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "SPIRITS",
+    "bbox": [
+      "168.64",
+      "33.35",
+      "227.36",
+      "45.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "SCOTCH / WHISKEY",
+    "bbox": [
+      "119.84",
+      "60.37",
+      "276.20",
+      "72.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "BALVENIE 12",
+    "bbox": [
+      "40.29",
+      "113.55",
+      "124.94",
+      "123.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "GLENLIVET",
+    "bbox": [
+      "162.50",
+      "113.55",
+      "239.50",
+      "123.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "JOHNNY",
+    "bbox": [
+      "287.31",
+      "113.55",
+      "348.45",
+      "123.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "YEAR",
+    "bbox": [
+      "62.69",
+      "125.55",
+      "105.54",
+      "135.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "12 YEAR",
+    "bbox": [
+      "171.02",
+      "125.55",
+      "230.98",
+      "135.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "WALKER BLUE",
+    "bbox": [
+      "269.27",
+      "125.55",
+      "363.50",
+      "135.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$18",
+    "bbox": [
+      "69.37",
+      "137.55",
+      "95.87",
+      "147.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$16",
+    "bbox": [
+      "186.26",
+      "137.55",
+      "212.74",
+      "147.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$52",
+    "bbox": [
+      "302.50",
+      "137.55",
+      "330.26",
+      "147.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "CHIVAS REGAL",
+    "bbox": [
+      "32.87",
+      "161.55",
+      "132.37",
+      "171.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "GLENLIVET",
+    "bbox": [
+      "162.50",
+      "161.55",
+      "239.50",
+      "171.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "LAGAVULIN",
+    "bbox": [
+      "277.57",
+      "161.55",
+      "358.20",
+      "171.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$14",
+    "bbox": [
+      "69.35",
+      "173.55",
+      "95.89",
+      "183.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "18 YEAR",
+    "bbox": [
+      "170.94",
+      "173.55",
+      "231.05",
+      "183.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "16 YEAR",
+    "bbox": [
+      "287.83",
+      "173.55",
+      "347.93",
+      "183.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$42",
+    "bbox": [
+      "185.14",
+      "185.55",
+      "213.86",
+      "195.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$35",
+    "bbox": [
+      "302.44",
+      "185.55",
+      "330.33",
+      "195.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "DEWAR’S",
+    "bbox": [
+      "52.02",
+      "197.55",
+      "116.22",
+      "207.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$13",
+    "bbox": [
+      "69.53",
+      "209.55",
+      "95.71",
+      "219.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "HIBIKI",
+    "bbox": [
+      "179.28",
+      "209.55",
+      "222.72",
+      "219.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "MACALLAN",
+    "bbox": [
+      "278.26",
+      "209.55",
+      "357.50",
+      "219.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "HARMONY",
+    "bbox": [
+      "164.68",
+      "221.55",
+      "237.32",
+      "231.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "12 YEAR",
+    "bbox": [
+      "287.90",
+      "221.55",
+      "347.86",
+      "231.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "GLENFIDDICH 12",
+    "bbox": [
+      "29.97",
+      "233.55",
+      "135.26",
+      "243.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$22",
+    "bbox": [
+      "185.24",
+      "233.55",
+      "213.76",
+      "243.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$19",
+    "bbox": [
+      "303.14",
+      "233.55",
+      "326.63",
+      "243.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "YEAR",
+    "bbox": [
+      "62.69",
+      "245.55",
+      "105.54",
+      "255.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "YAMAZAKI 12",
+    "bbox": [
+      "271.43",
+      "248.82",
+      "361.34",
+      "258.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$16",
+    "bbox": [
+      "69.37",
+      "257.55",
+      "92.86",
+      "267.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "JOHNNY",
+    "bbox": [
+      "170.43",
+      "257.55",
+      "228.57",
+      "267.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$24",
+    "bbox": [
+      "302.10",
+      "260.82",
+      "327.66",
+      "270.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "WALKER BLACK",
+    "bbox": [
+      "146.50",
+      "269.55",
+      "252.50",
+      "279.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$15",
+    "bbox": [
+      "186.51",
+      "281.55",
+      "209.49",
+      "291.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "BRANDY",
+    "bbox": [
+      "165.01",
+      "337.22",
+      "231.03",
+      "349.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "COPPER",
+    "bbox": [
+      "57.57",
+      "371.11",
+      "116.94",
+      "381.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "HENNESSY VS",
+    "bbox": [
+      "153.46",
+      "371.11",
+      "249.30",
+      "381.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "NAUD VSOP",
+    "bbox": [
+      "277.42",
+      "371.11",
+      "356.59",
+      "381.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "AND KINGS",
+    "bbox": [
+      "48.24",
+      "383.11",
+      "123.28",
+      "393.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$18",
+    "bbox": [
+      "188.13",
+      "383.11",
+      "214.63",
+      "393.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$16",
+    "bbox": [
+      "303.76",
+      "383.11",
+      "330.25",
+      "393.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$12",
+    "bbox": [
+      "72.58",
+      "395.11",
+      "98.93",
+      "405.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "LUSTAU",
+    "bbox": [
+      "175.16",
+      "407.11",
+      "227.60",
+      "417.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "NAUD XO",
+    "bbox": [
+      "286.64",
+      "407.11",
+      "347.37",
+      "417.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "HENNESSY",
+    "bbox": [
+      "48.56",
+      "419.11",
+      "122.96",
+      "429.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$12",
+    "bbox": [
+      "188.21",
+      "419.11",
+      "214.56",
+      "429.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$18",
+    "bbox": [
+      "303.76",
+      "419.11",
+      "327.26",
+      "429.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "VSOP",
+    "bbox": [
+      "66.10",
+      "431.11",
+      "105.41",
+      "441.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$20",
+    "bbox": [
+      "71.03",
+      "443.11",
+      "97.49",
+      "453.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "NAUD VS",
+    "bbox": [
+      "170.73",
+      "443.11",
+      "232.03",
+      "453.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$14",
+    "bbox": [
+      "188.11",
+      "455.11",
+      "211.65",
+      "465.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Want to a little something to youor coffee",
+    "bbox": [
+      "137.65",
+      "496.35",
+      "338.03",
+      "515.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "- just ask a member of our team!",
+    "bbox": [
+      "159.85",
+      "519.70",
+      "313.05",
+      "538.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Please inform a member of our team if you have any food or beverage allergies.",
+    "bbox": [
+      "77.32",
+      "576.60",
+      "318.68",
+      "582.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "LIQUEURS",
+    "bbox": [
+      "159.82",
+      "33.35",
+      "236.18",
+      "45.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "AMARETTO",
+    "bbox": [
+      "47.54",
+      "64.08",
+      "126.98",
+      "74.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "DRAMBUIE",
+    "bbox": [
+      "165.72",
+      "64.08",
+      "237.05",
+      "74.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "KAHLUA",
+    "bbox": [
+      "287.82",
+      "64.08",
+      "346.19",
+      "74.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "DI SARONNO",
+    "bbox": [
+      "44.36",
+      "76.08",
+      "127.15",
+      "86.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$15",
+    "bbox": [
+      "188.39",
+      "76.08",
+      "214.37",
+      "86.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$13",
+    "bbox": [
+      "303.92",
+      "76.08",
+      "330.10",
+      "86.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$12",
+    "bbox": [
+      "72.58",
+      "88.08",
+      "98.93",
+      "98.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "FERNET",
+    "bbox": [
+      "174.18",
+      "100.08",
+      "231.59",
+      "110.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "LILLET BLANC",
+    "bbox": [
+      "270.93",
+      "100.08",
+      "363.08",
+      "110.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "APEROL",
+    "bbox": [
+      "57.89",
+      "112.08",
+      "113.62",
+      "122.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "BRANCA",
+    "bbox": [
+      "171.16",
+      "112.08",
+      "231.60",
+      "122.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$10",
+    "bbox": [
+      "303.22",
+      "112.08",
+      "330.80",
+      "122.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$12",
+    "bbox": [
+      "72.58",
+      "124.08",
+      "98.93",
+      "134.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$12",
+    "bbox": [
+      "188.21",
+      "124.08",
+      "214.56",
+      "134.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "MR. BLACK",
+    "bbox": [
+      "280.22",
+      "136.08",
+      "353.80",
+      "146.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "BAILEYS",
+    "bbox": [
+      "56.85",
+      "148.08",
+      "114.67",
+      "158.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "FRANGELICO",
+    "bbox": [
+      "157.66",
+      "148.08",
+      "245.10",
+      "158.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "COFFEE",
+    "bbox": [
+      "289.67",
+      "148.08",
+      "344.34",
+      "158.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$13",
+    "bbox": [
+      "72.67",
+      "160.08",
+      "98.85",
+      "170.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$13",
+    "bbox": [
+      "188.29",
+      "160.08",
+      "214.47",
+      "170.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$12",
+    "bbox": [
+      "303.83",
+      "160.08",
+      "330.18",
+      "170.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "CAMPARI",
+    "bbox": [
+      "54.60",
+      "184.08",
+      "116.91",
+      "194.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "GODIVA",
+    "bbox": [
+      "175.08",
+      "184.08",
+      "227.69",
+      "194.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "SAMBUCA",
+    "bbox": [
+      "282.33",
+      "184.08",
+      "354.68",
+      "194.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$13",
+    "bbox": [
+      "72.67",
+      "196.08",
+      "98.85",
+      "206.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$12",
+    "bbox": [
+      "188.21",
+      "196.08",
+      "214.56",
+      "206.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "ROMANO",
+    "bbox": [
+      "286.87",
+      "196.08",
+      "347.14",
+      "206.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$13",
+    "bbox": [
+      "303.92",
+      "208.08",
+      "330.10",
+      "218.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "CHAMBORD",
+    "bbox": [
+      "46.72",
+      "220.08",
+      "124.80",
+      "230.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "GRAND",
+    "bbox": [
+      "176.04",
+      "220.08",
+      "229.73",
+      "230.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$13",
+    "bbox": [
+      "72.67",
+      "232.08",
+      "95.85",
+      "242.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "MARNIER",
+    "bbox": [
+      "169.92",
+      "232.08",
+      "232.84",
+      "242.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "ST. GERMAIN",
+    "bbox": [
+      "275.00",
+      "232.08",
+      "359.02",
+      "242.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$15",
+    "bbox": [
+      "188.39",
+      "244.08",
+      "211.37",
+      "254.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$12",
+    "bbox": [
+      "303.83",
+      "244.08",
+      "327.18",
+      "254.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Sip & Savour!",
+    "bbox": [
+      "177.47",
+      "294.60",
+      "267.39",
+      "311.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Please inform a member of our team if you have any food or beverage allergies.",
+    "bbox": [
+      "77.32",
+      "578.42",
+      "318.68",
+      "584.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "DRAFT BEER",
+    "bbox": [
+      "148.85",
+      "46.02",
+      "250.75",
+      "58.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "$9",
+    "bbox": [
+      "187.67",
+      "60.42",
+      "208.33",
+      "72.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "THE BEER",
+    "bbox": [
+      "166.22",
+      "91.23",
+      "229.78",
+      "101.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Pale Ale",
+    "bbox": [
+      "177.76",
+      "104.18",
+      "218.25",
+      "114.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Brewed exclusively for us by Sixpoint Brewery",
+    "bbox": [
+      "76.94",
+      "121.03",
+      "321.76",
+      "130.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "SOUTHERN TIER IPA",
+    "bbox": [
+      "134.76",
+      "149.36",
+      "261.24",
+      "159.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "STELLA ARTOIS",
+    "bbox": [
+      "147.77",
+      "170.63",
+      "248.23",
+      "180.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "SIX POINT CRISP",
+    "bbox": [
+      "145.81",
+      "191.90",
+      "250.22",
+      "201.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "BOTTLED BEER",
+    "bbox": [
+      "140.79",
+      "308.78",
+      "262.41",
+      "320.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "$8",
+    "bbox": [
+      "187.66",
+      "323.18",
+      "208.34",
+      "335.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "BLUE MOON",
+    "bbox": [
+      "160.43",
+      "357.89",
+      "235.57",
+      "367.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "AMSTEL LIGHT",
+    "bbox": [
+      "151.52",
+      "373.16",
+      "244.65",
+      "383.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "HEINEKEN",
+    "bbox": [
+      "164.90",
+      "388.42",
+      "234.10",
+      "398.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "BLUE POINT TOASTED LAGER",
+    "bbox": [
+      "105.96",
+      "400.42",
+      "290.05",
+      "410.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "NARRAGANSETT",
+    "bbox": [
+      "142.66",
+      "415.69",
+      "253.49",
+      "425.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "MODELO",
+    "bbox": [
+      "171.70",
+      "430.96",
+      "224.30",
+      "440.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "DOCS HARD CIDER",
+    "bbox": [
+      "138.80",
+      "446.23",
+      "257.20",
+      "456.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "CONEY ISLAND IPA",
+    "bbox": [
+      "137.48",
+      "461.49",
+      "258.53",
+      "471.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "GUINNESS",
+    "bbox": [
+      "164.41",
+      "476.76",
+      "234.60",
+      "486.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "ALPHABET CITY BLONDE ALE",
+    "bbox": [
+      "104.80",
+      "492.03",
+      "291.20",
+      "502.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "HEINEKEN NA",
+    "bbox": [
+      "153.37",
+      "507.30",
+      "242.63",
+      "517.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Please inform a member of our team if you have any food or beverage allergies.",
+    "bbox": [
+      "77.32",
+      "576.60",
+      "318.68",
+      "582.60"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]
