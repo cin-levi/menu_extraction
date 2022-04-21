@@ -6,12 +6,13 @@ from unidecode import unidecode
 from uuid import uuid4
 from utils.convert_invoice_to_qa_format import normalize_boxes
 from models.sort_entities import sort_entities
-
+from models.layoutlm_model import NERLayoutLM
+from transformers import AutoTokenizer
 
 class LayoutLMEvaluate(object):
     def __init__(self, model_path, version='v1'):
-        self.model = LayoutLMInference.load_from_checkpoint(model_path)
-
+        self.model = NERLayoutLM.from_pretrained(model_path)
+        self.tokenizer = AutoTokenizer.from_pretrained(tokenizer_name, use_fast=False)
 
 
     def process(self, json_data):

@@ -27,7 +27,7 @@ files = glob('D:\\menu_extraction\\data\\json\\full/*json')
 
 import random
 
-test_samples = random.sample(files, 80)
+test_samples = random.sample(files, 40)
 train_samples = [x for x in files if x not in test_samples]
 
 train_data_folder = 'D:\\menu_extraction\\data\\json\\train'
