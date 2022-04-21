@@ -1,0 +1,895 @@
+[
+  {
+    "page_number": 1,
+    "text": "WINE",
+    "bbox": [
+      "45.74",
+      "42.00",
+      "87.28",
+      "56.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SHARED PLATES",
+    "bbox": [
+      "516.14",
+      "42.00",
+      "638.02",
+      "56.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPARKLING",
+    "bbox": [
+      "45.69",
+      "71.75",
+      "105.36",
+      "80.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SPARKLING",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "OLIVES   7",
+    "bbox": [
+      "516.09",
+      "76.55",
+      "570.11",
+      "85.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MACABEU/XAREL-LO/PARELLADA         14/56",
+    "bbox": [
+      "45.69",
+      "84.75",
+      "284.56",
+      "93.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MACABEU/XAREL-LO/PARELLADA",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "14/56",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "can suriol, “azimut extra brut” 2019, catalunya",
+    "bbox": [
+      "45.60",
+      "98.00",
+      "233.59",
+      "108.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019,",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HOUSE PICKLES   7",
+    "bbox": [
+      "516.09",
+      "102.55",
+      "616.12",
+      "111.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE",
+    "bbox": [
+      "45.69",
+      "124.75",
+      "80.14",
+      "133.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BREAD + ANCHOVY BUTTER   8",
+    "bbox": [
+      "516.09",
+      "128.55",
+      "679.19",
+      "137.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GRUNERVELTLINER",
+    "bbox": [
+      "45.69",
+      "137.75",
+      "153.53",
+      "146.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "GRUNERVELTLINER",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "13/65",
+    "bbox": [
+      "225.60",
+      "137.75",
+      "285.93",
+      "146.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13/65",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "family bauer “hollotrio” 2019 osterreich",
+    "bbox": [
+      "45.60",
+      "151.00",
+      "206.78",
+      "161.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CUCUMBER SALAD   14",
+    "bbox": [
+      "516.09",
+      "154.55",
+      "636.77",
+      "163.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "savory granola, chili vinaigrette",
+    "bbox": [
+      "516.00",
+      "167.80",
+      "645.56",
+      "177.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GRENACHE BLANC",
+    "bbox": [
+      "45.69",
+      "177.75",
+      "155.51",
+      "186.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "GRENACHE BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "14/56",
+    "bbox": [
+      "225.60",
+      "177.75",
+      "285.70",
+      "186.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14/56",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "domaine ozil “rochette” 2019, ardeche",
+    "bbox": [
+      "45.60",
+      "191.00",
+      "202.12",
+      "201.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019,",
+            "answer_start": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHEESE PLATE   22",
+    "bbox": [
+      "516.09",
+      "194.55",
+      "615.21",
+      "203.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "cato corner farms cheese, olives, cornichons, marcona",
+    "bbox": [
+      "516.00",
+      "207.80",
+      "758.14",
+      "217.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ORANGE",
+    "bbox": [
+      "45.69",
+      "217.75",
+      "88.35",
+      "226.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "almonds, fit chutney, crackers",
+    "bbox": [
+      "516.00",
+      "221.80",
+      "638.75",
+      "231.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LOUREIRO",
+    "bbox": [
+      "45.69",
+      "230.75",
+      "119.51",
+      "239.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LOUREIRO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "13/52",
+    "bbox": [
+      "225.60",
+      "230.75",
+      "285.93",
+      "239.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13/52",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "bojo du luar “doralice” 2019, vinho verde",
+    "bbox": [
+      "45.60",
+      "244.00",
+      "212.19",
+      "254.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019,",
+            "answer_start": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BRANDADE   16",
+    "bbox": [
+      "516.09",
+      "248.55",
+      "598.90",
+      "257.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "hake, potatoes, onion, sherry jam",
+    "bbox": [
+      "516.00",
+      "261.80",
+      "653.58",
+      "271.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROTER VETLINER/GRUNER VETLINER     15/60",
+    "bbox": [
+      "45.69",
+      "270.75",
+      "285.58",
+      "279.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ROTER VETLINER/GRUNER VETLINER",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "15/60",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "family bauer “barig” 2019, osterreich",
+    "bbox": [
+      "45.60",
+      "284.00",
+      "195.01",
+      "294.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ZERO WASTE",
+    "bbox": [
+      "341.25",
+      "283.20",
+      "462.50",
+      "299.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SMOKED TROUT   22",
+    "bbox": [
+      "516.09",
+      "288.55",
+      "622.29",
+      "297.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "confit steelhead trout, piparra yuzu kosho vinaigrette",
+    "bbox": [
+      "516.00",
+      "301.80",
+      "736.38",
+      "311.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSÉ",
+    "bbox": [
+      "45.69",
+      "310.75",
+      "73.56",
+      "319.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CABERNET SAUV/CAB FRANC",
+    "bbox": [
+      "45.69",
+      "323.75",
+      "205.10",
+      "332.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET SAUV/CAB FRANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "11/40",
+    "bbox": [
+      "225.60",
+      "323.75",
+      "285.70",
+      "332.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "11/40",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CARBON NEUTRAL",
+    "bbox": [
+      "316.43",
+      "321.60",
+      "479.12",
+      "337.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "haut lavigne “n comme” cotes du duras",
+    "bbox": [
+      "45.60",
+      "337.00",
+      "206.34",
+      "347.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CANNED BEERS ($6-8)",
+    "bbox": [
+      "516.14",
+      "344.40",
+      "684.49",
+      "358.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "NATURAL WINE",
+    "bbox": [
+      "330.20",
+      "360.00",
+      "461.80",
+      "376.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RED",
+    "bbox": [
+      "45.69",
+      "363.75",
+      "66.91",
+      "372.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CINSAULT/GRENACHE(CHILLED)          15/60",
+    "bbox": [
+      "45.69",
+      "376.75",
+      "285.70",
+      "385.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CINSAULT/GRENACHE(CHILLED)",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "15/60",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "assorted - ask your server",
+    "bbox": [
+      "516.00",
+      "375.40",
+      "621.02",
+      "385.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "fond cypres “premier jus” 2020, languedoc",
+    "bbox": [
+      "45.60",
+      "390.00",
+      "219.63",
+      "400.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "45.69",
+      "416.75",
+      "119.51",
+      "425.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT NOIR",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "14/56",
+    "bbox": [
+      "225.60",
+      "416.75",
+      "285.70",
+      "425.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14/56",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SOFT BEVERAGES",
+    "bbox": [
+      "516.14",
+      "422.80",
+      "648.19",
+      "436.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "franck givaudin “irancy” 2018, burgundy",
+    "bbox": [
+      "45.60",
+      "430.00",
+      "211.02",
+      "440.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GINGER BEER    5",
+    "bbox": [
+      "516.09",
+      "452.55",
+      "606.50",
+      "461.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "COCKTAILS",
+    "bbox": [
+      "45.74",
+      "460.60",
+      "132.69",
+      "474.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TOPO CHICO   4",
+    "bbox": [
+      "516.09",
+      "478.55",
+      "599.16",
+      "487.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "APEROL SPRITZ   13",
+    "bbox": [
+      "45.69",
+      "494.15",
+      "150.94",
+      "503.15"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "APEROL SPRITZ",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPARKLING TEA   6/15",
+    "bbox": [
+      "516.09",
+      "504.55",
+      "632.80",
+      "513.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "AMERICANO  13",
+    "bbox": [
+      "45.69",
+      "520.15",
+      "128.89",
+      "529.15"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "AMERICANO",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "NEGRONI  (REGULAR/MEZCAL)    13",
+    "bbox": [
+      "45.69",
+      "546.15",
+      "238.42",
+      "555.15"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "NEGRONI  (REGULAR/MEZCAL)",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  }
+]

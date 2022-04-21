@@ -1,0 +1,6231 @@
+[
+  {
+    "page_number": 1,
+    "text": "AT TRATTORIA DELL’ARTE",
+    "bbox": [
+      "81.12",
+      "104.31",
+      "314.56",
+      "120.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TrattoriaDellArte.com",
+    "bbox": [
+      "152.16",
+      "578.73",
+      "243.52",
+      "588.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "great steaks should not be pre-",
+    "bbox": [
+      "256.68",
+      "-125.01",
+      "402.72",
+      "-113.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "pared beyond medium. steaks",
+    "bbox": [
+      "256.68",
+      "-110.61",
+      "402.59",
+      "-98.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ordered well done may not be",
+    "bbox": [
+      "256.68",
+      "-96.21",
+      "401.58",
+      "-84.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "returned.",
+    "bbox": [
+      "256.68",
+      "-81.81",
+      "301.19",
+      "-69.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "C",
+    "bbox": [
+      "107.26",
+      "23.28",
+      "126.32",
+      "50.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "O",
+    "bbox": [
+      "128.91",
+      "23.28",
+      "149.37",
+      "50.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "C",
+    "bbox": [
+      "152.07",
+      "23.28",
+      "171.14",
+      "50.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "K",
+    "bbox": [
+      "173.89",
+      "23.28",
+      "193.68",
+      "50.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TA",
+    "bbox": [
+      "196.37",
+      "23.28",
+      "236.89",
+      "50.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "IL",
+    "bbox": [
+      "239.59",
+      "23.28",
+      "271.48",
+      "50.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "S",
+    "bbox": [
+      "273.68",
+      "23.28",
+      "289.80",
+      "50.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BELLINI",
+    "bbox": [
+      "34.44",
+      "60.15",
+      "362.85",
+      "72.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Prosecco, White Peach. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15",
+    "bbox": [
+      "34.37",
+      "70.25",
+      "360.50",
+      "82.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TRATTORIA SPRITZ",
+    "bbox": [
+      "34.44",
+      "93.85",
+      "359.07",
+      "105.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Aperol Liqueur, Passionfuit, Lime, Prosecco. . . . . . . . . . . . . . . . . . . . . . . . . 17",
+    "bbox": [
+      "34.37",
+      "103.95",
+      "359.81",
+      "116.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "NEGRONI",
+    "bbox": [
+      "34.44",
+      "127.69",
+      "350.90",
+      "139.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Plymouth Gin, Campari, Carpano Antica Sweet Vermouth . . . . . . . . . . . . . . .18",
+    "bbox": [
+      "34.37",
+      "137.79",
+      "363.84",
+      "149.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MOSCOW MULE,",
+    "bbox": [
+      "34.43",
+      "161.37",
+      "355.72",
+      "173.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tito’s Vodka, Lime, Blueberries, Fentiman’s Ginger Beer. . . . . . . . . . . . . . . . . .17",
+    "bbox": [
+      "34.37",
+      "171.37",
+      "361.09",
+      "183.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "OLD FASHIONED,",
+    "bbox": [
+      "34.43",
+      "194.87",
+      "355.12",
+      "206.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Woodford Reserve Bourbon, Bergamot, Chocolate Bitters . . . . . . . . . . . . . . . . 19",
+    "bbox": [
+      "34.37",
+      "204.97",
+      "361.41",
+      "216.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MIDTOWN MANHATTAN,",
+    "bbox": [
+      "34.44",
+      "228.62",
+      "344.22",
+      "240.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Michter’s Rye Whiskey, Carpano Antica Sweet Vermouth, Bitters, . . . . . . . . . . .19",
+    "bbox": [
+      "34.37",
+      "238.72",
+      "362.22",
+      "250.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BEER",
+    "bbox": [
+      "146.53",
+      "275.94",
+      "221.39",
+      "299.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "&",
+    "bbox": [
+      "223.79",
+      "275.94",
+      "256.51",
+      "299.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "H",
+    "bbox": [
+      "108.42",
+      "304.74",
+      "126.64",
+      "328.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "A",
+    "bbox": [
+      "129.04",
+      "304.74",
+      "147.78",
+      "328.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "R",
+    "bbox": [
+      "150.18",
+      "304.74",
+      "168.54",
+      "328.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "D",
+    "bbox": [
+      "170.94",
+      "304.74",
+      "188.97",
+      "328.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CID",
+    "bbox": [
+      "191.37",
+      "304.74",
+      "249.42",
+      "328.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ER",
+    "bbox": [
+      "251.82",
+      "304.74",
+      "288.64",
+      "328.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DRAFT",
+    "bbox": [
+      "170.08",
+      "341.77",
+      "231.20",
+      "357.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "FIREMAN CRAFT IPA, New York, USA  . . . . . . . . . . . . . . . . . . 9.5",
+    "bbox": [
+      "36.83",
+      "364.24",
+      "361.83",
+      "376.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PERONI, Italy  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9.5",
+    "bbox": [
+      "36.41",
+      "384.49",
+      "359.59",
+      "396.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BOTTLES",
+    "bbox": [
+      "161.02",
+      "409.63",
+      "236.05",
+      "425.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "AMSTEL LIGHT, Netherlands . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9",
+    "bbox": [
+      "35.52",
+      "434.17",
+      "362.64",
+      "446.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HEINEKEN, Netherlands . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . .9",
+    "bbox": [
+      "35.52",
+      "453.43",
+      "359.04",
+      "465.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "STELLA ARTOIS, Belgium . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9.5",
+    "bbox": [
+      "35.52",
+      "477.19",
+      "360.54",
+      "489.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DUVEL, Belgium . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11",
+    "bbox": [
+      "35.52",
+      "500.95",
+      "362.79",
+      "512.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BROOKLYN LAGER, New York . . . . . . . . . . . . . . . . . . . . . . . . . . . 9",
+    "bbox": [
+      "35.52",
+      "520.20",
+      "358.65",
+      "532.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HEINEKEN 00 (NON ALCOHOLIC), Netherlands . . . . . . . . .  8.5",
+    "bbox": [
+      "35.52",
+      "543.96",
+      "359.08",
+      "555.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DOCS HARD CIDER, New York. . . . . . . . . . . . . . . . . . . . . . . . . . . 9",
+    "bbox": [
+      "35.52",
+      "567.72",
+      "359.19",
+      "579.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "great steaks should not be pre-",
+    "bbox": [
+      "-139.32",
+      "-125.01",
+      "6.72",
+      "-113.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "pared beyond medium. steaks",
+    "bbox": [
+      "-139.32",
+      "-110.61",
+      "6.59",
+      "-98.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ordered well done may not be",
+    "bbox": [
+      "-139.32",
+      "-96.21",
+      "5.58",
+      "-84.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "returned.",
+    "bbox": [
+      "-139.32",
+      "-81.81",
+      "-94.81",
+      "-69.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SPECIA",
+    "bbox": [
+      "140.04",
+      "27.59",
+      "242.20",
+      "57.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "LS",
+    "bbox": [
+      "243.44",
+      "25.81",
+      "276.12",
+      "52.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TRATTORIA SPRITZ",
+    "bbox": [
+      "56.80",
+      "267.73",
+      "183.84",
+      "278.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "NEGRONI",
+    "bbox": [
+      "240.06",
+      "267.02",
+      "306.58",
+      "279.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "APEROL LIQUEUR,",
+    "bbox": [
+      "79.26",
+      "279.01",
+      "163.55",
+      "287.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PLYMOUTH GIN, CAMPARI,",
+    "bbox": [
+      "214.96",
+      "279.01",
+      "333.85",
+      "287.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PASSION FRUIT,",
+    "bbox": [
+      "85.21",
+      "288.61",
+      "157.59",
+      "296.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CARPANO ANTICA FORMULA",
+    "bbox": [
+      "208.30",
+      "288.61",
+      "340.51",
+      "296.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "LIME, PROSECCO",
+    "bbox": [
+      "82.30",
+      "298.21",
+      "158.10",
+      "306.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "VERMOUTH",
+    "bbox": [
+      "247.69",
+      "298.21",
+      "298.71",
+      "306.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MOSCOW MULE",
+    "bbox": [
+      "71.27",
+      "506.05",
+      "181.86",
+      "518.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "OLD FASHIONED",
+    "bbox": [
+      "218.19",
+      "505.18",
+      "330.21",
+      "517.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TITO’S VODKA, LIME,",
+    "bbox": [
+      "83.94",
+      "518.04",
+      "171.59",
+      "526.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WOODFORD RESERVE BOURBON,",
+    "bbox": [
+      "203.78",
+      "517.17",
+      "347.26",
+      "525.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BLUEBERRIES,",
+    "bbox": [
+      "96.83",
+      "527.64",
+      "158.70",
+      "535.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BERGAMOT, CHOCOLATE BITTERS",
+    "bbox": [
+      "203.73",
+      "526.77",
+      "344.91",
+      "534.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "GINGER BEER",
+    "bbox": [
+      "98.06",
+      "537.24",
+      "155.07",
+      "545.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "W",
+    "bbox": [
+      "63.26",
+      "39.50",
+      "84.53",
+      "60.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "INES BY THE GLASS",
+    "bbox": [
+      "86.63",
+      "39.50",
+      "332.70",
+      "60.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SOMMELIER SELECTION",
+    "bbox": [
+      "116.10",
+      "82.78",
+      "284.97",
+      "95.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3 oz.        5 oz.          btl.",
+    "bbox": [
+      "306.40",
+      "103.95",
+      "367.72",
+      "113.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "409 PINOT NOIR, 2017 Riserva Terlaner (Trentino Alto Adige) IT                      1725112",
+    "bbox": [
+      "23.51",
+      "116.71",
+      "368.80",
+      "126.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "409 PINOT NOIR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 16
+          }
+        ],
+        "P": [
+          {
+            "text": "1725112",
+            "answer_start": 84
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Medium bodied, with fruity aromas of wild strawberries.",
+    "bbox": [
+      "50.51",
+      "129.51",
+      "242.13",
+      "138.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "374 AMARONE COSTASERA, 2015 Masi (Veneto) IT",
+    "bbox": [
+      "23.51",
+      "152.87",
+      "241.18",
+      "162.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "374 AMARONE COSTASERA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "1929145",
+    "bbox": [
+      "307.12",
+      "152.71",
+      "368.80",
+      "162.71"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "91",
+            "answer_start": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Fruity and full bodied, with hints of coffee and chocolate.",
+    "bbox": [
+      "50.51",
+      "166.15",
+      "226.50",
+      "174.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "515 BRUNELLO DI MONTALCINO, 2014 Gaja (Toscana) IT",
+    "bbox": [
+      "23.51",
+      "188.37",
+      "273.26",
+      "198.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "515 BRUNELLO DI MONTALCINO,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2436170",
+    "bbox": [
+      "307.12",
+      "188.71",
+      "368.80",
+      "198.71"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "61",
+            "answer_start": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Full bodied, with fresh notes of roses and mint.",
+    "bbox": [
+      "50.51",
+      "201.65",
+      "194.61",
+      "209.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "533 CABERNET SAUVIGNON, 2017 Caymus (Napa) CA                      2539195",
+    "bbox": [
+      "23.51",
+      "223.87",
+      "368.80",
+      "234.71"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "91",
+            "answer_start": 70
+          }
+        ],
+        "W": [
+          {
+            "text": "533 CABERNET SAUVIGNON,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Velvety full bodied, with aromas of cassis and vanilla",
+    "bbox": [
+      "48.58",
+      "237.15",
+      "220.69",
+      "245.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "DISCOVER THE WORLD OF WINE",
+    "bbox": [
+      "121.02",
+      "263.79",
+      "278.15",
+      "272.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "A crafted selection of wines that best complement our seasonal menu. A wine lover is inevitably",
+    "bbox": [
+      "27.78",
+      "275.86",
+      "373.65",
+      "284.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "also a lover of discovery. We are proud to offer a wide range of tasting experiences.",
+    "bbox": [
+      "50.45",
+      "287.86",
+      "348.72",
+      "296.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "(Sparkling & Champagne)",
+    "bbox": [
+      "133.32",
+      "340.28",
+      "262.45",
+      "352.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "GLS                   BTL",
+    "bbox": [
+      "312.12",
+      "358.22",
+      "369.92",
+      "365.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "002 PROSECCO DI CONEGLIANO, NV Col di Rocca (Veneto) IT .  .  .15.  .  .  .  .  60",
+    "bbox": [
+      "24.18",
+      "374.75",
+      "371.35",
+      "386.35"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": ".15.  .  .  .  .  60",
+            "answer_start": 62
+          }
+        ],
+        "W": [
+          {
+            "text": "002 PROSECCO DI CONEGLIANO,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "011 ROSE BRUT, 2017 Nino Franco (Veneto) IT.  .  .  .  .  .  .  .  .  .  .  .  .  .19.  .  .  .  . 85",
+    "bbox": [
+      "24.18",
+      "393.93",
+      "369.36",
+      "405.09"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": ".19.  .  .  .  . 85",
+            "answer_start": 82
+          }
+        ],
+        "W": [
+          {
+            "text": "011 ROSE BRUT,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "005 FRANCIACORTA BRUT, NV Barone Pizzini (Lombardia) IT .  .  .  .  . 18.  .  .  .  . 75",
+    "bbox": [
+      "24.18",
+      "412.83",
+      "369.49",
+      "423.99"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18.  .  .  .  . 75",
+            "answer_start": 70
+          }
+        ],
+        "W": [
+          {
+            "text": "005 FRANCIACORTA BRUT,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "009 CHAMPAGNE BRUT LA CUVEE, NV Laurent Perrier (Reimes) FR.  .  .  26.  .  .  .  .120",
+    "bbox": [
+      "24.18",
+      "431.73",
+      "371.74",
+      "442.89"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "26.  .  .  .  .120",
+            "answer_start": 68
+          }
+        ],
+        "W": [
+          {
+            "text": "009 CHAMPAGNE BRUT LA CUVEE,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "(Dessert Wines)",
+    "bbox": [
+      "163.23",
+      "461.19",
+      "243.66",
+      "473.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "1030 MOSCATO D’ASTI, 2017 Bera (Piemonte) IT, 375ml  .  .  .  .  .  .  .  .  . 14 .  .  .  .  . 27",
+    "bbox": [
+      "22.73",
+      "485.83",
+      "369.77",
+      "496.99"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14 .  .  .  .  . 27",
+            "answer_start": 79
+          }
+        ],
+        "W": [
+          {
+            "text": "1030 MOSCATO D’ASTI,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "1031 ORANGE MUSCAT, 2015 A.Quady (Madera) CA, 375ml  .  .  .  .  .  .  . 15. . . . . . .  55",
+    "bbox": [
+      "22.73",
+      "504.73",
+      "370.27",
+      "515.89"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15. . . . . . .  55",
+            "answer_start": 73
+          }
+        ],
+        "W": [
+          {
+            "text": "1031 ORANGE MUSCAT",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "1032 BAROLO CHINATO, Pio Cesare (Piemonte) IT, 750ml  .  .  .  .  .  .  .  . 19.  .  .  .  .  150",
+    "bbox": [
+      "22.73",
+      "523.63",
+      "375.74",
+      "534.79"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "19.  .  .  .  .  150",
+            "answer_start": 77
+          }
+        ],
+        "W": [
+          {
+            "text": "1032 BAROLO CHINATO, Pio Cesare (Piemonte) IT, 750ml",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(White)",
+    "bbox": [
+      "173.70",
+      "52.69",
+      "212.16",
+      "64.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "GLS           QT",
+    "bbox": [
+      "291.78",
+      "71.55",
+      "335.95",
+      "78.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BTL",
+    "bbox": [
+      "355.67",
+      "71.55",
+      "366.80",
+      "78.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "129 PINOT GRIGIO, 2016 Elena Walch (Alto Adige) IT.  .  .  .  .  .  .  .18.  .  . 27.  .  . 85",
+    "bbox": [
+      "19.11",
+      "87.06",
+      "368.24",
+      "98.66"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": ".18.  .  . 27.  .  . 85",
+            "answer_start": 71
+          }
+        ],
+        "W": [
+          {
+            "text": "129 PINOT GRIGIO,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "3 oz.        5 oz.          btl.",
+    "bbox": [
+      "-89.60",
+      "103.95",
+      "-28.28",
+      "113.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "109 GAVI DI GAVI, 2018 Tenuta San Giacomo (Piemonte) IT.  .  .  .  .  .16.  .  . 24.  .  . 70",
+    "bbox": [
+      "19.11",
+      "106.24",
+      "368.23",
+      "117.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": ".16.  .  . 24.  .  . 70",
+            "answer_start": 70
+          }
+        ],
+        "W": [
+          {
+            "text": "109 GAVI DI GAVI",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "200 RIESLING, 2016 Trimbach (Alsace) FR .  .  .  .  .  .  .  .  .  .  .  .  .  .  .14.  .  . 21.  .  . 55",
+    "bbox": [
+      "19.11",
+      "125.14",
+      "368.16",
+      "136.30"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": ".14.  .  . 21.  .  . 55",
+            "answer_start": 82
+          }
+        ],
+        "W": [
+          {
+            "text": "200 RIESLING",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "221 CHARDONNAY, 2017 Sonoma-Cutrer (Sonoma) CA .  .  .  .  .  .  .  17.  .  . 25.  .  . 75",
+    "bbox": [
+      "19.11",
+      "144.04",
+      "367.91",
+      "155.20"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17.  .  . 25.  .  . 75",
+            "answer_start": 68
+          }
+        ],
+        "W": [
+          {
+            "text": "221 CHARDONNAY,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "217 CHARDONNAY, 2015 Les Cretes (Valle d’Aosta) IT.  .  .  .  .  .  .  .  .23.  .  . 35.  .  . 99",
+    "bbox": [
+      "19.11",
+      "165.94",
+      "366.65",
+      "177.10"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": ".23.  .  . 35.  .  . 99",
+            "answer_start": 74
+          }
+        ],
+        "W": [
+          {
+            "text": "17 CHARDONNAY,",
+            "answer_start": 1
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "201  SAUVIGNON BLANC, 2017 Vie Di Romans (Friuli) IT.  .  .  .  .  . 19.  .  . 28.  .  . 90",
+    "bbox": [
+      "19.11",
+      "184.84",
+      "367.57",
+      "196.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "19.  .  . 28.  .  . 90",
+            "answer_start": 69
+          }
+        ],
+        "W": [
+          {
+            "text": "201  SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "130  SANCERRE, 2018 Pascal Jolivet (Loire Valley) FR.  .  .  .  .  .  .  .  .  . 21.  .  . 32.  .  . 95",
+    "bbox": [
+      "19.11",
+      "206.74",
+      "368.39",
+      "217.90"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "21.  .  . 32.  .  . 95",
+            "answer_start": 81
+          }
+        ],
+        "W": [
+          {
+            "text": "130  SANCERRE,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "115 CHABLIS, 2018 1ERCRU Defraix Freres (Burgundy) FR.  .  .  .  .  .  .  .22.  .  . 33.  .  . 98",
+    "bbox": [
+      "19.11",
+      "225.64",
+      "368.64",
+      "236.80"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": ".22.  .  . 33.  .  . 98",
+            "answer_start": 74
+          }
+        ],
+        "W": [
+          {
+            "text": "115 CHABLIS,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "102 TREBBIANO D’ABRUZZO, 2008 Castello di Semivicoli (Abruzzo) IT. .24.  .  . 36.  .  . 105",
+    "bbox": [
+      "19.11",
+      "247.54",
+      "374.22",
+      "258.70"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "24.  .  . 36.  .  . 105",
+            "answer_start": 68
+          }
+        ],
+        "W": [
+          {
+            "text": "102 TREBBIANO D’ABRUZZO,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2008",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(Rosé)",
+    "bbox": [
+      "182.11",
+      "268.72",
+      "213.59",
+      "280.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "116 PROVENCE BLEND, 2018 By Ott (Provence) FR.  .  .  .  .  .  .  .  .  .17.  .  . 25.  .  . 75",
+    "bbox": [
+      "18.98",
+      "288.16",
+      "368.24",
+      "299.32"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": ".17.  .  . 25.  .  . 75",
+            "answer_start": 72
+          }
+        ],
+        "W": [
+          {
+            "text": "116 PROVENCE BLEND,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(Red)",
+    "bbox": [
+      "184.69",
+      "313.44",
+      "212.30",
+      "325.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "553 CHIANTI CLASSICO RISERVA, 2016 Brolio (Toscana) IT.  .  .  .18.  .  . 27.  .  . 85",
+    "bbox": [
+      "20.04",
+      "342.30",
+      "368.72",
+      "353.46"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": ".18.  .  . 27.  .  . 85",
+            "answer_start": 63
+          }
+        ],
+        "W": [
+          {
+            "text": "553 CHIANTI CLASSICO RISERVA,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "350  MERLOT, 2014 Tellus (Umbria) IT.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 14.  .  . 21.  .  . 55",
+    "bbox": [
+      "20.04",
+      "362.20",
+      "368.06",
+      "373.36"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14.  .  . 21.  .  . 55",
+            "answer_start": 86
+          }
+        ],
+        "W": [
+          {
+            "text": "350  MERLOT,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "504 SUPER TUSCAN VILLA ANTINORI, 2015 Antinori (Toscana) IT.  .16.  .  . 24.  .  . 70",
+    "bbox": [
+      "20.04",
+      "382.10",
+      "369.18",
+      "393.26"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": ".16.  .  . 24.  .  . 70",
+            "answer_start": 62
+          }
+        ],
+        "W": [
+          {
+            "text": "504 SUPER TUSCAN VILLA ANTINORI,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "514 NOBILE DI MONTEPULCIANO, 2017 La Braccesca (Toscana) IT.  17.  .  . 25.  .  . 75",
+    "bbox": [
+      "20.04",
+      "402.00",
+      "370.39",
+      "413.16"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17.  .  . 25.  .  . 75",
+            "answer_start": 62
+          }
+        ],
+        "W": [
+          {
+            "text": "514 NOBILE DI MONTEPULCIANO,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "602 PINOT NOIR, 2017 Sonoma Cutrer (Sonoma) CA.  .  .  .  .  .  .  .  . 19.  .  . 28.  .  . 90",
+    "bbox": [
+      "20.04",
+      "421.90",
+      "369.70",
+      "433.06"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "19.  .  . 28.  .  . 90",
+            "answer_start": 72
+          }
+        ],
+        "E": [
+          {
+            "text": "602 PINOT NOIR,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "601 CABERNET SAUVIGNON, 2017 Iconoclast (Napa) CA.  .  .  .  .  .23.  .  . 34.  .  . 100",
+    "bbox": [
+      "20.04",
+      "441.80",
+      "375.10",
+      "452.96"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": ".23.  .  . 34.  .  . 100",
+            "answer_start": 64
+          }
+        ],
+        "E": [
+          {
+            "text": "601 CABERNET SAUVIGNON",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "311 BARBERA D’ALBA, 2016 Bruno Giacosa (Piemonte) IT.  .  .  .  .  .  19.  .  . 28.  .  . 90",
+    "bbox": [
+      "20.04",
+      "461.70",
+      "369.64",
+      "472.86"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "19.  .  . 28.  .  . 90",
+            "answer_start": 70
+          }
+        ],
+        "E": [
+          {
+            "text": "311 BARBERA D’ALBA,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "509 BRUNELLO DI MONTALCINO, 2013 Tenuta Di Sesta (Toscana) IT.  .24.  .  . 36.  .  .105",
+    "bbox": [
+      "20.04",
+      "481.60",
+      "373.84",
+      "492.76"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": ".24.  .  . 36.  .  .105",
+            "answer_start": 64
+          }
+        ],
+        "E": [
+          {
+            "text": "509 BRUNELLO DI MONTALCINO,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "312 BAROLO, 2015 Altenasso La Morra (Piemonte) IT .  .  .  .  .  .  .  .  .  .22.  .  . 33.  .  . 98",
+    "bbox": [
+      "20.04",
+      "501.50",
+      "371.47",
+      "512.66"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": ".22.  .  . 33.  .  . 98",
+            "answer_start": 77
+          }
+        ],
+        "W": [
+          {
+            "text": "312 BAROLO,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "554 SYRAH, 2012 Tenimenti Luigi D’Alessandro (Toscana) IT.  .  .  .  .  .  . 21.  .  . 32.  .  . 95",
+    "bbox": [
+      "20.04",
+      "521.40",
+      "372.22",
+      "532.56"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "21.  .  . 32.  .  . 95",
+            "answer_start": 77
+          }
+        ],
+        "W": [
+          {
+            "text": "554 SYRAH,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2012",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "WINES BY BOTTLE",
+    "bbox": [
+      "142.34",
+      "569.08",
+      "316.19",
+      "585.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "WHITE & ROSÉ BY THE BOTTLE",
+    "bbox": [
+      "40.76",
+      "42.51",
+      "355.20",
+      "59.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(Sparkling & Champagne)",
+    "bbox": [
+      "133.32",
+      "71.74",
+      "262.45",
+      "83.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "002 PROSECCO DI CONEGLIANO, NV Col di Rocca (Veneto) IT. . . . . . . . . . . . . . . . 60",
+    "bbox": [
+      "26.48",
+      "95.35",
+      "368.42",
+      "105.35"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "60",
+            "answer_start": 87
+          }
+        ],
+        "W": [
+          {
+            "text": "002 PROSECCO DI CONEGLIANO",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "005 FRANCIACORTA BRUT ANIMANTE, NV Barone Pizzini (Lombardia) IT. . . . . 75",
+    "bbox": [
+      "26.48",
+      "117.25",
+      "369.22",
+      "127.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "75",
+            "answer_start": 74
+          }
+        ],
+        "W": [
+          {
+            "text": "005 FRANCIACORTA BRUT ANIMANTE,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "011 ROSE BRUT FAIVE, 2017 Nino Franco (Veneto) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85",
+    "bbox": [
+      "26.48",
+      "138.25",
+      "369.01",
+      "148.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "85",
+            "answer_start": 111
+          }
+        ],
+        "W": [
+          {
+            "text": "011 ROSE BRUT FAIVE,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "009 CHAMPAGNE BRUT LA CUVEE, NV Laurent Perrier (Reims) FR. . . . . . . . . . . . . . . . . . . 120",
+    "bbox": [
+      "26.48",
+      "158.51",
+      "372.67",
+      "169.67"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "120",
+            "answer_start": 96
+          }
+        ],
+        "W": [
+          {
+            "text": "009 CHAMPAGNE BRUT LA CUVEE,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "003 CHAMPAGNE BRUT RESERVE CUVEE, NV Veuve Clicquot (Reims) FR. . . . . . .120",
+    "bbox": [
+      "26.48",
+      "179.51",
+      "373.12",
+      "190.67"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": ".120",
+            "answer_start": 74
+          }
+        ],
+        "W": [
+          {
+            "text": "003 CHAMPAGNE BRUT RESERVE CUVEE,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "006 CHAMPAGNE BRUT ROSE, NV Bollinger (Ay) FR . . . . . . . . . . . . . . . . . . . . . . . . . . . . .150",
+    "bbox": [
+      "26.48",
+      "201.25",
+      "373.30",
+      "211.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "150",
+            "answer_start": 103
+          }
+        ],
+        "W": [
+          {
+            "text": "006 CHAMPAGNE BRUT ROSE,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "008 CHAMPANGE EXTRA BRUT RD, 2004 Bollinger (Ay) FR . . . . . . . . . . . . . . . . . . . . 350",
+    "bbox": [
+      "26.48",
+      "222.25",
+      "373.87",
+      "232.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "350",
+            "answer_start": 92
+          }
+        ],
+        "W": [
+          {
+            "text": "008 CHAMPANGE EXTRA BRUT RD,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2004",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "004 CHAMPANGE BRUT GRAN CUVEE, NV Krug (Reims) FR  . . . . . . . . . . . . . . . . . 290",
+    "bbox": [
+      "26.48",
+      "243.25",
+      "373.72",
+      "253.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "290",
+            "answer_start": 85
+          }
+        ],
+        "W": [
+          {
+            "text": "04 CHAMPANGE BRUT GRAN CUVEE",
+            "answer_start": 1
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "001 CHAMPAGNE BRUT CRISTAL, 2007 Louis Roederer (Reims) FR. . . . . . . . . . . . . . . .380",
+    "bbox": [
+      "26.48",
+      "263.51",
+      "374.36",
+      "274.67"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": ".380",
+            "answer_start": 88
+          }
+        ],
+        "W": [
+          {
+            "text": "001 CHAMPAGNE BRUT CRISTAL,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2007",
+            "answer_start": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(White)",
+    "bbox": [
+      "182.18",
+      "292.97",
+      "220.64",
+      "304.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "133  ORVIETO, 2015 Barberani (Umbria) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .60",
+    "bbox": [
+      "26.48",
+      "314.51",
+      "368.83",
+      "325.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "157 VERNACCIA DI SAN GIMIGNANO, 2018 Mormoraia (Toscana) IT . . . . . . . . . . . 65",
+    "bbox": [
+      "26.48",
+      "335.51",
+      "369.59",
+      "346.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "106 FALANGHINA, 2018 Cantine del Taburno (Campania) IT. . . . . . . . . . . . . . . . . . . . . . . . . 70",
+    "bbox": [
+      "26.48",
+      "356.51",
+      "368.95",
+      "367.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "158 FIANO D’AVELLINO, 2017 C. Romano “Colli di Lapio” (Campania). . . . . . . . . . . . . . . 75",
+    "bbox": [
+      "26.48",
+      "377.51",
+      "369.33",
+      "388.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "103 ROERO ARNEIS, 2016 Marchesi Incisa Della Rocchetta (Piemonte) IT. . . . . . . . . . . . . .60",
+    "bbox": [
+      "26.48",
+      "398.51",
+      "369.07",
+      "409.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "122 INSOLIA, 2018 Cusumano (Sicilia) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45",
+    "bbox": [
+      "26.48",
+      "419.51",
+      "368.99",
+      "430.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "200 RIESLING, 2016 Trimbach (Alsace) FR. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55",
+    "bbox": [
+      "26.48",
+      "441.41",
+      "369.14",
+      "452.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "219 RIESLING, 2016 Borgogno Era Ora (Piemonte) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .80",
+    "bbox": [
+      "26.48",
+      "462.41",
+      "368.48",
+      "473.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "223 GEWURZTRAMINER, 2018 Terlan (Alto Adige) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70",
+    "bbox": [
+      "26.48",
+      "484.31",
+      "369.36",
+      "495.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "109 GAVI DI GAVI, 2018 Tenuta San Giacomo (Piemonte) IT. . . . . . . . . . . . . . . . . . . . . . . . . . 70",
+    "bbox": [
+      "26.48",
+      "506.21",
+      "369.90",
+      "517.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "108 GAVI DI GAVI, 2019 La Scolca “Black Label” (Piemonte) IT. . . . . . . . . . . . . . . . . . . . . . . .120",
+    "bbox": [
+      "26.48",
+      "527.21",
+      "373.42",
+      "538.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "129 PINOT GRIGIO, 2016 Elena Walch (Alto Adige) IT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .85",
+    "bbox": [
+      "26.48",
+      "548.21",
+      "370.81",
+      "559.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "128 PINOT GRIGIO, 2016 Vie di Romans (Friuli) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .80",
+    "bbox": [
+      "26.48",
+      "569.21",
+      "368.53",
+      "580.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ORGANIC / SUSTAINABLE / BIODYNAMIC",
+    "bbox": [
+      "225.22",
+      "614.37",
+      "382.28",
+      "622.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "202 PINOT GRIGIO, 2018 Santa Margherita (Alto Adige) IT. . . . . . . . . . . . . . . . . . . . . . . . . . .95",
+    "bbox": [
+      "25.12",
+      "74.97",
+      "367.77",
+      "86.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "215 PINOT GRIGIO, 2017 Jermann (Friuli) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78",
+    "bbox": [
+      "25.12",
+      "95.97",
+      "368.89",
+      "107.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "162 PINOT BIANCO, 2017 Alois Lageder (Trentino-Alto Adige) IT. . . . . . . . . . . . . . . . . . . . . 80",
+    "bbox": [
+      "25.12",
+      "116.97",
+      "368.26",
+      "128.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "101 CHARDONNAY, 2015 AXR (Napa) CA. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 98",
+    "bbox": [
+      "25.12",
+      "137.97",
+      "369.83",
+      "149.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "221 CHARDONNAY, 2017 Sonoma-Cutrer (Sonoma) CA. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75",
+    "bbox": [
+      "25.12",
+      "159.87",
+      "369.50",
+      "171.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "217 CHARDONNAY, 2015 Les Cretes (Valle d’Aosta) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 99",
+    "bbox": [
+      "25.12",
+      "180.87",
+      "370.39",
+      "192.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "218 CHARDONNAY, 2016 Chateau Montelena (Napa) CA. . . . . . . . . . . . . . . . . . . . . . . . . . . . .130",
+    "bbox": [
+      "25.12",
+      "201.87",
+      "372.92",
+      "213.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "220 CHARDONNAY GAIA & REY, 2016 Gaja (Piemonte) IT. . . . . . . . . . . . . . . . . . . . . . . . .314",
+    "bbox": [
+      "25.12",
+      "222.87",
+      "373.94",
+      "234.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "115 CHABLIS, 2018 1ERCRU Defraix Freres (Burgundy) FR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 98",
+    "bbox": [
+      "25.12",
+      "243.87",
+      "370.40",
+      "255.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "201  SAUVIGNON BLANC, 2017 Vie Di Romans (Friuli) IT . . . . . . . . . . . . . . . . . . . . . . . . . . . 90",
+    "bbox": [
+      "25.12",
+      "264.87",
+      "370.42",
+      "276.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "118 SAUVIGNON BLANC, 2018 Dorigo (Friuli) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .60",
+    "bbox": [
+      "25.12",
+      "285.87",
+      "368.40",
+      "297.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "222 SAUVIGNON BLANC, 2016 Gaja (Piemonte) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 190",
+    "bbox": [
+      "25.12",
+      "306.87",
+      "374.22",
+      "318.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "130  SANCERRE, 2018 Pascal Jolivet (Loire) FR. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .95",
+    "bbox": [
+      "25.12",
+      "328.77",
+      "369.60",
+      "339.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "156 VERMENTINO, 2018 Tenuta Guado al Tasso, Antinori (Toscana) IT. . . . . . . . . . . . . . . .65",
+    "bbox": [
+      "25.12",
+      "349.77",
+      "368.20",
+      "360.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "159 CHENIN BLANC, 2017 DeMorgezon (Stellenbosch ) SA. . . . . . . . . . . . . . . . . . . . . . . . . . . .89",
+    "bbox": [
+      "25.12",
+      "370.77",
+      "370.53",
+      "381.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "161 ETNA BIANCO, 2017 Tenuta delle Terre Nere (Sicilia) IT. . . . . . . . . . . . . . . . . . . . . . . . . . .85",
+    "bbox": [
+      "25.12",
+      "391.77",
+      "368.67",
+      "402.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "102 TREBBIANO D’ABRUZZO, 2008 Castello di Semivicoli (Abruzzo) IT. . . . . . . . . . . . . 105",
+    "bbox": [
+      "25.12",
+      "413.67",
+      "373.94",
+      "424.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "114 SOAVE, 2016 Vigneto du Lot Inama (Veneto) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .75",
+    "bbox": [
+      "25.12",
+      "434.67",
+      "368.65",
+      "445.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "(Half Bottles)",
+    "bbox": [
+      "168.17",
+      "458.04",
+      "234.73",
+      "470.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "1009 PINOT GRIGIO, 2018 Tiefenbrunner (Friuli) IT.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 24",
+    "bbox": [
+      "25.12",
+      "480.48",
+      "369.50",
+      "491.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "1008 CHARDONNAY, 2017 Louis Latour (Burgundy) FR.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 36",
+    "bbox": [
+      "25.12",
+      "502.22",
+      "369.11",
+      "512.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "(Rosé)",
+    "bbox": [
+      "186.03",
+      "524.13",
+      "216.87",
+      "536.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "116 PROVENCE BLEND, 2018 By Ott (Provence) FR. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .75",
+    "bbox": [
+      "25.12",
+      "546.57",
+      "369.57",
+      "557.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "104 TENUTA DELLA TERRE NERE, 2018 (Sicilia) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60",
+    "bbox": [
+      "25.12",
+      "568.47",
+      "368.07",
+      "579.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "RED BY THE BOTTLE",
+    "bbox": [
+      "94.35",
+      "42.20",
+      "301.60",
+      "59.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "401 NERO D’AVOLA, 2018 Cusumano (Sicilia) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .55",
+    "bbox": [
+      "25.20",
+      "65.29",
+      "368.61",
+      "76.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "403 AGLIANICO, 2013 Di Maio Norante “Contado” (Molise) IT. . . . . . . . . . . . . . . . . . . . . . . . .50",
+    "bbox": [
+      "25.20",
+      "84.29",
+      "369.07",
+      "95.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "602 PINOT NOIR, 2017 Sonoma Cutrer (Sonoma) CA. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .85",
+    "bbox": [
+      "25.20",
+      "104.19",
+      "369.59",
+      "115.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "605 PINOT NOIR, 2016 Resonance, Louis Jadot (Willamette Valley) OR. . . . . . . . . . . . . . . . .125",
+    "bbox": [
+      "25.20",
+      "124.09",
+      "372.88",
+      "135.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "606 PINOT NOIR, 2015 Emeritus Hallberg Ranch (Sonoma) CA. . . . . . . . . . . . . . . . . . . . . . . . 98",
+    "bbox": [
+      "25.20",
+      "143.99",
+      "368.83",
+      "155.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "501 SANGIOVESE, 2016 La Spinetta (Toscana) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60",
+    "bbox": [
+      "25.20",
+      "163.89",
+      "368.83",
+      "175.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "555  CHIANTI, 2018, Bacco Felice (Toscana)  IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .70",
+    "bbox": [
+      "25.20",
+      "183.79",
+      "369.05",
+      "194.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "547 CHIANTI CLASSICO, 2016 Querciabella (Toscana) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . .80",
+    "bbox": [
+      "25.20",
+      "203.69",
+      "369.46",
+      "214.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "552 CHIANTI CLASSICO, 2015 Fontodi (Toscana) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .98",
+    "bbox": [
+      "25.20",
+      "223.59",
+      "370.07",
+      "234.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "551 SUPER TUSCAN LE DIFESE,  2016 Tenuta San Guido (Toscana) IT. . . . . . . . . . . . . . 80",
+    "bbox": [
+      "25.20",
+      "243.49",
+      "369.21",
+      "254.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "504 SUPER TUSCAN VILLA ANTINORI,  2015 Antinori (Toscana) IT. . . . . . . . . . . . . .70",
+    "bbox": [
+      "25.20",
+      "263.39",
+      "369.22",
+      "274.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "507 BOLGHERI ROSSO, 2017 Grattamacco (Toscana) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .98",
+    "bbox": [
+      "25.20",
+      "283.29",
+      "369.53",
+      "294.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "568 ROSSO DI MONTALCINO, 2015 Argiano (Toscana) IT. . . . . . . . . . . . . . . . . . . . . . . . . .70",
+    "bbox": [
+      "25.20",
+      "303.19",
+      "370.31",
+      "314.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "531 VINO NOBILE DI MONTEPULCIANO, 2015 Dei (Toscana) IT. . . . . . . . . . . . . . . . 80",
+    "bbox": [
+      "25.20",
+      "323.09",
+      "369.74",
+      "334.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "372 VALPOLICELLA RIPASSO CAMPOFIORIN, 2015 Masi (Veneto) IT. . . . . . . . . . 60",
+    "bbox": [
+      "25.20",
+      "342.09",
+      "369.17",
+      "353.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "392 BARBARESCO, 2016 Patrizi (Piemonte) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .65",
+    "bbox": [
+      "25.20",
+      "361.99",
+      "369.64",
+      "373.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "303 BARBARESCO, 2016 Produttori del Barbaresco (Piemonte) IT. . . . . . . . . . . . . . . . . . . . . . 85",
+    "bbox": [
+      "25.20",
+      "381.89",
+      "368.95",
+      "393.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "304 BARBARESCO, 2014 Pio Cesare (Piemonte) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .180",
+    "bbox": [
+      "25.20",
+      "401.79",
+      "372.85",
+      "412.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "320 NEBBIOLO LANGHE, 2017 Produttori Del Barbaresco (Piemonte)  IT. . . . . . . . . . . . .70",
+    "bbox": [
+      "25.20",
+      "421.69",
+      "369.16",
+      "432.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "333 GATTINARA, 2015 Travaglini (Piemonte) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90",
+    "bbox": [
+      "25.20",
+      "440.69",
+      "369.15",
+      "451.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "308 BARBERA D’ASTI, 2017 Pico Maccario Lavignone (Piemonte) IT. . . . . . . . . . . . . . . . . . 60",
+    "bbox": [
+      "25.20",
+      "460.59",
+      "368.77",
+      "471.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "311 BARBERA D’ALBA, 2017 Bruno Giacosa (Piemonte) IT . . . . . . . . . . . . . . . . . . . . . . . . . . .90",
+    "bbox": [
+      "25.20",
+      "480.49",
+      "368.75",
+      "491.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "300 DOLCETTO D’ALBA, 2016 Musso (Piemonte) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .60",
+    "bbox": [
+      "25.20",
+      "500.39",
+      "368.72",
+      "511.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "375 AMARONE, 2016 Zeni (Veneto) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .89",
+    "bbox": [
+      "25.20",
+      "519.39",
+      "368.55",
+      "530.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "374 AMARONE, 2012 Masi “Costasera” (Veneto) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 145",
+    "bbox": [
+      "25.20",
+      "538.39",
+      "372.79",
+      "549.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "404      AMARONE, 2013 Romano Dal Forno (Veneto) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 470",
+    "bbox": [
+      "25.20",
+      "557.39",
+      "372.77",
+      "568.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "356 AMARONE, 2015 Allegrini (Veneto) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 166",
+    "bbox": [
+      "25.20",
+      "576.39",
+      "373.95",
+      "587.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "350  MERLOT, 2014 Tellus (Umbria) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55",
+    "bbox": [
+      "18.91",
+      "61.73",
+      "372.56",
+      "72.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "312 BAROLO, 2015 Altenasso La Morra (Piemonte) IT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 98",
+    "bbox": [
+      "18.91",
+      "80.73",
+      "369.19",
+      "91.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "373 BAROLO, 2015 Pio Cesare (Piemonte) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170",
+    "bbox": [
+      "18.91",
+      "99.73",
+      "372.89",
+      "110.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "513 BAROLO DAGROMIS, 2015 Gaja (Piemonte) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .220",
+    "bbox": [
+      "18.91",
+      "118.73",
+      "373.95",
+      "129.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "402 TIGNANELLO, 2016 Antinori (Toscana) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .265",
+    "bbox": [
+      "18.91",
+      "138.47",
+      "374.13",
+      "148.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "681 SASSICAIA, 2015 Tenuta San Guido (Toscana) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .420",
+    "bbox": [
+      "18.91",
+      "156.73",
+      "374.10",
+      "167.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "700 SASSICAIA, 2016 Tenuta San Guido (Toscana) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .290",
+    "bbox": [
+      "18.91",
+      "175.73",
+      "374.10",
+      "186.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "682 MASSETO, 2015 Tenuta dell’Ornellaia (Toscana) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 650",
+    "bbox": [
+      "18.91",
+      "194.73",
+      "373.57",
+      "205.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "601 CABERNET SAUVIGNON, 2017 Iconoclast (Napa) CA. . . . . . . . . . . . . . . . . . . . . . . . . . . .100",
+    "bbox": [
+      "18.91",
+      "213.73",
+      "373.08",
+      "224.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "604 CABERNET SAUVIGNON, 2017 Justin (Paso Robles) CA. . . . . . . . . . . . . . . . . . . . . . . . . .85",
+    "bbox": [
+      "18.91",
+      "232.73",
+      "368.82",
+      "243.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "533 CABERNET SAUVIGNON, 2017 Caymus (Napa) CA. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 195",
+    "bbox": [
+      "18.91",
+      "251.73",
+      "373.50",
+      "262.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "622 CABERNET SAUVIGNON, 2015 Stag`s Leap (Napa) CA. . . . . . . . . . . . . . . . . . . . . . . . . .120",
+    "bbox": [
+      "18.91",
+      "270.73",
+      "372.68",
+      "281.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "642 CABERNET SAUVIGNON, 2015 Silver Oak (Alexander Valley) CA. . . . . . . . . . . . . . . . 165",
+    "bbox": [
+      "18.91",
+      "289.73",
+      "372.76",
+      "300.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "506 CABERNET SAUVIGNON, 2017 Tenuta San Guido (Toscana) IT. . . . . . . . . . . . . . . . . . . . . . .95",
+    "bbox": [
+      "18.91",
+      "308.73",
+      "369.56",
+      "319.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "509 BRUNELLO DI MONTALCINO, 2013 Tenuta Di Sesta (Toscana) IT. . . . . . . . . . . . . . .105",
+    "bbox": [
+      "18.91",
+      "328.63",
+      "373.31",
+      "339.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "510 BRUNELLO DI MONTALCINO, 2014 Camigliano (Toscana) IT. . . . . . . . . . . . . . . . . . .125",
+    "bbox": [
+      "18.91",
+      "347.63",
+      "372.92",
+      "358.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "515 BRUNELLO DI MONTALCINO, 2013 Poggio Antico (Toscana) IT. . . . . . . . . . . . . . . . .155",
+    "bbox": [
+      "18.91",
+      "366.63",
+      "372.79",
+      "377.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "523 BRUNELLO DI MONTALCINO, 2014 Pieve Santa Restituita Gaja (Toscana) IT. . . .170",
+    "bbox": [
+      "18.91",
+      "385.63",
+      "372.80",
+      "396.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "502 BRUNELLO DI MONTALCINO, 2012 Biondi Santi (Toscana) IT. . . . . . . . . . . . . . . . . . 310",
+    "bbox": [
+      "18.91",
+      "404.63",
+      "375.97",
+      "415.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "511 CA’MARCANDA PROMIS, 2015 Gaja (Toscana) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130",
+    "bbox": [
+      "18.91",
+      "423.63",
+      "372.97",
+      "434.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "554 SYRAH, 2012 Teminentin Luigi D`Alessandro (Toscana) IT. . . . . . . . . . . . . . . . . . . . . . . . . . . .95",
+    "bbox": [
+      "18.91",
+      "442.63",
+      "368.85",
+      "453.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "680 MALBEC BLEND TUPUNGATO, 2016 Masi (Uco Valley) AR. . . . . . . . . . . . . . . . . . . . .58",
+    "bbox": [
+      "18.91",
+      "462.53",
+      "368.38",
+      "473.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "656 ZINFANDEL, 2016 Zin 91, Old Vine, H.Opici (Paso Robles) CA. . . . . . . . . . . . . . . . . . . . . . .50",
+    "bbox": [
+      "18.91",
+      "481.53",
+      "369.15",
+      "492.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(Half Bottles)",
+    "bbox": [
+      "164.73",
+      "506.94",
+      "233.92",
+      "518.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "1021 CHIANTI CLASSICO RISERVA, 2016 Nozzole (Toscana) IT.  .  .  .  .  .  .  .  .  .  . 42",
+    "bbox": [
+      "18.91",
+      "525.48",
+      "370.50",
+      "536.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "1023 BRUNELLO, 2014 Frescobaldi (Tuscana) IT .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .65",
+    "bbox": [
+      "18.91",
+      "543.48",
+      "371.94",
+      "554.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "1026 PINOT NOIR, 2016 Sonoma Cutrer (Russian River) CA .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  47",
+    "bbox": [
+      "18.91",
+      "561.48",
+      "370.89",
+      "572.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "1027 CABERNET SAUVIGNON, 2016 Silverado Vineyard (Napa Valley) CA .   .  .  .  .  .  47",
+    "bbox": [
+      "18.91",
+      "579.48",
+      "370.96",
+      "590.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "SP",
+    "bbox": [
+      "22.78",
+      "37.13",
+      "62.18",
+      "64.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "IR",
+    "bbox": [
+      "64.88",
+      "37.13",
+      "99.36",
+      "64.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "IT",
+    "bbox": [
+      "102.06",
+      "37.13",
+      "134.51",
+      "64.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "S",
+    "bbox": [
+      "136.31",
+      "37.13",
+      "152.43",
+      "64.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "IRISH WHISKEY",
+    "bbox": [
+      "20.24",
+      "87.74",
+      "103.24",
+      "97.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "AMERICAN WHISKEY",
+    "bbox": [
+      "200.88",
+      "87.74",
+      "313.60",
+      "97.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "JAMESON . . . . . . . . . . . . . . . . . . . . .14",
+    "bbox": [
+      "20.29",
+      "109.90",
+      "185.49",
+      "119.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "MAKER’S MARK BOURBON . . . . . . .15",
+    "bbox": [
+      "200.93",
+      "107.90",
+      "379.86",
+      "117.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "WOODFORD RESERVE BOURBON . . .17",
+    "bbox": [
+      "200.93",
+      "125.90",
+      "379.96",
+      "135.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "MIDLETON VERY RARE . . . . . . . .33",
+    "bbox": [
+      "20.29",
+      "129.90",
+      "185.72",
+      "139.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "KNOB CREEK BOURBON . . . . . . . . . 16",
+    "bbox": [
+      "200.93",
+      "143.90",
+      "379.80",
+      "153.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "BLENDED SCOTCH WHISKY",
+    "bbox": [
+      "20.24",
+      "154.74",
+      "163.45",
+      "164.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "BULLEIT BOURBON . . . . . . . . . . . . . 16",
+    "bbox": [
+      "200.93",
+      "161.90",
+      "379.76",
+      "171.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "JOHNNIE WALKER BLACK. . . . . .18",
+    "bbox": [
+      "20.29",
+      "176.90",
+      "185.57",
+      "186.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "BASIL HAYDEN’S BOURBON . . . . . .17",
+    "bbox": [
+      "200.93",
+      "179.90",
+      "377.47",
+      "189.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "COMPASS BOX SPICE TREE. . . . . 21",
+    "bbox": [
+      "20.29",
+      "196.90",
+      "185.24",
+      "206.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "ELIJAH CRAIG BOURBON. . . . . . . . . 15",
+    "bbox": [
+      "200.93",
+      "197.90",
+      "377.64",
+      "207.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "CHIVAS 12 YR. . . . . . . . . . . . . . . . . 15",
+    "bbox": [
+      "20.29",
+      "216.90",
+      "184.70",
+      "226.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "HEAVEN’S DOOR BOURBON . . . . . .18",
+    "bbox": [
+      "200.93",
+      "215.90",
+      "377.74",
+      "225.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "JOHNNIE WALKER BLUE. . . . . . . 48 JACK DANIEL’S . . . . . . . . . . . . . . . . . . . . . . .15",
+    "bbox": [
+      "20.29",
+      "233.90",
+      "377.78",
+      "246.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "GENTLEMAN JACK . . . . . . . . . . . . . . . . . . 17",
+    "bbox": [
+      "200.93",
+      "251.90",
+      "377.48",
+      "261.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "SINGLE MALT SCOTCH WHISKY",
+    "bbox": [
+      "20.24",
+      "256.74",
+      "186.08",
+      "266.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "JACK DANIEL’S RYE WHISKEY  . . . .15",
+    "bbox": [
+      "200.93",
+      "269.90",
+      "377.41",
+      "279.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "LAPHROAIG 10 YR. . . . . . . . . . . . .18",
+    "bbox": [
+      "20.29",
+      "276.90",
+      "185.18",
+      "286.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "BULLEIT RYE WHISKEY . . . . . . . . . .16",
+    "bbox": [
+      "200.93",
+      "287.90",
+      "379.83",
+      "297.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "SPRINGBANK PEATED. . . . . . . . . . . . .19",
+    "bbox": [
+      "20.29",
+      "296.90",
+      "185.99",
+      "306.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "MICHTER’S RYE WHISKEY . . . . . . . 16",
+    "bbox": [
+      "200.93",
+      "305.90",
+      "379.97",
+      "315.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "LAGAVULIN 16 YR . . . . . . . . . . . . 22",
+    "bbox": [
+      "20.29",
+      "316.90",
+      "185.64",
+      "326.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "RITTENHOUSE RYE WHISKEY  . . . .14",
+    "bbox": [
+      "200.93",
+      "323.90",
+      "377.73",
+      "333.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "BALVENIE DOUBLEWOOD 17 YR. . .29",
+    "bbox": [
+      "20.29",
+      "336.90",
+      "185.33",
+      "346.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "HEAVEN’S DOOR RYE  WHISKEY . . .19",
+    "bbox": [
+      "200.93",
+      "341.90",
+      "377.49",
+      "351.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "CRAGGANMORE  12 YR. . . . . . . . 17",
+    "bbox": [
+      "20.29",
+      "356.90",
+      "185.82",
+      "366.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "WHISTLE PIG RYE WHISKEY . . . . . . 21",
+    "bbox": [
+      "200.93",
+      "359.90",
+      "377.71",
+      "369.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "GLENLIVET 12 YR. . . . . . . . . . . . . 19 CROWN ROYAL. . . . . . . . . . . . . . . . . . . . . . 16",
+    "bbox": [
+      "20.29",
+      "376.90",
+      "377.21",
+      "387.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "GLENFIDDICH 15 YR. . . . . . . . . .  22",
+    "bbox": [
+      "20.29",
+      "396.90",
+      "185.51",
+      "406.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "TEQUILA & MEZCAL",
+    "bbox": [
+      "200.88",
+      "400.74",
+      "305.24",
+      "410.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "MACALLAN 12 YR. . . . . . . . . . . . . 19",
+    "bbox": [
+      "20.29",
+      "416.90",
+      "184.99",
+      "426.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "CASAMIGOS BLANCO  . . . . . . . . . . . 17",
+    "bbox": [
+      "200.93",
+      "420.90",
+      "379.97",
+      "430.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "MACALLAN 18 YR. . . . . . . . . . . . . 39",
+    "bbox": [
+      "20.29",
+      "436.90",
+      "185.69",
+      "446.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "DON JULIO BLANCO . . . . . . . . . . . . .18",
+    "bbox": [
+      "200.93",
+      "438.90",
+      "379.96",
+      "448.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "MACALLAN RARE CASK 17 YR. . 48",
+    "bbox": [
+      "20.29",
+      "456.90",
+      "185.26",
+      "466.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "DON JULIO REPOSADO  . . . . . . . . . .19",
+    "bbox": [
+      "200.93",
+      "456.90",
+      "379.86",
+      "466.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "OBAN 14 YR . . . . . . . . . . . . . . . . . . 22 DON JULIO AÑEJO  . . . . . . . . . . . . . . 22",
+    "bbox": [
+      "20.29",
+      "474.90",
+      "379.95",
+      "486.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "PATRON SILVER . . . . . . . . . . . . . . . . .18",
+    "bbox": [
+      "200.93",
+      "492.90",
+      "379.89",
+      "502.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "GLENKINCHIE 12 YR . . . . . . . . . . .18",
+    "bbox": [
+      "20.29",
+      "496.90",
+      "187.82",
+      "506.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "PATRON REPOSADO . . . . . . . . . . . . .21",
+    "bbox": [
+      "200.93",
+      "510.90",
+      "377.70",
+      "520.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "HIGHLAND PARK 12 YR . . . . . . . 18",
+    "bbox": [
+      "20.29",
+      "516.90",
+      "185.91",
+      "526.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "PATRON AÑEJO  . . . . . . . . . . . . . . . . .21",
+    "bbox": [
+      "200.93",
+      "528.90",
+      "377.66",
+      "538.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "GLENFIDDICH 21 YR  . . . . . . . . . .34",
+    "bbox": [
+      "20.29",
+      "536.90",
+      "184.95",
+      "546.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "TEQUILA DON JULIO 1942 . . . . . . . 38",
+    "bbox": [
+      "200.93",
+      "546.90",
+      "377.47",
+      "556.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "DALMORE 12 YR . . . . . . . . . . . . . . 22",
+    "bbox": [
+      "20.29",
+      "556.90",
+      "185.43",
+      "566.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "MEZCAL AGAVE DE CORTEZ  . . . . .18",
+    "bbox": [
+      "200.93",
+      "564.90",
+      "377.63",
+      "574.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "RUM",
+    "bbox": [
+      "20.88",
+      "86.89",
+      "46.40",
+      "96.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "COGNAC",
+    "bbox": [
+      "198.00",
+      "88.02",
+      "246.37",
+      "98.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "BACARDI ANEJO . . . . . . . . . . . . . . 16 REMY MARTIN VSOP  . . . . . . . . . . . . .21",
+    "bbox": [
+      "20.93",
+      "107.05",
+      "382.64",
+      "118.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "BACARDI SILVER . . . . . . . . . . . . . .14",
+    "bbox": [
+      "20.93",
+      "125.05",
+      "181.53",
+      "135.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "HENNESSY VSOP . . . . . . . . . . . . . . . . . 19",
+    "bbox": [
+      "198.05",
+      "126.18",
+      "381.87",
+      "136.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "CAPTAIN MORGAN . . . . . . . . . . .16",
+    "bbox": [
+      "20.93",
+      "143.05",
+      "181.58",
+      "153.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "REMY MARTIN XO . . . . . . . . . . . . . . . .38",
+    "bbox": [
+      "198.05",
+      "144.18",
+      "380.19",
+      "154.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "MOUNT GAY . . . . . . . . . . . . . . . . .15",
+    "bbox": [
+      "20.93",
+      "161.05",
+      "180.86",
+      "171.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "DELAMAIN .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  29",
+    "bbox": [
+      "198.05",
+      "162.50",
+      "379.04",
+      "172.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "DIPLOMATICO NO.1. . . . . . . . . . . . .20",
+    "bbox": [
+      "20.93",
+      "179.05",
+      "181.18",
+      "189.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "DELAMAIN VESPER.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .29",
+    "bbox": [
+      "198.05",
+      "180.50",
+      "379.18",
+      "190.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "ZACAPA XO. . . . . . . . . . . . . . . . . . 29",
+    "bbox": [
+      "20.93",
+      "197.05",
+      "181.81",
+      "207.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "BRANDY",
+    "bbox": [
+      "198.00",
+      "203.02",
+      "243.69",
+      "213.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "VODKA",
+    "bbox": [
+      "20.88",
+      "219.89",
+      "61.49",
+      "229.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "LARRESINGLE ARMAGNAC NAPOLEON. . 17",
+    "bbox": [
+      "198.05",
+      "223.50",
+      "378.23",
+      "233.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "TITO’S . . . . . . . . . . . . . . . . . . . . . . .14  PERE DI POLI . . . . . . . . . . . . . . . . . . . . 18",
+    "bbox": [
+      "20.93",
+      "240.05",
+      "378.91",
+      "251.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "KETEL ONE . . . . . . . . . . . . . . . . . . 15 CILIEGIE DI POLI . . . . . . . . . . . . . . . . .18",
+    "bbox": [
+      "20.93",
+      "258.05",
+      "379.08",
+      "269.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "BELVEDERE . . . . . . . . . . . . . . . . . .15",
+    "bbox": [
+      "20.93",
+      "276.05",
+      "183.32",
+      "286.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "SHERRY & PORT",
+    "bbox": [
+      "198.00",
+      "282.02",
+      "283.36",
+      "292.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "GREY GOOSE . . . . . . . . . . . . . . . . .15",
+    "bbox": [
+      "20.93",
+      "294.05",
+      "183.13",
+      "304.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "PASTRANA AMONTILLADO VIEJO. .17",
+    "bbox": [
+      "198.05",
+      "302.18",
+      "379.17",
+      "312.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "STOLICHNAYA . . . . . . . . . . . . . . . 15",
+    "bbox": [
+      "20.93",
+      "312.05",
+      "181.24",
+      "322.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "PORT FONSECA BIN NO. 27 . . . . . . . . .14",
+    "bbox": [
+      "198.05",
+      "320.18",
+      "378.99",
+      "330.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "STOLI ELIT . . . . . . . . . . . . . . . . . .  27",
+    "bbox": [
+      "20.93",
+      "330.05",
+      "181.85",
+      "340.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "PORT TAYLOR FLADGATE LB . . . . . .14",
+    "bbox": [
+      "198.05",
+      "338.18",
+      "379.08",
+      "348.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "STOLI OHRANJ . . . . . . . . . . . . . . .15",
+    "bbox": [
+      "20.93",
+      "348.05",
+      "180.88",
+      "358.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "PORT TAYLOR FLADGATE 10 YR . . . 15",
+    "bbox": [
+      "198.05",
+      "356.18",
+      "379.37",
+      "366.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "STOLI VANIL . . . . . . . . . . . . . . . . .15",
+    "bbox": [
+      "20.93",
+      "366.05",
+      "181.12",
+      "376.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "PORT TAYLOR FLADGATE 20 YR . . . 18",
+    "bbox": [
+      "198.05",
+      "374.18",
+      "379.07",
+      "384.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "STOLI RAZBERI . . . . . . . . . . . . . . 15",
+    "bbox": [
+      "20.93",
+      "384.05",
+      "181.00",
+      "394.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "PORT TAYLOR FLADGATE 30 YR . . . 25",
+    "bbox": [
+      "198.05",
+      "392.18",
+      "379.87",
+      "402.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "ABSOLUT . . . . . . . . . . . . . . . . . . . .14",
+    "bbox": [
+      "20.93",
+      "402.05",
+      "180.88",
+      "412.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "PORT TAYLOR FLADGATE 40 YR . . . 35",
+    "bbox": [
+      "198.05",
+      "410.18",
+      "379.87",
+      "420.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "ABSOLUT CITRON . . . . . . . . . . . .14",
+    "bbox": [
+      "20.93",
+      "420.05",
+      "180.97",
+      "430.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "GRAPPA",
+    "bbox": [
+      "198.00",
+      "433.02",
+      "243.07",
+      "443.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "GIN",
+    "bbox": [
+      "20.88",
+      "442.89",
+      "42.33",
+      "452.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "MOSCATO JACOPO POLI . . . . . . . . . . 19",
+    "bbox": [
+      "198.05",
+      "453.18",
+      "379.04",
+      "463.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "TANQUERAY . . . . . . . . . . . . . . . . .15",
+    "bbox": [
+      "20.93",
+      "463.05",
+      "183.30",
+      "473.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "VESPAIOLO JACOPO POLI . . . . . . . . .19",
+    "bbox": [
+      "198.05",
+      "471.18",
+      "379.00",
+      "481.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "TANQUERAY NO. TEN . . . . . . . . 16",
+    "bbox": [
+      "20.93",
+      "481.05",
+      "183.38",
+      "491.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "PICOLIT NONINO . . . . . . . . . . . . . . . . 38",
+    "bbox": [
+      "198.05",
+      "489.18",
+      "380.20",
+      "499.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "BOMBAY SAPPHIRE . . . . . . . . . . 15",
+    "bbox": [
+      "20.93",
+      "499.05",
+      "183.30",
+      "509.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "BIANCA CANDOLINI . . . . . . . . . . . . . 15",
+    "bbox": [
+      "198.05",
+      "507.18",
+      "379.23",
+      "517.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "HENDRICK’S. . . . . . . . . . . . . . . . . 16",
+    "bbox": [
+      "20.93",
+      "517.05",
+      "181.13",
+      "527.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "BIANCA NARDINI . . . . . . . . . . . . . . . . 15",
+    "bbox": [
+      "198.05",
+      "525.18",
+      "379.09",
+      "535.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "PLYMOUTH  . . . . . . . . . . . . . . . . . 16",
+    "bbox": [
+      "20.93",
+      "535.05",
+      "180.75",
+      "545.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "SARPA DI POLI . . . . . . . . . . . . . . . . . . . 16",
+    "bbox": [
+      "198.05",
+      "543.18",
+      "379.32",
+      "553.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "CITADELLE RESERVE 18. . . . . . . 17",
+    "bbox": [
+      "20.93",
+      "553.05",
+      "181.03",
+      "563.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "NOLET’S  . . . . . . . . . . . . . . . . . . . . 17",
+    "bbox": [
+      "20.93",
+      "571.05",
+      "183.31",
+      "581.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "NEW YORK",
+    "bbox": [
+      "48.36",
+      "26.35",
+      "113.37",
+      "51.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "SIGHTSEEING, MADE SIMPLE",
+    "bbox": [
+      "20.19",
+      "254.16",
+      "212.35",
+      "282.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "·",
+    "bbox": [
+      "20.19",
+      "267.00",
+      "26.89",
+      "313.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Admission to over 90 top attractions",
+    "bbox": [
+      "25.74",
+      "281.61",
+      "222.81",
+      "303.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "·",
+    "bbox": [
+      "20.19",
+      "288.53",
+      "26.89",
+      "334.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Unlimited visits for 1,2,3,4,5,6,7, or 10 full days",
+    "bbox": [
+      "25.74",
+      "303.14",
+      "273.51",
+      "324.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "·",
+    "bbox": [
+      "20.19",
+      "310.05",
+      "26.89",
+      "356.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "The more attractions you visit, the more money you save",
+    "bbox": [
+      "25.74",
+      "324.67",
+      "332.08",
+      "346.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "·",
+    "bbox": [
+      "20.19",
+      "331.58",
+      "26.89",
+      "377.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Give visiting friends and family the gift of NYC without limits",
+    "bbox": [
+      "25.74",
+      "346.20",
+      "352.47",
+      "367.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Plan to stay longer at each attraction?  Choose a Sightseeing FLEX Pass",
+    "bbox": [
+      "149.74",
+      "389.51",
+      "366.22",
+      "401.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "and enjoy 7-days to visit 2,3,4,5,6,7, or 10 attractions.  Decide as you go",
+    "bbox": [
+      "149.75",
+      "404.27",
+      "366.24",
+      "416.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "and customize the perfect visit for YOU!",
+    "bbox": [
+      "149.75",
+      "419.03",
+      "268.73",
+      "431.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "The Sightseeing Pass or The Sightseeing FLEX Pass.  We have the right",
+    "bbox": [
+      "149.40",
+      "438.10",
+      "359.43",
+      "450.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Sightseeing Pass for you.",
+    "bbox": [
+      "149.40",
+      "452.86",
+      "225.71",
+      "465.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Starting at:",
+    "bbox": [
+      "265.96",
+      "479.74",
+      "297.70",
+      "491.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "$6",
+    "bbox": [
+      "265.12",
+      "486.38",
+      "297.17",
+      "563.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "4",
+    "bbox": [
+      "297.17",
+      "486.38",
+      "321.95",
+      "563.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "00",
+    "bbox": [
+      "329.13",
+      "488.75",
+      "362.85",
+      "540.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": ".",
+    "bbox": [
+      "321.94",
+      "507.99",
+      "331.27",
+      "559.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "www.sightseeingpass.com",
+    "bbox": [
+      "28.93",
+      "570.52",
+      "189.30",
+      "595.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "1-844-400-PASS",
+    "bbox": [
+      "281.50",
+      "573.92",
+      "362.53",
+      "595.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "RELAX... YOU’RE IN THE HANDS OF",
+    "bbox": [
+      "92.61",
+      "59.71",
+      "303.68",
+      "82.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "THE FIREMAN HOSPITALITY GROUP",
+    "bbox": [
+      "13.05",
+      "108.28",
+      "383.24",
+      "136.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Shelly Fireman",
+    "bbox": [
+      "68.77",
+      "151.32",
+      "156.55",
+      "165.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Paolo Del Gatto,",
+    "bbox": [
+      "242.92",
+      "151.31",
+      "342.36",
+      "165.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "President",
+    "bbox": [
+      "87.41",
+      "168.12",
+      "137.91",
+      "182.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Executive Vice President",
+    "bbox": [
+      "224.71",
+      "168.12",
+      "357.40",
+      "182.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "PRESENT",
+    "bbox": [
+      "174.95",
+      "215.84",
+      "219.34",
+      "233.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "FEATURING",
+    "bbox": [
+      "174.92",
+      "402.68",
+      "223.82",
+      "417.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "BRANDO DE OLIVEIRA      ANTHONY ACINAPURA     JEFF BASKIN",
+    "bbox": [
+      "67.41",
+      "424.68",
+      "341.11",
+      "439.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "YUSUF ZENGIN      MIKE ESPOSITO     MARA LIGHT",
+    "bbox": [
+      "97.38",
+      "446.68",
+      "301.35",
+      "461.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "JERRY DISTEFANO     ALEX GABAY     BENJAMIN GROSSMAN",
+    "bbox": [
+      "77.05",
+      "468.68",
+      "319.24",
+      "483.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "GABRIELE GUIDONI     STEPHANIE HOLMES     MARA LIGHT",
+    "bbox": [
+      "79.80",
+      "490.68",
+      "316.49",
+      "505.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "ANDREA ROMAN     RACHEL WEINSTEIN    CARMEN BOTTOMS-MERCHANT",
+    "bbox": [
+      "42.73",
+      "512.68",
+      "353.56",
+      "527.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "900 7th Avenue (between 56th & 57th Street)",
+    "bbox": [
+      "73.44",
+      "576.44",
+      "322.85",
+      "586.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "THE FIREMAN HOSPITALITY GROUP",
+    "bbox": [
+      "-382.95",
+      "108.28",
+      "-12.76",
+      "136.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "General Manager",
+    "bbox": [
+      "276.27",
+      "173.52",
+      "340.17",
+      "182.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "MMiikkee  EEssppoossiittoo",
+    "bbox": [
+      "166.26",
+      "305.47",
+      "223.70",
+      "315.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "MMaannaaggeerr",
+    "bbox": [
+      "180.61",
+      "316.63",
+      "209.38",
+      "324.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Carmen Bottoms-Merchant",
+    "bbox": [
+      "77.23",
+      "429.88",
+      "190.06",
+      "440.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Jerry DiStefano",
+    "bbox": [
+      "213.05",
+      "432.06",
+      "275.75",
+      "442.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Director of Banquet Sales",
+    "bbox": [
+      "94.26",
+      "440.88",
+      "174.86",
+      "448.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Director of Operations",
+    "bbox": [
+      "207.44",
+      "443.32",
+      "281.36",
+      "451.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "CHOSEN BY",
+    "bbox": [
+      "214.29",
+      "79.96",
+      "261.83",
+      "87.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "THE ULTIMATE CHAMPAGNE",
+    "bbox": [
+      "63.82",
+      "317.88",
+      "205.19",
+      "327.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "FOUNDED 1776",
+    "bbox": [
+      "94.35",
+      "437.32",
+      "174.27",
+      "445.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Celebrate",
+    "bbox": [
+      "103.97",
+      "456.00",
+      "167.20",
+      "479.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "by the glass or by the bottle",
+    "bbox": [
+      "50.75",
+      "472.32",
+      "220.51",
+      "495.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "www.urbani.com",
+    "bbox": [
+      "159.56",
+      "584.80",
+      "265.70",
+      "599.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "HAPPY",
+    "bbox": [
+      "172.64",
+      "56.90",
+      "223.79",
+      "76.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "w",
+    "bbox": [
+      "209.36",
+      "64.49",
+      "226.06",
+      "137.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "N",
+    "bbox": [
+      "156.63",
+      "71.57",
+      "180.41",
+      "146.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "e",
+    "bbox": [
+      "194.41",
+      "69.25",
+      "195.36",
+      "140.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "r",
+    "bbox": [
+      "239.97",
+      "107.33",
+      "246.10",
+      "200.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "a",
+    "bbox": [
+      "215.42",
+      "111.10",
+      "221.85",
+      "203.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "e",
+    "bbox": [
+      "196.06",
+      "114.91",
+      "197.30",
+      "206.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Y",
+    "bbox": [
+      "152.06",
+      "117.92",
+      "177.94",
+      "213.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "CELEBRATE",
+    "bbox": [
+      "150.09",
+      "222.05",
+      "251.82",
+      "241.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "NEW YEAR’S EVE",
+    "bbox": [
+      "123.86",
+      "245.48",
+      "274.42",
+      "265.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "- with -",
+    "bbox": [
+      "172.63",
+      "272.24",
+      "225.65",
+      "289.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "7-COURSE ITALIAN FEAST",
+    "bbox": [
+      "57.76",
+      "389.60",
+      "338.54",
+      "418.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "MIDNIGHT CHAMPAGNE TOAST",
+    "bbox": [
+      "61.11",
+      "422.21",
+      "338.47",
+      "442.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "& NOISE MAKERS",
+    "bbox": [
+      "118.99",
+      "446.21",
+      "280.59",
+      "466.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "PLEASE SEE OUR NEW YEAR’S EVE MENU",
+    "bbox": [
+      "83.92",
+      "483.64",
+      "314.18",
+      "495.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "LOCATED AT THE HOST STAND",
+    "bbox": [
+      "116.40",
+      "498.04",
+      "279.47",
+      "510.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "FOR RESERVATIONS, PLEASE CALL",
+    "bbox": [
+      "105.26",
+      "527.15",
+      "281.63",
+      "538.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "(212) 245-9800",
+    "bbox": [
+      "139.24",
+      "543.47",
+      "245.62",
+      "557.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "NEWYEARSEVE@THEFIREMANGROUP.COM",
+    "bbox": [
+      "84.78",
+      "559.49",
+      "300.08",
+      "570.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "THE FIREMAN HOSPITALITY GROUP",
+    "bbox": [
+      "30.66",
+      "64.46",
+      "367.32",
+      "87.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "in the",
+    "bbox": [
+      "239.09",
+      "140.64",
+      "317.16",
+      "178.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "heart of",
+    "bbox": [
+      "207.42",
+      "176.82",
+      "332.80",
+      "214.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "N",
+    "bbox": [
+      "193.72",
+      "210.67",
+      "247.93",
+      "237.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "ew York",
+    "bbox": [
+      "247.87",
+      "210.93",
+      "346.49",
+      "237.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "Visit us in National Harbor",
+    "bbox": [
+      "298.18",
+      "359.13",
+      "355.66",
+      "364.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "ITALIAN",
+    "bbox": [
+      "358.62",
+      "385.36",
+      "370.33",
+      "389.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "ITALIAN KI ITTACLIAHNE KINTC H&EN  B& BAARR",
+    "bbox": [
+      "69.29",
+      "389.56",
+      "109.60",
+      "393.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "A NEW YORK BRASSERIE",
+    "bbox": [
+      "169.85",
+      "392.89",
+      "203.93",
+      "395.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "A Lincoln Center Institution, est. 1974",
+    "bbox": [
+      "230.36",
+      "395.81",
+      "269.38",
+      "397.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "K&IPTIZCZHEREIAN",
+    "bbox": [
+      "357.75",
+      "388.48",
+      "369.98",
+      "395.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "What’s Italian forIn The Heart of",
+    "bbox": [
+      "22.75",
+      "399.51",
+      "105.63",
+      "403.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "What’s American",
+    "bbox": [
+      "170.33",
+      "399.51",
+      "205.18",
+      "403.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "A Lincoln Center",
+    "bbox": [
+      "229.03",
+      "399.51",
+      "263.28",
+      "403.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "In The Heart of Mother’s Kitchen",
+    "bbox": [
+      "289.71",
+      "399.51",
+      "372.30",
+      "403.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "Carnegie Hall?",
+    "bbox": [
+      "25.37",
+      "405.36",
+      "53.94",
+      "409.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "Times SquareLike Goin’ Homefor Carnegie Hall?",
+    "bbox": [
+      "76.37",
+      "402.98",
+      "204.94",
+      "409.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "Institution",
+    "bbox": [
+      "235.53",
+      "405.36",
+      "255.65",
+      "409.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "National Harbor",
+    "bbox": [
+      "288.78",
+      "405.36",
+      "320.28",
+      "409.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "on the Potomac",
+    "bbox": [
+      "339.89",
+      "405.36",
+      "371.37",
+      "409.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "Relax... You’re in the hands of the Fireman Hospitality Group",
+    "bbox": [
+      "123.54",
+      "549.23",
+      "272.86",
+      "555.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "888 7th Avenue, Suite 203, New York, NY 10106",
+    "bbox": [
+      "152.54",
+      "557.05",
+      "244.87",
+      "562.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "thefiremangroup.com",
+    "bbox": [
+      "177.46",
+      "563.95",
+      "218.94",
+      "568.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "Relax... You’re in the hands of the Fireman Hospitality Group",
+    "bbox": [
+      "63.57",
+      "557.58",
+      "334.47",
+      "566.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "Direttore Generale: Jeff Baskin   Culinary Director: Brando DeOliveira",
+    "bbox": [
+      "41.60",
+      "567.80",
+      "361.22",
+      "577.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "Maestro Di Cucina: Anthony Acinapura",
+    "bbox": [
+      "110.20",
+      "578.60",
+      "285.14",
+      "588.45"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

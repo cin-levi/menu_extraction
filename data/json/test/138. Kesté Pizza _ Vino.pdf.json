@@ -1,0 +1,5160 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/17/22, 2:50 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Drinks – kesté - Nationwide Shipping",
+    "bbox": [
+      "286.22",
+      "15.70",
+      "416.95",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "about(cid:0) menù(cid:0) order now(cid:0) press(cid:0) contacts",
+    "bbox": [
+      "299.58",
+      "43.77",
+      "573.88",
+      "54.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "drinks",
+    "bbox": [
+      "286.31",
+      "108.07",
+      "326.69",
+      "124.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FULTON",
+    "bbox": [
+      "262.26",
+      "124.57",
+      "350.75",
+      "147.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "re",
+    "bbox": [
+      "273.88",
+      "192.50",
+      "315.41",
+      "232.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "d",
+    "bbox": [
+      "315.41",
+      "192.50",
+      "339.13",
+      "232.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "W",
+    "bbox": [
+      "257.14",
+      "221.78",
+      "290.91",
+      "256.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "IN",
+    "bbox": [
+      "291.48",
+      "221.78",
+      "332.10",
+      "256.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "332.68",
+      "221.78",
+      "355.29",
+      "256.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GLASS",
+    "bbox": [
+      "268.50",
+      "309.13",
+      "343.35",
+      "331.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "AGLIANICO SANNIO RISERVA DOP FABULAE",
+    "bbox": [
+      "29.58",
+      "371.99",
+      "252.17",
+      "381.22"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "AGLIANICO SANNIO RISERVA DOP FABULAE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$12",
+    "bbox": [
+      "566.19",
+      "372.69",
+      "583.42",
+      "382.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$12",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Campania 2015",
+    "bbox": [
+      "29.58",
+      "390.59",
+      "82.53",
+      "398.09"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MONTEPULCIANO D’ABRUZZO - ILLUMINATI - RIPAROSSO",
+    "bbox": [
+      "29.58",
+      "419.29",
+      "321.70",
+      "428.52"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MONTEPULCIANO D’ABRUZZO - ILLUMINATI - RIPAROSSO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$10",
+    "bbox": [
+      "565.46",
+      "420.00",
+      "583.42",
+      "429.80"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$10",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Abruzzo 2016",
+    "bbox": [
+      "29.58",
+      "438.47",
+      "75.86",
+      "445.97"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SOLOPACA SUPERIORE DOP FABULAE",
+    "bbox": [
+      "29.58",
+      "467.18",
+      "220.62",
+      "476.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SOLOPACA SUPERIORE DOP FABULAE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$11",
+    "bbox": [
+      "567.53",
+      "467.88",
+      "583.42",
+      "477.69"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$11",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Campania 2015",
+    "bbox": [
+      "29.58",
+      "486.36",
+      "82.53",
+      "493.86"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHIANTI DOCG - MONROSSO",
+    "bbox": [
+      "29.58",
+      "514.49",
+      "172.99",
+      "523.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHIANTI DOCG - MONROSSO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$13",
+    "bbox": [
+      "566.21",
+      "515.19",
+      "583.42",
+      "525.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Toscana 2014",
+    "bbox": [
+      "29.58",
+      "533.67",
+      "76.28",
+      "541.17"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CABERNET - LA VIGNE - ISERA",
+    "bbox": [
+      "29.58",
+      "562.37",
+      "181.08",
+      "571.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET - LA VIGNE - ISERA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$14",
+    "bbox": [
+      "565.96",
+      "563.07",
+      "583.42",
+      "572.88"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Trentino Alto-Adige 2015",
+    "bbox": [
+      "29.58",
+      "581.55",
+      "112.27",
+      "589.05"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "IL BRUCIATO DOC - GUADO AL TASSO",
+    "bbox": [
+      "29.58",
+      "610.25",
+      "216.69",
+      "619.49"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "IL BRUCIATO DOC - GUADO AL TASSO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$14",
+    "bbox": [
+      "565.96",
+      "610.96",
+      "583.42",
+      "620.77"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Toscana 2016",
+    "bbox": [
+      "29.58",
+      "628.86",
+      "76.28",
+      "636.36"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ETNA ROSSO A’ RINA - GIROLAMO RUSSO",
+    "bbox": [
+      "29.58",
+      "657.56",
+      "236.47",
+      "666.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ETNA ROSSO A’ RINA - GIROLAMO RUSSO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$16",
+    "bbox": [
+      "565.98",
+      "658.27",
+      "583.42",
+      "668.07"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sicilia 2016",
+    "bbox": [
+      "29.58",
+      "676.74",
+      "67.93",
+      "684.24"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(cid:0)",
+    "bbox": [
+      "562.60",
+      "741.34",
+      "571.35",
+      "752.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "kestepizzeria.com uses cookies to help give you the best possible user experience.Find out moreAccepted",
+    "bbox": [
+      "99.27",
+      "748.65",
+      "518.35",
+      "757.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://kestepizzeria.com/en/drinks-fulton/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "173.63",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/17/22, 2:50 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Drinks – kesté - Nationwide Shipping",
+    "bbox": [
+      "286.22",
+      "15.70",
+      "416.95",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "about(cid:0) menù(cid:0) order now(cid:0) press(cid:0) contacts",
+    "bbox": [
+      "299.58",
+      "43.77",
+      "573.88",
+      "54.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HALF LITER",
+    "bbox": [
+      "234.39",
+      "61.05",
+      "377.45",
+      "83.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHIANTI DOCG - MONROSSO",
+    "bbox": [
+      "29.58",
+      "123.91",
+      "172.99",
+      "133.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHIANTI DOCG - MONROSSO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$39",
+    "bbox": [
+      "564.65",
+      "124.61",
+      "583.42",
+      "134.42"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$39",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Toscana 2014",
+    "bbox": [
+      "29.58",
+      "142.51",
+      "76.28",
+      "150.01"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CABERNET - LA VIGNE - ISERA",
+    "bbox": [
+      "29.58",
+      "171.22",
+      "181.08",
+      "180.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET - LA VIGNE - ISERA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$49",
+    "bbox": [
+      "564.41",
+      "171.92",
+      "583.42",
+      "181.73"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$49",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Trentino Alto-Adige 2015",
+    "bbox": [
+      "29.58",
+      "190.40",
+      "112.27",
+      "197.90"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "IL BRUCIATO DOC - GUADO AL TASSO",
+    "bbox": [
+      "29.58",
+      "219.10",
+      "216.69",
+      "228.33"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "IL BRUCIATO DOC - GUADO AL TASSO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$49",
+    "bbox": [
+      "564.41",
+      "219.80",
+      "583.42",
+      "229.61"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$49",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Toscana 2016",
+    "bbox": [
+      "29.58",
+      "238.28",
+      "76.28",
+      "245.78"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ETNA ROSSO A’ RINA - GIROLAMO RUSSO",
+    "bbox": [
+      "29.58",
+      "266.41",
+      "236.47",
+      "275.64"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ETNA ROSSO A’ RINA - GIROLAMO RUSSO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$58",
+    "bbox": [
+      "564.63",
+      "267.11",
+      "583.42",
+      "276.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$58",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sicilia 2016",
+    "bbox": [
+      "29.58",
+      "285.59",
+      "67.93",
+      "293.09"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "AGLIANICO SANNIO RISERVA DOP FABULAE",
+    "bbox": [
+      "29.58",
+      "314.29",
+      "252.17",
+      "323.52"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "AGLIANICO SANNIO RISERVA DOP FABULAE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$36",
+    "bbox": [
+      "564.65",
+      "315.00",
+      "583.42",
+      "324.80"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$36",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Campania 2015",
+    "bbox": [
+      "29.58",
+      "333.47",
+      "82.53",
+      "340.97"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MONTEPULCIANO D’ABRUZZO - ILLUMINATI - RIPAROSSO",
+    "bbox": [
+      "29.58",
+      "362.18",
+      "321.70",
+      "371.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MONTEPULCIANO D’ABRUZZO - ILLUMINATI - RIPAROSSO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$30",
+    "bbox": [
+      "564.13",
+      "362.88",
+      "583.42",
+      "372.69"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$30",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Abruzzo 2016",
+    "bbox": [
+      "29.58",
+      "380.78",
+      "75.86",
+      "388.28"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SOLOPACA SUPERIORE DOP FABULAE",
+    "bbox": [
+      "29.58",
+      "409.49",
+      "220.62",
+      "418.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SOLOPACA SUPERIORE DOP FABULAE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$33",
+    "bbox": [
+      "564.89",
+      "410.19",
+      "583.42",
+      "420.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$33",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Campania 2015",
+    "bbox": [
+      "29.58",
+      "428.67",
+      "82.53",
+      "436.17"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BOTTLE",
+    "bbox": [
+      "259.25",
+      "502.97",
+      "352.59",
+      "525.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "IL BRUCIATO DOC - GUADO AL TASSO",
+    "bbox": [
+      "29.58",
+      "565.25",
+      "216.69",
+      "574.49"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "IL BRUCIATO DOC - GUADO AL TASSO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$69",
+    "bbox": [
+      "564.43",
+      "565.96",
+      "583.42",
+      "575.77"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$69",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Toscana 2016",
+    "bbox": [
+      "29.58",
+      "584.44",
+      "76.28",
+      "591.94"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ETNA ROSSO A’ RINA - GIROLAMO RUSSO",
+    "bbox": [
+      "29.58",
+      "613.14",
+      "236.47",
+      "622.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ETNA ROSSO A’ RINA - GIROLAMO RUSSO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$79",
+    "bbox": [
+      "565.35",
+      "613.84",
+      "583.42",
+      "623.65"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$79",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sicilia 2016",
+    "bbox": [
+      "29.58",
+      "632.32",
+      "67.93",
+      "639.82"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "AGLIANICO SANNIO RISERVA DOP FABULAE",
+    "bbox": [
+      "29.58",
+      "661.02",
+      "252.17",
+      "670.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "AGLIANICO SANNIO RISERVA DOP FABULAE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$65",
+    "bbox": [
+      "564.91",
+      "661.73",
+      "583.42",
+      "671.53"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$65",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Campania 2015",
+    "bbox": [
+      "29.58",
+      "679.63",
+      "82.53",
+      "687.13"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "(cid:0)",
+    "bbox": [
+      "562.60",
+      "741.34",
+      "571.35",
+      "752.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "kestepizzeria.com uses cookies to help give you the best possible user experience.Find out moreAccepted",
+    "bbox": [
+      "99.27",
+      "748.65",
+      "518.35",
+      "757.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://kestepizzeria.com/en/drinks-fulton/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "173.63",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/17/22, 2:50 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Drinks – kesté - Nationwide Shipping",
+    "bbox": [
+      "286.22",
+      "15.70",
+      "416.95",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "about(cid:0) menù(cid:0) order now(cid:0) press(cid:0) contacts",
+    "bbox": [
+      "299.58",
+      "43.77",
+      "573.88",
+      "54.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "re",
+    "bbox": [
+      "234.26",
+      "48.27",
+      "275.79",
+      "88.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "se",
+    "bbox": [
+      "275.79",
+      "48.27",
+      "317.57",
+      "88.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "rve",
+    "bbox": [
+      "317.57",
+      "48.27",
+      "378.74",
+      "88.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "R",
+    "bbox": [
+      "109.11",
+      "77.55",
+      "133.40",
+      "112.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "E",
+    "bbox": [
+      "133.98",
+      "77.55",
+      "156.59",
+      "112.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "D",
+    "bbox": [
+      "157.17",
+      "77.55",
+      "183.10",
+      "112.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "W",
+    "bbox": [
+      "183.67",
+      "77.55",
+      "228.09",
+      "112.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "IN",
+    "bbox": [
+      "228.67",
+      "77.55",
+      "269.29",
+      "112.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "E",
+    "bbox": [
+      "269.87",
+      "77.55",
+      "292.48",
+      "112.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SE",
+    "bbox": [
+      "294.78",
+      "77.55",
+      "346.32",
+      "112.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "L",
+    "bbox": [
+      "346.90",
+      "77.55",
+      "367.79",
+      "112.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "E",
+    "bbox": [
+      "368.36",
+      "77.55",
+      "390.98",
+      "112.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "C",
+    "bbox": [
+      "391.56",
+      "77.55",
+      "413.78",
+      "112.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "T",
+    "bbox": [
+      "414.36",
+      "77.55",
+      "435.77",
+      "112.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "IO",
+    "bbox": [
+      "436.35",
+      "77.55",
+      "476.18",
+      "112.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "N",
+    "bbox": [
+      "476.75",
+      "77.55",
+      "503.31",
+      "112.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "GLASS",
+    "bbox": [
+      "268.50",
+      "164.89",
+      "343.35",
+      "187.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BRUNELLO DI MONTALCINO DOCG - PIETRANERA",
+    "bbox": [
+      "29.58",
+      "227.75",
+      "279.72",
+      "236.99"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BRUNELLO DI MONTALCINO DOCG - PIETRANERA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$19",
+    "bbox": [
+      "565.98",
+      "228.46",
+      "583.42",
+      "238.27"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$19",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Toscana 2012",
+    "bbox": [
+      "29.58",
+      "246.36",
+      "76.28",
+      "253.86"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2012",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BAROLO DOCG - CORDERO DI MONTEZEMOLO - MONFALETTO",
+    "bbox": [
+      "29.58",
+      "275.06",
+      "340.55",
+      "284.29"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BAROLO DOCG - CORDERO DI MONTEZEMOLO - MONFALETTO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$23",
+    "bbox": [
+      "564.86",
+      "275.77",
+      "583.41",
+      "285.57"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$23",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Piemonte 2013",
+    "bbox": [
+      "29.58",
+      "294.24",
+      "80.03",
+      "301.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "AMARONE DELLA VALPOLICELLA DOC - CLASSICO - VENTURINI",
+    "bbox": [
+      "29.58",
+      "322.95",
+      "348.39",
+      "332.18"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "AMARONE DELLA VALPOLICELLA DOC - CLASSICO - VENTURINI",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$23",
+    "bbox": [
+      "564.86",
+      "323.65",
+      "583.41",
+      "333.46"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$23",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Veneto 2013",
+    "bbox": [
+      "29.58",
+      "342.13",
+      "71.70",
+      "349.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TIGNANELLO ANTINORI",
+    "bbox": [
+      "29.58",
+      "370.25",
+      "151.15",
+      "379.49"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "TIGNANELLO ANTINORI",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$30",
+    "bbox": [
+      "564.13",
+      "370.96",
+      "583.42",
+      "380.77"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$30",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Toscana 2015",
+    "bbox": [
+      "29.58",
+      "389.44",
+      "76.28",
+      "396.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BARBARESCO PRUNOTTO",
+    "bbox": [
+      "29.58",
+      "418.14",
+      "158.48",
+      "427.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BARBARESCO PRUNOTTO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$26",
+    "bbox": [
+      "564.64",
+      "418.84",
+      "583.42",
+      "428.65"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$26",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Piemonte 2013",
+    "bbox": [
+      "29.58",
+      "437.32",
+      "80.03",
+      "444.82"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHIANTI CLASSICO - VILLA ANTINORI - RISERVA",
+    "bbox": [
+      "29.58",
+      "466.02",
+      "273.45",
+      "475.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHIANTI CLASSICO - VILLA ANTINORI - RISERVA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$18",
+    "bbox": [
+      "565.70",
+      "466.73",
+      "583.42",
+      "476.53"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Toscana 2012",
+    "bbox": [
+      "29.58",
+      "484.63",
+      "76.28",
+      "492.13"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2012",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "NEGRAMARO TORMARESCA - RISERVA MASSERIA MAINE",
+    "bbox": [
+      "29.58",
+      "513.33",
+      "317.73",
+      "522.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "NEGRAMARO TORMARESCA - RISERVA MASSERIA MAINE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$22",
+    "bbox": [
+      "564.84",
+      "514.03",
+      "583.42",
+      "523.84"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$22",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Puglia 2013",
+    "bbox": [
+      "29.58",
+      "532.51",
+      "69.19",
+      "540.01"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "IL BRUCIATO DOC - GUADO AL TASSO",
+    "bbox": [
+      "29.58",
+      "561.22",
+      "216.69",
+      "570.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "IL BRUCIATO DOC - GUADO AL TASSO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$14",
+    "bbox": [
+      "565.96",
+      "561.92",
+      "583.42",
+      "571.73"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Toscana 2016",
+    "bbox": [
+      "29.58",
+      "580.40",
+      "76.28",
+      "587.90"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "HALF LITER",
+    "bbox": [
+      "234.39",
+      "654.13",
+      "377.45",
+      "676.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "NEGRAMARO TORMARESCA - RISERVA MASSERIA MAINE",
+    "bbox": [
+      "29.58",
+      "716.99",
+      "317.73",
+      "726.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$60",
+    "bbox": [
+      "563.91",
+      "717.69",
+      "583.42",
+      "727.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Puglia 2013",
+    "bbox": [
+      "29.58",
+      "736.17",
+      "69.19",
+      "743.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "(cid:0)",
+    "bbox": [
+      "562.60",
+      "741.34",
+      "571.35",
+      "752.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "kestepizzeria.com uses cookies to help give you the best possible user experience.Find out moreAccepted",
+    "bbox": [
+      "99.27",
+      "748.65",
+      "518.35",
+      "757.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://kestepizzeria.com/en/drinks-fulton/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "173.63",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/17/22, 2:50 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Drinks – kesté - Nationwide Shipping",
+    "bbox": [
+      "286.22",
+      "15.70",
+      "416.95",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "IL BRUCIATO DOC - GUADO AL TASSO",
+    "bbox": [
+      "29.58",
+      "44.29",
+      "216.69",
+      "53.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "about(cid:0) menù(cid:0) order now(cid:0) press(cid:0) contac$ts49",
+    "bbox": [
+      "299.58",
+      "43.77",
+      "583.42",
+      "54.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Toscana 2016",
+    "bbox": [
+      "29.58",
+      "63.47",
+      "76.28",
+      "70.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BRUNELLO DI MONTALCINO DOCG - PIETRANERA",
+    "bbox": [
+      "29.58",
+      "92.18",
+      "279.72",
+      "101.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$58",
+    "bbox": [
+      "564.63",
+      "92.88",
+      "583.42",
+      "102.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Toscana 2012",
+    "bbox": [
+      "29.58",
+      "110.78",
+      "76.28",
+      "118.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BAROLO DOCG - CORDERO DI MONTEZEMOLO - MONFALETTO",
+    "bbox": [
+      "29.58",
+      "139.49",
+      "340.55",
+      "148.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$69",
+    "bbox": [
+      "564.43",
+      "140.19",
+      "583.42",
+      "150.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Piemonte 2013",
+    "bbox": [
+      "29.58",
+      "158.67",
+      "80.03",
+      "166.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "AMARONE DELLA VALPOLICELLA DOC - CLASSICO - VENTURINI",
+    "bbox": [
+      "29.58",
+      "187.37",
+      "348.39",
+      "196.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$69",
+    "bbox": [
+      "564.43",
+      "188.07",
+      "583.42",
+      "197.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Veneto 2013",
+    "bbox": [
+      "29.58",
+      "206.55",
+      "71.70",
+      "214.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "TIGNANELLO ANTINORI",
+    "bbox": [
+      "29.58",
+      "234.68",
+      "151.15",
+      "243.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$90",
+    "bbox": [
+      "563.91",
+      "235.38",
+      "583.42",
+      "245.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Toscana 2015",
+    "bbox": [
+      "29.58",
+      "253.86",
+      "76.28",
+      "261.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BARBARESCO PRUNOTTO",
+    "bbox": [
+      "29.58",
+      "282.56",
+      "158.48",
+      "291.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$78",
+    "bbox": [
+      "565.07",
+      "283.27",
+      "583.42",
+      "293.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Piemonte 2013",
+    "bbox": [
+      "29.58",
+      "301.74",
+      "80.03",
+      "309.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CHIANTI CLASSICO - VILLA ANTINORI - RISERVA",
+    "bbox": [
+      "29.58",
+      "330.45",
+      "273.45",
+      "339.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$54",
+    "bbox": [
+      "564.89",
+      "331.15",
+      "583.42",
+      "340.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Toscana 2012",
+    "bbox": [
+      "29.58",
+      "349.05",
+      "76.28",
+      "356.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BOTTLE",
+    "bbox": [
+      "259.25",
+      "423.36",
+      "352.59",
+      "445.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BARBARESCO PRUNOTTO",
+    "bbox": [
+      "29.58",
+      "486.22",
+      "158.48",
+      "495.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$129",
+    "bbox": [
+      "559.83",
+      "486.92",
+      "583.42",
+      "496.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Piemonte 2013",
+    "bbox": [
+      "29.58",
+      "505.40",
+      "80.03",
+      "512.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "NEGRAMARO TORMARESCA - RISERVA MASSERIA MAINE",
+    "bbox": [
+      "29.58",
+      "533.52",
+      "317.73",
+      "542.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$99",
+    "bbox": [
+      "564.43",
+      "534.23",
+      "583.42",
+      "544.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Puglia 2013",
+    "bbox": [
+      "29.58",
+      "552.70",
+      "69.19",
+      "560.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "IL BRUCIATO DOC - GUADO AL TASSO",
+    "bbox": [
+      "29.58",
+      "581.41",
+      "216.69",
+      "590.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$69",
+    "bbox": [
+      "564.43",
+      "582.11",
+      "583.42",
+      "591.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Toscana 2016",
+    "bbox": [
+      "29.58",
+      "600.59",
+      "76.28",
+      "608.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BRUNELLO DI MONTALCINO DOCG - PIETRANERA",
+    "bbox": [
+      "29.58",
+      "629.29",
+      "279.72",
+      "638.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$88",
+    "bbox": [
+      "563.87",
+      "630.00",
+      "583.42",
+      "639.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Toscana 2012",
+    "bbox": [
+      "29.58",
+      "647.90",
+      "76.28",
+      "655.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BAROLO DOCG - CORDERO DI MONTEZEMOLO - MONFALETTO",
+    "bbox": [
+      "29.58",
+      "676.60",
+      "340.55",
+      "685.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$99",
+    "bbox": [
+      "564.43",
+      "677.30",
+      "583.42",
+      "687.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Piemonte 2013",
+    "bbox": [
+      "29.58",
+      "695.78",
+      "80.03",
+      "703.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "AMARONE DELLA VALPOLICELLA DOC - CLASSICO - VENTURINI",
+    "bbox": [
+      "29.58",
+      "724.49",
+      "348.39",
+      "733.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$99",
+    "bbox": [
+      "564.43",
+      "725.19",
+      "583.42",
+      "735.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Veneto 2013",
+    "bbox": [
+      "29.58",
+      "743.67",
+      "71.70",
+      "751.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "(cid:0)",
+    "bbox": [
+      "562.60",
+      "741.34",
+      "571.35",
+      "752.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "kestepizzeria.com uses cookies to help give you the best possible user experience.Find out moreAccepted",
+    "bbox": [
+      "99.27",
+      "748.65",
+      "518.35",
+      "757.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://kestepizzeria.com/en/drinks-fulton/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "173.63",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/17/22, 2:50 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Drinks – kesté - Nationwide Shipping",
+    "bbox": [
+      "286.22",
+      "15.70",
+      "416.95",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "TIGNANELLO ANTINORI",
+    "bbox": [
+      "29.58",
+      "44.29",
+      "151.15",
+      "53.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "about(cid:0) menù(cid:0) order now(cid:0) press(cid:0) conta$c1ts50",
+    "bbox": [
+      "299.58",
+      "43.77",
+      "583.42",
+      "54.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Toscana 2015",
+    "bbox": [
+      "29.58",
+      "63.47",
+      "76.28",
+      "70.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CHIANTI CLASSICO - VILLA ANTINORI - RISERVA",
+    "bbox": [
+      "29.58",
+      "92.18",
+      "273.45",
+      "101.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$89",
+    "bbox": [
+      "564.15",
+      "92.88",
+      "583.42",
+      "102.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Toscana 2012",
+    "bbox": [
+      "29.58",
+      "110.78",
+      "76.28",
+      "118.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "w",
+    "bbox": [
+      "254.78",
+      "172.31",
+      "282.41",
+      "212.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "h",
+    "bbox": [
+      "282.41",
+      "172.31",
+      "305.74",
+      "212.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ite",
+    "bbox": [
+      "305.74",
+      "172.31",
+      "358.21",
+      "212.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "W",
+    "bbox": [
+      "257.14",
+      "201.59",
+      "290.91",
+      "236.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "IN",
+    "bbox": [
+      "291.48",
+      "201.59",
+      "332.10",
+      "236.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "E",
+    "bbox": [
+      "332.68",
+      "201.59",
+      "355.29",
+      "236.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "GLASS",
+    "bbox": [
+      "268.50",
+      "288.93",
+      "343.35",
+      "311.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "PINOT GRIGIO - PIETRE DEL SOLE",
+    "bbox": [
+      "29.58",
+      "351.79",
+      "199.87",
+      "361.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$10",
+    "bbox": [
+      "565.46",
+      "352.50",
+      "583.42",
+      "362.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Lombardia 2017",
+    "bbox": [
+      "29.58",
+      "370.97",
+      "83.78",
+      "378.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CHARDONNAY - FEUDI BRANCIFORTI",
+    "bbox": [
+      "29.58",
+      "399.10",
+      "217.75",
+      "408.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$11",
+    "bbox": [
+      "567.53",
+      "399.80",
+      "583.42",
+      "409.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sicilia 2017",
+    "bbox": [
+      "29.58",
+      "418.28",
+      "67.93",
+      "425.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "VIOGNIER - CASALE DEL GIGLIO",
+    "bbox": [
+      "29.58",
+      "446.99",
+      "191.79",
+      "456.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$12",
+    "bbox": [
+      "566.19",
+      "447.69",
+      "583.42",
+      "457.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Lazio 2017",
+    "bbox": [
+      "29.58",
+      "466.17",
+      "66.27",
+      "473.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIANCOLELLA D’ISCHIA - CASA D’AMBRA",
+    "bbox": [
+      "29.58",
+      "494.87",
+      "236.11",
+      "504.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$15",
+    "bbox": [
+      "566.46",
+      "495.57",
+      "583.42",
+      "505.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Campania 2017",
+    "bbox": [
+      "29.58",
+      "513.47",
+      "82.53",
+      "520.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "HALF LITER",
+    "bbox": [
+      "234.39",
+      "587.78",
+      "377.45",
+      "610.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "PINOT GRIGIO - PIETRE DEL SOLE",
+    "bbox": [
+      "29.58",
+      "650.64",
+      "199.87",
+      "659.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$30",
+    "bbox": [
+      "564.13",
+      "651.34",
+      "583.42",
+      "661.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Lombardia 2017",
+    "bbox": [
+      "29.58",
+      "669.82",
+      "83.78",
+      "677.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIANCOLELLA D’ISCHIA - CASA D’AMBRA",
+    "bbox": [
+      "29.58",
+      "697.95",
+      "236.11",
+      "707.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$45",
+    "bbox": [
+      "564.89",
+      "698.65",
+      "583.42",
+      "708.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Campania 2017",
+    "bbox": [
+      "29.58",
+      "717.13",
+      "82.53",
+      "724.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(cid:0)",
+    "bbox": [
+      "562.60",
+      "741.34",
+      "571.35",
+      "752.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CHARDONNAYke -s tFeEpiUzzDerIi aB.cRomA NuseCsI FcoOokRieTs Ito help give you the best possible user experience.Find out moreAccepted",
+    "bbox": [
+      "29.58",
+      "745.83",
+      "518.35",
+      "757.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$33",
+    "bbox": [
+      "564.89",
+      "746.53",
+      "583.42",
+      "756.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://kestepizzeria.com/en/drinks-fulton/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "173.63",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/17/22, 2:50 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Drinks – kesté - Nationwide Shipping",
+    "bbox": [
+      "286.22",
+      "15.70",
+      "416.95",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sicilia 2017",
+    "bbox": [
+      "29.58",
+      "32.32",
+      "67.93",
+      "39.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "about(cid:0) menù(cid:0) order now(cid:0) press(cid:0) contacts",
+    "bbox": [
+      "299.58",
+      "43.77",
+      "573.88",
+      "54.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "VIOGNIER - CASALE DEL GIGLIO",
+    "bbox": [
+      "29.58",
+      "61.02",
+      "191.79",
+      "70.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$36",
+    "bbox": [
+      "564.65",
+      "61.73",
+      "583.42",
+      "71.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Lazio 2017",
+    "bbox": [
+      "29.58",
+      "80.20",
+      "66.27",
+      "87.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BOTTLE",
+    "bbox": [
+      "259.25",
+      "153.93",
+      "352.59",
+      "176.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BIANCOLELLA D’ISCHIA - CASA D’AMBRA",
+    "bbox": [
+      "29.58",
+      "216.79",
+      "236.11",
+      "226.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$60",
+    "bbox": [
+      "563.91",
+      "217.50",
+      "583.42",
+      "227.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Campania 2017",
+    "bbox": [
+      "29.58",
+      "235.97",
+      "82.53",
+      "243.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "re",
+    "bbox": [
+      "234.26",
+      "297.50",
+      "275.79",
+      "337.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "se",
+    "bbox": [
+      "275.79",
+      "297.50",
+      "317.57",
+      "337.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "rve",
+    "bbox": [
+      "317.57",
+      "297.50",
+      "378.74",
+      "337.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "W",
+    "bbox": [
+      "85.20",
+      "326.78",
+      "118.98",
+      "361.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "H",
+    "bbox": [
+      "119.55",
+      "326.78",
+      "147.76",
+      "361.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "IT",
+    "bbox": [
+      "148.34",
+      "326.78",
+      "183.82",
+      "361.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "E",
+    "bbox": [
+      "184.40",
+      "326.78",
+      "207.01",
+      "361.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "W",
+    "bbox": [
+      "207.59",
+      "326.78",
+      "252.01",
+      "361.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "IN",
+    "bbox": [
+      "252.59",
+      "326.78",
+      "293.20",
+      "361.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "E",
+    "bbox": [
+      "293.78",
+      "326.78",
+      "316.40",
+      "361.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "SE",
+    "bbox": [
+      "318.70",
+      "326.78",
+      "370.24",
+      "361.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "L",
+    "bbox": [
+      "370.81",
+      "326.78",
+      "391.70",
+      "361.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "E",
+    "bbox": [
+      "392.28",
+      "326.78",
+      "414.90",
+      "361.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "C",
+    "bbox": [
+      "415.47",
+      "326.78",
+      "437.70",
+      "361.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "T",
+    "bbox": [
+      "438.28",
+      "326.78",
+      "459.69",
+      "361.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "IO",
+    "bbox": [
+      "460.27",
+      "326.78",
+      "500.09",
+      "361.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "N",
+    "bbox": [
+      "500.67",
+      "326.78",
+      "527.22",
+      "361.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "GLASS",
+    "bbox": [
+      "268.50",
+      "414.13",
+      "343.35",
+      "436.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RAVELLO BIANCO - MARISA CUOMO",
+    "bbox": [
+      "29.58",
+      "476.41",
+      "210.54",
+      "485.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$16",
+    "bbox": [
+      "565.98",
+      "477.11",
+      "583.42",
+      "486.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Campania 2016",
+    "bbox": [
+      "29.58",
+      "495.59",
+      "82.53",
+      "503.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BRAMITO DELLA SALA DOC",
+    "bbox": [
+      "29.58",
+      "524.29",
+      "167.60",
+      "533.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$13",
+    "bbox": [
+      "566.21",
+      "525.00",
+      "583.42",
+      "534.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Umbria 2017",
+    "bbox": [
+      "29.58",
+      "543.47",
+      "72.52",
+      "550.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "SAN GIOVANNI DELLA SALA - ORVIETO SUPERIORE",
+    "bbox": [
+      "29.58",
+      "571.60",
+      "287.48",
+      "580.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$13",
+    "bbox": [
+      "566.21",
+      "572.30",
+      "583.42",
+      "582.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Umbria 2017",
+    "bbox": [
+      "29.58",
+      "590.78",
+      "72.52",
+      "598.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CERVARO DELLA SALA - CHARDONNAY",
+    "bbox": [
+      "29.58",
+      "619.49",
+      "226.27",
+      "628.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$29",
+    "bbox": [
+      "564.64",
+      "620.19",
+      "583.42",
+      "630.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Umbria 2015",
+    "bbox": [
+      "29.58",
+      "638.67",
+      "72.52",
+      "646.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "HALF LITER",
+    "bbox": [
+      "234.39",
+      "712.97",
+      "377.45",
+      "735.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(cid:0)",
+    "bbox": [
+      "562.60",
+      "741.34",
+      "571.35",
+      "752.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "kestepizzeria.com uses cookies to help give you the best possible user experience.Find out moreAccepted",
+    "bbox": [
+      "99.27",
+      "748.65",
+      "518.35",
+      "757.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://kestepizzeria.com/en/drinks-fulton/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "173.63",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/17/22, 2:50 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Drinks – kesté - Nationwide Shipping",
+    "bbox": [
+      "286.22",
+      "15.70",
+      "416.95",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SAN GIOVANNI DELLA SALA - ORVIETO SUPERIOREabout(cid:0) menù(cid:0) order now(cid:0) press(cid:0) contac$ts39",
+    "bbox": [
+      "29.58",
+      "43.77",
+      "583.42",
+      "54.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Umbria 2017",
+    "bbox": [
+      "29.58",
+      "63.47",
+      "72.52",
+      "70.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CERVARO DELLA SALA - CHARDONNAY",
+    "bbox": [
+      "29.58",
+      "92.18",
+      "226.27",
+      "101.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$87",
+    "bbox": [
+      "565.07",
+      "92.88",
+      "583.42",
+      "102.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Umbria 2015",
+    "bbox": [
+      "29.58",
+      "110.78",
+      "72.52",
+      "118.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RAVELLO BIANCO - MARISA CUOMO",
+    "bbox": [
+      "29.58",
+      "139.49",
+      "210.54",
+      "148.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$48",
+    "bbox": [
+      "564.13",
+      "140.19",
+      "583.42",
+      "150.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Campania 2016",
+    "bbox": [
+      "29.58",
+      "158.67",
+      "82.53",
+      "166.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BRAMITO DELLA SALA DOC",
+    "bbox": [
+      "29.58",
+      "187.37",
+      "167.60",
+      "196.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$49",
+    "bbox": [
+      "564.41",
+      "188.07",
+      "583.42",
+      "197.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Umbria 2017",
+    "bbox": [
+      "29.58",
+      "206.55",
+      "72.52",
+      "214.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BOTTLE",
+    "bbox": [
+      "259.25",
+      "280.28",
+      "352.59",
+      "302.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SAN GIOVANNI DELLA SALA - ORVIETO SUPERIORE",
+    "bbox": [
+      "29.58",
+      "343.14",
+      "287.48",
+      "352.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$60",
+    "bbox": [
+      "563.91",
+      "343.84",
+      "583.42",
+      "353.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Umbria 2017",
+    "bbox": [
+      "29.58",
+      "362.32",
+      "72.52",
+      "369.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CERVARO DELLA SALA - CHARDONNAY",
+    "bbox": [
+      "29.58",
+      "391.02",
+      "226.27",
+      "400.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$149",
+    "bbox": [
+      "559.61",
+      "391.73",
+      "583.42",
+      "401.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Umbria 2015",
+    "bbox": [
+      "29.58",
+      "409.63",
+      "72.52",
+      "417.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RAVELLO BIANCO - MARISA CUOMO",
+    "bbox": [
+      "29.58",
+      "438.33",
+      "210.54",
+      "447.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$80",
+    "bbox": [
+      "563.63",
+      "439.03",
+      "583.42",
+      "448.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Campania 2016",
+    "bbox": [
+      "29.58",
+      "457.51",
+      "82.53",
+      "465.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BRAMITO DELLA SALA DOC",
+    "bbox": [
+      "29.58",
+      "486.22",
+      "167.60",
+      "495.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$65",
+    "bbox": [
+      "564.91",
+      "486.92",
+      "583.42",
+      "496.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Umbria 2017",
+    "bbox": [
+      "29.58",
+      "505.40",
+      "72.52",
+      "512.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SP",
+    "bbox": [
+      "204.85",
+      "566.78",
+      "245.96",
+      "601.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "A",
+    "bbox": [
+      "246.54",
+      "566.78",
+      "269.76",
+      "601.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "R",
+    "bbox": [
+      "270.34",
+      "566.78",
+      "294.63",
+      "601.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "K",
+    "bbox": [
+      "295.20",
+      "566.78",
+      "319.24",
+      "601.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "L",
+    "bbox": [
+      "319.82",
+      "566.78",
+      "340.71",
+      "601.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "IN",
+    "bbox": [
+      "341.28",
+      "566.78",
+      "381.90",
+      "601.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "G",
+    "bbox": [
+      "382.48",
+      "566.78",
+      "407.58",
+      "601.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "GLASS",
+    "bbox": [
+      "268.50",
+      "654.12",
+      "343.35",
+      "676.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "GRAGNANO DOC - CANTINE FEDERICIANE",
+    "bbox": [
+      "29.58",
+      "716.99",
+      "240.64",
+      "726.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$12",
+    "bbox": [
+      "566.19",
+      "717.69",
+      "583.42",
+      "727.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Campania 2017",
+    "bbox": [
+      "29.58",
+      "736.17",
+      "82.53",
+      "743.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "(cid:0)",
+    "bbox": [
+      "562.60",
+      "741.34",
+      "571.35",
+      "752.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "kestepizzeria.com uses cookies to help give you the best possible user experience.Find out moreAccepted",
+    "bbox": [
+      "99.27",
+      "748.65",
+      "518.35",
+      "757.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://kestepizzeria.com/en/drinks-fulton/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "173.63",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/17/22, 2:50 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Drinks – kesté - Nationwide Shipping",
+    "bbox": [
+      "286.22",
+      "15.70",
+      "416.95",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "PROSECCO DOC - ISOTTA MANZONI",
+    "bbox": [
+      "29.58",
+      "44.29",
+      "206.43",
+      "53.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "about(cid:0) menù(cid:0) order now(cid:0) press(cid:0) contact$s11",
+    "bbox": [
+      "299.58",
+      "43.77",
+      "583.42",
+      "54.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Veneto 2016",
+    "bbox": [
+      "29.58",
+      "63.47",
+      "71.70",
+      "70.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "HALF LITER",
+    "bbox": [
+      "234.39",
+      "137.78",
+      "377.45",
+      "160.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "GRAGNANO DOC - CANTINE FEDERICIANE",
+    "bbox": [
+      "29.58",
+      "200.06",
+      "240.64",
+      "209.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$35",
+    "bbox": [
+      "565.13",
+      "200.77",
+      "583.42",
+      "210.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Campania 2017",
+    "bbox": [
+      "29.58",
+      "219.24",
+      "82.53",
+      "226.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BOTTLE",
+    "bbox": [
+      "259.25",
+      "293.55",
+      "352.59",
+      "316.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "GRAGNANO DOC - CANTINE FEDERICIANE",
+    "bbox": [
+      "29.58",
+      "355.83",
+      "240.64",
+      "365.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$52",
+    "bbox": [
+      "565.11",
+      "356.53",
+      "583.42",
+      "366.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Campania 2017",
+    "bbox": [
+      "29.58",
+      "375.01",
+      "82.53",
+      "382.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "PROSECCO DOC - ISOTTA MANZONI",
+    "bbox": [
+      "29.58",
+      "403.72",
+      "206.43",
+      "412.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$52",
+    "bbox": [
+      "565.11",
+      "404.42",
+      "583.42",
+      "414.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Veneto 2016",
+    "bbox": [
+      "29.58",
+      "422.90",
+      "71.70",
+      "430.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "@ PIZZAIUOLI NAPOLETANI",
+    "bbox": [
+      "167.25",
+      "618.84",
+      "289.80",
+      "628.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Menu",
+    "bbox": [
+      "317.00",
+      "624.70",
+      "347.83",
+      "636.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Order On Line",
+    "bbox": [
+      "398.50",
+      "624.70",
+      "472.38",
+      "636.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Other websites",
+    "bbox": [
+      "501.35",
+      "624.70",
+      "576.24",
+      "636.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "I LLC",
+    "bbox": [
+      "167.25",
+      "634.99",
+      "191.87",
+      "644.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Kesté Fulton",
+    "bbox": [
+      "317.00",
+      "644.84",
+      "366.74",
+      "654.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Kesté Fulton",
+    "bbox": [
+      "398.50",
+      "644.80",
+      "448.50",
+      "654.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Pizza Academy Foundation",
+    "bbox": [
+      "501.35",
+      "644.80",
+      "580.43",
+      "654.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Designed by Site & Side ©",
+    "bbox": [
+      "167.25",
+      "653.54",
+      "250.85",
+      "660.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Kesté Pizza&VinoKesté Pizza&Vino",
+    "bbox": [
+      "317.00",
+      "661.57",
+      "466.90",
+      "670.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "APN America",
+    "bbox": [
+      "501.35",
+      "663.38",
+      "542.49",
+      "670.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Powered by",
+    "bbox": [
+      "167.25",
+      "670.27",
+      "205.72",
+      "677.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Don Antonio",
+    "bbox": [
+      "501.35",
+      "680.11",
+      "537.69",
+      "687.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CSS Communication®",
+    "bbox": [
+      "167.25",
+      "687.01",
+      "238.52",
+      "693.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "All rights reserved",
+    "bbox": [
+      "167.25",
+      "703.74",
+      "222.65",
+      "710.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "(cid:0)",
+    "bbox": [
+      "562.60",
+      "741.34",
+      "571.35",
+      "752.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "kestepizzeria.com uses cookies to help give you the best possible user experience.Find out moreAccepted",
+    "bbox": [
+      "99.27",
+      "748.65",
+      "518.35",
+      "757.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://kestepizzeria.com/en/drinks-fulton/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "173.63",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "4/17/22, 2:50 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Drinks – kesté - Nationwide Shipping",
+    "bbox": [
+      "286.22",
+      "15.70",
+      "416.95",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Kesté",
+    "bbox": [
+      "29.00",
+      "35.08",
+      "59.61",
+      "47.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Kesté",
+    "bbox": [
+      "167.25",
+      "35.08",
+      "197.86",
+      "47.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Subscribe to our",
+    "bbox": [
+      "317.00",
+      "35.66",
+      "396.41",
+      "47.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Gallery",
+    "bbox": [
+      "455.25",
+      "40.27",
+      "491.58",
+      "52.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "abountew(cid:0)sl ettmeer nù(cid:0) order now(cid:0) press(cid:0) contacts",
+    "bbox": [
+      "299.58",
+      "43.77",
+      "573.88",
+      "59.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Fulton",
+    "bbox": [
+      "29.00",
+      "51.81",
+      "63.21",
+      "63.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Pizza&Vino",
+    "bbox": [
+      "167.25",
+      "51.81",
+      "228.97",
+      "63.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "66 Gold St.",
+    "bbox": [
+      "29.00",
+      "70.80",
+      "73.62",
+      "80.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "66 Gold St.",
+    "bbox": [
+      "167.25",
+      "70.80",
+      "211.87",
+      "80.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "YOUR NAME",
+    "bbox": [
+      "317.00",
+      "72.18",
+      "369.74",
+      "79.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "New York, NY 10038",
+    "bbox": [
+      "29.00",
+      "86.96",
+      "112.42",
+      "96.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "New York, NY 10038",
+    "bbox": [
+      "167.25",
+      "86.96",
+      "250.66",
+      "96.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Phone: 212-693-9030",
+    "bbox": [
+      "29.00",
+      "103.65",
+      "111.81",
+      "112.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Phone: 212-243-1500",
+    "bbox": [
+      "167.25",
+      "103.69",
+      "249.80",
+      "112.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(cid:0) (cid:0)",
+    "bbox": [
+      "29.00",
+      "120.38",
+      "45.92",
+      "129.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(cid:0) (cid:0)",
+    "bbox": [
+      "167.25",
+      "120.42",
+      "183.92",
+      "129.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "YOUR EMAIL (REQUIRED)",
+    "bbox": [
+      "317.00",
+      "132.76",
+      "425.31",
+      "140.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "SEND",
+    "bbox": [
+      "328.94",
+      "198.81",
+      "350.03",
+      "205.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(cid:0)",
+    "bbox": [
+      "562.60",
+      "741.34",
+      "571.35",
+      "752.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "kestepizzeria.com uses cookies to help give you the best possible user experience.Find out moreAccepted",
+    "bbox": [
+      "99.27",
+      "748.65",
+      "518.35",
+      "757.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "https://kestepizzeria.com/en/drinks-fulton/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "173.63",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "9/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

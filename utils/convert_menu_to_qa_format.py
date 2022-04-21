@@ -148,11 +148,11 @@ def read_data(files):
     # with open(prj_path + '/data/question_list.json', 'w', encoding='utf-8') as f:
     #     json.dump(sorted(list(set(all_keys))), f, ensure_ascii=False)
 
-    with open(prj_path + '/data/full.json', 'w', encoding='utf-8') as f:
+    with open(prj_path + '/data/test.json', 'w', encoding='utf-8') as f:
         json.dump(full_data, f, ensure_ascii=False)
 
 
 if __name__ == '__main__':
-    files = glob(prj_path + '/data/json/*/*.json')
+    files = glob(prj_path + '/data/json/test/*.json')
     read_data(files)
     pass

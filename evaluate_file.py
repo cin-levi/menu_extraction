@@ -8,16 +8,10 @@ from utils.convert_invoice_to_qa_format import normalize_boxes
 from models.sort_entities import sort_entities
 
 
-class LayoutLMDemo(object):
+class LayoutLMEvaluate(object):
     def __init__(self, model_path, version='v1'):
-        if version == 'v1':
-            self.model = LayoutLMInference.load_from_checkpoint(model_path)
-        else:
-            self.model = LayoutLMV2Inference.load_from_checkpoint(model_path)
-        self.label_dict = {'w': 'wine_name',
-                           'v': 'vintage',
-                           'p': 'price'}
-        pass
+        self.model = LayoutLMInference.load_from_checkpoint(model_path)
+
 
 
     def process(self, json_data):
@@ -25,8 +19,8 @@ class LayoutLMDemo(object):
         for sample in json_data:
             title = sample['title']
             predictions = self.model.predict([sample], calculate_acc=False, training_mode='NER', test_bs=2)
-
             print(predictions)
+            print(sample)
             1/0
 
 

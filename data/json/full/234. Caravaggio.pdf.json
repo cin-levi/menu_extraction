@@ -1,0 +1,5133 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/19/22, 10:46 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Caravaggio",
+    "bbox": [
+      "333.34",
+      "15.70",
+      "374.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Reservations",
+    "bbox": [
+      "35.00",
+      "117.10",
+      "96.99",
+      "129.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Reservations",
+    "bbox": [
+      "65.00",
+      "142.60",
+      "126.99",
+      "154.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "About",
+    "bbox": [
+      "65.00",
+      "156.10",
+      "95.00",
+      "168.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menus",
+    "bbox": [
+      "65.00",
+      "169.60",
+      "97.67",
+      "181.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Private Dining",
+    "bbox": [
+      "65.00",
+      "183.10",
+      "135.32",
+      "195.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Gallery",
+    "bbox": [
+      "65.00",
+      "196.60",
+      "100.98",
+      "208.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Press",
+    "bbox": [
+      "65.00",
+      "210.10",
+      "90.34",
+      "222.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Policies",
+    "bbox": [
+      "65.00",
+      "223.60",
+      "103.00",
+      "235.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Contact",
+    "bbox": [
+      "65.00",
+      "237.10",
+      "102.32",
+      "249.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MENUS",
+    "bbox": [
+      "35.00",
+      "266.14",
+      "100.00",
+      "284.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE BY THE GLASS AND COCKTAILS",
+    "bbox": [
+      "67.25",
+      "300.85",
+      "286.19",
+      "312.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DAILY SPECIALS",
+    "bbox": [
+      "65.00",
+      "314.35",
+      "159.47",
+      "326.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LUNCH MENU",
+    "bbox": [
+      "65.00",
+      "327.85",
+      "144.66",
+      "339.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DINNER MENU",
+    "bbox": [
+      "65.00",
+      "341.35",
+      "148.66",
+      "353.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DESSERT MENU",
+    "bbox": [
+      "65.00",
+      "354.85",
+      "154.62",
+      "366.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINES BY THE GLASS",
+    "bbox": [
+      "230.27",
+      "383.25",
+      "382.73",
+      "397.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPARKLING",
+    "bbox": [
+      "271.27",
+      "443.35",
+      "341.73",
+      "455.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Freccianera, Fratelli Berlucchi, Franciacorta, 2015   25",
+    "bbox": [
+      "170.42",
+      "468.85",
+      "442.58",
+      "480.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Freccianera, Fratelli Berlucchi, Franciacorta",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 47
+          }
+        ],
+        "P": [
+          {
+            "text": "25",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Ferrari Brut, Fratelli Lunelli, Trento, NV   26",
+    "bbox": [
+      "196.99",
+      "494.35",
+      "416.00",
+      "506.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Ferrari Brut, Fratelli Lunelli, Trento",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 40
+          }
+        ],
+        "P": [
+          {
+            "text": "26",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Freccianera Rosa, Fratelli Berlucchi, Franciacorta, 2015   25",
+    "bbox": [
+      "156.92",
+      "519.85",
+      "456.08",
+      "531.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Freccianera Rosa, Fratelli Berlucchi, Franciacorta,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Ferrari Rose, Fratelli Lunelli, Trento, NV   25",
+    "bbox": [
+      "195.99",
+      "545.35",
+      "417.00",
+      "557.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Ferrari Rose, Fratelli Lunelli, Trento,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 40
+          }
+        ],
+        "P": [
+          {
+            "text": "25",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHAMPAGNE",
+    "bbox": [
+      "265.45",
+      "603.10",
+      "347.55",
+      "615.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne Brut, Delamotte, Champagne , NV   35",
+    "bbox": [
+      "182.79",
+      "628.60",
+      "430.21",
+      "640.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne Brut, Delamotte, Champagne",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 39
+          }
+        ],
+        "P": [
+          {
+            "text": "35",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne Brut Rose, Voirin Jumel, Champagne, NV    35",
+    "bbox": [
+      "164.12",
+      "654.10",
+      "448.88",
+      "666.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne Brut Rose, Voirin Jumel, Champagne",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 46
+          }
+        ],
+        "P": [
+          {
+            "text": "35",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE",
+    "bbox": [
+      "285.49",
+      "712.60",
+      "327.50",
+      "724.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pinot Grigio, Pierpaolo Pecorari, Friuli, 2020   18",
+    "bbox": [
+      "183.68",
+      "738.10",
+      "429.33",
+      "750.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Grigio, Pierpaolo Pecorari, Friuli,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 42
+          }
+        ],
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://caravaggioristorante.com/menus/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "168.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/13",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/19/22, 10:46 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Caravaggio",
+    "bbox": [
+      "333.34",
+      "15.70",
+      "374.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Clos Des Lunes “Lune Blanche”, Domaine de Chevalier, Bordeaux, 2018   20",
+    "bbox": [
+      "119.23",
+      "30.10",
+      "493.75",
+      "42.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Clos Des Lunes “Lune Blanche”, Domaine de Chevalier, Bordeaux,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 63
+          }
+        ],
+        "P": [
+          {
+            "text": "20",
+            "answer_start": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chablis, Billaud-Simon, Burgundy, 2018   25",
+    "bbox": [
+      "198.56",
+      "55.60",
+      "414.45",
+      "67.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chablis, Billaud-Simon, Burgundy,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 34
+          }
+        ],
+        "P": [
+          {
+            "text": "25",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Gavi di Gavi, Le Merlina, Piemonte, 2020   20",
+    "bbox": [
+      "194.52",
+      "81.10",
+      "418.48",
+      "93.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Gavi di Gavi, Le Merlina, Piemonte",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "202",
+            "answer_start": 36
+          }
+        ],
+        "P": [
+          {
+            "text": "20",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Carricante, Benanti, Sicily, 2019   18",
+    "bbox": [
+      "217.00",
+      "106.60",
+      "395.98",
+      "118.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Carricante, Benanti, Sicily,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 29
+          }
+        ],
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sauvignon Blanc “Winkl”, Terlan, Alto Adige, 2020   22",
+    "bbox": [
+      "169.89",
+      "132.10",
+      "443.11",
+      "144.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc “Winkl”, Terlan, Alto Adige",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 45
+          }
+        ],
+        "P": [
+          {
+            "text": "22",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Fruliano, Pierpaolo Pecorari, Friuli, 2018   18",
+    "bbox": [
+      "179.34",
+      "157.60",
+      "433.66",
+      "169.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Fruliano, Pierpaolo Pecorari, Friuli,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 38
+          }
+        ],
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Roero Arneis, Bruno GIacosa, Piemonte , 2020   25",
+    "bbox": [
+      "182.41",
+      "183.10",
+      "430.60",
+      "195.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Roero Arneis, Bruno GIacosa, Piemonte ,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 40
+          }
+        ],
+        "P": [
+          {
+            "text": "25",
+            "answer_start": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Muller Thurgau, Garlider, Alto Adige, 2017   18",
+    "bbox": [
+      "190.89",
+      "208.60",
+      "422.11",
+      "220.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Muller Thurgau, Garlider, Alto Adige,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 38
+          }
+        ],
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RED",
+    "bbox": [
+      "293.83",
+      "266.35",
+      "319.17",
+      "278.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Barolo, Ceretto, Piemonte, 2015    35",
+    "bbox": [
+      "216.62",
+      "291.85",
+      "396.37",
+      "303.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Barolo, Ceretto, Piemonte",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 27
+          }
+        ],
+        "P": [
+          {
+            "text": "35",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chianti Classico “Berardenga”, Felsina, Tuscany, 2018   20",
+    "bbox": [
+      "160.88",
+      "317.35",
+      "452.12",
+      "329.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chianti Classico “Berardenga”, Felsina, Tuscany,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 49
+          }
+        ],
+        "P": [
+          {
+            "text": "20",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Saumur, Domaine Guibereau, Loire Valley, 2019   25",
+    "bbox": [
+      "179.46",
+      "342.85",
+      "433.55",
+      "354.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Saumur, Domaine Guibereau, Loire Valley,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 41
+          }
+        ],
+        "P": [
+          {
+            "text": "25",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Brunelli di Montalcino, Lazaretti, Tuscany, 2016   30",
+    "bbox": [
+      "179.22",
+      "368.35",
+      "433.78",
+      "380.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Brunelli di Montalcino, Lazaretti, Tuscany,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 44
+          }
+        ],
+        "P": [
+          {
+            "text": "30",
+            "answer_start": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Secco-Bertani, Bertani, Veneto, 2015   25",
+    "bbox": [
+      "207.02",
+      "393.85",
+      "405.97",
+      "405.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Secco-Bertani, Bertani, Veneto",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 32
+          }
+        ],
+        "P": [
+          {
+            "text": "25",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Montsclapade, Georgio Dorigo, Friuli, 2016   30",
+    "bbox": [
+      "188.40",
+      "419.35",
+      "424.61",
+      "431.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Montsclapade, Georgio Dorigo, Friuli",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 38
+          }
+        ],
+        "P": [
+          {
+            "text": "30",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cabernet Sauvignon “Heritance”, Taub Family Vineyards, Napa Valley, 2016   35",
+    "bbox": [
+      "109.40",
+      "444.85",
+      "503.60",
+      "456.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon “Heritance”, Taub Family Vineyards, Napa Valley,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 68
+          }
+        ],
+        "P": [
+          {
+            "text": "35",
+            "answer_start": 75
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CARAVAGGIO COCKTAILS",
+    "bbox": [
+      "187.47",
+      "504.64",
+      "425.52",
+      "522.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Traditional Negroni•  22",
+    "bbox": [
+      "244.45",
+      "539.35",
+      "368.54",
+      "551.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Beefeater Gin, Campari and Carpano Antica",
+    "bbox": [
+      "198.17",
+      "564.85",
+      "414.82",
+      "576.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "East Side Negroni•  22",
+    "bbox": [
+      "249.51",
+      "590.35",
+      "363.49",
+      "602.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Gunpowder Gin, Campari, Aperol, Lillet Blanc, Lemon and Grapefruit",
+    "bbox": [
+      "136.06",
+      "615.85",
+      "476.94",
+      "627.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Caravaggio House Martini • 24",
+    "bbox": [
+      "226.74",
+      "641.35",
+      "386.26",
+      "653.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Grey Goose vodka, Italian Dry Vermouth and Blue Cheese stuffed Olives",
+    "bbox": [
+      "131.60",
+      "666.85",
+      "481.41",
+      "678.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Espresso Martini • 24",
+    "bbox": [
+      "251.34",
+      "692.35",
+      "361.65",
+      "704.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "House Vodka, Miscela d’Oro Espresso, chocolate liqueur and Kahlua",
+    "bbox": [
+      "139.30",
+      "717.85",
+      "473.70",
+      "729.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Lavender Lady • 24",
+    "bbox": [
+      "255.90",
+      "743.35",
+      "357.11",
+      "755.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://caravaggioristorante.com/menus/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "168.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/13",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/19/22, 10:46 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Caravaggio",
+    "bbox": [
+      "333.34",
+      "15.70",
+      "374.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Empress 1908 Gin, St. Germaine, Splash Citrus, Egg White, Rose Water and Champagne",
+    "bbox": [
+      "92.46",
+      "30.10",
+      "520.55",
+      "42.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Peach Cosmo • 25",
+    "bbox": [
+      "260.90",
+      "55.60",
+      "352.09",
+      "67.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Ketel One Vodka, Cointreau, White Cranberry, Lime",
+    "bbox": [
+      "180.57",
+      "81.10",
+      "432.43",
+      "93.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bellini • 20",
+    "bbox": [
+      "278.73",
+      "106.60",
+      "334.27",
+      "118.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Fresh Peach Puree and Prosecco",
+    "bbox": [
+      "226.53",
+      "132.10",
+      "386.47",
+      "144.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pomegranate Margarita  • 25",
+    "bbox": [
+      "231.76",
+      "157.60",
+      "381.24",
+      "169.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Casamigos Blanco Tequila, Pomegranate, Triple Sec, Lime, Agave and Himalayan Salt",
+    "bbox": [
+      "95.57",
+      "183.10",
+      "517.43",
+      "195.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Blood Orange Mimosa • 20",
+    "bbox": [
+      "237.41",
+      "208.60",
+      "375.60",
+      "220.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Fresh squeezed blood orange juice and prosecco",
+    "bbox": [
+      "189.30",
+      "234.10",
+      "423.69",
+      "246.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "DAILY SPECIALS",
+    "bbox": [
+      "241.34",
+      "288.82",
+      "371.65",
+      "302.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SOUP",
+    "bbox": [
+      "287.79",
+      "350.25",
+      "325.21",
+      "364.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Butternut Squash Soup   28",
+    "bbox": [
+      "235.98",
+      "379.60",
+      "377.03",
+      "391.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chestnut Soup   28",
+    "bbox": [
+      "258.15",
+      "405.10",
+      "354.85",
+      "417.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Wild Mushroom Soup with parmigiano foam   28",
+    "bbox": [
+      "180.70",
+      "430.60",
+      "432.29",
+      "442.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "APPETIZERS",
+    "bbox": [
+      "262.44",
+      "489.75",
+      "350.55",
+      "503.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Blood orange and burrata salad with hazelnuts and capers   28",
+    "bbox": [
+      "146.32",
+      "519.10",
+      "466.69",
+      "531.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Mixed Oysters: Beau Soleil, Lucky Lime, Wellfleet & Kumamoto   40",
+    "bbox": [
+      "129.69",
+      "544.60",
+      "483.31",
+      "556.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Roasted Bone Marrow with Black Truffles   32",
+    "bbox": [
+      "187.39",
+      "570.10",
+      "425.60",
+      "582.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Mussels Marinara   28",
+    "bbox": [
+      "249.17",
+      "595.60",
+      "363.83",
+      "607.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Tuna Tartare   32",
+    "bbox": [
+      "262.04",
+      "621.10",
+      "350.95",
+      "633.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sardines stuffed with herbs, bread crumbs, pine nuts, lemon and orange with eggplant, tomato & arugula",
+    "bbox": [
+      "35.26",
+      "646.60",
+      "577.74",
+      "658.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "32",
+    "bbox": [
+      "299.00",
+      "660.10",
+      "314.00",
+      "672.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Italian Crudo: Bass, Snapper, Tuna, Scallops, Sardines, Hamachi & Uni   65",
+    "bbox": [
+      "112.39",
+      "685.60",
+      "500.60",
+      "697.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Caravaggio Salad with dates, goat cheese, persimmons and walnuts   28",
+    "bbox": [
+      "123.99",
+      "711.10",
+      "489.01",
+      "723.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Vitello Tonnato   45",
+    "bbox": [
+      "256.60",
+      "736.60",
+      "356.39",
+      "748.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://caravaggioristorante.com/menus/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "168.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/13",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/19/22, 10:46 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Caravaggio",
+    "bbox": [
+      "333.34",
+      "15.70",
+      "374.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Foie Gras with roasted figs and red wine reduction   45",
+    "bbox": [
+      "164.08",
+      "30.10",
+      "448.92",
+      "42.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Polenta with venison ragu   38",
+    "bbox": [
+      "229.50",
+      "55.60",
+      "383.50",
+      "67.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Lentils with fried Bacala   28",
+    "bbox": [
+      "232.84",
+      "81.10",
+      "380.16",
+      "93.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PASTA",
+    "bbox": [
+      "284.54",
+      "139.50",
+      "328.46",
+      "153.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Linguini with Lobster   55",
+    "bbox": [
+      "239.76",
+      "169.60",
+      "373.24",
+      "181.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Black Fettuccine with mixed fish, tomato, olives and capers   35",
+    "bbox": [
+      "144.68",
+      "195.10",
+      "468.32",
+      "207.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Calamaratta with sundried tomatoes, American broccoli, pistachio paste, garlic and oil   32",
+    "bbox": [
+      "73.95",
+      "220.60",
+      "539.04",
+      "232.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Linguini with salmon, asparagus and ramps in a cream sauce   35",
+    "bbox": [
+      "137.91",
+      "246.10",
+      "475.07",
+      "258.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Potato Gnocchi with black truffles   55",
+    "bbox": [
+      "208.00",
+      "271.60",
+      "404.99",
+      "283.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Linguini with mixed mushrooms, cherry tomatoes and clams   38",
+    "bbox": [
+      "140.77",
+      "297.10",
+      "472.23",
+      "309.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Paccheri Genovese   38",
+    "bbox": [
+      "247.85",
+      "322.60",
+      "365.15",
+      "334.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Green Fettuccini with duck   38",
+    "bbox": [
+      "225.95",
+      "348.10",
+      "387.05",
+      "360.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "FISH",
+    "bbox": [
+      "288.37",
+      "407.25",
+      "324.63",
+      "421.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Branzino al Sale for two   130",
+    "bbox": [
+      "231.01",
+      "436.60",
+      "382.00",
+      "448.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Mixed Grilled Fish (branzino, bass,shrimps scallops) with balsamic vinaigrette   60",
+    "bbox": [
+      "95.11",
+      "462.10",
+      "517.90",
+      "474.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Swordfish with string beans and lemon   55",
+    "bbox": [
+      "196.14",
+      "487.60",
+      "416.85",
+      "499.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Black Sea Bass with pistachio crust, spinach, chantarelles and corn   55",
+    "bbox": [
+      "124.93",
+      "513.10",
+      "488.08",
+      "525.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Branzino with sausage and Livornese sauce   55",
+    "bbox": [
+      "184.82",
+      "538.60",
+      "428.18",
+      "550.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Nantucket bay scallops with cauliflower puree, cauliflower florets and winter black truffles   55",
+    "bbox": [
+      "63.57",
+      "564.10",
+      "549.42",
+      "576.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MEAT",
+    "bbox": [
+      "285.97",
+      "623.25",
+      "327.02",
+      "637.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Organic free range chicken and sausage with hot cherry peppers   42",
+    "bbox": [
+      "130.95",
+      "652.60",
+      "482.04",
+      "664.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Whitetail venison with butternut squash and red wine reduction   55",
+    "bbox": [
+      "129.95",
+      "678.10",
+      "483.05",
+      "690.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pork Chop with green apple and brussel sprouts   50",
+    "bbox": [
+      "172.37",
+      "703.60",
+      "440.64",
+      "715.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Colorado rack of lamb for two people with pistachio crust, artichokes and fingerling potatoes   120",
+    "bbox": [
+      "54.68",
+      "729.10",
+      "558.32",
+      "741.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://caravaggioristorante.com/menus/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "168.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/13",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/19/22, 10:46 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Caravaggio",
+    "bbox": [
+      "333.34",
+      "15.70",
+      "374.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "SIDE DISHES",
+    "bbox": [
+      "262.62",
+      "61.50",
+      "350.37",
+      "75.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Broccoli Rabe",
+    "bbox": [
+      "270.45",
+      "90.85",
+      "342.55",
+      "102.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Brussel Sprouts with chestnuts, garlic and oil",
+    "bbox": [
+      "191.09",
+      "116.35",
+      "421.91",
+      "128.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "String Beans",
+    "bbox": [
+      "273.66",
+      "141.85",
+      "339.34",
+      "153.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Spinach",
+    "bbox": [
+      "285.82",
+      "167.35",
+      "327.17",
+      "179.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Roasted Potatoes",
+    "bbox": [
+      "262.67",
+      "192.85",
+      "350.32",
+      "204.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "DESSERT",
+    "bbox": [
+      "274.77",
+      "252.00",
+      "338.23",
+      "266.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pecan Pie   22",
+    "bbox": [
+      "271.18",
+      "282.10",
+      "341.83",
+      "294.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pumpkin Cheesecake   22",
+    "bbox": [
+      "241.17",
+      "307.60",
+      "371.84",
+      "319.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Carrot Cake   22",
+    "bbox": [
+      "263.62",
+      "333.10",
+      "349.38",
+      "345.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Caravaggio Rocher   22",
+    "bbox": [
+      "246.29",
+      "358.60",
+      "366.72",
+      "370.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "LUNCH MENU",
+    "bbox": [
+      "237.35",
+      "694.33",
+      "375.64",
+      "714.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Caravaggio is pleased to present our new partnership with Eli’s bread! Enjoy our carefully selected ancient",
+    "bbox": [
+      "47.81",
+      "730.60",
+      "565.19",
+      "742.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "grain homemade breads. Grains are non-GMO, cultivated without pesticides, light on the palate, easily",
+    "bbox": [
+      "58.14",
+      "744.10",
+      "554.86",
+      "756.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://caravaggioristorante.com/menus/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "168.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/13",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/19/22, 10:46 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Caravaggio",
+    "bbox": [
+      "333.34",
+      "15.70",
+      "374.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "digestible and with elegant aromas. Now serving Healthy 7 grain, light mini long roll, classic ciabatta,",
+    "bbox": [
+      "59.46",
+      "30.10",
+      "553.54",
+      "42.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Jerusalem",
+    "bbox": [
+      "280.34",
+      "43.60",
+      "332.66",
+      "55.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "WE DELIVERY WITH DOORDASH",
+    "bbox": [
+      "160.04",
+      "103.39",
+      "452.95",
+      "121.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "FOR DOORDASH CLICK HERE",
+    "bbox": [
+      "171.49",
+      "138.64",
+      "441.51",
+      "156.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ALMOST RAW",
+    "bbox": [
+      "244.24",
+      "204.64",
+      "368.75",
+      "222.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Beef Carpaccio 28",
+    "bbox": [
+      "259.85",
+      "239.35",
+      "353.15",
+      "251.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "pickled onions, capers, wild arugula",
+    "bbox": [
+      "218.35",
+      "264.85",
+      "394.64",
+      "276.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Hamachi & Tuna Sashimi 38",
+    "bbox": [
+      "232.71",
+      "290.35",
+      "380.30",
+      "302.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "guacamole, black radish, jalapeno, grain mustard citrus dressing",
+    "bbox": [
+      "152.55",
+      "315.85",
+      "460.46",
+      "327.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "COLD APPETIZERS",
+    "bbox": [
+      "221.74",
+      "375.64",
+      "391.27",
+      "393.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Green Asparagus Salad 26",
+    "bbox": [
+      "238.44",
+      "410.35",
+      "374.57",
+      "422.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "whipped sheep’s milk ricotta, fennel pollen, nepitella and grain mustard dressing",
+    "bbox": [
+      "111.38",
+      "435.85",
+      "501.62",
+      "447.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Boston Lettuce, baby Arugula, Frisée Radicchio 20",
+    "bbox": [
+      "176.16",
+      "461.35",
+      "436.82",
+      "473.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "toasted hazelnuts, manchego cheese, hazelnut vinaigrette",
+    "bbox": [
+      "169.72",
+      "486.85",
+      "443.27",
+      "498.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Burrata, Melon & Prosciutto 28",
+    "bbox": [
+      "224.79",
+      "512.35",
+      "388.20",
+      "524.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "black mission figs and aged port vinaigrette",
+    "bbox": [
+      "201.52",
+      "537.85",
+      "411.47",
+      "549.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Caesar Salad 28",
+    "bbox": [
+      "265.17",
+      "563.35",
+      "347.84",
+      "575.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "shrimp, heirloom tomatoes, pine nuts and parmigiano reggiano cheese",
+    "bbox": [
+      "138.21",
+      "588.85",
+      "474.79",
+      "600.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Giuseppe Caprese Salad 26",
+    "bbox": [
+      "236.76",
+      "614.35",
+      "376.23",
+      "626.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Organic heirloom tomato, strawberry, mozzarella, avocado, wild arugula and lemon oregano dressing",
+    "bbox": [
+      "61.74",
+      "639.85",
+      "551.25",
+      "651.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Green Bean Salad 26",
+    "bbox": [
+      "252.77",
+      "665.35",
+      "360.22",
+      "677.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Mozzarella, mimosa eggs and hazelnut shallot dressing",
+    "bbox": [
+      "172.53",
+      "690.85",
+      "440.46",
+      "702.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://caravaggioristorante.com/menus/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "168.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/13",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/19/22, 10:46 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Caravaggio",
+    "bbox": [
+      "333.34",
+      "15.70",
+      "374.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "HOT APPETIZERS",
+    "bbox": [
+      "227.73",
+      "30.64",
+      "385.26",
+      "48.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Soup of the day 20",
+    "bbox": [
+      "259.16",
+      "65.35",
+      "353.84",
+      "77.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "chefs daily inspiration",
+    "bbox": [
+      "253.18",
+      "90.85",
+      "359.82",
+      "102.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Zucchini Flowers 26",
+    "bbox": [
+      "254.50",
+      "116.35",
+      "358.50",
+      "128.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "stuffed with sheep’s milk ricotta and finished with tomato coulis",
+    "bbox": [
+      "150.63",
+      "141.85",
+      "462.36",
+      "153.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Traditional Eggplant Parmigiana  30",
+    "bbox": [
+      "212.27",
+      "167.35",
+      "400.73",
+      "179.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Grilled Octopus 28",
+    "bbox": [
+      "257.83",
+      "192.85",
+      "355.17",
+      "204.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "fingerling potato puree, braised radicchio, mozzarella and aged balsamic vinaigrette",
+    "bbox": [
+      "103.59",
+      "218.35",
+      "509.42",
+      "230.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Sauteed Calamari Salad 28",
+    "bbox": [
+      "237.00",
+      "243.85",
+      "376.00",
+      "255.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "vegetables, cipollini onions and mushrooms",
+    "bbox": [
+      "199.51",
+      "269.35",
+      "413.48",
+      "281.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Sauteed Chicken Livers 25",
+    "bbox": [
+      "237.99",
+      "294.85",
+      "375.00",
+      "306.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "frisee salad, bacon, poached egg and mustard vinaigrette",
+    "bbox": [
+      "169.21",
+      "320.35",
+      "443.77",
+      "332.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "PASTA & RISOTTO",
+    "bbox": [
+      "225.48",
+      "380.14",
+      "387.51",
+      "398.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Herb Risotto 36",
+    "bbox": [
+      "265.84",
+      "414.10",
+      "347.16",
+      "426.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Italian mountain herbs and goat cheese",
+    "bbox": [
+      "213.03",
+      "439.60",
+      "399.96",
+      "451.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Fettuccine Primavera 26",
+    "bbox": [
+      "242.02",
+      "465.10",
+      "370.97",
+      "477.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "seasonal vegetables, fresh tomatoes, garlic and oil",
+    "bbox": [
+      "186.54",
+      "490.60",
+      "426.45",
+      "502.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Spaghetti Carbonara 28",
+    "bbox": [
+      "244.82",
+      "516.10",
+      "368.16",
+      "528.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "quail eggs and bacon",
+    "bbox": [
+      "254.52",
+      "541.60",
+      "358.48",
+      "553.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Paccheri 26",
+    "bbox": [
+      "276.68",
+      "567.10",
+      "336.32",
+      "579.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "cherry tomatoes and fresh basil",
+    "bbox": [
+      "230.02",
+      "592.60",
+      "382.97",
+      "604.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Homemade Potato Gnocchi 28",
+    "bbox": [
+      "228.68",
+      "618.10",
+      "384.32",
+      "630.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "tomato coulis, smoked mozzarella, fresh basil and oregano",
+    "bbox": [
+      "165.71",
+      "643.60",
+      "447.29",
+      "655.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Pappardelle 30",
+    "bbox": [
+      "268.00",
+      "669.10",
+      "345.00",
+      "681.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "homemade veal ragu, peas and mushrooms",
+    "bbox": [
+      "201.70",
+      "694.60",
+      "411.31",
+      "706.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Squid Ink Fettuccine 28",
+    "bbox": [
+      "245.32",
+      "720.10",
+      "367.67",
+      "732.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "broccoli rabe, anchovies, bottarga and garlic",
+    "bbox": [
+      "198.65",
+      "745.60",
+      "414.34",
+      "757.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://caravaggioristorante.com/menus/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "168.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/13",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/19/22, 10:46 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Caravaggio",
+    "bbox": [
+      "333.34",
+      "15.70",
+      "374.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Linguine con Vongole 30",
+    "bbox": [
+      "243.54",
+      "30.10",
+      "369.45",
+      "42.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "white clam sauce",
+    "bbox": [
+      "263.68",
+      "55.60",
+      "349.31",
+      "67.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Bucatini all’Amatriciana 28",
+    "bbox": [
+      "235.17",
+      "81.10",
+      "377.83",
+      "93.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Lasagna Bolognese 32",
+    "bbox": [
+      "250.16",
+      "106.60",
+      "362.84",
+      "118.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "FISH",
+    "bbox": [
+      "285.49",
+      "166.39",
+      "327.50",
+      "184.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Grilled Montana Rainbow Trout",
+    "bbox": [
+      "222.87",
+      "201.10",
+      "390.11",
+      "213.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "baby watercress, garlic chips, fresh horseradish and lemon vinaigrette",
+    "bbox": [
+      "137.73",
+      "226.60",
+      "475.27",
+      "238.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Prince Edward Island Mussels 36",
+    "bbox": [
+      "220.82",
+      "252.10",
+      "392.18",
+      "264.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "garlic and fresh tomato sauce",
+    "bbox": [
+      "234.70",
+      "277.60",
+      "378.31",
+      "289.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Slow Cooked Branzino 42",
+    "bbox": [
+      "240.32",
+      "303.10",
+      "372.68",
+      "315.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "rosemary, thyme, garlic, and parsley. Served with broccoli puree and grapefruit sauce",
+    "bbox": [
+      "100.36",
+      "328.60",
+      "512.64",
+      "340.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Swordfish Milanese 45",
+    "bbox": [
+      "248.49",
+      "354.10",
+      "364.50",
+      "366.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "with sauteed spinach",
+    "bbox": [
+      "256.51",
+      "379.60",
+      "356.48",
+      "391.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Wild Black Bass 45",
+    "bbox": [
+      "257.09",
+      "405.10",
+      "355.90",
+      "417.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "braised wild black bass with grilled ramps and light citrus emulsion",
+    "bbox": [
+      "142.70",
+      "430.60",
+      "470.30",
+      "442.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MEAT",
+    "bbox": [
+      "280.17",
+      "489.64",
+      "332.83",
+      "507.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Chicken Milanese 40",
+    "bbox": [
+      "253.17",
+      "524.35",
+      "359.83",
+      "536.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "with arugula and tomato salad",
+    "bbox": [
+      "232.68",
+      "549.85",
+      "380.31",
+      "561.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Giuseppe’s Chicken Meatballs 40",
+    "bbox": [
+      "221.21",
+      "575.35",
+      "391.78",
+      "587.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "san Marzano tomato coulis, peas and beans",
+    "bbox": [
+      "201.20",
+      "600.85",
+      "411.80",
+      "612.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Veal Scaloppini 40",
+    "bbox": [
+      "259.38",
+      "626.35",
+      "353.63",
+      "638.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "wild mushrooms and lemon sauce",
+    "bbox": [
+      "223.34",
+      "651.85",
+      "389.65",
+      "663.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Vitello Tonnato 38",
+    "bbox": [
+      "259.60",
+      "677.35",
+      "353.39",
+      "689.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "thinly sliced cold veal with tuna sauce, shaved cornichon, capers and extra virgin olive oil",
+    "bbox": [
+      "90.68",
+      "702.85",
+      "522.32",
+      "714.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://caravaggioristorante.com/menus/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "168.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/13",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "4/19/22, 10:46 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Caravaggio",
+    "bbox": [
+      "333.34",
+      "15.70",
+      "374.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "DINNER MENU",
+    "bbox": [
+      "234.02",
+      "149.08",
+      "378.98",
+      "169.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Caravaggio is pleased to present our new partnership with Eli’s bread! Enjoy our carefully selected ancient",
+    "bbox": [
+      "47.81",
+      "186.10",
+      "565.19",
+      "198.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "grain homemade breads. Grains are non-GMO, cultivated without pesticides, light on the palate, easily",
+    "bbox": [
+      "58.14",
+      "199.60",
+      "554.86",
+      "211.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "digestible and with elegant aromas. Now serving Healthy 7 grain, light mini long roll, classic ciabatta,",
+    "bbox": [
+      "59.46",
+      "213.10",
+      "553.54",
+      "225.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Jerusalem whole wheat and crispy bread sticks!",
+    "bbox": [
+      "191.41",
+      "226.60",
+      "421.59",
+      "238.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "WE DELIVER WITH DOORDASH !",
+    "bbox": [
+      "160.98",
+      "255.64",
+      "452.02",
+      "273.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "FOR DOORDASH CLICK HERE",
+    "bbox": [
+      "217.99",
+      "289.60",
+      "395.01",
+      "301.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "ALMOST RAW",
+    "bbox": [
+      "244.24",
+      "318.64",
+      "368.75",
+      "336.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Beef Carpaccio   28",
+    "bbox": [
+      "256.85",
+      "353.35",
+      "356.15",
+      "365.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "with pickled onions, capers and wild arugula",
+    "bbox": [
+      "199.03",
+      "378.85",
+      "413.97",
+      "390.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Wild Bluefin Tuna Carpaccio & Imperial Caviar 35",
+    "bbox": [
+      "174.32",
+      "404.35",
+      "438.68",
+      "416.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "turnip salad, poppy seeds, nori and lemon dressing",
+    "bbox": [
+      "185.02",
+      "429.85",
+      "427.98",
+      "441.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Hamachi & Tuna Sashimi 38",
+    "bbox": [
+      "232.71",
+      "455.35",
+      "380.30",
+      "467.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "guacamole, black radish, jalapeno, and grain mustard citrus dressing",
+    "bbox": [
+      "142.38",
+      "480.85",
+      "470.61",
+      "492.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Fresh Oysters 36",
+    "bbox": [
+      "263.28",
+      "506.35",
+      "349.71",
+      "518.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "cocktail sauce and shallot raspberry vinaigrette",
+    "bbox": [
+      "193.71",
+      "531.85",
+      "419.28",
+      "543.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "COLD APPETIZERS",
+    "bbox": [
+      "221.74",
+      "560.89",
+      "391.27",
+      "578.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Giuseppe Caprese Salad 28",
+    "bbox": [
+      "236.76",
+      "595.60",
+      "376.23",
+      "607.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "organic heirloom tomatoes, strawberries, mozzarella, avocado, wild arugula and lemon oregano dressing",
+    "bbox": [
+      "55.53",
+      "621.10",
+      "557.47",
+      "633.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Boston Lettuce, Baby Arugula, Frisée, Radicchio 24",
+    "bbox": [
+      "174.01",
+      "646.60",
+      "439.00",
+      "658.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "toasted hazelnuts, manchego cheese and hazelnut vinaigrette",
+    "bbox": [
+      "161.06",
+      "672.10",
+      "451.94",
+      "684.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Burrata, Melon and Prosciutto 28",
+    "bbox": [
+      "220.11",
+      "697.60",
+      "392.88",
+      "709.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "black mission figs and aged port vinaigrette",
+    "bbox": [
+      "201.52",
+      "723.10",
+      "411.47",
+      "735.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Organic Beet Salad 28",
+    "bbox": [
+      "247.84",
+      "748.60",
+      "365.16",
+      "760.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "https://caravaggioristorante.com/menus/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "168.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "9/13",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "4/19/22, 10:46 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Caravaggio",
+    "bbox": [
+      "333.34",
+      "15.70",
+      "374.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "green apple and Greek yogurt",
+    "bbox": [
+      "235.19",
+      "30.10",
+      "377.80",
+      "42.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Green Bean Salad 26",
+    "bbox": [
+      "252.77",
+      "55.60",
+      "360.22",
+      "67.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "mozzarella, mimosa eggs, hazelnut shallot dressing",
+    "bbox": [
+      "183.37",
+      "81.10",
+      "429.63",
+      "93.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Caravaggio Charcuterie Plate 36",
+    "bbox": [
+      "222.46",
+      "106.60",
+      "390.54",
+      "118.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "assortment of capocollo, schiacciata picante, smoked salame, sopresata, schiacciata Milanese, italian giardiniera",
+    "bbox": [
+      "37.61",
+      "132.10",
+      "575.39",
+      "144.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "and mozzarella",
+    "bbox": [
+      "270.02",
+      "145.60",
+      "342.97",
+      "157.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "WARM APPETIZERS",
+    "bbox": [
+      "218.23",
+      "174.64",
+      "394.75",
+      "192.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Zucchini Flowers 28",
+    "bbox": [
+      "253.00",
+      "209.35",
+      "360.00",
+      "221.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "stuffed with sheep’s milk ricotta, on a bed of tomato coulis",
+    "bbox": [
+      "165.46",
+      "234.85",
+      "447.52",
+      "246.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Warm Seafood Salad 30",
+    "bbox": [
+      "244.99",
+      "260.35",
+      "368.00",
+      "272.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "octopus, calamari, shrimp, scallops with vegetables and sundried tomato vinaigrette",
+    "bbox": [
+      "105.55",
+      "285.85",
+      "507.44",
+      "297.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Grilled Octopus 30",
+    "bbox": [
+      "257.83",
+      "311.35",
+      "355.17",
+      "323.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "fingerling potato puree, braised radicchio, mozzarella and aged balsamic vinaigrette",
+    "bbox": [
+      "105.09",
+      "336.85",
+      "507.92",
+      "348.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Sauteed Calamari Salad 28",
+    "bbox": [
+      "237.00",
+      "362.35",
+      "376.00",
+      "374.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "seasonal vegetables, cipollini onions and mushrooms",
+    "bbox": [
+      "179.19",
+      "387.85",
+      "433.81",
+      "399.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "RISOTTO",
+    "bbox": [
+      "265.65",
+      "416.89",
+      "347.35",
+      "434.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Caravaggio Risotto 36",
+    "bbox": [
+      "249.50",
+      "451.60",
+      "363.49",
+      "463.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "sweet peppers and scallops",
+    "bbox": [
+      "241.68",
+      "477.10",
+      "371.31",
+      "489.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Lemon Risotto 36",
+    "bbox": [
+      "261.17",
+      "502.60",
+      "351.83",
+      "514.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "saffron, fresh mint, shrimps",
+    "bbox": [
+      "240.11",
+      "528.10",
+      "372.87",
+      "540.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Seafood Risotto 36",
+    "bbox": [
+      "258.83",
+      "553.60",
+      "354.16",
+      "565.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "manilla clams, PEI mussels, Mediterranean red shrimp and calamari",
+    "bbox": [
+      "142.88",
+      "579.10",
+      "470.11",
+      "591.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Porcini Risotto 36",
+    "bbox": [
+      "260.61",
+      "604.60",
+      "352.38",
+      "616.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "with chicken liver and bacon",
+    "bbox": [
+      "237.20",
+      "630.10",
+      "375.81",
+      "642.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "PASTA",
+    "bbox": [
+      "278.33",
+      "659.14",
+      "334.67",
+      "677.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Whole Wheat Spaghetti 32",
+    "bbox": [
+      "237.99",
+      "693.10",
+      "375.00",
+      "705.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "summer black truffles and crab meat",
+    "bbox": [
+      "218.81",
+      "718.60",
+      "394.19",
+      "730.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Homemade Potato Gnocchi 30",
+    "bbox": [
+      "228.68",
+      "744.10",
+      "384.32",
+      "756.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "https://caravaggioristorante.com/menus/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "168.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "10/13",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "4/19/22, 10:46 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Caravaggio",
+    "bbox": [
+      "333.34",
+      "15.70",
+      "374.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "tomato sauce, smoked mozzarella, fresh basil, onion and oregano",
+    "bbox": [
+      "150.05",
+      "30.10",
+      "462.95",
+      "42.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Paccheri 30",
+    "bbox": [
+      "276.68",
+      "55.60",
+      "336.32",
+      "67.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "melted peccorino romano cheese, crushed black peppercorns, lemon zest and horseradish",
+    "bbox": [
+      "92.59",
+      "81.10",
+      "520.42",
+      "93.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Spaghetti Trapanese 30",
+    "bbox": [
+      "246.61",
+      "106.60",
+      "366.39",
+      "118.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "five types of crush nut pesto in a tomato sauce",
+    "bbox": [
+      "195.36",
+      "132.10",
+      "417.63",
+      "144.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Bucatini all’Amatriciana 30",
+    "bbox": [
+      "235.17",
+      "157.60",
+      "377.83",
+      "169.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "guanciale, onions and cherry tomatoes",
+    "bbox": [
+      "214.37",
+      "183.10",
+      "398.64",
+      "195.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Fettuccine 30",
+    "bbox": [
+      "272.34",
+      "208.60",
+      "340.65",
+      "220.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "veal ragu, wild mushrooms and black truffles",
+    "bbox": [
+      "197.80",
+      "234.10",
+      "415.19",
+      "246.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Vegetable & Veal Tortellini 30",
+    "bbox": [
+      "229.84",
+      "259.60",
+      "383.16",
+      "271.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "with shaved parmigiano reggiano and veal jus",
+    "bbox": [
+      "196.19",
+      "285.10",
+      "416.80",
+      "297.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Linguine 30",
+    "bbox": [
+      "275.98",
+      "310.60",
+      "337.00",
+      "322.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "with clams in a white wine sauce",
+    "bbox": [
+      "224.94",
+      "336.10",
+      "388.05",
+      "348.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Homemade Cappellini 32",
+    "bbox": [
+      "240.00",
+      "361.60",
+      "373.00",
+      "373.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "seasonal vegetables, crab meat and shrimps",
+    "bbox": [
+      "202.20",
+      "387.10",
+      "410.80",
+      "399.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "FISH",
+    "bbox": [
+      "285.49",
+      "416.14",
+      "327.50",
+      "434.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Wild King Salmon 46",
+    "bbox": [
+      "251.42",
+      "450.85",
+      "361.57",
+      "462.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "roasted beets, horseradish and sherry vinaigrette",
+    "bbox": [
+      "190.87",
+      "476.35",
+      "422.12",
+      "488.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Wild Black Bass & Imperial Caviar 50",
+    "bbox": [
+      "207.61",
+      "501.85",
+      "405.39",
+      "513.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "braised black bass, grilled ramps and champagne emulsion",
+    "bbox": [
+      "165.54",
+      "527.35",
+      "447.45",
+      "539.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Seared Scallops 48",
+    "bbox": [
+      "258.93",
+      "552.85",
+      "354.05",
+      "564.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "english pea puree, spring onion, green curry and cilantro",
+    "bbox": [
+      "170.88",
+      "578.35",
+      "442.12",
+      "590.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Salt Crusted Branzino 52",
+    "bbox": [
+      "241.66",
+      "603.85",
+      "371.33",
+      "615.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "with seasonal mixed vegetables",
+    "bbox": [
+      "230.69",
+      "629.35",
+      "382.31",
+      "641.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "MEAT",
+    "bbox": [
+      "280.17",
+      "658.39",
+      "332.83",
+      "676.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Giuseppe’s Chicken Meatballs 42",
+    "bbox": [
+      "221.21",
+      "693.10",
+      "391.78",
+      "705.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "fresh tomato coulis, peas and beans",
+    "bbox": [
+      "221.53",
+      "718.60",
+      "391.48",
+      "730.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Veal Scallopini 42",
+    "bbox": [
+      "261.04",
+      "744.10",
+      "351.95",
+      "756.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "https://caravaggioristorante.com/menus/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "168.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "11/13",
+    "bbox": [
+      "566.09",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "4/19/22, 10:46 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Caravaggio",
+    "bbox": [
+      "333.34",
+      "15.70",
+      "374.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "wild mushrooms and lemon sauce",
+    "bbox": [
+      "224.84",
+      "30.10",
+      "388.15",
+      "42.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "120z. Roasted T bone Veal Chop 48",
+    "bbox": [
+      "216.21",
+      "55.60",
+      "396.78",
+      "67.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "seasonal vegetable gratin and veal jus",
+    "bbox": [
+      "216.03",
+      "81.10",
+      "396.96",
+      "93.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Veal Milanese 50",
+    "bbox": [
+      "263.39",
+      "106.60",
+      "349.60",
+      "118.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "black summer truffles, prosciutto di Parma and melted fontina cheese",
+    "bbox": [
+      "139.99",
+      "132.10",
+      "473.00",
+      "144.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Dry Aged Prime New York Strip Steak 56",
+    "bbox": [
+      "199.68",
+      "157.60",
+      "413.32",
+      "169.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "heirloom tomato salad, broccoli rabe, shishito peppers",
+    "bbox": [
+      "176.53",
+      "183.10",
+      "436.46",
+      "195.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Rohan Duck Breast 50",
+    "bbox": [
+      "247.27",
+      "208.60",
+      "365.73",
+      "220.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "spiced duck breast, jumbo white asparagus, fresh peas and morel mushrooms",
+    "bbox": [
+      "121.54",
+      "234.10",
+      "491.45",
+      "246.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Veal Osso Buco 65",
+    "bbox": [
+      "259.54",
+      "259.60",
+      "353.45",
+      "271.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "with saffron risotto",
+    "bbox": [
+      "260.61",
+      "285.10",
+      "352.38",
+      "297.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Prime Aged Boneless Short Ribs 50",
+    "bbox": [
+      "216.00",
+      "310.60",
+      "396.99",
+      "322.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "red wine reduction and butternut squash puree",
+    "bbox": [
+      "193.29",
+      "336.10",
+      "419.70",
+      "348.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "DESSERT MENU",
+    "bbox": [
+      "229.55",
+      "362.08",
+      "383.45",
+      "382.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Tiramisu   18",
+    "bbox": [
+      "272.43",
+      "427.60",
+      "340.55",
+      "439.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Kahlua foam, mascarpone cream",
+    "bbox": [
+      "226.04",
+      "453.10",
+      "386.96",
+      "465.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Profiteroles    18",
+    "bbox": [
+      "264.73",
+      "478.60",
+      "348.27",
+      "490.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "dark chocolate & vanilla gelato, chocolate & caramel sauce",
+    "bbox": [
+      "162.23",
+      "504.10",
+      "450.76",
+      "516.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Baba Rum   18",
+    "bbox": [
+      "268.50",
+      "529.60",
+      "344.51",
+      "541.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "lime frappe, pineapple, vanilla gelato",
+    "bbox": [
+      "217.20",
+      "555.10",
+      "395.80",
+      "567.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Chocolate Soufflé   22",
+    "bbox": [
+      "250.84",
+      "580.60",
+      "362.16",
+      "592.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "vanilla anglaise and pistachio gelato",
+    "bbox": [
+      "219.52",
+      "606.10",
+      "393.46",
+      "618.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Apple Pie   18",
+    "bbox": [
+      "271.17",
+      "631.60",
+      "341.83",
+      "643.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "New York State apples, flavored with cinnamon and nutmeg",
+    "bbox": [
+      "161.63",
+      "657.10",
+      "451.36",
+      "669.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Opera Cake   22",
+    "bbox": [
+      "264.84",
+      "682.60",
+      "348.17",
+      "694.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Gluten free with an almond biscuit, cappuccino cream ganache finished with fresh fruit",
+    "bbox": [
+      "97.07",
+      "708.10",
+      "515.93",
+      "720.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Seasonal Fruit Plate   18",
+    "bbox": [
+      "244.33",
+      "733.60",
+      "368.66",
+      "745.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "https://caravaggioristorante.com/menus/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "168.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "12/13",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "4/19/22, 10:46 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Caravaggio",
+    "bbox": [
+      "333.34",
+      "15.70",
+      "374.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "seasonal fruit or mixed berries",
+    "bbox": [
+      "232.03",
+      "30.10",
+      "380.98",
+      "42.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "GELATO",
+    "bbox": [
+      "268.82",
+      "89.89",
+      "344.18",
+      "107.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Vanilla Bean   15",
+    "bbox": [
+      "263.37",
+      "124.60",
+      "349.62",
+      "136.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "(Bourbon from Madagascar)",
+    "bbox": [
+      "237.85",
+      "150.10",
+      "375.14",
+      "162.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Dark Chocolate   15",
+    "bbox": [
+      "255.50",
+      "175.60",
+      "357.49",
+      "187.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "(Valhrona)",
+    "bbox": [
+      "280.85",
+      "201.10",
+      "332.16",
+      "213.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Cappuccino   15",
+    "bbox": [
+      "265.32",
+      "226.60",
+      "347.67",
+      "238.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "(Miscela d’Oro beans from Sicily)",
+    "bbox": [
+      "223.86",
+      "252.10",
+      "389.15",
+      "264.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Strawberry   15",
+    "bbox": [
+      "266.34",
+      "277.60",
+      "346.65",
+      "289.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "SORBET",
+    "bbox": [
+      "269.98",
+      "336.64",
+      "343.01",
+      "354.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "made with fresh organic fruits",
+    "bbox": [
+      "234.30",
+      "371.35",
+      "378.71",
+      "383.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Lemon   15",
+    "bbox": [
+      "278.00",
+      "396.85",
+      "335.00",
+      "408.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Peach   15",
+    "bbox": [
+      "280.67",
+      "422.35",
+      "332.33",
+      "434.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Raspberry   15",
+    "bbox": [
+      "268.67",
+      "447.85",
+      "344.33",
+      "459.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Mango   15",
+    "bbox": [
+      "278.00",
+      "473.35",
+      "335.00",
+      "485.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Pineapple   15",
+    "bbox": [
+      "270.66",
+      "498.85",
+      "342.34",
+      "510.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "https://caravaggioristorante.com/menus/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "168.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "13/13",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

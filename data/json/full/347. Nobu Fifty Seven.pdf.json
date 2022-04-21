@@ -1,0 +1,6089 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/20/22, 9:21 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menus » Nobu Restaurants",
+    "bbox": [
+      "418.39",
+      "15.70",
+      "515.78",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RESERVE",
+    "bbox": [
+      "146.91",
+      "506.30",
+      "191.02",
+      "515.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CALL",
+    "bbox": [
+      "408.66",
+      "506.30",
+      "433.58",
+      "515.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TAKE OUT",
+    "bbox": [
+      "648.81",
+      "506.30",
+      "697.75",
+      "515.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MOTHER’S DAY BRUNCH",
+    "bbox": [
+      "210.55",
+      "609.12",
+      "367.38",
+      "621.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LUNCH",
+    "bbox": [
+      "530.26",
+      "609.12",
+      "575.99",
+      "621.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WEEKEND LUNCH",
+    "bbox": [
+      "230.97",
+      "699.18",
+      "346.94",
+      "711.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DINNER",
+    "bbox": [
+      "528.15",
+      "699.18",
+      "578.11",
+      "711.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BEVERAGES",
+    "bbox": [
+      "250.53",
+      "789.23",
+      "327.40",
+      "801.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINES BY THE BOTTLE",
+    "bbox": [
+      "478.17",
+      "789.23",
+      "628.08",
+      "801.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPARKLING WINE",
+    "bbox": [
+      "329.26",
+      "925.82",
+      "507.74",
+      "940.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BIN#100: Empire Estate, Blanc de Blancs Brut NV, Finger",
+    "bbox": [
+      "192.67",
+      "976.10",
+      "505.44",
+      "988.11"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#100: Empire Estate, Blanc de Blancs Brut NV, Finger",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "85",
+    "bbox": [
+      "593.28",
+      "976.10",
+      "606.94",
+      "988.11"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Lakes, NY",
+    "bbox": [
+      "192.67",
+      "990.36",
+      "247.96",
+      "1002.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Lakes, NY",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NY",
+            "answer_start": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BIN#105: Syltbar 'Il Concerto' Prosecco NV",
+    "bbox": [
+      "192.67",
+      "1019.63",
+      "427.86",
+      "1031.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "95",
+    "bbox": [
+      "593.31",
+      "1019.63",
+      "606.89",
+      "1031.64"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHAMPAGNE",
+    "bbox": [
+      "357.53",
+      "1096.18",
+      "481.71",
+      "1111.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BIN#110: Nobu Champagne 'Louis de Sacy', Grand Cru Brut",
+    "bbox": [
+      "192.67",
+      "1146.46",
+      "518.52",
+      "1158.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#110: Nobu Champagne 'Louis de Sacy', Grand Cru Brut",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "115",
+    "bbox": [
+      "591.69",
+      "1146.46",
+      "608.52",
+      "1158.47"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "115",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.noburestaurants.com/fifty-seven/menus/#wines-by-the-bottle-",
+    "bbox": [
+      "26.45",
+      "1168.70",
+      "286.57",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/7",
+    "bbox": [
+      "805.41",
+      "1168.70",
+      "816.51",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/20/22, 9:21 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menus » Nobu Restaurants",
+    "bbox": [
+      "418.39",
+      "15.70",
+      "515.78",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "NV",
+    "bbox": [
+      "192.67",
+      "28.25",
+      "210.10",
+      "40.26"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#115: Gaston Chiquet 'Tradition', Brut NV",
+    "bbox": [
+      "192.67",
+      "56.77",
+      "432.72",
+      "68.78"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#115: Gaston Chiquet 'Tradition', Brut",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "140",
+    "bbox": [
+      "590.58",
+      "56.77",
+      "609.62",
+      "68.78"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "140",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#116: Veuve Clicquot, Brut NV",
+    "bbox": [
+      "192.67",
+      "85.29",
+      "377.64",
+      "97.29"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#116: Veuve Clicquot, Bru",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "180",
+    "bbox": [
+      "590.30",
+      "85.29",
+      "609.91",
+      "97.29"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "180",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#120: Billecart-Salmon, Reserve Brut NV",
+    "bbox": [
+      "192.67",
+      "114.55",
+      "435.70",
+      "126.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#120: Billecart-Salmon, Reserve Brut",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "200",
+    "bbox": [
+      "589.63",
+      "114.55",
+      "610.58",
+      "126.56"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "200",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#121: Ruinart, Blanc de Blancs Brut NV",
+    "bbox": [
+      "192.67",
+      "143.07",
+      "424.14",
+      "155.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#121: Ruinart, Blanc de Blancs Brut",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "200",
+    "bbox": [
+      "589.63",
+      "143.07",
+      "610.58",
+      "155.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "200",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#123: Francoise Bedel 'Dis Vin Secret', Extra Brut NV",
+    "bbox": [
+      "192.67",
+      "171.59",
+      "497.91",
+      "183.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#123: Francoise Bedel 'Dis Vin Secret', Extra Brut",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "250",
+    "bbox": [
+      "590.03",
+      "171.59",
+      "610.18",
+      "183.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "250",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#125: Moet & Chandon 'Grand Vintage' Brut 12",
+    "bbox": [
+      "192.67",
+      "200.11",
+      "465.60",
+      "212.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#125: Moet & Chandon 'Grand Vintage' Brut",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "12",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "280",
+    "bbox": [
+      "589.75",
+      "200.11",
+      "610.47",
+      "212.12"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "280",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#130: Dom Perignon, Brut 12",
+    "bbox": [
+      "192.67",
+      "228.63",
+      "368.52",
+      "240.63"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#130: Dom Perignon, Brut",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "12",
+            "answer_start": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "450",
+    "bbox": [
+      "589.89",
+      "228.63",
+      "610.34",
+      "240.63"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "450",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#131: Veuve Clicquot 'La Grande Dame', Brut 08",
+    "bbox": [
+      "192.67",
+      "257.90",
+      "474.05",
+      "269.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#131: Veuve Clicquot 'La Grande Dame', Brut",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "08",
+            "answer_start": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "475",
+    "bbox": [
+      "590.46",
+      "257.90",
+      "609.74",
+      "269.90"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "475",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#133: Krug 'Grand Cuvee', Brut NV",
+    "bbox": [
+      "192.67",
+      "286.41",
+      "399.49",
+      "298.42"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#133: Krug 'Grand Cuvee', Brut",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "490",
+    "bbox": [
+      "589.64",
+      "286.41",
+      "610.58",
+      "298.42"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "490",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#170: Louis Roederer 'Cristal,' Brut 07",
+    "bbox": [
+      "192.67",
+      "314.93",
+      "416.70",
+      "326.94"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#170: Louis Roederer 'Cristal,' Brut",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "07",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "800",
+    "bbox": [
+      "589.20",
+      "314.93",
+      "611.01",
+      "326.94"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "800",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RESERVE CHAMPAGNE",
+    "bbox": [
+      "307.72",
+      "391.48",
+      "531.54",
+      "406.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#1001: Autreau de Champillon, Blanc de Blanc, Brut,",
+    "bbox": [
+      "192.67",
+      "441.76",
+      "500.46",
+      "453.77"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#1001: Autreau de Champillon, Blanc de Blanc, Brut,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "150",
+    "bbox": [
+      "590.59",
+      "441.76",
+      "609.62",
+      "453.77"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "150",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Grand Cru NV",
+    "bbox": [
+      "192.67",
+      "456.02",
+      "269.61",
+      "468.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grand Cru NV",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#1003: Joseph Perrier, Brut, Cuvee Royale NV",
+    "bbox": [
+      "192.67",
+      "484.54",
+      "463.19",
+      "496.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#1003: Joseph Perrier, Brut, Cuvee Royale",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "200",
+    "bbox": [
+      "589.63",
+      "484.54",
+      "610.58",
+      "496.55"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "200",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#1005: Pierre Gimonnet & Fils, Bland de Blanc, ‘Cuvee",
+    "bbox": [
+      "192.67",
+      "513.81",
+      "509.41",
+      "525.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#1005: Pierre Gimonnet & Fils, Bland de Blanc, ‘Cuvee",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "250",
+    "bbox": [
+      "590.03",
+      "513.81",
+      "610.18",
+      "525.82"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "250",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Gastronome,’ Brut, 1er Cru 16",
+    "bbox": [
+      "192.67",
+      "528.07",
+      "351.57",
+      "540.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Gastronome,’ Brut, 1er Cru 16",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "16",
+            "answer_start": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#1007: Pehu-Simonet, Blanc de Noirs, ‘Fins Lieux No.1",
+    "bbox": [
+      "192.67",
+      "556.59",
+      "509.09",
+      "568.59"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#1007: Pehu-Simonet, Blanc de Noirs, ‘Fins Lieux No.1",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "300",
+    "bbox": [
+      "589.55",
+      "556.59",
+      "610.66",
+      "568.59"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "300",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Verzenay Millesime,’ Grand Cru 14",
+    "bbox": [
+      "192.67",
+      "570.85",
+      "378.39",
+      "582.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Verzenay Millesime,’ Grand Cru 14",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "14",
+            "answer_start": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROSE CHAMPAGNE",
+    "bbox": [
+      "326.62",
+      "647.39",
+      "512.61",
+      "662.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#140: Ferrari Rose 'Metodo Classico' NV, Brut, Trento, IT",
+    "bbox": [
+      "192.67",
+      "697.68",
+      "517.01",
+      "709.68"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#140: Ferrari Rose 'Metodo Classico'",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV,",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "115",
+    "bbox": [
+      "591.69",
+      "697.68",
+      "608.52",
+      "709.68"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "115",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#141: Moet Chandon 'Imperial', Rose NV",
+    "bbox": [
+      "192.67",
+      "726.94",
+      "430.77",
+      "738.95"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#141: Moet Chandon 'Imperial', Rose",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "180",
+    "bbox": [
+      "590.30",
+      "726.94",
+      "609.91",
+      "738.95"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "180",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#145: Billecart-Salmon Brut Rose NV",
+    "bbox": [
+      "192.67",
+      "755.46",
+      "415.14",
+      "767.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#145: Billecart-Salmon Brut Rose",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "210",
+    "bbox": [
+      "590.73",
+      "755.46",
+      "609.48",
+      "767.47"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "210",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#150: Lanson, Brut Rose NV",
+    "bbox": [
+      "192.67",
+      "783.98",
+      "366.24",
+      "795.99"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#150: Lanson, Brut Rose",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "200",
+    "bbox": [
+      "589.63",
+      "783.98",
+      "610.58",
+      "795.99"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "200",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#160: Dom Perignon Brut Rose 06",
+    "bbox": [
+      "192.67",
+      "812.50",
+      "400.54",
+      "824.51"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#160: Dom Perignon Brut Rose",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "06",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1,250",
+    "bbox": [
+      "586.11",
+      "812.50",
+      "614.10",
+      "824.51"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "1,250",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROSE WINE",
+    "bbox": [
+      "360.56",
+      "889.05",
+      "476.45",
+      "904.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#701: Wöl\u0000er Estate, 'Summer In A Bottle,' Provence,",
+    "bbox": [
+      "192.67",
+      "939.33",
+      "501.63",
+      "951.34"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#701: Wöl\u0000er Estate, 'Summer In A Bottle,' Provence,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "80",
+    "bbox": [
+      "592.88",
+      "939.33",
+      "607.35",
+      "951.34"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "80",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "France 21",
+    "bbox": [
+      "192.67",
+      "954.34",
+      "245.06",
+      "966.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "France 21",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "21",
+            "answer_start": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIN#710: Chateau Minuty 'Rose et Or', Cotes de Provence",
+    "bbox": [
+      "192.67",
+      "982.86",
+      "507.88",
+      "994.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BIN#710: Chateau Minuty 'Rose et Or', Cotes de Provence",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "135",
+    "bbox": [
+      "591.06",
+      "982.86",
+      "609.16",
+      "994.87"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "135",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "20",
+    "bbox": [
+      "192.67",
+      "997.12",
+      "206.28",
+      "1009.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "20",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "20",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WHITE WINE",
+    "bbox": [
+      "353.61",
+      "1073.67",
+      "483.39",
+      "1088.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LIGHT, CRISP & REFRESHING",
+    "bbox": [
+      "339.42",
+      "1110.44",
+      "503.58",
+      "1122.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.noburestaurants.com/fifty-seven/menus/#wines-by-the-bottle-",
+    "bbox": [
+      "26.45",
+      "1168.70",
+      "286.57",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/7",
+    "bbox": [
+      "805.41",
+      "1168.70",
+      "816.51",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/20/22, 9:21 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Menus » Nobu Restaurants",
+    "bbox": [
+      "418.39",
+      "15.70",
+      "515.78",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#200: Attems, Pinot Grigio, Friuli, Italy 20",
+    "bbox": [
+      "192.67",
+      "28.25",
+      "434.12",
+      "40.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "67",
+    "bbox": [
+      "593.28",
+      "28.25",
+      "606.94",
+      "40.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#205: Huia Vineyards, Sauvignon Blanc, Marlborough,",
+    "bbox": [
+      "192.67",
+      "56.77",
+      "508.62",
+      "68.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "74",
+    "bbox": [
+      "593.92",
+      "56.77",
+      "606.29",
+      "68.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "New Zealand 20",
+    "bbox": [
+      "192.67",
+      "71.03",
+      "283.45",
+      "83.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#206: Antinori 'Guado al Tasso,' Vermentino, Bolgheri,",
+    "bbox": [
+      "192.67",
+      "100.30",
+      "505.65",
+      "112.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "80",
+    "bbox": [
+      "592.88",
+      "100.30",
+      "607.35",
+      "112.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Italy 20",
+    "bbox": [
+      "192.67",
+      "114.55",
+      "232.40",
+      "126.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#207: Domaine Ra\u0000aitin Planchon, Sancere, Loire,",
+    "bbox": [
+      "192.67",
+      "143.07",
+      "485.88",
+      "155.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "85",
+    "bbox": [
+      "593.28",
+      "143.07",
+      "606.94",
+      "155.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "France 20",
+    "bbox": [
+      "192.67",
+      "157.33",
+      "247.27",
+      "169.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#220: Pascal Jolivet, Blanc Fume, Loire, France 20",
+    "bbox": [
+      "192.67",
+      "185.85",
+      "487.31",
+      "197.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "100",
+    "bbox": [
+      "590.19",
+      "185.85",
+      "610.03",
+      "197.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#222: Domaine Ferret, Pouilly-Fuisse, Burgundy, France",
+    "bbox": [
+      "192.67",
+      "215.12",
+      "517.29",
+      "227.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "135",
+    "bbox": [
+      "591.06",
+      "215.12",
+      "609.16",
+      "227.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "18",
+    "bbox": [
+      "192.67",
+      "229.38",
+      "204.93",
+      "241.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#223: Illumination, Sauvignon Blanc, Napa Valley,",
+    "bbox": [
+      "192.67",
+      "257.90",
+      "482.99",
+      "269.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "155",
+    "bbox": [
+      "590.99",
+      "257.90",
+      "609.22",
+      "269.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "California 19",
+    "bbox": [
+      "192.67",
+      "272.16",
+      "259.87",
+      "284.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#230: Cloudy Bay 'Tekoko', Sauvignon Blanc,",
+    "bbox": [
+      "192.67",
+      "300.67",
+      "457.44",
+      "312.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "215",
+    "bbox": [
+      "591.14",
+      "300.67",
+      "609.08",
+      "312.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Marlborough, New Zealand 19",
+    "bbox": [
+      "192.67",
+      "314.93",
+      "359.55",
+      "326.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#233: Alphonse Mellot, Sancerre, France 18",
+    "bbox": [
+      "192.67",
+      "344.20",
+      "450.89",
+      "356.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "240",
+    "bbox": [
+      "590.03",
+      "344.20",
+      "610.19",
+      "356.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#240: Gaja 'Alteni di Brassica', Sauvignon Blanc,",
+    "bbox": [
+      "192.67",
+      "372.72",
+      "472.39",
+      "384.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "490",
+    "bbox": [
+      "589.64",
+      "372.72",
+      "610.58",
+      "384.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Langhe, Italy 16",
+    "bbox": [
+      "192.67",
+      "386.98",
+      "278.95",
+      "398.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WHITE WINE",
+    "bbox": [
+      "353.61",
+      "463.53",
+      "483.39",
+      "478.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SPICY & AROMATIC",
+    "bbox": [
+      "366.32",
+      "500.30",
+      "476.69",
+      "512.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#257: Sybille Kuntz, Riesling Trocken, Mosel, Germany",
+    "bbox": [
+      "192.67",
+      "546.83",
+      "509.87",
+      "558.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "70",
+    "bbox": [
+      "593.24",
+      "546.83",
+      "606.97",
+      "558.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "20",
+    "bbox": [
+      "192.67",
+      "561.09",
+      "206.28",
+      "573.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#258: Aveleda ‘Solo de Xisto,’ Alvarinho, Minho,",
+    "bbox": [
+      "192.67",
+      "590.36",
+      "470.47",
+      "602.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "78",
+    "bbox": [
+      "593.34",
+      "590.36",
+      "606.88",
+      "602.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Portugal 18",
+    "bbox": [
+      "192.67",
+      "604.62",
+      "255.09",
+      "616.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#260: B Vintners 'Haarlem to Hope', Cape of Good",
+    "bbox": [
+      "192.67",
+      "633.13",
+      "488.10",
+      "645.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "90",
+    "bbox": [
+      "592.91",
+      "633.13",
+      "607.30",
+      "645.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Hope , South Africa 16",
+    "bbox": [
+      "192.67",
+      "647.39",
+      "314.82",
+      "659.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#270: Joh.Jos. Prüm, 'Graacher Himmelreich' Spätlese,",
+    "bbox": [
+      "192.67",
+      "675.91",
+      "511.67",
+      "687.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "157",
+    "bbox": [
+      "591.07",
+      "675.91",
+      "609.14",
+      "687.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Riesling, Mosel, Germany 20",
+    "bbox": [
+      "192.67",
+      "690.92",
+      "348.93",
+      "702.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#280: A. Christmann, Reiterpfad Hofstuck GG Dry,",
+    "bbox": [
+      "192.67",
+      "719.44",
+      "484.71",
+      "731.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "165",
+    "bbox": [
+      "590.65",
+      "719.44",
+      "609.57",
+      "731.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Riesling, Pfalz, Germany 19",
+    "bbox": [
+      "192.67",
+      "733.70",
+      "340.93",
+      "745.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#290: Dom Alain Chavy 'Les Charmes,' Puligny-",
+    "bbox": [
+      "192.67",
+      "762.22",
+      "473.26",
+      "774.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "230",
+    "bbox": [
+      "590.10",
+      "762.22",
+      "610.12",
+      "774.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Montrachet, Burgundy, France 18",
+    "bbox": [
+      "192.67",
+      "776.48",
+      "375.12",
+      "788.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WHITE WINE",
+    "bbox": [
+      "353.61",
+      "853.02",
+      "483.39",
+      "868.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RICH & FULL BODIED",
+    "bbox": [
+      "361.10",
+      "889.80",
+      "481.91",
+      "901.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#300: Matsuhisa, Chardonnay, Sonoma County,",
+    "bbox": [
+      "192.67",
+      "936.33",
+      "472.31",
+      "948.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "83",
+    "bbox": [
+      "593.34",
+      "936.33",
+      "606.87",
+      "948.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "California 20",
+    "bbox": [
+      "192.67",
+      "951.34",
+      "261.30",
+      "963.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#301: Jean-Paul Droin, Chablis, France 20",
+    "bbox": [
+      "192.67",
+      "979.86",
+      "440.41",
+      "991.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "95",
+    "bbox": [
+      "593.31",
+      "979.86",
+      "606.89",
+      "991.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#302: Newton 'Un\u0000ltered,' Chardonnay, Napa, California",
+    "bbox": [
+      "192.67",
+      "1008.37",
+      "517.06",
+      "1020.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "130",
+    "bbox": [
+      "590.66",
+      "1008.37",
+      "609.56",
+      "1020.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "17",
+    "bbox": [
+      "192.67",
+      "1022.63",
+      "204.17",
+      "1034.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#303: ZD, Chardonnay, Carneros, California 19",
+    "bbox": [
+      "192.67",
+      "1051.15",
+      "463.44",
+      "1063.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "135",
+    "bbox": [
+      "591.06",
+      "1051.15",
+      "609.16",
+      "1063.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#304: Chateau Montelena, Chardonnay, Napa,",
+    "bbox": [
+      "192.67",
+      "1080.42",
+      "465.83",
+      "1092.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "160",
+    "bbox": [
+      "590.24",
+      "1080.42",
+      "609.97",
+      "1092.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "California 18",
+    "bbox": [
+      "192.67",
+      "1094.68",
+      "259.95",
+      "1106.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BIN#305: La Scolca 'Black Label', Gavi dei Gavi, Piedmont,",
+    "bbox": [
+      "192.67",
+      "1123.20",
+      "511.43",
+      "1135.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "170",
+    "bbox": [
+      "590.71",
+      "1123.20",
+      "609.51",
+      "1135.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Italy 19",
+    "bbox": [
+      "192.67",
+      "1137.46",
+      "230.97",
+      "1149.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.noburestaurants.com/fifty-seven/menus/#wines-by-the-bottle-",
+    "bbox": [
+      "26.45",
+      "1168.70",
+      "286.57",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/7",
+    "bbox": [
+      "805.41",
+      "1168.70",
+      "816.51",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/20/22, 9:21 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Menus » Nobu Restaurants",
+    "bbox": [
+      "418.39",
+      "15.70",
+      "515.78",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#306: Kistler 'Les Noisetiers,' Chardonnay, Sonoma",
+    "bbox": [
+      "192.67",
+      "28.25",
+      "491.03",
+      "40.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "175",
+    "bbox": [
+      "591.18",
+      "28.25",
+      "609.04",
+      "40.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Coast, California 19",
+    "bbox": [
+      "192.67",
+      "42.51",
+      "297.38",
+      "54.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#307: Domaine Moreau-Naudet 'Forêts' 1er Cru,",
+    "bbox": [
+      "192.67",
+      "71.03",
+      "475.53",
+      "83.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "180",
+    "bbox": [
+      "590.30",
+      "71.03",
+      "609.91",
+      "83.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chablis, France 18",
+    "bbox": [
+      "192.67",
+      "86.04",
+      "292.56",
+      "98.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#308: Louis Jadot, Meursault, Burgundy, France 19",
+    "bbox": [
+      "192.67",
+      "114.55",
+      "490.51",
+      "126.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "195",
+    "bbox": [
+      "590.74",
+      "114.55",
+      "609.46",
+      "126.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#310: Joseph Drouhin, Puligny-Montrachet, Burgundy,",
+    "bbox": [
+      "192.67",
+      "143.07",
+      "510.05",
+      "155.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "200",
+    "bbox": [
+      "589.63",
+      "143.07",
+      "610.58",
+      "155.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "France 19",
+    "bbox": [
+      "192.67",
+      "157.33",
+      "245.84",
+      "169.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#313: Paul Hobbs, Chardonnay, Russian River Valley,",
+    "bbox": [
+      "192.67",
+      "185.85",
+      "498.60",
+      "197.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "220",
+    "bbox": [
+      "590.18",
+      "185.85",
+      "610.04",
+      "197.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "California 18",
+    "bbox": [
+      "192.67",
+      "200.86",
+      "259.95",
+      "212.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#320: Peter Michael 'Belle Cote', Chardonnay, Sonoma,",
+    "bbox": [
+      "192.67",
+      "229.38",
+      "513.84",
+      "241.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "360",
+    "bbox": [
+      "589.61",
+      "229.38",
+      "610.61",
+      "241.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "California 19",
+    "bbox": [
+      "192.67",
+      "243.64",
+      "259.87",
+      "255.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#340: Gaja 'Gaia & Rey', Chardonnay, Langhe, Italy 18",
+    "bbox": [
+      "192.67",
+      "272.15",
+      "501.31",
+      "284.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "600",
+    "bbox": [
+      "589.14",
+      "272.15",
+      "611.08",
+      "284.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#350: Jean Noel Gagnard, Grand Cru, Batard-",
+    "bbox": [
+      "192.67",
+      "300.67",
+      "462.96",
+      "312.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "1800",
+    "bbox": [
+      "586.63",
+      "300.67",
+      "613.59",
+      "312.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Montrachet, Burgundy, France 14",
+    "bbox": [
+      "192.67",
+      "314.93",
+      "374.56",
+      "326.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RED WINE",
+    "bbox": [
+      "367.28",
+      "392.23",
+      "469.72",
+      "407.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "LIGHT & MEDIUM BODIED",
+    "bbox": [
+      "348.08",
+      "429.00",
+      "494.92",
+      "441.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#400: Domaine Alain Mathias 'Epineuil Tradition', Pinot",
+    "bbox": [
+      "192.67",
+      "475.53",
+      "509.84",
+      "487.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "100",
+    "bbox": [
+      "590.19",
+      "475.53",
+      "610.03",
+      "487.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Noir, Burgundy, France 18",
+    "bbox": [
+      "192.67",
+      "489.79",
+      "333.22",
+      "501.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#401: Matsuhisa, Pinot Noir, Russian River Valley,",
+    "bbox": [
+      "192.67",
+      "518.31",
+      "478.31",
+      "530.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "125",
+    "bbox": [
+      "591.14",
+      "518.31",
+      "609.08",
+      "530.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "California 20",
+    "bbox": [
+      "192.67",
+      "532.57",
+      "261.30",
+      "544.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#403: Guy Breton, Chiroubles, Beaujolais, France 18",
+    "bbox": [
+      "192.67",
+      "561.09",
+      "495.97",
+      "573.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "145",
+    "bbox": [
+      "590.99",
+      "561.09",
+      "609.23",
+      "573.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#405: Ponzi Vineyards 'Reserve', Pinot Noir, Willamette,",
+    "bbox": [
+      "192.67",
+      "590.36",
+      "514.84",
+      "602.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "170",
+    "bbox": [
+      "590.71",
+      "590.36",
+      "609.51",
+      "602.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Oregon 17",
+    "bbox": [
+      "192.67",
+      "604.62",
+      "248.85",
+      "616.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#406: Maison Louis Jadot 'Resonance', Pinot Noir,",
+    "bbox": [
+      "192.67",
+      "633.14",
+      "483.37",
+      "645.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "180",
+    "bbox": [
+      "590.30",
+      "633.13",
+      "609.91",
+      "645.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Willamette, Oregon 17",
+    "bbox": [
+      "192.67",
+      "647.39",
+      "315.88",
+      "659.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#407: Gagnard-Delagrange, Chassagne-Montrachet 1er",
+    "bbox": [
+      "192.67",
+      "675.91",
+      "519.83",
+      "687.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "190",
+    "bbox": [
+      "590.35",
+      "675.91",
+      "609.87",
+      "687.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cru Rouge, Burgundy, France 18",
+    "bbox": [
+      "192.67",
+      "690.92",
+      "370.28",
+      "702.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#408: Hirsch Vineyards 'San Andreas Fault', Pinot Noir,",
+    "bbox": [
+      "192.67",
+      "719.44",
+      "508.82",
+      "731.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "195",
+    "bbox": [
+      "590.74",
+      "719.44",
+      "609.46",
+      "731.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sonoma, California 18",
+    "bbox": [
+      "192.67",
+      "733.70",
+      "311.87",
+      "745.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#410: Flowers 'Sea View Ridge', Pinot Noir, Sonoma,",
+    "bbox": [
+      "192.67",
+      "762.22",
+      "496.03",
+      "774.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "200",
+    "bbox": [
+      "589.63",
+      "762.22",
+      "610.58",
+      "774.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "California 18",
+    "bbox": [
+      "192.67",
+      "776.48",
+      "259.95",
+      "788.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#411: Joseph Drouhin, Gevrey-Chambertin, Burgundy,",
+    "bbox": [
+      "192.67",
+      "804.99",
+      "507.08",
+      "817.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "205",
+    "bbox": [
+      "590.03",
+      "804.99",
+      "610.18",
+      "817.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "France 19",
+    "bbox": [
+      "192.67",
+      "820.00",
+      "245.84",
+      "832.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#414: Vincent Girardin 'Les Santenots', 1er Cru, Volnay,",
+    "bbox": [
+      "192.67",
+      "848.52",
+      "507.98",
+      "860.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "230",
+    "bbox": [
+      "590.10",
+      "848.52",
+      "610.12",
+      "860.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Burgundy, France 17",
+    "bbox": [
+      "192.67",
+      "862.78",
+      "304.72",
+      "874.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#419: ZD, Pinot Noir, Carneros, California 11",
+    "bbox": [
+      "192.67",
+      "891.30",
+      "446.77",
+      "903.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "290",
+    "bbox": [
+      "589.78",
+      "891.30",
+      "610.42",
+      "903.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#420: Domaine de l'Arlot 'Clos des Forets Saint",
+    "bbox": [
+      "192.67",
+      "919.82",
+      "469.84",
+      "931.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "320",
+    "bbox": [
+      "590.10",
+      "919.82",
+      "610.12",
+      "931.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Georges' 1er Cru, Nuits-Saint-Georges, Burgundy, France",
+    "bbox": [
+      "192.67",
+      "934.83",
+      "506.71",
+      "946.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "19",
+    "bbox": [
+      "192.67",
+      "949.09",
+      "204.85",
+      "961.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#430: Domaine Chandon de Briailles Grand Cru,",
+    "bbox": [
+      "192.67",
+      "977.60",
+      "476.24",
+      "989.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "450",
+    "bbox": [
+      "589.89",
+      "977.60",
+      "610.34",
+      "989.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Corton-Marechaudes, Burgundy, France 16",
+    "bbox": [
+      "192.67",
+      "991.86",
+      "429.76",
+      "1003.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BIN#440: Domaine de la Vougeraie, Clos de Vougeot,",
+    "bbox": [
+      "192.67",
+      "1020.38",
+      "487.44",
+      "1032.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "750",
+    "bbox": [
+      "590.04",
+      "1020.38",
+      "610.17",
+      "1032.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Grand Cru, Burgundy, France 16",
+    "bbox": [
+      "192.67",
+      "1035.39",
+      "367.81",
+      "1047.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RED WINE",
+    "bbox": [
+      "367.28",
+      "1111.94",
+      "469.72",
+      "1126.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ROBUST & SPICY",
+    "bbox": [
+      "372.74",
+      "1148.71",
+      "470.25",
+      "1160.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.noburestaurants.com/fifty-seven/menus/#wines-by-the-bottle-",
+    "bbox": [
+      "26.45",
+      "1168.70",
+      "286.57",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/7",
+    "bbox": [
+      "805.41",
+      "1168.70",
+      "816.51",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/20/22, 9:21 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Menus » Nobu Restaurants",
+    "bbox": [
+      "418.39",
+      "15.70",
+      "515.78",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#451: Terrazas de los Andes 'Reserva' Malbec,",
+    "bbox": [
+      "192.67",
+      "61.27",
+      "465.34",
+      "73.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "67",
+    "bbox": [
+      "593.28",
+      "61.27",
+      "606.94",
+      "73.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Mendoza, Argentina 18",
+    "bbox": [
+      "192.67",
+      "75.53",
+      "318.93",
+      "87.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#452: Monte Bernardi, Chianti Classico, Tuscany, Italy 19",
+    "bbox": [
+      "192.67",
+      "104.05",
+      "518.29",
+      "116.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "75",
+    "bbox": [
+      "593.71",
+      "104.05",
+      "606.49",
+      "116.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#455: Tilth, Zinfandel, California 20",
+    "bbox": [
+      "192.67",
+      "132.57",
+      "402.66",
+      "144.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "80",
+    "bbox": [
+      "592.88",
+      "132.57",
+      "607.35",
+      "144.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#460: La Rioja Alta 'Vina Ardanza', Rioja Reserva, Spain",
+    "bbox": [
+      "192.67",
+      "161.08",
+      "512.09",
+      "173.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "120",
+    "bbox": [
+      "590.73",
+      "161.08",
+      "609.48",
+      "173.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "15",
+    "bbox": [
+      "192.67",
+      "176.09",
+      "204.36",
+      "188.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#462: Moccagatta, Barbaresco, Piedmonte, Italy 18",
+    "bbox": [
+      "192.67",
+      "204.61",
+      "491.44",
+      "216.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "140",
+    "bbox": [
+      "590.58",
+      "204.61",
+      "609.62",
+      "216.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#463: Hentley Farm 'The Beauty,' Shiraz, Barossa Valley,",
+    "bbox": [
+      "192.67",
+      "233.13",
+      "518.23",
+      "245.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "155",
+    "bbox": [
+      "590.99",
+      "233.13",
+      "609.22",
+      "245.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Australia 15",
+    "bbox": [
+      "192.67",
+      "247.39",
+      "255.52",
+      "259.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#465: Masi 'Costasera', Amarone, Veneto, Italy 15",
+    "bbox": [
+      "192.67",
+      "275.91",
+      "479.07",
+      "287.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "190",
+    "bbox": [
+      "590.35",
+      "275.91",
+      "609.87",
+      "287.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RED WINE",
+    "bbox": [
+      "367.28",
+      "353.21",
+      "469.72",
+      "368.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RICH & FULL BODIED",
+    "bbox": [
+      "361.10",
+      "389.98",
+      "481.91",
+      "401.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#500: Matsuhisa, Cabernet Sauvignon, Napa Valley,",
+    "bbox": [
+      "192.67",
+      "436.51",
+      "496.68",
+      "448.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "99",
+    "bbox": [
+      "593.07",
+      "436.51",
+      "607.14",
+      "448.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "California 20",
+    "bbox": [
+      "192.67",
+      "450.77",
+      "261.30",
+      "462.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#507: Wöl\u0000er 'Grapes of Roth,' Merlot, Long Island, NY",
+    "bbox": [
+      "192.67",
+      "479.29",
+      "510.85",
+      "491.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "155",
+    "bbox": [
+      "590.99",
+      "479.29",
+      "609.22",
+      "491.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "18",
+    "bbox": [
+      "192.67",
+      "493.55",
+      "204.93",
+      "505.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#509: Blason d'Issan, Bordeaux Red Blend, Margeaux,",
+    "bbox": [
+      "192.67",
+      "522.06",
+      "510.03",
+      "534.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "160",
+    "bbox": [
+      "590.24",
+      "522.06",
+      "609.97",
+      "534.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "France 16",
+    "bbox": [
+      "192.67",
+      "537.07",
+      "246.04",
+      "549.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#510: Martin Ray 'Diamond Mountain District,' Cabernet",
+    "bbox": [
+      "192.67",
+      "565.59",
+      "514.69",
+      "577.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "165",
+    "bbox": [
+      "590.65",
+      "565.59",
+      "609.57",
+      "577.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sauvignon, Napa, California 19",
+    "bbox": [
+      "192.67",
+      "579.85",
+      "359.65",
+      "591.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#515: Husch, Cabernet Sauvignon, Mendocino,",
+    "bbox": [
+      "192.67",
+      "608.37",
+      "469.53",
+      "620.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "180",
+    "bbox": [
+      "590.30",
+      "608.37",
+      "609.91",
+      "620.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "California 18",
+    "bbox": [
+      "192.67",
+      "622.63",
+      "259.95",
+      "634.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#520: Twomey Cellars 'Soda Canyon Ranch', Merlot,",
+    "bbox": [
+      "192.67",
+      "651.15",
+      "497.97",
+      "663.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "210",
+    "bbox": [
+      "590.73",
+      "651.15",
+      "609.48",
+      "663.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Napa, California 16",
+    "bbox": [
+      "192.67",
+      "666.16",
+      "295.54",
+      "678.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#522: Faust, Cabernet Sauvignon, Napa, California 18",
+    "bbox": [
+      "192.67",
+      "694.67",
+      "502.60",
+      "706.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "225",
+    "bbox": [
+      "590.58",
+      "694.67",
+      "609.64",
+      "706.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#524: Silver Oak, Cabernet Sauvignon, Alexander",
+    "bbox": [
+      "192.67",
+      "723.19",
+      "482.19",
+      "735.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "245",
+    "bbox": [
+      "590.43",
+      "723.19",
+      "609.78",
+      "735.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Valley, California 17",
+    "bbox": [
+      "192.67",
+      "737.45",
+      "298.03",
+      "749.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#528: Caymus, Cabernet Sauvignon, Napa, California",
+    "bbox": [
+      "192.67",
+      "765.97",
+      "503.42",
+      "777.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "285",
+    "bbox": [
+      "590.15",
+      "765.97",
+      "610.07",
+      "777.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "'19",
+    "bbox": [
+      "192.67",
+      "780.98",
+      "207.22",
+      "792.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#529: Chateau Beaucastel, Chateauneuf-du-Pape,",
+    "bbox": [
+      "192.67",
+      "809.50",
+      "490.40",
+      "821.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "295",
+    "bbox": [
+      "590.19",
+      "809.50",
+      "610.03",
+      "821.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Rhone, France 06",
+    "bbox": [
+      "192.67",
+      "823.76",
+      "290.01",
+      "835.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#530: 'Overture' by Opus One, Cabernet Sauvignon",
+    "bbox": [
+      "192.67",
+      "852.27",
+      "494.05",
+      "864.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "350",
+    "bbox": [
+      "589.96",
+      "852.27",
+      "610.26",
+      "864.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Blend, Napa, California NV",
+    "bbox": [
+      "192.67",
+      "866.53",
+      "339.13",
+      "878.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#531: Cavallotto 'San Giuseppe', Barolo Riserva,",
+    "bbox": [
+      "192.67",
+      "895.80",
+      "471.90",
+      "907.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "360",
+    "bbox": [
+      "589.61",
+      "895.80",
+      "610.61",
+      "907.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Piedmont, Italy 15",
+    "bbox": [
+      "192.67",
+      "910.06",
+      "289.99",
+      "922.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#540: Numanthia 'Termanthia,' Tinta de Toro, Spain 12",
+    "bbox": [
+      "192.67",
+      "938.58",
+      "505.55",
+      "950.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "570",
+    "bbox": [
+      "589.99",
+      "938.58",
+      "610.22",
+      "950.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#548: Quintessa, 'Red Rutherford,' Cabernet Sauvignon",
+    "bbox": [
+      "192.67",
+      "967.10",
+      "514.44",
+      "979.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "590",
+    "bbox": [
+      "589.64",
+      "967.10",
+      "610.57",
+      "979.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Blend, Napa, California 18",
+    "bbox": [
+      "192.67",
+      "981.36",
+      "333.97",
+      "993.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#550: Chateau Talbot, 4eme Grand Cru Classe, Saint-",
+    "bbox": [
+      "192.67",
+      "1009.87",
+      "505.58",
+      "1021.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "600",
+    "bbox": [
+      "589.14",
+      "1009.87",
+      "611.08",
+      "1021.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Julien, France 06",
+    "bbox": [
+      "192.67",
+      "1024.88",
+      "286.80",
+      "1036.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#560: Tenuta San Guido, Sassicaia Bolgheri, Tuscany,",
+    "bbox": [
+      "192.67",
+      "1053.40",
+      "504.15",
+      "1065.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "700",
+    "bbox": [
+      "589.57",
+      "1053.40",
+      "610.64",
+      "1065.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Italy 18",
+    "bbox": [
+      "192.67",
+      "1067.66",
+      "231.06",
+      "1079.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#568: Ornellaia, Bolgheri Superiore, Tuscany, Italy 18",
+    "bbox": [
+      "192.67",
+      "1096.18",
+      "501.01",
+      "1108.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "770",
+    "bbox": [
+      "590.03",
+      "1096.18",
+      "610.18",
+      "1108.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BIN#570: Opus One, Cabernet Sauvignon Blend, Napa,",
+    "bbox": [
+      "192.67",
+      "1124.70",
+      "494.89",
+      "1136.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "900",
+    "bbox": [
+      "589.24",
+      "1124.70",
+      "610.98",
+      "1136.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "California 18",
+    "bbox": [
+      "192.67",
+      "1139.71",
+      "259.95",
+      "1151.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.noburestaurants.com/fifty-seven/menus/#wines-by-the-bottle-",
+    "bbox": [
+      "26.45",
+      "1168.70",
+      "286.57",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/7",
+    "bbox": [
+      "805.41",
+      "1168.70",
+      "816.51",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/20/22, 9:21 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Menus » Nobu Restaurants",
+    "bbox": [
+      "418.39",
+      "15.70",
+      "515.78",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BIN#580: Dominus Estate, Napa Valley, California 18",
+    "bbox": [
+      "192.67",
+      "28.25",
+      "479.01",
+      "40.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "1,000",
+    "bbox": [
+      "585.16",
+      "28.25",
+      "615.05",
+      "40.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BIN#585: ZD 'Abacus', Cabernet Sauvignon, Napa,",
+    "bbox": [
+      "192.67",
+      "56.77",
+      "467.21",
+      "68.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "1,600",
+    "bbox": [
+      "585.22",
+      "56.77",
+      "615.00",
+      "68.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "California '22nd Bottling'",
+    "bbox": [
+      "192.67",
+      "71.03",
+      "325.87",
+      "83.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BIN#590: Chateau Margaux, 1er Grand Cru, Haut-Medoc,",
+    "bbox": [
+      "192.67",
+      "100.30",
+      "505.34",
+      "112.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2,100",
+    "bbox": [
+      "585.71",
+      "100.30",
+      "614.51",
+      "112.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Bordeaux, France 06",
+    "bbox": [
+      "192.67",
+      "114.55",
+      "307.45",
+      "126.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BIN#599: Chateau Mouton Rothschild, 1er Grand Cru,",
+    "bbox": [
+      "192.67",
+      "143.07",
+      "485.13",
+      "155.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "3,800",
+    "bbox": [
+      "584.65",
+      "143.07",
+      "615.58",
+      "155.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pauillac, Bordeaux, France 10",
+    "bbox": [
+      "192.67",
+      "157.33",
+      "354.48",
+      "169.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "DESSERT WINE",
+    "bbox": [
+      "341.48",
+      "233.88",
+      "495.53",
+      "248.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BIN#600: Michele Chiarlo Nivole, Moscato d'Asti, Piedmont",
+    "bbox": [
+      "131.22",
+      "284.16",
+      "457.05",
+      "296.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "13",
+    "bbox": [
+      "532.88",
+      "284.16",
+      "544.43",
+      "296.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "48",
+    "bbox": [
+      "654.73",
+      "284.16",
+      "668.41",
+      "296.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "19",
+    "bbox": [
+      "131.22",
+      "299.17",
+      "143.39",
+      "311.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BIN#601: Paci\u0000c Rim, Late Harvest Riesling, Colombia",
+    "bbox": [
+      "131.22",
+      "327.69",
+      "426.65",
+      "339.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "14",
+    "bbox": [
+      "532.81",
+      "327.69",
+      "544.50",
+      "339.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "52",
+    "bbox": [
+      "655.18",
+      "327.69",
+      "667.98",
+      "339.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Valley 16",
+    "bbox": [
+      "131.22",
+      "341.95",
+      "180.64",
+      "353.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BIN#602: Dolce, Late Harvest, Napa Valley 13",
+    "bbox": [
+      "131.22",
+      "370.47",
+      "381.40",
+      "382.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "37",
+    "bbox": [
+      "532.27",
+      "370.47",
+      "545.04",
+      "382.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "150",
+    "bbox": [
+      "652.06",
+      "370.47",
+      "671.09",
+      "382.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BIN#603: Chateau D'Yquem, Sauternes 13",
+    "bbox": [
+      "131.22",
+      "398.99",
+      "362.07",
+      "410.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "~",
+    "bbox": [
+      "535.58",
+      "398.99",
+      "541.72",
+      "410.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "450",
+    "bbox": [
+      "651.36",
+      "398.99",
+      "671.81",
+      "410.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Go To Top",
+    "bbox": [
+      "393.60",
+      "485.29",
+      "449.39",
+      "497.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Explore N",
+    "bbox": [
+      "174.93",
+      "572.35",
+      "311.40",
+      "602.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "obu N",
+    "bbox": [
+      "311.14",
+      "572.35",
+      "396.19",
+      "602.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ew",
+    "bbox": [
+      "395.94",
+      "572.35",
+      "437.54",
+      "602.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "York Fifty Seven",
+    "bbox": [
+      "437.54",
+      "572.35",
+      "668.07",
+      "602.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "NOBU FIFTY SEVEN CATERING",
+    "bbox": [
+      "284.75",
+      "743.45",
+      "558.23",
+      "762.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MENU IS AVAILABLE NOW!",
+    "bbox": [
+      "301.96",
+      "765.97",
+      "541.03",
+      "784.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "PRE-ORDER HERE",
+    "bbox": [
+      "334.62",
+      "787.73",
+      "488.83",
+      "805.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "NOBU RESTAURANT LOCATIONS",
+    "bbox": [
+      "304.44",
+      "980.61",
+      "538.57",
+      "995.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "H = Restaurant inside a Nobu Hotel",
+    "bbox": [
+      "629.56",
+      "984.36",
+      "777.98",
+      "993.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "USA & CANADA",
+    "bbox": [
+      "64.27",
+      "1040.64",
+      "141.55",
+      "1051.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "EUROPE",
+    "bbox": [
+      "207.17",
+      "1040.64",
+      "249.11",
+      "1051.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MEXICO & CARIBBEAN",
+    "bbox": [
+      "350.06",
+      "1040.64",
+      "462.67",
+      "1051.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MIDDLE EAST & AFRICA",
+    "bbox": [
+      "492.96",
+      "1040.64",
+      "611.06",
+      "1051.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ASIA PACIFIC",
+    "bbox": [
+      "635.86",
+      "1040.64",
+      "701.08",
+      "1051.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CHICAGO",
+    "bbox": [
+      "64.27",
+      "1061.66",
+      "111.22",
+      "1072.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BARCELONA",
+    "bbox": [
+      "207.17",
+      "1061.66",
+      "270.57",
+      "1072.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BAHAMAS",
+    "bbox": [
+      "350.06",
+      "1061.66",
+      "401.56",
+      "1072.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CAPE TOWN",
+    "bbox": [
+      "492.96",
+      "1061.66",
+      "555.61",
+      "1072.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "HONG KONG",
+    "bbox": [
+      "635.86",
+      "1061.66",
+      "699.63",
+      "1072.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "H",
+    "bbox": [
+      "123.22",
+      "1064.66",
+      "127.67",
+      "1070.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "H",
+    "bbox": [
+      "282.57",
+      "1064.66",
+      "287.02",
+      "1070.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RooftopRestaurantHotel",
+    "bbox": [
+      "64.27",
+      "1076.67",
+      "167.25",
+      "1084.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RestaurantHotel",
+    "bbox": [
+      "207.17",
+      "1076.67",
+      "272.64",
+      "1084.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BARBUDA",
+    "bbox": [
+      "350.06",
+      "1083.42",
+      "400.33",
+      "1093.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "DOHA",
+    "bbox": [
+      "492.96",
+      "1083.42",
+      "523.24",
+      "1093.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "KUALA LUMPUR",
+    "bbox": [
+      "635.86",
+      "1083.42",
+      "717.72",
+      "1093.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "DALLAS",
+    "bbox": [
+      "64.27",
+      "1093.93",
+      "104.32",
+      "1104.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BUDAPEST",
+    "bbox": [
+      "207.17",
+      "1093.93",
+      "262.28",
+      "1104.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MEXICO CITY",
+    "bbox": [
+      "350.06",
+      "1105.19",
+      "415.86",
+      "1115.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "DUBAI",
+    "bbox": [
+      "492.96",
+      "1105.19",
+      "525.15",
+      "1115.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MANILA",
+    "bbox": [
+      "635.86",
+      "1105.19",
+      "676.22",
+      "1115.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "H",
+    "bbox": [
+      "688.22",
+      "1108.19",
+      "692.67",
+      "1114.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "NEW YORK",
+    "bbox": [
+      "64.27",
+      "1115.69",
+      "120.41",
+      "1126.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "IBIZA BAY",
+    "bbox": [
+      "207.17",
+      "1115.69",
+      "256.15",
+      "1126.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "H",
+    "bbox": [
+      "268.16",
+      "1118.69",
+      "272.61",
+      "1124.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RestaurantHotel",
+    "bbox": [
+      "635.86",
+      "1120.20",
+      "701.33",
+      "1127.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MEXICO CITY POLANCO",
+    "bbox": [
+      "350.06",
+      "1126.95",
+      "469.20",
+      "1137.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "JEDDAH",
+    "bbox": [
+      "492.96",
+      "1126.95",
+      "534.09",
+      "1137.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RestaurantHotel",
+    "bbox": [
+      "207.17",
+      "1130.70",
+      "272.64",
+      "1138.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "DOWNTOWN",
+    "bbox": [
+      "64.27",
+      "1136.71",
+      "131.40",
+      "1147.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MELBOURNE",
+    "bbox": [
+      "635.86",
+      "1137.46",
+      "701.72",
+      "1147.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://www.noburestaurants.com/fifty-seven/menus/#wines-by-the-bottle-",
+    "bbox": [
+      "26.45",
+      "1168.70",
+      "286.57",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/7",
+    "bbox": [
+      "805.41",
+      "1168.70",
+      "816.51",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/20/22, 9:21 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Menus » Nobu Restaurants",
+    "bbox": [
+      "418.39",
+      "15.70",
+      "515.78",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "NEW YORK FIFTY",
+    "bbox": [
+      "64.27",
+      "32.75",
+      "151.38",
+      "43.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ISTANBUL",
+    "bbox": [
+      "207.17",
+      "32.75",
+      "258.37",
+      "43.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "LOS CABOS",
+    "bbox": [
+      "350.06",
+      "32.75",
+      "408.37",
+      "43.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RIYADH",
+    "bbox": [
+      "492.96",
+      "32.75",
+      "531.08",
+      "43.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "PERTH",
+    "bbox": [
+      "635.86",
+      "32.75",
+      "669.83",
+      "43.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "H",
+    "bbox": [
+      "420.36",
+      "35.75",
+      "424.81",
+      "41.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "H",
+    "bbox": [
+      "543.08",
+      "35.75",
+      "547.53",
+      "41.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RestaurantHotel",
+    "bbox": [
+      "350.06",
+      "47.76",
+      "415.54",
+      "55.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RestaurantHotel",
+    "bbox": [
+      "492.96",
+      "47.76",
+      "558.43",
+      "55.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SEVEN",
+    "bbox": [
+      "64.27",
+      "53.77",
+      "98.62",
+      "64.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "LONDON OLD PARK",
+    "bbox": [
+      "207.17",
+      "54.52",
+      "306.20",
+      "65.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "TOKYO",
+    "bbox": [
+      "635.86",
+      "54.52",
+      "671.05",
+      "65.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "HONOLULU",
+    "bbox": [
+      "64.27",
+      "75.53",
+      "123.48",
+      "86.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "LANE",
+    "bbox": [
+      "207.17",
+      "75.53",
+      "234.86",
+      "86.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SYDNEY",
+    "bbox": [
+      "635.86",
+      "76.28",
+      "677.80",
+      "86.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "HOUSTON",
+    "bbox": [
+      "64.27",
+      "97.29",
+      "116.43",
+      "107.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "LONDON PORTMAN",
+    "bbox": [
+      "207.17",
+      "97.29",
+      "307.23",
+      "107.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "INDIAN WELLS",
+    "bbox": [
+      "64.27",
+      "119.06",
+      "139.26",
+      "129.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SQUAREH",
+    "bbox": [
+      "207.17",
+      "118.31",
+      "265.85",
+      "128.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RestaurantHotel",
+    "bbox": [
+      "207.17",
+      "133.32",
+      "272.64",
+      "140.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "LANA'I",
+    "bbox": [
+      "64.27",
+      "140.82",
+      "96.99",
+      "151.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "LONDON",
+    "bbox": [
+      "207.17",
+      "150.58",
+      "252.49",
+      "161.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "LAS VEGAS AT VIRGIN",
+    "bbox": [
+      "64.27",
+      "162.59",
+      "174.01",
+      "173.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SHOREDITCH",
+    "bbox": [
+      "207.17",
+      "171.59",
+      "273.91",
+      "182.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "H",
+    "bbox": [
+      "285.91",
+      "174.59",
+      "290.36",
+      "180.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "HOTEL",
+    "bbox": [
+      "64.27",
+      "183.60",
+      "98.63",
+      "194.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RestaurantHotel",
+    "bbox": [
+      "207.17",
+      "186.60",
+      "272.64",
+      "194.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "LAS VEGAS CAESARS",
+    "bbox": [
+      "64.27",
+      "205.36",
+      "170.59",
+      "215.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MARBELLAH",
+    "bbox": [
+      "207.17",
+      "203.86",
+      "279.61",
+      "214.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RestaurantHotel",
+    "bbox": [
+      "207.17",
+      "218.87",
+      "272.64",
+      "226.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "PALACE",
+    "bbox": [
+      "64.27",
+      "226.38",
+      "103.89",
+      "236.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "H",
+    "bbox": [
+      "115.89",
+      "229.38",
+      "120.34",
+      "235.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MILAN",
+    "bbox": [
+      "207.17",
+      "236.13",
+      "240.42",
+      "246.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RestaurantHotel",
+    "bbox": [
+      "64.27",
+      "241.39",
+      "129.75",
+      "248.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "LAS VEGAS AT PARIS",
+    "bbox": [
+      "64.27",
+      "258.65",
+      "168.07",
+      "269.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MONTE CARLO",
+    "bbox": [
+      "207.17",
+      "257.90",
+      "282.61",
+      "268.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "LOS ANGELES",
+    "bbox": [
+      "64.27",
+      "280.41",
+      "135.05",
+      "290.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MONTENEGRO",
+    "bbox": [
+      "207.17",
+      "279.66",
+      "281.67",
+      "290.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MALIBU",
+    "bbox": [
+      "64.27",
+      "302.17",
+      "104.42",
+      "312.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SANTORINI",
+    "bbox": [
+      "207.17",
+      "301.42",
+      "263.17",
+      "311.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MIAMIH",
+    "bbox": [
+      "64.27",
+      "323.94",
+      "111.66",
+      "334.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "WARSAW",
+    "bbox": [
+      "207.17",
+      "323.19",
+      "255.35",
+      "333.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "H",
+    "bbox": [
+      "267.36",
+      "326.19",
+      "271.81",
+      "332.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RestaurantHotel",
+    "bbox": [
+      "64.27",
+      "338.95",
+      "129.75",
+      "346.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RestaurantHotel",
+    "bbox": [
+      "207.17",
+      "338.20",
+      "272.64",
+      "345.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "NEWPORT BEACH",
+    "bbox": [
+      "64.27",
+      "356.21",
+      "155.29",
+      "366.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "PALO ALTO",
+    "bbox": [
+      "64.27",
+      "377.97",
+      "120.01",
+      "388.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "H",
+    "bbox": [
+      "132.01",
+      "380.97",
+      "136.46",
+      "386.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RestaurantHotel",
+    "bbox": [
+      "64.27",
+      "392.98",
+      "129.75",
+      "400.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SAN DIEGO",
+    "bbox": [
+      "64.27",
+      "410.24",
+      "120.21",
+      "420.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SCOTTSDALE",
+    "bbox": [
+      "64.27",
+      "432.01",
+      "131.55",
+      "442.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "WASHINGTON D.C.",
+    "bbox": [
+      "64.27",
+      "453.77",
+      "157.60",
+      "464.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Irasshaimase! Insider Access to the World of Nobu",
+    "bbox": [
+      "265.13",
+      "531.07",
+      "577.85",
+      "544.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Your Email",
+    "bbox": [
+      "219.47",
+      "567.09",
+      "271.08",
+      "577.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "NEW YORK FIFTY SEVEN",
+    "bbox": [
+      "394.34",
+      "567.09",
+      "521.12",
+      "577.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "JOIN",
+    "bbox": [
+      "584.87",
+      "567.09",
+      "608.53",
+      "577.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Disclaimer: Crave-Worthy News & Exclusive Invitations Only",
+    "bbox": [
+      "298.03",
+      "597.11",
+      "544.62",
+      "606.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CAREERSNOBU HOTELSPRIVACYTERMS OF SERVICEACCESSIBILITY NOTICE",
+    "bbox": [
+      "47.76",
+      "660.15",
+      "468.76",
+      "670.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Site by PASTPRESENTFUTURE",
+    "bbox": [
+      "674.04",
+      "661.65",
+      "802.74",
+      "670.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "© NOBU RESTAURANTS",
+    "bbox": [
+      "700.02",
+      "682.67",
+      "802.75",
+      "691.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://www.noburestaurants.com/fifty-seven/menus/#wines-by-the-bottle-",
+    "bbox": [
+      "26.45",
+      "1168.70",
+      "286.57",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/7",
+    "bbox": [
+      "805.41",
+      "1168.70",
+      "816.51",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

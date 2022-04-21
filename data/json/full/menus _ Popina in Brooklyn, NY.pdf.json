@@ -1,0 +1,2262 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/12/22, 3:19 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "menus | Popina in Brooklyn, NY",
+    "bbox": [
+      "288.38",
+      "16.00",
+      "393.09",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "call (718) 222-1901",
+    "bbox": [
+      "229.30",
+      "717.70",
+      "365.94",
+      "728.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "reservations",
+    "bbox": [
+      "254.62",
+      "753.70",
+      "340.64",
+      "764.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "news + updates",
+    "bbox": [
+      "247.39",
+      "788.95",
+      "347.87",
+      "799.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.popinanyc.com/menu-1/#wine",
+    "bbox": [
+      "26.45",
+      "818.00",
+      "165.02",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/5",
+    "bbox": [
+      "558.31",
+      "818.00",
+      "568.53",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/12/22, 3:19 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "menus | Popina in Brooklyn, NY",
+    "bbox": [
+      "288.38",
+      "16.00",
+      "393.09",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "dinner",
+    "bbox": [
+      "171.37",
+      "81.70",
+      "214.00",
+      "92.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "wine",
+    "bbox": [
+      "265.46",
+      "81.70",
+      "293.63",
+      "92.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "cellar list",
+    "bbox": [
+      "345.09",
+      "81.70",
+      "423.87",
+      "92.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "cocktails / beer / spirits",
+    "bbox": [
+      "203.99",
+      "123.70",
+      "391.25",
+      "134.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "explore our cellar list here",
+    "bbox": [
+      "209.78",
+      "271.00",
+      "386.21",
+      "281.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "wines by-the-glass",
+    "bbox": [
+      "225.09",
+      "299.50",
+      "370.90",
+      "313.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "bubbles",
+    "bbox": [
+      "272.80",
+      "333.25",
+      "316.91",
+      "343.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "glera bisol prosecco (it) 14",
+    "bbox": [
+      "209.79",
+      "363.25",
+      "386.21",
+      "373.75"
+    ],
+    "annots": [
+      {
+        "w\r\n": [
+          {
+            "text": "glera bisol prosecco (it",
+            "answer_start": 0
+          }
+        ],
+        "p\r\n": [
+          {
+            "text": ") 1",
+            "answer_start": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "pinto munier/pinot noir/chardonnaytarlant zero (fr) 25",
+    "bbox": [
+      "124.74",
+      "393.25",
+      "471.27",
+      "403.75"
+    ],
+    "annots": [
+      {
+        "w\r\n": [
+          {
+            "text": "pinto munier/pinot noir/chardonnaytarlant zero (fr)",
+            "answer_start": 0
+          }
+        ],
+        "p\r\n": [
+          {
+            "text": "25",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "white",
+    "bbox": [
+      "282.25",
+      "423.25",
+      "313.75",
+      "433.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "malvasia/trebbianomarchese frascati 2020 (it) 12",
+    "bbox": [
+      "137.34",
+      "453.25",
+      "458.67",
+      "463.75"
+    ],
+    "annots": [
+      {
+        "w\r\n": [
+          {
+            "text": "malvasia/trebbianomarchese frascati",
+            "answer_start": 0
+          }
+        ],
+        "p\r\n": [
+          {
+            "text": "12",
+            "answer_start": 46
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "chenin blancrocher de violettes touche mitaine 2020 (fr) 15",
+    "bbox": [
+      "108.98",
+      "483.25",
+      "487.02",
+      "493.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "chenin blancrocher de violettes touche mitaine",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "15",
+            "answer_start": 57
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "listan blancoenvinate benje blanco 2020 (sp) 17",
+    "bbox": [
+      "146.79",
+      "513.25",
+      "449.21",
+      "523.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "listan blancoenvinate benje blanco",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "17",
+            "answer_start": 45
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "rosé & skin contact",
+    "bbox": [
+      "238.14",
+      "543.25",
+      "357.86",
+      "553.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "nebbiolo ioppa rusin 2020 (it) 14",
+    "bbox": [
+      "194.03",
+      "573.25",
+      "401.95",
+      "583.75"
+    ],
+    "annots": [
+      {
+        "w\r\n": [
+          {
+            "text": "nebbiolo ioppa rusin",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "14",
+            "answer_start": 31
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "cataratto il censo praruar 2018 (it) 16",
+    "bbox": [
+      "175.14",
+      "603.25",
+      "420.86",
+      "613.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "cataratto il censo praruar",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "16",
+            "answer_start": 37
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "red",
+    "bbox": [
+      "288.54",
+      "633.25",
+      "307.44",
+      "643.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "montepulciano il conte (it) 12",
+    "bbox": [
+      "203.49",
+      "663.25",
+      "392.50",
+      "673.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "montepulciano il conte (it)",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "12",
+            "answer_start": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "dolcetto chionetti briccolero 2013 (it) 15",
+    "bbox": [
+      "165.68",
+      "693.25",
+      "430.31",
+      "703.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "dolcetto chionetti briccoler",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": ") 1",
+            "answer_start": 38
+          }
+        ],
+        "v": [
+          {
+            "text": "o 201",
+            "answer_start": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "call (718) 222-1901",
+    "bbox": [
+      "229.30",
+      "717.70",
+      "365.94",
+      "728.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "carignane/mataro sandlands red table wine 2019 (usa) 17",
+    "bbox": [
+      "124.73",
+      "723.25",
+      "471.27",
+      "733.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "grignalino la mirarjeas e2r0v20a t(iiotn)s 15 served chilled",
+    "bbox": [
+      "146.78",
+      "753.25",
+      "451.84",
+      "764.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "news + updates",
+    "bbox": [
+      "247.39",
+      "788.95",
+      "347.87",
+      "799.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.popinanyc.com/menu-1/#wine",
+    "bbox": [
+      "26.45",
+      "818.00",
+      "165.02",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/5",
+    "bbox": [
+      "558.31",
+      "818.00",
+      "568.53",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/12/22, 3:19 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "menus | Popina in Brooklyn, NY",
+    "bbox": [
+      "288.38",
+      "16.00",
+      "393.09",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "bottle list",
+    "bbox": [
+      "253.45",
+      "29.50",
+      "342.56",
+      "43.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "bubbles",
+    "bbox": [
+      "275.95",
+      "63.25",
+      "320.05",
+      "73.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "glera bisol prosecco jeio nv 40",
+    "bbox": [
+      "200.34",
+      "93.25",
+      "395.66",
+      "103.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "lambrusco terrevive san vincent rosado 2020 65",
+    "bbox": [
+      "153.09",
+      "123.25",
+      "442.92",
+      "133.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "lambrusco terrevive san vincent rosado",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 39
+          }
+        ],
+        "p": [
+          {
+            "text": "65",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "chenin blanc bodet-herold cremant de loire physis 2017 65",
+    "bbox": [
+      "118.42",
+      "153.25",
+      "477.56",
+      "163.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "chenin blanc bodet-herold cremant de loire physis",
+            "answer_start": 0
+          }
+        ],
+        "v\r\n": [
+          {
+            "text": "2017",
+            "answer_start": 50
+          }
+        ],
+        "p": [
+          {
+            "text": "65",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "pinot noir labet crémant du jura rosé  nv 75",
+    "bbox": [
+      "159.38",
+      "183.25",
+      "436.61",
+      "193.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "pinot noir labet crémant du jura rosé",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "n",
+            "answer_start": 38
+          }
+        ],
+        "p": [
+          {
+            "text": "v 7",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "pinot noir/chardonnay cruse tradition rosé nv 85",
+    "bbox": [
+      "146.78",
+      "213.25",
+      "449.22",
+      "223.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "pinot noir/chardonnay cruse tradition rosé",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "nv",
+            "answer_start": 43
+          }
+        ],
+        "p": [
+          {
+            "text": "85",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "pinot noir savart l'overture nv 99",
+    "bbox": [
+      "190.89",
+      "243.25",
+      "405.11",
+      "253.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "pinot noir savart l'overture",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "nv",
+            "answer_start": 29
+          }
+        ],
+        "p": [
+          {
+            "text": "99",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "chardonnay ruinart blanc de blancs 2009 165",
+    "bbox": [
+      "159.39",
+      "273.25",
+      "430.31",
+      "283.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "chardonnay ruinart blanc de blancs",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2009",
+            "answer_start": 35
+          }
+        ],
+        "p": [
+          {
+            "text": "165",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "white",
+    "bbox": [
+      "282.25",
+      "303.25",
+      "313.75",
+      "313.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "inzolia cantine barbera menfi tiviti 2020 56",
+    "bbox": [
+      "159.38",
+      "333.25",
+      "436.61",
+      "343.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "inzolia cantine barbera menfi tiviti",
+            "answer_start": 0
+          }
+        ],
+        "v\r\n": [
+          {
+            "text": "2020",
+            "answer_start": 37
+          }
+        ],
+        "p": [
+          {
+            "text": "56",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "greco chalmers 2019 58",
+    "bbox": [
+      "228.70",
+      "363.25",
+      "367.31",
+      "373.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "greco chalmers",
+            "answer_start": 0
+          }
+        ],
+        "v\r\n": [
+          {
+            "text": "2019",
+            "answer_start": 15
+          }
+        ],
+        "p": [
+          {
+            "text": "58",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "chasselas les vignes de paradis quintessence 2019 58",
+    "bbox": [
+      "134.18",
+      "393.25",
+      "461.82",
+      "403.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "chasselas les vignes de paradis quintessence",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 45
+          }
+        ],
+        "p": [
+          {
+            "text": "58",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "arneis angelo negro unfiltered 2020 60",
+    "bbox": [
+      "178.28",
+      "423.25",
+      "417.70",
+      "433.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "arneis angelo negro unfiltered",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 31
+          }
+        ],
+        "p\r\n": [
+          {
+            "text": "60",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "prie blanc ermes pavese blanc de morgex 2019 60",
+    "bbox": [
+      "149.93",
+      "453.25",
+      "446.07",
+      "463.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "prie blanc ermes pavese blanc de morgex",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 40
+          }
+        ],
+        "p": [
+          {
+            "text": "60",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "friulano blend massican annia 2020 65",
+    "bbox": [
+      "181.43",
+      "483.25",
+      "414.56",
+      "493.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "friulano blend massican annia",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 30
+          }
+        ],
+        "p": [
+          {
+            "text": "65",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "chardonnay enfield citrine 68",
+    "bbox": [
+      "206.64",
+      "513.25",
+      "389.35",
+      "523.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "chardonnay enfield citrine",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "68",
+            "answer_start": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "timorasso ricci san leto 2018 75",
+    "bbox": [
+      "197.20",
+      "543.25",
+      "398.81",
+      "553.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "timorasso ricci san leto",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 25
+          }
+        ],
+        "p": [
+          {
+            "text": "75",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "roussanne j.l. chave selection saint-joseph circa 2018 75",
+    "bbox": [
+      "115.28",
+      "573.25",
+      "480.72",
+      "583.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "roussanne j.l. chave selection saint-joseph circa",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 50
+          }
+        ],
+        "p\r\n": [
+          {
+            "text": "75",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "sauvignon blanc arnot-roberts randle hill vineyard 2020 75",
+    "bbox": [
+      "115.28",
+      "603.25",
+      "480.73",
+      "613.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "sauvignon blanc arnot-roberts randle hill vineyard",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 51
+          }
+        ],
+        "p": [
+          {
+            "text": "75",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "aligote didier fornerol bourgogne 2019 75",
+    "bbox": [
+      "168.84",
+      "633.25",
+      "427.16",
+      "643.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "aligote didier fornerol bourgogne",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 34
+          }
+        ],
+        "p": [
+          {
+            "text": "75",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "macabeu danjou-banessy coste 2018 75",
+    "bbox": [
+      "184.59",
+      "663.25",
+      "411.41",
+      "673.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "macabeu danjou-banessy coste",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 29
+          }
+        ],
+        "p": [
+          {
+            "text": "75",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "listan blanco suertes de marques vidonia 2020 75",
+    "bbox": [
+      "146.78",
+      "693.25",
+      "449.22",
+      "703.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "listan blanco suertes de marques vidoni",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "a 202",
+            "answer_start": 39
+          }
+        ],
+        "p": [
+          {
+            "text": "0 7",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "call (718) 222-1901",
+    "bbox": [
+      "229.30",
+      "717.70",
+      "365.94",
+      "728.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "chardonnay vocoret chablis boucheran 2019 85",
+    "bbox": [
+      "156.24",
+      "723.25",
+      "439.76",
+      "733.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "chardonnay lafroens ebrovuragtoigonnes blanc 2019 85",
+    "bbox": [
+      "171.99",
+      "753.25",
+      "424.01",
+      "764.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "chardonnay genot-boulanger savigny-les-beaune blanc vv 2019 85",
+    "bbox": [
+      "102.67",
+      "783.25",
+      "493.32",
+      "793.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "news + updates",
+    "bbox": [
+      "247.39",
+      "788.95",
+      "347.87",
+      "799.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.popinanyc.com/menu-1/#wine",
+    "bbox": [
+      "26.45",
+      "818.00",
+      "165.02",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/5",
+    "bbox": [
+      "558.31",
+      "818.00",
+      "568.53",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/12/22, 3:19 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "menus | Popina in Brooklyn, NY",
+    "bbox": [
+      "288.38",
+      "16.00",
+      "393.09",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "chenin blanc bonnezeaux la montagne 2019 99",
+    "bbox": [
+      "162.54",
+      "31.00",
+      "433.46",
+      "41.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "chardonnay d'angerville meursault santenots 2018 135",
+    "bbox": [
+      "131.03",
+      "61.00",
+      "464.97",
+      "71.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "rosé / skin contact",
+    "bbox": [
+      "238.14",
+      "91.00",
+      "357.86",
+      "101.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "cartoixa sicus 2018 55",
+    "bbox": [
+      "228.70",
+      "121.00",
+      "367.31",
+      "131.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "cartoixa sicus",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 15
+          }
+        ],
+        "p": [
+          {
+            "text": "55",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ribolla gialla roncus 2017 60",
+    "bbox": [
+      "206.64",
+      "151.00",
+      "389.36",
+      "161.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "ribolla gialla roncus",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 22
+          }
+        ],
+        "p": [
+          {
+            "text": "60",
+            "answer_start": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "montepulciano de fermo cerasuolo d'abruzzo le cince 2020 65",
+    "bbox": [
+      "112.13",
+      "181.00",
+      "483.87",
+      "191.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "montepulciano de fermo cerasuolo d'abruzzo le cince",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 52
+          }
+        ],
+        "p": [
+          {
+            "text": "65",
+            "answer_start": 57
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "montepulciano colle florido lalena rosato 2020 65",
+    "bbox": [
+      "143.63",
+      "211.00",
+      "452.36",
+      "221.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "montepulciano colle florido lalena rosat",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "o 202",
+            "answer_start": 40
+          }
+        ],
+        "p": [
+          {
+            "text": "0 6",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "red",
+    "bbox": [
+      "288.54",
+      "241.00",
+      "307.44",
+      "251.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "cabernet franc terrassen 2018 55",
+    "bbox": [
+      "182.78",
+      "269.50",
+      "413.21",
+      "281.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "cabernet franc terrasse",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "n 201",
+            "answer_start": 23
+          }
+        ],
+        "p": [
+          {
+            "text": "8 5",
+            "answer_start": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "corvina blend brigaldara valpolicella 2020 55",
+    "bbox": [
+      "135.98",
+      "299.50",
+      "460.03",
+      "311.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "corvina blend brigaldara valpolicella",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 38
+          }
+        ],
+        "p": [
+          {
+            "text": "55",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "cabernet franc aurélien revillot bourgueil 2017 55",
+    "bbox": [
+      "117.98",
+      "329.50",
+      "478.03",
+      "341.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "cabernet franc aurélien revillot bourguei",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "l 201",
+            "answer_start": 41
+          }
+        ],
+        "p": [
+          {
+            "text": "7 5",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "teroldego foradori vigneti delle dolomiti 2020 65",
+    "bbox": [
+      "121.57",
+      "359.50",
+      "474.42",
+      "371.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "teroldego foradori vigneti delle dolomit",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "i 202",
+            "answer_start": 40
+          }
+        ],
+        "p": [
+          {
+            "text": "0 6",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "listan negro envínate benje tinto 2020 65",
+    "bbox": [
+      "150.38",
+      "389.50",
+      "445.62",
+      "401.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "listan negro envínate benje tinto",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 34
+          }
+        ],
+        "p": [
+          {
+            "text": "65",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "pinot meunier matthiasson napa 2020 65",
+    "bbox": [
+      "161.18",
+      "419.50",
+      "434.82",
+      "431.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "pinot meunier matthiasson napa",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2020",
+            "answer_start": 31
+          }
+        ],
+        "p": [
+          {
+            "text": "65",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "nerello mascalese girolamo russo etna rosso a'rina 2019 68",
+    "bbox": [
+      "89.16",
+      "449.50",
+      "506.82",
+      "461.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "nerello mascalese girolamo russo etna rosso a'rina",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 51
+          }
+        ],
+        "p": [
+          {
+            "text": "68",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "syrah jolie-laide north coast 2019 75",
+    "bbox": [
+      "164.78",
+      "479.50",
+      "431.21",
+      "491.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "syrah jolie-laide north coas",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "t 201",
+            "answer_start": 28
+          }
+        ],
+        "p": [
+          {
+            "text": "9 7",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "grenache newfound wines yount mill vineyard 2019 75",
+    "bbox": [
+      "114.37",
+      "509.50",
+      "481.62",
+      "521.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "grenache newfound wines yount mill vineyard",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 44
+          }
+        ],
+        "p": [
+          {
+            "text": "75",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "trousseau arnot-roberts north coast 2020 75",
+    "bbox": [
+      "143.17",
+      "539.50",
+      "452.81",
+      "551.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "trousseau arnot-roberts north coas",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "t 202",
+            "answer_start": 34
+          }
+        ],
+        "p": [
+          {
+            "text": "0 7",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "syrah pax sonoma hillsides 2019 80",
+    "bbox": [
+      "175.59",
+      "569.50",
+      "420.42",
+      "581.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "syrah pax sonoma hillsides",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 27
+          }
+        ],
+        "p": [
+          {
+            "text": "80",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "sangiovese paradiso di manfredi rosso di montalcino 2019 85",
+    "bbox": [
+      "85.56",
+      "599.50",
+      "510.42",
+      "611.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "sangiovese paradiso di manfredi rosso di montalcino",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 52
+          }
+        ],
+        "p": [
+          {
+            "text": "85",
+            "answer_start": 57
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "sangiovese monteraponi chianti classico baron ugo 2017 85",
+    "bbox": [
+      "92.77",
+      "629.50",
+      "503.22",
+      "641.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "sangiovese monteraponi chianti classico baron ugo",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 50
+          }
+        ],
+        "p": [
+          {
+            "text": "85",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "nebbiolo roccheviberti barolo 2016 99",
+    "bbox": [
+      "164.78",
+      "659.50",
+      "431.21",
+      "671.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "nebbiolo roccheviberti barolo",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2016",
+            "answer_start": 30
+          }
+        ],
+        "p": [
+          {
+            "text": "99",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "nebbiolo brovia barolo 2017 99",
+    "bbox": [
+      "189.99",
+      "689.50",
+      "406.01",
+      "701.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "nebbiolo brovia barol",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "o 201",
+            "answer_start": 21
+          }
+        ],
+        "p": [
+          {
+            "text": "7 9",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "nebbiolo necravlil- c(o7n1t8e)rn o2 2g2a-t1t9i0n1ara 2018 99",
+    "bbox": [
+      "150.38",
+      "717.70",
+      "445.62",
+      "731.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "pinot noir littorai sonoma coast 2019 99",
+    "bbox": [
+      "153.98",
+      "749.50",
+      "442.01",
+      "761.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "reservations",
+    "bbox": [
+      "254.62",
+      "753.70",
+      "340.64",
+      "764.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "pinot noir matt taylor komoredi vineyard 2016 99",
+    "bbox": [
+      "125.17",
+      "779.50",
+      "470.82",
+      "791.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "news + updates",
+    "bbox": [
+      "247.39",
+      "788.95",
+      "347.87",
+      "799.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.popinanyc.com/menu-1/#wine",
+    "bbox": [
+      "26.45",
+      "818.00",
+      "165.02",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/5",
+    "bbox": [
+      "558.31",
+      "818.00",
+      "568.53",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/12/22, 3:19 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "menus | Popina in Brooklyn, NY",
+    "bbox": [
+      "288.38",
+      "16.00",
+      "393.09",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "sangiovese caprili brunello di montalcino 2017 125",
+    "bbox": [
+      "114.38",
+      "29.50",
+      "481.62",
+      "41.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "red blend stella di campalto choltempo fiorello nv 155",
+    "bbox": [
+      "99.96",
+      "59.50",
+      "496.02",
+      "71.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "call (718) 222-1901",
+    "bbox": [
+      "229.30",
+      "717.70",
+      "365.94",
+      "728.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "reservations",
+    "bbox": [
+      "254.62",
+      "753.70",
+      "340.64",
+      "764.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "news + updates",
+    "bbox": [
+      "247.39",
+      "788.95",
+      "347.87",
+      "799.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.popinanyc.com/menu-1/#wine",
+    "bbox": [
+      "26.45",
+      "818.00",
+      "165.02",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/5",
+    "bbox": [
+      "558.31",
+      "818.00",
+      "568.53",
+      "826.00"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

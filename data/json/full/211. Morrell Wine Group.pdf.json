@@ -1,0 +1,5956 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/18/22, 8:55 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Wine Store - Morrell & Company",
+    "bbox": [
+      "294.00",
+      "15.70",
+      "409.14",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FREE NEW YORK DELIVERY *",
+    "bbox": [
+      "29.00",
+      "29.00",
+      "117.00",
+      "35.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINES",
+    "bbox": [
+      "89.00",
+      "90.00",
+      "109.97",
+      "96.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHAMPAGNE",
+    "bbox": [
+      "126.98",
+      "90.00",
+      "168.01",
+      "96.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPIRITS",
+    "bbox": [
+      "185.02",
+      "90.00",
+      "207.98",
+      "96.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "NEW ARRIVALS",
+    "bbox": [
+      "224.98",
+      "90.00",
+      "272.25",
+      "96.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CATALOG",
+    "bbox": [
+      "289.25",
+      "90.00",
+      "318.21",
+      "96.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "STORAGE",
+    "bbox": [
+      "335.21",
+      "90.00",
+      "364.49",
+      "96.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ABOUT US",
+    "bbox": [
+      "381.49",
+      "90.00",
+      "413.48",
+      "96.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "0 items - $0.00",
+    "bbox": [
+      "530.12",
+      "108.00",
+      "583.97",
+      "115.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "My Account",
+    "bbox": [
+      "73.00",
+      "121.50",
+      "108.76",
+      "127.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "|",
+    "bbox": [
+      "73.00",
+      "129.00",
+      "74.76",
+      "135.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Login",
+    "bbox": [
+      "73.00",
+      "136.50",
+      "90.03",
+      "142.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "|",
+    "bbox": [
+      "73.00",
+      "144.00",
+      "74.76",
+      "150.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Country",
+    "bbox": [
+      "88.00",
+      "153.00",
+      "113.36",
+      "159.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WWiinnee  SSttoorree",
+    "bbox": [
+      "179.50",
+      "151.00",
+      "241.78",
+      "162.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Austria",
+    "bbox": [
+      "88.00",
+      "163.50",
+      "109.15",
+      "169.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "France",
+    "bbox": [
+      "88.00",
+      "173.50",
+      "108.41",
+      "179.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Page 1 of 9912345678910>",
+    "bbox": [
+      "190.50",
+      "178.50",
+      "393.71",
+      "184.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "sort by:Alphabetical",
+    "bbox": [
+      "426.69",
+      "179.50",
+      "491.35",
+      "185.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Italy",
+    "bbox": [
+      "88.00",
+      "183.50",
+      "100.65",
+      "189.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Spain",
+    "bbox": [
+      "88.00",
+      "193.50",
+      "104.95",
+      "199.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "USA",
+    "bbox": [
+      "88.00",
+      "203.50",
+      "100.74",
+      "209.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "United States",
+    "bbox": [
+      "88.00",
+      "213.50",
+      "128.55",
+      "219.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Andremily Wines - Red Blend EABA",
+    "bbox": [
+      "278.50",
+      "212.00",
+      "421.46",
+      "220.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Andremily Wines - Red Blend EABA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Original price: $150.00",
+    "bbox": [
+      "441.00",
+      "212.50",
+      "506.59",
+      "218.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Show More",
+    "bbox": [
+      "88.00",
+      "223.50",
+      "121.71",
+      "229.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2018 (750ml)",
+    "bbox": [
+      "278.50",
+      "221.50",
+      "328.70",
+      "229.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "2018 (750ml)",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sale price:$126.00",
+    "bbox": [
+      "441.00",
+      "227.50",
+      "497.62",
+      "233.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "Sale pri",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WAJDV",
+    "bbox": [
+      "295.00",
+      "231.00",
+      "333.84",
+      "237.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "W",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Region",
+    "bbox": [
+      "88.00",
+      "239.00",
+      "110.28",
+      "245.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "959795",
+    "bbox": [
+      "295.44",
+      "237.00",
+      "336.06",
+      "244.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "237.00",
+      "460.31",
+      "243.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bordeaux",
+    "bbox": [
+      "88.00",
+      "249.50",
+      "116.99",
+      "255.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "EABA (an acronym for End All Be All) is Andremily'sAdd to Cart",
+    "bbox": [
+      "278.50",
+      "246.50",
+      "478.38",
+      "252.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Burgundy",
+    "bbox": [
+      "88.00",
+      "259.50",
+      "118.40",
+      "265.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "relatively new Rhone blend label. The 2018 EABA is a",
+    "bbox": [
+      "278.50",
+      "256.50",
+      "435.06",
+      "262.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "California",
+    "bbox": [
+      "88.00",
+      "269.50",
+      "116.35",
+      "275.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "blend of 59% Syrah 23% Mourvedre 15% Grenache",
+    "bbox": [
+      "278.50",
+      "266.50",
+      "425.56",
+      "272.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne",
+    "bbox": [
+      "88.00",
+      "279.50",
+      "125.65",
+      "285.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "and 3% Viognier coming from Bien Nacido vineyard",
+    "bbox": [
+      "278.50",
+      "276.50",
+      "433.05",
+      "282.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Piedmont",
+    "bbox": [
+      "88.00",
+      "289.50",
+      "118.23",
+      "295.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(Santa Maria) White Hawk... Read More",
+    "bbox": [
+      "278.50",
+      "286.50",
+      "395.83",
+      "292.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tuscany",
+    "bbox": [
+      "88.00",
+      "299.50",
+      "112.49",
+      "305.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Show More",
+    "bbox": [
+      "88.00",
+      "309.50",
+      "121.71",
+      "315.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Price Range",
+    "bbox": [
+      "88.00",
+      "325.00",
+      "125.93",
+      "331.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$10 - $25",
+    "bbox": [
+      "88.00",
+      "335.50",
+      "113.70",
+      "341.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bernard Moreau - Bourgogne Blanc",
+    "bbox": [
+      "278.50",
+      "339.00",
+      "421.74",
+      "347.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bernard Moreau - Bourgogne Blanc",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Original price: $50.00",
+    "bbox": [
+      "441.00",
+      "339.50",
+      "504.49",
+      "345.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$25 - $50",
+    "bbox": [
+      "88.00",
+      "345.50",
+      "114.99",
+      "351.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2019 (750ml)",
+    "bbox": [
+      "278.50",
+      "348.50",
+      "328.46",
+      "356.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "2019 (750ml)",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$50 - $75",
+    "bbox": [
+      "88.00",
+      "355.50",
+      "114.94",
+      "361.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WAV",
+    "bbox": [
+      "295.00",
+      "358.00",
+      "317.84",
+      "364.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "W",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sale price:$43.00",
+    "bbox": [
+      "441.00",
+      "354.50",
+      "495.61",
+      "360.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "Sale pr",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$75 - $100",
+    "bbox": [
+      "88.00",
+      "365.50",
+      "117.62",
+      "371.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "8888",
+    "bbox": [
+      "295.13",
+      "364.00",
+      "320.37",
+      "371.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "364.00",
+      "460.31",
+      "370.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Over $100",
+    "bbox": [
+      "88.00",
+      "375.50",
+      "117.54",
+      "381.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "The 2019 Bourgogne Chardonnay has a perfumed",
+    "bbox": [
+      "278.50",
+      "373.50",
+      "427.75",
+      "379.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "373.50",
+      "478.38",
+      "379.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "lime and citrus peel nose with tropical tones tucked",
+    "bbox": [
+      "278.50",
+      "383.50",
+      "433.79",
+      "389.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Varietal",
+    "bbox": [
+      "88.00",
+      "391.00",
+      "112.12",
+      "397.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "just underneath. The palate is well balanced with",
+    "bbox": [
+      "278.50",
+      "393.50",
+      "425.16",
+      "399.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bordeaux Blend",
+    "bbox": [
+      "88.00",
+      "401.50",
+      "136.45",
+      "407.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "fresh grapefruit and citrus peel on the entry, lightly",
+    "bbox": [
+      "278.50",
+      "403.50",
+      "430.94",
+      "409.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bordeaux Blends",
+    "bbox": [
+      "88.00",
+      "411.50",
+      "139.38",
+      "417.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "spiced with \u0000ne energy... Read More",
+    "bbox": [
+      "278.50",
+      "413.50",
+      "387.40",
+      "419.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cabernet Sauvignon",
+    "bbox": [
+      "88.00",
+      "421.50",
+      "149.66",
+      "427.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chardonnay",
+    "bbox": [
+      "88.00",
+      "431.50",
+      "124.91",
+      "437.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Nebbiolo",
+    "bbox": [
+      "88.00",
+      "441.50",
+      "115.39",
+      "447.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pinot Noir",
+    "bbox": [
+      "88.00",
+      "451.50",
+      "118.41",
+      "457.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Show More",
+    "bbox": [
+      "88.00",
+      "461.50",
+      "121.71",
+      "467.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bernard Moreau - Chassagne",
+    "bbox": [
+      "278.50",
+      "466.00",
+      "395.21",
+      "474.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bernard",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Original price: $70.00",
+    "bbox": [
+      "441.00",
+      "466.50",
+      "504.45",
+      "472.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Year",
+    "bbox": [
+      "88.00",
+      "477.00",
+      "101.68",
+      "483.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Montrachet Rouge 2019 (750ml)",
+    "bbox": [
+      "278.50",
+      "475.50",
+      "405.94",
+      "483.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Montrac",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sale price:$58.00",
+    "bbox": [
+      "441.00",
+      "481.50",
+      "495.50",
+      "487.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "Sale pr",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2015",
+    "bbox": [
+      "88.00",
+      "487.50",
+      "100.93",
+      "493.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WAJM",
+    "bbox": [
+      "295.00",
+      "485.00",
+      "327.62",
+      "491.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9188-90",
+    "bbox": [
+      "296.16",
+      "491.00",
+      "333.83",
+      "498.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "491.00",
+      "460.31",
+      "497.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2016",
+    "bbox": [
+      "88.00",
+      "497.50",
+      "101.19",
+      "503.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A beautiful wine Moreau's 2019 Chassagne-",
+    "bbox": [
+      "278.50",
+      "500.50",
+      "410.82",
+      "506.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "500.50",
+      "478.38",
+      "506.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2017",
+    "bbox": [
+      "88.00",
+      "507.50",
+      "101.07",
+      "513.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Montrachet Vieilles Vignes bursts with aromas of",
+    "bbox": [
+      "278.50",
+      "510.50",
+      "424.58",
+      "516.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2018",
+    "bbox": [
+      "88.00",
+      "517.50",
+      "101.36",
+      "523.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "rose petals spices and sweet berry fruit. Medium-",
+    "bbox": [
+      "278.50",
+      "520.50",
+      "425.62",
+      "526.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2019",
+    "bbox": [
+      "88.00",
+      "527.50",
+      "101.19",
+      "533.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "bodied lively and perfumed it's supple and melting",
+    "bbox": [
+      "278.50",
+      "530.50",
+      "431.49",
+      "536.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2020",
+    "bbox": [
+      "88.00",
+      "537.50",
+      "102.73",
+      "543.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "with succulent acids and a saline... Read More",
+    "bbox": [
+      "278.50",
+      "540.50",
+      "416.27",
+      "546.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Show More",
+    "bbox": [
+      "88.00",
+      "547.50",
+      "121.71",
+      "553.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Type",
+    "bbox": [
+      "88.00",
+      "563.00",
+      "103.03",
+      "569.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dessert",
+    "bbox": [
+      "88.00",
+      "573.50",
+      "110.99",
+      "579.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Madeira",
+    "bbox": [
+      "88.00",
+      "583.50",
+      "112.24",
+      "589.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Ports",
+    "bbox": [
+      "88.00",
+      "593.50",
+      "103.85",
+      "599.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bernard Moreau - Chassagne-",
+    "bbox": [
+      "278.50",
+      "593.00",
+      "398.35",
+      "601.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bernard Moreau - Chassagne-",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Original price: $115.00",
+    "bbox": [
+      "441.00",
+      "593.50",
+      "504.86",
+      "599.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Reds",
+    "bbox": [
+      "88.00",
+      "603.50",
+      "102.96",
+      "609.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Montrachet 2019 (750ml)",
+    "bbox": [
+      "278.50",
+      "602.50",
+      "377.35",
+      "610.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Montrachet 2019 (750ml)",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sale price:$94.00",
+    "bbox": [
+      "441.00",
+      "608.50",
+      "495.92",
+      "614.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "Sale pr",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rose",
+    "bbox": [
+      "88.00",
+      "613.50",
+      "102.65",
+      "619.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WAJM",
+    "bbox": [
+      "295.00",
+      "612.00",
+      "327.62",
+      "618.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "WAJM",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "M",
+            "answer_start": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "V",
+    "bbox": [
+      "352.16",
+      "612.00",
+      "356.34",
+      "618.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "V",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9091-9389-91",
+    "bbox": [
+      "295.14",
+      "618.00",
+      "363.74",
+      "625.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "618.00",
+      "460.31",
+      "624.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sherries",
+    "bbox": [
+      "88.00",
+      "623.50",
+      "112.26",
+      "629.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "The 2019 Chassagne-Montrachet Village wafts fromAdd to Cart",
+    "bbox": [
+      "278.50",
+      "627.50",
+      "478.38",
+      "633.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sparkling",
+    "bbox": [
+      "88.00",
+      "633.50",
+      "116.64",
+      "639.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "the glass with notes of orange oil white \u0000owers",
+    "bbox": [
+      "278.50",
+      "637.50",
+      "418.73",
+      "643.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Whites",
+    "bbox": [
+      "88.00",
+      "643.50",
+      "109.21",
+      "649.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Anjou pear mint and nutmeg. Medium to full-",
+    "bbox": [
+      "278.50",
+      "647.50",
+      "415.98",
+      "653.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Other Wine",
+    "bbox": [
+      "88.00",
+      "653.50",
+      "124.51",
+      "659.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "bodied satiny and layered it's bright and lively with",
+    "bbox": [
+      "278.50",
+      "657.50",
+      "430.37",
+      "663.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "\u0000ne concentration tangy acids... Read More",
+    "bbox": [
+      "278.50",
+      "667.50",
+      "408.58",
+      "673.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Catena Zapata - Malbec Argentino 2019Original price: $135.00",
+    "bbox": [
+      "278.50",
+      "720.00",
+      "506.01",
+      "728.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "gentino 2019Original price: $13",
+            "answer_start": 25
+          }
+        ],
+        "V": [
+          {
+            "text": "5.00",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(750ml)",
+    "bbox": [
+      "278.50",
+      "729.50",
+      "308.79",
+      "737.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(750ml)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sale price:$110.00",
+    "bbox": [
+      "441.00",
+      "735.50",
+      "496.55",
+      "741.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "Sale pri",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WAJS",
+    "bbox": [
+      "295.00",
+      "739.00",
+      "319.09",
+      "745.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9699",
+    "bbox": [
+      "295.29",
+      "745.00",
+      "320.21",
+      "752.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "745.00",
+      "460.31",
+      "751.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "#47 James Suckling Top 100 Wines of 2021",
+    "bbox": [
+      "278.50",
+      "753.50",
+      "404.97",
+      "759.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "754.50",
+      "478.38",
+      "760.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.morrellwine.com/wines/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "152.71",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/18/22, 8:55 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Wine Store - Morrell & Company",
+    "bbox": [
+      "294.00",
+      "15.70",
+      "409.14",
+      "23.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Wine Store - Morrell & Company",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "It feels like there was a big change in the 2019",
+    "bbox": [
+      "278.50",
+      "30.00",
+      "415.31",
+      "36.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Catena Zapata Malbec Argentino a year with a",
+    "bbox": [
+      "278.50",
+      "40.00",
+      "417.21",
+      "46.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "vibrant palate and very clean and focused aromas",
+    "bbox": [
+      "278.50",
+      "50.00",
+      "427.46",
+      "56.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "and \u0000avors. They \u0000ne-tuned the irrigation and",
+    "bbox": [
+      "278.50",
+      "60.00",
+      "415.77",
+      "66.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "viticulture and that seems to have... Read More",
+    "bbox": [
+      "278.50",
+      "70.00",
+      "419.79",
+      "76.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chacra - Chardonnay 2020 (750ml)",
+    "bbox": [
+      "278.50",
+      "130.50",
+      "417.02",
+      "138.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chacra - Chardonnay",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Original price: $99.00",
+    "bbox": [
+      "441.00",
+      "131.00",
+      "504.37",
+      "137.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "JS",
+    "bbox": [
+      "296.40",
+      "140.00",
+      "303.09",
+      "146.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "JS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "97",
+    "bbox": [
+      "295.36",
+      "146.00",
+      "304.13",
+      "153.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sale price:$89.00",
+    "bbox": [
+      "441.00",
+      "146.00",
+      "495.61",
+      "152.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "Sale pr",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "There’s real direction and clarity to this white withQty:  1",
+    "bbox": [
+      "278.50",
+      "155.50",
+      "460.31",
+      "161.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "sliced dried apples crushed stones and minerals onAdd to Cart",
+    "bbox": [
+      "278.50",
+      "165.00",
+      "478.38",
+      "171.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "the nose as well as hints of biscuit and praline. Some",
+    "bbox": [
+      "278.50",
+      "175.50",
+      "435.65",
+      "181.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "honeysuckle and lemon-grass undertones too. It’s",
+    "bbox": [
+      "278.50",
+      "185.50",
+      "427.56",
+      "191.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "full-bodied... Read More",
+    "bbox": [
+      "278.50",
+      "195.50",
+      "350.33",
+      "201.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Champagneux - Cote-Rotie Les",
+    "bbox": [
+      "278.50",
+      "248.00",
+      "403.77",
+      "256.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagneux - Cote-Rotie Les",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Original price: $125.00",
+    "bbox": [
+      "441.00",
+      "248.50",
+      "506.10",
+      "254.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Grandes Places 2016 (750ml)",
+    "bbox": [
+      "278.50",
+      "257.50",
+      "391.74",
+      "265.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grandes Places 2016 (750ml)",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sale price:$101.00",
+    "bbox": [
+      "441.00",
+      "263.50",
+      "496.60",
+      "269.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "Sale pri",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "JD",
+    "bbox": [
+      "295.77",
+      "267.00",
+      "303.73",
+      "273.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "JD",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "96",
+    "bbox": [
+      "295.29",
+      "273.00",
+      "304.21",
+      "280.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "273.00",
+      "460.31",
+      "279.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Made from 100% Syrah aged two years in barrel theAdd to Cart",
+    "bbox": [
+      "278.50",
+      "282.50",
+      "478.38",
+      "288.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2016 Côte Rôtie Les Grandes Places is a sensational",
+    "bbox": [
+      "278.50",
+      "292.50",
+      "430.46",
+      "298.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "effort from one of the great terroirs in the Côte",
+    "bbox": [
+      "278.50",
+      "302.50",
+      "417.79",
+      "308.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Brune side of the appellation. Loaded with black",
+    "bbox": [
+      "278.50",
+      "312.50",
+      "423.57",
+      "318.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "and blue... Read More",
+    "bbox": [
+      "278.50",
+      "322.50",
+      "344.12",
+      "328.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Champet - Cote-Rotie Vialliere 2019",
+    "bbox": [
+      "278.50",
+      "375.00",
+      "419.62",
+      "383.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champet - Cote-Rotie Vialliere",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Current price:$75.00",
+    "bbox": [
+      "441.00",
+      "375.50",
+      "505.61",
+      "381.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "Curren",
+            "answer_start": 0
+          },
+          {
+            "text": "00",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "(750ml)",
+    "bbox": [
+      "278.50",
+      "384.50",
+      "308.79",
+      "392.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(750ml)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "385.00",
+      "460.31",
+      "391.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WA",
+    "bbox": [
+      "295.00",
+      "394.00",
+      "305.75",
+      "400.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "394.50",
+      "478.38",
+      "400.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "95",
+    "bbox": [
+      "295.44",
+      "400.00",
+      "304.06",
+      "407.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Peppered blueberries and raspberries mark the",
+    "bbox": [
+      "278.50",
+      "409.50",
+      "420.80",
+      "415.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "nose of the 2019 Cote Rotie la Vialliere the",
+    "bbox": [
+      "278.50",
+      "419.50",
+      "403.13",
+      "425.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "latestâ€”and most impressiveâ€”release from this",
+    "bbox": [
+      "278.50",
+      "429.50",
+      "428.72",
+      "435.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "historic domaine. Vaguely \u0000oral notes hints of black",
+    "bbox": [
+      "278.50",
+      "439.50",
+      "432.30",
+      "445.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "olives and licorice add complexity... Read More",
+    "bbox": [
+      "278.50",
+      "449.50",
+      "418.03",
+      "455.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Château Canon-La Gaffelière - St.-",
+    "bbox": [
+      "278.50",
+      "502.00",
+      "413.59",
+      "510.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Château Canon-La Gaffelière - St.-",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Original price: $150.00",
+    "bbox": [
+      "441.00",
+      "502.50",
+      "506.59",
+      "508.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Emilion 2016 (750ml)",
+    "bbox": [
+      "278.50",
+      "511.50",
+      "361.28",
+      "519.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Emilion 2016 (750ml)",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sale price:$134.00",
+    "bbox": [
+      "441.00",
+      "517.50",
+      "498.00",
+      "523.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "Sale pri",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WSWEWAJSV",
+    "bbox": [
+      "295.00",
+      "521.00",
+      "365.84",
+      "527.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "WSWEWAJSV",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "WEW",
+            "answer_start": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "9595959696",
+    "bbox": [
+      "295.44",
+      "527.00",
+      "368.21",
+      "534.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "527.00",
+      "460.31",
+      "533.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Medium to deep garnet-purple colored the 2018",
+    "bbox": [
+      "278.50",
+      "536.50",
+      "422.92",
+      "542.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "536.50",
+      "478.38",
+      "542.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Canon la Gaffeliere out of the gate delivers a",
+    "bbox": [
+      "278.50",
+      "546.50",
+      "410.85",
+      "552.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "seductive nose of plum preserves kirsch and Black",
+    "bbox": [
+      "278.50",
+      "556.50",
+      "429.64",
+      "562.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Forest cake with nuances of lilacs underbrush",
+    "bbox": [
+      "278.50",
+      "566.50",
+      "415.78",
+      "572.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Indian spices and dusty soil. The medium...",
+    "bbox": [
+      "278.50",
+      "576.50",
+      "407.66",
+      "582.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Read More",
+    "bbox": [
+      "278.50",
+      "586.50",
+      "312.16",
+      "592.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Château Grand-Puy-Lacoste - PauillacOriginal price: $145.00",
+    "bbox": [
+      "278.50",
+      "639.00",
+      "506.64",
+      "647.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ste - PauillacOriginal price: $145.00",
+            "answer_start": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2016 (750ml)",
+    "bbox": [
+      "278.50",
+      "648.50",
+      "328.46",
+      "656.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "2016 (750ml)",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sale price:$105.00",
+    "bbox": [
+      "441.00",
+      "654.50",
+      "497.84",
+      "660.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "Sale pri",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WSWEWADJSV",
+    "bbox": [
+      "295.00",
+      "658.00",
+      "381.84",
+      "664.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "W",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "949194+969795+",
+    "bbox": [
+      "295.11",
+      "664.00",
+      "386.32",
+      "671.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "664.00",
+      "460.31",
+      "670.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "The deep garnet-purple colored 2016 Grand-Puy-",
+    "bbox": [
+      "278.50",
+      "672.50",
+      "425.19",
+      "678.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "673.50",
+      "478.38",
+      "679.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Lacoste gives up pure kirsch and red and black",
+    "bbox": [
+      "278.50",
+      "680.00",
+      "419.14",
+      "686.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "currants with violets and baking spices. Medium-",
+    "bbox": [
+      "278.50",
+      "687.50",
+      "425.52",
+      "693.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "bodied \u0000rm and grainy it's very expressive with good",
+    "bbox": [
+      "278.50",
+      "695.00",
+      "435.78",
+      "701.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "concentration and length. Read... Read More",
+    "bbox": [
+      "278.50",
+      "702.50",
+      "412.69",
+      "708.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Château Pavie-Macquin - St.-Emilion",
+    "bbox": [
+      "278.50",
+      "743.50",
+      "425.17",
+      "751.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Château Pavie-Macquin - St.-Emilion",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Original price: $135.00",
+    "bbox": [
+      "441.00",
+      "744.00",
+      "506.01",
+      "750.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2016 (750ml)",
+    "bbox": [
+      "278.50",
+      "753.00",
+      "328.46",
+      "761.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "2016 (750ml)",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.morrellwine.com/wines/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "152.71",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/18/22, 8:55 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Wine Store - Morrell & Company",
+    "bbox": [
+      "294.00",
+      "15.70",
+      "409.14",
+      "23.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Wine Store - Morrell & Company",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WSWEWAJDJSV",
+    "bbox": [
+      "295.00",
+      "28.50",
+      "381.84",
+      "34.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sale price:$103.00",
+    "bbox": [
+      "441.00",
+      "29.00",
+      "497.76",
+      "35.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "Sale pri",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "95969698+9798",
+    "bbox": [
+      "295.44",
+      "34.50",
+      "384.29",
+      "41.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "38.50",
+      "460.31",
+      "44.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Deep garnet-purple in color the 2016 Pavie Macquin",
+    "bbox": [
+      "278.50",
+      "44.00",
+      "434.29",
+      "50.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "48.00",
+      "478.38",
+      "54.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "charges out of the glass with gregarious black",
+    "bbox": [
+      "278.50",
+      "54.00",
+      "416.63",
+      "60.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "cherries warm blackberries and wild blueberries",
+    "bbox": [
+      "278.50",
+      "64.00",
+      "422.59",
+      "70.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "scents followed up by loads of red roses baking",
+    "bbox": [
+      "278.50",
+      "74.00",
+      "419.48",
+      "80.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "spices cedar chest and unsmoked... Read More",
+    "bbox": [
+      "278.50",
+      "84.00",
+      "419.64",
+      "90.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Comando G - La Bruja De Rozas",
+    "bbox": [
+      "278.50",
+      "136.50",
+      "405.80",
+      "144.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Comando G - La Bruja De Rozas",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Original price: $40.00",
+    "bbox": [
+      "441.00",
+      "137.00",
+      "505.12",
+      "143.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Garnacha 2020 (750ml)",
+    "bbox": [
+      "278.50",
+      "146.00",
+      "371.37",
+      "154.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Garnacha 2020 (750ml)",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sale price:$34.00",
+    "bbox": [
+      "441.00",
+      "152.00",
+      "495.69",
+      "158.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "Sale pr",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WA",
+    "bbox": [
+      "295.00",
+      "155.50",
+      "305.75",
+      "161.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "WA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "94",
+    "bbox": [
+      "295.11",
+      "161.50",
+      "304.39",
+      "168.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "161.50",
+      "460.31",
+      "167.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "The \u0000rst red to be bottled and sold is the 2020 La",
+    "bbox": [
+      "278.50",
+      "171.00",
+      "424.55",
+      "177.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "171.00",
+      "478.38",
+      "177.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bruja de Rozas which feels a little more reductive",
+    "bbox": [
+      "278.50",
+      "181.00",
+      "425.78",
+      "187.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "this year. The grapes were picked before the",
+    "bbox": [
+      "278.50",
+      "191.00",
+      "410.36",
+      "197.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "torrential rains so the wine shows a little riper than",
+    "bbox": [
+      "278.50",
+      "201.00",
+      "432.71",
+      "207.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "the wines that were picked... Read More",
+    "bbox": [
+      "278.50",
+      "211.00",
+      "398.86",
+      "217.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Domaine Arlaud - Clos St Denis GrandCurrent price:$359.00",
+    "bbox": [
+      "278.50",
+      "263.50",
+      "509.27",
+      "271.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Arlaud - Clos St Denis GrandCurrent",
+            "answer_start": 8
+          }
+        ],
+        "P": [
+          {
+            "text": "Domaine",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cru 2018 (750ml)",
+    "bbox": [
+      "278.50",
+      "273.00",
+      "345.12",
+      "281.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cru 2018 (750ml)",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "273.50",
+      "460.31",
+      "279.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BH",
+    "bbox": [
+      "302.55",
+      "282.50",
+      "311.95",
+      "288.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BH",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "BH",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "D",
+    "bbox": [
+      "328.27",
+      "282.50",
+      "333.23",
+      "288.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "D",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "JM",
+    "bbox": [
+      "349.88",
+      "282.50",
+      "358.62",
+      "288.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "JM",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "V",
+    "bbox": [
+      "383.16",
+      "282.50",
+      "387.34",
+      "288.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "V",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "283.00",
+      "478.38",
+      "289.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "89-919793-9795-97",
+    "bbox": [
+      "297.76",
+      "288.50",
+      "395.30",
+      "295.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "An appealingly spicy nose consists primarily of violet",
+    "bbox": [
+      "278.50",
+      "298.00",
+      "435.30",
+      "304.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "and decidedly ripe black cherry aromas. The",
+    "bbox": [
+      "278.50",
+      "308.00",
+      "410.67",
+      "314.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "mouthfeel of the medium weight \u0000avors is",
+    "bbox": [
+      "278.50",
+      "318.00",
+      "406.35",
+      "324.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "surprisingly supple and pliant and while the \u0000nish",
+    "bbox": [
+      "278.50",
+      "328.00",
+      "428.04",
+      "334.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "offers excellent intensity it is... Read More",
+    "bbox": [
+      "278.50",
+      "338.00",
+      "401.92",
+      "344.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Domaine Du Pelican (d'Angerville) -",
+    "bbox": [
+      "278.50",
+      "390.50",
+      "420.92",
+      "398.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Du Pelican (d'Angerville) -",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Original price: $69.00",
+    "bbox": [
+      "441.00",
+      "391.00",
+      "504.43",
+      "397.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chardonnay En Barbi 2018 (750ml)",
+    "bbox": [
+      "278.50",
+      "400.00",
+      "416.44",
+      "408.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay En Barbi 2018 (750ml)",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sale price:$60.00",
+    "bbox": [
+      "441.00",
+      "406.00",
+      "495.72",
+      "412.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "Sale pr",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WA",
+    "bbox": [
+      "301.87",
+      "409.50",
+      "312.63",
+      "415.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "WA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "V",
+    "bbox": [
+      "328.66",
+      "409.50",
+      "332.84",
+      "415.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "V",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "90-9195",
+    "bbox": [
+      "297.70",
+      "415.50",
+      "335.06",
+      "422.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "415.50",
+      "460.31",
+      "421.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "A Chardonnay from a plot on pure marl soils the",
+    "bbox": [
+      "278.50",
+      "425.00",
+      "422.49",
+      "431.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "425.00",
+      "478.38",
+      "431.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2018 Arbois En Barbi Chardonnay has a smoky nose",
+    "bbox": [
+      "278.50",
+      "435.00",
+      "432.74",
+      "441.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "and strong minerality. It shows some",
+    "bbox": [
+      "278.50",
+      "445.00",
+      "388.64",
+      "451.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "reductive/sulfur notes and the nose is not easy to",
+    "bbox": [
+      "278.50",
+      "455.00",
+      "424.95",
+      "461.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "read but the palate shows quite serious and...",
+    "bbox": [
+      "278.50",
+      "465.00",
+      "415.10",
+      "471.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Read More",
+    "bbox": [
+      "278.50",
+      "475.00",
+      "312.16",
+      "481.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Domaine Huet - Vouvray Sec Le MontOriginal price: $49.00",
+    "bbox": [
+      "278.50",
+      "527.50",
+      "504.75",
+      "535.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ec Le MontOriginal price: $49.00",
+            "answer_start": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2020 (750ml)",
+    "bbox": [
+      "278.50",
+      "537.00",
+      "330.52",
+      "545.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "2020 (750ml)",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020 (",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sale price:$43.00",
+    "bbox": [
+      "441.00",
+      "543.00",
+      "495.61",
+      "549.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "S",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WAVVFC",
+    "bbox": [
+      "295.00",
+      "546.50",
+      "339.83",
+      "552.50"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "WA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "959694+",
+    "bbox": [
+      "295.44",
+      "552.50",
+      "340.52",
+      "559.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "552.50",
+      "460.31",
+      "558.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "The only dry wine from the vintage is the 2020",
+    "bbox": [
+      "278.50",
+      "562.00",
+      "420.46",
+      "568.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "562.00",
+      "478.38",
+      "568.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Vouvray Le Mont Sec whose tank sample shows a",
+    "bbox": [
+      "278.50",
+      "572.00",
+      "426.41",
+      "578.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "classy pure precise and chalky/lemony bouquet with",
+    "bbox": [
+      "278.50",
+      "582.00",
+      "435.79",
+      "588.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "bright and perfectly healthy fruit and some herbal",
+    "bbox": [
+      "278.50",
+      "592.00",
+      "428.78",
+      "598.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "as well as yeasty aromas. On the... Read More",
+    "bbox": [
+      "278.50",
+      "602.00",
+      "413.69",
+      "608.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Dominique Lafon - Puligny MontrachetCurrent price:$225.00",
+    "bbox": [
+      "278.50",
+      "654.50",
+      "509.13",
+      "662.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ue Lafon - Puligny MontrachetCurrent",
+            "answer_start": 7
+          }
+        ],
+        "P": [
+          {
+            "text": "Dominiq",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "1er Cru Champgain 2018 (750ml)",
+    "bbox": [
+      "278.50",
+      "664.00",
+      "407.80",
+      "672.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "1er Cru Champgain 2018 (750ml)",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "664.50",
+      "460.31",
+      "670.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "JM",
+    "bbox": [
+      "302.88",
+      "673.50",
+      "311.62",
+      "679.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "JM",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "674.00",
+      "478.38",
+      "680.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "91-94",
+    "bbox": [
+      "297.67",
+      "679.50",
+      "316.83",
+      "686.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Clear fresh colour a little oak and a little light fruit.",
+    "bbox": [
+      "278.50",
+      "689.00",
+      "427.33",
+      "695.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Very discreet. There is a superb sense of graceful",
+    "bbox": [
+      "278.50",
+      "699.00",
+      "423.24",
+      "705.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "fruit on the palate creamy texture with just enough",
+    "bbox": [
+      "278.50",
+      "709.00",
+      "432.10",
+      "715.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "acidity nothing lean or dilute here.",
+    "bbox": [
+      "278.50",
+      "719.00",
+      "381.34",
+      "725.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "jm",
+    "bbox": [
+      "278.50",
+      "738.00",
+      "286.51",
+      "744.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.morrellwine.com/wines/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "152.71",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/18/22, 8:55 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Wine Store - Morrell & Company",
+    "bbox": [
+      "294.00",
+      "15.70",
+      "409.14",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Dominus Estate - Napa Valley 2017",
+    "bbox": [
+      "278.50",
+      "37.00",
+      "416.10",
+      "45.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Original price: $299.00",
+    "bbox": [
+      "441.00",
+      "37.50",
+      "507.84",
+      "43.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "(750ml)",
+    "bbox": [
+      "278.50",
+      "46.50",
+      "308.79",
+      "54.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sale price:$246.00",
+    "bbox": [
+      "441.00",
+      "52.50",
+      "499.40",
+      "58.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "WEWAV",
+    "bbox": [
+      "295.00",
+      "56.00",
+      "333.84",
+      "62.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "969798+",
+    "bbox": [
+      "295.29",
+      "62.00",
+      "338.77",
+      "69.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "62.00",
+      "460.31",
+      "68.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Dominus Estate is the Napa Valley property of",
+    "bbox": [
+      "278.50",
+      "70.50",
+      "415.91",
+      "76.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "71.50",
+      "478.38",
+      "77.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Bordeaux producer Christian Moueix. The wine",
+    "bbox": [
+      "278.50",
+      "78.00",
+      "420.31",
+      "84.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Dominus and Napanook are both estate bottled",
+    "bbox": [
+      "278.50",
+      "85.50",
+      "422.72",
+      "91.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "from the historic Napanook Vineyard. Located at the",
+    "bbox": [
+      "278.50",
+      "93.00",
+      "435.29",
+      "99.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "foothills of the Mayacamas the vineyard...",
+    "bbox": [
+      "278.50",
+      "100.50",
+      "402.78",
+      "106.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Read More",
+    "bbox": [
+      "278.50",
+      "108.00",
+      "312.16",
+      "114.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Giuseppe Quintarelli - Valpolicella",
+    "bbox": [
+      "278.50",
+      "149.00",
+      "413.03",
+      "157.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Original price: $120.00",
+    "bbox": [
+      "441.00",
+      "149.50",
+      "506.59",
+      "155.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Classico Superiore 2013 (750ml)",
+    "bbox": [
+      "278.50",
+      "158.50",
+      "403.13",
+      "166.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sale price:$101.00",
+    "bbox": [
+      "441.00",
+      "164.50",
+      "496.60",
+      "170.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "V",
+    "bbox": [
+      "297.66",
+      "168.00",
+      "301.84",
+      "174.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "90",
+    "bbox": [
+      "295.14",
+      "174.00",
+      "304.35",
+      "181.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "174.00",
+      "460.31",
+      "180.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Giuseppe Quintarelli is a legendary estate located inAdd to Cart",
+    "bbox": [
+      "278.50",
+      "182.50",
+      "478.38",
+      "189.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "the hills north of Verona in the heart of the",
+    "bbox": [
+      "278.50",
+      "190.00",
+      "406.12",
+      "196.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Valpolicella appellation. It is regarded by many as",
+    "bbox": [
+      "278.50",
+      "197.50",
+      "425.83",
+      "203.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "the greatest of all Amarone producers and is known",
+    "bbox": [
+      "278.50",
+      "205.00",
+      "433.91",
+      "211.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "for its traditional deep... Read More",
+    "bbox": [
+      "278.50",
+      "212.50",
+      "383.49",
+      "218.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Hdv Hyde De Villaine - Chardonnay",
+    "bbox": [
+      "278.50",
+      "253.50",
+      "418.94",
+      "261.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Original price: $95.00",
+    "bbox": [
+      "441.00",
+      "254.00",
+      "504.18",
+      "260.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Hyde Vineyard Carneros 2018 (750ml)",
+    "bbox": [
+      "278.50",
+      "263.00",
+      "426.99",
+      "271.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sale price:$75.00",
+    "bbox": [
+      "441.00",
+      "269.00",
+      "495.04",
+      "275.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "JSV",
+    "bbox": [
+      "296.40",
+      "272.50",
+      "317.84",
+      "278.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "9894",
+    "bbox": [
+      "295.21",
+      "278.50",
+      "320.39",
+      "285.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "278.50",
+      "460.31",
+      "284.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Opulent aromas of cooked apple lemon rind lightAdd to Cart",
+    "bbox": [
+      "278.50",
+      "288.00",
+      "478.38",
+      "294.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "praline and stone. Full-bodied with linear and lively",
+    "bbox": [
+      "278.50",
+      "298.00",
+      "430.91",
+      "304.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "acidity that runs through the wine. Energetic and",
+    "bbox": [
+      "278.50",
+      "308.00",
+      "429.77",
+      "314.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "bright with tightness and structure. Steely.",
+    "bbox": [
+      "278.50",
+      "318.00",
+      "406.34",
+      "324.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Drinkable now but better in 2023.... Read More",
+    "bbox": [
+      "278.50",
+      "328.00",
+      "417.82",
+      "334.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Henri Gouges - Nuits St Georges 1er",
+    "bbox": [
+      "278.50",
+      "380.50",
+      "420.60",
+      "388.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Original price: $135.00",
+    "bbox": [
+      "441.00",
+      "381.00",
+      "506.01",
+      "387.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cru Clos Des Porrets St. Georges 2019",
+    "bbox": [
+      "278.50",
+      "390.00",
+      "427.35",
+      "398.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sale price:$110.00",
+    "bbox": [
+      "441.00",
+      "396.00",
+      "496.55",
+      "402.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "(750ml)",
+    "bbox": [
+      "278.50",
+      "399.50",
+      "308.79",
+      "407.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "405.50",
+      "460.31",
+      "411.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "WSBHJM",
+    "bbox": [
+      "295.00",
+      "409.00",
+      "351.12",
+      "415.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "V",
+    "bbox": [
+      "368.16",
+      "409.00",
+      "372.34",
+      "415.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "9389-929190-92",
+    "bbox": [
+      "295.48",
+      "415.00",
+      "380.50",
+      "422.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "415.00",
+      "478.38",
+      "421.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Graphite black cherry blackberry and baking spices",
+    "bbox": [
+      "278.50",
+      "424.50",
+      "432.28",
+      "430.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "are the hallmarks of this opulent red which is",
+    "bbox": [
+      "278.50",
+      "434.50",
+      "413.53",
+      "440.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "backed by a spine of dusty tannins that leave a",
+    "bbox": [
+      "278.50",
+      "444.50",
+      "418.36",
+      "450.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "tactile feel on the long \u0000nish. Best from 2024",
+    "bbox": [
+      "278.50",
+      "454.50",
+      "412.26",
+      "460.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "through 2040. 20 cases imported.... Read More",
+    "bbox": [
+      "278.50",
+      "464.50",
+      "418.48",
+      "470.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Il Marroneto - Brunello Di MontalcinoOriginal price: $1,859.00",
+    "bbox": [
+      "278.50",
+      "517.00",
+      "511.44",
+      "525.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Riserva Madonna Delle Grazie 2013",
+    "bbox": [
+      "278.50",
+      "526.50",
+      "416.75",
+      "534.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sale price:$1,202.00",
+    "bbox": [
+      "441.00",
+      "532.50",
+      "503.02",
+      "538.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "(1.5L)",
+    "bbox": [
+      "278.50",
+      "536.00",
+      "297.67",
+      "544.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "542.00",
+      "460.31",
+      "548.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "WEWAV",
+    "bbox": [
+      "295.00",
+      "545.50",
+      "333.84",
+      "551.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "989999",
+    "bbox": [
+      "295.21",
+      "551.50",
+      "336.21",
+      "558.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "551.50",
+      "478.38",
+      "557.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "The stunning 2013 Brunello di Montalcino Riserva",
+    "bbox": [
+      "278.50",
+      "561.00",
+      "426.17",
+      "567.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Madonna Delle Grazie is a protagonist of the",
+    "bbox": [
+      "278.50",
+      "571.00",
+      "411.33",
+      "577.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "vintage. This growing season has produced a",
+    "bbox": [
+      "278.50",
+      "581.00",
+      "413.13",
+      "587.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "collection of iconic wines and to my palate none is",
+    "bbox": [
+      "278.50",
+      "591.00",
+      "428.95",
+      "597.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "more impressive than this. This is the... Read More",
+    "bbox": [
+      "278.50",
+      "601.00",
+      "428.41",
+      "607.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Lopez De Heredia - Vina Tondonia RiojaCurrent price:$59.00",
+    "bbox": [
+      "278.50",
+      "653.50",
+      "505.80",
+      "661.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Reserva 2008 (750ml)",
+    "bbox": [
+      "278.50",
+      "663.00",
+      "364.80",
+      "671.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "663.50",
+      "460.31",
+      "669.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "WAJSTAVVFC",
+    "bbox": [
+      "295.00",
+      "672.50",
+      "371.83",
+      "678.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "673.00",
+      "478.38",
+      "679.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "9595979493+",
+    "bbox": [
+      "295.44",
+      "678.50",
+      "372.12",
+      "685.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "The nose of the 2008 ViÃ±a Tondonia Reserva is very",
+    "bbox": [
+      "278.50",
+      "688.00",
+      "434.96",
+      "694.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "elegant fresh and with an herbal twist starting to",
+    "bbox": [
+      "278.50",
+      "698.00",
+      "425.26",
+      "704.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "show the complexity of the aged wines that are",
+    "bbox": [
+      "278.50",
+      "708.00",
+      "420.95",
+      "714.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "sometimes still too young when they are released",
+    "bbox": [
+      "278.50",
+      "718.00",
+      "427.40",
+      "724.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "10+ years from the vintage!... Read More",
+    "bbox": [
+      "278.50",
+      "728.00",
+      "397.83",
+      "734.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.morrellwine.com/wines/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "152.71",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/18/22, 8:55 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Wine Store - Morrell & Company",
+    "bbox": [
+      "294.00",
+      "15.70",
+      "409.14",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Louis Jadot - Gevrey-Chambertin ClosCurrent price:$475.00",
+    "bbox": [
+      "278.50",
+      "45.50",
+      "509.62",
+      "53.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "St.-Jacques 2017 (1.5L)",
+    "bbox": [
+      "278.50",
+      "55.00",
+      "364.93",
+      "63.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "55.50",
+      "460.31",
+      "61.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "WEWABHJM",
+    "bbox": [
+      "295.00",
+      "64.50",
+      "367.12",
+      "70.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "V",
+    "bbox": [
+      "384.16",
+      "64.50",
+      "388.34",
+      "70.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "65.00",
+      "478.38",
+      "71.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "9592-94+939391-93",
+    "bbox": [
+      "295.44",
+      "70.50",
+      "395.46",
+      "77.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "The 2017 Gevrey-Chambertin 1er Cru Clos Saint-",
+    "bbox": [
+      "278.50",
+      "80.00",
+      "420.69",
+      "86.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Jacques (Domaine Louis Jadot) unfurls in the glass",
+    "bbox": [
+      "278.50",
+      "90.00",
+      "430.49",
+      "96.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "with an incipiently complex bouquet of sweet red",
+    "bbox": [
+      "278.50",
+      "100.00",
+      "427.21",
+      "106.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "berries coffee roast raw cocoa candied peel and",
+    "bbox": [
+      "278.50",
+      "110.00",
+      "420.93",
+      "116.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "cedary new wood. On the palate the... Read More",
+    "bbox": [
+      "278.50",
+      "120.00",
+      "426.23",
+      "126.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Louis Jadot (Domaine Gagey) - Clos",
+    "bbox": [
+      "278.50",
+      "172.50",
+      "420.33",
+      "180.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Original price: $379.00",
+    "bbox": [
+      "441.00",
+      "173.00",
+      "507.57",
+      "179.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Saint Denis Grand Cru 2016 (750ml)",
+    "bbox": [
+      "278.50",
+      "182.00",
+      "419.10",
+      "190.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sale price:$355.00",
+    "bbox": [
+      "441.00",
+      "188.00",
+      "498.49",
+      "194.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "WA",
+    "bbox": [
+      "301.87",
+      "191.50",
+      "312.63",
+      "197.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BH",
+    "bbox": [
+      "333.55",
+      "191.50",
+      "342.95",
+      "197.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "V",
+    "bbox": [
+      "367.16",
+      "191.50",
+      "371.34",
+      "197.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "VFC",
+    "bbox": [
+      "388.67",
+      "191.50",
+      "400.83",
+      "197.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "93-9592-9592-9594",
+    "bbox": [
+      "297.32",
+      "197.50",
+      "399.39",
+      "204.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "197.50",
+      "460.31",
+      "203.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "\"The 2016 Clos Saint-Denis Grand Cru has a clean",
+    "bbox": [
+      "278.50",
+      "207.00",
+      "424.34",
+      "213.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "207.00",
+      "478.38",
+      "213.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "and pure bouquet with ample smoke-tinged",
+    "bbox": [
+      "278.50",
+      "217.00",
+      "413.17",
+      "223.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "blackberry and raspberry fruit controlled and",
+    "bbox": [
+      "278.50",
+      "227.00",
+      "413.22",
+      "233.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "focused the mineral scents emerging with aeration.",
+    "bbox": [
+      "278.50",
+      "237.00",
+      "433.23",
+      "243.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "The palate is medium-bodied with \u0000ligree...",
+    "bbox": [
+      "278.50",
+      "247.00",
+      "409.62",
+      "253.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Read More",
+    "bbox": [
+      "278.50",
+      "257.00",
+      "312.16",
+      "263.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Louis Roederer - Collection 242 Brut",
+    "bbox": [
+      "278.50",
+      "309.50",
+      "422.31",
+      "317.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Original price: $65.00",
+    "bbox": [
+      "441.00",
+      "310.00",
+      "504.24",
+      "316.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Champagne (Gift Box) NV (750ml)",
+    "bbox": [
+      "278.50",
+      "319.00",
+      "414.13",
+      "327.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sale price:$55.00",
+    "bbox": [
+      "441.00",
+      "325.00",
+      "495.02",
+      "331.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "WSWAJSVVFC",
+    "bbox": [
+      "295.00",
+      "328.50",
+      "371.83",
+      "334.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "9293+949293",
+    "bbox": [
+      "295.47",
+      "334.50",
+      "370.02",
+      "341.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Qty:  1",
+    "bbox": [
+      "441.00",
+      "334.50",
+      "460.31",
+      "340.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "#76 Wine Spectator Top 100 of 2021",
+    "bbox": [
+      "278.50",
+      "343.00",
+      "387.08",
+      "349.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Add to Cart",
+    "bbox": [
+      "444.00",
+      "344.00",
+      "478.38",
+      "350.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Lettie Teague, The Wall Street Journal: A great",
+    "bbox": [
+      "278.50",
+      "350.50",
+      "416.13",
+      "356.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Champagne producer rarely changes its non-",
+    "bbox": [
+      "278.50",
+      "358.00",
+      "414.90",
+      "364.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "vintage cuvée—the signature of the house. So when",
+    "bbox": [
+      "278.50",
+      "365.50",
+      "434.79",
+      "371.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Champagne Louis Roederer stopped making its",
+    "bbox": [
+      "278.50",
+      "373.00",
+      "422.72",
+      "379.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "highly regarded Brut Premier,... Read More",
+    "bbox": [
+      "278.50",
+      "380.50",
+      "407.40",
+      "386.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Page 1 of 9912345678910>",
+    "bbox": [
+      "190.50",
+      "419.50",
+      "393.71",
+      "425.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "sort by:Alphabetical",
+    "bbox": [
+      "426.69",
+      "420.50",
+      "491.35",
+      "426.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "MORRELL WINE & SPIRITS MERCHANT",
+    "bbox": [
+      "73.00",
+      "453.00",
+      "192.96",
+      "459.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "1 ROCKEFELLER PLAZA",
+    "bbox": [
+      "73.00",
+      "460.50",
+      "143.80",
+      "466.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "NEW YORK, NY 10020",
+    "bbox": [
+      "73.00",
+      "468.00",
+      "137.92",
+      "474.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(212) 688-9370",
+    "bbox": [
+      "73.00",
+      "475.50",
+      "115.39",
+      "481.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CONTACT |  TERMS & CONDITIONS |  PRIVACY POLICY |  LEGAL NOTICE |  POWERED BY WINEFETCH",
+    "bbox": [
+      "73.00",
+      "483.00",
+      "380.71",
+      "489.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.morrellwine.com/wines/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "152.71",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

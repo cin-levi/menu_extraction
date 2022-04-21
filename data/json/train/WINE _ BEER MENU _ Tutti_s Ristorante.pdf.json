@@ -1,0 +1,2712 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/12/22, 4:20 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE & BEER MENU | Tutti's Ristorante",
+    "bbox": [
+      "395.02",
+      "16.00",
+      "532.43",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HOME",
+    "bbox": [
+      "147.04",
+      "45.63",
+      "178.94",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MENUS",
+    "bbox": [
+      "273.62",
+      "45.63",
+      "310.37",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DELIVERY OPTIONS",
+    "bbox": [
+      "373.20",
+      "45.63",
+      "468.79",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ABOUT TUTTI'S",
+    "bbox": [
+      "512.46",
+      "45.63",
+      "587.53",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CONTACT",
+    "bbox": [
+      "653.87",
+      "45.63",
+      "704.12",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "W",
+    "bbox": [
+      "203.50",
+      "166.00",
+      "227.54",
+      "192.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ine & Beer M",
+    "bbox": [
+      "227.02",
+      "166.00",
+      "361.18",
+      "192.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "enu",
+    "bbox": [
+      "360.66",
+      "166.00",
+      "398.59",
+      "192.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Our wine and beer list. $10 corking fee per bottle if you choose to bring your",
+    "bbox": [
+      "203.50",
+      "220.00",
+      "610.71",
+      "232.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "own.",
+    "bbox": [
+      "203.50",
+      "238.00",
+      "228.87",
+      "250.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "White Wine",
+    "bbox": [
+      "203.50",
+      "315.25",
+      "290.48",
+      "334.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chardonnay, Shannon Ridge California",
+    "bbox": [
+      "203.50",
+      "408.25",
+      "466.34",
+      "425.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Chardonnay, Shannon Ridge California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": ".G.l.a.ss..................................................................$10",
+    "bbox": [
+      "203.50",
+      "445.00",
+      "638.49",
+      "457.56"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".G.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": ".B.o.t.tl.e.................................................................$35",
+    "bbox": [
+      "203.50",
+      "473.50",
+      "638.49",
+      "486.06"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".B.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pint Grigio, Livon Collio",
+    "bbox": [
+      "203.50",
+      "529.75",
+      "369.13",
+      "547.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Gl",
+    "bbox": [
+      "203.50",
+      "567.25",
+      "215.72",
+      "579.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$12",
+    "bbox": [
+      "619.77",
+      "567.25",
+      "638.49",
+      "579.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.tuttisonline.com/menus-4",
+    "bbox": [
+      "26.45",
+      "572.00",
+      "149.04",
+      "580.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/8",
+    "bbox": [
+      "804.31",
+      "572.00",
+      "814.53",
+      "580.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/12/22, 4:20 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WINE & BEER MENU | Tutti's Ristorante",
+    "bbox": [
+      "395.02",
+      "16.00",
+      "532.43",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": ".G.l.a.ss..................................................................$12",
+    "bbox": [
+      "203.50",
+      "27.25",
+      "638.49",
+      "39.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HOME",
+    "bbox": [
+      "147.04",
+      "45.63",
+      "178.94",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MENUS",
+    "bbox": [
+      "273.62",
+      "45.63",
+      "310.37",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DELIVERY OPTIONS",
+    "bbox": [
+      "373.20",
+      "45.63",
+      "468.79",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ABOUT TUTTI'S",
+    "bbox": [
+      "512.46",
+      "45.63",
+      "587.53",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CONTACT",
+    "bbox": [
+      "653.87",
+      "45.63",
+      "704.12",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": ".B.o.t.tl.e.................................................................$40",
+    "bbox": [
+      "203.50",
+      "55.75",
+      "638.49",
+      "68.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sauvignon Blanc, Villa Chiopris, Friull",
+    "bbox": [
+      "203.50",
+      "112.00",
+      "457.78",
+      "129.25"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Sauvignon Blanc, Villa Chiopris, Friull",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": ".G.l.a.ss..................................................................$10",
+    "bbox": [
+      "203.50",
+      "148.75",
+      "638.49",
+      "161.31"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".G.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": ".B.o.t.tl.e.................................................................$35",
+    "bbox": [
+      "203.50",
+      "177.25",
+      "638.49",
+      "189.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".B.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Gavi, La Battistina, Piemonte",
+    "bbox": [
+      "203.50",
+      "233.50",
+      "396.60",
+      "250.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Gavi, La Battistina, Piemonte",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": ".G.l.a.ss..................................................................$13",
+    "bbox": [
+      "203.50",
+      "271.00",
+      "638.49",
+      "283.56"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".G.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": ".B.o.t.tl.e.................................................................$42",
+    "bbox": [
+      "203.50",
+      "299.50",
+      "638.49",
+      "312.06"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".B.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Riesling, Columbia Valley",
+    "bbox": [
+      "203.50",
+      "355.75",
+      "374.65",
+      "373.00"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Riesling, Columbia Valley",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": ".G.l.a.ss...................................................................$9",
+    "bbox": [
+      "203.50",
+      "392.50",
+      "638.50",
+      "405.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": ".B.o.t.tl.e.................................................................$30",
+    "bbox": [
+      "203.50",
+      "421.00",
+      "638.49",
+      "433.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Red Wine",
+    "bbox": [
+      "203.50",
+      "523.75",
+      "275.84",
+      "542.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.tuttisonline.com/menus-4",
+    "bbox": [
+      "26.45",
+      "572.00",
+      "149.04",
+      "580.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/8",
+    "bbox": [
+      "804.31",
+      "572.00",
+      "814.53",
+      "580.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/12/22, 4:20 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WINE & BEER MENU | Tutti's Ristorante",
+    "bbox": [
+      "395.02",
+      "16.00",
+      "532.43",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "HOME",
+    "bbox": [
+      "147.04",
+      "45.62",
+      "178.94",
+      "56.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MENUS",
+    "bbox": [
+      "273.62",
+      "45.62",
+      "310.37",
+      "56.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "DELIVERY OPTIONS",
+    "bbox": [
+      "373.20",
+      "45.62",
+      "468.79",
+      "56.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ABOUT TUTTI'S",
+    "bbox": [
+      "512.46",
+      "45.62",
+      "587.53",
+      "56.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CONTACT",
+    "bbox": [
+      "653.87",
+      "45.62",
+      "704.12",
+      "56.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Malbec, Tupungato Mendoza Argentina",
+    "bbox": [
+      "203.50",
+      "76.75",
+      "470.74",
+      "94.00"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Malbec, Tupungato Mendoza Argentina",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": ".G.l.a.ss..................................................................$10",
+    "bbox": [
+      "203.50",
+      "114.25",
+      "638.49",
+      "126.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".G.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": ".B.o.t.tl.e.................................................................$40",
+    "bbox": [
+      "203.50",
+      "142.75",
+      "638.49",
+      "155.31"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".B.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Borgo Salcetino, Super Tuscan Rossole, Tuscana",
+    "bbox": [
+      "203.50",
+      "199.00",
+      "522.97",
+      "216.25"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Borgo Salcetino, Super Tuscan Rossole, Tuscana",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": ".G.l.a.ss..................................................................$12",
+    "bbox": [
+      "203.50",
+      "235.75",
+      "638.49",
+      "248.31"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".G.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": ".B.o.t.tl.e.................................................................$40",
+    "bbox": [
+      "203.50",
+      "264.25",
+      "638.49",
+      "276.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".B.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Noir, Veneto",
+    "bbox": [
+      "203.50",
+      "320.50",
+      "329.75",
+      "337.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Pinot Noir, Veneto",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": ".G.l.a.ss..................................................................$10",
+    "bbox": [
+      "203.50",
+      "358.00",
+      "638.49",
+      "370.56"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".G.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": ".B.o.t.tl.e.................................................................$35",
+    "bbox": [
+      "203.50",
+      "386.50",
+      "638.49",
+      "399.06"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".B.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cabernet Sauvignon, Shannon Ridge California",
+    "bbox": [
+      "203.50",
+      "442.75",
+      "519.26",
+      "460.00"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Cabernet Sauvignon, Shannon Ridge California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": ".G.l.a.ss..................................................................$10",
+    "bbox": [
+      "203.50",
+      "479.50",
+      "638.49",
+      "492.06"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".G.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": ".B.o.t.tl.e.................................................................$35",
+    "bbox": [
+      "203.50",
+      "508.00",
+      "638.49",
+      "520.56"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".B.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.tuttisonline.com/menus-4",
+    "bbox": [
+      "26.45",
+      "572.00",
+      "149.04",
+      "580.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/8",
+    "bbox": [
+      "804.31",
+      "572.00",
+      "814.53",
+      "580.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/12/22, 4:20 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "WINE & BEER MENU | Tutti's Ristorante",
+    "bbox": [
+      "395.02",
+      "16.00",
+      "532.43",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Merlot, 14 Hands",
+    "bbox": [
+      "203.50",
+      "24.25",
+      "320.97",
+      "41.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "HOME",
+    "bbox": [
+      "147.04",
+      "45.62",
+      "178.94",
+      "56.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MENUS",
+    "bbox": [
+      "273.62",
+      "45.62",
+      "310.37",
+      "56.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "DELIVERY OPTIONS",
+    "bbox": [
+      "373.20",
+      "45.62",
+      "468.79",
+      "56.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ABOUT TUTTI'S",
+    "bbox": [
+      "512.46",
+      "45.62",
+      "587.53",
+      "56.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CONTACT",
+    "bbox": [
+      "653.87",
+      "45.62",
+      "704.12",
+      "56.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": ".G.l.a.ss..................................................................$10",
+    "bbox": [
+      "203.50",
+      "61.75",
+      "638.49",
+      "74.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": ".B.o.t.tl.e.................................................................$35",
+    "bbox": [
+      "203.50",
+      "90.25",
+      "638.49",
+      "102.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".B.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chianti Colli Senesi, San Gimignano, Toscano",
+    "bbox": [
+      "203.50",
+      "146.50",
+      "507.41",
+      "163.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Chianti Colli Senesi, San Gimignano, Toscano",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": ".G.l.a.ss..................................................................$10",
+    "bbox": [
+      "203.50",
+      "183.25",
+      "638.49",
+      "195.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".G.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": ".B.o.t.tl.e.................................................................$35",
+    "bbox": [
+      "203.50",
+      "211.75",
+      "638.49",
+      "224.31"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".B.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Montepulciano, Piemonte, Piazzo, Piemonte",
+    "bbox": [
+      "203.50",
+      "268.00",
+      "497.04",
+      "285.25"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Montepulciano, Piemonte, Piazzo, Piemonte",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": ".G.l.a.ss...................................................................$9",
+    "bbox": [
+      "203.50",
+      "305.50",
+      "638.50",
+      "318.06"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".G",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": ".B.o.t.tl.e.................................................................$30",
+    "bbox": [
+      "203.50",
+      "334.00",
+      "638.49",
+      "346.56"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".B.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Barbera Piemonte, Piazzo, Piemonte",
+    "bbox": [
+      "203.50",
+      "390.25",
+      "441.58",
+      "407.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Barbera Piemonte, Piazzo, Piemonte",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": ".G.l.a.ss..................................................................$12",
+    "bbox": [
+      "203.50",
+      "427.00",
+      "638.49",
+      "439.56"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".G.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": ".B.o.t.tl.e.................................................................$40",
+    "bbox": [
+      "203.50",
+      "455.50",
+      "638.49",
+      "468.06"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".B.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "R",
+    "bbox": [
+      "203.50",
+      "558.25",
+      "216.87",
+      "577.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.tuttisonline.com/menus-4",
+    "bbox": [
+      "26.45",
+      "572.00",
+      "149.04",
+      "580.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/8",
+    "bbox": [
+      "804.31",
+      "572.00",
+      "814.53",
+      "580.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/12/22, 4:20 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Rosato",
+    "bbox": [
+      "203.50",
+      "18.25",
+      "254.86",
+      "37.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "WINE & BEER MENU | Tutti's Ristorante",
+    "bbox": [
+      "395.02",
+      "16.00",
+      "532.43",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "HOME",
+    "bbox": [
+      "147.04",
+      "45.63",
+      "178.94",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "MENUS",
+    "bbox": [
+      "273.62",
+      "45.63",
+      "310.37",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "DELIVERY OPTIONS",
+    "bbox": [
+      "373.20",
+      "45.63",
+      "468.79",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ABOUT TUTTI'S",
+    "bbox": [
+      "512.46",
+      "45.63",
+      "587.53",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CONTACT",
+    "bbox": [
+      "653.87",
+      "45.63",
+      "704.12",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sangiovese Marche Rosato, Marche",
+    "bbox": [
+      "203.50",
+      "111.25",
+      "435.75",
+      "128.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Sangiovese Marche Rosato, Marche",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": ".G.l.a.ss..................................................................$10",
+    "bbox": [
+      "203.50",
+      "148.75",
+      "638.49",
+      "161.31"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".G.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": ".B.o.t.tl.e.................................................................$35",
+    "bbox": [
+      "203.50",
+      "177.25",
+      "638.49",
+      "189.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".B.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Reserve",
+    "bbox": [
+      "203.50",
+      "280.00",
+      "258.87",
+      "298.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "SottoBosco \"Super Tuscano\", Palagetto, Toscano",
+    "bbox": [
+      "203.50",
+      "373.00",
+      "522.95",
+      "390.25"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "SottoBosco \"Super Tuscano\", Palagetto, Toscano",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": ".B.o.t.tl.e.................................................................$60",
+    "bbox": [
+      "203.50",
+      "409.75",
+      "638.49",
+      "422.31"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".B.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Barolo, Piazza, Piemonte",
+    "bbox": [
+      "203.50",
+      "466.00",
+      "365.49",
+      "483.25"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Barolo, Piazza, Piemonte",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": ".B.o.t.tl.e.................................................................$70",
+    "bbox": [
+      "203.50",
+      "503.50",
+      "638.49",
+      "516.06"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".B.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "B",
+    "bbox": [
+      "203.50",
+      "559.75",
+      "213.63",
+      "577.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "llP",
+    "bbox": [
+      "244.31",
+      "559.75",
+      "277.64",
+      "577.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "T",
+    "bbox": [
+      "336.55",
+      "559.75",
+      "348.11",
+      "577.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.tuttisonline.com/menus-4",
+    "bbox": [
+      "26.45",
+      "572.00",
+      "149.04",
+      "580.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/8",
+    "bbox": [
+      "804.31",
+      "572.00",
+      "814.53",
+      "580.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/12/22, 4:20 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "WINE & BEER MENU | Tutti's Ristorante",
+    "bbox": [
+      "395.02",
+      "16.00",
+      "532.43",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Brunello, Patagetto, Toscana",
+    "bbox": [
+      "203.50",
+      "19.75",
+      "390.04",
+      "37.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "HOME",
+    "bbox": [
+      "147.04",
+      "45.63",
+      "178.94",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MENUS",
+    "bbox": [
+      "273.62",
+      "45.63",
+      "310.37",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "DELIVERY OPTIONS",
+    "bbox": [
+      "373.20",
+      "45.63",
+      "468.79",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ABOUT TUTTI'S",
+    "bbox": [
+      "512.46",
+      "45.63",
+      "587.53",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CONTACT",
+    "bbox": [
+      "653.87",
+      "45.63",
+      "704.12",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": ".B.o.t.tl.e.................................................................$75",
+    "bbox": [
+      "203.50",
+      "56.50",
+      "638.49",
+      "69.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Amarone, Della Valpolicella Classico \"Crosara de la Strie\"",
+    "bbox": [
+      "203.50",
+      "112.75",
+      "577.46",
+      "130.00"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Amarone, Della Valpolicella Classico \"Crosara de la Strie\"",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": ".B.o.t.tl.e.................................................................$70",
+    "bbox": [
+      "203.50",
+      "150.25",
+      "638.49",
+      "162.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".B.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sparkling Wines",
+    "bbox": [
+      "203.50",
+      "253.00",
+      "319.67",
+      "271.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Proscecco, Carpene Malvolti",
+    "bbox": [
+      "203.50",
+      "346.00",
+      "390.27",
+      "363.25"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Proscecco, Carpene Malvolti",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": ".1.8.7.m.l.................................................................$11",
+    "bbox": [
+      "203.50",
+      "382.75",
+      "638.49",
+      "395.31"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".1.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": ".7.5.0.m.l.................................................................$40",
+    "bbox": [
+      "203.50",
+      "411.25",
+      "638.49",
+      "423.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".7.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Moscato, Castello di Poggio",
+    "bbox": [
+      "203.50",
+      "467.50",
+      "385.88",
+      "484.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Moscato, Castello di Poggio",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": ".1.8.7.m.l.................................................................$10",
+    "bbox": [
+      "203.50",
+      "505.00",
+      "638.49",
+      "517.56"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": ".1.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://www.tuttisonline.com/menus-4",
+    "bbox": [
+      "26.45",
+      "572.00",
+      "149.04",
+      "580.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/8",
+    "bbox": [
+      "804.31",
+      "572.00",
+      "814.53",
+      "580.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/12/22, 4:20 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "WINE & BEER MENU | Tutti's Ristorante",
+    "bbox": [
+      "395.02",
+      "16.00",
+      "532.43",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "HOME",
+    "bbox": [
+      "147.04",
+      "45.63",
+      "178.94",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MENUS",
+    "bbox": [
+      "273.62",
+      "45.63",
+      "310.37",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DELIVERY OPTIONS",
+    "bbox": [
+      "373.20",
+      "45.63",
+      "468.79",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ABOUT TUTTI'S",
+    "bbox": [
+      "512.46",
+      "45.63",
+      "587.53",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CONTACT",
+    "bbox": [
+      "653.87",
+      "45.63",
+      "704.12",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Beers",
+    "bbox": [
+      "203.50",
+      "67.75",
+      "241.26",
+      "86.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Peroni, Nastro Azzurro",
+    "bbox": [
+      "203.50",
+      "160.75",
+      "356.97",
+      "178.00"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Peroni, Nastro Azzurro",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$7",
+    "bbox": [
+      "622.61",
+      "160.75",
+      "638.50",
+      "178.00"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$7",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": ".......................................................................",
+    "bbox": [
+      "203.50",
+      "170.31",
+      "621.17",
+      "181.56"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "..........................",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Menabrea, Lager Beer",
+    "bbox": [
+      "203.50",
+      "226.75",
+      "346.66",
+      "244.00"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Menabrea, Lager Beer",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$7",
+    "bbox": [
+      "622.61",
+      "226.75",
+      "638.50",
+      "244.00"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$7",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": ".......................................................................",
+    "bbox": [
+      "203.50",
+      "237.06",
+      "621.17",
+      "248.31"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": ".........................",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Sam Adams",
+    "bbox": [
+      "203.50",
+      "293.50",
+      "281.81",
+      "310.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Sam Adams",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$7",
+    "bbox": [
+      "622.61",
+      "293.50",
+      "638.50",
+      "310.75"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$7",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": ".......................................................................",
+    "bbox": [
+      "203.50",
+      "303.06",
+      "621.17",
+      "314.31"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "..............",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Coors Light",
+    "bbox": [
+      "203.50",
+      "359.50",
+      "283.71",
+      "376.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Coors Light",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$7",
+    "bbox": [
+      "622.61",
+      "359.50",
+      "638.50",
+      "376.75"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$7",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": ".......................................................................",
+    "bbox": [
+      "203.50",
+      "369.81",
+      "621.17",
+      "381.06"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "..............",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Corona",
+    "bbox": [
+      "203.50",
+      "426.25",
+      "254.58",
+      "443.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Corona",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$7",
+    "bbox": [
+      "622.61",
+      "426.25",
+      "638.50",
+      "443.50"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$7",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": ".......................................................................",
+    "bbox": [
+      "203.50",
+      "435.81",
+      "621.17",
+      "447.06"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": ".........",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Guinness",
+    "bbox": [
+      "203.50",
+      "492.25",
+      "265.48",
+      "509.50"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Guinness",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$7",
+    "bbox": [
+      "622.61",
+      "492.25",
+      "638.50",
+      "509.50"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$7",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": ".......................................................................",
+    "bbox": [
+      "203.50",
+      "502.56",
+      "621.17",
+      "513.81"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "...........",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "N",
+    "bbox": [
+      "203.50",
+      "559.00",
+      "217.16",
+      "576.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "AlhliB",
+    "bbox": [
+      "238.26",
+      "559.00",
+      "315.42",
+      "576.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$6",
+    "bbox": [
+      "622.61",
+      "559.00",
+      "638.50",
+      "576.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://www.tuttisonline.com/menus-4",
+    "bbox": [
+      "26.45",
+      "572.00",
+      "149.04",
+      "580.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/8",
+    "bbox": [
+      "804.31",
+      "572.00",
+      "814.53",
+      "580.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/12/22, 4:20 PM",
+    "bbox": [
+      "26.45",
+      "16.00",
+      "82.68",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "WINE & BEER MENU | Tutti's Ristorante",
+    "bbox": [
+      "395.02",
+      "16.00",
+      "532.43",
+      "24.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Non Alcoholic Beer",
+    "bbox": [
+      "203.50",
+      "19.00",
+      "334.46",
+      "36.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$6",
+    "bbox": [
+      "622.61",
+      "19.00",
+      "638.50",
+      "36.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": ".......................................................................",
+    "bbox": [
+      "203.50",
+      "28.56",
+      "621.17",
+      "39.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "HOME",
+    "bbox": [
+      "147.04",
+      "45.63",
+      "178.94",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MENUS",
+    "bbox": [
+      "273.62",
+      "45.63",
+      "310.37",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "DELIVERY OPTIONS",
+    "bbox": [
+      "373.20",
+      "45.63",
+      "468.79",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "ABOUT TUTTI'S",
+    "bbox": [
+      "512.46",
+      "45.63",
+      "587.53",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CONTACT",
+    "bbox": [
+      "653.87",
+      "45.63",
+      "704.12",
+      "56.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Moretti",
+    "bbox": [
+      "203.50",
+      "85.00",
+      "254.78",
+      "102.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$7",
+    "bbox": [
+      "622.61",
+      "85.00",
+      "638.50",
+      "102.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": ".......................................................................",
+    "bbox": [
+      "203.50",
+      "95.31",
+      "621.17",
+      "106.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Two Roads, Lil Haven",
+    "bbox": [
+      "203.50",
+      "151.75",
+      "351.16",
+      "169.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$7",
+    "bbox": [
+      "622.61",
+      "151.75",
+      "638.50",
+      "169.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": ".......................................................................",
+    "bbox": [
+      "203.50",
+      "161.31",
+      "621.17",
+      "172.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://www.tuttisonline.com/menus-4",
+    "bbox": [
+      "26.45",
+      "572.00",
+      "149.04",
+      "580.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/8",
+    "bbox": [
+      "804.31",
+      "572.00",
+      "814.53",
+      "580.00"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]
