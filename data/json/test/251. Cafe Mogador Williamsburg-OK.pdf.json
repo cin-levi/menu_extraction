@@ -1,0 +1,3699 @@
+[
+  {
+    "page_number": 1,
+    "text": "MEZZE 7.5",
+    "bbox": [
+      "270.99",
+      "113.66",
+      "342.03",
+      "125.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SERVED WITH PITA",
+    "bbox": [
+      "265.05",
+      "128.66",
+      "346.32",
+      "136.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Spicy Carrots",
+    "bbox": [
+      "96.14",
+      "149.50",
+      "171.30",
+      "160.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Hummus",
+    "bbox": [
+      "220.89",
+      "149.63",
+      "261.90",
+      "160.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tabouli",
+    "bbox": [
+      "328.71",
+      "150.50",
+      "367.01",
+      "161.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "12",
+    "bbox": [
+      "438.52",
+      "154.50",
+      "455.20",
+      "165.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Arabic Salad",
+    "bbox": [
+      "98.97",
+      "169.90",
+      "168.46",
+      "180.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Falafel & Tahini",
+    "bbox": [
+      "200.25",
+      "170.03",
+      "286.26",
+      "180.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cucumber Yogurt",
+    "bbox": [
+      "305.40",
+      "170.50",
+      "390.33",
+      "181.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Matbucha",
+    "bbox": [
+      "420.13",
+      "170.50",
+      "481.03",
+      "181.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Labne with zahatar Pickled Red Cabbage Marinated Beets  Eggplant & Tahini",
+    "bbox": [
+      "83.49",
+      "188.90",
+      "501.81",
+      "201.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Olives & Pickles",
+    "bbox": [
+      "200.04",
+      "210.83",
+      "286.47",
+      "221.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Babaganush",
+    "bbox": [
+      "416.34",
+      "208.50",
+      "484.79",
+      "219.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Halloumi Cheese  13",
+    "bbox": [
+      "80.00",
+      "260.50",
+      "189.94",
+      "272.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Greek Salad   13",
+    "bbox": [
+      "371.02",
+      "258.93",
+      "460.63",
+      "271.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Roasted Vegetables, Basil Pesto",
+    "bbox": [
+      "80.00",
+      "275.07",
+      "240.83",
+      "285.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "with Bulgarian cheese",
+    "bbox": [
+      "362.77",
+      "275.63",
+      "476.11",
+      "286.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "and homemade zahatar croutons",
+    "bbox": [
+      "337.39",
+      "292.63",
+      "497.78",
+      "303.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Hummus Platter  12",
+    "bbox": [
+      "80.00",
+      "298.12",
+      "183.96",
+      "310.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chickpeas, Tahini, Shug",
+    "bbox": [
+      "80.00",
+      "309.47",
+      "198.61",
+      "319.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "avocado 4.5 | chicken 7 | grilled salmon 9",
+    "bbox": [
+      "313.74",
+      "315.63",
+      "528.87",
+      "326.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Hummus & Falafel Platter 15",
+    "bbox": [
+      "80.00",
+      "337.90",
+      "237.15",
+      "349.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Soup of the Day",
+    "bbox": [
+      "377.80",
+      "350.50",
+      "475.43",
+      "362.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "11",
+    "bbox": [
+      "411.36",
+      "367.02",
+      "429.88",
+      "380.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ENTRÉES",
+    "bbox": [
+      "270.05",
+      "391.64",
+      "328.01",
+      "403.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "COUSCOUS | Served with vegetables,",
+    "bbox": [
+      "80.62",
+      "428.29",
+      "287.03",
+      "439.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MOROCCAN TAGINES",
+    "bbox": [
+      "355.00",
+      "435.50",
+      "493.89",
+      "447.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "chickpeas, caramelized onions & raisins",
+    "bbox": [
+      "78.93",
+      "443.29",
+      "288.71",
+      "452.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chicken 20 | Lamb Shank 26",
+    "bbox": [
+      "355.00",
+      "458.70",
+      "493.74",
+      "469.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Vegetarian 17.5",
+    "bbox": [
+      "84.59",
+      "466.50",
+      "167.13",
+      "477.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Merguez Sausage 22",
+    "bbox": [
+      "185.04",
+      "466.50",
+      "288.69",
+      "477.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chicken 21",
+    "bbox": [
+      "97.01",
+      "486.90",
+      "154.71",
+      "497.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Lamb Shank 26",
+    "bbox": [
+      "198.10",
+      "486.90",
+      "271.91",
+      "497.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Served with basmati rice or couscous",
+    "bbox": [
+      "330.34",
+      "491.29",
+      "525.28",
+      "500.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "& your choice of sauce:",
+    "bbox": [
+      "363.08",
+      "508.43",
+      "489.48",
+      "519.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BASTILLA | Festive Moroccan filo",
+    "bbox": [
+      "85.85",
+      "542.50",
+      "274.73",
+      "554.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Stewed Apricot & Prunes",
+    "bbox": [
+      "369.31",
+      "546.50",
+      "496.42",
+      "557.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "pastry with chicken, almonds and",
+    "bbox": [
+      "93.42",
+      "557.50",
+      "267.16",
+      "567.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "cinnamon, served with green salad &",
+    "bbox": [
+      "84.48",
+      "570.50",
+      "276.10",
+      "580.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Casablanca chickpeas, raisins,",
+    "bbox": [
+      "360.38",
+      "566.90",
+      "504.99",
+      "577.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "casablanca sauce",
+    "bbox": [
+      "134.06",
+      "583.50",
+      "226.52",
+      "593.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "caramelized onions",
+    "bbox": [
+      "389.58",
+      "580.24",
+      "479.50",
+      "590.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "22",
+    "bbox": [
+      "171.28",
+      "602.00",
+      "189.30",
+      "612.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Preserved Lemon & Olives",
+    "bbox": [
+      "367.65",
+      "600.30",
+      "498.08",
+      "610.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Charmoulla spicy green herbs",
+    "bbox": [
+      "363.61",
+      "620.70",
+      "498.40",
+      "631.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FROM THE GRILL | Served with",
+    "bbox": [
+      "89.94",
+      "644.12",
+      "271.71",
+      "655.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "basmati rice, grilled vegetable skewer,",
+    "bbox": [
+      "80.04",
+      "659.12",
+      "281.60",
+      "668.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "pickled red cabbage & cucumber yogurt",
+    "bbox": [
+      "78.17",
+      "671.76",
+      "280.41",
+      "683.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SIDES 5.5",
+    "bbox": [
+      "390.45",
+      "672.15",
+      "450.34",
+      "684.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Couscous with raisins and chickpeas",
+    "bbox": [
+      "338.32",
+      "697.58",
+      "518.61",
+      "708.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chicken Kebab 20      Merguez Sausage  21",
+    "bbox": [
+      "74.00",
+      "704.50",
+      "290.92",
+      "715.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Basmati Rice  4.5 | w/butter Herbs",
+    "bbox": [
+      "334.71",
+      "717.98",
+      "518.52",
+      "728.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Lamb Kefta  24                Mixed Grill   29",
+    "bbox": [
+      "75.00",
+      "723.50",
+      "293.12",
+      "734.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Fries with harissa ketchup",
+    "bbox": [
+      "364.95",
+      "735.58",
+      "495.72",
+      "746.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Harissa | Shug  2",
+    "bbox": [
+      "382.35",
+      "755.98",
+      "467.17",
+      "766.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BREAKFAST & LUNCH",
+    "bbox": [
+      "247.37",
+      "130.00",
+      "400.68",
+      "144.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MONDAY - FRIDAY UNTIL 4PM",
+    "bbox": [
+      "243.20",
+      "147.00",
+      "388.80",
+      "155.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Moroccan Eggs  12",
+    "bbox": [
+      "266.25",
+      "182.41",
+      "365.95",
+      "193.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Two Poached eggs with spicy stewed tomato     + house-made merguez 4",
+    "bbox": [
+      "156.48",
+      "193.07",
+      "479.23",
+      "203.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Country Breakfast 13",
+    "bbox": [
+      "258.69",
+      "218.11",
+      "373.51",
+      "229.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Herb omelette with labne & Israeli salad",
+    "bbox": [
+      "227.28",
+      "229.73",
+      "411.47",
+      "239.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Halloumi Eggs 14",
+    "bbox": [
+      "271.67",
+      "254.11",
+      "360.53",
+      "265.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Two poached eggs, roasted tomato, halloumi cheese served with green salad",
+    "bbox": [
+      "148.63",
+      "265.73",
+      "486.76",
+      "275.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Middle Eastern Breakfast 15",
+    "bbox": [
+      "240.17",
+      "290.41",
+      "392.03",
+      "301.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Two eggs any style with hummus, tabouli",
+    "bbox": [
+      "227.59",
+      "300.50",
+      "407.97",
+      "311.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "& Israeli salad",
+    "bbox": [
+      "283.41",
+      "311.73",
+      "351.96",
+      "321.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Zahatar Omelette Sandwich 13",
+    "bbox": [
+      "234.03",
+      "336.41",
+      "406.12",
+      "347.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "hummus, tahini, salad in pita bread. Choice of Salad or Fries",
+    "bbox": [
+      "182.60",
+      "350.73",
+      "459.52",
+      "360.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Buttermilk Pancakes 12 | 14",
+    "bbox": [
+      "241.80",
+      "375.41",
+      "390.40",
+      "386.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Plain | Banana",
+    "bbox": [
+      "284.20",
+      "386.73",
+      "351.17",
+      "396.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "French Toast 13",
+    "bbox": [
+      "272.34",
+      "411.41",
+      "363.73",
+      "422.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Brioche, powdered sugar, pomegranate molasses maple syrup",
+    "bbox": [
+      "181.20",
+      "425.73",
+      "454.19",
+      "435.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tunisian Sandwich 14",
+    "bbox": [
+      "259.49",
+      "449.72",
+      "372.72",
+      "461.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "House-made spicy merguez sausage",
+    "bbox": [
+      "238.54",
+      "461.73",
+      "396.83",
+      "471.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sabich 12",
+    "bbox": [
+      "290.24",
+      "486.41",
+      "341.96",
+      "497.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Roasted eggplant, organic egg, tahini, amba",
+    "bbox": [
+      "219.65",
+      "497.73",
+      "415.73",
+      "507.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Falafel Pita 11",
+    "bbox": [
+      "277.34",
+      "522.41",
+      "358.02",
+      "533.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Salmon Cake 14",
+    "bbox": [
+      "274.44",
+      "548.41",
+      "357.76",
+      "559.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tomato, red onion, horseradish aioli on brioche bread",
+    "bbox": [
+      "197.75",
+      "558.41",
+      "441.68",
+      "569.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chicken Kebab Sandwich 14",
+    "bbox": [
+      "243.05",
+      "582.93",
+      "389.19",
+      "595.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Hamburger 14",
+    "bbox": [
+      "279.16",
+      "605.93",
+      "353.08",
+      "618.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Caramelized onions on english muffin and lettuce, tomato, pickle",
+    "bbox": [
+      "175.07",
+      "618.73",
+      "460.33",
+      "628.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "+ Cheddar cheese 1.5",
+    "bbox": [
+      "268.06",
+      "631.73",
+      "367.31",
+      "641.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BRUNCH",
+    "bbox": [
+      "280.27",
+      "135.00",
+      "347.19",
+      "149.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SATURDAY & SUNDAY UNTIL 4PM",
+    "bbox": [
+      "223.61",
+      "152.00",
+      "387.80",
+      "160.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sabich Plate 15",
+    "bbox": [
+      "115.00",
+      "181.50",
+      "198.82",
+      "193.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Moroccan Benedict 15",
+    "bbox": [
+      "311.00",
+      "182.50",
+      "429.48",
+      "194.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Iraqi breakfast, roasted eggplant,",
+    "bbox": [
+      "115.00",
+      "196.50",
+      "268.25",
+      "206.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Spicy stewed tomato and pepper",
+    "bbox": [
+      "311.00",
+      "197.50",
+      "458.12",
+      "207.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "tahini, organic eggs, spicy grated",
+    "bbox": [
+      "115.00",
+      "209.50",
+      "266.22",
+      "219.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "sauce, poached eggs, english muffin",
+    "bbox": [
+      "311.00",
+      "210.50",
+      "470.92",
+      "220.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "tomato & amba",
+    "bbox": [
+      "115.00",
+      "222.50",
+      "185.26",
+      "232.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "and hollandaise sauce, served with",
+    "bbox": [
+      "311.00",
+      "223.50",
+      "466.82",
+      "233.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "green salad & roasted potatoes",
+    "bbox": [
+      "311.00",
+      "236.50",
+      "455.69",
+      "246.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Halloumi Eggs 14",
+    "bbox": [
+      "115.00",
+      "250.71",
+      "203.85",
+      "262.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Two poached eggs, roasted tomato,",
+    "bbox": [
+      "115.00",
+      "264.33",
+      "273.84",
+      "273.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Norwegian Benedict 15",
+    "bbox": [
+      "311.00",
+      "265.50",
+      "432.82",
+      "277.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "halloumi cheese served with green",
+    "bbox": [
+      "115.00",
+      "276.33",
+      "267.39",
+      "285.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Smoked salmon, poached eggs, english",
+    "bbox": [
+      "311.00",
+      "280.50",
+      "481.19",
+      "290.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "salad",
+    "bbox": [
+      "115.00",
+      "288.33",
+      "141.49",
+      "297.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "muffin and hollandaise, served with",
+    "bbox": [
+      "311.00",
+      "293.50",
+      "468.88",
+      "303.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "green salad & roasted potatoes",
+    "bbox": [
+      "311.00",
+      "306.50",
+      "455.69",
+      "316.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Middle Eastern Breakfast 15",
+    "bbox": [
+      "115.00",
+      "315.01",
+      "266.86",
+      "326.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Two eggs any style with hummus,",
+    "bbox": [
+      "115.00",
+      "328.33",
+      "262.18",
+      "337.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "tabouli",
+    "bbox": [
+      "115.00",
+      "339.10",
+      "148.01",
+      "349.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Blackstone Benedict 15",
+    "bbox": [
+      "311.00",
+      "337.50",
+      "436.61",
+      "349.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "& Israeli salad",
+    "bbox": [
+      "115.00",
+      "352.33",
+      "183.56",
+      "361.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bacon, roasted tomato, poached eggs,",
+    "bbox": [
+      "311.00",
+      "352.50",
+      "482.25",
+      "362.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "english muffin and hollandaise, served",
+    "bbox": [
+      "311.00",
+      "365.50",
+      "481.01",
+      "375.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "with green salad & roasted potatoes",
+    "bbox": [
+      "311.00",
+      "378.50",
+      "477.10",
+      "388.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Malawach 15",
+    "bbox": [
+      "115.00",
+      "382.50",
+      "183.33",
+      "394.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Flakey Yemenite flatbread, organic",
+    "bbox": [
+      "115.00",
+      "397.50",
+      "271.22",
+      "407.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Moroccan Eggs  12",
+    "bbox": [
+      "311.00",
+      "402.81",
+      "410.70",
+      "414.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "egg, spicy grated tomato & labne",
+    "bbox": [
+      "115.00",
+      "410.50",
+      "265.32",
+      "420.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Two Poached eggs with spicy stewed",
+    "bbox": [
+      "311.00",
+      "417.13",
+      "475.19",
+      "426.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "tomato     + house-made merguez 4",
+    "bbox": [
+      "311.00",
+      "429.47",
+      "469.37",
+      "439.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Salmon Cake 14",
+    "bbox": [
+      "112.00",
+      "441.11",
+      "195.32",
+      "452.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Tomato, red onion, horseradish aioli",
+    "bbox": [
+      "112.00",
+      "453.43",
+      "274.38",
+      "462.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Country Breakfast 13",
+    "bbox": [
+      "311.00",
+      "454.71",
+      "425.81",
+      "466.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "on brioche bread with choice of fries",
+    "bbox": [
+      "112.00",
+      "464.43",
+      "278.38",
+      "473.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Herb omelette with labne & Israeli",
+    "bbox": [
+      "311.00",
+      "468.33",
+      "465.13",
+      "477.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "or salad",
+    "bbox": [
+      "112.00",
+      "474.11",
+      "152.04",
+      "485.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "salad",
+    "bbox": [
+      "311.00",
+      "480.33",
+      "340.85",
+      "489.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chicken Kebab Sandwich 15",
+    "bbox": [
+      "112.00",
+      "504.92",
+      "259.40",
+      "517.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Zahatar Omelette Sandwich 13",
+    "bbox": [
+      "311.00",
+      "505.01",
+      "479.02",
+      "516.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "hummus, tahini, salad in pita bread.",
+    "bbox": [
+      "311.00",
+      "518.33",
+      "470.80",
+      "527.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pita filled with chicken, hummus, tahini",
+    "bbox": [
+      "112.00",
+      "521.40",
+      "285.86",
+      "530.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Choice of Salad or Fries",
+    "bbox": [
+      "311.00",
+      "530.33",
+      "427.92",
+      "539.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "& arabic salad, with choice of fries or",
+    "bbox": [
+      "112.00",
+      "534.40",
+      "285.81",
+      "543.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "salad",
+    "bbox": [
+      "112.00",
+      "547.40",
+      "138.49",
+      "556.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Buttermilk Pancakes 12 | 14",
+    "bbox": [
+      "311.00",
+      "558.41",
+      "459.61",
+      "569.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Plain | Banana",
+    "bbox": [
+      "311.00",
+      "571.73",
+      "377.98",
+      "581.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Hamburger 15",
+    "bbox": [
+      "112.00",
+      "574.92",
+      "185.92",
+      "587.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Caramelized onions on english muffin",
+    "bbox": [
+      "112.00",
+      "591.40",
+      "276.66",
+      "600.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "French Toast 13",
+    "bbox": [
+      "311.00",
+      "594.41",
+      "402.39",
+      "605.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "and lettuce, tomato, pickle",
+    "bbox": [
+      "112.00",
+      "604.40",
+      "232.40",
+      "613.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Brioche, powdered sugar, pomegranate",
+    "bbox": [
+      "311.00",
+      "607.73",
+      "485.25",
+      "617.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "+ Cheddar cheese 1.5",
+    "bbox": [
+      "112.00",
+      "619.40",
+      "207.88",
+      "628.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "molasses maple syrup",
+    "bbox": [
+      "311.00",
+      "619.73",
+      "406.18",
+      "629.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "COCKTAILS 15",
+    "bbox": [
+      "92.00",
+      "99.00",
+      "184.01",
+      "113.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Lambrusco Speziato  Otello Lambrusco Wine Mixed with Californian Gentian Amaro",
+    "bbox": [
+      "96.00",
+      "129.50",
+      "447.87",
+      "139.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Ginger Martini  Vodka, fresh ginger juice, apple liquor,",
+    "bbox": [
+      "96.00",
+      "150.27",
+      "342.42",
+      "161.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "orange syrup, lemon",
+    "bbox": [
+      "96.00",
+      "164.50",
+      "190.77",
+      "174.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Mogarita Jalapeño infused Tequila, agave syrup, orange angostura, lime",
+    "bbox": [
+      "96.00",
+      "186.50",
+      "423.84",
+      "196.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sage Rush Sage infused bourbon, sage syrup, lemon",
+    "bbox": [
+      "96.00",
+      "208.50",
+      "331.12",
+      "218.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Marigold Road Gin, fresh turmeric juice, honey syrup, lemon",
+    "bbox": [
+      "96.00",
+      "230.50",
+      "367.81",
+      "240.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cardamom Mint Julep Cardamom infused Bourbon, honey, lemon, cinnamon,",
+    "bbox": [
+      "96.00",
+      "252.50",
+      "417.24",
+      "262.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "moroccan iced tea",
+    "bbox": [
+      "96.00",
+      "265.50",
+      "176.11",
+      "275.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "WINE (Gl. | Btl.)",
+    "bbox": [
+      "257.26",
+      "299.00",
+      "352.67",
+      "311.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "WHITE & SKIN CONTACT",
+    "bbox": [
+      "226.98",
+      "329.00",
+      "391.26",
+      "341.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sauvignon Blanc-Vermentino, LA FERME ROUGE La Petite, 2019 (Zaër, Morocco)      11 | 40",
+    "bbox": [
+      "92.00",
+      "353.50",
+      "460.47",
+      "362.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc-Vermentino, LA FERME ROUGE La Petite,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 54
+          }
+        ],
+        "P": [
+          {
+            "text": "11 | 40",
+            "answer_start": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sémillon-Moscatel, A Los Viñateros Bravos, 2019 (Sur, Chile)                               12 | 42",
+    "bbox": [
+      "92.00",
+      "370.50",
+      "460.01",
+      "379.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sémillon-Moscatel, A Los Viñateros Bravos,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 43
+          }
+        ],
+        "P": [
+          {
+            "text": "12 | 42",
+            "answer_start": 91
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sémillon, Maturana Wines, Valle del Colchagua, 2019 (Central Valley, Chile)             14 | 54",
+    "bbox": [
+      "92.00",
+      "387.50",
+      "460.29",
+      "396.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sémillon, Maturana Wines, Valle del Colchagua,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 47
+          }
+        ],
+        "P": [
+          {
+            "text": "14 | 54",
+            "answer_start": 88
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sauvignon Blanc, Frenzy, 2019 (Marlborough, New Zealand)",
+    "bbox": [
+      "92.00",
+      "404.50",
+      "346.85",
+      "413.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc, Frenzy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "13 | 45",
+    "bbox": [
+      "380.02",
+      "404.50",
+      "461.05",
+      "413.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13 | 45",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Hondarribi Zuri, Txakoli de Getaria, Rezabal 2019 (Basque Country, Spain)             12 | 43",
+    "bbox": [
+      "92.00",
+      "421.50",
+      "461.68",
+      "430.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Hondarribi Zuri, Txakoli de Getaria, Rezabal",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 45
+          }
+        ],
+        "P": [
+          {
+            "text": "12 | 43",
+            "answer_start": 86
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pedro Ximénez, Alvear, “Tres Miradas”, 2018 (Montilla-Morales, Spain)                        54",
+    "bbox": [
+      "92.00",
+      "438.50",
+      "459.76",
+      "447.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pedro Ximénez, Alvear, “Tres Miradas”",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 39
+          }
+        ],
+        "P": [
+          {
+            "text": "54",
+            "answer_start": 93
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chardonnay, Domaine de l'Enclos, Chablis, 2017 (Burgundy, France)                             72",
+    "bbox": [
+      "92.00",
+      "455.50",
+      "458.80",
+      "464.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay, Domaine de l'Enclos, Chablis",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 42
+          }
+        ],
+        "P": [
+          {
+            "text": "72",
+            "answer_start": 94
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ROSÉ & SPARKLING",
+    "bbox": [
+      "242.12",
+      "491.00",
+      "377.07",
+      "503.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Grenache Rosé, Bodegas Breca Vino de Aragón, 2019 (Aragon, Spain)                  12 | 45",
+    "bbox": [
+      "92.00",
+      "517.50",
+      "461.06",
+      "526.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grenache Rosé, Bodegas Breca Vino de Aragón,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 45
+          }
+        ],
+        "P": [
+          {
+            "text": "12 | 45",
+            "answer_start": 83
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cinsault, Le Gris Rosé, LA FERME ROUGE, 2019  (Zaër, Morocco)",
+    "bbox": [
+      "92.00",
+      "534.50",
+      "356.40",
+      "543.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cinsault, Le Gris Rosé, LA FERME ROUGE",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "12 | 49",
+    "bbox": [
+      "380.03",
+      "534.50",
+      "461.02",
+      "543.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12 | 49",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Lambrusco, Cantine Ceci, Otello (Emilia-Romagna, Italy)",
+    "bbox": [
+      "92.00",
+      "551.50",
+      "314.71",
+      "560.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Lambrusco, Cantine Ceci, Otello (Emilia-Romagna, Italy)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "14 | 56",
+    "bbox": [
+      "344.02",
+      "551.50",
+      "461.14",
+      "560.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14 | 56",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Black Label Brut, Paul Louis  (Loire Valley, France)",
+    "bbox": [
+      "92.00",
+      "568.50",
+      "310.85",
+      "577.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Black Label Brut, Paul Louis  (Loire Valley, France)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "10 | 40",
+    "bbox": [
+      "416.02",
+      "568.50",
+      "460.93",
+      "577.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "10 | 40",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Xarel-lo Blend, Marques de Gelida, Cava, 2015  (Catalonia, Spain)                               45",
+    "bbox": [
+      "92.00",
+      "585.50",
+      "459.54",
+      "594.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Xarel-lo Blend, Marques de Gelida, Cava",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 41
+          }
+        ],
+        "P": [
+          {
+            "text": "45",
+            "answer_start": 96
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Malbec-Merlot Rosé Blend, Macari Vineyards, 2018 (Long Island, NY)                           53",
+    "bbox": [
+      "92.00",
+      "601.40",
+      "455.32",
+      "611.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Malbec-Merlot Rosé Blend, Macari Vineyards,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 44
+          }
+        ],
+        "P": [
+          {
+            "text": "53",
+            "answer_start": 93
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RED WINE",
+    "bbox": [
+      "275.58",
+      "633.00",
+      "343.62",
+      "645.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Syrah, Tempranillo, LA FERME ROUGE Terre Rouge  2017 (Zaër, Morocco)              13 | 52",
+    "bbox": [
+      "92.00",
+      "659.50",
+      "461.05",
+      "668.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Syrah, Tempranillo, LA FERME ROUGE Terre Rouge",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 48
+          }
+        ],
+        "P": [
+          {
+            "text": "13 | 52",
+            "answer_start": 82
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pinot Noir, ‘L’Umami’, 2018 (Willamette Valley, Oregon)",
+    "bbox": [
+      "92.00",
+      "676.50",
+      "313.95",
+      "685.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir, ‘L’Umami’",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "15 | 59",
+    "bbox": [
+      "380.02",
+      "676.50",
+      "461.05",
+      "685.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15 | 59",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Tempranillo, Sierra Cantabria, 2017 (Rioja, Spain)",
+    "bbox": [
+      "92.00",
+      "693.50",
+      "310.85",
+      "702.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tempranillo, Sierra Cantabria,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017 (",
+            "answer_start": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "14 | 52",
+    "bbox": [
+      "344.02",
+      "693.50",
+      "461.17",
+      "702.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14 | 52",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Zinfandel, Rancho Zabaco, 2017 (Sonoma County, California)",
+    "bbox": [
+      "92.00",
+      "710.50",
+      "346.86",
+      "719.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Zinfandel, Rancho Zabaco,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "46",
+    "bbox": [
+      "380.02",
+      "710.50",
+      "459.75",
+      "719.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "46",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cabernet Blend, LA FERME ROUGE La Petite  2018 (Zaër, Morocco)                             49",
+    "bbox": [
+      "92.00",
+      "727.50",
+      "460.34",
+      "736.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Blend, LA FERME ROUGE La Petite",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 42
+          }
+        ],
+        "P": [
+          {
+            "text": "49",
+            "answer_start": 91
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Nerello Mascalese , Tornatore Etna Rosso, 2017 (Mount Etna, Sicily, Italy)                   52",
+    "bbox": [
+      "92.00",
+      "744.50",
+      "458.84",
+      "753.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Nerello Mascalese , Tornatore Etna Rosso,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 42
+          }
+        ],
+        "P": [
+          {
+            "text": "52",
+            "answer_start": 93
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "APÉRITIF",
+    "bbox": [
+      "158.31",
+      "56.00",
+      "215.69",
+      "68.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BEER & CIDER",
+    "bbox": [
+      "395.59",
+      "56.00",
+      "493.37",
+      "68.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Aperol  10",
+    "bbox": [
+      "107.71",
+      "89.50",
+      "166.36",
+      "101.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Anise",
+    "bbox": [
+      "258.13",
+      "92.50",
+      "291.95",
+      "104.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Goldstar Israeli Lager  8",
+    "bbox": [
+      "389.70",
+      "90.50",
+      "509.67",
+      "102.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Campari  16",
+    "bbox": [
+      "103.36",
+      "110.90",
+      "170.71",
+      "122.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Ricard Pastis  10",
+    "bbox": [
+      "226.79",
+      "113.90",
+      "323.28",
+      "125.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bell’s Two Hearted  IPA  8",
+    "bbox": [
+      "376.10",
+      "113.50",
+      "533.36",
+      "125.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pimm's  10",
+    "bbox": [
+      "107.84",
+      "132.30",
+      "166.23",
+      "143.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pernod Absinthe  20",
+    "bbox": [
+      "219.63",
+      "135.30",
+      "330.44",
+      "146.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Mahou Cinco Estrellas  7",
+    "bbox": [
+      "390.14",
+      "136.50",
+      "519.32",
+      "148.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Antica Formula  9",
+    "bbox": [
+      "88.29",
+      "153.70",
+      "185.78",
+      "165.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sambuca Romana  10",
+    "bbox": [
+      "217.52",
+      "156.70",
+      "332.55",
+      "168.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Lagunitas IPA  7",
+    "bbox": [
+      "407.41",
+      "159.50",
+      "491.96",
+      "171.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "sweet vermouth",
+    "bbox": [
+      "101.21",
+      "167.38",
+      "172.86",
+      "178.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Arak Razzouk 10",
+    "bbox": [
+      "228.60",
+      "178.10",
+      "321.47",
+      "189.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Austin Eastciders Dry Cider 8",
+    "bbox": [
+      "373.73",
+      "182.50",
+      "525.64",
+      "194.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Noilly Prat extra dry 9",
+    "bbox": [
+      "79.13",
+      "187.70",
+      "194.24",
+      "199.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Ouzo12   9",
+    "bbox": [
+      "244.06",
+      "199.50",
+      "301.94",
+      "211.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Lillet Blanc  9",
+    "bbox": [
+      "98.22",
+      "209.10",
+      "175.85",
+      "220.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Hitachino Nest White Ale  12",
+    "bbox": [
+      "377.83",
+      "205.50",
+      "521.54",
+      "217.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "LIQUOR",
+    "bbox": [
+      "270.74",
+      "246.00",
+      "322.22",
+      "258.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bourbon",
+    "bbox": [
+      "121.81",
+      "272.50",
+      "174.33",
+      "284.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Vodka",
+    "bbox": [
+      "454.62",
+      "284.50",
+      "629.91",
+      "296.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "High West Prairie 12",
+    "bbox": [
+      "89.46",
+      "293.90",
+      "284.05",
+      "305.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Titos  11",
+    "bbox": [
+      "449.00",
+      "305.90",
+      "597.11",
+      "316.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Basil Hayden's  15",
+    "bbox": [
+      "95.43",
+      "315.30",
+      "371.75",
+      "326.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Tequila & Mezcal",
+    "bbox": [
+      "264.72",
+      "321.50",
+      "363.36",
+      "333.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Ketel One  11",
+    "bbox": [
+      "435.42",
+      "326.30",
+      "588.02",
+      "337.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Rye",
+    "bbox": [
+      "133.84",
+      "336.70",
+      "162.30",
+      "348.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Casamigos Blanco 15",
+    "bbox": [
+      "256.68",
+      "342.90",
+      "371.40",
+      "354.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Grey Goose  12",
+    "bbox": [
+      "430.88",
+      "347.70",
+      "515.19",
+      "359.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Templeton  13",
+    "bbox": [
+      "107.18",
+      "358.10",
+      "266.34",
+      "369.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Espolon Blanco 12",
+    "bbox": [
+      "263.82",
+      "364.30",
+      "364.25",
+      "375.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Rum",
+    "bbox": [
+      "460.13",
+      "369.10",
+      "498.16",
+      "380.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bulleit Rye  12",
+    "bbox": [
+      "105.28",
+      "379.50",
+      "288.59",
+      "391.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Patron Silver  15",
+    "bbox": [
+      "266.85",
+      "385.70",
+      "361.22",
+      "397.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Goslings  10",
+    "bbox": [
+      "439.13",
+      "390.10",
+      "506.23",
+      "401.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Blended Whiskey",
+    "bbox": [
+      "98.57",
+      "400.90",
+      "197.58",
+      "412.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Don Julio Blanco  15",
+    "bbox": [
+      "257.94",
+      "407.10",
+      "370.14",
+      "418.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bacardi White 10",
+    "bbox": [
+      "425.85",
+      "411.50",
+      "520.22",
+      "423.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Jameson  11",
+    "bbox": [
+      "111.55",
+      "422.30",
+      "278.26",
+      "433.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Don Julio Anejo  16",
+    "bbox": [
+      "260.90",
+      "428.50",
+      "367.17",
+      "440.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Gin",
+    "bbox": [
+      "462.35",
+      "432.90",
+      "487.80",
+      "444.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Johnnie Walker Black  14",
+    "bbox": [
+      "77.34",
+      "443.70",
+      "218.80",
+      "455.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Herradura Reposado  13",
+    "bbox": [
+      "247.06",
+      "449.90",
+      "381.01",
+      "461.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Beefeater  10",
+    "bbox": [
+      "434.69",
+      "454.30",
+      "511.38",
+      "465.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Single Malt",
+    "bbox": [
+      "113.77",
+      "465.10",
+      "426.71",
+      "476.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Herradura Anejo  14",
+    "bbox": [
+      "257.89",
+      "471.30",
+      "370.18",
+      "482.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Plymouth  11",
+    "bbox": [
+      "437.57",
+      "475.70",
+      "508.50",
+      "487.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Macallan 12 yr  20",
+    "bbox": [
+      "93.73",
+      "486.50",
+      "870.25",
+      "498.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Del Maguey Vida Mezcal 12",
+    "bbox": [
+      "238.00",
+      "492.70",
+      "384.63",
+      "504.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Hendricks  13",
+    "bbox": [
+      "434.77",
+      "497.10",
+      "511.30",
+      "508.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Balvenie 12 yr  17",
+    "bbox": [
+      "94.96",
+      "507.90",
+      "197.12",
+      "519.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "AFTER MEAL",
+    "bbox": [
+      "260.04",
+      "549.00",
+      "339.96",
+      "561.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "DIGESTIF",
+    "bbox": [
+      "143.51",
+      "588.00",
+      "205.45",
+      "600.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "AFFICIONADO COFFEE & TEA",
+    "bbox": [
+      "343.99",
+      "586.00",
+      "528.01",
+      "598.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cognac                                                E  s p  r e  s s  o     3  .2  5   |   4        C o  r t a  d o    4",
+    "bbox": [
+      "113.17",
+      "616.50",
+      "660.85",
+      "630.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Courvoisier VSOP  13        Grappa",
+    "bbox": [
+      "76.05",
+      "637.90",
+      "280.35",
+      "651.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Machiato 3.25 | 4",
+    "bbox": [
+      "348.90",
+      "638.90",
+      "441.26",
+      "650.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Latte  5",
+    "bbox": [
+      "467.06",
+      "639.90",
+      "513.01",
+      "651.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Hennessy VS  13",
+    "bbox": [
+      "88.64",
+      "659.30",
+      "180.43",
+      "670.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Castello Banfi 13",
+    "bbox": [
+      "211.10",
+      "660.90",
+      "305.97",
+      "672.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Americano 3.5",
+    "bbox": [
+      "401.25",
+      "666.50",
+      "478.82",
+      "678.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Amaro",
+    "bbox": [
+      "115.46",
+      "680.70",
+      "153.61",
+      "692.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Port",
+    "bbox": [
+      "244.69",
+      "682.30",
+      "276.45",
+      "693.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cappuccino  4.25",
+    "bbox": [
+      "393.55",
+      "682.50",
+      "486.17",
+      "694.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Fernet Branca  11",
+    "bbox": [
+      "84.25",
+      "702.10",
+      "184.82",
+      "713.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Taylor Fladgate 10",
+    "bbox": [
+      "206.84",
+      "703.70",
+      "310.23",
+      "715.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Smith Teamaker 3.5",
+    "bbox": [
+      "386.38",
+      "697.02",
+      "489.86",
+      "710.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Ramazzotti Amaro  10",
+    "bbox": [
+      "74.27",
+      "723.50",
+      "194.81",
+      "735.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "10Yr",
+    "bbox": [
+      "245.64",
+      "719.70",
+      "376.60",
+      "731.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "***",
+    "bbox": [
+      "428.03",
+      "726.50",
+      "448.04",
+      "738.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Taylor Fladgate 14",
+    "bbox": [
+      "206.84",
+      "735.70",
+      "310.23",
+      "747.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Montenegro Amaro 12",
+    "bbox": [
+      "75.09",
+      "744.90",
+      "193.98",
+      "756.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Turkish Coffee 4.5",
+    "bbox": [
+      "387.60",
+      "742.50",
+      "488.47",
+      "754.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "20 Yr",
+    "bbox": [
+      "243.96",
+      "751.70",
+      "273.11",
+      "763.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pot of Moroccan Tea 7",
+    "bbox": [
+      "375.32",
+      "758.50",
+      "500.05",
+      "770.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Lo-Fi Gentian Amaro 10",
+    "bbox": [
+      "70.59",
+      "766.30",
+      "198.48",
+      "777.80"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

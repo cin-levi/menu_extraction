@@ -1,0 +1,2501 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/16/22, 9:23 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Wine menu – 1803",
+    "bbox": [
+      "318.00",
+      "15.70",
+      "385.15",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE MENU",
+    "bbox": [
+      "251.08",
+      "106.25",
+      "361.91",
+      "125.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HALF BOTTLES",
+    "bbox": [
+      "265.88",
+      "163.25",
+      "347.10",
+      "174.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPARKLING",
+    "bbox": [
+      "275.98",
+      "264.50",
+      "337.01",
+      "275.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Roederer Estate Brut, Anderson Valley, California 375 ML NV",
+    "bbox": [
+      "121.81",
+      "320.00",
+      "491.19",
+      "332.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Roederer Estate Brut, Anderson Valley, California 375 ML",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 57
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$35",
+    "bbox": [
+      "297.09",
+      "346.25",
+      "315.89",
+      "357.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$35",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tattinger Brut Prestige Rose, Champagne 375 ML NV",
+    "bbox": [
+      "145.19",
+      "405.50",
+      "467.79",
+      "418.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tattinger Brut Prestige Rose, Champagne 375 ML",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$60",
+    "bbox": [
+      "296.25",
+      "431.75",
+      "316.73",
+      "443.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE",
+    "bbox": [
+      "288.39",
+      "536.75",
+      "324.60",
+      "548.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Ramey Chardonnay, Russian River Valley, California 375 ML 2016",
+    "bbox": [
+      "109.71",
+      "592.25",
+      "503.29",
+      "605.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Ramey Chardonnay, Russian River Valley, California 375 ML",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$48",
+    "bbox": [
+      "296.79",
+      "618.50",
+      "316.20",
+      "629.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RED",
+    "bbox": [
+      "295.40",
+      "723.50",
+      "317.59",
+      "734.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://1803nyc.com/wine-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "141.62",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/16/22, 9:23 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Wine menu – 1803",
+    "bbox": [
+      "318.00",
+      "15.70",
+      "385.15",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chateau de Haute-Serre Cahors, South West France 375 ML 2015",
+    "bbox": [
+      "108.02",
+      "44.00",
+      "504.97",
+      "56.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chateau de Haute-Serre Cahors, South West France 375 ML",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$32",
+    "bbox": [
+      "297.34",
+      "70.25",
+      "315.65",
+      "81.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$32",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPARKLING",
+    "bbox": [
+      "275.98",
+      "175.25",
+      "337.01",
+      "186.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Gerard Bertrand Cremant de Limoux Brut Rose",
+    "bbox": [
+      "162.25",
+      "230.75",
+      "450.74",
+      "243.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Gerard Bertrand Cremant de Limoux Brut Rose",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$72",
+    "bbox": [
+      "297.31",
+      "257.00",
+      "315.68",
+      "268.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$72",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Jean- Jaques Vincent Crémant de Bourgogne Brut NV",
+    "bbox": [
+      "141.02",
+      "316.25",
+      "471.97",
+      "329.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Jean- Jaques Vincent Crémant de Bourgogne Brut",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$52",
+    "bbox": [
+      "297.22",
+      "342.50",
+      "315.78",
+      "353.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$52",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Taittinger, “Prestige Cuvée,” Riems, Champagne NV",
+    "bbox": [
+      "148.58",
+      "401.75",
+      "464.42",
+      "414.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Taittinger, “Prestige Cuvée,” Riems, Champagne",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$94",
+    "bbox": [
+      "296.81",
+      "428.00",
+      "316.18",
+      "439.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$94",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Louis Roederer, Brut Rosé, Riems, Champagne 2007",
+    "bbox": [
+      "147.93",
+      "487.25",
+      "465.06",
+      "500.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Louis Roederer, Brut Rosé, Riems, Champagne",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2007",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$275",
+    "bbox": [
+      "294.30",
+      "513.50",
+      "318.68",
+      "524.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$275",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pierre Moncuit Brut Grand Cru Blanc de Blancs, Le Mesnil Sure Oger NV",
+    "bbox": [
+      "86.91",
+      "572.75",
+      "526.07",
+      "585.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pierre Moncuit Brut Grand Cru Blanc de Blancs, Le Mesnil Sure Oger",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$100",
+    "bbox": [
+      "293.98",
+      "599.00",
+      "318.99",
+      "610.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$100",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Jacquesson Champagne Extra Brut Cuvée 742",
+    "bbox": [
+      "165.08",
+      "658.25",
+      "447.92",
+      "671.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Jacquesson Champagne Extra Brut Cuvée 742",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$210",
+    "bbox": [
+      "294.63",
+      "684.50",
+      "318.37",
+      "695.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$210",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Jacquesson Champagne Extra Brut Cuvée 742 1.5 litter",
+    "bbox": [
+      "138.39",
+      "743.75",
+      "474.59",
+      "756.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Jacquesson Champagne Extra Brut Cuvée 742 1.5 litter",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://1803nyc.com/wine-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "141.62",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/16/22, 9:23 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Wine menu – 1803",
+    "bbox": [
+      "318.00",
+      "15.70",
+      "385.15",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$350",
+    "bbox": [
+      "293.67",
+      "35.00",
+      "319.32",
+      "46.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$350",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ROSE",
+    "bbox": [
+      "291.77",
+      "140.00",
+      "321.22",
+      "151.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Willamette Valley Vineyards Pinot Noir rose",
+    "bbox": [
+      "171.66",
+      "195.50",
+      "441.32",
+      "208.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Willamette Valley Vineyards Pinot Noir rose",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WHOLE CLUSTER 2019 $52",
+    "bbox": [
+      "235.18",
+      "221.75",
+      "377.81",
+      "233.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "WHOLE CLUSTER 2019 $52",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 14
+          }
+        ],
+        "P": [
+          {
+            "text": "$52",
+            "answer_start": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Daou, Paso Robles, CA",
+    "bbox": [
+      "238.21",
+      "281.00",
+      "374.77",
+      "293.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Daou, Paso Robles, CA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$58",
+    "bbox": [
+      "296.71",
+      "307.25",
+      "316.28",
+      "318.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$58",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chateau Les Valentines, Cote de Provence",
+    "bbox": [
+      "176.45",
+      "366.50",
+      "436.53",
+      "379.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chateau Les Valentines, Cote de Provence",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$64",
+    "bbox": [
+      "296.71",
+      "392.75",
+      "316.27",
+      "404.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$64",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "FRENCH WINE",
+    "bbox": [
+      "267.25",
+      "587.75",
+      "345.73",
+      "599.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Gaujal de Saint Bon Picpoul de Pinet, “Cuvée de Dames,” Languedoc 2018",
+    "bbox": [
+      "79.71",
+      "643.25",
+      "533.28",
+      "656.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Gaujal de Saint Bon Picpoul de Pinet, “Cuvée de Dames,” Languedoc",
+            "answer_start": 0
+          },
+          {
+            "text": "2018",
+            "answer_start": 66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$38",
+    "bbox": [
+      "296.83",
+      "669.50",
+      "316.15",
+      "680.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$38",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Naudin Varrault Macon Villages Bourgogne Chardonnay",
+    "bbox": [
+      "133.85",
+      "728.75",
+      "479.13",
+      "741.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Naudin Varrault Macon Villages Bourgogne Chardonnay",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$56",
+    "bbox": [
+      "296.64",
+      "755.00",
+      "316.34",
+      "766.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$56",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://1803nyc.com/wine-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "141.62",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/16/22, 9:23 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Wine menu – 1803",
+    "bbox": [
+      "318.00",
+      "15.70",
+      "385.15",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$56",
+    "bbox": [
+      "296.64",
+      "20.00",
+      "316.34",
+      "31.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Domaine Trapet Père & Fils Gewürztraminer 2016",
+    "bbox": [
+      "154.94",
+      "79.25",
+      "458.05",
+      "92.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Trapet Père & Fils Gewürztraminer",
+            "answer_start": 0
+          },
+          {
+            "text": "2016",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$56",
+    "bbox": [
+      "296.64",
+      "105.50",
+      "316.34",
+      "116.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$56",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Southold Farm, White Blend Don’t Forget to Soar, Long Island New York",
+    "bbox": [
+      "87.56",
+      "164.75",
+      "525.43",
+      "177.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Southold Farm, White Blend Don’t Forget to Soar, Long Island New York",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$52",
+    "bbox": [
+      "297.22",
+      "191.00",
+      "315.78",
+      "202.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$52",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Domaine Du Colombier, Chablis",
+    "bbox": [
+      "209.35",
+      "250.25",
+      "403.64",
+      "263.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Du Colombier, Chablis",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$56",
+    "bbox": [
+      "296.64",
+      "276.50",
+      "316.34",
+      "287.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$56",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Famille Hugel Gentill  Gewürztraminer 2017",
+    "bbox": [
+      "171.42",
+      "335.75",
+      "441.57",
+      "348.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Famille Hugel Gentill  Gewürztramine",
+            "answer_start": 0
+          },
+          {
+            "text": "r 201",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$56",
+    "bbox": [
+      "296.64",
+      "362.00",
+      "316.34",
+      "373.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$56",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Irruleguy, Domaine Ameztia, Sub-Ouest 2015",
+    "bbox": [
+      "168.93",
+      "421.25",
+      "444.06",
+      "434.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Irruleguy, Domaine Ameztia, Sub-Ouest",
+            "answer_start": 0
+          },
+          {
+            "text": "2015",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$58",
+    "bbox": [
+      "296.71",
+      "447.50",
+      "316.28",
+      "458.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$58",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Château Les Charmes-Godard, Francs-Côtes de Bordeaux 2015",
+    "bbox": [
+      "112.50",
+      "494.00",
+      "500.50",
+      "506.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Château Les Charmes-Godard, Francs-Côtes de Bordeaux",
+            "answer_start": 0
+          },
+          {
+            "text": "2015",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$60",
+    "bbox": [
+      "296.25",
+      "507.50",
+      "316.73",
+      "518.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "$60",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Schoenheitz – Riesling Herrenreben 2015",
+    "bbox": [
+      "179.47",
+      "566.75",
+      "433.52",
+      "579.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Schoenheitz – Riesling Herrenreben",
+            "answer_start": 0
+          },
+          {
+            "text": "2015",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$56",
+    "bbox": [
+      "296.64",
+      "593.00",
+      "316.34",
+      "604.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$56",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Domaine Gerard Millet, Sancerre 2020",
+    "bbox": [
+      "188.91",
+      "652.25",
+      "424.08",
+      "665.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Gerard Millet, Sancerre",
+            "answer_start": 0
+          },
+          {
+            "text": "2020",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$60",
+    "bbox": [
+      "296.25",
+      "678.50",
+      "316.73",
+      "689.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Vouvray Demi-Sec,Domaine du Clos Naudin, Philippe Foureau, Loire 2003",
+    "bbox": [
+      "81.46",
+      "725.00",
+      "531.53",
+      "737.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Vouvray Demi-Sec,Domaine du Clos Naudin, Philippe Foureau, Loire",
+            "answer_start": 0
+          },
+          {
+            "text": "2003",
+            "answer_start": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$74",
+    "bbox": [
+      "297.48",
+      "738.50",
+      "315.52",
+      "749.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "$74",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$74",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://1803nyc.com/wine-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "141.62",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/16/22, 9:23 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Wine menu – 1803",
+    "bbox": [
+      "318.00",
+      "15.70",
+      "385.15",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Mas de Daumas Gassac Blanc, Haute Vallée du Gassac, Languedoc 2015",
+    "bbox": [
+      "85.03",
+      "62.75",
+      "527.96",
+      "75.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Mas de Daumas Gassac Blanc, Haute Vallée du Gassac, Languedoc",
+            "answer_start": 0
+          },
+          {
+            "text": "2015",
+            "answer_start": 62
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$85",
+    "bbox": [
+      "296.71",
+      "89.00",
+      "316.28",
+      "100.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$85",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Domaine Ferret, Pouilly-Fuissé, Burgundy 2016",
+    "bbox": [
+      "162.61",
+      "148.25",
+      "450.38",
+      "161.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Ferret, Pouilly-Fuissé, Burgundy",
+            "answer_start": 0
+          },
+          {
+            "text": "2016",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$100",
+    "bbox": [
+      "293.98",
+      "174.50",
+      "318.99",
+      "185.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$100",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "DOMESTIC WINE",
+    "bbox": [
+      "261.55",
+      "279.50",
+      "351.45",
+      "290.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Eyrie Vineyards Pinot Gris, Dundee Hills, Oregon 2017",
+    "bbox": [
+      "142.86",
+      "335.00",
+      "470.13",
+      "347.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Eyrie Vineyards Pinot Gris, Dundee Hills, Oregon",
+            "answer_start": 0
+          },
+          {
+            "text": "2017",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$48",
+    "bbox": [
+      "296.79",
+      "361.25",
+      "316.20",
+      "372.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Hermann J. Wiemer  DRY Riesling, “Magdalena,” Seneca Lake, NY 2016",
+    "bbox": [
+      "89.73",
+      "420.50",
+      "523.27",
+      "433.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Hermann J. Wiemer  DRY Riesling, “Magdalena,” Seneca Lake, N",
+            "answer_start": 0
+          },
+          {
+            "text": "Y 201",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$76",
+    "bbox": [
+      "296.74",
+      "446.75",
+      "316.24",
+      "458.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$76",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "McIntyre Chardonnay, Santa Lucia Highlands 2017",
+    "bbox": [
+      "152.26",
+      "506.00",
+      "460.74",
+      "518.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "McIntyre Chardonnay, Santa Lucia Highlands",
+            "answer_start": 0
+          },
+          {
+            "text": "2017",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$66",
+    "bbox": [
+      "296.32",
+      "532.25",
+      "316.67",
+      "543.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$66",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "FRENCH RED",
+    "bbox": [
+      "271.11",
+      "637.25",
+      "341.88",
+      "648.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "McIntyre Chardonnay, Santa Lucia Highlands 2017",
+    "bbox": [
+      "152.26",
+      "692.75",
+      "460.74",
+      "705.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "McIntyre Chardonnay, Santa Lucia Highlands",
+            "answer_start": 0
+          },
+          {
+            "text": "2017",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$66",
+    "bbox": [
+      "296.32",
+      "719.00",
+      "316.67",
+      "730.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$66",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://1803nyc.com/wine-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "141.62",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/16/22, 9:23 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Wine menu – 1803",
+    "bbox": [
+      "318.00",
+      "15.70",
+      "385.15",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Samorens, “Côtes du Rhône” 2017",
+    "bbox": [
+      "201.79",
+      "43.25",
+      "411.19",
+      "56.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$42",
+    "bbox": [
+      "297.29",
+      "69.50",
+      "315.71",
+      "80.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Francois Villard “L’appel des Sereines” Syrah 2017",
+    "bbox": [
+      "152.95",
+      "128.75",
+      "460.03",
+      "141.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$44",
+    "bbox": [
+      "297.11",
+      "155.00",
+      "315.87",
+      "166.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Domaine Magali Mathray,  Beaujolais 2016",
+    "bbox": [
+      "177.05",
+      "214.25",
+      "435.94",
+      "227.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$52",
+    "bbox": [
+      "297.22",
+      "240.50",
+      "315.78",
+      "251.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Nicolas Idiart, Pinot Noir Val de Loire 2016",
+    "bbox": [
+      "177.62",
+      "299.75",
+      "435.37",
+      "312.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$52",
+    "bbox": [
+      "297.22",
+      "326.00",
+      "315.78",
+      "337.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Baron Lombart, Bordeaux 2018",
+    "bbox": [
+      "210.80",
+      "385.25",
+      "402.18",
+      "398.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$55",
+    "bbox": [
+      "296.97",
+      "411.50",
+      "316.02",
+      "422.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chinon, “Vieille Vignes,” Domaine Philippe Alliet, Loire 2015",
+    "bbox": [
+      "123.73",
+      "470.75",
+      "489.25",
+      "483.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$58",
+    "bbox": [
+      "296.71",
+      "497.00",
+      "316.28",
+      "508.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Clos Cibonne Tibouren, “Cru Classé,” Côtes de Provence 2016",
+    "bbox": [
+      "118.03",
+      "556.25",
+      "494.95",
+      "569.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$64",
+    "bbox": [
+      "296.71",
+      "582.50",
+      "316.27",
+      "593.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Domaine Bernard & Fils “Vacqueyaras,” 2016",
+    "bbox": [
+      "169.61",
+      "641.75",
+      "443.37",
+      "654.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$64",
+    "bbox": [
+      "296.71",
+      "668.00",
+      "316.27",
+      "679.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Domaine Giacometti Patrimonio, “Cru de Agriate,” Corsica 2014",
+    "bbox": [
+      "112.75",
+      "727.25",
+      "500.24",
+      "740.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$66",
+    "bbox": [
+      "296.32",
+      "753.50",
+      "316.67",
+      "764.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://1803nyc.com/wine-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "141.62",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/16/22, 9:23 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$66Wine menu – 1803",
+    "bbox": [
+      "296.32",
+      "15.70",
+      "385.15",
+      "29.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Domaine Saint-Gayan Gigondas, Southern Rhone 2014",
+    "bbox": [
+      "139.82",
+      "77.75",
+      "473.16",
+      "90.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$68",
+    "bbox": [
+      "296.39",
+      "104.00",
+      "316.60",
+      "115.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Bois de Boursan Chateauneuf du Pape, “Tadition,” Southern Rhône 2015",
+    "bbox": [
+      "85.82",
+      "163.25",
+      "527.17",
+      "176.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$80",
+    "bbox": [
+      "296.32",
+      "189.50",
+      "316.67",
+      "200.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Domaine la Su\u0000rene Bandol, “Les Lauves,” Provence 2005",
+    "bbox": [
+      "129.02",
+      "248.75",
+      "483.96",
+      "261.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$95",
+    "bbox": [
+      "296.74",
+      "275.00",
+      "316.26",
+      "286.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Château du Parc Saint- Émilion Grand Cru 2014",
+    "bbox": [
+      "161.89",
+      "334.25",
+      "451.11",
+      "347.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$110",
+    "bbox": [
+      "295.23",
+      "360.50",
+      "317.77",
+      "371.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Chateau Haut-Bages Averous, Pauillac, Bordeaux 1986",
+    "bbox": [
+      "138.29",
+      "419.75",
+      "474.69",
+      "432.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$195",
+    "bbox": [
+      "294.55",
+      "446.00",
+      "318.45",
+      "457.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Chateau Fonplegade Sant-Emilion Grand Cru 2014",
+    "bbox": [
+      "151.44",
+      "505.25",
+      "461.55",
+      "518.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$260",
+    "bbox": [
+      "293.46",
+      "531.50",
+      "319.52",
+      "542.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DOMESTIC RED",
+    "bbox": [
+      "265.40",
+      "636.50",
+      "347.60",
+      "647.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Tensley Syrah, Santa Barbara County, California 2017",
+    "bbox": [
+      "144.14",
+      "692.00",
+      "468.85",
+      "704.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$54",
+    "bbox": [
+      "297.04",
+      "718.25",
+      "315.94",
+      "729.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://1803nyc.com/wine-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "141.62",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/16/22, 9:23 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Wine menu – 1803",
+    "bbox": [
+      "318.00",
+      "15.70",
+      "385.15",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Willamette Valley, Vineyards Pinot Noir “Whole Cluster,” Oregon 2017",
+    "bbox": [
+      "92.39",
+      "42.50",
+      "520.60",
+      "55.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$68",
+    "bbox": [
+      "296.39",
+      "68.75",
+      "316.60",
+      "80.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Paraduxx Red Blend, Napa Valley, California 2018",
+    "bbox": [
+      "154.75",
+      "128.00",
+      "458.24",
+      "140.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$120",
+    "bbox": [
+      "294.63",
+      "154.25",
+      "318.37",
+      "165.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Hardin Cabernet Sauvignon, Napa Valley, California 2016",
+    "bbox": [
+      "132.02",
+      "213.50",
+      "480.96",
+      "226.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$72",
+    "bbox": [
+      "297.31",
+      "239.75",
+      "315.68",
+      "251.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Nicolas-Jay Pinot Noir, Willamette Valley 2016",
+    "bbox": [
+      "164.14",
+      "299.00",
+      "448.69",
+      "311.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$160",
+    "bbox": [
+      "294.05",
+      "325.25",
+      "318.93",
+      "336.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Privacy Policy",
+    "bbox": [
+      "270.64",
+      "479.00",
+      "342.34",
+      "490.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "GALLERY",
+    "bbox": [
+      "286.51",
+      "530.75",
+      "326.49",
+      "539.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "1803, 82 READE STREET, NEW YORK, NY, 10007, UNITED STATES212-267-3000 1803NYC@GMAIL.COM",
+    "bbox": [
+      "61.31",
+      "582.50",
+      "550.93",
+      "591.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://1803nyc.com/wine-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "141.62",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

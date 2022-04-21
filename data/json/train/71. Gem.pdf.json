@@ -1,0 +1,2567 @@
+[
+  {
+    "page_number": 1,
+    "text": "Glass of wine $15",
+    "bbox": [
+      "72.00",
+      "37.93",
+      "140.18",
+      "45.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Glass of beer or cider $8",
+    "bbox": [
+      "72.00",
+      "53.93",
+      "163.79",
+      "61.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cider spritz $12",
+    "bbox": [
+      "72.00",
+      "70.93",
+      "131.82",
+      "78.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sparkling",
+    "bbox": [
+      "72.00",
+      "97.93",
+      "113.38",
+      "105.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Fondo Bozzole ‘Incantibiss Lambrusco Mantovano’ Lambrusco Ruberti Lombardy, Italy 2019 $48",
+    "bbox": [
+      "72.00",
+      "113.93",
+      "425.54",
+      "121.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Fondo Bozzole ‘Incantibiss Lambrusco Mantovano’ Lambrusco Ruberti Lombardy, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 82
+          }
+        ],
+        "P": [
+          {
+            "text": "$48",
+            "answer_start": 87
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Domaine du Facteur ‘La Bulle du Facteur’ Chenin Blanc Loire Valley, France NV $54",
+    "bbox": [
+      "72.00",
+      "130.93",
+      "377.16",
+      "138.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine du Facteur ‘La Bulle du Facteur’ Chenin Blanc Loire Valley, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 75
+          }
+        ],
+        "P": [
+          {
+            "text": "$54",
+            "answer_start": 78
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rita & Rudolf Trossen ‘Purellus Purus’ Riesling Mosel, Germany 2018 $75",
+    "bbox": [
+      "72.00",
+      "146.93",
+      "340.53",
+      "154.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rita & Rudolf Trossen ‘Purellus Purus’ Riesling Mosel, Germany",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 63
+          }
+        ],
+        "P": [
+          {
+            "text": "$75",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Franz Strohmeier ‘Weisser Frizzante No. 1’ Sauvignon Blanc, Pinot Blanc, Zweigelt Styria, Austria $93",
+    "bbox": [
+      "72.00",
+      "163.93",
+      "438.53",
+      "171.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Franz Strohmeier ‘Weisser Frizzante No. 1’ Sauvignon Blanc, Pinot Blanc, Zweigelt Styria, Austria",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$93",
+            "answer_start": 98
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Jacques Lassaigne ‘Champagne Les Vignes de Montgueux Blanc de Blancs’ Chardonnay Champagne, France NV $124",
+    "bbox": [
+      "72.00",
+      "179.93",
+      "507.54",
+      "187.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Jacques Lassaigne ‘Champagne Les Vignes de Montgueux Blanc de Blancs’ Chardonnay Champagne, France",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$124",
+            "answer_start": 102
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 99
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "White",
+    "bbox": [
+      "72.00",
+      "206.93",
+      "97.25",
+      "214.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Matthias Warnung ‘Esper Grüner Veltliner’ Kamptal, Austria 2016 $44",
+    "bbox": [
+      "72.00",
+      "223.93",
+      "328.22",
+      "231.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Matthias Warnung ‘Esper Grüner Veltliner’ Kamptal, Austria",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$44",
+            "answer_start": 64
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Domaine Mont de Marie ‘Anathème Blanc’ Ugni Blanc Souvignargues, France 2019 $45",
+    "bbox": [
+      "72.00",
+      "239.93",
+      "395.11",
+      "247.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Mont de Marie ‘Anathème Blanc’ Ugni Blanc Souvignargues, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 72
+          }
+        ],
+        "P": [
+          {
+            "text": "$45",
+            "answer_start": 77
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Domaine L&R Kox ‘Auxerrois Privilege’ Auxerrois Luxembourg, Germany 2015 $45",
+    "bbox": [
+      "72.00",
+      "256.93",
+      "375.10",
+      "264.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine L&R Kox ‘Auxerrois Privilege’ Auxerrois Luxembourg, Germany",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 68
+          }
+        ],
+        "P": [
+          {
+            "text": "$45",
+            "answer_start": 73
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Vin Nus ‘SiurAlta Gris’ Grenache Gris Catalonia, Spain 2018 $51",
+    "bbox": [
+      "72.00",
+      "272.93",
+      "306.24",
+      "280.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Vin Nus ‘SiurAlta Gris’ Grenache Gris Catalonia, Spain",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 55
+          }
+        ],
+        "P": [
+          {
+            "text": "$51",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Milan Nestarec ‘Youngster White’ Riesling, Neuberger, Pinot Gris Moravia, Czech Republic 2020 $54",
+    "bbox": [
+      "72.00",
+      "289.93",
+      "439.02",
+      "297.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Milan Nestarec ‘Youngster White’ Riesling, Neuberger, Pinot Gris Moravia, Czech Republic",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 89
+          }
+        ],
+        "P": [
+          {
+            "text": "$54",
+            "answer_start": 94
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Wasenhaus ‘Gutedel’ Baden, Germany 2019 $60",
+    "bbox": [
+      "72.00",
+      "305.93",
+      "254.18",
+      "313.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Wasenhaus ‘Gutedel’ Baden, Germany",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 35
+          }
+        ],
+        "P": [
+          {
+            "text": "$60",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Domaine des Buis ‘Les Brumes’ Chenin Blanc Aveyron, France 2019 $60",
+    "bbox": [
+      "72.00",
+      "322.93",
+      "337.45",
+      "330.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine des Buis ‘Les Brumes’ Chenin Blanc Aveyron, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 59
+          }
+        ],
+        "P": [
+          {
+            "text": "$60",
+            "answer_start": 64
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Château de Béru ‘Athénaïs Bourgogne Chardonnay’ Chablis, France 2019 $66",
+    "bbox": [
+      "72.00",
+      "338.93",
+      "360.51",
+      "346.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Château de Béru ‘Athénaïs Bourgogne Chardonnay’ Chablis, France",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$66",
+            "answer_start": 69
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 64
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Lamoresca ‘Bianco’ Vermentino, Roussanne Sicily, Italy 2019 $69",
+    "bbox": [
+      "72.00",
+      "355.93",
+      "308.41",
+      "363.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Lamoresca ‘Bianco’ Vermentino, Roussanne Sicily, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 55
+          }
+        ],
+        "P": [
+          {
+            "text": "$69",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Domaine Binner ‘Côtes d’Amourschwihr’ Riesling, Pinot Gris Alsace, France 2015 $72",
+    "bbox": [
+      "72.00",
+      "371.93",
+      "385.05",
+      "379.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Binner ‘Côtes d’Amourschwihr’ Riesling, Pinot Gris Alsace, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 74
+          }
+        ],
+        "P": [
+          {
+            "text": "$72",
+            "answer_start": 79
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Domaine Geschickt ‘Grand Cru Kaefferkopf’ Gewürztraminer, Pinot Gris, Riesling Alsace, France 2016 $75",
+    "bbox": [
+      "72.00",
+      "388.93",
+      "459.48",
+      "396.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Geschickt ‘Grand Cru Kaefferkopf’ Gewürztraminer, Pinot Gris, Riesling Alsace, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 94
+          }
+        ],
+        "P": [
+          {
+            "text": "$75",
+            "answer_start": 99
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Les Dolomies ‘Côtes du Jura Les Boutonniers’ Chardonnay Jura, France 2018 $75",
+    "bbox": [
+      "72.00",
+      "404.93",
+      "372.88",
+      "412.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Les Dolomies ‘Côtes du Jura Les Boutonniers’ Chardonnay Jura, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 69
+          }
+        ],
+        "P": [
+          {
+            "text": "$75",
+            "answer_start": 74
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Christian Tschida ‘Himmel auf Erden Weiss’ Weissburgunder, Scheurebe Burgenland, Austria 2019 $78",
+    "bbox": [
+      "72.00",
+      "421.93",
+      "448.57",
+      "429.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Christian Tschida ‘Himmel auf Erden Weiss’ Weissburgunder, Scheurebe Burgenland, Austria",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 89
+          }
+        ],
+        "P": [
+          {
+            "text": "$78",
+            "answer_start": 94
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Domaine de L’Octavin ‘Ivre De Vivre’ Viognier Arbois, France 2018 $81",
+    "bbox": [
+      "72.00",
+      "437.93",
+      "333.68",
+      "445.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine de L’Octavin ‘Ivre De Vivre’ Viognier Arbois, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 61
+          }
+        ],
+        "P": [
+          {
+            "text": "$81",
+            "answer_start": 66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sébastien Riffault ‘Saulétas’ Sauvignon Blanc Sancerre, France 2014 $87",
+    "bbox": [
+      "72.00",
+      "454.93",
+      "339.74",
+      "462.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sébastien Riffault ‘Saulétas’ Sauvignon Blanc Sancerre, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 63
+          }
+        ],
+        "P": [
+          {
+            "text": "$87",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Milan Nestarec ‘I Am Not A Big Wine’ Riesling, Chardonnay, local varietals Moravia, Czech Republic 2017 $90",
+    "bbox": [
+      "72.00",
+      "470.93",
+      "471.78",
+      "478.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Milan Nestarec ‘I Am Not A Big Wine’ Riesling, Chardonnay, local varietals Moravia, Czech Republic",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 99
+          }
+        ],
+        "P": [
+          {
+            "text": "$90",
+            "answer_start": 104
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rita & Rudolf Trossen ‘Schieferstern Purus’ Riesling Mosel, Germany 2018 $96",
+    "bbox": [
+      "72.00",
+      "487.93",
+      "359.84",
+      "495.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rita & Rudolf Trossen ‘Schieferstern Purus’ Riesling Mosel, Germany",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 68
+          }
+        ],
+        "P": [
+          {
+            "text": "$96",
+            "answer_start": 73
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Domaine de L’Octavin ‘Colore le Roi Blanc’ Riesling Arbois, France 2017 $99",
+    "bbox": [
+      "72.00",
+      "503.93",
+      "354.70",
+      "511.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine de L’Octavin ‘Colore le Roi Blanc’ Riesling Arbois, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 67
+          }
+        ],
+        "P": [
+          {
+            "text": "$99",
+            "answer_start": 72
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Frank Cornelissen ‘Munjebel Terre Siciliane Bianco’ Grecanico Dorato, Carricante Sicily, Italy 2017 $105",
+    "bbox": [
+      "72.00",
+      "520.93",
+      "450.29",
+      "528.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Frank Cornelissen ‘Munjebel Terre Siciliane Bianco’ Grecanico Dorato, Carricante Sicily, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 95
+          }
+        ],
+        "P": [
+          {
+            "text": "$105",
+            "answer_start": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Les Vignes Herbel ‘La Pointe’ Chenin Blanc Anjou, France 2016-17 $108",
+    "bbox": [
+      "72.00",
+      "536.93",
+      "336.82",
+      "544.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Les Vignes Herbel ‘La Pointe’ Chenin Blanc Anjou, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016-17",
+            "answer_start": 57
+          }
+        ],
+        "P": [
+          {
+            "text": "$108",
+            "answer_start": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Marie et Vincent Tricot ‘Rasséréné Blanc’ Chardonnay, Sauvignon Blanc Auvergne, France 2019 $114",
+    "bbox": [
+      "72.00",
+      "553.93",
+      "443.01",
+      "561.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Marie et Vincent Tricot ‘Rasséréné Blanc’ Chardonnay, Sauvignon Blanc Auvergne, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 87
+          }
+        ],
+        "P": [
+          {
+            "text": "$114",
+            "answer_start": 92
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Domaine Derain ‘Saint-Aubin Chardonnay Blanc’ Chardonnay Saint-Aubin, France 2018 $120",
+    "bbox": [
+      "72.00",
+      "569.93",
+      "414.29",
+      "577.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Derain ‘Saint-Aubin Chardonnay Blanc’ Chardonnay Saint-Aubin, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 77
+          }
+        ],
+        "P": [
+          {
+            "text": "$120",
+            "answer_start": 82
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Les Dolomies ‘Arco’ Savagnin Jura, France 2018 $126",
+    "bbox": [
+      "72.00",
+      "586.93",
+      "269.67",
+      "594.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Les Dolomies ‘Arco’ Savagnin Jura, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 42
+          }
+        ],
+        "P": [
+          {
+            "text": "$126",
+            "answer_start": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Skin Contact",
+    "bbox": [
+      "72.00",
+      "613.93",
+      "122.74",
+      "621.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Viteadovest ‘Terre Siciliane Vurgo Bianco’ Grillo, Catarratto Sicily, Italy 2018 $48",
+    "bbox": [
+      "72.00",
+      "629.93",
+      "364.51",
+      "637.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Viteadovest ‘Terre Siciliane Vurgo Bianco’ Grillo, Catarratto Sicily, Italy",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$48",
+            "answer_start": 81
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Adega Sernande ‘Oh My God! Blanco Lías’ Palomino Castilla-La Mancha, Spain 2018 $60",
+    "bbox": [
+      "72.00",
+      "646.93",
+      "399.06",
+      "654.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Adega Sernande ‘Oh My God! Blanco Lías’ Palomino Castilla-La Mancha, Spain",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 75
+          }
+        ],
+        "P": [
+          {
+            "text": "$60",
+            "answer_start": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2Naturkinder ‘Drei Freunde’ Bacchus, Müller-Thurgau, Silvaner Bavarian, Germany 2019 $72",
+    "bbox": [
+      "72.00",
+      "662.93",
+      "410.17",
+      "670.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "2Naturkinder ‘Drei Freunde’ Bacchus, Müller-Thurgau, Silvaner Bavarian, Germany",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 80
+          }
+        ],
+        "P": [
+          {
+            "text": "$72",
+            "answer_start": 85
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Porta del Vento ‘Saharay' Catarratto Sicily, Italy 2017 $74",
+    "bbox": [
+      "72.00",
+      "679.93",
+      "282.42",
+      "687.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Porta del Vento ‘Saharay' Catarratto Sicily, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 51
+          }
+        ],
+        "P": [
+          {
+            "text": "$74",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Alessandro Viola ‘Catarratto’ Sicily, Italy 2019 $78",
+    "bbox": [
+      "72.00",
+      "695.93",
+      "255.84",
+      "703.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Alessandro Viola ‘Catarratto’ Sicily, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 44
+          }
+        ],
+        "P": [
+          {
+            "text": "$78",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dario Prinčič ‘Jakot’ Tocai Friulano  Friuli, Italy 2016 $117",
+    "bbox": [
+      "72.00",
+      "712.93",
+      "280.77",
+      "720.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Dario Prinčič ‘Jakot’ Tocai Friulano  Friuli, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 52
+          }
+        ],
+        "P": [
+          {
+            "text": "$117",
+            "answer_start": 57
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Jean-Yves Péron ‘La Grande Journée’ Altesse Savoie, France 2012 $127",
+    "bbox": [
+      "72.00",
+      "728.93",
+      "337.66",
+      "736.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Jean-Yves Péron ‘La Grande Journée’ Altesse Savoie, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2012",
+            "answer_start": 59
+          }
+        ],
+        "P": [
+          {
+            "text": "$127",
+            "answer_start": 64
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Christian Tschida ‘Non-Tradition Weiss’ Gruner Veltliner Burgenland, Austria 2016 $213",
+    "bbox": [
+      "72.00",
+      "745.93",
+      "391.35",
+      "753.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Christian Tschida ‘Non-Tradition Weiss’ Gruner Veltliner Burgenland, Austria",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 77
+          }
+        ],
+        "P": [
+          {
+            "text": "$213",
+            "answer_start": 82
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rosé",
+    "bbox": [
+      "72.00",
+      "20.93",
+      "92.81",
+      "28.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Mas Mellet ‘Lily Rose’ Grenache and Mourvèdre Languedoc-Roussillon, France 2019 $45",
+    "bbox": [
+      "72.00",
+      "37.93",
+      "396.76",
+      "45.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Mas Mellet ‘Lily Rose’ Grenache and Mourvèdre Languedoc-Roussillon, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 75
+          }
+        ],
+        "P": [
+          {
+            "text": "$45",
+            "answer_start": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Alessandro Viola ‘Rose Terre Siciliane’ Nero d’Avola, Nerello Mascalese Sicily, Italy NV $45",
+    "bbox": [
+      "72.00",
+      "53.93",
+      "402.10",
+      "61.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Alessandro Viola ‘Rose Terre Siciliane’ Nero d’Avola, Nerello Mascalese Sicily, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 86
+          }
+        ],
+        "P": [
+          {
+            "text": "$45",
+            "answer_start": 89
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Milan Nestarec ‘Youngster Rose’ Pinot Noir, Blaufrankisch, Zweigelt Moravia, Czech Republic 2020 $54",
+    "bbox": [
+      "72.00",
+      "70.93",
+      "447.14",
+      "78.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Milan Nestarec ‘Youngster Rose’ Pinot Noir, Blaufrankisch, Zweigelt Moravia, Czech Republic",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 92
+          }
+        ],
+        "P": [
+          {
+            "text": "$54",
+            "answer_start": 97
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Enderle & Moll ‘Grauburgunder’ Baden, Germany 2019 $57",
+    "bbox": [
+      "72.00",
+      "86.93",
+      "294.42",
+      "94.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Enderle & Moll ‘Grauburgunder’ Baden, Germany",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 46
+          }
+        ],
+        "P": [
+          {
+            "text": "$57",
+            "answer_start": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Franz Strohmeier ‘Lys-rød No. 29’ Blauer Wildbacher Styria, Austria $66",
+    "bbox": [
+      "72.00",
+      "103.93",
+      "334.56",
+      "111.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Franz Strohmeier ‘Lys-rød No. 29’ Blauer Wildbacher Styria, Austria",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$66",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Christian Tschida ‘Birdscape’ Blaufrankisch, Pinot Noir, white varietals Burgenland, Austria 2018 $80",
+    "bbox": [
+      "72.00",
+      "119.93",
+      "438.70",
+      "127.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Christian Tschida ‘Birdscape’ Blaufrankisch, Pinot Noir, white varietals Burgenland, Austria",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 93
+          }
+        ],
+        "P": [
+          {
+            "text": "$80",
+            "answer_start": 98
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Red",
+    "bbox": [
+      "72.00",
+      "146.93",
+      "89.24",
+      "154.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "La Roche Buissière ‘Côtes du Rhône Gaïa' Grenache, Syrah Rhône Valley, France 2011 $42",
+    "bbox": [
+      "72.00",
+      "163.93",
+      "403.18",
+      "171.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "La Roche Buissière ‘Côtes du Rhône Gaïa' Grenache, Syrah Rhône Valley, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2011",
+            "answer_start": 78
+          }
+        ],
+        "P": [
+          {
+            "text": "$42",
+            "answer_start": 83
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "M. Isart La Maldición ‘Tinto de Valdilecha’ Tempranillo, Malvar Madrid, Spain 2016 $45",
+    "bbox": [
+      "72.00",
+      "179.93",
+      "391.08",
+      "187.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "M. Isart La Maldición ‘Tinto de Valdilecha’ Tempranillo, Malvar Madrid, Spain",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 78
+          }
+        ],
+        "P": [
+          {
+            "text": "$45",
+            "answer_start": 83
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Roberto Henriquez ‘Tierra de las Pumas’ Pais Bío Bío, Chile 2019 $48",
+    "bbox": [
+      "72.00",
+      "196.93",
+      "326.34",
+      "204.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Roberto Henriquez ‘Tierra de las Pumas’ Pais Bío Bío, Chile",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 60
+          }
+        ],
+        "P": [
+          {
+            "text": "$48",
+            "answer_start": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Clos des Mourres ‘NoVice’ Grenache, Syrah Rhône Valley, France 2019 $51",
+    "bbox": [
+      "72.00",
+      "212.93",
+      "347.12",
+      "220.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Clos des Mourres ‘NoVice’ Grenache, Syrah Rhône Valley, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 63
+          }
+        ],
+        "P": [
+          {
+            "text": "$51",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Matthieu Barret ‘Vilain’ Syrah Rhône Valley, France 2019 $54",
+    "bbox": [
+      "72.00",
+      "229.93",
+      "294.76",
+      "237.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Matthieu Barret ‘Vilain’ Syrah Rhône Valley, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 52
+          }
+        ],
+        "P": [
+          {
+            "text": "$54",
+            "answer_start": 57
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Agnes Et Rene Mosse ‘Cabernet Franc’ Loire Valley, France 2018 $59",
+    "bbox": [
+      "72.00",
+      "245.93",
+      "325.94",
+      "253.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Agnes Et Rene Mosse ‘Cabernet Franc’ Loire Valley, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 58
+          }
+        ],
+        "P": [
+          {
+            "text": "$59",
+            "answer_start": 63
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Donkey & Goat ‘Twinkle Mourvèdre’ Berkeley, California 2019 $60",
+    "bbox": [
+      "72.00",
+      "262.93",
+      "315.84",
+      "270.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Donkey & Goat ‘Twinkle Mourvèdre’ Berkeley, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 55
+          }
+        ],
+        "P": [
+          {
+            "text": "$60",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4 Kilos ‘Callet' Mallorca, Spain 2016 $60",
+    "bbox": [
+      "72.00",
+      "278.93",
+      "221.19",
+      "286.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "4 Kilos ‘Callet' Mallorca, Spain",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 33
+          }
+        ],
+        "P": [
+          {
+            "text": "$60",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Domaine Geschickt ‘Pinot Noir K’ Ammerschwihr, France 2019 $60",
+    "bbox": [
+      "72.00",
+      "295.93",
+      "319.14",
+      "303.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Geschickt ‘Pinot Noir K’ Ammerschwihr, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 54
+          }
+        ],
+        "P": [
+          {
+            "text": "$60",
+            "answer_start": 59
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cirelli ‘Montepulciano d'Abruzzo Anfora’ Abruzzo, Italy 2011 $68",
+    "bbox": [
+      "72.00",
+      "311.93",
+      "310.64",
+      "319.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cirelli ‘Montepulciano d'Abruzzo Anfora’ Abruzzo, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2011",
+            "answer_start": 56
+          }
+        ],
+        "P": [
+          {
+            "text": "$68",
+            "answer_start": 61
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2Naturkinder ‘Fledermaus Rot’ Schwarzriesling Bavarian, Germany 2019 $69",
+    "bbox": [
+      "72.00",
+      "328.93",
+      "354.38",
+      "336.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "2Naturkinder ‘Fledermaus Rot’ Schwarzriesling Bavarian, Germany",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 64
+          }
+        ],
+        "P": [
+          {
+            "text": "$69",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Lamoresca ‘Rosso’ Frappato, Nero d'Avola Sicily, Italy 2019 $69",
+    "bbox": [
+      "72.00",
+      "344.93",
+      "304.40",
+      "352.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Lamoresca ‘Rosso’ Frappato, Nero d'Avola Sicily, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 55
+          }
+        ],
+        "P": [
+          {
+            "text": "$69",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Collecapretta ‘Rosso da Tavola’ Sangiovese Umbria, Italy 2019 $69",
+    "bbox": [
+      "72.00",
+      "361.93",
+      "316.95",
+      "369.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Collecapretta ‘Rosso da Tavola’ Sangiovese Umbria, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 57
+          }
+        ],
+        "P": [
+          {
+            "text": "$69",
+            "answer_start": 62
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bruno Duchene ‘Côte Vermeille La Luna Rouge’ Grenache, Carignan Roussillon, France 2019 $71",
+    "bbox": [
+      "72.00",
+      "377.93",
+      "427.13",
+      "385.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bruno Duchene ‘Côte Vermeille La Luna Rouge’ Grenache, Carignan Roussillon, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 83
+          }
+        ],
+        "P": [
+          {
+            "text": "$71",
+            "answer_start": 88
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Le Grain de Senévé ‘Roue Libre’ Gamay Beaujolais, France 2019 $72",
+    "bbox": [
+      "72.00",
+      "394.93",
+      "324.40",
+      "402.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Le Grain de Senévé ‘Roue Libre’ Gamay Beaujolais, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 57
+          }
+        ],
+        "P": [
+          {
+            "text": "$72",
+            "answer_start": 62
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Nicolas Carmarans ‘Mauvais Temps’ Negret de Banhars, Fer Servadou, Cabernet Franc Aveyron, France 2019 $75",
+    "bbox": [
+      "72.00",
+      "410.93",
+      "485.94",
+      "418.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Nicolas Carmarans ‘Mauvais Temps’ Negret de Banhars, Fer Servadou, Cabernet Franc Aveyron, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 98
+          }
+        ],
+        "P": [
+          {
+            "text": "$75",
+            "answer_start": 103
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Mylène Bru ‘Rita’ Carignan Languedoc, France 2017 $75",
+    "bbox": [
+      "72.00",
+      "427.93",
+      "280.60",
+      "435.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Mylène Bru ‘Rita’ Carignan Languedoc, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 45
+          }
+        ],
+        "P": [
+          {
+            "text": "$75",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Domaine de Buronfosse ‘Se Kwa Sa?’ Poulsard, Trousseau, Gamay Jura, France 2019 $78",
+    "bbox": [
+      "72.00",
+      "443.93",
+      "398.18",
+      "451.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine de Buronfosse ‘Se Kwa Sa?’ Poulsard, Trousseau, Gamay Jura, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 75
+          }
+        ],
+        "P": [
+          {
+            "text": "$78",
+            "answer_start": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Christian Tschida ‘Brutal’ Pinot Noir Burgenland, Austria 2019 $90",
+    "bbox": [
+      "72.00",
+      "460.93",
+      "314.31",
+      "468.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Christian Tschida ‘Brutal’ Pinot Noir Burgenland, Austria",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 58
+          }
+        ],
+        "P": [
+          {
+            "text": "$90",
+            "answer_start": 63
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Domaine de la Pinte ‘Arbois Poulsard de l`Ami Karl’ Poulsard Jura, France 2019 $90",
+    "bbox": [
+      "72.00",
+      "476.93",
+      "377.97",
+      "484.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine de la Pinte ‘Arbois Poulsard de l`Ami Karl’ Poulsard Jura, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 74
+          }
+        ],
+        "P": [
+          {
+            "text": "$90",
+            "answer_start": 79
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Domaine Matassa ‘Rouge’ Carignan, Grenache Gris, white ﬁeld blend Languedoc-Roussillon, France 2019 $99",
+    "bbox": [
+      "72.00",
+      "493.93",
+      "475.50",
+      "501.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Matassa ‘Rouge’ Carignan, Grenache Gris, white ﬁeld blend Languedoc-Roussillon, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 95
+          }
+        ],
+        "P": [
+          {
+            "text": "$99",
+            "answer_start": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Domaine de la Pinte ‘Arbois Trousseau’ Trousseau Jura, France 2019 $102",
+    "bbox": [
+      "72.00",
+      "509.93",
+      "344.64",
+      "517.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine de la Pinte ‘Arbois Trousseau’ Trousseau Jura, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 62
+          }
+        ],
+        "P": [
+          {
+            "text": "$102",
+            "answer_start": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "François de Nicolay ‘Ladoix Les Briquottes’ Pinot Noir Burgundy, France 2018 $105",
+    "bbox": [
+      "72.00",
+      "526.93",
+      "377.34",
+      "534.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "François de Nicolay ‘Ladoix Les Briquottes’ Pinot Noir Burgundy, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 72
+          }
+        ],
+        "P": [
+          {
+            "text": "$105",
+            "answer_start": 77
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bruno Duchene ‘Inès’ Grenache Roussillon, France 2019 $117",
+    "bbox": [
+      "72.00",
+      "542.93",
+      "299.75",
+      "550.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bruno Duchene ‘Inès’ Grenache Roussillon, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 49
+          }
+        ],
+        "P": [
+          {
+            "text": "$117",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Yvon Métras ‘Beaujolais’ Gamay Beaujolais, France 2019 $132",
+    "bbox": [
+      "72.00",
+      "559.93",
+      "300.66",
+      "567.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Yvon Métras ‘Beaujolais’ Gamay Beaujolais, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 50
+          }
+        ],
+        "P": [
+          {
+            "text": "$132",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Christian Tschida ‘Himmel Auf Erden Rot’ Zweigelt, Cabernet Sauvignon Burgenland, Austria 2017 $160",
+    "bbox": [
+      "72.00",
+      "575.93",
+      "452.11",
+      "583.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Christian Tschida ‘Himmel Auf Erden Rot’ Zweigelt, Cabernet Sauvignon Burgenland, Austria",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 90
+          }
+        ],
+        "P": [
+          {
+            "text": "$160",
+            "answer_start": 95
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Domaine de la Grande Colline ‘Cornas’ Syrah Rhône Valley, France 2014 $189",
+    "bbox": [
+      "72.00",
+      "592.93",
+      "362.98",
+      "600.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine de la Grande Colline ‘Cornas’ Syrah Rhône Valley, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 65
+          }
+        ],
+        "P": [
+          {
+            "text": "$189",
+            "answer_start": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Domaine de L’Octavin ‘Arbois Corvée de Trousseau’ Arbois, France 2018 $255",
+    "bbox": [
+      "72.00",
+      "608.93",
+      "361.81",
+      "616.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine de L’Octavin ‘Arbois Corvée de Trousseau’ Arbois, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 65
+          }
+        ],
+        "P": [
+          {
+            "text": "$255",
+            "answer_start": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Frank Cornelissen ‘Magma Terre Siciliane Rosso’ Nerello Mascalese Sicily, Italy 2016 $400",
+    "bbox": [
+      "72.00",
+      "625.93",
+      "401.39",
+      "633.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Frank Cornelissen ‘Magma Terre Siciliane Rosso’ Nerello Mascalese Sicily, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 80
+          }
+        ],
+        "P": [
+          {
+            "text": "$400",
+            "answer_start": 85
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Beer and Cider",
+    "bbox": [
+      "72.00",
+      "652.93",
+      "131.88",
+      "660.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Folksbier ‘Pilsner’ Carroll Gardens, Brooklyn $8 12oz",
+    "bbox": [
+      "72.00",
+      "668.93",
+      "264.94",
+      "676.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Folksbier ‘Pilsner’ Carroll Gardens, Brooklyn",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$8",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Folksbier ‘Bergammot Glow Up’ Berliner Weisse-Style Ale Carroll Gardens, Brooklyn $8 12oz",
+    "bbox": [
+      "72.00",
+      "685.93",
+      "410.10",
+      "693.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Folksbier ‘Bergammot Glow Up’ Berliner Weisse-Style Ale Carroll Gardens, Brooklyn",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$8",
+            "answer_start": 82
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Folksbier ‘Morena’ New Zealand Hopped Lager Carroll Gardens, Brooklyn $8 12oz",
+    "bbox": [
+      "72.00",
+      "701.93",
+      "373.94",
+      "709.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Folksbier ‘Morena’ New Zealand Hopped Lager Carroll Gardens, Brooklyn",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$8",
+            "answer_start": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Brasserie Artisanale de Bourgogne ‘Audacieuse Beer’ Bourgogne-Franche-Comté, France NV $50 75cl",
+    "bbox": [
+      "72.00",
+      "718.93",
+      "452.07",
+      "726.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Brasserie Artisanale de Bourgogne ‘Audacieuse Beer’ Bourgogne-Franche-Comté, France NV",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$50",
+            "answer_start": 87
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Fruktstereo ‘This Is Not A Cider’ Malmö, Sweden 2017 $10 32cl",
+    "bbox": [
+      "72.00",
+      "734.93",
+      "305.45",
+      "742.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Fruktstereo ‘This Is Not A Cider’ Malmö, Sweden",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 48
+          }
+        ],
+        "P": [
+          {
+            "text": "$10",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Fruktstereo ‘Bellondie’ Malmö, Sweden 2019 $45 750ml",
+    "bbox": [
+      "72.00",
+      "751.93",
+      "280.30",
+      "759.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Fruktstereo ‘Bellondie’ Malmö, Sweden",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 38
+          }
+        ],
+        "P": [
+          {
+            "text": "$45",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Fruktstereo ‘Plumenian Rhapsody’ Malmö, Sweden 2019 $66 750ml",
+    "bbox": [
+      "72.00",
+      "767.93",
+      "320.15",
+      "775.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Fruktstereo ‘Plumenian Rhapsody’ Malmö, Sweden",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 47
+          }
+        ],
+        "P": [
+          {
+            "text": "$66",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  }
+]

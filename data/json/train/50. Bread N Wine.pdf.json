@@ -1,0 +1,2675 @@
+[
+  {
+    "page_number": 1,
+    "text": "W",
+    "bbox": [
+      "201.67",
+      "15.59",
+      "247.12",
+      "42.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "IN",
+    "bbox": [
+      "247.12",
+      "15.59",
+      "287.01",
+      "42.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "287.01",
+      "15.59",
+      "308.89",
+      "42.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "L",
+    "bbox": [
+      "308.89",
+      "15.59",
+      "339.30",
+      "42.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "IS",
+    "bbox": [
+      "339.30",
+      "15.59",
+      "371.85",
+      "42.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "T",
+    "bbox": [
+      "371.85",
+      "15.59",
+      "393.96",
+      "42.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE WINE",
+    "bbox": [
+      "67.49",
+      "44.15",
+      "176.94",
+      "66.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RED WINE",
+    "bbox": [
+      "439.43",
+      "44.15",
+      "526.94",
+      "66.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "38.78",
+      "98.50",
+      "153.24",
+      "118.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "10  /  30",
+    "bbox": [
+      "254.49",
+      "100.62",
+      "311.22",
+      "117.64"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "10  /  30",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "331.83",
+      "97.65",
+      "515.19",
+      "117.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET SAUVIGNON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "10  /  30",
+    "bbox": [
+      "527.24",
+      "99.77",
+      "583.97",
+      "116.79"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "10  /  30",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FOREST VILLE- CHARD, RIPASO, CALIFORNIA",
+    "bbox": [
+      "37.57",
+      "117.06",
+      "223.27",
+      "127.84"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FOREST VILLE- CHARD, RIPASO, CALIFORNIA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FOREST VILLE CABERNET, RIPASO, NAPA",
+    "bbox": [
+      "331.83",
+      "120.87",
+      "497.62",
+      "131.65"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FOREST VILLE CABERNET, RIPASO, NAPA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(VANILLA, APPLE, CITRUS, MEDIUM BODY)",
+    "bbox": [
+      "37.57",
+      "130.00",
+      "214.12",
+      "140.78"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(VANILLA, APPLE, CITRUS, MEDIUM BODY)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(RIPE FRUIT EASY DRINKING, MEDIUM BODY)",
+    "bbox": [
+      "331.83",
+      "133.81",
+      "521.54",
+      "144.59"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(RIPE FRUIT EASY DRINKING, MEDIUM BODY)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PINOT GRIGIO",
+    "bbox": [
+      "37.57",
+      "161.30",
+      "149.87",
+      "181.15"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT GRIGIO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9  /  29",
+    "bbox": [
+      "254.49",
+      "163.43",
+      "305.95",
+      "180.44"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "9  /  29",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MALBEC",
+    "bbox": [
+      "331.83",
+      "161.30",
+      "401.03",
+      "181.15"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MALBEC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "10  /  30",
+    "bbox": [
+      "527.24",
+      "163.43",
+      "583.97",
+      "180.44"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "10  /  30",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TAVERNELLO,  VENETO - ITALY",
+    "bbox": [
+      "37.79",
+      "183.76",
+      "163.54",
+      "194.54"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "TAVERNELLO,  VENETO - ITALY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ELSA BIANCHI, MENDOZA, ARGENTINA",
+    "bbox": [
+      "331.83",
+      "182.69",
+      "494.87",
+      "193.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ELSA BIANCHI, MENDOZA, ARGENTINA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(GREEN APPLE, PEAR , VELVETY & CRISPY DRY)",
+    "bbox": [
+      "37.79",
+      "196.70",
+      "230.14",
+      "207.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(GREEN APPLE, PEAR , VELVETY & CRISPY DRY)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(AROMETIC, SABTLE, SMOKY, DRY)",
+    "bbox": [
+      "331.83",
+      "195.63",
+      "477.40",
+      "206.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(AROMETIC, SABTLE, SMOKY, DRY)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "37.01",
+      "224.53",
+      "191.09",
+      "244.38"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "11  /  36",
+    "bbox": [
+      "254.49",
+      "226.66",
+      "311.22",
+      "243.67"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "11  /  36",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BURGUNDY  ROUGE",
+    "bbox": [
+      "331.83",
+      "221.17",
+      "486.87",
+      "241.02"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BURGUNDY  ROUGE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "14  /  45",
+    "bbox": [
+      "527.24",
+      "223.31",
+      "583.97",
+      "240.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "14  /  45",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "THE LITTLE SHEEP - NEW ZEALAND",
+    "bbox": [
+      "37.79",
+      "246.56",
+      "184.36",
+      "257.34"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "THE LITTLE SHEEP - NEW ZEALAND",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LES GENEVRIERES - FREDERIC ESMONIN - FRANCE",
+    "bbox": [
+      "331.83",
+      "245.99",
+      "539.08",
+      "256.77"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LES GENEVRIERES - FREDERIC ESMONIN - FRANCE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(RIPE FRUIT CRISPY- LIGHT BODY)",
+    "bbox": [
+      "37.79",
+      "259.50",
+      "179.62",
+      "270.28"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(RIPE FRUIT CRISPY- LIGHT BODY)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(SILKY, MINERAL, EARTH LONG FINISH)",
+    "bbox": [
+      "331.83",
+      "258.92",
+      "494.58",
+      "269.71"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(SILKY, MINERAL, EARTH LONG FINISH)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GEWURZTRAMINER",
+    "bbox": [
+      "38.18",
+      "283.84",
+      "193.65",
+      "303.69"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "GEWURZTRAMINER",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "12  /  38",
+    "bbox": [
+      "255.66",
+      "285.96",
+      "312.39",
+      "302.97"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12  /  38",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "331.83",
+      "283.84",
+      "515.19",
+      "303.69"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET SAUVIGNON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15  /  60",
+    "bbox": [
+      "527.24",
+      "285.97",
+      "583.97",
+      "302.99"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "15  /  60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GOSTAV LORENZE, GERMANY",
+    "bbox": [
+      "38.74",
+      "304.56",
+      "161.74",
+      "315.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HAMILTON CREEK - CALIFORNIA",
+    "bbox": [
+      "331.83",
+      "307.77",
+      "465.97",
+      "318.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "HAMILTON CREEK - CALIFORNIA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(RIPE FRUIT SEMI SWEET)",
+    "bbox": [
+      "38.74",
+      "317.50",
+      "145.77",
+      "328.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(FIRM, SILKY TANNINS, CHOCOLATE & FULL BODY)",
+    "bbox": [
+      "331.83",
+      "320.71",
+      "543.14",
+      "331.49"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(FIRM, SILKY TANNINS, CHOCOLATE & FULL BODY)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BURGUNDY  BLANC",
+    "bbox": [
+      "37.57",
+      "345.75",
+      "189.79",
+      "365.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BURGUNDY  BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "14  /  52",
+    "bbox": [
+      "256.83",
+      "347.88",
+      "313.56",
+      "364.89"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14  /  52",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BORDEAUX",
+    "bbox": [
+      "331.83",
+      "345.75",
+      "420.18",
+      "365.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BORDEAUX",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "14  /  48",
+    "bbox": [
+      "527.24",
+      "347.89",
+      "583.97",
+      "364.91"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14  /  48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HAUTES COTES DE NUITS - LE BRUN & FILS, FRANCE",
+    "bbox": [
+      "37.57",
+      "366.07",
+      "252.61",
+      "376.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "HAUTES COTES DE NUITS - LE BRUN & FILS, FRANCE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SAINT EMILION - GRAND VIN -  FRANCE",
+    "bbox": [
+      "331.83",
+      "368.21",
+      "495.24",
+      "378.99"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAINT EMILION - GRAND VIN -  FRANCE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(RIPE CITRUS  FRUIT SMOOTH AND COMPLEX)",
+    "bbox": [
+      "37.57",
+      "379.01",
+      "231.45",
+      "389.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(RIPE CITRUS  FRUIT SMOOTH AND COMPLEX)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(OAK, VANILLA, TOBACCO, LEATHER & SMOKY)",
+    "bbox": [
+      "331.83",
+      "381.15",
+      "527.20",
+      "391.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(OAK, VANILLA, TOBACCO, LEATHER & SMOKY)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SANCERRE",
+    "bbox": [
+      "37.58",
+      "407.43",
+      "123.80",
+      "427.28"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SANCERRE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "13  /  44",
+    "bbox": [
+      "256.27",
+      "409.54",
+      "313.00",
+      "426.56"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13  /  44",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "COTES DU RHONE",
+    "bbox": [
+      "331.83",
+      "407.42",
+      "475.36",
+      "427.28"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "COTES DU RHONE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "12  /  44",
+    "bbox": [
+      "527.24",
+      "409.56",
+      "583.97",
+      "426.57"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "1",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "12  /  44",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LE PETIT SILEX, FRANCE",
+    "bbox": [
+      "38.18",
+      "427.75",
+      "136.78",
+      "438.54"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LE PETIT SILEX, FRANCE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CAIRANNE CREATION, BTOTTE, RHONE, FRANCE",
+    "bbox": [
+      "331.83",
+      "429.89",
+      "531.49",
+      "440.68"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CAIRANNE CREATION, BTOTTE, RHONE, FRANCE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MINERAL, PEACHES, LEMON PEEL & CREAMY)",
+    "bbox": [
+      "38.18",
+      "440.69",
+      "228.34",
+      "451.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MINERAL, PEACHES, LEMON PEEL & CREAMY)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(FLORAL, HERBAL, SILKY, DRY & FULL BODY)",
+    "bbox": [
+      "331.83",
+      "442.83",
+      "517.35",
+      "453.61"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(FLORAL, HERBAL, SILKY, DRY & FULL BODY)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RIESLING",
+    "bbox": [
+      "38.06",
+      "467.65",
+      "112.58",
+      "487.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RIESLING",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "11  /  44",
+    "bbox": [
+      "255.68",
+      "469.77",
+      "312.41",
+      "486.79"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "11  /  44",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPARKLING WINE",
+    "bbox": [
+      "331.83",
+      "470.19",
+      "482.23",
+      "492.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "VALKENBERG, RHEINHESSEN, GERMANY",
+    "bbox": [
+      "37.01",
+      "486.62",
+      "201.98",
+      "497.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VALKENBERG, RHEINHESSEN, GERMANY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RIPE FRUIT SEMI SWEET)",
+    "bbox": [
+      "37.01",
+      "499.45",
+      "137.71",
+      "510.15"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RIPE FRUIT SEMI SWEET)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PROSECCO,",
+    "bbox": [
+      "334.38",
+      "506.81",
+      "426.64",
+      "526.66"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PROSECCO,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9",
+    "bbox": [
+      "566.80",
+      "508.93",
+      "575.78",
+      "525.95"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "9",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BEAUMES DU VENISE",
+    "bbox": [
+      "37.58",
+      "530.07",
+      "207.79",
+      "549.92"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BEAUMES DU VENISE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "12  /  36",
+    "bbox": [
+      "255.68",
+      "530.30",
+      "312.41",
+      "547.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "12  /  36",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "12  /  36",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "VILLA JOLANDA – ITALY",
+    "bbox": [
+      "334.38",
+      "527.44",
+      "451.54",
+      "540.20"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VILLA JOLANDA – ITALY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MUSCAT, TRESOR DU CLOCHER",
+    "bbox": [
+      "37.58",
+      "548.50",
+      "172.02",
+      "559.29"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MUSCAT, TRESOR DU CLOCHER",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PERFUMED NOTES OF WHITE PEACH, HONEY, SWEET AND FRUITY",
+    "bbox": [
+      "37.58",
+      "561.44",
+      "311.32",
+      "572.22"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PERFUMED NOTES OF WHITE PEACH, HONEY, SWEET AND FRUITY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHAMPAGNE,",
+    "bbox": [
+      "334.38",
+      "560.46",
+      "444.60",
+      "580.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "14  /  26",
+    "bbox": [
+      "529.77",
+      "562.59",
+      "586.51",
+      "579.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14  /  26",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHARLES DECAZANOVE – FRANCE",
+    "bbox": [
+      "334.38",
+      "581.09",
+      "508.22",
+      "593.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSE    12  / 38",
+    "bbox": [
+      "37.01",
+      "613.65",
+      "185.39",
+      "639.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSE SPARKLING  10  / 45",
+    "bbox": [
+      "331.83",
+      "615.72",
+      "588.24",
+      "641.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "COTES DE PROVENSE, CHATEU MONTAUD - FRANCE",
+    "bbox": [
+      "37.26",
+      "641.09",
+      "275.48",
+      "652.94"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "COTES DE PROVENSE, CHATEU MONTAUD - FRANCE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BAGLIETTI VINO , SPUMANTE, SPARKLING,  ITALY",
+    "bbox": [
+      "333.66",
+      "641.89",
+      "535.02",
+      "652.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(FLORAL, ELEGENT, SILKY, DRY & FULL BODY)",
+    "bbox": [
+      "333.66",
+      "654.83",
+      "523.04",
+      "665.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HAPPY HOUR RED    8  /  26",
+    "bbox": [
+      "330.15",
+      "694.41",
+      "524.05",
+      "711.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HAPPY HOUR WHITE    8  /  26",
+    "bbox": [
+      "51.33",
+      "698.16",
+      "262.62",
+      "715.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "53.10",
+      "730.15",
+      "140.13",
+      "745.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "330.14",
+      "727.98",
+      "469.55",
+      "743.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MALBEC",
+    "bbox": [
+      "330.81",
+      "753.76",
+      "383.42",
+      "768.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PINOT GRIGIO",
+    "bbox": [
+      "51.32",
+      "762.47",
+      "136.71",
+      "777.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HAPPY HOUR ROSE    8  /  26",
+    "bbox": [
+      "330.82",
+      "780.10",
+      "513.95",
+      "798.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HAPPY HOUR SANGRIA    8",
+    "bbox": [
+      "51.33",
+      "794.20",
+      "246.93",
+      "811.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHATEAU AUGUSTE, BORDEAUX, FRANCE",
+    "bbox": [
+      "330.82",
+      "798.23",
+      "504.72",
+      "809.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(MINERAL ACCENTED, HERBAL, FRUITY & DRY)",
+    "bbox": [
+      "330.82",
+      "811.17",
+      "526.24",
+      "821.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SANGRIA, RED",
+    "bbox": [
+      "331.83",
+      "846.31",
+      "493.86",
+      "867.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "10",
+    "bbox": [
+      "541.76",
+      "846.31",
+      "582.22",
+      "867.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HAPPY HOUR BEER    4",
+    "bbox": [
+      "52.80",
+      "861.28",
+      "218.07",
+      "878.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "NARRAGANSETTE",
+    "bbox": [
+      "52.80",
+      "884.63",
+      "157.76",
+      "899.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SANGRIA, WHITE",
+    "bbox": [
+      "330.82",
+      "892.01",
+      "498.25",
+      "913.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "10",
+    "bbox": [
+      "540.75",
+      "892.01",
+      "581.21",
+      "913.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LIONS HEAD",
+    "bbox": [
+      "52.80",
+      "904.59",
+      "129.46",
+      "919.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MILLER LIGHT",
+    "bbox": [
+      "52.20",
+      "928.56",
+      "136.67",
+      "943.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MULLED WINE",
+    "bbox": [
+      "330.20",
+      "930.77",
+      "492.22",
+      "951.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "8",
+    "bbox": [
+      "540.13",
+      "930.77",
+      "578.67",
+      "951.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "happy hours = 11 am to 8 pm",
+    "bbox": [
+      "173.07",
+      "969.04",
+      "403.31",
+      "987.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "O",
+    "bbox": [
+      "275.89",
+      "51.42",
+      "305.38",
+      "75.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "U",
+    "bbox": [
+      "305.38",
+      "51.42",
+      "333.08",
+      "75.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "R",
+    "bbox": [
+      "333.08",
+      "51.42",
+      "356.11",
+      "75.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "B",
+    "bbox": [
+      "356.11",
+      "51.42",
+      "388.38",
+      "75.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "E",
+    "bbox": [
+      "388.38",
+      "51.42",
+      "409.44",
+      "75.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "E",
+    "bbox": [
+      "409.44",
+      "51.42",
+      "430.50",
+      "75.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "R",
+    "bbox": [
+      "430.50",
+      "51.42",
+      "453.53",
+      "75.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "5",
+    "bbox": [
+      "556.25",
+      "107.46",
+      "570.33",
+      "132.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "NARRAGANSET",
+    "bbox": [
+      "275.89",
+      "111.93",
+      "425.50",
+      "130.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LAGER, NEW ENGLAND",
+    "bbox": [
+      "275.90",
+      "131.71",
+      "442.64",
+      "143.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "(CLEAN, CRISPY, REFRESHING AND",
+    "bbox": [
+      "275.90",
+      "145.33",
+      "492.82",
+      "155.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PERFECTLY BALANCED)",
+    "bbox": [
+      "275.90",
+      "157.97",
+      "422.62",
+      "168.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "5",
+    "bbox": [
+      "556.25",
+      "179.02",
+      "570.33",
+      "203.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LIONSHEAD",
+    "bbox": [
+      "275.89",
+      "183.50",
+      "392.84",
+      "201.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PILSNER, PENSYLVANIYA",
+    "bbox": [
+      "275.90",
+      "204.19",
+      "453.99",
+      "216.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "(aMERICAN MALT, CORN & HOPS FOR CRISP)",
+    "bbox": [
+      "275.90",
+      "217.82",
+      "551.15",
+      "228.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "H",
+    "bbox": [
+      "34.06",
+      "238.59",
+      "55.34",
+      "256.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ARD",
+    "bbox": [
+      "55.34",
+      "238.59",
+      "114.60",
+      "256.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "6",
+    "bbox": [
+      "556.25",
+      "246.08",
+      "570.33",
+      "270.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SUNDAY BEER",
+    "bbox": [
+      "275.89",
+      "250.56",
+      "412.28",
+      "268.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "KO",
+    "bbox": [
+      "34.06",
+      "260.27",
+      "73.68",
+      "278.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "M",
+    "bbox": [
+      "73.68",
+      "260.27",
+      "99.92",
+      "278.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BU",
+    "bbox": [
+      "99.92",
+      "260.27",
+      "138.72",
+      "278.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CH",
+    "bbox": [
+      "138.72",
+      "260.27",
+      "178.92",
+      "278.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "A",
+    "bbox": [
+      "178.92",
+      "260.27",
+      "198.90",
+      "278.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LAGER, BROOKLYN",
+    "bbox": [
+      "275.90",
+      "273.11",
+      "411.36",
+      "284.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LIGHT BODY AND CRISPY)",
+    "bbox": [
+      "275.90",
+      "286.73",
+      "438.41",
+      "297.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "7",
+    "bbox": [
+      "556.25",
+      "311.52",
+      "570.33",
+      "336.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "7",
+    "bbox": [
+      "241.27",
+      "317.29",
+      "255.35",
+      "342.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DOGFISH SEA QUENCH",
+    "bbox": [
+      "275.89",
+      "315.99",
+      "501.90",
+      "334.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "JUNE SHINE",
+    "bbox": [
+      "34.71",
+      "322.08",
+      "155.23",
+      "340.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ALE, SEASON SOUR , DELWARE",
+    "bbox": [
+      "275.89",
+      "333.91",
+      "494.64",
+      "345.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BLOOD ORANGE",
+    "bbox": [
+      "34.71",
+      "344.19",
+      "196.29",
+      "362.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "(TART AND CRISP WITH HINT OF SALTINESS)",
+    "bbox": [
+      "275.89",
+      "347.53",
+      "549.20",
+      "358.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SAN DIEGO, CALIFORNIA",
+    "bbox": [
+      "33.40",
+      "365.95",
+      "207.38",
+      "377.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "7",
+    "bbox": [
+      "554.49",
+      "369.68",
+      "568.57",
+      "394.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SLOOP JUICE BOMB",
+    "bbox": [
+      "275.89",
+      "375.68",
+      "467.90",
+      "394.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "(FLAVORED WITH BLOOD",
+    "bbox": [
+      "33.40",
+      "379.57",
+      "193.74",
+      "390.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ORANGE FROM TEMECULA AND",
+    "bbox": [
+      "33.40",
+      "392.21",
+      "234.44",
+      "402.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "NOTRHEASTERN IPA, NEW ENGLAND",
+    "bbox": [
+      "275.89",
+      "397.48",
+      "537.22",
+      "409.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HINT OF ORGANIC MINT)",
+    "bbox": [
+      "33.40",
+      "404.85",
+      "190.21",
+      "415.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "(LOW BITTERNESS & CITRUSY, JUICY",
+    "bbox": [
+      "275.89",
+      "411.10",
+      "498.46",
+      "421.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "NOTES OF AMERICAN HOPS)",
+    "bbox": [
+      "275.89",
+      "423.74",
+      "454.43",
+      "434.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "7",
+    "bbox": [
+      "556.25",
+      "449.62",
+      "570.33",
+      "474.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BELL’S TWO HEARTED ALE",
+    "bbox": [
+      "275.89",
+      "454.10",
+      "534.09",
+      "472.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "9",
+    "bbox": [
+      "241.27",
+      "460.97",
+      "255.35",
+      "485.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "JUNE SHINE ROSE",
+    "bbox": [
+      "33.40",
+      "465.74",
+      "206.01",
+      "484.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "AMERICAN STYLE IPA, MICHIGAN",
+    "bbox": [
+      "275.89",
+      "475.72",
+      "511.36",
+      "487.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SAN DIEGO, CALIFORNIA",
+    "bbox": [
+      "33.40",
+      "489.61",
+      "207.38",
+      "501.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "(MALT BACKBONE COMBINED WITH",
+    "bbox": [
+      "275.89",
+      "489.35",
+      "501.44",
+      "499.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "(HARD KOMBUCHA BLENDED  WITH",
+    "bbox": [
+      "33.40",
+      "503.23",
+      "261.08",
+      "513.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SIGNATURE FRUITY AROMAS OF",
+    "bbox": [
+      "275.89",
+      "501.98",
+      "479.94",
+      "512.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ORGANIC WINE TO CREATE A",
+    "bbox": [
+      "33.40",
+      "515.87",
+      "216.28",
+      "526.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BELL’S HOUSE YEAST)",
+    "bbox": [
+      "275.89",
+      "514.62",
+      "410.39",
+      "525.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "REFRESHING ROSE DRINK)",
+    "bbox": [
+      "33.40",
+      "528.51",
+      "197.16",
+      "539.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "6",
+    "bbox": [
+      "556.25",
+      "544.75",
+      "570.33",
+      "569.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HEINEKEN",
+    "bbox": [
+      "275.89",
+      "549.23",
+      "375.25",
+      "567.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HAPPY HOUR BEER    4",
+    "bbox": [
+      "51.80",
+      "566.74",
+      "217.11",
+      "582.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LAGER, DUTCH, NETHERLAND",
+    "bbox": [
+      "275.90",
+      "571.04",
+      "489.72",
+      "582.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "(GRAINY, HERBAL, SLIGHT HOPS)",
+    "bbox": [
+      "275.90",
+      "584.66",
+      "478.87",
+      "595.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "NARRAGANSETTE",
+    "bbox": [
+      "52.40",
+      "599.54",
+      "157.39",
+      "613.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LIONSHEAD",
+    "bbox": [
+      "52.40",
+      "618.08",
+      "126.07",
+      "632.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CORONA",
+    "bbox": [
+      "275.89",
+      "619.65",
+      "364.03",
+      "638.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "6",
+    "bbox": [
+      "556.25",
+      "615.18",
+      "570.33",
+      "639.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MILLER LIGHT",
+    "bbox": [
+      "51.80",
+      "640.33",
+      "136.30",
+      "654.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LAGER, MEXICO",
+    "bbox": [
+      "275.90",
+      "640.35",
+      "386.83",
+      "652.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "(CLEAN AND CRISPY AND DRY )",
+    "bbox": [
+      "275.90",
+      "653.97",
+      "471.82",
+      "664.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "6",
+    "bbox": [
+      "554.49",
+      "687.95",
+      "568.57",
+      "712.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Scan for",
+    "bbox": [
+      "60.84",
+      "693.39",
+      "121.16",
+      "710.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RUN WILD IPA-",
+    "bbox": [
+      "275.89",
+      "692.42",
+      "423.31",
+      "710.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "NON ALCOHOLIC",
+    "bbox": [
+      "423.31",
+      "697.46",
+      "529.98",
+      "709.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "food menu",
+    "bbox": [
+      "49.66",
+      "714.46",
+      "132.36",
+      "732.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "IPA, SAN DIEGO",
+    "bbox": [
+      "275.89",
+      "713.13",
+      "388.86",
+      "724.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "NORTHWEST HOPS, BALANCE MALT BODY,",
+    "bbox": [
+      "275.89",
+      "726.76",
+      "541.69",
+      "737.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "(BITERNESS AND BALANCED)",
+    "bbox": [
+      "275.89",
+      "739.40",
+      "457.43",
+      "749.93"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]
