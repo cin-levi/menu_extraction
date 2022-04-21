@@ -1,0 +1,1197 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/18/22, 9:09 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Happy Hour",
+    "bbox": [
+      "330.23",
+      "15.70",
+      "372.92",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MENUS",
+    "bbox": [
+      "287.45",
+      "56.75",
+      "325.54",
+      "72.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "145.55",
+      "91.25",
+      "206.10",
+      "105.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BRUNCH",
+    "bbox": [
+      "221.11",
+      "91.25",
+      "259.59",
+      "105.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DINNER",
+    "bbox": [
+      "274.60",
+      "91.25",
+      "309.70",
+      "105.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DESSERTCOFFEE",
+    "bbox": [
+      "324.71",
+      "91.25",
+      "411.68",
+      "105.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "COCKTAIL",
+    "bbox": [
+      "426.69",
+      "91.25",
+      "467.43",
+      "105.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HAPPY HOUR MENU",
+    "bbox": [
+      "239.68",
+      "183.36",
+      "373.29",
+      "196.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SMALL PLATES",
+    "bbox": [
+      "245.00",
+      "233.73",
+      "367.99",
+      "249.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$10",
+    "bbox": [
+      "297.95",
+      "268.41",
+      "315.06",
+      "278.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Moules Mariniere",
+    "bbox": [
+      "71.00",
+      "303.91",
+      "140.02",
+      "312.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Petite Organic Hummus",
+    "bbox": [
+      "315.91",
+      "303.91",
+      "411.44",
+      "312.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "With Baguette",
+    "bbox": [
+      "71.00",
+      "321.91",
+      "127.53",
+      "330.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "With Vegetables",
+    "bbox": [
+      "315.91",
+      "321.91",
+      "380.95",
+      "330.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Beef Sliders",
+    "bbox": [
+      "71.00",
+      "349.66",
+      "119.52",
+      "358.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pommes Farcies",
+    "bbox": [
+      "315.91",
+      "349.66",
+      "383.42",
+      "358.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Caramelized Onion, Gruyere and Bacon",
+    "bbox": [
+      "71.00",
+      "367.66",
+      "231.08",
+      "376.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cheddar, Bacon, Sour Cream",
+    "bbox": [
+      "315.91",
+      "367.66",
+      "433.97",
+      "376.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chicken Liver Pate",
+    "bbox": [
+      "71.00",
+      "395.41",
+      "146.54",
+      "404.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Daily Fromage Selection",
+    "bbox": [
+      "315.91",
+      "395.41",
+      "413.95",
+      "404.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Crouton, Cornichon and Whole Grain Mustard",
+    "bbox": [
+      "71.00",
+      "413.41",
+      "254.09",
+      "422.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "With Dried Fruit and Nuts",
+    "bbox": [
+      "315.91",
+      "413.41",
+      "416.94",
+      "422.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE BY THE GLASS",
+    "bbox": [
+      "222.50",
+      "472.23",
+      "391.26",
+      "488.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$10",
+    "bbox": [
+      "297.95",
+      "506.91",
+      "315.06",
+      "517.17"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$10",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sauvignon Blanc",
+    "bbox": [
+      "71.00",
+      "542.41",
+      "138.55",
+      "551.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cotes du Rhone",
+    "bbox": [
+      "315.91",
+      "542.41",
+      "380.95",
+      "551.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cotes du Rhone",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pinot Blanc",
+    "bbox": [
+      "71.00",
+      "570.16",
+      "116.53",
+      "579.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Blanc",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cabernet Sauvignon",
+    "bbox": [
+      "315.91",
+      "570.16",
+      "397.97",
+      "579.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chardonnay",
+    "bbox": [
+      "71.00",
+      "597.91",
+      "120.03",
+      "606.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Malbec",
+    "bbox": [
+      "315.91",
+      "597.91",
+      "344.92",
+      "606.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Malbec",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "White Cotes du Rhone",
+    "bbox": [
+      "71.00",
+      "625.66",
+      "161.55",
+      "634.66"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "White Cotes du Rhone",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pinot Noir",
+    "bbox": [
+      "315.91",
+      "625.66",
+      "355.43",
+      "634.66"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rose",
+    "bbox": [
+      "71.00",
+      "653.41",
+      "92.01",
+      "662.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rose",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DRAFT",
+    "bbox": [
+      "278.75",
+      "712.23",
+      "333.64",
+      "728.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$6",
+    "bbox": [
+      "300.79",
+      "746.91",
+      "312.21",
+      "757.17"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$6",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://frenchroastnyc.com/menus/happy-hour/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "191.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/3",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/18/22, 9:09 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Happy Hour",
+    "bbox": [
+      "330.23",
+      "15.70",
+      "372.92",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Kronenbourg",
+    "bbox": [
+      "71.00",
+      "47.41",
+      "123.04",
+      "56.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Seasonal",
+    "bbox": [
+      "315.91",
+      "47.41",
+      "353.44",
+      "56.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Blue Point IPA",
+    "bbox": [
+      "71.00",
+      "75.16",
+      "128.37",
+      "84.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Blue Point IPA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BOTTLES",
+    "bbox": [
+      "268.25",
+      "133.98",
+      "343.85",
+      "150.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$6",
+    "bbox": [
+      "300.79",
+      "168.66",
+      "312.21",
+      "178.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$6",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Stella Artois",
+    "bbox": [
+      "71.00",
+      "204.16",
+      "119.02",
+      "213.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Stella Artois",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Amstel Light",
+    "bbox": [
+      "315.91",
+      "204.16",
+      "365.43",
+      "213.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Amstel Light",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Meteor Pilsner",
+    "bbox": [
+      "71.00",
+      "231.91",
+      "129.02",
+      "240.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Meteor Pilsner",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Duval",
+    "bbox": [
+      "315.91",
+      "231.91",
+      "338.92",
+      "240.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Duval",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Aval Hard Cider",
+    "bbox": [
+      "71.00",
+      "259.66",
+      "134.36",
+      "268.66"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Aval Hard Cider",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Ommegang Abby",
+    "bbox": [
+      "315.91",
+      "259.66",
+      "385.95",
+      "268.66"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Ommegang Abby",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Left Hand Milk Stout",
+    "bbox": [
+      "71.00",
+      "287.41",
+      "152.04",
+      "296.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Left Hand Milk Stout",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Mermaid Pilsner",
+    "bbox": [
+      "315.91",
+      "287.41",
+      "380.93",
+      "296.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Mermaid Pilsner",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Ithaca Flower Power",
+    "bbox": [
+      "71.00",
+      "315.16",
+      "153.03",
+      "324.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Ithaca Flower Power",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HOUSE COCKTAILS",
+    "bbox": [
+      "228.50",
+      "373.98",
+      "383.90",
+      "390.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$10",
+    "bbox": [
+      "297.95",
+      "408.66",
+      "315.06",
+      "418.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$10",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cocktail du Jour",
+    "bbox": [
+      "71.00",
+      "444.16",
+      "135.53",
+      "453.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cocktail du Jour",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HAPPY HOUR: 4PM - 6PM FROM SUNDAY TO THURSDAY",
+    "bbox": [
+      "85.25",
+      "502.98",
+      "527.51",
+      "519.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "No Items",
+    "bbox": [
+      "288.50",
+      "551.41",
+      "324.51",
+      "560.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "FRENCH ROAST",
+    "bbox": [
+      "281.84",
+      "642.50",
+      "331.15",
+      "653.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Manhattan",
+    "bbox": [
+      "286.24",
+      "656.75",
+      "326.77",
+      "667.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2340 Broadway",
+    "bbox": [
+      "277.93",
+      "670.25",
+      "335.08",
+      "680.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "New York, NY 10024",
+    "bbox": [
+      "271.81",
+      "683.75",
+      "341.19",
+      "694.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GET MAP",
+    "bbox": [
+      "291.27",
+      "704.75",
+      "321.73",
+      "715.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tel: 212 799-1533",
+    "bbox": [
+      "277.05",
+      "727.25",
+      "335.95",
+      "737.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "274.29",
+      "741.50",
+      "338.71",
+      "752.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://frenchroastnyc.com/menus/happy-hour/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "191.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/3",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/18/22, 9:09 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Happy Hour",
+    "bbox": [
+      "330.23",
+      "15.70",
+      "372.92",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CONTACT US",
+    "bbox": [
+      "278.34",
+      "28.25",
+      "334.65",
+      "38.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ACCESSIBILITY",
+    "bbox": [
+      "275.18",
+      "41.75",
+      "337.82",
+      "52.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SITE MAP",
+    "bbox": [
+      "286.00",
+      "55.25",
+      "327.00",
+      "65.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SOCIAL MEDIA",
+    "bbox": [
+      "274.54",
+      "68.75",
+      "338.46",
+      "79.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "",
+    "bbox": [
+      "278.42",
+      "88.68",
+      "298.99",
+      "112.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "",
+    "bbox": [
+      "306.50",
+      "88.68",
+      "327.07",
+      "112.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "© 2022 French Roast Website designed by Orphmedia",
+    "bbox": [
+      "240.20",
+      "143.15",
+      "372.81",
+      "150.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://frenchroastnyc.com/menus/happy-hour/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "191.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/3",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

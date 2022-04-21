@@ -1,0 +1,7643 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/19/22, 7:32 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Italian gluten-free restaurant in New York City: Senza Gluten",
+    "bbox": [
+      "244.78",
+      "15.70",
+      "458.37",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HOME",
+    "bbox": [
+      "131.00",
+      "40.25",
+      "160.86",
+      "50.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SHOP",
+    "bbox": [
+      "200.32",
+      "40.25",
+      "228.23",
+      "50.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "OUR MENU",
+    "bbox": [
+      "267.68",
+      "40.25",
+      "322.76",
+      "50.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ABOUT US",
+    "bbox": [
+      "362.21",
+      "40.25",
+      "414.00",
+      "50.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "453.45",
+      "40.25",
+      "528.61",
+      "50.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BAKERY",
+    "bbox": [
+      "309.95",
+      "82.25",
+      "347.74",
+      "92.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CONTACT",
+    "bbox": [
+      "387.20",
+      "82.25",
+      "433.71",
+      "92.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "120.98",
+      "118.62",
+      "131.27",
+      "130.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "150.68",
+      "118.62",
+      "160.96",
+      "130.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "179.94",
+      "118.62",
+      "191.09",
+      "130.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "W",
+    "bbox": [
+      "47.00",
+      "280.05",
+      "65.86",
+      "304.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HITE BY GLASS",
+    "bbox": [
+      "68.26",
+      "280.05",
+      "244.23",
+      "304.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "COKTAILS",
+    "bbox": [
+      "324.50",
+      "280.05",
+      "438.96",
+      "304.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$16",
+    "bbox": [
+      "266.96",
+      "357.50",
+      "288.49",
+      "371.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$18",
+    "bbox": [
+      "543.86",
+      "357.50",
+      "565.99",
+      "371.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PINOT GRIGIO",
+    "bbox": [
+      "47.00",
+      "362.14",
+      "145.97",
+      "376.39"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT GRIGIO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BOURBON MANHATTAN",
+    "bbox": [
+      "324.50",
+      "362.14",
+      "487.62",
+      "376.39"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BOURBON MANHATTAN",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Candoni 2019, Italy",
+    "bbox": [
+      "47.00",
+      "379.25",
+      "144.06",
+      "391.25"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019,",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bootlegger 21,Sweet Vermouth, Bitters & Cherry",
+    "bbox": [
+      "324.50",
+      "379.25",
+      "564.44",
+      "391.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bootlegger 21,Sweet Vermouth, B",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "21,S",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "garnish",
+    "bbox": [
+      "324.50",
+      "399.50",
+      "360.75",
+      "411.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$16",
+    "bbox": [
+      "266.96",
+      "419.00",
+      "288.49",
+      "433.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "47.00",
+      "423.64",
+      "144.11",
+      "437.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tomaresca 2019, Italy",
+    "bbox": [
+      "47.00",
+      "440.00",
+      "155.97",
+      "452.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019,",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$18",
+    "bbox": [
+      "543.86",
+      "439.25",
+      "565.99",
+      "453.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BOURBON SMASH",
+    "bbox": [
+      "324.50",
+      "443.89",
+      "449.27",
+      "458.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BOURBON SMASH",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bootlegger 21, lemon juice, mint, simple syrup,",
+    "bbox": [
+      "324.50",
+      "460.25",
+      "557.18",
+      "472.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bootlegger 21, lemon juic",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "21,",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$17",
+    "bbox": [
+      "267.70",
+      "479.75",
+      "288.49",
+      "494.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "dash of bitters and soda",
+    "bbox": [
+      "324.50",
+      "480.50",
+      "444.97",
+      "492.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "47.00",
+      "484.39",
+      "182.32",
+      "498.64"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Nobilo 2019, New Zealand",
+    "bbox": [
+      "47.00",
+      "500.75",
+      "179.50",
+      "512.75"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019,",
+            "answer_start": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$17",
+    "bbox": [
+      "545.20",
+      "520.25",
+      "565.99",
+      "534.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "“CHEFʼS” GRAPE GIN",
+    "bbox": [
+      "324.50",
+      "524.89",
+      "471.47",
+      "539.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "“CHEFʼS” GRAPE GIN",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$16",
+    "bbox": [
+      "266.96",
+      "540.50",
+      "288.49",
+      "554.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "VERMENTINO",
+    "bbox": [
+      "47.00",
+      "545.14",
+      "139.94",
+      "559.39"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VERMENTINO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FIZZ",
+    "bbox": [
+      "324.50",
+      "543.64",
+      "354.70",
+      "557.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Surrau 2018, Italy",
+    "bbox": [
+      "47.00",
+      "562.25",
+      "135.18",
+      "574.25"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018,",
+            "answer_start": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bootlegger Gin, fresh squeezed lime juice,",
+    "bbox": [
+      "324.50",
+      "560.00",
+      "534.26",
+      "572.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "house infused rosemary and lime syrup, organic",
+    "bbox": [
+      "324.50",
+      "580.25",
+      "564.22",
+      "592.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$17",
+    "bbox": [
+      "267.70",
+      "602.00",
+      "288.49",
+      "616.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Brazilian grape juice, club soda, garnished with",
+    "bbox": [
+      "324.50",
+      "600.50",
+      "555.70",
+      "612.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RIESLING",
+    "bbox": [
+      "47.00",
+      "606.64",
+      "112.64",
+      "620.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RIESLING",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "The Furst 2017 , Alsace France",
+    "bbox": [
+      "47.00",
+      "623.00",
+      "197.37",
+      "635.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2017 ,",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "fresh lemon wedge",
+    "bbox": [
+      "324.50",
+      "620.75",
+      "421.44",
+      "632.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$17",
+    "bbox": [
+      "545.20",
+      "661.25",
+      "565.99",
+      "675.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "“TEOʼS” MANGO",
+    "bbox": [
+      "324.50",
+      "665.89",
+      "437.79",
+      "680.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "“TEOʼS” MANGO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MARGARITA",
+    "bbox": [
+      "324.50",
+      "683.89",
+      "405.28",
+      "698.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MARGARITA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSE BY GLASS",
+    "bbox": [
+      "47.00",
+      "694.80",
+      "230.55",
+      "718.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Coralejo “Established 1755” Silver Tequila, fresh",
+    "bbox": [
+      "324.50",
+      "700.25",
+      "559.89",
+      "712.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "squeezed lime and lemon juice house infused",
+    "bbox": [
+      "324.50",
+      "720.50",
+      "553.78",
+      "732.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://senzaglutennyc.com/restaurant/menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.09",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/19/22, 7:32 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Italian gluten-free restaurant in New York City: Senza Gluten",
+    "bbox": [
+      "244.78",
+      "15.70",
+      "458.37",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "KREOS ROSATO",
+    "bbox": [
+      "47.00",
+      "32.89",
+      "155.37",
+      "47.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "KREOS ROSATO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$16",
+    "bbox": [
+      "266.96",
+      "28.25",
+      "288.49",
+      "42.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "lime syrup, South American mango juice.",
+    "bbox": [
+      "324.50",
+      "31.25",
+      "530.13",
+      "43.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Castello Monaci 2019, Italy",
+    "bbox": [
+      "47.00",
+      "49.25",
+      "181.51",
+      "61.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "2019,",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Shaken and garnished with lime wedge",
+    "bbox": [
+      "324.50",
+      "51.50",
+      "520.75",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$15",
+    "bbox": [
+      "544.82",
+      "91.25",
+      "566.00",
+      "105.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "FRESH PEACH BELLINI",
+    "bbox": [
+      "324.50",
+      "95.89",
+      "482.48",
+      "110.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FRESH PEACH BELLIN",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Gardiz Prosecco,Peach juice, garnish fresh mint",
+    "bbox": [
+      "324.50",
+      "113.00",
+      "559.59",
+      "125.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RED BY GLASS",
+    "bbox": [
+      "47.00",
+      "121.05",
+      "214.16",
+      "145.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "leaf",
+    "bbox": [
+      "324.50",
+      "133.25",
+      "343.09",
+      "145.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$17",
+    "bbox": [
+      "545.20",
+      "173.00",
+      "565.99",
+      "187.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GINGER LIME MOJITO",
+    "bbox": [
+      "324.50",
+      "177.64",
+      "475.74",
+      "191.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "GINGER LIME MOJITO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Baccardi, Barrow’s “intense” Ginger liqueur",
+    "bbox": [
+      "324.50",
+      "194.00",
+      "534.66",
+      "206.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$16",
+    "bbox": [
+      "266.96",
+      "199.25",
+      "288.49",
+      "213.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "47.00",
+      "203.89",
+      "210.39",
+      "218.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET SAUVIGNON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "(made in Brooklyn, USA) fresh squeezed lime",
+    "bbox": [
+      "324.50",
+      "214.25",
+      "552.60",
+      "226.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dialogo 2015 ,Italy",
+    "bbox": [
+      "47.00",
+      "220.25",
+      "140.52",
+      "232.25"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "juice, house infused ginger lime syrup, club",
+    "bbox": [
+      "324.50",
+      "235.25",
+      "538.93",
+      "247.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "soda, garnished with fresh mint leaf and lime",
+    "bbox": [
+      "324.50",
+      "255.50",
+      "549.54",
+      "267.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$16",
+    "bbox": [
+      "266.96",
+      "260.00",
+      "288.49",
+      "274.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RIOJA",
+    "bbox": [
+      "47.00",
+      "264.64",
+      "88.04",
+      "278.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RIOJA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "wedge",
+    "bbox": [
+      "324.50",
+      "275.75",
+      "358.06",
+      "287.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tempranillo 2018, Spain",
+    "bbox": [
+      "47.00",
+      "281.00",
+      "169.20",
+      "293.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018,",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$17",
+    "bbox": [
+      "545.20",
+      "315.50",
+      "565.99",
+      "329.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$17",
+    "bbox": [
+      "267.70",
+      "320.75",
+      "288.49",
+      "335.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SENZA GLUTEN",
+    "bbox": [
+      "324.50",
+      "320.14",
+      "431.57",
+      "334.39"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SENZA GLUTEN",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "47.00",
+      "325.39",
+      "131.00",
+      "339.64"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT NOIR",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BLOODY MARY",
+    "bbox": [
+      "324.50",
+      "338.14",
+      "423.72",
+      "352.39"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BLOODY MARY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Fez 2019, California",
+    "bbox": [
+      "47.00",
+      "342.50",
+      "145.45",
+      "354.50"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019,",
+            "answer_start": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Stolychnaya “Gluten free” Vodka Distilled from",
+    "bbox": [
+      "324.50",
+      "354.50",
+      "558.33",
+      "366.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Russian Corn Buckwheat Senza Gluten",
+    "bbox": [
+      "324.50",
+      "375.50",
+      "518.43",
+      "387.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$16",
+    "bbox": [
+      "266.96",
+      "382.25",
+      "288.49",
+      "396.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MALBEC",
+    "bbox": [
+      "47.00",
+      "386.89",
+      "103.19",
+      "401.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MALBEC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Housemade Bloody mary Mix",
+    "bbox": [
+      "324.50",
+      "395.75",
+      "473.77",
+      "407.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Makia 2018 , Mendoza Argentina",
+    "bbox": [
+      "47.00",
+      "403.25",
+      "211.26",
+      "415.25"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$18",
+    "bbox": [
+      "543.86",
+      "435.50",
+      "565.99",
+      "449.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$17",
+    "bbox": [
+      "267.70",
+      "443.00",
+      "288.49",
+      "457.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MOSCOW MULE",
+    "bbox": [
+      "324.50",
+      "440.14",
+      "431.32",
+      "454.39"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MOSCOW MULE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MONTEPULCIANO",
+    "bbox": [
+      "47.00",
+      "447.64",
+      "170.42",
+      "461.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MONTEPULCIANO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tito’s Vodka with fresh squeezed lime juice “Q”",
+    "bbox": [
+      "324.50",
+      "456.50",
+      "557.23",
+      "468.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DʼABRUZZO",
+    "bbox": [
+      "47.00",
+      "465.64",
+      "127.63",
+      "479.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DʼABRUZZO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Spicy Gin-ger Beer (Brooklyn NY) served in a",
+    "bbox": [
+      "324.50",
+      "476.75",
+      "548.50",
+      "488.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Collemaggio 2018,Italy",
+    "bbox": [
+      "47.00",
+      "482.75",
+      "162.88",
+      "494.75"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018,I",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "COPPER Mug. Garnished with fresh mint spring",
+    "bbox": [
+      "324.50",
+      "497.75",
+      "561.69",
+      "509.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "and lime wheel",
+    "bbox": [
+      "324.50",
+      "518.00",
+      "401.40",
+      "530.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$17",
+    "bbox": [
+      "267.70",
+      "522.50",
+      "288.49",
+      "536.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHIANTI CLASSICO",
+    "bbox": [
+      "47.00",
+      "527.14",
+      "179.57",
+      "541.39"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHIANTI CLASSICO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tuscany 2018, Italy",
+    "bbox": [
+      "47.00",
+      "543.50",
+      "142.82",
+      "555.50"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018,",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$16",
+    "bbox": [
+      "544.46",
+      "557.75",
+      "565.99",
+      "572.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "APEROL SPRITZ",
+    "bbox": [
+      "324.50",
+      "562.39",
+      "434.35",
+      "576.64"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "APEROL SPRITZ",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Aperol, Prosecco and splash of Soda",
+    "bbox": [
+      "324.50",
+      "578.75",
+      "506.71",
+      "590.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$17",
+    "bbox": [
+      "267.70",
+      "603.50",
+      "288.49",
+      "617.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "VALPOLICELLA",
+    "bbox": [
+      "47.00",
+      "608.14",
+      "149.98",
+      "622.39"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VALPOLICELLA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$18",
+    "bbox": [
+      "543.86",
+      "618.50",
+      "565.99",
+      "632.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "San Cassiano 2019, Italy",
+    "bbox": [
+      "47.00",
+      "625.25",
+      "168.56",
+      "637.25"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019,",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ESPRESSO MARTINI",
+    "bbox": [
+      "324.50",
+      "623.14",
+      "462.38",
+      "637.39"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ESPRESSO MARTINI",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tito’s Vodka, simple syrup, espresso",
+    "bbox": [
+      "324.50",
+      "640.25",
+      "501.76",
+      "652.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$18",
+    "bbox": [
+      "543.86",
+      "680.00",
+      "565.99",
+      "694.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "COCONUT MOJITO",
+    "bbox": [
+      "324.50",
+      "684.64",
+      "452.89",
+      "698.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "COCONUT MOJITO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "W",
+    "bbox": [
+      "47.00",
+      "701.55",
+      "65.86",
+      "725.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HITE",
+    "bbox": [
+      "68.26",
+      "701.55",
+      "122.94",
+      "725.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Coconut Baccardi rum, fresh lime and mint,",
+    "bbox": [
+      "324.50",
+      "701.00",
+      "541.77",
+      "713.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "simple syrup, garnished with fresh mint leaf and",
+    "bbox": [
+      "324.50",
+      "721.25",
+      "564.93",
+      "733.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "lime wedge",
+    "bbox": [
+      "324.50",
+      "741.50",
+      "382.81",
+      "753.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://senzaglutennyc.com/restaurant/menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.09",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/19/22, 7:32 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Italian gluten-free restaurant in New York City: Senza Gluten",
+    "bbox": [
+      "244.78",
+      "15.70",
+      "458.37",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$67",
+    "bbox": [
+      "264.96",
+      "28.25",
+      "288.50",
+      "42.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$67",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "47.00",
+      "32.89",
+      "182.32",
+      "47.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CORDIALI",
+    "bbox": [
+      "324.50",
+      "33.30",
+      "436.00",
+      "57.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Nobilo 2017 New Zealand Crisp, tropical fruits,",
+    "bbox": [
+      "47.00",
+      "49.25",
+      "278.13",
+      "61.25"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "mineral, juicy and generous finish",
+    "bbox": [
+      "47.00",
+      "69.50",
+      "214.33",
+      "81.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$68",
+    "bbox": [
+      "263.61",
+      "110.00",
+      "288.49",
+      "124.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$68",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$12",
+    "bbox": [
+      "544.93",
+      "110.75",
+      "565.99",
+      "125.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "GAVI DI GAVI",
+    "bbox": [
+      "47.00",
+      "114.64",
+      "135.63",
+      "128.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "GAVI DI GAVI",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SAMBUCA",
+    "bbox": [
+      "324.50",
+      "115.39",
+      "392.23",
+      "129.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Il Rocchin 2018 Italy White fruit, lime zest and",
+    "bbox": [
+      "47.00",
+      "131.00",
+      "277.58",
+      "143.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "green apples. Well balance with fresh acidity on",
+    "bbox": [
+      "47.00",
+      "151.25",
+      "285.32",
+      "163.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$15",
+    "bbox": [
+      "544.82",
+      "152.00",
+      "566.00",
+      "166.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BOOTLEGGER 21",
+    "bbox": [
+      "324.50",
+      "156.64",
+      "440.85",
+      "170.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "the finish",
+    "bbox": [
+      "47.00",
+      "171.50",
+      "93.63",
+      "183.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$16",
+    "bbox": [
+      "544.46",
+      "192.50",
+      "565.99",
+      "206.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "DON JULIO",
+    "bbox": [
+      "324.50",
+      "197.14",
+      "402.36",
+      "211.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$63",
+    "bbox": [
+      "264.54",
+      "211.25",
+      "288.49",
+      "225.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$63",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "47.00",
+      "215.89",
+      "144.11",
+      "230.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Tomaresca 2017, Italy Floral and citrus fruit,",
+    "bbox": [
+      "47.00",
+      "233.00",
+      "263.18",
+      "245.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2017,",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$15",
+    "bbox": [
+      "544.82",
+      "233.00",
+      "566.00",
+      "247.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "DILONS GIN",
+    "bbox": [
+      "324.50",
+      "237.64",
+      "407.29",
+      "251.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "hints of minerality dried herbs and sage",
+    "bbox": [
+      "47.00",
+      "253.25",
+      "245.10",
+      "265.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$13",
+    "bbox": [
+      "544.79",
+      "273.50",
+      "565.99",
+      "287.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "AVERNA",
+    "bbox": [
+      "324.50",
+      "278.14",
+      "379.11",
+      "292.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$66",
+    "bbox": [
+      "264.21",
+      "293.00",
+      "288.49",
+      "307.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$66",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RIESLING",
+    "bbox": [
+      "47.00",
+      "297.64",
+      "112.64",
+      "311.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RIESLING",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "The Furst Alsace 2017 , France Crisp with racy",
+    "bbox": [
+      "47.00",
+      "314.00",
+      "273.54",
+      "326.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$13",
+    "bbox": [
+      "544.79",
+      "314.00",
+      "565.99",
+      "328.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "LIMONCELLO",
+    "bbox": [
+      "324.50",
+      "318.64",
+      "415.63",
+      "332.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "acidity, aromas of pears, apples, notes of citrus",
+    "bbox": [
+      "47.00",
+      "334.25",
+      "280.41",
+      "346.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "flowers and spice",
+    "bbox": [
+      "47.00",
+      "354.50",
+      "134.06",
+      "366.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$13",
+    "bbox": [
+      "544.79",
+      "354.50",
+      "565.99",
+      "368.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "GRAPPA",
+    "bbox": [
+      "324.50",
+      "359.14",
+      "379.39",
+      "373.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$56",
+    "bbox": [
+      "264.57",
+      "395.00",
+      "288.50",
+      "409.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$56",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "FALANGHINA",
+    "bbox": [
+      "47.00",
+      "399.64",
+      "136.83",
+      "413.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FALANGHINA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2016 Italy Citrus flowers with layers of tropical",
+    "bbox": [
+      "47.00",
+      "416.00",
+      "278.13",
+      "428.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SOFT DRINKS $5.00",
+    "bbox": [
+      "324.50",
+      "427.80",
+      "556.41",
+      "451.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "notes. Dry long finish",
+    "bbox": [
+      "47.00",
+      "436.25",
+      "153.72",
+      "448.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$62",
+    "bbox": [
+      "264.69",
+      "476.00",
+      "288.50",
+      "490.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$62",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "VERMENTINO",
+    "bbox": [
+      "47.00",
+      "480.64",
+      "139.94",
+      "494.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VERMENTINO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Surrau 2017, Italy Great expression of Sardinia",
+    "bbox": [
+      "47.00",
+      "497.00",
+      "276.88",
+      "509.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2017,",
+            "answer_start": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "COCA COLA, DIET COKE, SPRITE, CLUB SODA,",
+    "bbox": [
+      "324.50",
+      "508.25",
+      "565.39",
+      "520.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "“Gallura” DOCG bright with lots of minerality.",
+    "bbox": [
+      "47.00",
+      "518.00",
+      "272.30",
+      "530.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ICED TEA, SAN PELLEGRINO, LIMONATA,",
+    "bbox": [
+      "324.50",
+      "528.50",
+      "536.38",
+      "540.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Notes of white flowers and peaches. Pleasant",
+    "bbox": [
+      "47.00",
+      "538.25",
+      "274.47",
+      "550.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ARANCIATA CRANBERRY JUICE , ORANGE",
+    "bbox": [
+      "324.50",
+      "548.75",
+      "540.00",
+      "560.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "finish",
+    "bbox": [
+      "47.00",
+      "558.50",
+      "74.24",
+      "570.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "JUICE, ORGANIC GRAPE JUICE, MANGO JUICE ,",
+    "bbox": [
+      "324.50",
+      "569.75",
+      "564.94",
+      "581.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PEACH JUICE",
+    "bbox": [
+      "324.50",
+      "590.00",
+      "392.68",
+      "602.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$62",
+    "bbox": [
+      "264.69",
+      "598.25",
+      "288.50",
+      "612.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$62",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PECORINO",
+    "bbox": [
+      "47.00",
+      "602.89",
+      "120.27",
+      "617.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PECORINO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Colle Maggio  2019, Italy At sight it has a brilliant",
+    "bbox": [
+      "47.00",
+      "619.25",
+      "287.86",
+      "631.25"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "straw yellow. The nose is fine with hints of",
+    "bbox": [
+      "47.00",
+      "640.25",
+      "258.06",
+      "652.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SPARKLING",
+    "bbox": [
+      "324.50",
+      "643.80",
+      "457.82",
+      "667.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "citrus, on which stands out, among all, the",
+    "bbox": [
+      "47.00",
+      "660.50",
+      "257.49",
+      "672.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "lemon, with a final note of pineapple. On the",
+    "bbox": [
+      "47.00",
+      "680.75",
+      "272.36",
+      "692.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "palate it is a crunchy, balanced wine that leaves",
+    "bbox": [
+      "47.00",
+      "701.00",
+      "287.89",
+      "713.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "lychees and citrus fruits.",
+    "bbox": [
+      "47.00",
+      "721.25",
+      "167.31",
+      "733.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$16/64",
+    "bbox": [
+      "522.86",
+      "721.25",
+      "566.00",
+      "735.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PROSECCO “GARDIZ”",
+    "bbox": [
+      "324.50",
+      "725.89",
+      "472.74",
+      "740.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "VALDOBBIADENE 2019,",
+    "bbox": [
+      "324.50",
+      "743.89",
+      "486.18",
+      "758.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://senzaglutennyc.com/restaurant/menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.09",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/19/22, 7:32 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Italian gluten-free restaurant in New York City: Senza Gluten",
+    "bbox": [
+      "244.78",
+      "15.70",
+      "458.37",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ORGANIC & VEGAN",
+    "bbox": [
+      "47.00",
+      "33.30",
+      "266.02",
+      "57.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ITALY",
+    "bbox": [
+      "324.50",
+      "32.89",
+      "361.39",
+      "47.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$60",
+    "bbox": [
+      "539.66",
+      "68.75",
+      "565.99",
+      "83.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PROSECCO D.O.C.",
+    "bbox": [
+      "324.50",
+      "73.39",
+      "449.97",
+      "87.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Candoni Brut , Italy",
+    "bbox": [
+      "324.50",
+      "89.75",
+      "420.34",
+      "101.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$60",
+    "bbox": [
+      "262.16",
+      "110.75",
+      "288.49",
+      "125.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PINOT GRIGIO 2019",
+    "bbox": [
+      "47.00",
+      "115.39",
+      "184.27",
+      "129.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Candoni Italy",
+    "bbox": [
+      "47.00",
+      "132.50",
+      "113.64",
+      "144.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BLANC DU BLANC BRUT",
+    "bbox": [
+      "324.50",
+      "134.89",
+      "490.88",
+      "149.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$64",
+    "bbox": [
+      "540.87",
+      "130.25",
+      "566.00",
+      "144.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CHAMPAGNE",
+    "bbox": [
+      "324.50",
+      "152.89",
+      "411.92",
+      "167.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$56",
+    "bbox": [
+      "264.57",
+      "172.25",
+      "288.50",
+      "186.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Borgo Maragliano , Italy",
+    "bbox": [
+      "324.50",
+      "169.25",
+      "442.14",
+      "181.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MERLOT 2018",
+    "bbox": [
+      "47.00",
+      "176.89",
+      "141.72",
+      "191.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Candoni Italy",
+    "bbox": [
+      "47.00",
+      "193.25",
+      "113.64",
+      "205.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "DESSERT W",
+    "bbox": [
+      "324.50",
+      "241.05",
+      "458.90",
+      "265.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "INES",
+    "bbox": [
+      "461.30",
+      "241.05",
+      "515.80",
+      "265.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ROSE BY BOTTLE",
+    "bbox": [
+      "47.00",
+      "265.05",
+      "247.57",
+      "289.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$16/62",
+    "bbox": [
+      "524.18",
+      "318.50",
+      "566.00",
+      "332.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MOSCATO DʼASTI",
+    "bbox": [
+      "324.50",
+      "323.14",
+      "443.12",
+      "337.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$64",
+    "bbox": [
+      "263.37",
+      "342.50",
+      "288.50",
+      "356.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Borgo Maragliano “El Callie 2020, Italy",
+    "bbox": [
+      "324.50",
+      "340.25",
+      "517.90",
+      "352.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "KREOS ROSATO",
+    "bbox": [
+      "47.00",
+      "347.14",
+      "155.37",
+      "361.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Castello Monaci 2017, Italy",
+    "bbox": [
+      "47.00",
+      "364.25",
+      "180.52",
+      "376.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Fantastically full bodied, notes of strawberries",
+    "bbox": [
+      "47.00",
+      "384.50",
+      "276.37",
+      "396.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "and cherries, crisp and re- freshing with a dry",
+    "bbox": [
+      "47.00",
+      "404.75",
+      "271.60",
+      "416.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ROSE – W",
+    "bbox": [
+      "324.50",
+      "412.05",
+      "436.34",
+      "436.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "HITE OR",
+    "bbox": [
+      "438.74",
+      "412.05",
+      "535.00",
+      "436.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "finish",
+    "bbox": [
+      "47.00",
+      "425.00",
+      "74.24",
+      "437.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RED SANGRIA",
+    "bbox": [
+      "324.50",
+      "439.05",
+      "483.60",
+      "463.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$54",
+    "bbox": [
+      "263.73",
+      "464.75",
+      "288.49",
+      "479.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "LAMBERTI",
+    "bbox": [
+      "47.00",
+      "469.39",
+      "117.24",
+      "483.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Extra Dry Sparkling Rose, Italy",
+    "bbox": [
+      "47.00",
+      "486.50",
+      "197.62",
+      "498.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Carafe $ 56 – Glass $ 15",
+    "bbox": [
+      "324.50",
+      "486.50",
+      "444.03",
+      "498.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Fresh wild strawberries aromas, floral undertone",
+    "bbox": [
+      "47.00",
+      "506.75",
+      "287.76",
+      "518.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "soft creamy finish",
+    "bbox": [
+      "47.00",
+      "527.00",
+      "136.57",
+      "539.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BEER",
+    "bbox": [
+      "324.50",
+      "541.05",
+      "384.76",
+      "565.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RED W",
+    "bbox": [
+      "47.00",
+      "598.80",
+      "123.57",
+      "622.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "INE",
+    "bbox": [
+      "125.97",
+      "598.80",
+      "165.26",
+      "622.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$12",
+    "bbox": [
+      "544.93",
+      "618.50",
+      "565.99",
+      "632.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "GLUTENBERG I.P.A. —",
+    "bbox": [
+      "324.50",
+      "623.14",
+      "477.52",
+      "637.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "GREEN",
+    "bbox": [
+      "324.50",
+      "641.14",
+      "371.34",
+      "655.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Light caramel, Apricot, Tangerine Notes",
+    "bbox": [
+      "324.50",
+      "657.50",
+      "521.32",
+      "669.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$140",
+    "bbox": [
+      "256.06",
+      "676.25",
+      "288.50",
+      "690.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "AMARONE CLASSICO",
+    "bbox": [
+      "47.00",
+      "680.89",
+      "190.20",
+      "695.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "VALPOLICELLA",
+    "bbox": [
+      "47.00",
+      "699.64",
+      "149.98",
+      "713.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "GLUTENBERG BLONDE",
+    "bbox": [
+      "324.50",
+      "702.64",
+      "481.69",
+      "716.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$12",
+    "bbox": [
+      "544.93",
+      "698.00",
+      "565.99",
+      "712.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "San Cassiano 2015 , Italy Polished and",
+    "bbox": [
+      "47.00",
+      "716.00",
+      "238.69",
+      "728.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "— YELLOW",
+    "bbox": [
+      "324.50",
+      "720.64",
+      "397.08",
+      "734.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "well structured with a superb intensity with a",
+    "bbox": [
+      "47.00",
+      "736.25",
+      "270.92",
+      "748.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://senzaglutennyc.com/restaurant/menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.09",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/19/22, 7:32 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Italian gluten-free restaurant in New York City: Senza Gluten",
+    "bbox": [
+      "244.78",
+      "15.70",
+      "458.37",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "rich finish",
+    "bbox": [
+      "47.00",
+      "31.25",
+      "95.23",
+      "43.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "White Pepper, Green Tea and Lemon Peel",
+    "bbox": [
+      "324.50",
+      "31.25",
+      "534.44",
+      "43.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Notes",
+    "bbox": [
+      "324.50",
+      "51.50",
+      "354.40",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$125",
+    "bbox": [
+      "259.78",
+      "71.00",
+      "288.49",
+      "85.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BAROLO",
+    "bbox": [
+      "47.00",
+      "75.64",
+      "103.84",
+      "89.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Marchesi Incisa 2008, Italy",
+    "bbox": [
+      "47.00",
+      "92.00",
+      "182.62",
+      "104.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$12",
+    "bbox": [
+      "544.93",
+      "91.25",
+      "565.99",
+      "105.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "GLUTENBERG",
+    "bbox": [
+      "324.50",
+      "95.89",
+      "418.98",
+      "110.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Elegant and fruity with bursting notes of red",
+    "bbox": [
+      "47.00",
+      "113.00",
+      "267.74",
+      "125.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "AMERICAN PALE ALE —",
+    "bbox": [
+      "324.50",
+      "114.64",
+      "484.41",
+      "128.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "cherry, balanced finish",
+    "bbox": [
+      "47.00",
+      "133.25",
+      "159.49",
+      "145.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RED",
+    "bbox": [
+      "324.50",
+      "132.64",
+      "351.73",
+      "146.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Candied Orange and Caramel Notes",
+    "bbox": [
+      "324.50",
+      "149.00",
+      "505.77",
+      "161.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$137",
+    "bbox": [
+      "260.02",
+      "173.00",
+      "288.49",
+      "187.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BRUNELLO DI",
+    "bbox": [
+      "47.00",
+      "177.64",
+      "141.96",
+      "191.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$10",
+    "bbox": [
+      "542.41",
+      "188.75",
+      "565.99",
+      "203.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "MONTALCINO",
+    "bbox": [
+      "47.00",
+      "195.64",
+      "140.81",
+      "209.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ORIGINAL SIN APPLE",
+    "bbox": [
+      "324.50",
+      "193.39",
+      "471.08",
+      "207.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "La Martoccina 2015, Italy",
+    "bbox": [
+      "47.00",
+      "212.00",
+      "171.74",
+      "224.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CIDER",
+    "bbox": [
+      "324.50",
+      "211.39",
+      "366.47",
+      "225.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Light sweet, green apple aroma",
+    "bbox": [
+      "324.50",
+      "228.50",
+      "481.75",
+      "240.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bright aromas of red cherries. Full bodied",
+    "bbox": [
+      "47.00",
+      "233.00",
+      "252.12",
+      "245.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "smooth and slightly tannin",
+    "bbox": [
+      "47.00",
+      "253.25",
+      "181.44",
+      "265.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$8",
+    "bbox": [
+      "549.12",
+      "268.25",
+      "566.00",
+      "282.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "GINGER BEER",
+    "bbox": [
+      "324.50",
+      "272.89",
+      "419.28",
+      "287.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$75",
+    "bbox": [
+      "265.31",
+      "293.00",
+      "288.49",
+      "307.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "47.00",
+      "297.64",
+      "131.00",
+      "311.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Marchesi Incisa 2018, Italy",
+    "bbox": [
+      "47.00",
+      "314.00",
+      "178.16",
+      "326.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Estate Bottled from a special selection grapes",
+    "bbox": [
+      "47.00",
+      "334.25",
+      "275.41",
+      "346.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CRU. Notes of red fruits with a smooth and long",
+    "bbox": [
+      "47.00",
+      "354.50",
+      "287.31",
+      "366.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "finish",
+    "bbox": [
+      "47.00",
+      "375.50",
+      "74.24",
+      "387.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$66",
+    "bbox": [
+      "264.21",
+      "415.25",
+      "288.49",
+      "429.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "47.00",
+      "419.89",
+      "131.00",
+      "434.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Fez 2019, California",
+    "bbox": [
+      "47.00",
+      "436.25",
+      "145.45",
+      "448.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Fruity character with notes of red berries.",
+    "bbox": [
+      "47.00",
+      "456.50",
+      "251.84",
+      "468.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Smooth finish",
+    "bbox": [
+      "47.00",
+      "476.75",
+      "118.06",
+      "488.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$64",
+    "bbox": [
+      "263.37",
+      "517.25",
+      "288.50",
+      "531.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "MALBEC",
+    "bbox": [
+      "47.00",
+      "521.89",
+      "103.19",
+      "536.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Makia 2018, Argentina",
+    "bbox": [
+      "47.00",
+      "538.25",
+      "158.85",
+      "550.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Notes of cherries and red fruits with a delicate",
+    "bbox": [
+      "47.00",
+      "558.50",
+      "276.49",
+      "570.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "and smooth finish",
+    "bbox": [
+      "47.00",
+      "578.75",
+      "137.92",
+      "590.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$66",
+    "bbox": [
+      "264.21",
+      "618.50",
+      "288.49",
+      "632.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "MONTEPULCIANO",
+    "bbox": [
+      "47.00",
+      "623.14",
+      "170.42",
+      "637.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "DʼABRUZZO",
+    "bbox": [
+      "47.00",
+      "641.89",
+      "127.63",
+      "656.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Colle Maggio 2018, Italy",
+    "bbox": [
+      "47.00",
+      "658.25",
+      "167.43",
+      "670.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Red Cherries with an earthy funk and acidity.",
+    "bbox": [
+      "47.00",
+      "678.50",
+      "270.04",
+      "690.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Generous taste",
+    "bbox": [
+      "47.00",
+      "698.75",
+      "123.10",
+      "710.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$66",
+    "bbox": [
+      "264.21",
+      "738.50",
+      "288.49",
+      "752.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CHIANTI CLASSICO",
+    "bbox": [
+      "47.00",
+      "743.14",
+      "179.57",
+      "757.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://senzaglutennyc.com/restaurant/menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.09",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/19/22, 7:32 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Italian gluten-free restaurant in New York City: Senza Gluten",
+    "bbox": [
+      "244.78",
+      "15.70",
+      "458.37",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Tuscany 2018, Italy",
+    "bbox": [
+      "47.00",
+      "31.25",
+      "142.82",
+      "43.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "This wine is medium to full body with pleasant",
+    "bbox": [
+      "47.00",
+      "51.50",
+      "284.76",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "notes of dark fruits and",
+    "bbox": [
+      "47.00",
+      "71.75",
+      "162.97",
+      "83.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "cher-ries, smooth finish.",
+    "bbox": [
+      "47.00",
+      "92.75",
+      "168.04",
+      "104.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$74",
+    "bbox": [
+      "264.58",
+      "132.50",
+      "288.49",
+      "146.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "SANGIOVESE RISERVA",
+    "bbox": [
+      "47.00",
+      "137.14",
+      "200.53",
+      "151.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "La Gigliola 2015 , Tuscany,",
+    "bbox": [
+      "47.00",
+      "153.50",
+      "176.95",
+      "165.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Italy Fruity character and a trace of spicy and",
+    "bbox": [
+      "47.00",
+      "173.75",
+      "270.44",
+      "185.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "silky vanilla",
+    "bbox": [
+      "47.00",
+      "194.00",
+      "103.75",
+      "206.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$64",
+    "bbox": [
+      "263.37",
+      "234.50",
+      "288.50",
+      "248.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "47.00",
+      "239.14",
+      "210.39",
+      "253.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Dialogo 2014, Italy",
+    "bbox": [
+      "47.00",
+      "255.50",
+      "140.77",
+      "267.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "This Cabernet is pleasant full body with hints of",
+    "bbox": [
+      "47.00",
+      "275.75",
+      "284.72",
+      "287.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "dark cherries and currants. Smooth",
+    "bbox": [
+      "47.00",
+      "296.00",
+      "222.09",
+      "308.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "finish",
+    "bbox": [
+      "47.00",
+      "316.25",
+      "74.24",
+      "328.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$68",
+    "bbox": [
+      "263.61",
+      "356.00",
+      "288.49",
+      "370.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "VALPOLICELLA",
+    "bbox": [
+      "47.00",
+      "360.64",
+      "149.98",
+      "374.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "San Cassiano 2019 Italy",
+    "bbox": [
+      "47.00",
+      "377.75",
+      "166.23",
+      "389.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Medium to full-body this voluptuous notes of",
+    "bbox": [
+      "47.00",
+      "398.00",
+      "275.76",
+      "410.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "dark fruits red cherries and bittersweet",
+    "bbox": [
+      "47.00",
+      "418.25",
+      "239.72",
+      "430.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "chocolate and spices",
+    "bbox": [
+      "47.00",
+      "438.50",
+      "151.33",
+      "450.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$58",
+    "bbox": [
+      "263.97",
+      "478.25",
+      "288.50",
+      "492.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "NERO DʼAVOLA",
+    "bbox": [
+      "47.00",
+      "482.89",
+      "150.24",
+      "497.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Tonnino 2018, Italy. Medium to",
+    "bbox": [
+      "47.00",
+      "500.00",
+      "203.60",
+      "512.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "full-body, bright with soft tannis and smooth",
+    "bbox": [
+      "47.00",
+      "520.25",
+      "272.17",
+      "532.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$62",
+    "bbox": [
+      "264.69",
+      "560.00",
+      "288.50",
+      "574.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RIOJA",
+    "bbox": [
+      "47.00",
+      "564.64",
+      "88.04",
+      "578.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Tempranillio, Campo Viejo 2018 Spain",
+    "bbox": [
+      "47.00",
+      "581.00",
+      "239.84",
+      "593.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Soft and fresh with a long finish notes red fruits,",
+    "bbox": [
+      "47.00",
+      "601.25",
+      "287.04",
+      "613.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "vanilla and cocoa",
+    "bbox": [
+      "47.00",
+      "622.25",
+      "133.48",
+      "634.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "✻",
+    "bbox": [
+      "300.84",
+      "704.20",
+      "312.16",
+      "716.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "WE ACCEPT AMERICAN EXPRESS CARDS OR CASH ONLY",
+    "bbox": [
+      "157.36",
+      "736.25",
+      "455.64",
+      "748.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://senzaglutennyc.com/restaurant/menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.09",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/19/22, 7:32 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Italian gluten-free restaurant in New York City: Senza Gluten",
+    "bbox": [
+      "244.78",
+      "15.70",
+      "458.37",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SOUPS",
+    "bbox": [
+      "47.00",
+      "202.05",
+      "126.99",
+      "226.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "PRIMI",
+    "bbox": [
+      "324.50",
+      "202.05",
+      "391.41",
+      "226.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$14.99",
+    "bbox": [
+      "247.16",
+      "279.50",
+      "288.50",
+      "293.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$28.99",
+    "bbox": [
+      "522.62",
+      "279.50",
+      "565.99",
+      "293.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "GRANDPA HYʼS HOME",
+    "bbox": [
+      "47.00",
+      "284.14",
+      "197.17",
+      "298.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RISOTTO AI FUNGHI",
+    "bbox": [
+      "324.50",
+      "284.14",
+      "464.76",
+      "298.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MADE CHICKEN SOUP",
+    "bbox": [
+      "47.00",
+      "302.14",
+      "198.51",
+      "316.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Mushroom, parmesan and truffle oil",
+    "bbox": [
+      "324.50",
+      "300.50",
+      "505.04",
+      "312.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "PASTA E FAGIOLI",
+    "bbox": [
+      "47.00",
+      "342.64",
+      "164.21",
+      "356.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$13.99",
+    "bbox": [
+      "248.33",
+      "338.00",
+      "288.50",
+      "352.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "LASAGNA",
+    "bbox": [
+      "324.50",
+      "344.89",
+      "388.75",
+      "359.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$29.99",
+    "bbox": [
+      "523.46",
+      "340.25",
+      "566.00",
+      "354.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Soup with ditalini pasta and cannellini beans",
+    "bbox": [
+      "47.00",
+      "359.75",
+      "270.02",
+      "371.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Classic lasagna with layers of bolognese sauce",
+    "bbox": [
+      "324.50",
+      "362.00",
+      "554.97",
+      "374.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "and cheese",
+    "bbox": [
+      "324.50",
+      "382.25",
+      "381.68",
+      "394.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Bread basket",
+    "bbox": [
+      "47.00",
+      "402.50",
+      "111.68",
+      "414.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$4.99",
+    "bbox": [
+      "252.42",
+      "399.50",
+      "288.50",
+      "413.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$23.99",
+    "bbox": [
+      "523.54",
+      "422.00",
+      "565.99",
+      "436.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "PENNE AL POMODORO",
+    "bbox": [
+      "324.50",
+      "426.64",
+      "482.35",
+      "440.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Penne  pasta with tomato sauce, fresh basil,",
+    "bbox": [
+      "324.50",
+      "443.00",
+      "543.87",
+      "455.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "parmesan and extra virgin olive oil",
+    "bbox": [
+      "324.50",
+      "463.25",
+      "496.27",
+      "475.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ANTIPASTI",
+    "bbox": [
+      "47.00",
+      "474.30",
+      "170.91",
+      "498.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$28.99",
+    "bbox": [
+      "522.62",
+      "503.75",
+      "565.99",
+      "518.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SPAGHETTI ALLE",
+    "bbox": [
+      "324.50",
+      "508.39",
+      "442.18",
+      "522.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "VONGOLE",
+    "bbox": [
+      "324.50",
+      "526.39",
+      "391.62",
+      "540.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Sautéed clams, garlic, parsley in a white wine",
+    "bbox": [
+      "324.50",
+      "542.75",
+      "551.82",
+      "554.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$16.99",
+    "bbox": [
+      "248.00",
+      "551.75",
+      "288.50",
+      "566.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BRUSCHETTA AI",
+    "bbox": [
+      "47.00",
+      "556.39",
+      "158.99",
+      "570.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "sauce",
+    "bbox": [
+      "324.50",
+      "563.00",
+      "353.02",
+      "575.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "FUNGHI",
+    "bbox": [
+      "47.00",
+      "575.14",
+      "101.41",
+      "589.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Bruschetta with mushrooms, shaved parmesan",
+    "bbox": [
+      "47.00",
+      "591.50",
+      "282.84",
+      "603.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$27.99",
+    "bbox": [
+      "524.46",
+      "602.75",
+      "566.00",
+      "617.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "FETTUCCINE ALLA",
+    "bbox": [
+      "324.50",
+      "607.39",
+      "452.05",
+      "621.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "and truffle oil",
+    "bbox": [
+      "47.00",
+      "611.75",
+      "114.49",
+      "623.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BOLOGNESE",
+    "bbox": [
+      "324.50",
+      "626.14",
+      "410.40",
+      "640.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Fettuccine pasta in a traditional meat sauce",
+    "bbox": [
+      "324.50",
+      "642.50",
+      "541.48",
+      "654.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$15.99",
+    "bbox": [
+      "248.35",
+      "651.50",
+      "288.49",
+      "665.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BRUSCHETTA",
+    "bbox": [
+      "47.00",
+      "656.14",
+      "140.37",
+      "670.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ORIGINALE",
+    "bbox": [
+      "47.00",
+      "674.14",
+      "123.66",
+      "688.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Bruschetta with fresh tomato, garlic, basil, extra",
+    "bbox": [
+      "47.00",
+      "690.50",
+      "283.83",
+      "702.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RIGATONI FUNGHI E SPECK",
+    "bbox": [
+      "324.50",
+      "689.89",
+      "516.05",
+      "704.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "virgin olive oil",
+    "bbox": [
+      "47.00",
+      "711.50",
+      "115.92",
+      "723.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://senzaglutennyc.com/restaurant/menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.09",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/19/22, 7:32 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Italian gluten-free restaurant in New York City: Senza Gluten",
+    "bbox": [
+      "244.78",
+      "15.70",
+      "458.37",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CAPRESE",
+    "bbox": [
+      "47.00",
+      "32.89",
+      "110.24",
+      "47.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$21.99",
+    "bbox": [
+      "248.47",
+      "28.25",
+      "288.50",
+      "42.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Rigatoni pasta with shiitake, portobello, crem$in3i1",
+    "bbox": [
+      "324.50",
+      "28.25",
+      "565.99",
+      "43.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Buffalo mozzarella, beefsteak tomatoes, basil,",
+    "bbox": [
+      "47.00",
+      "49.25",
+      "277.65",
+      "61.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "mushrooms, speck (smoked prosciutto) & white",
+    "bbox": [
+      "324.50",
+      "51.50",
+      "562.71",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "extra virgin olive oil",
+    "bbox": [
+      "47.00",
+      "69.50",
+      "143.90",
+      "81.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "truffle oil",
+    "bbox": [
+      "324.50",
+      "71.75",
+      "370.16",
+      "83.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$22.99",
+    "bbox": [
+      "246.18",
+      "110.00",
+      "288.49",
+      "124.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "PARMIGIANA DI",
+    "bbox": [
+      "47.00",
+      "114.64",
+      "154.05",
+      "128.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MELANZANE",
+    "bbox": [
+      "47.00",
+      "132.64",
+      "132.29",
+      "146.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MAIN COURSE",
+    "bbox": [
+      "324.50",
+      "144.30",
+      "488.85",
+      "168.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Fried eggplant slices layered with fresh",
+    "bbox": [
+      "47.00",
+      "149.00",
+      "240.12",
+      "161.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "mozzarella and homemade marinara sauce",
+    "bbox": [
+      "47.00",
+      "169.25",
+      "264.14",
+      "181.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$23.99",
+    "bbox": [
+      "246.04",
+      "209.00",
+      "288.49",
+      "223.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "PROSCIUTTO DI PARMA",
+    "bbox": [
+      "47.00",
+      "213.64",
+      "210.90",
+      "227.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "& MOZZARELLA DI",
+    "bbox": [
+      "47.00",
+      "232.39",
+      "173.44",
+      "246.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BUFALA",
+    "bbox": [
+      "47.00",
+      "250.39",
+      "100.68",
+      "264.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$46.99",
+    "bbox": [
+      "521.90",
+      "260.00",
+      "565.99",
+      "274.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Buffalo mozzarella and Prosciutto di Parma",
+    "bbox": [
+      "47.00",
+      "266.75",
+      "263.94",
+      "278.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "COSTOLETTE DI",
+    "bbox": [
+      "324.50",
+      "264.64",
+      "435.45",
+      "278.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "VITELLO",
+    "bbox": [
+      "324.50",
+      "282.64",
+      "382.23",
+      "296.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Marinated and grilled veal chop topped with",
+    "bbox": [
+      "327.20",
+      "299.00",
+      "548.72",
+      "311.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$26",
+    "bbox": [
+      "264.69",
+      "306.50",
+      "288.50",
+      "320.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CALAMARI FRITTI",
+    "bbox": [
+      "47.00",
+      "311.14",
+      "168.30",
+      "325.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "sautéed wild mushrooms, drizzled with white",
+    "bbox": [
+      "324.50",
+      "320.00",
+      "551.40",
+      "332.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Fried calamari with spicy marinara & tartar",
+    "bbox": [
+      "47.00",
+      "327.50",
+      "257.07",
+      "339.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "truffle oil, served with sautéd spinachand",
+    "bbox": [
+      "324.50",
+      "340.25",
+      "533.10",
+      "352.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "dipping.",
+    "bbox": [
+      "47.00",
+      "347.75",
+      "87.30",
+      "359.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "house roasted red potatoes",
+    "bbox": [
+      "324.50",
+      "360.50",
+      "461.90",
+      "372.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$26",
+    "bbox": [
+      "264.69",
+      "388.25",
+      "288.50",
+      "402.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CAVOLFIORE ALLA",
+    "bbox": [
+      "47.00",
+      "392.89",
+      "174.34",
+      "407.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$31.99",
+    "bbox": [
+      "525.83",
+      "400.25",
+      "566.00",
+      "414.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "POLLO ALLA GRIGLIA",
+    "bbox": [
+      "324.50",
+      "404.89",
+      "472.16",
+      "419.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "PARMIGIANA",
+    "bbox": [
+      "47.00",
+      "410.89",
+      "134.41",
+      "425.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Marinated and grilled chicken breast, sautéd",
+    "bbox": [
+      "324.50",
+      "421.25",
+      "544.29",
+      "433.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Breaded, fried and baked cauliflower with",
+    "bbox": [
+      "47.00",
+      "427.25",
+      "254.29",
+      "439.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "spinach  and  mashed potatoes",
+    "bbox": [
+      "324.50",
+      "442.25",
+      "480.90",
+      "454.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "buffalo mozzarella and parmesan in a fresh",
+    "bbox": [
+      "47.00",
+      "447.50",
+      "264.14",
+      "459.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "tomato sauce.",
+    "bbox": [
+      "47.00",
+      "467.75",
+      "118.08",
+      "479.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$43.50",
+    "bbox": [
+      "520.32",
+      "482.00",
+      "565.99",
+      "496.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "SALMONE ALLA",
+    "bbox": [
+      "324.50",
+      "486.64",
+      "431.26",
+      "500.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "GRIGLIA",
+    "bbox": [
+      "324.50",
+      "504.64",
+      "380.92",
+      "518.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Marinated & grilled wild salmon fillet, served",
+    "bbox": [
+      "324.50",
+      "521.00",
+      "546.14",
+      "533.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "INSALATE",
+    "bbox": [
+      "47.00",
+      "540.30",
+      "160.50",
+      "564.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "with soft  polenta & sautéed  string beans , aged",
+    "bbox": [
+      "324.50",
+      "541.25",
+      "564.13",
+      "553.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "balsamic vinegar.",
+    "bbox": [
+      "324.50",
+      "562.25",
+      "410.67",
+      "574.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$39",
+    "bbox": [
+      "542.04",
+      "602.00",
+      "565.99",
+      "616.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "POLLO ALLA",
+    "bbox": [
+      "324.50",
+      "606.64",
+      "410.04",
+      "620.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$14.99",
+    "bbox": [
+      "247.16",
+      "617.75",
+      "288.50",
+      "632.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MISTA",
+    "bbox": [
+      "47.00",
+      "622.39",
+      "88.95",
+      "636.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "PARMIGIANA",
+    "bbox": [
+      "324.50",
+      "624.64",
+      "411.91",
+      "638.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Mixed greens, grape tomatoes, avocado in a",
+    "bbox": [
+      "47.00",
+      "638.75",
+      "266.56",
+      "650.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Breaded, panfried and baked chicken breast",
+    "bbox": [
+      "324.50",
+      "641.00",
+      "543.48",
+      "653.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "balsamic dressing",
+    "bbox": [
+      "47.00",
+      "659.00",
+      "135.80",
+      "671.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "with buffalo mozzarella and parmesan in a",
+    "bbox": [
+      "324.50",
+      "661.25",
+      "538.21",
+      "673.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "fresh tomato sauce, served with spaghetti",
+    "bbox": [
+      "324.50",
+      "681.50",
+      "533.66",
+      "693.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$16.99",
+    "bbox": [
+      "248.00",
+      "698.75",
+      "288.50",
+      "713.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CESARE",
+    "bbox": [
+      "47.00",
+      "703.39",
+      "100.75",
+      "717.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "pomodoro.",
+    "bbox": [
+      "324.50",
+      "702.50",
+      "380.90",
+      "714.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Crisp romaine lettuce, shaved Parmesan,",
+    "bbox": [
+      "47.00",
+      "720.50",
+      "250.96",
+      "732.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "croutons and traditional Caesar dressing",
+    "bbox": [
+      "47.00",
+      "740.75",
+      "247.80",
+      "752.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$9.99 Each",
+    "bbox": [
+      "498.27",
+      "742.25",
+      "566.00",
+      "756.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "SIDE DISHES",
+    "bbox": [
+      "324.50",
+      "746.89",
+      "413.76",
+      "761.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://senzaglutennyc.com/restaurant/menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.09",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "4/19/22, 7:32 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Italian gluten-free restaurant in New York City: Senza Gluten",
+    "bbox": [
+      "244.78",
+      "15.70",
+      "458.37",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Sautéed spinach /  Sautéed string",
+    "bbox": [
+      "324.50",
+      "31.25",
+      "492.52",
+      "43.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "beans /",
+    "bbox": [
+      "324.50",
+      "51.50",
+      "361.32",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Roasted red potatoes/ Mashed",
+    "bbox": [
+      "324.50",
+      "94.25",
+      "478.35",
+      "106.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$8.99 each",
+    "bbox": [
+      "498.18",
+      "91.25",
+      "566.00",
+      "105.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "potatoes  / Soft polenta",
+    "bbox": [
+      "324.50",
+      "115.25",
+      "443.95",
+      "127.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Tomato sauce",
+    "bbox": [
+      "324.50",
+      "158.00",
+      "397.23",
+      "170.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$4.99",
+    "bbox": [
+      "523.50",
+      "155.00",
+      "565.99",
+      "169.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "✻",
+    "bbox": [
+      "300.84",
+      "239.95",
+      "312.16",
+      "252.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Our menu is 100% gluten-free and there are no gluten-based products used in our restaurant. Before",
+    "bbox": [
+      "52.34",
+      "272.00",
+      "560.54",
+      "284.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "placing your order, please inform your server if a person in your party has any additional food allergies",
+    "bbox": [
+      "51.93",
+      "292.25",
+      "561.06",
+      "304.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "or intolerances. We will do our best to accommodate your needs. Please be aware that our restaurant",
+    "bbox": [
+      "53.66",
+      "312.50",
+      "559.34",
+      "324.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "uses ingredients that contain dairy, eggs, fish, shellfish, milk, soy, peanuts, and tree nuts.",
+    "bbox": [
+      "87.09",
+      "333.50",
+      "525.91",
+      "345.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "WE ACCEPT AMERICAN EXPRESS CARDS OR CASH ONLY",
+    "bbox": [
+      "157.36",
+      "371.75",
+      "455.64",
+      "383.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$15.99",
+    "bbox": [
+      "248.35",
+      "704.75",
+      "288.49",
+      "719.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$14.99",
+    "bbox": [
+      "524.66",
+      "704.75",
+      "566.00",
+      "719.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "TIRAMISU",
+    "bbox": [
+      "47.00",
+      "709.39",
+      "115.07",
+      "723.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "PIATTO DI BISCOTTI",
+    "bbox": [
+      "324.50",
+      "709.39",
+      "465.72",
+      "723.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "CON CIOCOLATO FUSO",
+    "bbox": [
+      "324.50",
+      "727.39",
+      "483.22",
+      "741.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "https://senzaglutennyc.com/restaurant/menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.09",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "9/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "4/19/22, 7:32 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Italian gluten-free restaurant in New York City: Senza Gluten",
+    "bbox": [
+      "244.78",
+      "15.70",
+      "458.37",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Layers of mascarpone cream and home made",
+    "bbox": [
+      "47.00",
+      "31.25",
+      "277.98",
+      "43.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Home made shortbread cookie plate with warm",
+    "bbox": [
+      "324.50",
+      "31.25",
+      "564.57",
+      "43.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "savoiardi biscuits",
+    "bbox": [
+      "47.00",
+      "51.50",
+      "131.22",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "chocolate sauce and scoop of pistachio ice",
+    "bbox": [
+      "324.50",
+      "51.50",
+      "537.36",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "cream",
+    "bbox": [
+      "324.50",
+      "71.75",
+      "356.01",
+      "83.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$15.99",
+    "bbox": [
+      "248.35",
+      "104.75",
+      "288.49",
+      "119.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "TORTA AL CIOCCOLATO",
+    "bbox": [
+      "47.00",
+      "109.39",
+      "209.46",
+      "123.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$11.50",
+    "bbox": [
+      "526.33",
+      "112.25",
+      "565.99",
+      "126.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "GELATO & SORBETI",
+    "bbox": [
+      "324.50",
+      "116.89",
+      "459.70",
+      "131.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Molten chocolate cake with toasted almond",
+    "bbox": [
+      "47.00",
+      "126.50",
+      "266.91",
+      "138.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Assorted flavors of ice creams",
+    "bbox": [
+      "324.50",
+      "133.25",
+      "474.37",
+      "145.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "cream anglaise and vanilla bean ice cream",
+    "bbox": [
+      "47.00",
+      "146.75",
+      "257.64",
+      "158.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$$$$$$$5544655.......55999990099999",
+    "bbox": [
+      "529.20",
+      "173.00",
+      "566.00",
+      "187.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "CAFFEE",
+    "bbox": [
+      "324.50",
+      "177.64",
+      "376.61",
+      "191.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$13.99",
+    "bbox": [
+      "248.33",
+      "186.50",
+      "288.50",
+      "200.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "MERINGA E FRAGOLE",
+    "bbox": [
+      "47.00",
+      "191.14",
+      "193.83",
+      "205.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Americano",
+    "bbox": [
+      "324.50",
+      "194.00",
+      "379.41",
+      "206.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Meringue cookies with fresh strawberries",
+    "bbox": [
+      "47.00",
+      "207.50",
+      "250.68",
+      "219.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Decaf Americano",
+    "bbox": [
+      "324.50",
+      "232.25",
+      "412.03",
+      "244.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Espresso",
+    "bbox": [
+      "324.50",
+      "271.25",
+      "369.06",
+      "283.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Double Espresso",
+    "bbox": [
+      "324.50",
+      "309.50",
+      "408.87",
+      "321.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Machiato",
+    "bbox": [
+      "324.50",
+      "347.75",
+      "370.66",
+      "359.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Cappuccino",
+    "bbox": [
+      "324.50",
+      "386.00",
+      "383.97",
+      "398.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Assorted Tea",
+    "bbox": [
+      "324.50",
+      "424.25",
+      "389.07",
+      "436.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "✻",
+    "bbox": [
+      "300.84",
+      "506.20",
+      "312.16",
+      "518.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Senza Gluten is a 100% gluten-free restaurant. We do not use any wheat, rye, oats, or barley in our",
+    "bbox": [
+      "58.73",
+      "577.25",
+      "554.27",
+      "589.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "restaurant. Before placing your order, please inform your server if a person in your party has a food",
+    "bbox": [
+      "60.34",
+      "597.50",
+      "552.66",
+      "609.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "allergy. Please be aware that our restaurant uses ingredients that contain dairy, eggs, fish, shellfish, milk,",
+    "bbox": [
+      "48.42",
+      "617.75",
+      "564.59",
+      "629.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "soy, peanuts, and tree nuts. We have a very small kitchen. We do our very best to avoid cross-contact if",
+    "bbox": [
+      "48.55",
+      "638.00",
+      "564.46",
+      "650.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "you have food allergies, but due to the nature of our menu and the size of our kitchen there is always a",
+    "bbox": [
+      "50.54",
+      "658.25",
+      "562.47",
+      "670.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "small risk of contamination. If you have airborne allergies to shellfish or any other allergen, we would",
+    "bbox": [
+      "55.33",
+      "679.25",
+      "557.66",
+      "691.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "advise you not to dine at Senza Gluten. We are happy to provide information about ingredients to",
+    "bbox": [
+      "61.72",
+      "699.50",
+      "551.27",
+      "711.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "customers upon request so you can make informed decisions about what to order from the menu. If",
+    "bbox": [
+      "55.75",
+      "719.75",
+      "557.25",
+      "731.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "https://senzaglutennyc.com/restaurant/menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.09",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "10/12",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "4/19/22, 7:32 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Italian gluten-free restaurant in New York City: Senza Gluten",
+    "bbox": [
+      "244.78",
+      "15.70",
+      "458.37",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "you have multiple allergies, we urge you to call ahead and discuss your dietary needs with the chef",
+    "bbox": [
+      "60.51",
+      "31.25",
+      "552.49",
+      "43.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "directly. (Senza Gluten – Updated March 2015)",
+    "bbox": [
+      "188.94",
+      "51.50",
+      "424.05",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "ALLERGY INFORMATION: products made in 100% dedicated gluten-free facility.",
+    "bbox": [
+      "103.37",
+      "89.75",
+      "509.53",
+      "101.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Our pastas are corn based, if you are allergic on corn, please inform your server in advance and we will",
+    "bbox": [
+      "51.41",
+      "128.75",
+      "561.60",
+      "140.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "offer you other pastas witch may take a little longer time then normal.",
+    "bbox": [
+      "131.21",
+      "149.00",
+      "481.78",
+      "161.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "***Please be aware that our restaurant uses ingredients that contain dairy, eggs, fish, shellfish, milk,",
+    "bbox": [
+      "59.77",
+      "187.25",
+      "553.22",
+      "199.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "peanuts and tree nuts***",
+    "bbox": [
+      "244.00",
+      "207.50",
+      "369.00",
+      "219.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "***Chocolate products may contain soy lecithin***",
+    "bbox": [
+      "179.83",
+      "245.75",
+      "433.16",
+      "257.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "(Veg) — vegetarian",
+    "bbox": [
+      "260.02",
+      "284.75",
+      "352.98",
+      "296.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "(Vegan)- for vegan and vegetarian options please inform your server and we will do our best to",
+    "bbox": [
+      "69.48",
+      "305.00",
+      "543.52",
+      "317.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "accommodate your needs.",
+    "bbox": [
+      "239.34",
+      "325.25",
+      "373.66",
+      "337.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Open Wednesdays to",
+    "bbox": [
+      "251.82",
+      "443.75",
+      "361.18",
+      "455.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "206 Sullivan St",
+    "bbox": [
+      "94.77",
+      "449.75",
+      "172.25",
+      "461.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Sundays",
+    "bbox": [
+      "284.95",
+      "464.00",
+      "328.04",
+      "476.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "New York, New York",
+    "bbox": [
+      "83.48",
+      "470.75",
+      "183.52",
+      "482.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "WE ACCEPT AMEX OR",
+    "bbox": [
+      "405.32",
+      "467.89",
+      "552.23",
+      "482.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "5:00pm-11:00pm",
+    "bbox": [
+      "260.34",
+      "484.25",
+      "352.48",
+      "496.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "CASH ONLY",
+    "bbox": [
+      "439.60",
+      "485.89",
+      "517.95",
+      "500.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "T: +1 212-475-7775",
+    "bbox": [
+      "86.84",
+      "491.00",
+      "179.93",
+      "503.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "(Kitchen closes at 9:30pm on",
+    "bbox": [
+      "232.45",
+      "505.25",
+      "380.55",
+      "517.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "E:",
+    "bbox": [
+      "128.94",
+      "511.25",
+      "138.08",
+      "523.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Wednesdays, Thursdays, &",
+    "bbox": [
+      "239.69",
+      "525.50",
+      "373.31",
+      "537.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "info@senzaglutennyc.com/restaurant",
+    "bbox": [
+      "56.01",
+      "531.50",
+      "242.96",
+      "543.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Sundays and 10:00pm on",
+    "bbox": [
+      "240.31",
+      "545.75",
+      "372.68",
+      "557.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "",
+    "bbox": [
+      "105.78",
+      "554.86",
+      "114.13",
+      "570.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "",
+    "bbox": [
+      "126.50",
+      "554.86",
+      "140.52",
+      "570.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "",
+    "bbox": [
+      "150.31",
+      "554.75",
+      "163.81",
+      "570.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Fridays & Saturdays)",
+    "bbox": [
+      "255.90",
+      "566.00",
+      "357.09",
+      "578.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "FIND US ALSO ON",
+    "bbox": [
+      "243.77",
+      "646.39",
+      "367.82",
+      "660.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "https://senzaglutennyc.com/restaurant/menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.09",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "11/12",
+    "bbox": [
+      "566.09",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "4/19/22, 7:32 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Italian gluten-free restaurant in New York City: Senza Gluten",
+    "bbox": [
+      "244.78",
+      "15.70",
+      "458.37",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "© SENZA GLUTEN 2015 • 206 Sullivan Street, New York • Tel: 212 475 7775 TheCreativeShake",
+    "bbox": [
+      "101.37",
+      "92.00",
+      "511.62",
+      "102.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "https://senzaglutennyc.com/restaurant/menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.09",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "12/12",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

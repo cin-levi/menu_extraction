@@ -12,7 +12,7 @@ from transformers import AutoTokenizer
 class LayoutLMEvaluate(object):
     def __init__(self, model_path, version='v1'):
         self.model = NERLayoutLM.from_pretrained(model_path)
-        self.tokenizer = AutoTokenizer.from_pretrained(tokenizer_name, use_fast=False)
+        self.tokenizer = AutoTokenizer.from_pretrained('microsoft/layoutlm-base-uncased', use_fast=False)
 
 
     def process(self, json_data):

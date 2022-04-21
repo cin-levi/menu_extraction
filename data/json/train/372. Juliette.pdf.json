@@ -1,0 +1,5789 @@
+[
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "536.21",
+      "21.57",
+      "551.64",
+      "39.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(https://juliettewilliamsburg.com/)",
+    "bbox": [
+      "348.10",
+      "48.60",
+      "515.86",
+      "60.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "B",
+    "bbox": [
+      "134.31",
+      "200.63",
+      "157.18",
+      "234.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "R",
+    "bbox": [
+      "156.43",
+      "200.63",
+      "181.19",
+      "234.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "U",
+    "bbox": [
+      "180.44",
+      "200.63",
+      "205.19",
+      "234.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "N",
+    "bbox": [
+      "204.44",
+      "200.63",
+      "229.20",
+      "234.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "C",
+    "bbox": [
+      "228.45",
+      "200.63",
+      "253.21",
+      "234.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "H",
+    "bbox": [
+      "252.46",
+      "200.63",
+      "279.13",
+      "234.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "278.38",
+      "200.63",
+      "309.06",
+      "234.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "V",
+    "bbox": [
+      "308.31",
+      "200.63",
+      "333.07",
+      "234.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "332.32",
+      "200.63",
+      "355.19",
+      "234.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "R",
+    "bbox": [
+      "354.44",
+      "200.63",
+      "379.19",
+      "234.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Y",
+    "bbox": [
+      "377.24",
+      "200.63",
+      "402.00",
+      "234.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "D",
+    "bbox": [
+      "399.97",
+      "200.63",
+      "432.55",
+      "234.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A",
+    "bbox": [
+      "431.80",
+      "200.63",
+      "456.56",
+      "234.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Y",
+    "bbox": [
+      "452.66",
+      "200.63",
+      "477.42",
+      "234.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GRATINÉED FRENCH ONION SOUP",
+    "bbox": [
+      "203.42",
+      "334.35",
+      "410.55",
+      "346.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "mushroom broth, crouton, gruyere cheese",
+    "bbox": [
+      "205.52",
+      "355.35",
+      "408.45",
+      "367.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "12",
+    "bbox": [
+      "299.49",
+      "375.60",
+      "311.49",
+      "387.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "AVOCADO TOAST",
+    "bbox": [
+      "253.64",
+      "411.60",
+      "360.32",
+      "423.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "radishes, shaved jalapeno, cilantro",
+    "bbox": [
+      "223.01",
+      "431.85",
+      "390.95",
+      "443.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "12",
+    "bbox": [
+      "299.49",
+      "452.10",
+      "311.49",
+      "464.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FRESH BURRATA",
+    "bbox": [
+      "255.20",
+      "488.85",
+      "358.76",
+      "500.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "prosciutto, roasted red pepper, truffle oil, grilled bread",
+    "bbox": [
+      "175.21",
+      "509.10",
+      "438.75",
+      "521.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16",
+    "bbox": [
+      "299.49",
+      "529.35",
+      "311.49",
+      "541.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ADD TO ANY SALAD",
+    "bbox": [
+      "244.59",
+      "565.35",
+      "369.38",
+      "577.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "grilled chicken +6/ grilled salmon +8/ grilled shrimp +9/ avocado +3",
+    "bbox": [
+      "140.32",
+      "585.60",
+      "470.66",
+      "597.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ENDIVE & BLUE D’AUVERGNE",
+    "bbox": [
+      "215.64",
+      "621.60",
+      "398.32",
+      "633.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "red apple, toasted walnuts, champagne vinaigrette",
+    "bbox": [
+      "185.70",
+      "642.60",
+      "428.28",
+      "654.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15",
+    "bbox": [
+      "299.49",
+      "662.85",
+      "311.49",
+      "674.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TUSCAN KALE CAESAR SALAD",
+    "bbox": [
+      "214.30",
+      "698.85",
+      "399.67",
+      "710.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "parmesan cheese, brioche croutons",
+    "bbox": [
+      "221.85",
+      "719.10",
+      "392.11",
+      "731.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15",
+    "bbox": [
+      "299.49",
+      "739.35",
+      "311.49",
+      "751.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROASTED BEET SALAD",
+    "bbox": [
+      "235.63",
+      "17.85",
+      "378.33",
+      "29.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "goat cheese, orange, grapefruit, chives, toasted walnuts",
+    "bbox": [
+      "173.21",
+      "38.10",
+      "440.77",
+      "50.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "299.49",
+      "58.35",
+      "311.49",
+      "70.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WARM FRENCH GREEN LENTIL SALAD",
+    "bbox": [
+      "190.14",
+      "95.10",
+      "423.84",
+      "107.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "frisee, herbed goat cheese crostini",
+    "bbox": [
+      "224.02",
+      "115.35",
+      "389.95",
+      "127.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "299.49",
+      "135.60",
+      "311.49",
+      "147.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DUCK CONFIT",
+    "bbox": [
+      "262.98",
+      "171.60",
+      "350.98",
+      "183.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "frisee, red apple, toasted walnuts, walnut vinaigrette",
+    "bbox": [
+      "180.37",
+      "191.85",
+      "433.61",
+      "203.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "23",
+    "bbox": [
+      "299.49",
+      "212.85",
+      "311.49",
+      "224.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CROQUE MONSIEUR",
+    "bbox": [
+      "244.64",
+      "248.85",
+      "369.32",
+      "260.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "brioche, paris ham, gruyere cheese, bechamel (add sunny side egg +2)",
+    "bbox": [
+      "137.00",
+      "269.10",
+      "476.97",
+      "281.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "pommes frites or market green salad",
+    "bbox": [
+      "218.02",
+      "289.35",
+      "395.96",
+      "301.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "299.49",
+      "309.60",
+      "311.49",
+      "321.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MIXED FORREST MUSHROOMS ON ROSEMARY FOCACCIA",
+    "bbox": [
+      "132.19",
+      "345.60",
+      "481.77",
+      "357.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "smoked mozzarella, roasted peppers, red onion, saffron aioli, pommes frites",
+    "bbox": [
+      "123.48",
+      "366.60",
+      "490.48",
+      "378.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "299.49",
+      "386.85",
+      "311.49",
+      "398.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GRILLED CHICKEN ON ROSEMARY FOCACCIA",
+    "bbox": [
+      "167.02",
+      "422.85",
+      "446.95",
+      "434.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "cheddar, bacon, arugula, jalapenos, mayonaise, pommes frites",
+    "bbox": [
+      "156.94",
+      "443.10",
+      "457.02",
+      "455.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "299.49",
+      "463.35",
+      "311.49",
+      "475.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "JULIETTE’S BURGER",
+    "bbox": [
+      "243.31",
+      "500.10",
+      "370.67",
+      "512.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "toasted brioche, pommes frites, harissa aioli",
+    "bbox": [
+      "200.02",
+      "520.35",
+      "413.96",
+      "532.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "cheddar or swiss +2, applewood smoked bacon +3.5, avocado +3",
+    "bbox": [
+      "149.04",
+      "540.60",
+      "464.93",
+      "552.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "20",
+    "bbox": [
+      "299.49",
+      "560.85",
+      "311.49",
+      "572.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPICY LAMB BURGER",
+    "bbox": [
+      "240.81",
+      "596.85",
+      "373.15",
+      "608.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "toasted english muffin, goat cheese, harissa aioli",
+    "bbox": [
+      "189.30",
+      "617.85",
+      "424.68",
+      "629.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "pommes frites or petite salad",
+    "bbox": [
+      "236.17",
+      "638.10",
+      "377.79",
+      "650.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "22",
+    "bbox": [
+      "299.49",
+      "658.35",
+      "311.49",
+      "670.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GRILLED HANGER STEAK FRITES",
+    "bbox": [
+      "203.46",
+      "694.35",
+      "410.51",
+      "706.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "bordelaise sauce, pommes frites",
+    "bbox": [
+      "228.85",
+      "714.60",
+      "385.13",
+      "726.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "30",
+    "bbox": [
+      "299.49",
+      "734.85",
+      "311.49",
+      "746.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "JULIETTE’S FARMER’S BREAKFAST",
+    "bbox": [
+      "200.03",
+      "17.85",
+      "413.95",
+      "29.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "two eggs any style, breakfast sausage, home fries, brioche toast, salad",
+    "bbox": [
+      "138.20",
+      "38.10",
+      "475.76",
+      "50.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "17",
+    "bbox": [
+      "299.49",
+      "58.35",
+      "311.49",
+      "70.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "EGGS BENEDICT",
+    "bbox": [
+      "255.98",
+      "95.10",
+      "355.01",
+      "107.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "poached eggs, toasted english muffin, hollandaise, home fries, petite salad",
+    "bbox": [
+      "127.48",
+      "115.35",
+      "486.50",
+      "127.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Classic with canadian bacon or avocado 17",
+    "bbox": [
+      "201.86",
+      "135.60",
+      "412.12",
+      "147.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Florentine with sauteed spinach 17",
+    "bbox": [
+      "221.84",
+      "155.85",
+      "392.14",
+      "167.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Norwegian with smoked salmon 18",
+    "bbox": [
+      "220.16",
+      "176.10",
+      "390.81",
+      "188.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "EGGS FORRESTIERE ON GARLIC TOAST",
+    "bbox": [
+      "185.17",
+      "212.85",
+      "428.79",
+      "224.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Tuscan kale, mushrooms, artichoke hearts, sunny side up eggs",
+    "bbox": [
+      "156.23",
+      "233.10",
+      "457.74",
+      "245.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "17",
+    "bbox": [
+      "299.49",
+      "253.35",
+      "311.49",
+      "265.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SHAKSHUKA",
+    "bbox": [
+      "267.14",
+      "289.35",
+      "346.82",
+      "301.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "eggs baked in spicy tomato pepper sauce, goat cheese, grilled bread",
+    "bbox": [
+      "143.22",
+      "309.60",
+      "470.76",
+      "321.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "18",
+    "bbox": [
+      "299.49",
+      "329.85",
+      "311.49",
+      "341.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BANANA STUFFED FRENCH TOAST",
+    "bbox": [
+      "202.42",
+      "366.60",
+      "411.55",
+      "378.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "caramelized bananas, creme fraiche, candied walnuts,",
+    "bbox": [
+      "176.56",
+      "386.85",
+      "437.42",
+      "398.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "bourbon maple syrup",
+    "bbox": [
+      "254.50",
+      "407.10",
+      "359.48",
+      "419.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "16",
+    "bbox": [
+      "299.49",
+      "427.35",
+      "311.49",
+      "439.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "H",
+    "bbox": [
+      "161.70",
+      "16.13",
+      "188.37",
+      "50.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "appy H",
+    "bbox": [
+      "187.62",
+      "16.13",
+      "291.52",
+      "50.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "our (W",
+    "bbox": [
+      "290.77",
+      "16.13",
+      "392.09",
+      "50.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "hole",
+    "bbox": [
+      "391.34",
+      "16.13",
+      "450.04",
+      "50.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "R",
+    "bbox": [
+      "222.02",
+      "53.63",
+      "246.77",
+      "87.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "estaurant)",
+    "bbox": [
+      "246.02",
+      "53.63",
+      "397.53",
+      "87.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "M",
+    "bbox": [
+      "114.61",
+      "91.88",
+      "146.97",
+      "126.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "onday- F",
+    "bbox": [
+      "146.22",
+      "91.88",
+      "271.46",
+      "126.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "riday 4pm",
+    "bbox": [
+      "270.71",
+      "91.88",
+      "416.13",
+      "126.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "- 6pm",
+    "bbox": [
+      "415.38",
+      "91.88",
+      "497.13",
+      "126.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "B",
+    "bbox": [
+      "111.05",
+      "129.38",
+      "133.92",
+      "163.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ar H",
+    "bbox": [
+      "133.17",
+      "129.38",
+      "197.89",
+      "163.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "appy H",
+    "bbox": [
+      "197.14",
+      "129.38",
+      "301.04",
+      "163.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "our (B",
+    "bbox": [
+      "300.29",
+      "129.38",
+      "390.20",
+      "163.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ar Seats",
+    "bbox": [
+      "389.45",
+      "129.38",
+      "500.69",
+      "163.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "O",
+    "bbox": [
+      "265.46",
+      "166.88",
+      "292.12",
+      "201.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "nly)",
+    "bbox": [
+      "291.37",
+      "166.88",
+      "354.09",
+      "201.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sunday 5pm",
+    "bbox": [
+      "169.94",
+      "204.38",
+      "347.07",
+      "238.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "- C",
+    "bbox": [
+      "346.32",
+      "204.38",
+      "389.57",
+      "238.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "lose",
+    "bbox": [
+      "388.82",
+      "204.38",
+      "449.61",
+      "238.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "M",
+    "bbox": [
+      "86.56",
+      "242.63",
+      "118.92",
+      "276.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "onday- T",
+    "bbox": [
+      "118.17",
+      "242.63",
+      "244.71",
+      "276.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "hursday 4pm",
+    "bbox": [
+      "243.96",
+      "242.63",
+      "429.83",
+      "276.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "- C",
+    "bbox": [
+      "429.08",
+      "242.63",
+      "472.33",
+      "276.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "lose",
+    "bbox": [
+      "471.58",
+      "242.63",
+      "524.55",
+      "276.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "JULIETTE SPRITZ 10",
+    "bbox": [
+      "245.14",
+      "376.35",
+      "365.84",
+      "388.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "HOUSE BUBBLES, WHITE OR RED WINE 7",
+    "bbox": [
+      "181.70",
+      "412.35",
+      "429.26",
+      "424.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "DRAFT BEER 7",
+    "bbox": [
+      "262.48",
+      "448.35",
+      "348.49",
+      "460.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CRISPY FRIED CALAMARI 10",
+    "bbox": [
+      "220.32",
+      "484.35",
+      "393.65",
+      "496.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "spicy tomato sauce",
+    "bbox": [
+      "259.83",
+      "505.35",
+      "351.14",
+      "517.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BEER BATTERED ROCK SHRIMP & HARICOT VERT 10",
+    "bbox": [
+      "147.95",
+      "541.35",
+      "466.01",
+      "553.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "sriracha aioli",
+    "bbox": [
+      "274.34",
+      "561.60",
+      "336.64",
+      "573.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "GRILLED CHEESE WITH BACON 10",
+    "bbox": [
+      "202.80",
+      "597.60",
+      "411.17",
+      "609.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "tomato fondue",
+    "bbox": [
+      "270.66",
+      "617.85",
+      "340.31",
+      "629.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ROASTED BRUSSELS SPROUTS 10",
+    "bbox": [
+      "207.62",
+      "654.60",
+      "406.35",
+      "666.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "spicy sweet chili sauce",
+    "bbox": [
+      "250.67",
+      "674.85",
+      "360.30",
+      "686.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "POMMES FRITES  6",
+    "bbox": [
+      "249.32",
+      "710.85",
+      "361.66",
+      "722.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "TRUFFLE PECORINO POMMES FRITES 8",
+    "bbox": [
+      "187.48",
+      "746.85",
+      "423.50",
+      "758.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "D",
+    "bbox": [
+      "252.41",
+      "16.13",
+      "284.99",
+      "50.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "inner",
+    "bbox": [
+      "284.24",
+      "16.13",
+      "359.33",
+      "50.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "GRATINÉED FRENCH ONION SOUP",
+    "bbox": [
+      "202.26",
+      "149.85",
+      "411.72",
+      "161.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "mushroom broth, crouton, gruyere cheese",
+    "bbox": [
+      "205.52",
+      "170.10",
+      "408.45",
+      "182.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "12",
+    "bbox": [
+      "299.49",
+      "191.10",
+      "311.49",
+      "203.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ENDIVE & BLUE D’AUVERGNE",
+    "bbox": [
+      "215.64",
+      "227.10",
+      "398.32",
+      "239.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "red apple, toasted walnuts, champagne vinaigrette",
+    "bbox": [
+      "185.70",
+      "247.35",
+      "428.28",
+      "259.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "15",
+    "bbox": [
+      "299.49",
+      "267.60",
+      "311.49",
+      "279.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ROASTED BEETS",
+    "bbox": [
+      "254.14",
+      "303.60",
+      "359.84",
+      "315.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "goat cheese, orange, chives, toasted almonds",
+    "bbox": [
+      "198.19",
+      "324.60",
+      "415.79",
+      "336.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "15",
+    "bbox": [
+      "299.49",
+      "344.85",
+      "311.49",
+      "356.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "WARM FRENCH GREEN LENTILS SALAD",
+    "bbox": [
+      "186.80",
+      "380.85",
+      "427.16",
+      "392.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "frisee, herbed goat cheese crostini",
+    "bbox": [
+      "224.02",
+      "401.10",
+      "389.95",
+      "413.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "15",
+    "bbox": [
+      "299.49",
+      "421.35",
+      "311.49",
+      "433.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "DUCK CONFIT",
+    "bbox": [
+      "262.98",
+      "458.10",
+      "350.98",
+      "470.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "frisee, red apple, toasted walnuts, walnut vinaigrette",
+    "bbox": [
+      "180.37",
+      "478.35",
+      "433.61",
+      "490.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "23",
+    "bbox": [
+      "299.49",
+      "498.60",
+      "311.49",
+      "510.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "FRESH BURRATA",
+    "bbox": [
+      "255.20",
+      "534.60",
+      "358.76",
+      "546.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "prosciutto, roasted red pepper, truffle oil, grilled bread",
+    "bbox": [
+      "175.21",
+      "554.85",
+      "438.75",
+      "566.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "16",
+    "bbox": [
+      "296.49",
+      "575.10",
+      "317.49",
+      "587.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ESCARGOT MAISON",
+    "bbox": [
+      "245.64",
+      "611.85",
+      "368.32",
+      "623.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "garlic, parsley & anise butter",
+    "bbox": [
+      "236.01",
+      "632.10",
+      "377.96",
+      "644.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "14",
+    "bbox": [
+      "299.49",
+      "652.35",
+      "311.49",
+      "664.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "GRATINÉED GARLIC SHRIMP",
+    "bbox": [
+      "218.59",
+      "688.35",
+      "395.38",
+      "700.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "olive oil, lemon, chili flakes, grilled sour dough bread",
+    "bbox": [
+      "176.35",
+      "708.60",
+      "437.62",
+      "720.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "16",
+    "bbox": [
+      "299.49",
+      "729.60",
+      "311.49",
+      "741.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "TUNA TARTARE",
+    "bbox": [
+      "258.75",
+      "17.85",
+      "355.22",
+      "29.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "avocado, red onion, ginger, cilantro, crouton",
+    "bbox": [
+      "198.93",
+      "38.10",
+      "415.05",
+      "50.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "18",
+    "bbox": [
+      "297.99",
+      "58.35",
+      "315.99",
+      "70.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "GRILLED OCTOPUS",
+    "bbox": [
+      "247.42",
+      "95.10",
+      "366.55",
+      "107.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "fingerling potatoes, cherry tomatoes, olives, smoked paprika, saffron- lemon aioli",
+    "bbox": [
+      "109.82",
+      "115.35",
+      "504.16",
+      "127.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "18",
+    "bbox": [
+      "299.49",
+      "135.60",
+      "311.49",
+      "147.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "JULIETTE’S BURGER",
+    "bbox": [
+      "243.31",
+      "171.60",
+      "370.67",
+      "183.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "toasted brioche, pommes frites, harissa aioli",
+    "bbox": [
+      "200.02",
+      "191.85",
+      "413.96",
+      "203.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "cheddar, american, swiss +2, applewood smoked bacon +3.5, avocado +3",
+    "bbox": [
+      "129.30",
+      "212.85",
+      "484.68",
+      "224.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "18",
+    "bbox": [
+      "299.49",
+      "233.10",
+      "311.49",
+      "245.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "SPICY LAMB BURGER",
+    "bbox": [
+      "240.81",
+      "269.10",
+      "373.15",
+      "281.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "toasted english muffin, goat cheese, chipolte aioli",
+    "bbox": [
+      "186.62",
+      "289.35",
+      "427.34",
+      "301.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "pommes frites or petite salad",
+    "bbox": [
+      "236.17",
+      "309.60",
+      "377.79",
+      "321.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "22",
+    "bbox": [
+      "299.49",
+      "329.85",
+      "311.49",
+      "341.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "VEGETARIAN CASSOULET",
+    "bbox": [
+      "227.42",
+      "366.60",
+      "386.56",
+      "378.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "giant white beans, cherry tomatoes, kale, mushrooms, shallots, scallions, bread",
+    "bbox": [
+      "116.36",
+      "386.85",
+      "494.61",
+      "398.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "crumbs",
+    "bbox": [
+      "287.83",
+      "407.10",
+      "326.15",
+      "419.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "22",
+    "bbox": [
+      "299.49",
+      "427.35",
+      "311.49",
+      "439.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BRAISED BEEF SHORT RIB",
+    "bbox": [
+      "227.17",
+      "463.35",
+      "386.79",
+      "475.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "garlic potato puree, spicy broccoli rabe, red wine reduction",
+    "bbox": [
+      "161.63",
+      "484.35",
+      "452.34",
+      "496.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "36",
+    "bbox": [
+      "299.49",
+      "504.60",
+      "311.49",
+      "516.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MOULES MARINIERES FRITES",
+    "bbox": [
+      "214.30",
+      "540.60",
+      "399.67",
+      "552.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "mussels, white wine, shallots, fresh herbs, pommes frites",
+    "bbox": [
+      "166.76",
+      "560.85",
+      "447.21",
+      "572.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "24",
+    "bbox": [
+      "297.99",
+      "581.10",
+      "315.99",
+      "593.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CRISPY ROASTED FREE RANGE CHICKEN",
+    "bbox": [
+      "180.31",
+      "617.85",
+      "433.67",
+      "629.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "creamy polenta, kale, mushrooms, chicken jus",
+    "bbox": [
+      "194.52",
+      "638.10",
+      "419.45",
+      "650.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "29",
+    "bbox": [
+      "299.49",
+      "658.35",
+      "311.49",
+      "670.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "PAN SEARED SALMON",
+    "bbox": [
+      "239.92",
+      "694.35",
+      "374.04",
+      "706.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "giant white beans provencal, mushrooms, niscoise olives",
+    "bbox": [
+      "169.18",
+      "714.60",
+      "444.79",
+      "726.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "29",
+    "bbox": [
+      "299.49",
+      "734.85",
+      "311.49",
+      "746.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "HANGER STEAK FRITES",
+    "bbox": [
+      "234.13",
+      "17.85",
+      "379.83",
+      "29.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "green peppercorn sauce or bordelaise sauce, pommes frites",
+    "bbox": [
+      "164.22",
+      "38.10",
+      "449.76",
+      "50.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "30",
+    "bbox": [
+      "299.49",
+      "58.35",
+      "311.49",
+      "70.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "NY STRIP STEAK FRITES",
+    "bbox": [
+      "231.13",
+      "95.10",
+      "382.83",
+      "107.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "green peppercorn sauce or bordelaise sauce, pommes frites",
+    "bbox": [
+      "164.22",
+      "115.35",
+      "449.76",
+      "127.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "40",
+    "bbox": [
+      "299.49",
+      "135.60",
+      "311.49",
+      "147.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "D",
+    "bbox": [
+      "253.86",
+      "212.63",
+      "278.61",
+      "246.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "essert",
+    "bbox": [
+      "277.86",
+      "212.63",
+      "357.86",
+      "246.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "VANILLA CREME BRULEE",
+    "bbox": [
+      "228.58",
+      "347.10",
+      "385.39",
+      "359.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "9",
+    "bbox": [
+      "302.49",
+      "367.35",
+      "308.49",
+      "379.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "APPLE TARTE TATIN",
+    "bbox": [
+      "244.69",
+      "403.35",
+      "369.29",
+      "415.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "served warm with vanilla ice cream",
+    "bbox": [
+      "220.02",
+      "423.60",
+      "393.94",
+      "435.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "10",
+    "bbox": [
+      "299.49",
+      "443.85",
+      "311.49",
+      "455.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "WARM CHOCOLATE CAKE",
+    "bbox": [
+      "226.93",
+      "479.85",
+      "387.04",
+      "491.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "toasted almonds, vanilla ice cream",
+    "bbox": [
+      "222.68",
+      "500.85",
+      "391.28",
+      "512.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "10",
+    "bbox": [
+      "299.49",
+      "521.10",
+      "311.49",
+      "533.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ICE CREAM",
+    "bbox": [
+      "270.65",
+      "557.10",
+      "343.32",
+      "569.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Daily Selection",
+    "bbox": [
+      "268.33",
+      "577.35",
+      "345.64",
+      "589.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4",
+    "bbox": [
+      "302.49",
+      "597.60",
+      "308.49",
+      "609.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "C",
+    "bbox": [
+      "138.84",
+      "98.63",
+      "163.59",
+      "132.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "ocktails, B",
+    "bbox": [
+      "162.84",
+      "98.63",
+      "307.72",
+      "132.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "eer &",
+    "bbox": [
+      "306.97",
+      "98.63",
+      "386.13",
+      "132.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "W",
+    "bbox": [
+      "385.38",
+      "98.63",
+      "429.72",
+      "132.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "ine",
+    "bbox": [
+      "428.35",
+      "98.63",
+      "470.66",
+      "132.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BRUNCH",
+    "bbox": [
+      "161.38",
+      "267.51",
+      "280.21",
+      "294.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CO",
+    "bbox": [
+      "280.21",
+      "267.51",
+      "328.19",
+      "294.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CK",
+    "bbox": [
+      "328.19",
+      "267.51",
+      "369.32",
+      "294.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "TAILS",
+    "bbox": [
+      "369.32",
+      "267.51",
+      "449.59",
+      "294.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MIMOSA & BELLINI",
+    "bbox": [
+      "246.48",
+      "308.10",
+      "367.49",
+      "320.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Fresh OJ, Peach Puree, Seasonal Fruit Puree or Elderflower Liqueur",
+    "bbox": [
+      "141.70",
+      "328.35",
+      "472.27",
+      "340.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "10",
+    "bbox": [
+      "299.49",
+      "348.60",
+      "311.49",
+      "360.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BLOODY MARY/ MARIA",
+    "bbox": [
+      "235.36",
+      "385.35",
+      "378.60",
+      "397.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Juliette’s Spicy Mary",
+    "bbox": [
+      "254.49",
+      "405.60",
+      "359.48",
+      "417.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "10",
+    "bbox": [
+      "299.49",
+      "425.85",
+      "311.49",
+      "437.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "PEPINO",
+    "bbox": [
+      "282.82",
+      "461.85",
+      "331.15",
+      "473.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Vodka, Cucumber, Sparkling Lemonade",
+    "bbox": [
+      "209.36",
+      "482.10",
+      "404.62",
+      "494.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "12",
+    "bbox": [
+      "299.49",
+      "503.10",
+      "311.49",
+      "515.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "FRESH START",
+    "bbox": [
+      "264.64",
+      "539.10",
+      "349.34",
+      "551.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Infused Saffron Gin, Carrot, Ginger, Lime, Agave",
+    "bbox": [
+      "185.54",
+      "559.35",
+      "428.43",
+      "571.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Celery Bitters",
+    "bbox": [
+      "272.00",
+      "579.60",
+      "341.98",
+      "591.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "12",
+    "bbox": [
+      "299.49",
+      "599.85",
+      "311.49",
+      "611.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MICHELADA",
+    "bbox": [
+      "267.48",
+      "635.85",
+      "346.48",
+      "647.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Vida Mezcal, Agave, Lime, Clamato, Maggi, Worcestershire, Beer, Sriracha Salt",
+    "bbox": [
+      "112.08",
+      "656.85",
+      "498.89",
+      "668.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Rim",
+    "bbox": [
+      "295.15",
+      "677.10",
+      "318.82",
+      "689.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "10",
+    "bbox": [
+      "299.49",
+      "697.35",
+      "311.49",
+      "709.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "BLOODY CAESAR",
+    "bbox": [
+      "253.32",
+      "17.85",
+      "360.66",
+      "29.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Vodka, Clamato Juice, Tabasco, Worcestershire, Celery Salt",
+    "bbox": [
+      "161.87",
+      "38.10",
+      "452.09",
+      "50.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "10",
+    "bbox": [
+      "299.49",
+      "58.35",
+      "311.49",
+      "70.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "G AND TEA",
+    "bbox": [
+      "272.49",
+      "95.10",
+      "341.49",
+      "107.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Gin, Earl Grey, Lavender, Lemon",
+    "bbox": [
+      "224.98",
+      "115.35",
+      "388.98",
+      "127.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "12",
+    "bbox": [
+      "299.49",
+      "135.60",
+      "311.49",
+      "147.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "BEERS",
+    "bbox": [
+      "260.52",
+      "191.01",
+      "350.44",
+      "218.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Bottles/Cans",
+    "bbox": [
+      "273.16",
+      "231.60",
+      "340.82",
+      "243.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Brooklyn Brewery Amber Lager",
+    "bbox": [
+      "227.01",
+      "251.85",
+      "386.96",
+      "263.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Meteor Pilsner",
+    "bbox": [
+      "269.99",
+      "272.10",
+      "343.97",
+      "284.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "CBW “The Whale” Brown Ale",
+    "bbox": [
+      "230.51",
+      "292.35",
+      "383.45",
+      "304.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Aval Cider",
+    "bbox": [
+      "279.44",
+      "312.60",
+      "331.53",
+      "324.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Draft",
+    "bbox": [
+      "291.50",
+      "349.35",
+      "322.48",
+      "361.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Five Boroughs Hoppy Lager",
+    "bbox": [
+      "236.66",
+      "369.60",
+      "377.31",
+      "381.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Flagship Kill Van Kolsch",
+    "bbox": [
+      "244.66",
+      "389.85",
+      "369.32",
+      "401.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Montauk “Juicy” IPA",
+    "bbox": [
+      "253.71",
+      "410.10",
+      "360.26",
+      "422.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Bronx Brewery American Pale Ale",
+    "bbox": [
+      "221.18",
+      "430.35",
+      "389.79",
+      "442.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "SPARK",
+    "bbox": [
+      "224.99",
+      "485.76",
+      "315.89",
+      "513.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "LING",
+    "bbox": [
+      "315.89",
+      "485.76",
+      "385.98",
+      "513.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "A. RODERT, CUVÉE DES BARONS",
+    "bbox": [
+      "209.46",
+      "526.35",
+      "404.51",
+      "538.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "A. RODERT, CUVÉE DES BARONS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Blanc de Blancs, Vin Mousseux,",
+    "bbox": [
+      "227.20",
+      "546.60",
+      "386.78",
+      "558.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Blanc de Blancs, Vin Mousseux,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Burgundy, France, NV",
+    "bbox": [
+      "251.00",
+      "566.85",
+      "362.98",
+      "578.85"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 18
+          }
+        ],
+        "W": [
+          {
+            "text": "Burgundy, France, NV",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "9/36",
+    "bbox": [
+      "294.82",
+      "587.85",
+      "316.16",
+      "599.85"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "9/36",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "HENRY VARNAY",
+    "bbox": [
+      "256.35",
+      "623.85",
+      "357.61",
+      "635.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "HENRY VARNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Sparkling Rose Sec, Cab Franc, Gamay",
+    "bbox": [
+      "210.34",
+      "644.10",
+      "403.63",
+      "656.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sparkling Rose Sec, Cab Franc, Gamay",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Loire, France, NV",
+    "bbox": [
+      "261.51",
+      "664.35",
+      "352.47",
+      "676.35"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 15
+          }
+        ],
+        "W": [
+          {
+            "text": "Loire, France, NV",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "10/40",
+    "bbox": [
+      "291.82",
+      "684.60",
+      "319.16",
+      "696.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "10/40",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "DOMAINE ROLET",
+    "bbox": [
+      "253.32",
+      "720.60",
+      "360.66",
+      "732.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DOMAINE ROLET",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Crémant d’Jura, Blanc Brut",
+    "bbox": [
+      "239.17",
+      "741.60",
+      "374.80",
+      "753.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Crémant d’Jura, Blanc Brut",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Charodonnay, Pinot Noir, Jura, France",
+    "bbox": [
+      "213.30",
+      "761.85",
+      "400.67",
+      "773.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Charodonnay, Pinot Noir, Jura, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "52",
+    "bbox": [
+      "299.49",
+      "17.85",
+      "311.49",
+      "29.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "RAVENTOS I BLANC",
+    "bbox": [
+      "246.70",
+      "53.85",
+      "367.28",
+      "65.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Conca del Riu Anoia De Nit Rose",
+    "bbox": [
+      "223.83",
+      "74.10",
+      "390.13",
+      "86.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Catalonian Blend, Spain ’16",
+    "bbox": [
+      "237.50",
+      "95.10",
+      "376.47",
+      "107.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "60",
+    "bbox": [
+      "299.49",
+      "115.35",
+      "311.49",
+      "127.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "PAUL LAURENT BRUT",
+    "bbox": [
+      "240.59",
+      "151.35",
+      "373.37",
+      "163.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Grand Cuvee de Reserve Brut",
+    "bbox": [
+      "233.51",
+      "171.60",
+      "380.46",
+      "183.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Pinot Noir, Chardonnay, Champagne, France, NV",
+    "bbox": [
+      "185.97",
+      "191.85",
+      "428.00",
+      "203.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "75",
+    "bbox": [
+      "299.49",
+      "212.85",
+      "311.49",
+      "224.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "MARC HERBRART",
+    "bbox": [
+      "251.54",
+      "248.85",
+      "362.44",
+      "260.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Champagne Cuvée de Reserve Brut",
+    "bbox": [
+      "219.85",
+      "269.10",
+      "394.13",
+      "281.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Pinot Noir, Chardonnay, Champagne, France, NV",
+    "bbox": [
+      "185.97",
+      "289.35",
+      "428.00",
+      "301.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "105",
+    "bbox": [
+      "296.49",
+      "309.60",
+      "314.49",
+      "321.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "W",
+    "bbox": [
+      "213.73",
+      "365.01",
+      "241.15",
+      "392.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "H",
+    "bbox": [
+      "241.15",
+      "365.01",
+      "262.48",
+      "392.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "ITE W",
+    "bbox": [
+      "262.48",
+      "365.01",
+      "346.24",
+      "392.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "INE",
+    "bbox": [
+      "346.24",
+      "365.01",
+      "395.01",
+      "392.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "JULIETTE’S HOUSE WHITE",
+    "bbox": [
+      "225.46",
+      "405.60",
+      "388.50",
+      "417.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "JULIETTE’S HOUSE WHITE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "9/36",
+    "bbox": [
+      "294.82",
+      "425.85",
+      "316.16",
+      "437.85"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "9/36",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "D. MARDON QUINCY, TRES VV.",
+    "bbox": [
+      "215.64",
+      "461.85",
+      "398.32",
+      "473.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "D. MARDON QUINCY, TRES VV.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Sauvignon Blanc, Loire, France, 2019",
+    "bbox": [
+      "214.01",
+      "482.10",
+      "399.96",
+      "494.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc, Loire, France, 2019",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "13/52",
+    "bbox": [
+      "291.82",
+      "503.10",
+      "319.16",
+      "515.10"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13/52",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "WILLM GENTIL",
+    "bbox": [
+      "258.65",
+      "539.10",
+      "355.33",
+      "551.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "WILLM GENTIL",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Pinot Blanc, Riesling, Gewurtztraminer, Muscat, Alsace, France, 2018",
+    "bbox": [
+      "136.27",
+      "559.35",
+      "477.71",
+      "571.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Blanc, Riesling, Gewurtztraminer, Muscat, Alsace, France,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 64
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "10/40",
+    "bbox": [
+      "291.82",
+      "579.60",
+      "319.16",
+      "591.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "10/40",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "D. BERNARD MOREAU BORGOGNE BLANC",
+    "bbox": [
+      "180.31",
+      "615.60",
+      "433.66",
+      "627.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "D. BERNARD MOREAU BORGOGNE BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Chardonnay, Burgundy, France, 2019",
+    "bbox": [
+      "215.72",
+      "636.60",
+      "398.24",
+      "648.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay, Burgundy, France, 2019",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "2019",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "14/56",
+    "bbox": [
+      "291.82",
+      "656.85",
+      "319.16",
+      "668.85"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14/56",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "LES HAUTES NOELLES",
+    "bbox": [
+      "238.13",
+      "692.85",
+      "375.85",
+      "704.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LES HAUTES NOELLES",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Muscadet Sur Lie, Loire, France, 2020",
+    "bbox": [
+      "212.51",
+      "713.10",
+      "401.45",
+      "725.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Muscadet Sur Lie, Loire, France,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "42",
+    "bbox": [
+      "299.49",
+      "733.35",
+      "311.49",
+      "745.35"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "42",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "CH. DE ROQUEFORT PETIT SALE",
+    "bbox": [
+      "208.52",
+      "17.85",
+      "405.46",
+      "29.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Clairette, Vermentino, Provence, France, 2019",
+    "bbox": [
+      "194.18",
+      "38.10",
+      "419.78",
+      "50.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "56",
+    "bbox": [
+      "299.49",
+      "58.35",
+      "311.49",
+      "70.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "NOEL ET JEAN-LUC RAIMBAULT SANCERRE",
+    "bbox": [
+      "174.36",
+      "95.10",
+      "439.62",
+      "107.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Sauvignon Blanc, Loire, FR 2020",
+    "bbox": [
+      "224.49",
+      "115.35",
+      "389.48",
+      "127.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "60",
+    "bbox": [
+      "299.49",
+      "135.60",
+      "311.49",
+      "147.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "DOMAINE CHAUVEAU “Le Charmette”",
+    "bbox": [
+      "196.34",
+      "171.60",
+      "417.64",
+      "183.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Pouilly Fume",
+    "bbox": [
+      "271.32",
+      "191.85",
+      "342.65",
+      "203.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Sauvignon Blanc, Loire, France, 2019",
+    "bbox": [
+      "214.01",
+      "212.85",
+      "399.96",
+      "224.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "68",
+    "bbox": [
+      "299.49",
+      "233.10",
+      "311.49",
+      "245.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "FLORENT COSME, VOUVRAY DEMI-SEC",
+    "bbox": [
+      "188.49",
+      "269.10",
+      "425.49",
+      "281.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Chenin Blanc, Loire, France, 2017",
+    "bbox": [
+      "222.34",
+      "289.35",
+      "391.63",
+      "301.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "60",
+    "bbox": [
+      "299.49",
+      "309.60",
+      "311.49",
+      "321.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "COMPANIA DE VINOS TRICO “TABLA DE SUMAR”",
+    "bbox": [
+      "159.70",
+      "345.60",
+      "454.27",
+      "357.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Albarino, Galicia, Spain, 2019",
+    "bbox": [
+      "232.16",
+      "366.60",
+      "381.80",
+      "378.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "48",
+    "bbox": [
+      "299.49",
+      "386.85",
+      "311.49",
+      "398.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "LOUIS SIPP",
+    "bbox": [
+      "272.31",
+      "422.85",
+      "341.66",
+      "434.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LOUIS SIPP",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Riesling, Alsace, France, 2018",
+    "bbox": [
+      "231.84",
+      "443.10",
+      "382.13",
+      "455.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Riesling, Alsace, France,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "48",
+    "bbox": [
+      "299.49",
+      "463.35",
+      "311.49",
+      "475.35"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "DOMAINE MITTNACHT FRERES",
+    "bbox": [
+      "211.48",
+      "500.10",
+      "402.50",
+      "512.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DOMAINE MITTNACHT FRERES",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Pinot Blanc, Alsace, France, 2018",
+    "bbox": [
+      "223.67",
+      "520.35",
+      "390.30",
+      "532.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Blanc, Alsace, France, 2018",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "48",
+    "bbox": [
+      "299.49",
+      "540.60",
+      "311.49",
+      "552.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "FERRATON PERE & FILS COTES DU RHONE",
+    "bbox": [
+      "178.02",
+      "576.60",
+      "435.94",
+      "588.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FERRATON PERE & FILS COTES DU RHONE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Grenache Blanc & Clairette, Rhone, France, 2017",
+    "bbox": [
+      "185.70",
+      "596.85",
+      "428.28",
+      "608.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grenache Blanc & Clairette, Rhone, France, 2017",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "52",
+    "bbox": [
+      "299.49",
+      "617.85",
+      "311.49",
+      "629.85"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "52",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "HENRI PERRUSSET MACON- FARGES V.V.",
+    "bbox": [
+      "185.14",
+      "653.85",
+      "428.84",
+      "665.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "HENRI PERRUSSET MACON- FARGES V.V.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Chardonnay, Burgundy, France, 2017",
+    "bbox": [
+      "215.72",
+      "674.10",
+      "398.24",
+      "686.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay, Burgundy, France, 2017",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "62",
+    "bbox": [
+      "299.49",
+      "694.35",
+      "311.49",
+      "706.35"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "62",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "TALLEY VINEYARDS ESTATE BOTTLED",
+    "bbox": [
+      "189.84",
+      "17.85",
+      "424.13",
+      "29.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Chardonnay, Arroyo Grande Valley, CA, USA, 2017",
+    "bbox": [
+      "179.29",
+      "38.10",
+      "434.69",
+      "50.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "68",
+    "bbox": [
+      "299.49",
+      "58.35",
+      "311.49",
+      "70.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "DINNER CO",
+    "bbox": [
+      "149.58",
+      "113.76",
+      "305.73",
+      "141.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "CK",
+    "bbox": [
+      "305.73",
+      "113.76",
+      "346.86",
+      "141.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "TAILS 13",
+    "bbox": [
+      "346.86",
+      "113.76",
+      "461.40",
+      "141.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "JULIETTE SPRITZ",
+    "bbox": [
+      "252.64",
+      "154.35",
+      "361.34",
+      "166.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Aperitif, Pamplemousse Rose, Blanc de Blanc",
+    "bbox": [
+      "194.35",
+      "174.60",
+      "416.63",
+      "186.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "CHERRY BLOSSOM",
+    "bbox": [
+      "248.52",
+      "210.60",
+      "365.45",
+      "222.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Gin, Dry Vermouth, Lillet Blanc, Marascino",
+    "bbox": [
+      "199.18",
+      "231.60",
+      "414.79",
+      "243.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "WHITE NEGRONI",
+    "bbox": [
+      "252.81",
+      "267.60",
+      "361.16",
+      "279.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Gin, Vermouth Blanc, Pineau de Charentes, Orange Bitters",
+    "bbox": [
+      "164.18",
+      "287.85",
+      "446.78",
+      "299.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "SPRING FASHIONED",
+    "bbox": [
+      "246.09",
+      "323.85",
+      "367.88",
+      "335.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Rye, Rhubarb Liqueur, Bitters",
+    "bbox": [
+      "233.15",
+      "344.10",
+      "380.83",
+      "356.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "MALLOW OUT",
+    "bbox": [
+      "260.82",
+      "380.85",
+      "353.15",
+      "392.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Tequila, Mexcal, Hibiscus, Pineapple, Lime",
+    "bbox": [
+      "200.27",
+      "401.10",
+      "413.70",
+      "413.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "BOURBON STREET SMASH",
+    "bbox": [
+      "227.14",
+      "437.10",
+      "386.84",
+      "449.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BOURBON STREET SMASH",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Bourbon, Bohemian Absinthe, Strawberries, Lemon",
+    "bbox": [
+      "180.34",
+      "457.35",
+      "430.63",
+      "469.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bourbon, Bohemian Absinthe, Strawberries, Lemon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "BLUEBERRY THYME LEMONADE",
+    "bbox": [
+      "207.36",
+      "493.35",
+      "406.62",
+      "505.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BLUEBERRY THYME LEMONADE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Vodka, Blueberry Tea, Lemon",
+    "bbox": [
+      "233.21",
+      "513.60",
+      "377.77",
+      "525.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Vodka, Blueberry Tea, Lemon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "JUNGLE BIRD",
+    "bbox": [
+      "264.65",
+      "550.35",
+      "349.33",
+      "562.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "JUNGLE BIRD",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Dark & Light Rum, Contratto Bitter, Pineapple, Lime",
+    "bbox": [
+      "176.75",
+      "570.60",
+      "434.22",
+      "582.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Dark & Light Rum, Contratto Bitter, Pineapple, Lime",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "TEQUILA FIZZ",
+    "bbox": [
+      "262.30",
+      "606.60",
+      "351.66",
+      "618.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "TEQUILA FIZZ",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Tequila, Lichi Liqueur, Grapefruit, Lime",
+    "bbox": [
+      "208.01",
+      "626.85",
+      "405.95",
+      "638.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tequila, Lichi Liqueur, Grapefruit, Lime",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "RO",
+    "bbox": [
+      "268.15",
+      "682.26",
+      "309.28",
+      "709.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "SÉ",
+    "bbox": [
+      "309.28",
+      "682.26",
+      "342.82",
+      "709.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "CH. POURCIOUX COTES DE PROVENCE",
+    "bbox": [
+      "189.65",
+      "17.85",
+      "424.33",
+      "29.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Syrah, Cincault, Grenache, Provence, France 2020",
+    "bbox": [
+      "184.02",
+      "38.10",
+      "429.94",
+      "50.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "11/44",
+    "bbox": [
+      "292.05",
+      "58.35",
+      "318.94",
+      "70.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "BIELER PERE ET FILS BANDOL RESERVE",
+    "bbox": [
+      "184.16",
+      "95.10",
+      "429.80",
+      "107.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Mourvedre, Grenache, Cinsault, Provence, France, 2020",
+    "bbox": [
+      "170.20",
+      "115.35",
+      "443.77",
+      "127.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "56",
+    "bbox": [
+      "299.49",
+      "135.60",
+      "311.49",
+      "147.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "JEAN PAUL PICARD SANCERRE",
+    "bbox": [
+      "213.10",
+      "171.60",
+      "400.88",
+      "183.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Pinot Noir, Loire, France, 2020",
+    "bbox": [
+      "230.24",
+      "191.85",
+      "383.73",
+      "203.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "60",
+    "bbox": [
+      "299.49",
+      "212.85",
+      "311.49",
+      "224.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "RED W",
+    "bbox": [
+      "232.77",
+      "267.51",
+      "327.19",
+      "294.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "INE",
+    "bbox": [
+      "327.19",
+      "267.51",
+      "375.95",
+      "294.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "JULIETTE’S HOUSE RED",
+    "bbox": [
+      "233.80",
+      "308.10",
+      "380.17",
+      "320.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "9/36",
+    "bbox": [
+      "294.82",
+      "328.35",
+      "316.16",
+      "340.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "NICOLAS IDIART",
+    "bbox": [
+      "255.19",
+      "365.10",
+      "358.79",
+      "377.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Pinot Noir, Pays D’Oc, France, 2018",
+    "bbox": [
+      "217.07",
+      "385.35",
+      "396.89",
+      "397.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "13/52",
+    "bbox": [
+      "291.82",
+      "405.60",
+      "319.16",
+      "417.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "MICHEL TETE JULIENAS",
+    "bbox": [
+      "231.80",
+      "441.60",
+      "382.16",
+      "453.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MICHEL TETE JULIENAS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Chilled Gamay, Burgundy, France 2020",
+    "bbox": [
+      "210.06",
+      "461.85",
+      "403.91",
+      "473.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chilled Gamay, Burgundy, France 2",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "13/52",
+    "bbox": [
+      "291.82",
+      "482.10",
+      "319.16",
+      "494.10"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13/52",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "JEAN MAURICE RAFFAULT CHINON",
+    "bbox": [
+      "199.64",
+      "518.85",
+      "414.32",
+      "530.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "JEAN MAURICE RAFFAULT CHINON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Cabernet Franc, Loire,  France, 2019",
+    "bbox": [
+      "216.85",
+      "539.10",
+      "397.12",
+      "551.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Franc, Loire,  France, 2019",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "12/48",
+    "bbox": [
+      "291.82",
+      "559.35",
+      "319.16",
+      "571.35"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12/48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "CH. LES RAMBAUDS “Les Abeilles”",
+    "bbox": [
+      "207.65",
+      "595.35",
+      "406.33",
+      "607.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CH. LES RAMBAUDS “Les Abeilles”",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Merlot, Malbec, Cabernet Sauvignon, Bordeaux, France, 2018",
+    "bbox": [
+      "155.69",
+      "615.60",
+      "458.28",
+      "627.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Merlot, Malbec, Cabernet Sauvignon, Bordeaux, France,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "13/52",
+    "bbox": [
+      "291.82",
+      "636.60",
+      "319.16",
+      "648.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13/52",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "CH. DE GRAND PRE MORGON",
+    "bbox": [
+      "218.32",
+      "672.60",
+      "395.65",
+      "684.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CH. DE GRAND PRE MORGON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Gamay Noir, Burgundy, France, 2019",
+    "bbox": [
+      "215.08",
+      "692.85",
+      "398.90",
+      "704.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Gamay Noir, Burgundy, France, 2019",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "75",
+    "bbox": [
+      "299.49",
+      "713.10",
+      "311.49",
+      "725.10"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "75",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "PETER PAUL GRAVENSTEIN HIGHWAY",
+    "bbox": [
+      "192.07",
+      "17.85",
+      "421.90",
+      "29.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Pinot Noir, Russian River Valley, California, USA, 2019",
+    "bbox": [
+      "169.96",
+      "38.10",
+      "444.02",
+      "50.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "78",
+    "bbox": [
+      "299.49",
+      "58.35",
+      "311.49",
+      "70.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "JACKY BLOT BOURGUEIL LA PIED DE LA BUTTE",
+    "bbox": [
+      "161.29",
+      "95.10",
+      "452.68",
+      "107.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Cabernet Franc, Loire, France, 2019",
+    "bbox": [
+      "218.35",
+      "115.35",
+      "395.62",
+      "127.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "65",
+    "bbox": [
+      "299.49",
+      "135.60",
+      "311.49",
+      "147.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "VINA SANTURNIA RIOJA CRIANZA",
+    "bbox": [
+      "203.31",
+      "171.60",
+      "410.66",
+      "183.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Tempranillo, Ribera del Duero, Spain, 2016",
+    "bbox": [
+      "200.27",
+      "191.85",
+      "413.71",
+      "203.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "48",
+    "bbox": [
+      "299.49",
+      "212.85",
+      "311.49",
+      "224.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "D. LE GALANTIN BANDOL ROUGE",
+    "bbox": [
+      "205.64",
+      "248.85",
+      "408.33",
+      "260.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Grenache, Mourvedre, Provence, France, 2016",
+    "bbox": [
+      "193.20",
+      "269.10",
+      "420.78",
+      "281.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "66",
+    "bbox": [
+      "299.49",
+      "289.35",
+      "311.49",
+      "301.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "EQUIS CROZES HERMITAGE, EQUINOXE",
+    "bbox": [
+      "185.91",
+      "325.35",
+      "428.07",
+      "337.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Syrah, Rhône, France, 2019",
+    "bbox": [
+      "238.50",
+      "345.60",
+      "375.47",
+      "357.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "58",
+    "bbox": [
+      "299.49",
+      "366.60",
+      "311.49",
+      "378.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "DOMAINE DU CAYRON GIGONDAS",
+    "bbox": [
+      "204.20",
+      "402.60",
+      "409.77",
+      "414.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Grenache, Syrah, Mourvedre, Rhone, France, 2016",
+    "bbox": [
+      "182.86",
+      "422.85",
+      "431.11",
+      "434.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "76",
+    "bbox": [
+      "299.49",
+      "443.10",
+      "311.49",
+      "455.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "D. DU BANNERET CHATEAUNEUF DU PAPE",
+    "bbox": [
+      "180.37",
+      "479.10",
+      "433.60",
+      "491.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Grenache, Syrah, Cinsault, Rhone, France, 2018",
+    "bbox": [
+      "189.52",
+      "500.10",
+      "424.46",
+      "512.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "120",
+    "bbox": [
+      "296.49",
+      "520.35",
+      "314.49",
+      "532.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "CH. BARRAIL DE BRISSON GRAND CRU SAINT EMILION",
+    "bbox": [
+      "141.46",
+      "556.35",
+      "472.50",
+      "568.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Merlot, Cabernet Sauvignon",
+    "bbox": [
+      "237.33",
+      "576.60",
+      "376.63",
+      "588.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Bordeaux, France,  2018",
+    "bbox": [
+      "246.33",
+      "596.85",
+      "367.63",
+      "608.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "82",
+    "bbox": [
+      "299.49",
+      "617.85",
+      "311.49",
+      "629.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "CH. HAUTE SELVE GRAVES",
+    "bbox": [
+      "225.79",
+      "653.85",
+      "388.18",
+      "665.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Cabernet Sauvignon, Merlot, Bordeaux, FR 2018",
+    "bbox": [
+      "187.16",
+      "674.10",
+      "426.80",
+      "686.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "75",
+    "bbox": [
+      "299.49",
+      "694.35",
+      "311.49",
+      "706.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "LAELY WINES",
+    "bbox": [
+      "263.86",
+      "17.85",
+      "350.11",
+      "29.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Cabernet Sauvignon, Napa Valley, CA, USA, 2012",
+    "bbox": [
+      "183.23",
+      "38.10",
+      "430.74",
+      "50.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "75",
+    "bbox": [
+      "299.49",
+      "58.35",
+      "311.49",
+      "70.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "LABBE VIN DE SAVOIE",
+    "bbox": [
+      "239.20",
+      "95.10",
+      "374.77",
+      "107.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Mondeuse, Savoie, FR ’15",
+    "bbox": [
+      "241.33",
+      "115.35",
+      "372.65",
+      "127.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "48",
+    "bbox": [
+      "299.49",
+      "135.60",
+      "311.49",
+      "147.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "PARS AMADOR COUNTY",
+    "bbox": [
+      "233.61",
+      "171.60",
+      "380.37",
+      "183.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Old Vine Zinfandel, California, USA, 2017",
+    "bbox": [
+      "201.53",
+      "191.85",
+      "412.43",
+      "203.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "58",
+    "bbox": [
+      "299.49",
+      "212.85",
+      "311.49",
+      "224.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "",
+    "bbox": [
+      "298.74",
+      "316.75",
+      "312.24",
+      "332.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "(https://www.facebook.com/pages/Juliette-Restaurant/111622468875964)",
+    "bbox": [
+      "73.45",
+      "332.91",
+      "537.53",
+      "348.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "",
+    "bbox": [
+      "181.86",
+      "348.25",
+      "195.36",
+      "364.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "",
+    "bbox": [
+      "415.20",
+      "348.25",
+      "428.70",
+      "364.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "(https://twitter.com/JulietteBKNY)(http://instagram.com/juliettebkny)",
+    "bbox": [
+      "78.59",
+      "364.41",
+      "532.39",
+      "380.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "(http://www.tartine.nyc/)",
+    "bbox": [
+      "293.18",
+      "413.62",
+      "410.42",
+      "421.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "SITE BY MOONPOOL (HTTP://MOONPOOL.INFO)",
+    "bbox": [
+      "193.12",
+      "445.12",
+      "416.36",
+      "452.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": ".",
+    "bbox": [
+      "303.80",
+      "464.62",
+      "305.68",
+      "472.12"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

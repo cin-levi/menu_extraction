@@ -1,0 +1,2928 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/19/22, 9:21 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BLT Steak New York | Hours + Location | BLT Restaurants | Nationwide Shipping on Goldbelly",
+    "bbox": [
+      "185.45",
+      "15.70",
+      "517.71",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "545.47",
+      "267.41",
+      "578.07",
+      "300.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BLT STEA",
+    "bbox": [
+      "140.89",
+      "397.90",
+      "270.70",
+      "431.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "K N",
+    "bbox": [
+      "270.70",
+      "397.90",
+      "324.32",
+      "431.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "EW",
+    "bbox": [
+      "324.32",
+      "397.90",
+      "374.20",
+      "431.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "YO",
+    "bbox": [
+      "374.20",
+      "397.90",
+      "432.15",
+      "431.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "R",
+    "bbox": [
+      "432.15",
+      "397.90",
+      "452.39",
+      "431.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "K",
+    "bbox": [
+      "452.39",
+      "397.90",
+      "472.10",
+      "431.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MAKE A RESERVATION",
+    "bbox": [
+      "242.45",
+      "740.68",
+      "369.81",
+      "751.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.bltrestaurants.com/location/blt-steak-new-york/#wine-cocktails-blt-steak-ny",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "333.23",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/7",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/19/22, 9:21 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BLT Steak New York | Hours + Location | BLT Restaurants | Nationwide Shipping on Goldbelly",
+    "bbox": [
+      "185.45",
+      "15.70",
+      "517.71",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "H",
+    "bbox": [
+      "145.00",
+      "67.05",
+      "167.77",
+      "100.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "O",
+    "bbox": [
+      "167.77",
+      "67.05",
+      "196.75",
+      "100.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "U",
+    "bbox": [
+      "196.75",
+      "67.05",
+      "218.59",
+      "100.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "R",
+    "bbox": [
+      "218.59",
+      "67.05",
+      "238.83",
+      "100.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "S &",
+    "bbox": [
+      "238.83",
+      "67.05",
+      "289.91",
+      "100.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LO",
+    "bbox": [
+      "289.91",
+      "67.05",
+      "343.53",
+      "100.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "C",
+    "bbox": [
+      "343.53",
+      "67.05",
+      "370.64",
+      "100.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "A",
+    "bbox": [
+      "370.64",
+      "67.05",
+      "395.32",
+      "100.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TIO",
+    "bbox": [
+      "392.62",
+      "67.05",
+      "443.33",
+      "100.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "N",
+    "bbox": [
+      "443.33",
+      "67.05",
+      "468.01",
+      "100.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "106 East 57th Street,",
+    "bbox": [
+      "253.46",
+      "133.07",
+      "362.61",
+      "144.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "New York, NY 10022",
+    "bbox": [
+      "252.63",
+      "150.11",
+      "360.37",
+      "161.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "212.752.7470",
+    "bbox": [
+      "272.63",
+      "166.42",
+      "340.37",
+      "177.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dinner",
+    "bbox": [
+      "289.19",
+      "194.57",
+      "323.81",
+      "205.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Monday through Saturday, 5:00pm to 10:00pm",
+    "bbox": [
+      "181.18",
+      "221.99",
+      "431.83",
+      "233.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MAKE A RESERVATION",
+    "bbox": [
+      "248.18",
+      "266.56",
+      "364.06",
+      "276.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "",
+    "bbox": [
+      "545.47",
+      "267.41",
+      "578.07",
+      "300.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "O",
+    "bbox": [
+      "186.24",
+      "322.69",
+      "215.22",
+      "356.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "R",
+    "bbox": [
+      "215.22",
+      "322.69",
+      "235.46",
+      "356.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "D",
+    "bbox": [
+      "235.46",
+      "322.69",
+      "260.26",
+      "356.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ER",
+    "bbox": [
+      "260.26",
+      "322.69",
+      "298.38",
+      "356.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "O",
+    "bbox": [
+      "298.38",
+      "322.69",
+      "336.59",
+      "356.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "N",
+    "bbox": [
+      "336.59",
+      "322.69",
+      "361.26",
+      "356.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LIN",
+    "bbox": [
+      "361.26",
+      "322.69",
+      "408.88",
+      "356.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "E",
+    "bbox": [
+      "408.88",
+      "322.69",
+      "426.75",
+      "356.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ORDER DIRECT",
+    "bbox": [
+      "267.08",
+      "405.13",
+      "345.17",
+      "415.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "M",
+    "bbox": [
+      "264.63",
+      "535.10",
+      "287.62",
+      "560.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ENUS",
+    "bbox": [
+      "287.62",
+      "535.10",
+      "348.36",
+      "560.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DINNER",
+    "bbox": [
+      "153.86",
+      "603.71",
+      "193.50",
+      "613.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "237.70",
+      "603.71",
+      "307.29",
+      "613.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WINE & COCKTAILS",
+    "bbox": [
+      "353.73",
+      "603.71",
+      "458.39",
+      "613.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HOUSE COCKTAILS",
+    "bbox": [
+      "220.19",
+      "657.94",
+      "392.81",
+      "677.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BOOTLEGGER'S RAGTIME",
+    "bbox": [
+      "90.99",
+      "711.13",
+      "270.71",
+      "725.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "monkey shoulder scotch, wyoming whiskey, maple syrup, chocolate bitters,",
+    "bbox": [
+      "90.99",
+      "731.05",
+      "495.25",
+      "742.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MAKE A RESERVATION",
+    "bbox": [
+      "242.45",
+      "740.68",
+      "369.81",
+      "751.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "stirred & served in a chilled laphroaig washed rocks glass",
+    "bbox": [
+      "90.99",
+      "748.09",
+      "395.46",
+      "759.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.bltrestaurants.com/location/blt-steak-new-york/#wine-cocktails-blt-steak-ny",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "333.23",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/7",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/19/22, 9:21 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BLT Steak New York | Hours + Location | BLT Restaurants | Nationwide Shipping on Goldbelly",
+    "bbox": [
+      "185.45",
+      "15.70",
+      "517.71",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "15",
+    "bbox": [
+      "90.99",
+      "33.04",
+      "103.30",
+      "44.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BLT OLD FASHIONED",
+    "bbox": [
+      "90.99",
+      "62.02",
+      "234.92",
+      "75.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "brugal 1888 rum, earl grey & dark muscavado syrup, ango, orange bitters",
+    "bbox": [
+      "90.99",
+      "81.94",
+      "485.59",
+      "93.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "14",
+    "bbox": [
+      "90.99",
+      "98.25",
+      "103.30",
+      "109.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "12 O'CLOCK",
+    "bbox": [
+      "90.99",
+      "127.23",
+      "181.02",
+      "141.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "stanahan’s whiskey, ramazotti amaro, noilly prat extra dry vermouth, orange",
+    "bbox": [
+      "90.99",
+      "147.15",
+      "499.90",
+      "158.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "bitters",
+    "bbox": [
+      "90.99",
+      "163.45",
+      "123.21",
+      "174.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "15",
+    "bbox": [
+      "90.99",
+      "180.49",
+      "103.30",
+      "191.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "LOVE IS LOVE",
+    "bbox": [
+      "90.99",
+      "208.74",
+      "188.28",
+      "222.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "bacardi quattro, fresh pineapple juice, fresh lime juice",
+    "bbox": [
+      "90.99",
+      "228.66",
+      "381.33",
+      "239.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "12",
+    "bbox": [
+      "90.99",
+      "245.70",
+      "103.30",
+      "256.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "",
+    "bbox": [
+      "545.47",
+      "267.41",
+      "578.07",
+      "300.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MOROCCAN SUNRISE",
+    "bbox": [
+      "90.99",
+      "273.94",
+      "246.69",
+      "287.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "boodles gin, pink peppercorns, lemon wheels, fever-tree indian tonic, served in",
+    "bbox": [
+      "90.99",
+      "294.61",
+      "514.82",
+      "305.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "a burgundy glass with fresh lavender",
+    "bbox": [
+      "90.99",
+      "310.91",
+      "287.33",
+      "322.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "14",
+    "bbox": [
+      "90.99",
+      "327.95",
+      "103.30",
+      "339.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "THE ORCHID",
+    "bbox": [
+      "90.99",
+      "356.19",
+      "179.13",
+      "370.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "grey goose essences - white peach & rosemary, triple sec, white cranberry",
+    "bbox": [
+      "90.99",
+      "376.12",
+      "491.13",
+      "387.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "juice, lime cordial",
+    "bbox": [
+      "90.99",
+      "393.16",
+      "185.36",
+      "404.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "12",
+    "bbox": [
+      "90.99",
+      "409.46",
+      "103.30",
+      "420.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SAMANTHA JONES",
+    "bbox": [
+      "90.99",
+      "438.44",
+      "224.11",
+      "452.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "hangar one vodka, st. germain elderflower liqueur, fresh lemon juice, hibiscus",
+    "bbox": [
+      "90.99",
+      "458.37",
+      "503.55",
+      "469.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "berry tea",
+    "bbox": [
+      "90.99",
+      "474.67",
+      "140.42",
+      "485.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "12",
+    "bbox": [
+      "90.99",
+      "491.71",
+      "103.30",
+      "502.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SNEAKY HEAT",
+    "bbox": [
+      "90.99",
+      "519.95",
+      "185.62",
+      "533.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "milagro silver tequila, ancho reyes green, passion fruit purée, jalapeño-infused",
+    "bbox": [
+      "90.99",
+      "539.87",
+      "509.21",
+      "550.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "agave, shaken, strained & served up in a martini glass",
+    "bbox": [
+      "90.99",
+      "556.92",
+      "379.23",
+      "568.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "14",
+    "bbox": [
+      "90.99",
+      "573.22",
+      "103.30",
+      "584.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PALOMA",
+    "bbox": [
+      "90.99",
+      "602.20",
+      "153.71",
+      "616.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "maestro dobel diamante tequila, fresh pink grapefruit juice, soda",
+    "bbox": [
+      "90.99",
+      "622.12",
+      "440.57",
+      "633.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "14",
+    "bbox": [
+      "90.99",
+      "639.17",
+      "103.30",
+      "650.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "THE LAST WORD",
+    "bbox": [
+      "90.99",
+      "667.41",
+      "204.29",
+      "681.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "bombay sapphire, luxardo maraschino liqueur, chartreuse, fresh lime juice",
+    "bbox": [
+      "90.99",
+      "687.33",
+      "486.58",
+      "698.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "14",
+    "bbox": [
+      "90.99",
+      "704.37",
+      "103.30",
+      "715.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MAKE A RESERVATION",
+    "bbox": [
+      "242.45",
+      "740.68",
+      "369.81",
+      "751.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.bltrestaurants.com/location/blt-steak-new-york/#wine-cocktails-blt-steak-ny",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "333.23",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/7",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/19/22, 9:21 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BLT Steak New York | Hours + Location | BLT Restaurants | Nationwide Shipping on Goldbelly",
+    "bbox": [
+      "185.45",
+      "15.70",
+      "517.71",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "WINE BY THE GLASS",
+    "bbox": [
+      "217.48",
+      "46.63",
+      "397.75",
+      "66.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SPARKLING",
+    "bbox": [
+      "255.41",
+      "137.03",
+      "357.60",
+      "156.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CHAMPAGNE BRUT",
+    "bbox": [
+      "90.99",
+      "190.21",
+      "227.05",
+      "204.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHAMPAGNE BRUT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "piper-heidsieck, champagne, france, nv",
+    "bbox": [
+      "90.99",
+      "210.13",
+      "308.61",
+      "221.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "piper-heidsieck, champagne, france,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "nv",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "15",
+    "bbox": [
+      "90.99",
+      "227.18",
+      "103.30",
+      "238.29"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PROSECCO",
+    "bbox": [
+      "90.99",
+      "255.42",
+      "173.94",
+      "269.31"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PROSECCO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "",
+    "bbox": [
+      "545.47",
+      "267.41",
+      "578.07",
+      "300.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "caposaldo, veneto, italy, nv",
+    "bbox": [
+      "90.99",
+      "275.34",
+      "241.26",
+      "286.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "caposaldo, veneto, italy,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "nv",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "14",
+    "bbox": [
+      "90.99",
+      "292.38",
+      "103.30",
+      "303.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CHAMPAGNE BRUT ROSÉ",
+    "bbox": [
+      "90.99",
+      "320.63",
+      "269.48",
+      "334.52"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHAMPAGNE BRUT ROSÉ",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "montaudon, france, nv",
+    "bbox": [
+      "90.99",
+      "340.55",
+      "216.06",
+      "351.66"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "montaudon, france, nv",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "nv",
+            "answer_start": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "14",
+    "bbox": [
+      "90.99",
+      "357.59",
+      "103.30",
+      "368.71"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "WHITE",
+    "bbox": [
+      "278.97",
+      "434.16",
+      "334.03",
+      "453.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PINOT GRIGIO",
+    "bbox": [
+      "90.99",
+      "487.35",
+      "193.64",
+      "501.24"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT GRIGIO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "villa sandi, venezia, italy, 2018",
+    "bbox": [
+      "90.99",
+      "507.27",
+      "249.80",
+      "518.39"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "villa sandi, venezia, italy,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "12",
+    "bbox": [
+      "90.99",
+      "524.31",
+      "103.30",
+      "535.43"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "VERMENTINO",
+    "bbox": [
+      "90.99",
+      "552.55",
+      "185.20",
+      "566.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VERMENTINO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "casamatta bianco, tuscany, italy, 2015",
+    "bbox": [
+      "90.99",
+      "572.48",
+      "299.77",
+      "583.59"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "casamatta bianco, tuscany, italy,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "14",
+    "bbox": [
+      "90.99",
+      "589.52",
+      "103.30",
+      "600.64"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "90.99",
+      "617.76",
+      "235.34",
+      "631.65"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "craggy range, new zealand, 2020",
+    "bbox": [
+      "90.99",
+      "638.43",
+      "272.39",
+      "649.54"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "craggy range, new zealand",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "15",
+    "bbox": [
+      "90.99",
+      "654.73",
+      "103.30",
+      "665.84"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "90.99",
+      "683.71",
+      "196.94",
+      "697.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "talbott kali hart, monterey, california, 2018",
+    "bbox": [
+      "90.99",
+      "703.63",
+      "317.29",
+      "714.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "talbott kali hart, monterey, california,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "13",
+    "bbox": [
+      "90.99",
+      "719.93",
+      "103.30",
+      "731.05"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MAKE A RESERVATION",
+    "bbox": [
+      "242.45",
+      "740.68",
+      "369.81",
+      "751.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.bltrestaurants.com/location/blt-steak-new-york/#wine-cocktails-blt-steak-ny",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "333.23",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/7",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/19/22, 9:21 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BLT Steak New York | Hours + Location | BLT Restaurants | Nationwide Shipping on Goldbelly",
+    "bbox": [
+      "185.45",
+      "15.70",
+      "517.71",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "SOAVE CLASSICO",
+    "bbox": [
+      "90.99",
+      "33.86",
+      "217.73",
+      "47.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "pieropan, soave, italy, 2018",
+    "bbox": [
+      "90.99",
+      "53.79",
+      "237.95",
+      "64.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "15",
+    "bbox": [
+      "90.99",
+      "70.83",
+      "103.30",
+      "81.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "90.99",
+      "99.07",
+      "196.94",
+      "112.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "sonoma cutrer, russian river valley, california, 2016",
+    "bbox": [
+      "90.99",
+      "118.99",
+      "356.63",
+      "130.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "15",
+    "bbox": [
+      "90.99",
+      "136.04",
+      "103.30",
+      "147.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ROSÉ",
+    "bbox": [
+      "282.09",
+      "212.61",
+      "330.92",
+      "232.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "FINCA ROSÉ TABLE WINE",
+    "bbox": [
+      "90.99",
+      "265.79",
+      "267.30",
+      "279.69"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FINCA ROSÉ TABLE WINE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "",
+    "bbox": [
+      "545.47",
+      "267.41",
+      "578.07",
+      "300.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "wölffer estate, mendoza, argentina, 2020",
+    "bbox": [
+      "90.99",
+      "285.72",
+      "311.73",
+      "296.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "wölffer estate, mendoza, argentina",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "12",
+    "bbox": [
+      "90.99",
+      "302.76",
+      "103.30",
+      "313.87"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "SUMMER IN A BOTTLE",
+    "bbox": [
+      "90.99",
+      "331.00",
+      "242.16",
+      "344.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SUMMER IN A BOTTLE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "wölffer estate, long island, new york, 2020",
+    "bbox": [
+      "90.99",
+      "350.92",
+      "313.77",
+      "362.04"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "wölffer estate, long island, new york,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "15",
+    "bbox": [
+      "90.99",
+      "367.96",
+      "103.30",
+      "379.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "COTES DE PROVENCE",
+    "bbox": [
+      "90.99",
+      "396.21",
+      "246.93",
+      "410.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "COTES DE PROVENCE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "'fleur de mer,' provence, france, 2019",
+    "bbox": [
+      "90.99",
+      "416.87",
+      "290.61",
+      "427.99"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "'fleur de mer,' provence, france,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "13",
+    "bbox": [
+      "90.99",
+      "433.17",
+      "103.30",
+      "444.29"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RED",
+    "bbox": [
+      "288.15",
+      "509.74",
+      "324.85",
+      "529.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "90.99",
+      "562.93",
+      "175.07",
+      "576.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT NOIR",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "sonoma-cutrer, russian river valley, california 2018",
+    "bbox": [
+      "90.99",
+      "583.59",
+      "354.16",
+      "594.71"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "sonoma-cutrer, russian river valley, california",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "15",
+    "bbox": [
+      "90.99",
+      "599.89",
+      "103.30",
+      "611.01"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "SANGIOVESE",
+    "bbox": [
+      "90.99",
+      "628.88",
+      "184.03",
+      "642.77"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SANGIOVESE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "casamatta rosso, tuscany, italy, 2015",
+    "bbox": [
+      "90.99",
+      "648.80",
+      "287.58",
+      "659.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "casamatta rosso, tuscany, italy,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "12",
+    "bbox": [
+      "90.99",
+      "665.10",
+      "103.30",
+      "676.22"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CHIANTI CLASSICO RESERVA",
+    "bbox": [
+      "90.99",
+      "694.08",
+      "294.23",
+      "707.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHIANTI CLASSICO RESERVA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "barone ricasoli, tuscany, italy, 2015",
+    "bbox": [
+      "90.99",
+      "714.01",
+      "277.41",
+      "725.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "barone ricasoli, tuscany, italy, 2015",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "12",
+    "bbox": [
+      "90.99",
+      "730.31",
+      "103.30",
+      "741.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "MAKE A RESERVATION",
+    "bbox": [
+      "242.45",
+      "740.68",
+      "369.81",
+      "751.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.bltrestaurants.com/location/blt-steak-new-york/#wine-cocktails-blt-steak-ny",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "333.23",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/7",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/19/22, 9:21 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BLT Steak New York | Hours + Location | BLT Restaurants | Nationwide Shipping on Goldbelly",
+    "bbox": [
+      "185.45",
+      "15.70",
+      "517.71",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RIOJA RESERVA",
+    "bbox": [
+      "90.99",
+      "33.86",
+      "200.83",
+      "47.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "montecillo, rioja, spain, 2012",
+    "bbox": [
+      "90.99",
+      "53.79",
+      "241.89",
+      "64.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "15",
+    "bbox": [
+      "90.99",
+      "70.83",
+      "103.30",
+      "81.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MALBEC",
+    "bbox": [
+      "90.99",
+      "99.07",
+      "150.88",
+      "112.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "susana balbo, mendoza, argentina, 2017",
+    "bbox": [
+      "90.99",
+      "118.99",
+      "311.12",
+      "130.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "14",
+    "bbox": [
+      "90.99",
+      "136.04",
+      "103.30",
+      "147.15"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "90.99",
+      "164.28",
+      "260.25",
+      "178.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET SAUVIGNON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "oberon, napa valley, california, 2018",
+    "bbox": [
+      "90.99",
+      "184.20",
+      "287.75",
+      "195.31"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "oberon, napa valley, california,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "15",
+    "bbox": [
+      "90.99",
+      "201.24",
+      "103.30",
+      "212.36"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BEER/CIDER",
+    "bbox": [
+      "251.89",
+      "277.81",
+      "361.12",
+      "297.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "WÖLFFER DRY ROSÉ CIDER",
+    "bbox": [
+      "90.99",
+      "331.00",
+      "281.52",
+      "344.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "abv 6.9%, hamptons, ny",
+    "bbox": [
+      "90.99",
+      "350.92",
+      "218.98",
+      "362.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "10",
+    "bbox": [
+      "90.99",
+      "367.96",
+      "103.30",
+      "379.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "STONE \"DELICIOUS\" IPA",
+    "bbox": [
+      "90.99",
+      "396.21",
+      "255.22",
+      "410.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "abv 6.9%, san diego, ca",
+    "bbox": [
+      "90.99",
+      "416.87",
+      "220.09",
+      "427.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "10",
+    "bbox": [
+      "90.99",
+      "433.17",
+      "103.30",
+      "444.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ABITA LIGHT",
+    "bbox": [
+      "90.99",
+      "462.15",
+      "175.80",
+      "476.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "abv 4.1%, covington, la",
+    "bbox": [
+      "90.99",
+      "482.08",
+      "216.47",
+      "493.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "9",
+    "bbox": [
+      "90.99",
+      "498.38",
+      "97.15",
+      "509.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "OMMEGANG WHITE",
+    "bbox": [
+      "90.99",
+      "527.36",
+      "233.65",
+      "541.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "abv 5.2%, cooperstown, ny",
+    "bbox": [
+      "90.99",
+      "547.28",
+      "235.74",
+      "558.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "11",
+    "bbox": [
+      "90.99",
+      "563.59",
+      "103.30",
+      "574.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "OMMEGANG RARE VOS",
+    "bbox": [
+      "90.99",
+      "592.57",
+      "263.73",
+      "606.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "abv 6.5%, cooperstown, ny",
+    "bbox": [
+      "90.99",
+      "612.49",
+      "235.74",
+      "623.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "10",
+    "bbox": [
+      "90.99",
+      "628.79",
+      "103.30",
+      "639.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "LEFT HAND MILK STOUT",
+    "bbox": [
+      "90.99",
+      "657.77",
+      "253.99",
+      "671.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "abv 6%, longmont, co",
+    "bbox": [
+      "90.99",
+      "677.70",
+      "208.97",
+      "688.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "10",
+    "bbox": [
+      "90.99",
+      "694.74",
+      "103.30",
+      "705.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "VICTORY PRIMA PILSNER",
+    "bbox": [
+      "90.99",
+      "722.98",
+      "265.78",
+      "736.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "abv 5.3%, dowingtown, paMAKE A RESERVATION",
+    "bbox": [
+      "90.99",
+      "740.68",
+      "369.81",
+      "754.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://www.bltrestaurants.com/location/blt-steak-new-york/#wine-cocktails-blt-steak-ny",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "333.23",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/7",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/19/22, 9:21 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BLT Steak New York | Hours + Location | BLT Restaurants | Nationwide Shipping on Goldbelly",
+    "bbox": [
+      "185.45",
+      "15.70",
+      "517.71",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "9",
+    "bbox": [
+      "90.99",
+      "33.04",
+      "97.15",
+      "44.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "EINBECKER ALCOHOL FREE",
+    "bbox": [
+      "90.99",
+      "62.02",
+      "284.04",
+      "75.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "germany",
+    "bbox": [
+      "90.99",
+      "81.94",
+      "140.10",
+      "93.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "8",
+    "bbox": [
+      "90.99",
+      "98.25",
+      "97.15",
+      "109.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MAKE A RESERVATION",
+    "bbox": [
+      "242.45",
+      "740.68",
+      "369.81",
+      "751.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://www.bltrestaurants.com/location/blt-steak-new-york/#wine-cocktails-blt-steak-ny",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "333.23",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/7",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

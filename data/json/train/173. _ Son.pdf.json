@@ -1,0 +1,1579 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/17/22, 10:14 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menu | www.andsonnyc.com | United States",
+    "bbox": [
+      "275.69",
+      "15.70",
+      "431.92",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HOMEMENU",
+    "bbox": [
+      "405.75",
+      "46.09",
+      "466.30",
+      "54.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CONTACT US",
+    "bbox": [
+      "481.25",
+      "46.09",
+      "525.80",
+      "54.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cocktails",
+    "bbox": [
+      "229.66",
+      "97.99",
+      "290.00",
+      "112.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Wines",
+    "bbox": [
+      "489.11",
+      "100.99",
+      "528.51",
+      "115.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Swipe Right",
+    "bbox": [
+      "232.43",
+      "126.79",
+      "290.00",
+      "138.29"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Swipe Right",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Wine For Steak  13 / 45",
+    "bbox": [
+      "407.71",
+      "129.79",
+      "528.51",
+      "141.29"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Wine For Steak",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "13 / 45",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "rich, boozy, aromatic",
+    "bbox": [
+      "208.42",
+      "140.69",
+      "291.71",
+      "149.19"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "rich, boozy, aromatic",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "The perfect companion to our steaks",
+    "bbox": [
+      "386.20",
+      "143.69",
+      "528.50",
+      "152.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "bourbon old fashioned, dates, orange bitters,",
+    "bbox": [
+      "115.99",
+      "151.19",
+      "290.01",
+      "159.69"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "bourbon old fashioned, dates, orange bitters,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "aromatic bitters",
+    "bbox": [
+      "229.48",
+      "161.69",
+      "290.01",
+      "170.19"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "aromatic bitters",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "White Wine For Fish  13 / 45",
+    "bbox": [
+      "381.42",
+      "165.29",
+      "528.51",
+      "176.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "White Wine For Fish",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "13 / 45",
+            "answer_start": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "13",
+    "bbox": [
+      "279.52",
+      "172.79",
+      "290.00",
+      "184.29"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Wine Dinner 25/Person",
+    "bbox": [
+      "406.47",
+      "194.29",
+      "528.50",
+      "205.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Wine Dinner",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "25/Person",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FOMO",
+    "bbox": [
+      "255.23",
+      "197.79",
+      "290.00",
+      "209.29"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FOMO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Add Our House Wine To Your Dinner",
+    "bbox": [
+      "380.11",
+      "208.19",
+      "528.51",
+      "216.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "tropical, vegetal, heat",
+    "bbox": [
+      "206.85",
+      "211.69",
+      "291.71",
+      "220.19"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "tropical, vegetal, heat",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "vodka, pineapple, turmeric, hatch green chili",
+    "bbox": [
+      "126.26",
+      "222.19",
+      "290.01",
+      "230.69"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "vodka, pineapple, turmeric, hatch green chili",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "13",
+    "bbox": [
+      "279.52",
+      "233.29",
+      "290.00",
+      "244.79"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Brooklyn Winery Cabernet Sauvignon",
+    "bbox": [
+      "331.09",
+      "233.79",
+      "528.50",
+      "245.29"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Brooklyn Winery Cabernet Sauvignon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "85",
+    "bbox": [
+      "515.47",
+      "248.29",
+      "528.51",
+      "259.79"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Iron Lady",
+    "bbox": [
+      "239.93",
+      "258.29",
+      "290.01",
+      "269.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Iron Lady",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Brooklyn Winery Chardonnay",
+    "bbox": [
+      "370.67",
+      "262.79",
+      "528.50",
+      "274.29"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Brooklyn Winery Chardonnay",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "floral, bright, fruity",
+    "bbox": [
+      "210.40",
+      "272.19",
+      "291.71",
+      "280.69"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "floral, bright, fruity",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "65",
+    "bbox": [
+      "514.27",
+      "277.29",
+      "528.50",
+      "288.79"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "65",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "gin with rose petal, citra hops, grapefruit, lemon,",
+    "bbox": [
+      "102.59",
+      "282.69",
+      "290.00",
+      "291.19"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "gin with rose petal, citra hops, grapefruit, lemon,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "cane sugar",
+    "bbox": [
+      "248.81",
+      "293.19",
+      "290.00",
+      "301.69"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "cane sugar",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "13",
+    "bbox": [
+      "279.52",
+      "304.29",
+      "290.00",
+      "315.79"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Beer",
+    "bbox": [
+      "500.16",
+      "302.49",
+      "528.50",
+      "317.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Miss Casanova",
+    "bbox": [
+      "215.35",
+      "329.29",
+      "290.01",
+      "340.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Miss Casanova",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Mel’s Everyday Beer",
+    "bbox": [
+      "425.95",
+      "331.29",
+      "528.51",
+      "342.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Mel’s Everyday Beer",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "smoky, spicy, tart",
+    "bbox": [
+      "223.97",
+      "343.19",
+      "291.71",
+      "351.69"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "smoky, spicy, tart",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "8",
+    "bbox": [
+      "522.44",
+      "345.79",
+      "528.50",
+      "357.29"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "8",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "rum, hibiscus, chipotle, orange,  lime, cane sugar",
+    "bbox": [
+      "108.73",
+      "353.69",
+      "290.00",
+      "362.19"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "rum, hibiscus, chipotle, orange,  lime, cane sugar",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Great South Bay Massive IPA",
+    "bbox": [
+      "381.07",
+      "360.29",
+      "528.50",
+      "371.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Great South Bay Massive IPA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "13",
+    "bbox": [
+      "279.52",
+      "364.79",
+      "290.00",
+      "376.29"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9",
+    "bbox": [
+      "521.25",
+      "374.79",
+      "528.50",
+      "386.29"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "9",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "The Filthiest Martini",
+    "bbox": [
+      "187.04",
+      "389.79",
+      "290.00",
+      "401.29"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "The Filthiest Martini",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bronx Pale Ale",
+    "bbox": [
+      "450.78",
+      "389.29",
+      "528.51",
+      "400.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bronx Pale Ale",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "dirty af",
+    "bbox": [
+      "260.58",
+      "403.69",
+      "291.71",
+      "412.19"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "dirty af",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9",
+    "bbox": [
+      "521.25",
+      "403.79",
+      "528.50",
+      "415.29"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "9",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Olive Infused Bootlegger Vodka or Gin",
+    "bbox": [
+      "139.27",
+      "414.19",
+      "290.00",
+      "422.69"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Olive Infused Bootlegger Vodka or Gin",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Doc’s Cider",
+    "bbox": [
+      "473.02",
+      "418.29",
+      "528.51",
+      "429.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Doc’s Cider",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "13",
+    "bbox": [
+      "279.52",
+      "425.29",
+      "290.00",
+      "436.79"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9",
+    "bbox": [
+      "521.25",
+      "432.79",
+      "528.50",
+      "444.29"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "9",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Steak Dinner 49",
+    "bbox": [
+      "250.05",
+      "593.38",
+      "361.31",
+      "610.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "12 oz. prime sirloin",
+    "bbox": [
+      "266.15",
+      "621.19",
+      "341.62",
+      "629.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chicken Dinner 39",
+    "bbox": [
+      "244.24",
+      "637.49",
+      "362.26",
+      "652.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "garlic lemon with brown butter",
+    "bbox": [
+      "241.37",
+      "664.19",
+      "366.41",
+      "672.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Don't Tell Mel Dinner 33",
+    "bbox": [
+      "219.09",
+      "679.38",
+      "392.28",
+      "696.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "8oz burger of ground prime NY strip",
+    "bbox": [
+      "231.62",
+      "707.19",
+      "376.16",
+      "715.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "choice of salad:",
+    "bbox": [
+      "261.02",
+      "735.29",
+      "345.49",
+      "746.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "steakhouse wedge salad, simple salad, classic caesar",
+    "bbox": [
+      "171.40",
+      "749.79",
+      "435.10",
+      "761.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.andsonnyc.com/menus",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "151.84",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/2",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/17/22, 10:14 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menu | www.andsonnyc.com | United States",
+    "bbox": [
+      "275.69",
+      "15.70",
+      "431.92",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "choice of side:",
+    "bbox": [
+      "267.36",
+      "45.79",
+      "339.14",
+      "57.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "crispy potatoes, creamed spinach, mac & cheese carbonara",
+    "bbox": [
+      "156.97",
+      "60.29",
+      "449.53",
+      "71.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "choice of dessert:",
+    "bbox": [
+      "258.36",
+      "96.29",
+      "348.15",
+      "107.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "blueberry cheesecake, oreo cheesecake",
+    "bbox": [
+      "206.39",
+      "110.79",
+      "400.10",
+      "122.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "salads",
+    "bbox": [
+      "248.78",
+      "149.99",
+      "291.01",
+      "164.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "After Dinner",
+    "bbox": [
+      "444.23",
+      "168.49",
+      "528.51",
+      "183.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Steakhouse Wedge Salad",
+    "bbox": [
+      "165.02",
+      "182.79",
+      "291.01",
+      "194.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "9",
+    "bbox": [
+      "283.75",
+      "197.29",
+      "291.00",
+      "208.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Kings County Chocolate Bourbon",
+    "bbox": [
+      "353.43",
+      "201.29",
+      "528.50",
+      "212.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Classic Caesar salad",
+    "bbox": [
+      "189.59",
+      "211.79",
+      "291.00",
+      "223.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "517.25",
+      "215.79",
+      "528.50",
+      "227.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "9",
+    "bbox": [
+      "283.75",
+      "226.29",
+      "291.00",
+      "237.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Beaverkill Bourbon Cream",
+    "bbox": [
+      "392.96",
+      "230.29",
+      "528.50",
+      "241.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Simple Salad with Dijon Vinaigrette",
+    "bbox": [
+      "110.41",
+      "240.79",
+      "291.01",
+      "252.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13",
+    "bbox": [
+      "518.02",
+      "244.79",
+      "528.50",
+      "256.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "9",
+    "bbox": [
+      "283.75",
+      "255.29",
+      "291.00",
+      "266.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sides",
+    "bbox": [
+      "259.60",
+      "298.99",
+      "291.00",
+      "313.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Whiskey and Spirits",
+    "bbox": [
+      "400.51",
+      "302.99",
+      "528.51",
+      "317.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Crispy Potatoes",
+    "bbox": [
+      "211.77",
+      "331.79",
+      "291.00",
+      "343.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Kings County Straight Bourbon Whiskey",
+    "bbox": [
+      "319.95",
+      "339.79",
+      "528.50",
+      "351.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "9",
+    "bbox": [
+      "283.75",
+      "346.29",
+      "291.00",
+      "357.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "517.25",
+      "354.29",
+      "528.50",
+      "365.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Creamed Spinach",
+    "bbox": [
+      "208.43",
+      "360.79",
+      "291.00",
+      "372.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Kings County Peated Bourbon",
+    "bbox": [
+      "374.16",
+      "368.79",
+      "528.50",
+      "380.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "9",
+    "bbox": [
+      "283.75",
+      "375.29",
+      "291.00",
+      "386.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "513.89",
+      "383.29",
+      "528.50",
+      "394.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Mac & Cheese Carbonara",
+    "bbox": [
+      "164.35",
+      "389.79",
+      "291.00",
+      "401.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Kings County Single Malt Whiskey",
+    "bbox": [
+      "351.91",
+      "397.79",
+      "528.51",
+      "409.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "9",
+    "bbox": [
+      "283.75",
+      "404.29",
+      "291.00",
+      "415.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "517.25",
+      "412.29",
+      "528.50",
+      "423.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Prohibition Bootlegger Gin",
+    "bbox": [
+      "386.25",
+      "426.79",
+      "528.50",
+      "438.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Desserts",
+    "bbox": [
+      "236.07",
+      "433.49",
+      "291.00",
+      "448.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "517.25",
+      "441.29",
+      "528.50",
+      "452.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Prohibition Bootlegger Vodka",
+    "bbox": [
+      "367.89",
+      "455.79",
+      "528.50",
+      "467.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Blueberry Cheesecake",
+    "bbox": [
+      "184.14",
+      "466.29",
+      "291.00",
+      "477.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "517.25",
+      "470.29",
+      "528.50",
+      "481.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "5",
+    "bbox": [
+      "284.03",
+      "480.79",
+      "291.01",
+      "492.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Oreo Cheesecake",
+    "bbox": [
+      "206.09",
+      "495.29",
+      "291.00",
+      "506.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "5",
+    "bbox": [
+      "284.03",
+      "509.79",
+      "291.01",
+      "521.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "NYC STEAKEASY  |  www.andsonnyc.com",
+    "bbox": [
+      "247.13",
+      "625.79",
+      "364.87",
+      "632.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.andsonnyc.com/menus",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "151.84",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/2",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

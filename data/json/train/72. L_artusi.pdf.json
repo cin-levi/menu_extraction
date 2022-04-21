@@ -1,0 +1,6525 @@
+[
+  {
+    "page_number": 1,
+    "text": "VALLE D’AOSTA",
+    "bbox": [
+      "228.05",
+      "84.39",
+      "383.95",
+      "97.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE WINE",
+    "bbox": [
+      "182.77",
+      "127.20",
+      "260.34",
+      "135.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "petite arvine “sopraquota 900,”",
+    "bbox": [
+      "183.11",
+      "163.20",
+      "350.05",
+      "171.20"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "petite arvine “sopraquota 900,”",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "rosset “2017”",
+    "bbox": [
+      "183.26",
+      "174.00",
+      "259.41",
+      "182.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "rosset “2017”",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "“2017",
+            "answer_start": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "110",
+    "bbox": [
+      "410.52",
+      "174.00",
+      "427.12",
+      "182.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "110",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RED WINE",
+    "bbox": [
+      "183.51",
+      "210.00",
+      "245.30",
+      "218.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "“cuvée de mille,” vinirari \"2014\"",
+    "bbox": [
+      "180.43",
+      "238.80",
+      "348.25",
+      "246.80"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "“cuvée de mille,” vinirari",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "\"2014\"",
+            "answer_start": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "110",
+    "bbox": [
+      "410.52",
+      "238.80",
+      "427.12",
+      "246.80"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "110",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "“enfer d'arvier,” danilo thomain 2018",
+    "bbox": [
+      "180.43",
+      "256.80",
+      "377.28",
+      "264.80"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "“enfer d'arvier,” danilo thomain",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "82",
+    "bbox": [
+      "413.44",
+      "256.80",
+      "427.66",
+      "264.80"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "82",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TRENTINO-ALTO ADIGE",
+    "bbox": [
+      "191.17",
+      "85.89",
+      "420.83",
+      "98.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WHITE WINE",
+    "bbox": [
+      "53.52",
+      "130.80",
+      "131.09",
+      "138.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RED WINE",
+    "bbox": [
+      "313.01",
+      "130.80",
+      "376.58",
+      "138.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "lagrein riserva “berger gei,” niedrist 2015",
+    "bbox": [
+      "312.63",
+      "154.00",
+      "518.75",
+      "162.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "lagrein riserva “berger gei,” niedrist",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "112",
+    "bbox": [
+      "541.05",
+      "154.00",
+      "557.15",
+      "162.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "112",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "riesling \"kaiton,\" kuenhof 2018",
+    "bbox": [
+      "53.89",
+      "157.60",
+      "210.36",
+      "165.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "riesling \"kaiton,\" kuenhof",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "82",
+    "bbox": [
+      "285.60",
+      "157.60",
+      "299.40",
+      "165.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "82",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "teroldego “granato,” foradori 2002",
+    "bbox": [
+      "312.59",
+      "172.00",
+      "491.65",
+      "180.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "teroldego “granato,” foradori",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2002",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "270",
+    "bbox": [
+      "536.93",
+      "172.00",
+      "557.63",
+      "180.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "270",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "nosiola “fontanasanta,” foradori 2017",
+    "bbox": [
+      "53.84",
+      "175.60",
+      "253.13",
+      "183.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "nosiola “fontanasanta,” foradori",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "125",
+    "bbox": [
+      "280.81",
+      "175.60",
+      "299.21",
+      "183.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "125",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "teroldego, foradori 2019",
+    "bbox": [
+      "312.59",
+      "190.00",
+      "438.47",
+      "198.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "teroldego, foradori",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "70",
+    "bbox": [
+      "543.83",
+      "190.00",
+      "557.63",
+      "198.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "70",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "chardonnay “löwengang,”",
+    "bbox": [
+      "53.73",
+      "193.60",
+      "184.61",
+      "201.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "chardonnay “löwengang,”",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "alois lageder 2016",
+    "bbox": [
+      "53.57",
+      "204.40",
+      "172.00",
+      "212.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "alois lageder 2016",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "146",
+    "bbox": [
+      "280.59",
+      "204.40",
+      "298.99",
+      "212.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "146",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "pinot nero, dalzocchio 2017",
+    "bbox": [
+      "312.61",
+      "210.00",
+      "458.96",
+      "218.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "pinot nero, dalzocchio",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "94",
+    "bbox": [
+      "542.76",
+      "210.00",
+      "556.99",
+      "218.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "94",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "“réserve della contessa,” manincor 2017   66",
+    "bbox": [
+      "51.18",
+      "224.40",
+      "301.95",
+      "232.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "“réserve della contessa,” manincor",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 35
+          }
+        ],
+        "P": [
+          {
+            "text": "66",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROSE WINE",
+    "bbox": [
+      "54.26",
+      "325.20",
+      "122.81",
+      "333.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "lagrein “kretzer,” nusserhof 2019",
+    "bbox": [
+      "53.88",
+      "352.00",
+      "221.77",
+      "360.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "lagrein “kretzer,” nusserhof",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "78",
+    "bbox": [
+      "284.26",
+      "352.00",
+      "298.06",
+      "360.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "78",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "FRIULI-VENEZIA GIULIA",
+    "bbox": [
+      "183.36",
+      "85.89",
+      "428.65",
+      "98.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WHITE WINE",
+    "bbox": [
+      "53.52",
+      "130.80",
+      "132.87",
+      "138.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RED WINE",
+    "bbox": [
+      "313.01",
+      "130.80",
+      "376.50",
+      "138.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "friulano “pesarin,” meroi 2016",
+    "bbox": [
+      "53.81",
+      "159.60",
+      "214.24",
+      "167.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "friulano “pesarin,” meroi",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "200",
+    "bbox": [
+      "276.53",
+      "159.60",
+      "297.87",
+      "167.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "200",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "refosco dal penduncolo rosso “morus nigra,”",
+    "bbox": [
+      "312.64",
+      "159.60",
+      "552.57",
+      "167.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "refosco dal penduncolo rosso “morus nigra,”",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "vignai da duline 2014",
+    "bbox": [
+      "312.92",
+      "170.40",
+      "429.19",
+      "178.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "vignai da duline 2014",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "155",
+    "bbox": [
+      "537.99",
+      "170.40",
+      "556.96",
+      "178.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "155",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "*vitovska \"solo,\" vodopivec 2014",
+    "bbox": [
+      "51.93",
+      "177.60",
+      "218.87",
+      "185.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "*vitovska \"solo,\" vodopivec",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "150",
+    "bbox": [
+      "275.94",
+      "177.60",
+      "297.87",
+      "185.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "150",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "\"montsclapade,\" dorigo 2011",
+    "bbox": [
+      "310.47",
+      "188.40",
+      "456.21",
+      "196.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "\"montsclapade,\" dorigo",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2011",
+            "answer_start": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "100",
+    "bbox": [
+      "537.65",
+      "188.40",
+      "556.62",
+      "196.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "100",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "*“breg,” gravner 2005",
+    "bbox": [
+      "51.93",
+      "195.60",
+      "176.37",
+      "203.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "*“breg,” gravner",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2005",
+            "answer_start": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "230",
+    "bbox": [
+      "276.53",
+      "195.60",
+      "297.87",
+      "203.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "230",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "colli orientali del friuli rosso,",
+    "bbox": [
+      "312.47",
+      "206.40",
+      "478.20",
+      "214.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "colli orientali del friuli rosso,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "“kaplja,” damijan 2011",
+    "bbox": [
+      "51.18",
+      "213.60",
+      "170.72",
+      "221.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "“kaplja,” damijan",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2011",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "115",
+    "bbox": [
+      "281.60",
+      "213.60",
+      "298.20",
+      "221.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "115",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "miani 2016",
+    "bbox": [
+      "312.58",
+      "217.20",
+      "369.31",
+      "225.20"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "miani 2016",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "260",
+    "bbox": [
+      "535.28",
+      "217.20",
+      "556.62",
+      "225.20"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "260",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "“studio di bianco,” borgo del tiglio 2015  230",
+    "bbox": [
+      "51.18",
+      "231.60",
+      "297.87",
+      "239.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "“studio di bianco,” borgo del tiglio",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 37
+          }
+        ],
+        "P": [
+          {
+            "text": "230",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "\"milleuve,\" nicola manferrari 2019",
+    "bbox": [
+      "51.72",
+      "249.60",
+      "232.28",
+      "257.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "\"milleuve,\" nicola manferrari",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "60",
+    "bbox": [
+      "283.65",
+      "249.60",
+      "297.87",
+      "257.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "*INDICATES SERVED AT CELLAR TEMP",
+    "bbox": [
+      "52.98",
+      "312.30",
+      "233.04",
+      "318.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PIEMONTE",
+    "bbox": [
+      "255.22",
+      "84.39",
+      "356.78",
+      "97.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "WHITE WINE",
+    "bbox": [
+      "53.39",
+      "114.24",
+      "130.97",
+      "122.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo riserva “vignolo,”",
+    "bbox": [
+      "312.71",
+      "114.08",
+      "448.39",
+      "122.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "cavallotto 2012",
+    "bbox": [
+      "312.42",
+      "124.08",
+      "398.05",
+      "132.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "275",
+    "bbox": [
+      "535.50",
+      "124.08",
+      "556.83",
+      "132.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "langhe nascetta, castello di perno 2018",
+    "bbox": [
+      "53.74",
+      "144.24",
+      "260.22",
+      "152.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "80",
+    "bbox": [
+      "283.52",
+      "144.24",
+      "297.74",
+      "152.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo “falletto,” b. giacosa 2012",
+    "bbox": [
+      "312.71",
+      "141.60",
+      "490.91",
+      "149.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "500",
+    "bbox": [
+      "536.16",
+      "141.60",
+      "557.49",
+      "149.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo “brunate,” g. rinaldi 2012",
+    "bbox": [
+      "312.71",
+      "156.10",
+      "486.01",
+      "164.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "550",
+    "bbox": [
+      "535.16",
+      "156.10",
+      "556.49",
+      "164.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "gavi riserva la raia 2017",
+    "bbox": [
+      "53.82",
+      "164.24",
+      "178.29",
+      "172.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "95",
+    "bbox": [
+      "284.14",
+      "164.24",
+      "298.08",
+      "172.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo riserva \"cannubi,\"",
+    "bbox": [
+      "312.71",
+      "174.00",
+      "435.75",
+      "182.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "langhe bianco “bussiador,”",
+    "bbox": [
+      "53.75",
+      "181.20",
+      "194.41",
+      "189.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "serio & battista borgogno 2013",
+    "bbox": [
+      "312.62",
+      "184.80",
+      "463.82",
+      "192.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "150",
+    "bbox": [
+      "539.33",
+      "184.80",
+      "557.50",
+      "192.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "a. conterno 2016",
+    "bbox": [
+      "53.44",
+      "192.00",
+      "142.58",
+      "200.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "180",
+    "bbox": [
+      "279.16",
+      "192.00",
+      "297.75",
+      "200.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo riserva \"de-rieumes,\"",
+    "bbox": [
+      "312.71",
+      "202.80",
+      "450.08",
+      "210.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "langhe bianco “grey,”",
+    "bbox": [
+      "53.75",
+      "212.00",
+      "166.24",
+      "220.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "bovio 2013",
+    "bbox": [
+      "312.79",
+      "213.60",
+      "368.15",
+      "221.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "240",
+    "bbox": [
+      "536.96",
+      "213.60",
+      "557.49",
+      "221.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "réva 2018",
+    "bbox": [
+      "53.89",
+      "222.00",
+      "107.53",
+      "230.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "75",
+    "bbox": [
+      "284.14",
+      "222.00",
+      "298.08",
+      "230.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo “pira,” roagna  2014",
+    "bbox": [
+      "312.71",
+      "231.60",
+      "447.63",
+      "239.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "270",
+    "bbox": [
+      "536.96",
+      "231.60",
+      "557.49",
+      "239.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "“alteni di brassica,”",
+    "bbox": [
+      "51.12",
+      "238.80",
+      "156.36",
+      "246.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "gaja 2007",
+    "bbox": [
+      "53.75",
+      "249.60",
+      "109.06",
+      "257.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "330",
+    "bbox": [
+      "276.84",
+      "249.60",
+      "297.75",
+      "257.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo “mosconi,” e. pira e figli 2014",
+    "bbox": [
+      "312.71",
+      "249.60",
+      "490.25",
+      "257.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "235",
+    "bbox": [
+      "537.29",
+      "249.60",
+      "557.83",
+      "257.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "“alteni di brassica,”",
+    "bbox": [
+      "51.12",
+      "267.60",
+      "156.36",
+      "275.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo \"bricco san pietro,\"",
+    "bbox": [
+      "312.71",
+      "267.60",
+      "444.13",
+      "275.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "gaja 2016",
+    "bbox": [
+      "53.75",
+      "278.40",
+      "106.74",
+      "286.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "420",
+    "bbox": [
+      "276.84",
+      "278.40",
+      "297.75",
+      "286.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ruggeri corsini 2015",
+    "bbox": [
+      "312.64",
+      "278.40",
+      "414.51",
+      "286.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "110",
+    "bbox": [
+      "541.69",
+      "278.40",
+      "557.49",
+      "286.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo “vigna gattera,” bovio  2015",
+    "bbox": [
+      "312.71",
+      "296.40",
+      "482.64",
+      "304.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "165",
+    "bbox": [
+      "539.67",
+      "296.40",
+      "557.84",
+      "304.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo \"bussia, cicala\"",
+    "bbox": [
+      "312.71",
+      "310.90",
+      "432.53",
+      "318.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ROSE WINE",
+    "bbox": [
+      "54.13",
+      "314.40",
+      "122.69",
+      "322.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "conterno a. 2015",
+    "bbox": [
+      "312.42",
+      "320.90",
+      "403.37",
+      "328.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "400",
+    "bbox": [
+      "535.16",
+      "320.90",
+      "556.50",
+      "328.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo \"lazzarito,\" vietti 2015",
+    "bbox": [
+      "312.71",
+      "336.00",
+      "455.05",
+      "344.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "490",
+    "bbox": [
+      "536.96",
+      "336.00",
+      "557.49",
+      "344.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "\"rosabella,\" g.d. vajra 2020",
+    "bbox": [
+      "51.59",
+      "346.80",
+      "186.38",
+      "354.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "50",
+    "bbox": [
+      "284.92",
+      "346.80",
+      "298.74",
+      "354.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo “cerretta,” conterno g.  2015",
+    "bbox": [
+      "312.71",
+      "354.00",
+      "491.57",
+      "362.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "650",
+    "bbox": [
+      "536.96",
+      "354.00",
+      "557.49",
+      "362.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo \"bricco delle viole,\" g.d. vajra 2015",
+    "bbox": [
+      "312.71",
+      "372.00",
+      "517.98",
+      "380.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "190",
+    "bbox": [
+      "539.32",
+      "372.00",
+      "557.49",
+      "380.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RED WINE",
+    "bbox": [
+      "54.13",
+      "380.30",
+      "115.93",
+      "388.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo \"bussia,\" conterno a. 2016",
+    "bbox": [
+      "312.71",
+      "386.50",
+      "487.04",
+      "394.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "225",
+    "bbox": [
+      "535.49",
+      "386.50",
+      "556.83",
+      "394.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo \"castiglione,\" vietti 2016",
+    "bbox": [
+      "312.71",
+      "404.40",
+      "466.54",
+      "412.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "160",
+    "bbox": [
+      "539.33",
+      "404.40",
+      "557.49",
+      "412.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "langhe freisa, g. rinaldi 2016",
+    "bbox": [
+      "53.74",
+      "414.80",
+      "205.71",
+      "422.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "170",
+    "bbox": [
+      "278.78",
+      "414.80",
+      "297.74",
+      "422.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "“torbido!,” cascnia ebreo 2004",
+    "bbox": [
+      "309.81",
+      "418.90",
+      "472.61",
+      "426.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "300",
+    "bbox": [
+      "535.16",
+      "418.90",
+      "556.49",
+      "426.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "dogliani, san fereolo 2011",
+    "bbox": [
+      "53.71",
+      "429.30",
+      "190.14",
+      "437.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "85",
+    "bbox": [
+      "283.86",
+      "429.30",
+      "298.08",
+      "437.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barbera d'alba superiore,",
+    "bbox": [
+      "53.96",
+      "443.80",
+      "188.74",
+      "451.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "segni di langa 2018",
+    "bbox": [
+      "53.87",
+      "453.80",
+      "154.88",
+      "461.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "88",
+    "bbox": [
+      "283.71",
+      "453.80",
+      "297.93",
+      "461.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "langhe \"mores,\" g.b. burlotto 2017",
+    "bbox": [
+      "53.74",
+      "468.30",
+      "232.37",
+      "476.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "80",
+    "bbox": [
+      "283.52",
+      "468.30",
+      "297.74",
+      "476.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "langhe nebbiolo \"il favot,\"",
+    "bbox": [
+      "53.74",
+      "483.60",
+      "193.25",
+      "491.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "conterno a. 2018",
+    "bbox": [
+      "53.67",
+      "494.40",
+      "147.58",
+      "502.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "135",
+    "bbox": [
+      "280.11",
+      "494.40",
+      "299.08",
+      "502.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "langhe nebbiolo, oddero 2018",
+    "bbox": [
+      "53.74",
+      "512.40",
+      "212.82",
+      "520.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "72",
+    "bbox": [
+      "285.06",
+      "512.40",
+      "299.29",
+      "520.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barbaresco “martinenga, gaiun,”",
+    "bbox": [
+      "53.96",
+      "530.40",
+      "223.41",
+      "538.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "marchesi di gresy 1998",
+    "bbox": [
+      "53.70",
+      "541.20",
+      "172.65",
+      "549.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "450",
+    "bbox": [
+      "277.41",
+      "541.20",
+      "298.74",
+      "549.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barbaresco, cascina bruciata 2014",
+    "bbox": [
+      "53.96",
+      "559.20",
+      "233.35",
+      "567.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "92",
+    "bbox": [
+      "285.06",
+      "559.20",
+      "299.29",
+      "567.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barbaresco \"casot,\" g. nada 2017",
+    "bbox": [
+      "53.96",
+      "577.20",
+      "223.99",
+      "585.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "100",
+    "bbox": [
+      "279.78",
+      "577.20",
+      "298.74",
+      "585.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barbaresco \"vallegrande,\"",
+    "bbox": [
+      "53.96",
+      "595.20",
+      "191.69",
+      "603.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ca' del baio 2017",
+    "bbox": [
+      "53.67",
+      "606.00",
+      "142.54",
+      "614.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "115",
+    "bbox": [
+      "282.48",
+      "606.00",
+      "299.08",
+      "614.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo, g. conterno 1964",
+    "bbox": [
+      "53.96",
+      "624.00",
+      "186.54",
+      "632.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "1400",
+    "bbox": [
+      "272.66",
+      "624.00",
+      "298.74",
+      "632.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo riserva, borgogno 1967",
+    "bbox": [
+      "53.96",
+      "642.00",
+      "215.72",
+      "650.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "725",
+    "bbox": [
+      "277.74",
+      "642.00",
+      "299.08",
+      "650.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo riserva \"monfortino,\"",
+    "bbox": [
+      "53.96",
+      "656.50",
+      "206.65",
+      "664.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "conterno g. 1990",
+    "bbox": [
+      "53.67",
+      "666.50",
+      "145.07",
+      "674.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4000",
+    "bbox": [
+      "269.30",
+      "666.50",
+      "297.75",
+      "674.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo, viberti 1994",
+    "bbox": [
+      "53.96",
+      "681.00",
+      "160.47",
+      "689.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "270",
+    "bbox": [
+      "276.41",
+      "681.00",
+      "297.74",
+      "689.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo “monprivato,”",
+    "bbox": [
+      "53.96",
+      "695.50",
+      "168.61",
+      "703.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "masacrello g. 2003",
+    "bbox": [
+      "53.70",
+      "705.50",
+      "156.21",
+      "713.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "590",
+    "bbox": [
+      "276.41",
+      "705.50",
+      "297.74",
+      "713.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "barolo riserva “bussia, vigna colonnello,”",
+    "bbox": [
+      "53.96",
+      "720.00",
+      "275.99",
+      "728.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "prunotto 2010",
+    "bbox": [
+      "53.91",
+      "730.00",
+      "132.43",
+      "738.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "525",
+    "bbox": [
+      "276.75",
+      "730.00",
+      "298.08",
+      "738.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "LOMBARDIA",
+    "bbox": [
+      "245.47",
+      "84.39",
+      "366.53",
+      "97.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RED WINE",
+    "bbox": [
+      "183.51",
+      "125.78",
+      "245.30",
+      "133.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "valtellina superiore riserva, valgella,",
+    "bbox": [
+      "183.58",
+      "159.60",
+      "379.10",
+      "167.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "balgera 1983",
+    "bbox": [
+      "183.42",
+      "170.40",
+      "254.23",
+      "178.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "250",
+    "bbox": [
+      "405.78",
+      "170.40",
+      "427.12",
+      "178.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "valtellina superiore riserva, sassella,",
+    "bbox": [
+      "183.58",
+      "192.00",
+      "379.83",
+      "200.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "“rocce rosse,” ar.pe.pe. 2002",
+    "bbox": [
+      "180.43",
+      "202.80",
+      "335.67",
+      "210.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "240",
+    "bbox": [
+      "405.78",
+      "202.80",
+      "427.12",
+      "210.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "sforzato di valtellina \"albareda,”",
+    "bbox": [
+      "183.39",
+      "224.40",
+      "358.31",
+      "232.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "mamete prevostini 2010",
+    "bbox": [
+      "183.08",
+      "235.20",
+      "304.40",
+      "243.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "260",
+    "bbox": [
+      "405.78",
+      "235.20",
+      "427.12",
+      "243.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "VENETO",
+    "bbox": [
+      "264.99",
+      "84.39",
+      "347.01",
+      "97.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "W HITE WINE",
+    "bbox": [
+      "182.02",
+      "121.64",
+      "261.37",
+      "130.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "soave classico “monte grande,”",
+    "bbox": [
+      "182.64",
+      "147.14",
+      "350.60",
+      "155.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "prà 2018",
+    "bbox": [
+      "182.53",
+      "157.14",
+      "231.57",
+      "165.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "82",
+    "bbox": [
+      "412.69",
+      "157.14",
+      "426.91",
+      "165.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RED WINE",
+    "bbox": [
+      "182.76",
+      "188.34",
+      "244.55",
+      "196.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "valpolicella superiore \"campo prognài,\"",
+    "bbox": [
+      "182.83",
+      "213.84",
+      "388.85",
+      "221.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "latium 2014",
+    "bbox": [
+      "182.57",
+      "224.84",
+      "245.67",
+      "232.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "62",
+    "bbox": [
+      "412.69",
+      "224.84",
+      "426.91",
+      "232.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "amarone della valpolicella classico,",
+    "bbox": [
+      "182.26",
+      "239.34",
+      "372.74",
+      "247.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ca' del monte 2010",
+    "bbox": [
+      "182.29",
+      "249.34",
+      "280.35",
+      "257.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "120",
+    "bbox": [
+      "407.40",
+      "249.34",
+      "426.37",
+      "257.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "LIGURIA",
+    "bbox": [
+      "264.06",
+      "84.39",
+      "347.94",
+      "97.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "WHITE WINE",
+    "bbox": [
+      "182.77",
+      "125.26",
+      "260.34",
+      "133.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "pigato “albium,” poggio dei gorlieri 2013  100",
+    "bbox": [
+      "183.11",
+      "152.40",
+      "427.12",
+      "160.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "vermentino “vigneto isasco,”",
+    "bbox": [
+      "183.58",
+      "170.40",
+      "335.40",
+      "178.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "punta crena 2018",
+    "bbox": [
+      "183.28",
+      "181.20",
+      "278.98",
+      "189.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "80",
+    "bbox": [
+      "412.90",
+      "181.20",
+      "427.12",
+      "189.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "pigato “russeghine,” bruna 2019",
+    "bbox": [
+      "183.11",
+      "199.20",
+      "355.09",
+      "207.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "72",
+    "bbox": [
+      "413.44",
+      "199.20",
+      "427.66",
+      "207.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ROSE WINE",
+    "bbox": [
+      "183.51",
+      "235.20",
+      "252.06",
+      "243.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ormeasco “sciac-trà,” guglierame 2018",
+    "bbox": [
+      "182.96",
+      "267.60",
+      "388.11",
+      "275.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "95",
+    "bbox": [
+      "413.23",
+      "267.60",
+      "427.46",
+      "275.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RED WINE",
+    "bbox": [
+      "183.51",
+      "303.60",
+      "247.08",
+      "311.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "granaccia “sciurbì,” cascina praié 2016",
+    "bbox": [
+      "183.19",
+      "328.90",
+      "385.99",
+      "336.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "80",
+    "bbox": [
+      "412.90",
+      "328.90",
+      "427.12",
+      "336.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "“pulin,” bruna 2016",
+    "bbox": [
+      "180.43",
+      "343.40",
+      "285.32",
+      "351.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "108",
+    "bbox": [
+      "408.33",
+      "343.40",
+      "427.30",
+      "351.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "EMILIA-ROMAGNA",
+    "bbox": [
+      "216.47",
+      "84.39",
+      "395.53",
+      "97.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "WHITE WINE",
+    "bbox": [
+      "182.77",
+      "129.26",
+      "260.34",
+      "137.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "forlì bianco \"bro',\" noelia ricci 2018",
+    "bbox": [
+      "183.06",
+      "163.76",
+      "372.35",
+      "171.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "64",
+    "bbox": [
+      "413.26",
+      "163.76",
+      "427.49",
+      "171.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "RED WINE",
+    "bbox": [
+      "183.51",
+      "204.76",
+      "247.00",
+      "212.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "sangiovese predappio,",
+    "bbox": [
+      "183.39",
+      "239.26",
+      "299.52",
+      "247.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "chiara condello 2018",
+    "bbox": [
+      "183.04",
+      "249.26",
+      "295.91",
+      "257.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "56",
+    "bbox": [
+      "413.01",
+      "249.26",
+      "427.23",
+      "257.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "TOSCANA",
+    "bbox": [
+      "258.39",
+      "84.39",
+      "353.61",
+      "97.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "WHITE WINE",
+    "bbox": [
+      "53.52",
+      "124.84",
+      "131.09",
+      "132.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "brunello di montalcino,",
+    "bbox": [
+      "312.84",
+      "124.68",
+      "437.22",
+      "132.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "le ragnaie 2016",
+    "bbox": [
+      "312.82",
+      "134.68",
+      "393.88",
+      "142.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "200",
+    "bbox": [
+      "535.28",
+      "134.68",
+      "556.62",
+      "142.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "bolgheri rosso superiore “sapaio,”",
+    "bbox": [
+      "312.84",
+      "152.40",
+      "496.79",
+      "160.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "chardonnay “i sistri,” fèlsina 2018",
+    "bbox": [
+      "53.72",
+      "156.00",
+      "231.54",
+      "164.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "76",
+    "bbox": [
+      "283.76",
+      "156.00",
+      "297.98",
+      "164.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "sapaio 2008",
+    "bbox": [
+      "312.74",
+      "163.20",
+      "378.51",
+      "171.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "285",
+    "bbox": [
+      "535.62",
+      "163.20",
+      "556.96",
+      "171.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "“rosso di toscana,” prunatelli 1991",
+    "bbox": [
+      "309.93",
+      "181.20",
+      "493.91",
+      "189.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "180",
+    "bbox": [
+      "537.65",
+      "181.20",
+      "556.62",
+      "189.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "ROSE WINE",
+    "bbox": [
+      "54.26",
+      "194.10",
+      "122.81",
+      "202.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "“terricci,” lanciola 1997",
+    "bbox": [
+      "309.93",
+      "199.20",
+      "440.44",
+      "207.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "220",
+    "bbox": [
+      "535.28",
+      "199.20",
+      "556.62",
+      "207.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "toscana rosato, tenuta di carleone 2020",
+    "bbox": [
+      "53.83",
+      "218.10",
+      "266.23",
+      "226.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "68“poggio ai chiari,”",
+    "bbox": [
+      "283.83",
+      "217.20",
+      "404.59",
+      "226.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "colle santa mustiola 2008",
+    "bbox": [
+      "312.54",
+      "228.00",
+      "450.29",
+      "236.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "180",
+    "bbox": [
+      "537.65",
+      "228.00",
+      "556.62",
+      "236.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "“sono,” montenidoli 2012",
+    "bbox": [
+      "309.93",
+      "246.00",
+      "443.09",
+      "254.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "150",
+    "bbox": [
+      "537.65",
+      "246.00",
+      "556.62",
+      "254.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "RED WINE",
+    "bbox": [
+      "54.26",
+      "254.10",
+      "117.83",
+      "262.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "“ampeleia,” ampeleia 2017",
+    "bbox": [
+      "309.93",
+      "264.00",
+      "442.95",
+      "272.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "105",
+    "bbox": [
+      "537.99",
+      "264.00",
+      "556.95",
+      "272.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "“le trame,” podere le boncie 2016",
+    "bbox": [
+      "309.93",
+      "282.00",
+      "484.27",
+      "290.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "125",
+    "bbox": [
+      "537.99",
+      "282.00",
+      "556.95",
+      "290.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "carmignano “il sasso,” piaggia 2018",
+    "bbox": [
+      "53.72",
+      "286.10",
+      "236.95",
+      "294.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "80",
+    "bbox": [
+      "283.65",
+      "286.10",
+      "297.87",
+      "294.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "“rosso di toscana,” montevertine 2016",
+    "bbox": [
+      "309.93",
+      "300.00",
+      "510.35",
+      "308.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "166",
+    "bbox": [
+      "537.77",
+      "300.00",
+      "556.74",
+      "308.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "vino nobile di montepulciano “salco evoluzione,”",
+    "bbox": [
+      "54.32",
+      "306.10",
+      "301.74",
+      "314.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "salcheto 2006",
+    "bbox": [
+      "53.99",
+      "316.10",
+      "131.28",
+      "324.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "210“choltempo, fiorello,”",
+    "bbox": [
+      "278.90",
+      "316.10",
+      "430.48",
+      "326.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "stella di campalto nv",
+    "bbox": [
+      "312.74",
+      "328.80",
+      "420.87",
+      "336.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "200",
+    "bbox": [
+      "535.29",
+      "328.80",
+      "556.62",
+      "336.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "chianti classico riserva, pagliarese 2017",
+    "bbox": [
+      "53.73",
+      "332.40",
+      "260.36",
+      "340.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "82",
+    "bbox": [
+      "284.18",
+      "332.40",
+      "298.41",
+      "340.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "“cerbaiona rosso,” cerbaiona nv",
+    "bbox": [
+      "309.93",
+      "346.80",
+      "477.46",
+      "354.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "60",
+    "bbox": [
+      "542.39",
+      "346.80",
+      "556.62",
+      "354.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "chianti classico, fontodi 2018",
+    "bbox": [
+      "53.73",
+      "350.40",
+      "207.53",
+      "358.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "150",
+    "bbox": [
+      "278.90",
+      "350.40",
+      "297.87",
+      "358.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "rosso di montalcino,",
+    "bbox": [
+      "53.89",
+      "366.34",
+      "166.39",
+      "374.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "stella di campalto 2014",
+    "bbox": [
+      "53.99",
+      "376.34",
+      "174.11",
+      "384.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "240",
+    "bbox": [
+      "276.53",
+      "376.34",
+      "297.87",
+      "384.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "rosso di montalcino,",
+    "bbox": [
+      "53.89",
+      "392.28",
+      "166.39",
+      "400.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "fonterenza 2018",
+    "bbox": [
+      "54.09",
+      "402.28",
+      "139.96",
+      "410.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "110",
+    "bbox": [
+      "281.27",
+      "402.28",
+      "297.87",
+      "410.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "rosso di montalcino,",
+    "bbox": [
+      "53.89",
+      "418.22",
+      "166.39",
+      "426.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "albatreti 2018",
+    "bbox": [
+      "53.57",
+      "428.22",
+      "129.42",
+      "436.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "76",
+    "bbox": [
+      "283.76",
+      "428.22",
+      "297.98",
+      "436.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "brunello di montalcino riserva,",
+    "bbox": [
+      "54.17",
+      "447.60",
+      "220.18",
+      "455.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "biondi santi 1970",
+    "bbox": [
+      "54.16",
+      "458.40",
+      "143.06",
+      "466.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "1900",
+    "bbox": [
+      "271.79",
+      "458.40",
+      "297.87",
+      "466.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "brunello di montalcino,",
+    "bbox": [
+      "54.17",
+      "474.34",
+      "181.57",
+      "482.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "biondi santi 1975",
+    "bbox": [
+      "54.16",
+      "484.34",
+      "143.06",
+      "492.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "750",
+    "bbox": [
+      "276.53",
+      "484.34",
+      "297.87",
+      "492.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "brunello di montalcino,",
+    "bbox": [
+      "54.09",
+      "500.28",
+      "178.47",
+      "508.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "canalicchio di sopra 1998",
+    "bbox": [
+      "53.80",
+      "510.28",
+      "185.37",
+      "518.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "480",
+    "bbox": [
+      "276.53",
+      "510.28",
+      "297.87",
+      "518.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "brunello di montalcino riserva,",
+    "bbox": [
+      "54.17",
+      "526.22",
+      "220.18",
+      "534.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "biondi santi 1998",
+    "bbox": [
+      "54.16",
+      "536.22",
+      "143.06",
+      "544.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "1000",
+    "bbox": [
+      "271.79",
+      "536.22",
+      "297.87",
+      "544.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "brunello di montalcino,",
+    "bbox": [
+      "54.17",
+      "552.16",
+      "181.57",
+      "560.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "casanuova delle cerbaie 2009",
+    "bbox": [
+      "53.80",
+      "562.16",
+      "206.71",
+      "570.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "155",
+    "bbox": [
+      "279.24",
+      "562.16",
+      "298.21",
+      "570.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "brunello di montalcino riserva \"gli angeli,\"",
+    "bbox": [
+      "54.09",
+      "578.10",
+      "273.53",
+      "586.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "la gerla 2013",
+    "bbox": [
+      "54.07",
+      "588.10",
+      "125.12",
+      "596.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "250",
+    "bbox": [
+      "276.54",
+      "588.10",
+      "297.87",
+      "596.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "brunello di montalcino,",
+    "bbox": [
+      "54.09",
+      "604.04",
+      "178.47",
+      "612.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "cerbaiona 2013",
+    "bbox": [
+      "53.80",
+      "614.04",
+      "134.14",
+      "622.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "450",
+    "bbox": [
+      "276.53",
+      "614.04",
+      "297.87",
+      "622.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "brunello di montalcino riserva,",
+    "bbox": [
+      "54.09",
+      "629.98",
+      "217.09",
+      "637.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "altesino 2015",
+    "bbox": [
+      "53.57",
+      "639.98",
+      "125.63",
+      "647.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "300",
+    "bbox": [
+      "276.53",
+      "639.98",
+      "297.87",
+      "647.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "brunello di montalcino,",
+    "bbox": [
+      "54.09",
+      "655.92",
+      "178.47",
+      "663.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "poggio di sotto 2015",
+    "bbox": [
+      "54.03",
+      "665.92",
+      "159.77",
+      "673.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "600",
+    "bbox": [
+      "276.53",
+      "665.92",
+      "297.87",
+      "673.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "brunello di montalcino,",
+    "bbox": [
+      "54.09",
+      "681.86",
+      "178.47",
+      "689.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "il colle 2015",
+    "bbox": [
+      "53.81",
+      "691.86",
+      "121.95",
+      "699.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "140",
+    "bbox": [
+      "278.91",
+      "691.86",
+      "297.87",
+      "699.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "brunello di montalcino,",
+    "bbox": [
+      "54.09",
+      "707.80",
+      "178.47",
+      "715.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "casanova di neri 2016",
+    "bbox": [
+      "53.80",
+      "717.80",
+      "165.19",
+      "725.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "175",
+    "bbox": [
+      "279.24",
+      "717.80",
+      "298.21",
+      "725.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "LE MARCHE",
+    "bbox": [
+      "248.76",
+      "84.39",
+      "363.24",
+      "97.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "WHITE WINE",
+    "bbox": [
+      "182.77",
+      "125.26",
+      "260.34",
+      "133.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "verdicchio dei castelli di jesi classico riserva",
+    "bbox": [
+      "183.58",
+      "149.76",
+      "419.83",
+      "157.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "“selva di sotto,” la staffa  2015",
+    "bbox": [
+      "180.43",
+      "159.76",
+      "346.50",
+      "167.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "220",
+    "bbox": [
+      "405.78",
+      "159.76",
+      "427.12",
+      "167.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "verdicchio dei castelli di jesi classico,",
+    "bbox": [
+      "183.58",
+      "174.26",
+      "386.50",
+      "182.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "la staffa  2019",
+    "bbox": [
+      "183.32",
+      "184.26",
+      "262.59",
+      "192.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "64",
+    "bbox": [
+      "413.26",
+      "184.26",
+      "427.49",
+      "192.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "verdicchio dei castelli di jesi classico,",
+    "bbox": [
+      "183.58",
+      "198.76",
+      "386.50",
+      "206.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "andrea felici 2019",
+    "bbox": [
+      "182.81",
+      "208.76",
+      "279.54",
+      "216.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "52",
+    "bbox": [
+      "413.44",
+      "208.76",
+      "427.66",
+      "216.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "RED WINE",
+    "bbox": [
+      "183.51",
+      "249.76",
+      "247.08",
+      "257.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "rosso conero riserva “sassi neri,”",
+    "bbox": [
+      "183.14",
+      "274.26",
+      "360.87",
+      "282.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "le terrazze  2016",
+    "bbox": [
+      "183.32",
+      "284.26",
+      "272.94",
+      "292.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "90",
+    "bbox": [
+      "412.90",
+      "284.26",
+      "427.12",
+      "292.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "UMBRIA",
+    "bbox": [
+      "267.54",
+      "84.63",
+      "348.78",
+      "97.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "WHITE WINE",
+    "bbox": [
+      "182.77",
+      "134.40",
+      "264.50",
+      "142.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "*trebbiano spoletino “lapideus,”",
+    "bbox": [
+      "181.18",
+      "159.90",
+      "351.53",
+      "167.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "paolo bea 2015",
+    "bbox": [
+      "183.28",
+      "170.90",
+      "263.57",
+      "178.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "136",
+    "bbox": [
+      "408.27",
+      "170.90",
+      "427.24",
+      "178.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "orvieto superiore “luigi e giovanna,”",
+    "bbox": [
+      "182.96",
+      "185.40",
+      "375.21",
+      "193.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "barberani 2015",
+    "bbox": [
+      "183.42",
+      "195.40",
+      "264.90",
+      "203.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "165",
+    "bbox": [
+      "408.49",
+      "195.40",
+      "427.46",
+      "203.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "*INDICATES SERVED AT CELLAR TEMP",
+    "bbox": [
+      "182.23",
+      "236.70",
+      "362.29",
+      "242.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "RED WINE",
+    "bbox": [
+      "183.51",
+      "271.20",
+      "245.30",
+      "279.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "montefalco sagrantino \"cerrete,\"",
+    "bbox": [
+      "183.09",
+      "300.20",
+      "357.99",
+      "308.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "paolo bea 2011",
+    "bbox": [
+      "183.28",
+      "310.20",
+      "261.20",
+      "318.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "380",
+    "bbox": [
+      "405.78",
+      "310.20",
+      "427.12",
+      "318.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "montefalco sangrantino \"pagliaro,\"",
+    "bbox": [
+      "183.09",
+      "324.70",
+      "368.06",
+      "332.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "paolo bea 2015",
+    "bbox": [
+      "183.28",
+      "335.70",
+      "263.57",
+      "343.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "240",
+    "bbox": [
+      "405.78",
+      "335.70",
+      "427.12",
+      "343.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "montefalco sangrantino,",
+    "bbox": [
+      "183.09",
+      "350.20",
+      "315.20",
+      "358.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "fongoli 2013",
+    "bbox": [
+      "183.34",
+      "360.20",
+      "252.98",
+      "368.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "100",
+    "bbox": [
+      "408.15",
+      "360.20",
+      "427.12",
+      "368.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "“polvento,”barberani 2010",
+    "bbox": [
+      "180.43",
+      "374.70",
+      "321.32",
+      "382.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "170",
+    "bbox": [
+      "408.15",
+      "374.70",
+      "427.12",
+      "382.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "ABRUZZO",
+    "bbox": [
+      "259.72",
+      "84.39",
+      "352.28",
+      "97.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "WHITE WINE",
+    "bbox": [
+      "182.77",
+      "123.60",
+      "260.34",
+      "131.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "trebbiano d’abruzzo,",
+    "bbox": [
+      "183.08",
+      "148.10",
+      "292.83",
+      "156.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "valentini 2010",
+    "bbox": [
+      "183.42",
+      "158.10",
+      "259.71",
+      "166.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "325",
+    "bbox": [
+      "406.13",
+      "158.10",
+      "427.46",
+      "166.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "trebbiano d’abruzzo,",
+    "bbox": [
+      "183.08",
+      "172.60",
+      "292.83",
+      "180.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "valentini 2012",
+    "bbox": [
+      "183.42",
+      "182.60",
+      "259.71",
+      "190.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "300",
+    "bbox": [
+      "405.78",
+      "182.60",
+      "427.12",
+      "190.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "trebbiano d’abruzzo,",
+    "bbox": [
+      "183.08",
+      "197.10",
+      "292.83",
+      "205.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "emidio pepe 2011",
+    "bbox": [
+      "183.34",
+      "207.10",
+      "268.96",
+      "215.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "260",
+    "bbox": [
+      "405.78",
+      "207.10",
+      "427.12",
+      "215.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "trebbiano d’abruzzo,",
+    "bbox": [
+      "183.08",
+      "221.60",
+      "292.83",
+      "229.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "emidio pepe 2013",
+    "bbox": [
+      "183.34",
+      "231.60",
+      "271.33",
+      "239.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "250",
+    "bbox": [
+      "405.78",
+      "231.60",
+      "427.12",
+      "239.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "pecorino, emidio pepe 2014",
+    "bbox": [
+      "183.11",
+      "247.10",
+      "322.79",
+      "255.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "275",
+    "bbox": [
+      "406.12",
+      "247.10",
+      "427.46",
+      "255.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "ROSE WINE",
+    "bbox": [
+      "183.51",
+      "285.60",
+      "252.06",
+      "293.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "cerasuolo d’abruzzo, valentini 2018",
+    "bbox": [
+      "182.97",
+      "310.10",
+      "368.86",
+      "318.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "300",
+    "bbox": [
+      "405.78",
+      "310.10",
+      "427.12",
+      "318.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "RED WINE",
+    "bbox": [
+      "183.51",
+      "346.60",
+      "245.30",
+      "354.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "montepulciano d’abruzzo,",
+    "bbox": [
+      "183.09",
+      "375.60",
+      "317.72",
+      "383.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "emidio pepe 1974",
+    "bbox": [
+      "183.34",
+      "385.60",
+      "271.33",
+      "393.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "825",
+    "bbox": [
+      "406.12",
+      "385.60",
+      "427.46",
+      "393.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "montepulciano d’abruzzo,",
+    "bbox": [
+      "183.09",
+      "400.10",
+      "317.72",
+      "408.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "emidio pepe 1980",
+    "bbox": [
+      "183.34",
+      "410.10",
+      "271.33",
+      "418.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "600",
+    "bbox": [
+      "405.78",
+      "410.10",
+      "427.12",
+      "418.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "montepulciano d’abruzzo,",
+    "bbox": [
+      "183.09",
+      "424.60",
+      "317.72",
+      "432.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "emidio pepe 2000",
+    "bbox": [
+      "183.34",
+      "434.60",
+      "273.70",
+      "442.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "525",
+    "bbox": [
+      "406.12",
+      "434.60",
+      "427.46",
+      "442.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "montepulciano d’abruzzo,",
+    "bbox": [
+      "183.09",
+      "449.10",
+      "317.72",
+      "457.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "emidio pepe 2010",
+    "bbox": [
+      "183.34",
+      "459.10",
+      "271.33",
+      "467.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "400",
+    "bbox": [
+      "405.78",
+      "459.10",
+      "427.12",
+      "467.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "montepulciano d’abruzzo,",
+    "bbox": [
+      "183.09",
+      "473.60",
+      "317.72",
+      "481.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "valentini 2006",
+    "bbox": [
+      "183.42",
+      "483.60",
+      "262.08",
+      "491.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "750",
+    "bbox": [
+      "405.78",
+      "483.60",
+      "427.12",
+      "491.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "montepulciano d’abruzzo,",
+    "bbox": [
+      "183.09",
+      "498.10",
+      "317.72",
+      "506.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "amorotti 2016",
+    "bbox": [
+      "182.81",
+      "508.10",
+      "258.36",
+      "516.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "110",
+    "bbox": [
+      "410.52",
+      "508.10",
+      "427.12",
+      "516.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "montepulciano d’abruzzo \"ode,\"",
+    "bbox": [
+      "183.09",
+      "522.60",
+      "346.29",
+      "530.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "cantinarte 2018",
+    "bbox": [
+      "183.04",
+      "532.60",
+      "268.52",
+      "540.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "64",
+    "bbox": [
+      "413.26",
+      "532.60",
+      "427.48",
+      "540.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "LAZIO",
+    "bbox": [
+      "273.51",
+      "84.39",
+      "338.50",
+      "97.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "WHITE WINE",
+    "bbox": [
+      "182.77",
+      "127.20",
+      "260.34",
+      "135.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "lazio bianco \"alberico,” alberico 2015",
+    "bbox": [
+      "183.12",
+      "156.20",
+      "379.39",
+      "164.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "140",
+    "bbox": [
+      "408.15",
+      "156.20",
+      "427.12",
+      "164.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "*lazio bianco, ribelà 2017",
+    "bbox": [
+      "181.18",
+      "170.70",
+      "314.21",
+      "178.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "85",
+    "bbox": [
+      "413.23",
+      "170.70",
+      "427.46",
+      "178.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "*\" coenobium ruscum,\"",
+    "bbox": [
+      "181.18",
+      "185.20",
+      "297.88",
+      "193.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "monastero suore cistercensi 2018",
+    "bbox": [
+      "183.08",
+      "195.20",
+      "360.54",
+      "203.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "70",
+    "bbox": [
+      "412.90",
+      "195.20",
+      "427.12",
+      "203.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "*\"zero 8,\" marini georgea \"2020\"",
+    "bbox": [
+      "181.18",
+      "211.70",
+      "346.90",
+      "219.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "60",
+    "bbox": [
+      "412.90",
+      "211.70",
+      "427.12",
+      "219.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "*INDICATES SERVED AT CELLAR TEMP",
+    "bbox": [
+      "182.23",
+      "240.30",
+      "362.29",
+      "246.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "RED WINE",
+    "bbox": [
+      "183.51",
+      "274.80",
+      "245.30",
+      "282.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "“fiorano rosso,” fiorano 1988",
+    "bbox": [
+      "180.43",
+      "299.30",
+      "339.17",
+      "307.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "400",
+    "bbox": [
+      "405.78",
+      "299.30",
+      "427.12",
+      "307.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "“fiorano rosso,” fiorano 1990",
+    "bbox": [
+      "180.43",
+      "313.80",
+      "339.17",
+      "321.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "400",
+    "bbox": [
+      "405.78",
+      "313.80",
+      "427.12",
+      "321.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "“fiorano rosso,” fiorano 1993",
+    "bbox": [
+      "180.43",
+      "328.30",
+      "339.17",
+      "336.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "400",
+    "bbox": [
+      "405.78",
+      "328.30",
+      "427.12",
+      "336.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "MOLISE",
+    "bbox": [
+      "269.95",
+      "84.39",
+      "342.06",
+      "97.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "RED WINE",
+    "bbox": [
+      "183.51",
+      "122.15",
+      "245.30",
+      "130.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "“ramitello,” di majo norante 2014",
+    "bbox": [
+      "180.43",
+      "146.65",
+      "359.36",
+      "154.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "55",
+    "bbox": [
+      "414.23",
+      "146.65",
+      "428.45",
+      "154.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "CAMPANIA",
+    "bbox": [
+      "251.18",
+      "84.39",
+      "360.82",
+      "97.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "WHITE WINE",
+    "bbox": [
+      "182.77",
+      "124.26",
+      "260.34",
+      "132.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "falanghina \"campi flegrei,\"",
+    "bbox": [
+      "183.06",
+      "152.40",
+      "318.93",
+      "160.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "contrada salandra 2017",
+    "bbox": [
+      "183.04",
+      "163.20",
+      "312.21",
+      "171.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "60",
+    "bbox": [
+      "412.90",
+      "163.20",
+      "427.12",
+      "171.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "fiano “antece,”",
+    "bbox": [
+      "182.64",
+      "181.20",
+      "265.27",
+      "189.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "de conciliis 2009",
+    "bbox": [
+      "183.41",
+      "192.00",
+      "278.79",
+      "200.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "130",
+    "bbox": [
+      "408.15",
+      "192.00",
+      "427.12",
+      "200.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "fiano “exultet,”",
+    "bbox": [
+      "182.64",
+      "210.00",
+      "268.68",
+      "218.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "quintodecimo 2018",
+    "bbox": [
+      "183.02",
+      "220.80",
+      "282.11",
+      "228.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "115",
+    "bbox": [
+      "410.86",
+      "220.80",
+      "427.46",
+      "228.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "costa d'amalfi bianco, marisa cuomo 2018",
+    "bbox": [
+      "182.97",
+      "238.80",
+      "395.20",
+      "246.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "80",
+    "bbox": [
+      "412.90",
+      "238.80",
+      "427.12",
+      "246.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "ROSE WINE",
+    "bbox": [
+      "183.51",
+      "289.40",
+      "252.06",
+      "297.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "campania rosato, monte di grazia 2020",
+    "bbox": [
+      "182.97",
+      "313.40",
+      "380.70",
+      "321.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "60",
+    "bbox": [
+      "412.90",
+      "313.40",
+      "427.12",
+      "321.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "RED WINE",
+    "bbox": [
+      "183.51",
+      "361.40",
+      "245.30",
+      "369.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "irpinia aglianico,",
+    "bbox": [
+      "183.19",
+      "391.00",
+      "274.29",
+      "399.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "cantine lonardo 2016",
+    "bbox": [
+      "183.04",
+      "401.00",
+      "296.51",
+      "409.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "64",
+    "bbox": [
+      "413.26",
+      "401.00",
+      "427.48",
+      "409.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "pallagrello nero / casavecchia “settimo,”",
+    "bbox": [
+      "183.11",
+      "421.00",
+      "400.11",
+      "429.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "alois 2017",
+    "bbox": [
+      "182.81",
+      "431.00",
+      "239.69",
+      "439.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "60",
+    "bbox": [
+      "412.90",
+      "431.00",
+      "427.12",
+      "439.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "terre del volturno “sabbie di sopra il bosco,”",
+    "bbox": [
+      "183.08",
+      "451.00",
+      "421.69",
+      "459.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "nanni copé 2016",
+    "bbox": [
+      "183.09",
+      "461.00",
+      "269.00",
+      "469.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "125",
+    "bbox": [
+      "408.49",
+      "461.00",
+      "427.46",
+      "469.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "“last trip to sicily,” marco tinessa 2016",
+    "bbox": [
+      "180.43",
+      "481.00",
+      "385.89",
+      "489.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "95",
+    "bbox": [
+      "413.24",
+      "481.00",
+      "427.46",
+      "489.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "BASILICATA",
+    "bbox": [
+      "244.27",
+      "84.39",
+      "367.73",
+      "97.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "RED WINE",
+    "bbox": [
+      "183.51",
+      "125.26",
+      "245.30",
+      "133.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "aglianico del vulture, re manfredi 2015",
+    "bbox": [
+      "183.01",
+      "152.40",
+      "387.13",
+      "160.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "95",
+    "bbox": [
+      "413.24",
+      "152.40",
+      "427.46",
+      "160.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "aglianico del vulture \"grifalco\"",
+    "bbox": [
+      "183.01",
+      "170.40",
+      "346.37",
+      "178.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "grifalco 2018",
+    "bbox": [
+      "183.12",
+      "181.20",
+      "257.35",
+      "189.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "64",
+    "bbox": [
+      "413.26",
+      "181.20",
+      "427.48",
+      "189.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "PUGLIA",
+    "bbox": [
+      "269.09",
+      "84.39",
+      "342.90",
+      "97.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "ROSE WINE",
+    "bbox": [
+      "183.51",
+      "123.60",
+      "252.06",
+      "131.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "“primerose,” masseria li veli 2020                  50",
+    "bbox": [
+      "180.43",
+      "158.10",
+      "427.12",
+      "166.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "RED WINE",
+    "bbox": [
+      "183.51",
+      "195.60",
+      "245.30",
+      "203.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "negroamaro “patriglione,”",
+    "bbox": [
+      "183.08",
+      "225.60",
+      "323.05",
+      "233.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "cosimo taurino 2013",
+    "bbox": [
+      "183.04",
+      "235.60",
+      "358.36",
+      "243.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "140",
+    "bbox": [
+      "405.19",
+      "235.60",
+      "427.12",
+      "243.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "negroamaro, trullo flaminio 2018                  60",
+    "bbox": [
+      "183.08",
+      "251.10",
+      "427.12",
+      "259.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "CALABRIA",
+    "bbox": [
+      "252.15",
+      "84.39",
+      "359.86",
+      "97.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "ROSE WINE",
+    "bbox": [
+      "183.51",
+      "127.20",
+      "252.06",
+      "135.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "calabria rosato, 'a vita 2020",
+    "bbox": [
+      "182.97",
+      "155.70",
+      "332.72",
+      "163.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "60",
+    "bbox": [
+      "412.90",
+      "155.70",
+      "427.12",
+      "163.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "RED WINE",
+    "bbox": [
+      "183.51",
+      "200.70",
+      "245.30",
+      "208.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "ciro rosso classico superiore riserva,",
+    "bbox": [
+      "182.97",
+      "227.20",
+      "384.26",
+      "235.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "'a vita 2014",
+    "bbox": [
+      "181.03",
+      "238.20",
+      "242.66",
+      "246.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "75",
+    "bbox": [
+      "413.23",
+      "238.20",
+      "427.46",
+      "246.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "SARDEGNA",
+    "bbox": [
+      "251.04",
+      "84.39",
+      "360.97",
+      "97.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "RED WINE",
+    "bbox": [
+      "183.51",
+      "127.20",
+      "245.30",
+      "135.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "cannonau \"tuderi,” dettori 2016",
+    "bbox": [
+      "182.97",
+      "156.20",
+      "350.05",
+      "164.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "94",
+    "bbox": [
+      "413.26",
+      "156.20",
+      "427.49",
+      "164.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "“turriga,” argiolas 2014",
+    "bbox": [
+      "180.43",
+      "170.70",
+      "308.57",
+      "178.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "225",
+    "bbox": [
+      "406.12",
+      "170.70",
+      "427.45",
+      "178.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "SICILIA",
+    "bbox": [
+      "268.37",
+      "84.39",
+      "343.63",
+      "97.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "WHITE WINE",
+    "bbox": [
+      "182.27",
+      "121.86",
+      "259.85",
+      "129.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "etna bianco “calderara sottana,”",
+    "bbox": [
+      "182.57",
+      "148.80",
+      "353.20",
+      "156.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "tenuta delle terre nere 2019",
+    "bbox": [
+      "182.51",
+      "159.60",
+      "336.57",
+      "167.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "90",
+    "bbox": [
+      "413.40",
+      "159.60",
+      "427.62",
+      "167.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "*catarratto “lustro,”",
+    "bbox": [
+      "180.73",
+      "177.60",
+      "297.00",
+      "185.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "abbazia san giorgio 2017",
+    "bbox": [
+      "182.32",
+      "188.40",
+      "307.08",
+      "196.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "96",
+    "bbox": [
+      "412.52",
+      "188.40",
+      "426.74",
+      "196.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "“millesulmare,”santa maria la nave 2016",
+    "bbox": [
+      "179.94",
+      "206.40",
+      "389.53",
+      "214.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "160",
+    "bbox": [
+      "408.66",
+      "206.40",
+      "427.62",
+      "214.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "\"il bianco,” buscemi 2019",
+    "bbox": [
+      "180.47",
+      "224.40",
+      "313.78",
+      "232.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "120",
+    "bbox": [
+      "408.66",
+      "224.40",
+      "427.62",
+      "232.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "*INDICATES SERVED AT CELLAR TEMP",
+    "bbox": [
+      "181.74",
+      "254.70",
+      "361.80",
+      "260.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "ROSE WINE",
+    "bbox": [
+      "183.01",
+      "289.20",
+      "251.57",
+      "297.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "etna rosato, girolamo russo 2019",
+    "bbox": [
+      "182.57",
+      "318.00",
+      "357.94",
+      "326.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "70",
+    "bbox": [
+      "413.40",
+      "318.00",
+      "430.58",
+      "326.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "RED WINE",
+    "bbox": [
+      "183.01",
+      "361.20",
+      "244.81",
+      "369.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "frappato, occhipinti a. 2017",
+    "bbox": [
+      "182.57",
+      "390.00",
+      "327.14",
+      "398.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "112",
+    "bbox": [
+      "411.57",
+      "390.00",
+      "428.17",
+      "398.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "nerello mascalese “vigna vecchie,”",
+    "bbox": [
+      "182.58",
+      "408.00",
+      "364.18",
+      "416.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "calabretta 2011",
+    "bbox": [
+      "182.55",
+      "418.80",
+      "265.96",
+      "426.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "92",
+    "bbox": [
+      "413.94",
+      "418.80",
+      "428.16",
+      "426.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "etna rosso, graci 2018",
+    "bbox": [
+      "182.57",
+      "436.80",
+      "302.10",
+      "444.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "72",
+    "bbox": [
+      "413.94",
+      "436.80",
+      "428.17",
+      "444.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "“santa.nè,”",
+    "bbox": [
+      "179.94",
+      "454.80",
+      "239.18",
+      "462.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "palari 2008",
+    "bbox": [
+      "182.79",
+      "465.60",
+      "247.23",
+      "473.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 20,
+    "text": "300",
+    "bbox": [
+      "406.29",
+      "465.60",
+      "427.63",
+      "473.60"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

@@ -1,0 +1,8962 @@
+[
+  {
+    "page_number": 1,
+    "text": "Venteux Chicago",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "68.59",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://venteuxchicago.com/menu/",
+    "bbox": [
+      "704.03",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "M",
+    "bbox": [
+      "316.62",
+      "306.81",
+      "350.57",
+      "342.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "375.80",
+      "306.81",
+      "395.97",
+      "342.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "N",
+    "bbox": [
+      "421.17",
+      "306.81",
+      "450.43",
+      "342.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "U",
+    "bbox": [
+      "475.67",
+      "306.81",
+      "502.88",
+      "342.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DINNER",
+    "bbox": [
+      "100.03",
+      "361.65",
+      "151.82",
+      "375.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BRUNCH",
+    "bbox": [
+      "221.02",
+      "361.65",
+      "279.55",
+      "375.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BEVERAGES",
+    "bbox": [
+      "348.77",
+      "361.65",
+      "433.63",
+      "375.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "502.81",
+      "361.65",
+      "592.91",
+      "375.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DESSERTS",
+    "bbox": [
+      "662.11",
+      "361.65",
+      "734.96",
+      "375.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CAFE",
+    "bbox": [
+      "402.60",
+      "385.95",
+      "439.39",
+      "399.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPECIALTY COCKTAILS",
+    "bbox": [
+      "327.26",
+      "451.77",
+      "514.74",
+      "467.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Boulevardier",
+    "bbox": [
+      "63.00",
+      "515.51",
+      "113.50",
+      "524.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16,00 US$",
+    "bbox": [
+      "364.17",
+      "515.51",
+      "406.68",
+      "524.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Spill The Tea",
+    "bbox": [
+      "435.31",
+      "515.51",
+      "487.32",
+      "524.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16,00 US$",
+    "bbox": [
+      "736.49",
+      "515.51",
+      "778.99",
+      "524.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Angel’s Envy, Sweet Vermouth, Campari",
+    "bbox": [
+      "63.00",
+      "533.46",
+      "224.19",
+      "542.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Mallorca Melon Tea Infused Casamigos, Casamigos Mezcal, Serranos, Lime, Agave,",
+    "bbox": [
+      "435.31",
+      "533.46",
+      "772.83",
+      "542.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tajin",
+    "bbox": [
+      "435.31",
+      "544.99",
+      "453.82",
+      "553.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1 av 13",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "29.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2022-04-13 08:52",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Venteux Chicago",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "68.59",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://venteuxchicago.com/menu/",
+    "bbox": [
+      "704.03",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Negroni",
+    "bbox": [
+      "63.00",
+      "37.66",
+      "94.52",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16,00 US$",
+    "bbox": [
+      "364.17",
+      "37.66",
+      "406.68",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "The Honey Badger",
+    "bbox": [
+      "435.31",
+      "37.66",
+      "510.83",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16,00 US$",
+    "bbox": [
+      "736.49",
+      "37.66",
+      "778.99",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sipsmith Gin, Cocchi Di Torino, Campari",
+    "bbox": [
+      "94.50",
+      "44.09",
+      "254.99",
+      "53.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bombay Sapphire, Grapefruit Juice, Cucumber, Lime, Honey",
+    "bbox": [
+      "435.31",
+      "55.61",
+      "676.81",
+      "64.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Paper Plane",
+    "bbox": [
+      "63.00",
+      "71.81",
+      "112.51",
+      "80.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16,00 US$",
+    "bbox": [
+      "364.17",
+      "71.81",
+      "406.68",
+      "80.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1765 Old Fashion",
+    "bbox": [
+      "435.31",
+      "83.34",
+      "506.33",
+      "92.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16,00 US$",
+    "bbox": [
+      "736.49",
+      "83.34",
+      "778.99",
+      "92.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "High West American Prairie, Amaro Nonino, Aperol, Lemon",
+    "bbox": [
+      "63.00",
+      "89.76",
+      "299.35",
+      "98.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Hennessy VSOP, House Bitters, Demerara Syrup",
+    "bbox": [
+      "435.31",
+      "101.29",
+      "631.67",
+      "110.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SEASONAL COCKTAILS",
+    "bbox": [
+      "327.11",
+      "174.87",
+      "514.90",
+      "191.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "The 707",
+    "bbox": [
+      "63.00",
+      "238.61",
+      "96.02",
+      "247.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16,00 US$",
+    "bbox": [
+      "364.17",
+      "238.61",
+      "406.68",
+      "247.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Morning Dew",
+    "bbox": [
+      "435.31",
+      "238.61",
+      "488.33",
+      "247.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16,00 US$",
+    "bbox": [
+      "736.49",
+      "238.61",
+      "778.99",
+      "247.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Casamigos Blanco, Luxardo Maraschino, Creme de Violet, Lime",
+    "bbox": [
+      "63.00",
+      "256.56",
+      "318.36",
+      "265.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Green Chartreuse, Teremana Reposado Tequila, Lime, Simple",
+    "bbox": [
+      "435.31",
+      "256.56",
+      "683.82",
+      "265.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Younger than Springtime",
+    "bbox": [
+      "63.00",
+      "284.29",
+      "161.68",
+      "293.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "17,00 US$",
+    "bbox": [
+      "364.17",
+      "284.29",
+      "406.68",
+      "293.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Thawed Appalachian",
+    "bbox": [
+      "435.31",
+      "284.29",
+      "519.32",
+      "293.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16,00 US$",
+    "bbox": [
+      "736.49",
+      "284.29",
+      "778.99",
+      "293.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bombay Sapphire Gin, Lavender, Elderflower, Egg White",
+    "bbox": [
+      "63.00",
+      "302.24",
+      "289.02",
+      "311.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Basil Hayden Bourbon, Luxardo Maraschino, Peychaud's bitters",
+    "bbox": [
+      "435.31",
+      "302.24",
+      "689.54",
+      "311.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Persephone's Return",
+    "bbox": [
+      "63.00",
+      "329.96",
+      "147.22",
+      "338.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "17,00 US$",
+    "bbox": [
+      "364.17",
+      "329.96",
+      "406.68",
+      "338.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Razzle Dazzle",
+    "bbox": [
+      "435.31",
+      "329.96",
+      "492.83",
+      "338.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16,00 US$",
+    "bbox": [
+      "736.49",
+      "329.96",
+      "778.99",
+      "338.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Nonino Amaro, Grey Goose Vodka, Grapefruit",
+    "bbox": [
+      "63.00",
+      "347.91",
+      "246.52",
+      "356.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cruzan White Rum, Lime, Raspberry, Simple",
+    "bbox": [
+      "435.31",
+      "347.91",
+      "614.16",
+      "356.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DRAFT",
+    "bbox": [
+      "393.55",
+      "421.49",
+      "448.44",
+      "437.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Budlight St Louis, 4.2% Abv",
+    "bbox": [
+      "63.00",
+      "485.24",
+      "174.01",
+      "494.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "6,00 US$",
+    "bbox": [
+      "369.17",
+      "485.24",
+      "406.70",
+      "494.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Spiteful Ipa Chicago, 6.2% Abv",
+    "bbox": [
+      "435.31",
+      "485.24",
+      "559.33",
+      "494.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "8,00 US$",
+    "bbox": [
+      "741.49",
+      "485.24",
+      "779.01",
+      "494.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Stella Belgium, 5% Abv",
+    "bbox": [
+      "63.00",
+      "512.96",
+      "156.52",
+      "521.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "7,00 US$",
+    "bbox": [
+      "369.17",
+      "512.96",
+      "406.70",
+      "521.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Haymarket Hazy Is Lazy Chicago, 6.6% Abv",
+    "bbox": [
+      "435.31",
+      "512.96",
+      "611.83",
+      "521.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "8,00 US$",
+    "bbox": [
+      "741.49",
+      "512.96",
+      "779.01",
+      "521.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Virtue Rose Cider Chicago, 6.7% Abv",
+    "bbox": [
+      "63.00",
+      "540.69",
+      "212.86",
+      "549.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "7,00 US$",
+    "bbox": [
+      "369.17",
+      "540.69",
+      "406.70",
+      "549.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Landshark St . Louis, 4 .6% Abv",
+    "bbox": [
+      "435.31",
+      "540.69",
+      "563.33",
+      "549.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "8,00 US$",
+    "bbox": [
+      "741.49",
+      "540.69",
+      "779.01",
+      "549.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2 av 13",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "29.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2022-04-13 08:52",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Venteux Chicago",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "68.59",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://venteuxchicago.com/menu/",
+    "bbox": [
+      "704.03",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Spiteful Gdp Porter Chicago, 8 .2% Abv",
+    "bbox": [
+      "63.00",
+      "37.66",
+      "221.00",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "8,00 US$",
+    "bbox": [
+      "369.17",
+      "37.66",
+      "406.70",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Surly Grapefruit Supreme Minneapolis, 4 .2% Abv",
+    "bbox": [
+      "435.31",
+      "37.66",
+      "633.82",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "8,00 US$",
+    "bbox": [
+      "741.49",
+      "37.66",
+      "779.01",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Goose Island 312 Wheat Chicago, 4.2% Abv",
+    "bbox": [
+      "63.00",
+      "65.39",
+      "241.00",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "8,00 US$",
+    "bbox": [
+      "369.17",
+      "65.39",
+      "406.70",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Alter Swedda Wedda Oatmeal Stout Chicago, 7 .5% Abv",
+    "bbox": [
+      "435.31",
+      "65.39",
+      "661.16",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "8,00 US$",
+    "bbox": [
+      "741.49",
+      "65.39",
+      "779.01",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BOTTLE",
+    "bbox": [
+      "388.60",
+      "138.97",
+      "453.39",
+      "155.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Michelob Ultra St Louis, 4.2% Abv",
+    "bbox": [
+      "63.00",
+      "202.71",
+      "199.01",
+      "211.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "6,00 US$",
+    "bbox": [
+      "369.17",
+      "202.71",
+      "406.70",
+      "211.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Haymarket Chicago Tavern Beer Chicago 5.3% Abv",
+    "bbox": [
+      "435.31",
+      "202.71",
+      "641.83",
+      "211.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "7,00 US$",
+    "bbox": [
+      "741.49",
+      "202.71",
+      "779.01",
+      "211.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Kronenburg 1664 France, 5.5% Abv",
+    "bbox": [
+      "63.00",
+      "230.44",
+      "206.51",
+      "239.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "7,00 US$",
+    "bbox": [
+      "369.17",
+      "230.44",
+      "406.70",
+      "239.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Founders’ Porter Grand Rapids, 6.5% Abv",
+    "bbox": [
+      "435.31",
+      "230.44",
+      "603.81",
+      "239.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "7,00 US$",
+    "bbox": [
+      "741.49",
+      "230.44",
+      "779.01",
+      "239.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4 Hands Brewing Co Ripple White Ale St Louis, 5.5% Abv",
+    "bbox": [
+      "63.00",
+      "258.16",
+      "293.01",
+      "267.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "7,00 US$",
+    "bbox": [
+      "369.17",
+      "258.16",
+      "406.70",
+      "267.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "O’Doul’S N/A St Louis",
+    "bbox": [
+      "435.31",
+      "258.16",
+      "523.32",
+      "267.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5,00 US$",
+    "bbox": [
+      "741.49",
+      "258.16",
+      "779.01",
+      "267.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WINES BY THE GLASS - BUBBLES",
+    "bbox": [
+      "286.01",
+      "331.74",
+      "556.03",
+      "347.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Prosecco, Mionetto “Avantgarde” , Italy",
+    "bbox": [
+      "63.00",
+      "395.49",
+      "218.35",
+      "404.49"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Prosecco, Mionetto “Avantgarde” , Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Champagne Rose, Moët Rose",
+    "bbox": [
+      "435.31",
+      "395.49",
+      "556.32",
+      "404.49"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Champagne Rose, Moët Rose",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "6oz pour",
+    "bbox": [
+      "63.00",
+      "416.01",
+      "98.00",
+      "425.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "12,00 US$",
+    "bbox": [
+      "364.17",
+      "416.01",
+      "406.68",
+      "425.01"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "12,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "6oz pour",
+    "bbox": [
+      "435.31",
+      "416.01",
+      "470.31",
+      "425.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "32,00 US$",
+    "bbox": [
+      "736.49",
+      "416.01",
+      "778.99",
+      "425.01"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "32,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bottle",
+    "bbox": [
+      "63.00",
+      "427.54",
+      "86.01",
+      "436.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "36,00 US$",
+    "bbox": [
+      "364.17",
+      "427.54",
+      "406.68",
+      "436.54"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "36,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bottle",
+    "bbox": [
+      "435.31",
+      "427.54",
+      "458.33",
+      "436.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "164,00 US$",
+    "bbox": [
+      "731.49",
+      "427.54",
+      "779.00",
+      "436.54"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "164,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Blanc De Blanc, Jean Louis Brut, France",
+    "bbox": [
+      "63.00",
+      "455.26",
+      "225.00",
+      "464.26"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Blanc De Blanc, Jean Louis Brut, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Champagne, Beau Joie Brut, Epernay",
+    "bbox": [
+      "435.31",
+      "455.26",
+      "586.83",
+      "464.26"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Champagne, Beau Joie Brut, Epernay",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "6oz pour",
+    "bbox": [
+      "63.00",
+      "475.79",
+      "98.00",
+      "484.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "12,00 US$",
+    "bbox": [
+      "364.17",
+      "475.79",
+      "406.68",
+      "484.79"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "12,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "6oz pour",
+    "bbox": [
+      "435.31",
+      "475.79",
+      "470.31",
+      "484.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "24,00 US$",
+    "bbox": [
+      "736.49",
+      "475.79",
+      "778.99",
+      "484.79"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "24,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bottle",
+    "bbox": [
+      "63.00",
+      "487.31",
+      "86.01",
+      "496.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "36,00 US$",
+    "bbox": [
+      "364.17",
+      "487.31",
+      "406.68",
+      "496.31"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "36,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bottle",
+    "bbox": [
+      "435.31",
+      "487.31",
+      "458.33",
+      "496.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "144,00 US$",
+    "bbox": [
+      "731.49",
+      "487.31",
+      "779.00",
+      "496.31"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "144,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sparkling, Chandon, California",
+    "bbox": [
+      "63.00",
+      "515.04",
+      "185.02",
+      "524.04"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Sparkling, Chandon, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Champagne Rose, Beau Joie, Epernay",
+    "bbox": [
+      "435.31",
+      "515.04",
+      "591.33",
+      "524.04"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Champagne Rose, Beau Joie, Epernay",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "6oz pour",
+    "bbox": [
+      "63.00",
+      "535.56",
+      "98.00",
+      "544.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.17",
+      "535.56",
+      "406.68",
+      "544.56"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "14,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "6oz pour",
+    "bbox": [
+      "435.31",
+      "535.56",
+      "470.31",
+      "544.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "30,00 US$",
+    "bbox": [
+      "736.49",
+      "535.56",
+      "778.99",
+      "544.56"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "30,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bottle",
+    "bbox": [
+      "63.00",
+      "547.09",
+      "86.01",
+      "556.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "42,00 US$",
+    "bbox": [
+      "364.17",
+      "547.09",
+      "406.68",
+      "556.09"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "42,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bottle",
+    "bbox": [
+      "435.31",
+      "547.09",
+      "458.33",
+      "556.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "154,00 US$",
+    "bbox": [
+      "731.49",
+      "547.09",
+      "779.00",
+      "556.09"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "154,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3 av 13",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "29.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2022-04-13 08:52",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Venteux Chicago",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "68.59",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://venteuxchicago.com/menu/",
+    "bbox": [
+      "704.03",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sparkling Rose, Gerard Betrand “Heritage\" Rose, France",
+    "bbox": [
+      "63.00",
+      "37.66",
+      "290.22",
+      "46.66"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Sparkling Rose, Gerard Betrand “Heritage\" Rose, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Champagne, Veuve Yellow Label",
+    "bbox": [
+      "435.31",
+      "37.66",
+      "567.01",
+      "46.66"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Champagne, Veuve Yellow Label",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "6oz pour",
+    "bbox": [
+      "63.00",
+      "58.19",
+      "98.00",
+      "67.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "16,00 US$",
+    "bbox": [
+      "364.17",
+      "58.19",
+      "406.68",
+      "67.19"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "16,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "6oz pour",
+    "bbox": [
+      "435.31",
+      "58.19",
+      "470.31",
+      "67.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "28,00 US$",
+    "bbox": [
+      "736.49",
+      "58.19",
+      "778.99",
+      "67.19"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "28,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Bottle",
+    "bbox": [
+      "63.00",
+      "69.71",
+      "86.01",
+      "78.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "48,00 US$",
+    "bbox": [
+      "364.17",
+      "69.71",
+      "406.68",
+      "78.71"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "48,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Bottle",
+    "bbox": [
+      "435.31",
+      "69.71",
+      "458.33",
+      "78.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "144,00 US$",
+    "bbox": [
+      "731.49",
+      "69.71",
+      "779.00",
+      "78.71"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "144,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Champagne Spilt, Moet Imperial, France",
+    "bbox": [
+      "63.00",
+      "97.44",
+      "224.52",
+      "106.44"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Champagne Spilt, Moet Imperial, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Bottle",
+    "bbox": [
+      "63.00",
+      "117.96",
+      "86.01",
+      "126.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "24,00 US$",
+    "bbox": [
+      "364.17",
+      "117.96",
+      "406.68",
+      "126.96"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "24,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "WINES BY THE GLASS - PINK & WHITE",
+    "bbox": [
+      "269.36",
+      "191.54",
+      "572.67",
+      "207.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Rose, Lve, Provence",
+    "bbox": [
+      "63.00",
+      "255.29",
+      "146.52",
+      "264.29"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Rose, Lve, Provence",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sancerre, Saget La Perriere, France",
+    "bbox": [
+      "435.31",
+      "255.29",
+      "580.33",
+      "264.29"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Sancerre, Saget La Perriere, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "6oz pour",
+    "bbox": [
+      "63.00",
+      "275.81",
+      "98.00",
+      "284.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "12,00 US$",
+    "bbox": [
+      "364.17",
+      "275.81",
+      "406.68",
+      "284.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "12,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "6oz pour",
+    "bbox": [
+      "435.31",
+      "275.81",
+      "470.31",
+      "284.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "18,00 US$",
+    "bbox": [
+      "736.49",
+      "275.81",
+      "778.99",
+      "284.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "18,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "9oz pour",
+    "bbox": [
+      "63.00",
+      "287.34",
+      "98.00",
+      "296.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "17,00 US$",
+    "bbox": [
+      "364.17",
+      "287.34",
+      "406.68",
+      "296.34"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "17,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "9oz pour",
+    "bbox": [
+      "435.31",
+      "287.34",
+      "470.31",
+      "296.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "24,00 US$",
+    "bbox": [
+      "736.49",
+      "287.34",
+      "778.99",
+      "296.34"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "24,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Bottle",
+    "bbox": [
+      "63.00",
+      "298.86",
+      "86.01",
+      "307.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "36,00 US$",
+    "bbox": [
+      "364.17",
+      "298.86",
+      "406.68",
+      "307.86"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "36,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Bottle",
+    "bbox": [
+      "435.31",
+      "298.86",
+      "458.33",
+      "307.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "54,00 US$",
+    "bbox": [
+      "736.49",
+      "298.86",
+      "778.99",
+      "307.86"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "54,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Rose, Whispering Angel, Provence",
+    "bbox": [
+      "63.00",
+      "326.59",
+      "202.52",
+      "335.59"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Rose, Whispering Angel, Provence",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cotes Du Rhone Blanc, Guigal, France",
+    "bbox": [
+      "435.31",
+      "326.59",
+      "590.84",
+      "335.59"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Cotes Du Rhone Blanc, Guigal, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "6oz pour",
+    "bbox": [
+      "63.00",
+      "347.11",
+      "98.00",
+      "356.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.17",
+      "347.11",
+      "406.68",
+      "356.11"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "14,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "6oz pour",
+    "bbox": [
+      "435.31",
+      "347.11",
+      "470.31",
+      "356.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "14,00 US$",
+    "bbox": [
+      "736.49",
+      "347.11",
+      "778.99",
+      "356.11"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "14,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "9oz pour",
+    "bbox": [
+      "63.00",
+      "358.64",
+      "98.00",
+      "367.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "20,00 US$",
+    "bbox": [
+      "364.17",
+      "358.64",
+      "406.68",
+      "367.64"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "20,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "9oz pour",
+    "bbox": [
+      "435.31",
+      "358.64",
+      "470.31",
+      "367.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "20,00 US$",
+    "bbox": [
+      "736.49",
+      "358.64",
+      "778.99",
+      "367.64"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "20,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Bottle",
+    "bbox": [
+      "63.00",
+      "370.16",
+      "86.01",
+      "379.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "42,00 US$",
+    "bbox": [
+      "364.17",
+      "370.16",
+      "406.68",
+      "379.16"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "42,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Bottle",
+    "bbox": [
+      "435.31",
+      "370.16",
+      "458.33",
+      "379.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "42,00 US$",
+    "bbox": [
+      "736.49",
+      "370.16",
+      "778.99",
+      "379.16"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "42,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Riesling, Schloss Vollrads, Germany",
+    "bbox": [
+      "63.00",
+      "397.89",
+      "208.03",
+      "406.89"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Riesling, Schloss Vollrads, Germany",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chardonnay, Davis Bynum “River West”, Sonoma",
+    "bbox": [
+      "435.31",
+      "397.89",
+      "632.51",
+      "406.89"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Chardonnay, Davis Bynum “River West”, Sonoma",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "6oz pour",
+    "bbox": [
+      "63.00",
+      "418.41",
+      "98.00",
+      "427.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.17",
+      "418.41",
+      "406.68",
+      "427.41"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "14,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "6oz pour",
+    "bbox": [
+      "435.31",
+      "418.41",
+      "470.31",
+      "427.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "14,00 US$",
+    "bbox": [
+      "736.49",
+      "418.41",
+      "778.99",
+      "427.41"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "14,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "9oz pour",
+    "bbox": [
+      "63.00",
+      "429.94",
+      "98.00",
+      "438.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "20,00 US$",
+    "bbox": [
+      "364.17",
+      "429.94",
+      "406.68",
+      "438.94"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "20,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "9oz pour",
+    "bbox": [
+      "435.31",
+      "429.94",
+      "470.31",
+      "438.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "20,00 US$",
+    "bbox": [
+      "736.49",
+      "429.94",
+      "778.99",
+      "438.94"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "20,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Bottle",
+    "bbox": [
+      "63.00",
+      "441.46",
+      "86.01",
+      "450.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "42,00 US$",
+    "bbox": [
+      "364.17",
+      "441.46",
+      "406.68",
+      "450.46"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "42,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Bottle",
+    "bbox": [
+      "435.31",
+      "441.46",
+      "458.33",
+      "450.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "42,00 US$",
+    "bbox": [
+      "736.49",
+      "441.46",
+      "778.99",
+      "450.46"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "42,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pinot Grigio, Terlato, Italy",
+    "bbox": [
+      "63.00",
+      "469.19",
+      "163.50",
+      "478.19"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Pinot Grigio, Terlato, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chardonnay, Macon De Lugny “Carte”, France",
+    "bbox": [
+      "435.31",
+      "469.19",
+      "620.16",
+      "478.19"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Chardonnay, Macon De Lugny “Carte”, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "6oz pour",
+    "bbox": [
+      "63.00",
+      "489.71",
+      "98.00",
+      "498.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.17",
+      "489.71",
+      "406.68",
+      "498.71"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "14,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "6oz pour",
+    "bbox": [
+      "435.31",
+      "489.71",
+      "470.31",
+      "498.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "16,00 US$",
+    "bbox": [
+      "736.49",
+      "489.71",
+      "778.99",
+      "498.71"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "16,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "9oz pour",
+    "bbox": [
+      "63.00",
+      "501.24",
+      "98.00",
+      "510.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "20,00 US$",
+    "bbox": [
+      "364.17",
+      "501.24",
+      "406.68",
+      "510.24"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "20,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "9oz pour",
+    "bbox": [
+      "435.31",
+      "501.24",
+      "470.31",
+      "510.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "22,00 US$",
+    "bbox": [
+      "736.49",
+      "501.24",
+      "778.99",
+      "510.24"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "22,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Bottle",
+    "bbox": [
+      "63.00",
+      "512.76",
+      "86.01",
+      "521.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "42,00 US$",
+    "bbox": [
+      "364.17",
+      "512.76",
+      "406.68",
+      "521.76"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "42,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Bottle",
+    "bbox": [
+      "435.31",
+      "512.76",
+      "458.33",
+      "521.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "48,00 US$",
+    "bbox": [
+      "736.49",
+      "512.76",
+      "778.99",
+      "521.76"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "48,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sauvignon Blanc, Brancott, New Zealand",
+    "bbox": [
+      "63.00",
+      "540.49",
+      "227.02",
+      "549.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chardonnay, Far Niente, Napa",
+    "bbox": [
+      "435.31",
+      "540.49",
+      "557.16",
+      "549.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4 av 13",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "29.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2022-04-13 08:52",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Venteux Chicago",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "68.59",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://venteuxchicago.com/menu/",
+    "bbox": [
+      "704.03",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "69Booozztt  lppeoouurr",
+    "bbox": [
+      "63.00",
+      "37.66",
+      "98.00",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "113276,,,000000   UUUSSS$$$",
+    "bbox": [
+      "364.17",
+      "37.66",
+      "406.68",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "69Booozztt  lppeoouurr",
+    "bbox": [
+      "435.31",
+      "37.66",
+      "470.31",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "226286,,,000000   UUUSSS$$$",
+    "bbox": [
+      "736.49",
+      "37.66",
+      "778.99",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sauvignon Blanc, Daou, Paso Robles",
+    "bbox": [
+      "63.00",
+      "53.86",
+      "213.01",
+      "62.86"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Sauvignon Blanc, Daou, Paso Robles",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "6oz pour",
+    "bbox": [
+      "63.00",
+      "74.39",
+      "98.00",
+      "83.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.17",
+      "74.39",
+      "406.68",
+      "83.39"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "14,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "9oz pour",
+    "bbox": [
+      "63.00",
+      "85.91",
+      "98.00",
+      "94.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "20,00 US$",
+    "bbox": [
+      "364.17",
+      "85.91",
+      "406.68",
+      "94.91"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "20,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bottle",
+    "bbox": [
+      "63.00",
+      "97.44",
+      "86.01",
+      "106.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "42,00 US$",
+    "bbox": [
+      "364.17",
+      "97.44",
+      "406.68",
+      "106.44"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "42,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "WINES BY THE GLASS - RED",
+    "bbox": [
+      "308.06",
+      "171.02",
+      "533.98",
+      "187.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Malbec, Terrazas Reserve, Mendoza",
+    "bbox": [
+      "63.00",
+      "234.76",
+      "209.52",
+      "243.76"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Malbec, Terrazas Reserve, Mendoza",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cotes Du Rhone Rouge, Guigal, France",
+    "bbox": [
+      "435.31",
+      "234.76",
+      "594.82",
+      "243.76"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Cotes Du Rhone Rouge, Guigal, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "6oz pour",
+    "bbox": [
+      "63.00",
+      "255.29",
+      "98.00",
+      "264.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.17",
+      "255.29",
+      "406.68",
+      "264.29"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "14,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "6oz pour",
+    "bbox": [
+      "435.31",
+      "255.29",
+      "470.31",
+      "264.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "14,00 US$",
+    "bbox": [
+      "736.49",
+      "255.29",
+      "778.99",
+      "264.29"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "14,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "9oz pour",
+    "bbox": [
+      "63.00",
+      "266.81",
+      "98.00",
+      "275.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "20,00 US$",
+    "bbox": [
+      "364.17",
+      "266.81",
+      "406.68",
+      "275.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "20,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "9oz pour",
+    "bbox": [
+      "435.31",
+      "266.81",
+      "470.31",
+      "275.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "20,00 US$",
+    "bbox": [
+      "736.49",
+      "266.81",
+      "778.99",
+      "275.81"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "20,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bottle",
+    "bbox": [
+      "63.00",
+      "278.34",
+      "86.01",
+      "287.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "42,00 US$",
+    "bbox": [
+      "364.17",
+      "278.34",
+      "406.68",
+      "287.34"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "42,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bottle",
+    "bbox": [
+      "435.31",
+      "278.34",
+      "458.33",
+      "287.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "42,00 US$",
+    "bbox": [
+      "736.49",
+      "278.34",
+      "778.99",
+      "287.34"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "42,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Mommessin Morgon, “Cote Du Py”, France",
+    "bbox": [
+      "63.00",
+      "306.06",
+      "234.52",
+      "315.06"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Mommessin Morgon, “Cote Du Py”, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chateauneuf-Du-Pape, Saintes Pierre De Nalys",
+    "bbox": [
+      "435.31",
+      "306.06",
+      "625.83",
+      "315.06"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Chateauneuf-Du-Pape, Saintes Pierre De Nalys",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "6oz pour",
+    "bbox": [
+      "63.00",
+      "326.59",
+      "98.00",
+      "335.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "16,00 US$",
+    "bbox": [
+      "364.17",
+      "326.59",
+      "406.68",
+      "335.59"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "16,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "6oz pour",
+    "bbox": [
+      "435.31",
+      "326.59",
+      "470.31",
+      "335.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "28,00 US$",
+    "bbox": [
+      "736.49",
+      "326.59",
+      "778.99",
+      "335.59"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "28,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "9oz pour",
+    "bbox": [
+      "63.00",
+      "338.11",
+      "98.00",
+      "347.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "22,00 US$",
+    "bbox": [
+      "364.17",
+      "338.11",
+      "406.68",
+      "347.11"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "22,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "9oz pour",
+    "bbox": [
+      "435.31",
+      "338.11",
+      "470.31",
+      "347.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "34,00 US$",
+    "bbox": [
+      "736.49",
+      "338.11",
+      "778.99",
+      "347.11"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "34,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bottle",
+    "bbox": [
+      "63.00",
+      "349.64",
+      "86.01",
+      "358.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "48,00 US$",
+    "bbox": [
+      "364.17",
+      "349.64",
+      "406.68",
+      "358.64"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "48,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bottle",
+    "bbox": [
+      "435.31",
+      "349.64",
+      "458.33",
+      "358.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "84,00 US$",
+    "bbox": [
+      "736.49",
+      "349.64",
+      "778.99",
+      "358.64"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "84,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Zinfandel Blend, The Prisoner, California",
+    "bbox": [
+      "63.00",
+      "377.36",
+      "224.52",
+      "386.36"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Zinfandel Blend, The Prisoner, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Merlot, Emmolo By Caymus, Napa Valley",
+    "bbox": [
+      "435.31",
+      "377.36",
+      "599.66",
+      "386.36"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Merlot, Emmolo By Caymus, Napa Valley",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "6oz pour",
+    "bbox": [
+      "63.00",
+      "397.89",
+      "98.00",
+      "406.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "26,00 US$",
+    "bbox": [
+      "364.17",
+      "397.89",
+      "406.68",
+      "406.89"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "26,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "6oz pour",
+    "bbox": [
+      "435.31",
+      "397.89",
+      "470.31",
+      "406.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "17,00 US$",
+    "bbox": [
+      "736.49",
+      "397.89",
+      "778.99",
+      "406.89"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "17,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "9oz pour",
+    "bbox": [
+      "63.00",
+      "409.41",
+      "98.00",
+      "418.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "32,00 US$",
+    "bbox": [
+      "364.17",
+      "409.41",
+      "406.68",
+      "418.41"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "32,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "9oz pour",
+    "bbox": [
+      "435.31",
+      "409.41",
+      "470.31",
+      "418.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "24,00 US$",
+    "bbox": [
+      "736.49",
+      "409.41",
+      "778.99",
+      "418.41"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "24,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bottle",
+    "bbox": [
+      "63.00",
+      "420.94",
+      "86.01",
+      "429.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "78,00 US$",
+    "bbox": [
+      "364.17",
+      "420.94",
+      "406.68",
+      "429.94"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "78,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bottle",
+    "bbox": [
+      "435.31",
+      "420.94",
+      "458.33",
+      "429.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "68,00 US$",
+    "bbox": [
+      "736.49",
+      "420.94",
+      "778.99",
+      "429.94"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "68,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pinot Noir, Sea Sun By Caymus, California",
+    "bbox": [
+      "63.00",
+      "448.66",
+      "233.01",
+      "457.66"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Pinot Noir, Sea Sun By Caymus, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bordeaux, Chateau Suplice, France",
+    "bbox": [
+      "435.31",
+      "448.66",
+      "577.82",
+      "457.66"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Bordeaux, Chateau Suplice, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "6oz pour",
+    "bbox": [
+      "63.00",
+      "469.19",
+      "98.00",
+      "478.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "12,00 US$",
+    "bbox": [
+      "364.17",
+      "469.19",
+      "406.68",
+      "478.19"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "12,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "6oz pour",
+    "bbox": [
+      "435.31",
+      "469.19",
+      "470.31",
+      "478.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "14,00 US$",
+    "bbox": [
+      "736.49",
+      "469.19",
+      "778.99",
+      "478.19"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "14,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "9oz pour",
+    "bbox": [
+      "63.00",
+      "480.71",
+      "98.00",
+      "489.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "17,00 US$",
+    "bbox": [
+      "364.17",
+      "480.71",
+      "406.68",
+      "489.71"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "17,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "9oz pour",
+    "bbox": [
+      "435.31",
+      "480.71",
+      "470.31",
+      "489.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "20,00 US$",
+    "bbox": [
+      "736.49",
+      "480.71",
+      "778.99",
+      "489.71"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "20,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bottle",
+    "bbox": [
+      "63.00",
+      "492.24",
+      "86.01",
+      "501.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "36,00 US$",
+    "bbox": [
+      "364.17",
+      "492.24",
+      "406.68",
+      "501.24"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "36,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bottle",
+    "bbox": [
+      "435.31",
+      "492.24",
+      "458.33",
+      "501.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "42,00 US$",
+    "bbox": [
+      "736.49",
+      "492.24",
+      "778.99",
+      "501.24"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "42,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pinot Noir, Bouchard, Burgundy, France",
+    "bbox": [
+      "63.00",
+      "519.96",
+      "221.35",
+      "528.96"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Pinot Noir, Bouchard, Burgundy, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet, Bonanza, California",
+    "bbox": [
+      "435.31",
+      "519.96",
+      "555.83",
+      "528.96"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Cabernet, Bonanza, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "6oz pour",
+    "bbox": [
+      "63.00",
+      "540.49",
+      "98.00",
+      "549.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.17",
+      "540.49",
+      "406.68",
+      "549.49"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "14,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "6oz pour",
+    "bbox": [
+      "435.31",
+      "540.49",
+      "470.31",
+      "549.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "13,00 US$",
+    "bbox": [
+      "736.49",
+      "540.49",
+      "778.99",
+      "549.49"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "13,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5 av 13",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "29.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "2022-04-13 08:52",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Venteux Chicago",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "68.59",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://venteuxchicago.com/menu/",
+    "bbox": [
+      "704.03",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "9Booztt lpeour",
+    "bbox": [
+      "63.00",
+      "37.66",
+      "98.00",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2402,,0000  UUSS$$",
+    "bbox": [
+      "364.17",
+      "37.66",
+      "406.68",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "9Booztt lpeour",
+    "bbox": [
+      "435.31",
+      "37.66",
+      "470.31",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "1572,,0000  UUSS$$",
+    "bbox": [
+      "736.49",
+      "37.66",
+      "778.99",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pinot Noir, Prisoner, California",
+    "bbox": [
+      "63.00",
+      "53.86",
+      "183.02",
+      "62.86"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Pinot Noir, Prisoner, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Cabernet, Caymus, Napa Valley",
+    "bbox": [
+      "435.31",
+      "53.86",
+      "563.16",
+      "62.86"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Cabernet, Caymus, Napa Valley",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6oz pour",
+    "bbox": [
+      "63.00",
+      "74.39",
+      "98.00",
+      "83.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "22,00 US$",
+    "bbox": [
+      "364.17",
+      "74.39",
+      "406.68",
+      "83.39"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "22,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6oz pour",
+    "bbox": [
+      "435.31",
+      "74.39",
+      "470.31",
+      "83.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "30,00 US$",
+    "bbox": [
+      "736.49",
+      "74.39",
+      "778.99",
+      "83.39"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "30,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "9oz pour",
+    "bbox": [
+      "63.00",
+      "85.91",
+      "98.00",
+      "94.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "28,00 US$",
+    "bbox": [
+      "364.17",
+      "85.91",
+      "406.68",
+      "94.91"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "28,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "9oz pour",
+    "bbox": [
+      "435.31",
+      "85.91",
+      "470.31",
+      "94.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "38,00 US$",
+    "bbox": [
+      "736.49",
+      "85.91",
+      "778.99",
+      "94.91"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "38,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Bottle",
+    "bbox": [
+      "63.00",
+      "97.44",
+      "86.01",
+      "106.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "66,00 US$",
+    "bbox": [
+      "364.17",
+      "97.44",
+      "406.68",
+      "106.44"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "66,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Bottle",
+    "bbox": [
+      "435.31",
+      "97.44",
+      "458.33",
+      "106.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "181,00 US$",
+    "bbox": [
+      "731.49",
+      "97.44",
+      "779.00",
+      "106.44"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "181,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BRIGHT, LIGHT WHITES & ROSÉ",
+    "bbox": [
+      "295.01",
+      "171.02",
+      "547.01",
+      "187.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Riesling, Schloss Vollards, Germany",
+    "bbox": [
+      "63.00",
+      "234.76",
+      "208.03",
+      "243.76"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Riesling, Schloss Vollards, Germany",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "42,00 US$",
+    "bbox": [
+      "364.17",
+      "234.76",
+      "406.68",
+      "243.76"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "42,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Rose, Studio By Miraval, France",
+    "bbox": [
+      "435.31",
+      "234.76",
+      "564.34",
+      "243.76"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Rose, Studio By Miraval, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "36,00 US$",
+    "bbox": [
+      "736.49",
+      "234.76",
+      "778.99",
+      "243.76"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "36,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pinot Grigio, Terlato, Italy",
+    "bbox": [
+      "63.00",
+      "262.49",
+      "163.50",
+      "271.49"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Pinot Grigio, Terlato, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "42,00 US$",
+    "bbox": [
+      "364.17",
+      "262.49",
+      "406.68",
+      "271.49"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "42,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Rose, Whispering Angel, Provence",
+    "bbox": [
+      "435.31",
+      "262.49",
+      "574.83",
+      "271.49"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Rose, Whispering Angel, Provence",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "42,00 US$",
+    "bbox": [
+      "736.49",
+      "262.49",
+      "778.99",
+      "271.49"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "42,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Albarino, Raimat, Spain",
+    "bbox": [
+      "63.00",
+      "290.21",
+      "157.52",
+      "299.21"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Albarino, Raimat, Spain",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "30,00 US$",
+    "bbox": [
+      "364.17",
+      "290.21",
+      "406.68",
+      "299.21"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "30,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Rose, Chateau Miraval, France",
+    "bbox": [
+      "435.31",
+      "290.21",
+      "559.84",
+      "299.21"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Rose, Chateau Miraval, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "54,00 US$",
+    "bbox": [
+      "736.49",
+      "290.21",
+      "778.99",
+      "299.21"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "54,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Domaine Skouras, Assyrtiko, Greece",
+    "bbox": [
+      "63.00",
+      "317.94",
+      "210.50",
+      "326.94"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Domaine Skouras, Assyrtiko, Greece",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "40,00 US$",
+    "bbox": [
+      "364.17",
+      "317.94",
+      "406.68",
+      "326.94"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "40,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "FRENCH WHITES",
+    "bbox": [
+      "353.51",
+      "391.52",
+      "488.51",
+      "407.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sancerre, Saget La Perriere, France",
+    "bbox": [
+      "63.00",
+      "455.26",
+      "208.02",
+      "464.26"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Sancerre, Saget La Perriere, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "54,00 US$",
+    "bbox": [
+      "364.18",
+      "455.26",
+      "406.68",
+      "464.26"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "54,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Macon De Lugny “Carte”, Macon",
+    "bbox": [
+      "435.31",
+      "455.26",
+      "565.82",
+      "464.26"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Macon De Lugny “Carte”, Macon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "48,00 US$",
+    "bbox": [
+      "736.49",
+      "455.26",
+      "778.99",
+      "464.26"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "48,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sancerre, Chateau De Sancerre, Loire Valley",
+    "bbox": [
+      "63.00",
+      "482.99",
+      "242.85",
+      "491.99"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Sancerre, Chateau De Sancerre, Loire Valley",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "64,00 US$",
+    "bbox": [
+      "364.18",
+      "482.99",
+      "406.68",
+      "491.99"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "64,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Louis Michel 1Er Cru ‘Les Sechets, Chablis",
+    "bbox": [
+      "435.31",
+      "482.99",
+      "607.81",
+      "491.99"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Louis Michel 1Er Cru ‘Les Sechets, Chablis",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "90,00 US$",
+    "bbox": [
+      "736.49",
+      "482.99",
+      "778.99",
+      "491.99"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "90,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sancerre, Langlois Chateau, Loire Valley",
+    "bbox": [
+      "63.00",
+      "510.71",
+      "225.84",
+      "519.71"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Sancerre, Langlois Chateau, Loire Valley",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "56,00 US$",
+    "bbox": [
+      "364.18",
+      "510.71",
+      "406.68",
+      "519.71"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "56,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Bouchard Bourgogne Chardonnay ‘Reserve’, Burgundy",
+    "bbox": [
+      "435.31",
+      "510.71",
+      "655.32",
+      "519.71"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Bouchard Bourgogne Chardonnay ‘Reserve’, Burgundy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "52,00 US$",
+    "bbox": [
+      "736.49",
+      "510.71",
+      "778.99",
+      "519.71"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "52,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Cotes Du Rhone Blanc, Guigal, Rhone Valley",
+    "bbox": [
+      "63.00",
+      "538.44",
+      "243.35",
+      "547.44"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Cotes Du Rhone Blanc, Guigal, Rhone Valley",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "42,00 US$",
+    "bbox": [
+      "364.18",
+      "538.44",
+      "406.68",
+      "547.44"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "42,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Vincent Girardin, Burgundy",
+    "bbox": [
+      "435.31",
+      "538.44",
+      "543.15",
+      "547.44"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Vincent Girardin, Burgundy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "175,00 US$",
+    "bbox": [
+      "731.49",
+      "538.44",
+      "779.00",
+      "547.44"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "175,00 US$",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6 av 13",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "29.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2022-04-13 08:52",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Venteux Chicago",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "68.59",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://venteuxchicago.com/menu/",
+    "bbox": [
+      "704.03",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Pouilly-Fume, Dagueneau ‘Domaine Des Berthiers’",
+    "bbox": [
+      "63.00",
+      "37.66",
+      "266.51",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "62,00 US$",
+    "bbox": [
+      "364.17",
+      "37.66",
+      "406.68",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "373.75",
+      "111.24",
+      "468.25",
+      "127.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Sea Sun, California",
+    "bbox": [
+      "63.00",
+      "174.99",
+      "140.52",
+      "183.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "36,00 US$",
+    "bbox": [
+      "364.17",
+      "174.99",
+      "406.68",
+      "183.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Domaine Anderson, Willamette Valley",
+    "bbox": [
+      "435.31",
+      "174.99",
+      "585.66",
+      "183.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "98,00 US$",
+    "bbox": [
+      "736.49",
+      "174.99",
+      "778.99",
+      "183.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Prisoner, California",
+    "bbox": [
+      "63.00",
+      "202.71",
+      "139.02",
+      "211.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "66,00 US$",
+    "bbox": [
+      "364.17",
+      "202.71",
+      "406.68",
+      "211.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Domaine Serene, Willamette Valley",
+    "bbox": [
+      "435.31",
+      "202.71",
+      "576.16",
+      "211.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "156,00 US$",
+    "bbox": [
+      "731.49",
+      "202.71",
+      "779.00",
+      "211.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Au Don Climat ‘Isabelle’, California",
+    "bbox": [
+      "63.00",
+      "230.44",
+      "201.51",
+      "239.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "108,00 US$",
+    "bbox": [
+      "359.17",
+      "230.44",
+      "406.68",
+      "239.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Sanford, “La Rinconada”, Santa Barbara",
+    "bbox": [
+      "435.31",
+      "230.44",
+      "596.33",
+      "239.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "120,00 US$",
+    "bbox": [
+      "731.49",
+      "230.44",
+      "779.00",
+      "239.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CABERNET",
+    "bbox": [
+      "376.00",
+      "304.02",
+      "466.00",
+      "320.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Unshackled By Prisoner, California",
+    "bbox": [
+      "63.00",
+      "367.76",
+      "201.52",
+      "376.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "64,00 US$",
+    "bbox": [
+      "364.17",
+      "367.76",
+      "406.68",
+      "376.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Miner, Oakville",
+    "bbox": [
+      "435.31",
+      "367.76",
+      "494.32",
+      "376.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "125,00 US$",
+    "bbox": [
+      "731.49",
+      "367.76",
+      "779.00",
+      "376.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Rodney Strong, Alexander Valley",
+    "bbox": [
+      "63.00",
+      "395.49",
+      "194.85",
+      "404.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "42,00 US$",
+    "bbox": [
+      "364.17",
+      "395.49",
+      "406.68",
+      "404.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Jordan, Alexander Valley",
+    "bbox": [
+      "435.31",
+      "395.49",
+      "534.66",
+      "404.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "127,00 US$",
+    "bbox": [
+      "731.49",
+      "395.49",
+      "779.00",
+      "404.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Roth, Alexander Valley",
+    "bbox": [
+      "63.00",
+      "423.21",
+      "153.85",
+      "432.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "48,00 US$",
+    "bbox": [
+      "364.17",
+      "423.21",
+      "406.68",
+      "432.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ELEGANT REDS",
+    "bbox": [
+      "357.55",
+      "496.79",
+      "484.46",
+      "512.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7 av 13",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "29.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "2022-04-13 08:52",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Venteux Chicago",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "68.59",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://venteuxchicago.com/menu/",
+    "bbox": [
+      "704.03",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Shiraz, Barossa Valley, Australia",
+    "bbox": [
+      "63.00",
+      "37.66",
+      "192.19",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "38,00 US$",
+    "bbox": [
+      "364.17",
+      "37.66",
+      "406.68",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Blend, Daou “Pessimist”",
+    "bbox": [
+      "435.31",
+      "37.66",
+      "531.82",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "54,00 US$",
+    "bbox": [
+      "736.49",
+      "37.66",
+      "778.99",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Merlot, Ferrari Carano, Sonoma",
+    "bbox": [
+      "63.00",
+      "65.39",
+      "190.02",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "48,00 US$",
+    "bbox": [
+      "364.17",
+      "65.39",
+      "406.68",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Zinfandel, Saldo By Prisoner, Dry Creek Valley",
+    "bbox": [
+      "435.31",
+      "65.39",
+      "620.66",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "68,00 US$",
+    "bbox": [
+      "736.49",
+      "65.39",
+      "778.99",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Malbec, Terrazas ‘Reserve’, Mendoza",
+    "bbox": [
+      "63.00",
+      "93.11",
+      "213.52",
+      "102.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "42,00 US$",
+    "bbox": [
+      "364.17",
+      "93.11",
+      "406.68",
+      "102.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Zinfandel Blend, Prisoner, Napa",
+    "bbox": [
+      "435.31",
+      "93.11",
+      "562.33",
+      "102.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "78,00 US$",
+    "bbox": [
+      "736.49",
+      "93.11",
+      "778.99",
+      "102.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Malbec, Red Schooner By Caymus, Argentina",
+    "bbox": [
+      "63.00",
+      "120.84",
+      "246.51",
+      "129.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "72,00 US$",
+    "bbox": [
+      "364.17",
+      "120.84",
+      "406.68",
+      "129.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Bordeaux Blend, Stag’S Leap “Hands Of Time”, Napa",
+    "bbox": [
+      "435.31",
+      "120.84",
+      "648.49",
+      "129.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "85,00 US$",
+    "bbox": [
+      "736.49",
+      "120.84",
+      "778.99",
+      "129.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Blend, Marietta Old Vine Red",
+    "bbox": [
+      "63.00",
+      "148.56",
+      "179.36",
+      "157.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "52,00 US$",
+    "bbox": [
+      "364.17",
+      "148.56",
+      "406.68",
+      "157.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "FRENCH REDS",
+    "bbox": [
+      "362.50",
+      "222.14",
+      "479.51",
+      "238.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Pinot Noir, Bouchard, Burgundy",
+    "bbox": [
+      "63.00",
+      "285.89",
+      "189.00",
+      "294.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "42,00 US$",
+    "bbox": [
+      "364.17",
+      "285.89",
+      "406.68",
+      "294.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Bordeaux, Chateau Coutet, Emillion",
+    "bbox": [
+      "435.31",
+      "285.89",
+      "578.34",
+      "294.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "75,00 US$",
+    "bbox": [
+      "736.49",
+      "285.89",
+      "778.99",
+      "294.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Pinot Noir, Latour, Burgundy",
+    "bbox": [
+      "63.00",
+      "313.61",
+      "175.50",
+      "322.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "46,00 US$",
+    "bbox": [
+      "364.17",
+      "313.61",
+      "406.68",
+      "322.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Bordeaux, Chateau Grand Puy Ducasse, Pauillac",
+    "bbox": [
+      "435.31",
+      "313.61",
+      "632.32",
+      "322.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "150,00 US$",
+    "bbox": [
+      "731.49",
+      "313.61",
+      "779.00",
+      "322.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Pinot Noir, Domaine Faiveley ‘Mercurey Rogue’, Burgundy",
+    "bbox": [
+      "63.00",
+      "341.34",
+      "295.51",
+      "350.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "76,00 US$",
+    "bbox": [
+      "364.17",
+      "341.34",
+      "406.70",
+      "350.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Bordeaux, Chateau Saint Suplice",
+    "bbox": [
+      "435.31",
+      "341.34",
+      "567.82",
+      "350.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "42,00 US$",
+    "bbox": [
+      "736.49",
+      "341.34",
+      "778.99",
+      "350.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Mommessin Morgon, ‘Cote Du Py’, Morgon",
+    "bbox": [
+      "63.00",
+      "369.06",
+      "235.01",
+      "378.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "48,00 US$",
+    "bbox": [
+      "364.17",
+      "369.06",
+      "406.68",
+      "378.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Chateauneuf-Du-Pape, Saintes Pierre De Nalys, Rhone",
+    "bbox": [
+      "435.31",
+      "369.06",
+      "657.33",
+      "378.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "84,00 US$",
+    "bbox": [
+      "736.49",
+      "369.06",
+      "778.99",
+      "378.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Cotes Du Rhone Rouge, Guigal, Rhone Valley",
+    "bbox": [
+      "63.00",
+      "396.79",
+      "247.35",
+      "405.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "42,00 US$",
+    "bbox": [
+      "364.17",
+      "396.79",
+      "406.68",
+      "405.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Bordeaux, Chateau De Pez, St. Estephe",
+    "bbox": [
+      "435.31",
+      "396.79",
+      "596.33",
+      "405.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "99,00 US$",
+    "bbox": [
+      "736.49",
+      "396.79",
+      "778.99",
+      "405.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "PORT & DESSERT WINE",
+    "bbox": [
+      "326.51",
+      "470.37",
+      "515.53",
+      "486.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Sandeman 10 Tawny",
+    "bbox": [
+      "63.00",
+      "534.11",
+      "147.01",
+      "543.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.18",
+      "534.11",
+      "406.68",
+      "543.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Grahams 30 Tawny",
+    "bbox": [
+      "435.32",
+      "534.11",
+      "512.82",
+      "543.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "32,00 US$",
+    "bbox": [
+      "736.49",
+      "534.11",
+      "778.99",
+      "543.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8 av 13",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "29.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "2022-04-13 08:52",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Venteux Chicago",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "68.59",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "https://venteuxchicago.com/menu/",
+    "bbox": [
+      "704.03",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Sandeman 20 Tawny",
+    "bbox": [
+      "63.00",
+      "37.66",
+      "147.01",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "18,00 US$",
+    "bbox": [
+      "364.17",
+      "37.66",
+      "406.68",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Gonzalez Byass Sherry Nectar Px",
+    "bbox": [
+      "435.32",
+      "37.66",
+      "571.31",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "26,00 US$",
+    "bbox": [
+      "736.49",
+      "37.66",
+      "778.99",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "VODKA",
+    "bbox": [
+      "391.75",
+      "111.24",
+      "450.25",
+      "127.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Stoli Elit",
+    "bbox": [
+      "63.00",
+      "174.99",
+      "95.51",
+      "183.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "18,00 US$",
+    "bbox": [
+      "364.18",
+      "174.99",
+      "406.68",
+      "183.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Absolut",
+    "bbox": [
+      "435.31",
+      "174.99",
+      "465.33",
+      "183.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "12,00 US$",
+    "bbox": [
+      "736.49",
+      "174.99",
+      "778.99",
+      "183.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Grey Goose",
+    "bbox": [
+      "63.00",
+      "202.71",
+      "111.52",
+      "211.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.18",
+      "202.71",
+      "406.68",
+      "211.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Absolut Elyx",
+    "bbox": [
+      "435.31",
+      "202.71",
+      "484.83",
+      "211.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "14,00 US$",
+    "bbox": [
+      "736.49",
+      "202.71",
+      "778.99",
+      "211.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Belvedere",
+    "bbox": [
+      "63.00",
+      "230.44",
+      "103.50",
+      "239.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "16,00 US$",
+    "bbox": [
+      "364.18",
+      "230.44",
+      "406.68",
+      "239.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Absolut Vanila",
+    "bbox": [
+      "435.31",
+      "230.44",
+      "492.17",
+      "239.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "14,00 US$",
+    "bbox": [
+      "736.49",
+      "230.44",
+      "778.99",
+      "239.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Chopin",
+    "bbox": [
+      "63.00",
+      "258.16",
+      "91.52",
+      "267.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.18",
+      "258.16",
+      "406.68",
+      "267.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "BOURBON / RYE",
+    "bbox": [
+      "356.05",
+      "331.74",
+      "485.96",
+      "347.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Jack Daniels",
+    "bbox": [
+      "63.00",
+      "395.49",
+      "114.02",
+      "404.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "12,00 US$",
+    "bbox": [
+      "364.18",
+      "395.49",
+      "406.68",
+      "404.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Knob Creek Rye",
+    "bbox": [
+      "435.31",
+      "395.49",
+      "501.32",
+      "404.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "15,00 US$",
+    "bbox": [
+      "736.49",
+      "395.49",
+      "778.99",
+      "404.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Jack Daniels Single Barrel",
+    "bbox": [
+      "63.00",
+      "423.21",
+      "168.02",
+      "432.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "15,00 US$",
+    "bbox": [
+      "364.18",
+      "423.21",
+      "406.68",
+      "432.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Bookers",
+    "bbox": [
+      "435.31",
+      "423.21",
+      "468.33",
+      "432.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "20,00 US$",
+    "bbox": [
+      "736.49",
+      "423.21",
+      "778.99",
+      "432.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Makers Mark",
+    "bbox": [
+      "63.00",
+      "450.94",
+      "115.00",
+      "459.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.18",
+      "450.94",
+      "406.68",
+      "459.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Forty Creek",
+    "bbox": [
+      "435.31",
+      "450.94",
+      "482.32",
+      "459.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "14,00 US$",
+    "bbox": [
+      "736.49",
+      "450.94",
+      "778.99",
+      "459.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Makers 46",
+    "bbox": [
+      "63.00",
+      "478.66",
+      "105.02",
+      "487.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "16,00 US$",
+    "bbox": [
+      "364.18",
+      "478.66",
+      "406.68",
+      "487.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Bushmills",
+    "bbox": [
+      "435.31",
+      "478.66",
+      "473.82",
+      "487.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "14,00 US$",
+    "bbox": [
+      "736.49",
+      "478.66",
+      "778.99",
+      "487.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Woodford Reserve",
+    "bbox": [
+      "63.00",
+      "506.39",
+      "137.85",
+      "515.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "15,00 US$",
+    "bbox": [
+      "364.18",
+      "506.39",
+      "406.68",
+      "515.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Jameson",
+    "bbox": [
+      "435.31",
+      "506.39",
+      "471.83",
+      "515.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "12,00 US$",
+    "bbox": [
+      "736.49",
+      "506.39",
+      "778.99",
+      "515.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Basil Hayden",
+    "bbox": [
+      "63.00",
+      "534.11",
+      "116.00",
+      "543.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "16,00 US$",
+    "bbox": [
+      "364.18",
+      "534.11",
+      "406.68",
+      "543.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "High West American Prairie",
+    "bbox": [
+      "435.31",
+      "534.11",
+      "545.67",
+      "543.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "16,00 US$",
+    "bbox": [
+      "736.49",
+      "534.11",
+      "778.99",
+      "543.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "9 av 13",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "29.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "2022-04-13 08:52",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Venteux Chicago",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "68.59",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "https://venteuxchicago.com/menu/",
+    "bbox": [
+      "704.03",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Basil Hayden Rye",
+    "bbox": [
+      "63.00",
+      "37.66",
+      "134.51",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "16,00 US$",
+    "bbox": [
+      "364.17",
+      "37.66",
+      "406.68",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "High West Double Rye",
+    "bbox": [
+      "435.31",
+      "37.66",
+      "526.15",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "16,00 US$",
+    "bbox": [
+      "736.49",
+      "37.66",
+      "778.99",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Bulleit",
+    "bbox": [
+      "63.00",
+      "65.39",
+      "87.51",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.17",
+      "65.39",
+      "406.68",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Mitcher’S Rye",
+    "bbox": [
+      "435.31",
+      "65.39",
+      "491.65",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "16,00 US$",
+    "bbox": [
+      "736.49",
+      "65.39",
+      "778.99",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Bulleit Rye",
+    "bbox": [
+      "63.00",
+      "93.11",
+      "106.02",
+      "102.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "15,00 US$",
+    "bbox": [
+      "364.17",
+      "93.11",
+      "406.68",
+      "102.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Hibiki",
+    "bbox": [
+      "435.31",
+      "93.11",
+      "457.32",
+      "102.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "18,00 US$",
+    "bbox": [
+      "736.49",
+      "93.11",
+      "778.99",
+      "102.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Knob Creek",
+    "bbox": [
+      "63.00",
+      "120.84",
+      "110.50",
+      "129.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.17",
+      "120.84",
+      "406.68",
+      "129.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Suntory Toki",
+    "bbox": [
+      "435.31",
+      "120.84",
+      "484.82",
+      "129.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "16,00 US$",
+    "bbox": [
+      "736.49",
+      "120.84",
+      "778.99",
+      "129.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "SCOTCH",
+    "bbox": [
+      "386.80",
+      "194.42",
+      "455.20",
+      "210.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Auchentoshan American Oak",
+    "bbox": [
+      "63.00",
+      "258.16",
+      "180.01",
+      "267.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "16,00 US$",
+    "bbox": [
+      "364.18",
+      "258.16",
+      "406.68",
+      "267.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Johnny Walker Blue Label",
+    "bbox": [
+      "435.31",
+      "258.16",
+      "539.49",
+      "267.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "64,00 US$",
+    "bbox": [
+      "736.49",
+      "258.16",
+      "778.99",
+      "267.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Aberfeldy 16",
+    "bbox": [
+      "63.00",
+      "285.89",
+      "113.51",
+      "294.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "32,00 US$",
+    "bbox": [
+      "364.18",
+      "285.89",
+      "406.68",
+      "294.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Laphroig",
+    "bbox": [
+      "435.31",
+      "285.89",
+      "470.31",
+      "294.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "16,00 US$",
+    "bbox": [
+      "736.49",
+      "285.89",
+      "778.99",
+      "294.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Glenlivit 12",
+    "bbox": [
+      "63.00",
+      "313.61",
+      "107.52",
+      "322.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "16,00 US$",
+    "bbox": [
+      "364.18",
+      "313.61",
+      "406.68",
+      "322.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Lagavulin",
+    "bbox": [
+      "435.31",
+      "313.61",
+      "473.82",
+      "322.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "18,00 US$",
+    "bbox": [
+      "736.49",
+      "313.61",
+      "778.99",
+      "322.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Glenlivit 18",
+    "bbox": [
+      "63.00",
+      "341.34",
+      "107.52",
+      "350.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "18,00 US$",
+    "bbox": [
+      "364.18",
+      "341.34",
+      "406.68",
+      "350.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Chivas",
+    "bbox": [
+      "435.31",
+      "341.34",
+      "462.82",
+      "350.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "14,00 US$",
+    "bbox": [
+      "736.49",
+      "341.34",
+      "778.99",
+      "350.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Glenmorangie",
+    "bbox": [
+      "63.00",
+      "369.06",
+      "119.50",
+      "378.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "16,00 US$",
+    "bbox": [
+      "364.18",
+      "369.06",
+      "406.68",
+      "378.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Dalmore 12",
+    "bbox": [
+      "435.31",
+      "369.06",
+      "481.83",
+      "378.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "16,00 US$",
+    "bbox": [
+      "736.49",
+      "369.06",
+      "778.99",
+      "378.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Glenmorangie 18",
+    "bbox": [
+      "63.00",
+      "396.79",
+      "132.02",
+      "405.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "25,00 US$",
+    "bbox": [
+      "364.18",
+      "396.79",
+      "406.68",
+      "405.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Balvenie 12",
+    "bbox": [
+      "435.31",
+      "396.79",
+      "482.32",
+      "405.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "18,00 US$",
+    "bbox": [
+      "736.49",
+      "396.79",
+      "778.99",
+      "405.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Johnny Walker Black Label",
+    "bbox": [
+      "63.00",
+      "424.51",
+      "171.18",
+      "433.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "16,00 US$",
+    "bbox": [
+      "364.18",
+      "424.51",
+      "406.68",
+      "433.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Balvenie 14",
+    "bbox": [
+      "435.31",
+      "424.51",
+      "482.32",
+      "433.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "25,00 US$",
+    "bbox": [
+      "736.49",
+      "424.51",
+      "778.99",
+      "433.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "GIN",
+    "bbox": [
+      "406.60",
+      "498.09",
+      "435.40",
+      "514.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "10 av 13",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "34.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "2022-04-13 08:52",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Venteux Chicago",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "68.59",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "https://venteuxchicago.com/menu/",
+    "bbox": [
+      "704.03",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Bombay",
+    "bbox": [
+      "63.00",
+      "37.66",
+      "96.02",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.17",
+      "37.66",
+      "406.68",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Tanqueray 10",
+    "bbox": [
+      "435.31",
+      "37.66",
+      "489.82",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "16,00 US$",
+    "bbox": [
+      "736.49",
+      "37.66",
+      "778.99",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Bombay Sapphire",
+    "bbox": [
+      "63.00",
+      "65.39",
+      "134.52",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "15,00 US$",
+    "bbox": [
+      "364.17",
+      "65.39",
+      "406.68",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Hendricks",
+    "bbox": [
+      "435.31",
+      "65.39",
+      "475.32",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "14,00 US$",
+    "bbox": [
+      "736.49",
+      "65.39",
+      "778.99",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Bombay Sapphire East",
+    "bbox": [
+      "63.00",
+      "93.11",
+      "155.00",
+      "102.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "16,00 US$",
+    "bbox": [
+      "364.17",
+      "93.11",
+      "406.68",
+      "102.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Plymouth",
+    "bbox": [
+      "435.31",
+      "93.11",
+      "472.83",
+      "102.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "14,00 US$",
+    "bbox": [
+      "736.49",
+      "93.11",
+      "778.99",
+      "102.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Tanqueray",
+    "bbox": [
+      "63.00",
+      "120.84",
+      "105.00",
+      "129.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.17",
+      "120.84",
+      "406.68",
+      "129.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Sipsmith",
+    "bbox": [
+      "435.31",
+      "120.84",
+      "469.82",
+      "129.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "14,00 US$",
+    "bbox": [
+      "736.49",
+      "120.84",
+      "778.99",
+      "129.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "COGNAC",
+    "bbox": [
+      "385.00",
+      "194.42",
+      "457.00",
+      "210.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Hennessy Vs",
+    "bbox": [
+      "63.00",
+      "258.16",
+      "116.00",
+      "267.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.18",
+      "258.16",
+      "406.68",
+      "267.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Remy Martin 1738",
+    "bbox": [
+      "435.31",
+      "258.16",
+      "508.81",
+      "267.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "24,00 US$",
+    "bbox": [
+      "736.49",
+      "258.16",
+      "778.99",
+      "267.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Hennessy Vsop",
+    "bbox": [
+      "63.00",
+      "285.89",
+      "126.01",
+      "294.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "18,00 US$",
+    "bbox": [
+      "364.18",
+      "285.89",
+      "406.68",
+      "294.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Remy Martin Vsop",
+    "bbox": [
+      "435.31",
+      "285.89",
+      "509.33",
+      "294.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "20,00 US$",
+    "bbox": [
+      "736.49",
+      "285.89",
+      "778.99",
+      "294.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Hennessy Xo",
+    "bbox": [
+      "63.00",
+      "313.61",
+      "116.50",
+      "322.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "50,00 US$",
+    "bbox": [
+      "364.18",
+      "313.61",
+      "406.68",
+      "322.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Remy Martin Xo",
+    "bbox": [
+      "435.31",
+      "313.61",
+      "499.83",
+      "322.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "52,00 US$",
+    "bbox": [
+      "736.49",
+      "313.61",
+      "778.99",
+      "322.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "TEQUILA",
+    "bbox": [
+      "385.45",
+      "387.19",
+      "456.55",
+      "403.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Avion Blanco",
+    "bbox": [
+      "63.00",
+      "450.94",
+      "115.34",
+      "459.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "13,00 US$",
+    "bbox": [
+      "364.18",
+      "450.94",
+      "406.68",
+      "459.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Clase Azul Reposado",
+    "bbox": [
+      "435.31",
+      "450.94",
+      "521.84",
+      "459.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "35,00 US$",
+    "bbox": [
+      "736.49",
+      "450.94",
+      "778.99",
+      "459.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Avion Reposado",
+    "bbox": [
+      "63.00",
+      "478.66",
+      "128.86",
+      "487.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.18",
+      "478.66",
+      "406.68",
+      "487.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Casa Noble Blanco",
+    "bbox": [
+      "435.31",
+      "478.66",
+      "512.33",
+      "487.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "13,00 US$",
+    "bbox": [
+      "736.49",
+      "478.66",
+      "778.99",
+      "487.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Avion Anejo",
+    "bbox": [
+      "63.00",
+      "506.39",
+      "110.84",
+      "515.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "16,00 US$",
+    "bbox": [
+      "364.18",
+      "506.39",
+      "406.68",
+      "515.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Casa Noble Reposado",
+    "bbox": [
+      "435.31",
+      "506.39",
+      "525.82",
+      "515.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "15,00 US$",
+    "bbox": [
+      "736.49",
+      "506.39",
+      "778.99",
+      "515.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Casamigos Blanco",
+    "bbox": [
+      "63.00",
+      "534.11",
+      "138.01",
+      "543.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "13,00 US$",
+    "bbox": [
+      "364.18",
+      "534.11",
+      "406.68",
+      "543.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Casa Noble Anejo",
+    "bbox": [
+      "435.31",
+      "534.11",
+      "507.83",
+      "543.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "17,00 US$",
+    "bbox": [
+      "736.49",
+      "534.11",
+      "778.99",
+      "543.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "11 av 13",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "34.07",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "2022-04-13 08:52",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Venteux Chicago",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "68.59",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "https://venteuxchicago.com/menu/",
+    "bbox": [
+      "704.03",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Casamigos Reposado",
+    "bbox": [
+      "63.00",
+      "37.66",
+      "151.52",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "15,00 US$",
+    "bbox": [
+      "364.17",
+      "37.66",
+      "406.68",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Don Julio Blanco",
+    "bbox": [
+      "435.31",
+      "37.66",
+      "502.83",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "13,00 US$",
+    "bbox": [
+      "736.49",
+      "37.66",
+      "778.99",
+      "46.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Casamigos Anejo",
+    "bbox": [
+      "63.00",
+      "65.39",
+      "133.51",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "17,00 US$",
+    "bbox": [
+      "364.17",
+      "65.39",
+      "406.68",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Don Julio Anejo",
+    "bbox": [
+      "435.31",
+      "65.39",
+      "498.33",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "15,00 US$",
+    "bbox": [
+      "736.49",
+      "65.39",
+      "778.99",
+      "74.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Casa Dragones Blanco",
+    "bbox": [
+      "63.00",
+      "93.11",
+      "155.53",
+      "102.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "18,00 US$",
+    "bbox": [
+      "364.17",
+      "93.11",
+      "406.68",
+      "102.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Don Julio 1942",
+    "bbox": [
+      "435.31",
+      "93.11",
+      "495.33",
+      "102.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "40,00 US$",
+    "bbox": [
+      "736.49",
+      "93.11",
+      "778.99",
+      "102.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Casa Dragones Joven",
+    "bbox": [
+      "63.00",
+      "120.84",
+      "152.02",
+      "129.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "55,00 US$",
+    "bbox": [
+      "364.17",
+      "120.84",
+      "406.68",
+      "129.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Espolon",
+    "bbox": [
+      "435.31",
+      "120.84",
+      "467.84",
+      "129.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "12,00 US$",
+    "bbox": [
+      "736.49",
+      "120.84",
+      "778.99",
+      "129.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Casa Dragones Anejo",
+    "bbox": [
+      "63.00",
+      "148.56",
+      "151.03",
+      "157.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "45,00 US$",
+    "bbox": [
+      "364.17",
+      "148.56",
+      "406.68",
+      "157.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Teremana Blanco",
+    "bbox": [
+      "435.31",
+      "148.56",
+      "505.32",
+      "157.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "14,00 US$",
+    "bbox": [
+      "736.49",
+      "148.56",
+      "778.99",
+      "157.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Clase Azul Blanco",
+    "bbox": [
+      "63.00",
+      "176.29",
+      "136.01",
+      "185.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "20,00 US$",
+    "bbox": [
+      "364.17",
+      "176.29",
+      "406.68",
+      "185.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "MEZCAL",
+    "bbox": [
+      "387.25",
+      "249.87",
+      "454.74",
+      "266.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Del Maguey Vida",
+    "bbox": [
+      "63.00",
+      "313.61",
+      "131.35",
+      "322.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.18",
+      "313.61",
+      "406.68",
+      "322.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Ilegal Anejo",
+    "bbox": [
+      "435.31",
+      "313.61",
+      "482.32",
+      "322.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "18,00 US$",
+    "bbox": [
+      "736.49",
+      "313.61",
+      "778.99",
+      "322.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Del Maguey Chichicapa",
+    "bbox": [
+      "63.00",
+      "341.34",
+      "158.02",
+      "350.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "16,00 US$",
+    "bbox": [
+      "364.18",
+      "341.34",
+      "406.68",
+      "350.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Casamigos",
+    "bbox": [
+      "435.31",
+      "341.34",
+      "480.33",
+      "350.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "16,00 US$",
+    "bbox": [
+      "736.49",
+      "341.34",
+      "778.99",
+      "350.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "El Silencio Joven",
+    "bbox": [
+      "63.00",
+      "369.06",
+      "131.51",
+      "378.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "14,00 US$",
+    "bbox": [
+      "364.18",
+      "369.06",
+      "406.68",
+      "378.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "12 av 13",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "34.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "2022-04-13 08:52",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Venteux Chicago",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "68.59",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "https://venteuxchicago.com/menu/",
+    "bbox": [
+      "704.03",
+      "1.16",
+      "842.02",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Location",
+    "bbox": [
+      "84.75",
+      "65.95",
+      "135.52",
+      "78.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "HOURS",
+    "bbox": [
+      "713.78",
+      "65.95",
+      "757.25",
+      "78.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Pendry Hotel Chicago",
+    "bbox": [
+      "84.75",
+      "94.57",
+      "182.26",
+      "104.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "CAFE: 7:00am to 3:00pm daily",
+    "bbox": [
+      "623.25",
+      "94.57",
+      "757.24",
+      "104.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "224 N Michigan Avenue",
+    "bbox": [
+      "84.75",
+      "112.12",
+      "191.39",
+      "121.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "BRUNCH: 10:00am to 3:00pm saturday & sunday",
+    "bbox": [
+      "536.72",
+      "112.12",
+      "757.25",
+      "121.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Chicago, IL 60601",
+    "bbox": [
+      "84.75",
+      "129.67",
+      "163.85",
+      "139.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "DINNER: 4:00pm - 9:00pm tuesday - thursday",
+    "bbox": [
+      "552.56",
+      "129.67",
+      "757.24",
+      "139.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "312-777-9003",
+    "bbox": [
+      "84.75",
+      "147.22",
+      "146.77",
+      "156.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "4:00pm - 10:00pm friday & saturday",
+    "bbox": [
+      "594.44",
+      "147.22",
+      "757.24",
+      "156.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "closed for dinner on sunday & monday",
+    "bbox": [
+      "581.05",
+      "164.77",
+      "757.26",
+      "174.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "(HTTPS(H:/T/TWPWS:W/./IWNWSTWA.GFARCAEMB.OCOOMK.COM",
+    "bbox": [
+      "84.75",
+      "209.74",
+      "305.49",
+      "217.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "© CLIQUE HOSPITALITY 2021 (HTTPS://CLIQUEHOSPITALITY.COM/)",
+    "bbox": [
+      "352.77",
+      "213.42",
+      "754.25",
+      "220.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "/VENT/EVUEXNCTHEIUCXACGHOI/C)AGO/)",
+    "bbox": [
+      "84.75",
+      "220.45",
+      "241.94",
+      "227.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "13 av 13",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "34.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "2022-04-13 08:52",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

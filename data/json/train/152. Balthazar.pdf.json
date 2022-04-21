@@ -1,0 +1,7987 @@
+[
+  {
+    "page_number": 1,
+    "text": "W",
+    "bbox": [
+      "204.50",
+      "99.29",
+      "235.05",
+      "128.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "IN",
+    "bbox": [
+      "241.22",
+      "99.29",
+      "268.30",
+      "128.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E BY TH",
+    "bbox": [
+      "274.47",
+      "99.29",
+      "388.91",
+      "128.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E GLASS",
+    "bbox": [
+      "395.08",
+      "99.29",
+      "519.70",
+      "128.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "B",
+    "bbox": [
+      "153.36",
+      "140.78",
+      "171.64",
+      "158.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "L",
+    "bbox": [
+      "176.04",
+      "140.78",
+      "192.68",
+      "158.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A",
+    "bbox": [
+      "197.08",
+      "140.78",
+      "214.06",
+      "158.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "N",
+    "bbox": [
+      "218.46",
+      "140.78",
+      "237.39",
+      "158.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "C",
+    "bbox": [
+      "241.80",
+      "140.78",
+      "279.63",
+      "158.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "R",
+    "bbox": [
+      "373.87",
+      "140.78",
+      "468.35",
+      "158.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "O",
+    "bbox": [
+      "472.75",
+      "140.78",
+      "490.38",
+      "158.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "U",
+    "bbox": [
+      "494.78",
+      "140.78",
+      "513.39",
+      "158.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "G",
+    "bbox": [
+      "517.80",
+      "140.78",
+      "535.42",
+      "158.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "539.83",
+      "140.78",
+      "558.11",
+      "158.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3060} SAVOIE Jacquère-Chasselas Maison .P .Viallet .‘20   .  .  .  .  .  . 16",
+    "bbox": [
+      "71.87",
+      "165.53",
+      "318.60",
+      "175.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "3060} SAVOIE Jacquère-Chasselas Maison .P .Viallet .",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "‘20",
+            "answer_start": 52
+          }
+        ],
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 75
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "5327} MORGON “Côte du Py” Domaine .de .Robert .‘20 . . . . . . . . . . . . . .18",
+    "bbox": [
+      "373.87",
+      "167.94",
+      "638.22",
+      "178.01"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "5327} MORGON “Côte du Py” Domaine .de .Robert .",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": ".‘20 .",
+            "answer_start": 46
+          }
+        ],
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 78
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3295}  SANCERRE  “Chêne Marchand” .S .Bailly .‘20  . . .  .  .  .  .  .  .23",
+    "bbox": [
+      "71.87",
+      "181.24",
+      "318.60",
+      "191.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "3295}  SANCERRE  “Chêne Marchand” .S .Bailly .",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "‘20",
+            "answer_start": 46
+          }
+        ],
+        "P": [
+          {
+            "text": "23",
+            "answer_start": 74
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "4868} BOURGOGNE Pinot Noir A .Montessuy .‘20 . . . . . . . . . . . . . . . . . . .19",
+    "bbox": [
+      "373.87",
+      "189.13",
+      "638.22",
+      "199.20"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "4868} BOURGOGNE Pinot Noir A .Montessuy .",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "‘20",
+            "answer_start": 41
+          }
+        ],
+        "P": [
+          {
+            "text": "19",
+            "answer_start": 82
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3298}  POUILLY-FUMÉ C .Bardin .‘20  . . . . . . . . . . . . . . . .  .  .  .  .  .  . 19",
+    "bbox": [
+      "71.87",
+      "198.02",
+      "321.30",
+      "208.09"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "3298}  POUILLY-FUMÉ C .Bardin",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "20",
+            "answer_start": 32
+          }
+        ],
+        "P": [
+          {
+            "text": "19",
+            "answer_start": 86
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "4146}  BORDEAUX BLANC La .Freynelle .‘20 . . . . . . . . . . . . . . . . .17",
+    "bbox": [
+      "71.87",
+      "214.80",
+      "318.60",
+      "224.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "4146}  BORDEAUX BLANC La .Freynelle",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "‘20 .",
+            "answer_start": 37
+          }
+        ],
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 74
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "4522}  SAUMUR Cabernet Franc Famille .Duveau .‘18  .  .  .  .  .  .  .  .  .  .  .  .  .  .17",
+    "bbox": [
+      "373.87",
+      "210.31",
+      "638.22",
+      "220.39"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "4522}  SAUMUR Cabernet Franc Famille .Duveau",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "18",
+            "answer_start": 47
+          }
+        ],
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 91
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3485}  CHABLIS Simonnet-Febvre .‘19 . . . . . . . . . . . . . . . . . . . . . . . .20",
+    "bbox": [
+      "71.87",
+      "232.55",
+      "318.60",
+      "242.63"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "3485}  CHABLIS Simonnet-Febvre",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "‘19",
+            "answer_start": 32
+          }
+        ],
+        "P": [
+          {
+            "text": "20",
+            "answer_start": 83
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "5753}  BORDEAUX “La Croix Blanches” Château .Grand .Portail .‘18 . .20",
+    "bbox": [
+      "373.87",
+      "231.50",
+      "640.93",
+      "241.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "5753}  BORDEAUX “La Croix Blanches” Château .Grand .Portail .",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "‘18",
+            "answer_start": 61
+          }
+        ],
+        "P": [
+          {
+            "text": "20",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3481}  BOURGOGNE Chardonnay Le .Prince .des .Pierres .‘20 . . . .21",
+    "bbox": [
+      "71.87",
+      "250.31",
+      "321.30",
+      "260.38"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "20",
+            "answer_start": 55
+          }
+        ],
+        "P": [
+          {
+            "text": "21",
+            "answer_start": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "5820}  SAINT-ESTEPHE Château .Coutelin-Merville .‘16 . . . . . . . . . . . . . . . . . . . . . .24",
+    "bbox": [
+      "373.87",
+      "252.69",
+      "638.22",
+      "262.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "5820}  SAINT-ESTEPHE Château .Coutelin-Merville .",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "‘16 .",
+            "answer_start": 49
+          }
+        ],
+        "P": [
+          {
+            "text": "24",
+            "answer_start": 96
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9 815}  C  O  T“PEeSti teD PUar cReHlleO” NMEar jBoLleAt .‘N19C . V . .i .o .g .n .i .e .r .- .R .o .u . .s .sa . .n . n . e .   .  .  .  . 17",
+    "bbox": [
+      "71.87",
+      "268.35",
+      "318.60",
+      "288.92"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "9 815}  C  O  T“PEeSti teD PUar cReHlleO” NMEar jBoLleAt .‘N19C . V . .i .o .g .n .i .e .r .- .R .o .u . .s .sa . .n . n . e .",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "r .",
+            "answer_start": 89
+          }
+        ],
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 140
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "5261}  RASTEAU Domaine .de .Beaurenard .‘18 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .22",
+    "bbox": [
+      "373.87",
+      "273.88",
+      "638.22",
+      "283.95"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "5261}  RASTEAU Domaine .de .Beaurenard .",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "‘18",
+            "answer_start": 40
+          }
+        ],
+        "P": [
+          {
+            "text": "22",
+            "answer_start": 105
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "R",
+    "bbox": [
+      "163.06",
+      "301.44",
+      "181.67",
+      "319.06"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "R",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "O",
+    "bbox": [
+      "186.08",
+      "301.44",
+      "203.70",
+      "319.06"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "O",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "S",
+    "bbox": [
+      "208.11",
+      "301.44",
+      "224.74",
+      "319.06"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "S",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "É",
+    "bbox": [
+      "229.15",
+      "301.44",
+      "247.43",
+      "319.06"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "É",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CARAFE=15 OUNCES",
+    "bbox": [
+      "457.72",
+      "307.65",
+      "575.99",
+      "314.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3784}  CÔTES DE PROVENCE ROSÉ Coeur .Esterelle .‘19  . . .18",
+    "bbox": [
+      "71.87",
+      "321.09",
+      "318.60",
+      "331.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "3784}  CÔTES DE PROVENCE ROSÉ Coeur .Esterelle",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "19",
+            "answer_start": 49
+          }
+        ],
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BALTHAZAR CARAFES",
+    "bbox": [
+      "410.81",
+      "321.33",
+      "606.56",
+      "342.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HALF BOTTLES",
+    "bbox": [
+      "137.47",
+      "343.39",
+      "291.57",
+      "364.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BLANC",
+    "bbox": [
+      "471.74",
+      "348.80",
+      "545.60",
+      "364.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BLANC",
+    "bbox": [
+      "173.66",
+      "368.17",
+      "283.66",
+      "385.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MUSCADET",
+    "bbox": [
+      "464.85",
+      "373.25",
+      "552.49",
+      "383.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Clos .de .la .Fine .‘20",
+    "bbox": [
+      "473.67",
+      "384.60",
+      "543.66",
+      "394.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3281}  Sancerre M .Girard .‘20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .60",
+    "bbox": [
+      "74.02",
+      "390.78",
+      "341.08",
+      "400.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "3281}  Sancerre M .Girard .",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "‘20 .",
+            "answer_start": 27
+          }
+        ],
+        "P": [
+          {
+            "text": "60",
+            "answer_start": 124
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "35",
+    "bbox": [
+      "501.98",
+      "397.74",
+      "515.35",
+      "409.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3148}  Pouilly-Fumé “Les Cris” A .Cailbourdin .‘20 . . . . . . . . . . . . . . . . . . . . . . . . . . . .48",
+    "bbox": [
+      "74.02",
+      "407.41",
+      "338.37",
+      "417.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "3148}  Pouilly-Fumé “Les Cris” A .Cailbourdin",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "20",
+            "answer_start": 48
+          }
+        ],
+        "P": [
+          {
+            "text": ".48",
+            "answer_start": 105
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MÂCON",
+    "bbox": [
+      "479.78",
+      "414.86",
+      "537.56",
+      "424.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3549}  Chablis D .Dampt .‘19 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .42",
+    "bbox": [
+      "74.02",
+      "424.03",
+      "341.08",
+      "434.07"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "3549}  Chablis D .Dampt",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "42",
+            "answer_start": 124
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Le Lac ‘18",
+    "bbox": [
+      "488.93",
+      "427.25",
+      "528.41",
+      "437.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3394}  Meursault JP .Fichet .‘19 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .98",
+    "bbox": [
+      "74.02",
+      "440.58",
+      "341.08",
+      "450.69"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "3394}  Meursault JP .Fichet .",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "19",
+            "answer_start": 30
+          }
+        ],
+        "P": [
+          {
+            "text": "98",
+            "answer_start": 124
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "35",
+    "bbox": [
+      "501.98",
+      "440.38",
+      "515.35",
+      "452.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3716}  Condrieu “La Petite Côte” Y .Cuilleron .‘20 . . . . . . . . . . . . . . . . . . . . . . . . . . . .58",
+    "bbox": [
+      "74.02",
+      "457.20",
+      "344.05",
+      "467.34"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "3716}  Condrieu “La Petite Côte” Y .Cuilleron .",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "‘20 .",
+            "answer_start": 47
+          }
+        ],
+        "P": [
+          {
+            "text": "58",
+            "answer_start": 106
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "481.19",
+      "458.85",
+      "536.14",
+      "476.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROUGE",
+    "bbox": [
+      "171.37",
+      "478.62",
+      "255.66",
+      "492.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROUGE",
+    "bbox": [
+      "470.92",
+      "481.67",
+      "546.41",
+      "497.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "4898}  Brouilly Château .des .Tours .‘19  . . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .  . 44",
+    "bbox": [
+      "74.02",
+      "498.21",
+      "338.37",
+      "508.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "4898}  Brouilly Château .des .Tours .",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "‘19",
+            "answer_start": 37
+          }
+        ],
+        "P": [
+          {
+            "text": "44",
+            "answer_start": 106
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BEAUJOLAIS-VILLAGES",
+    "bbox": [
+      "416.10",
+      "506.12",
+      "601.22",
+      "515.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "4650}  Chambolle-Musigny A&H .Sigaut .‘18 . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .  . 98",
+    "bbox": [
+      "74.02",
+      "514.79",
+      "338.37",
+      "524.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "4650}  Chambolle-Musigny A&H .Sigaut .",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "18",
+            "answer_start": 39
+          }
+        ],
+        "P": [
+          {
+            "text": "98",
+            "answer_start": 96
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bulliat ‘20",
+    "bbox": [
+      "488.18",
+      "518.51",
+      "529.16",
+      "528.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "5856}  Haut-Médoc Château .Larose-Trintaudon .‘16 . . . . . . . . . . . . . . .38",
+    "bbox": [
+      "74.02",
+      "531.41",
+      "344.05",
+      "541.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "5856}  Haut-Médoc Château .Larose-Trintaudon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "16 .",
+            "answer_start": 47
+          }
+        ],
+        "P": [
+          {
+            "text": "38",
+            "answer_start": 79
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "35",
+    "bbox": [
+      "501.98",
+      "531.15",
+      "515.35",
+      "542.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "5629}  St-George-St-Emilion Saint-André .Corbin .‘19 . . . . . . . . . . . . . .42",
+    "bbox": [
+      "74.02",
+      "548.04",
+      "344.05",
+      "558.15"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "5629}  St-George-St-Emilion Saint-André .Corbin .",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "‘19",
+            "answer_start": 49
+          }
+        ],
+        "P": [
+          {
+            "text": "42",
+            "answer_start": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CÔTES-DU-RHÔNE",
+    "bbox": [
+      "435.53",
+      "550.14",
+      "581.79",
+      "559.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Mireio .‘18",
+    "bbox": [
+      "490.09",
+      "560.52",
+      "527.24",
+      "570.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "5890}  Margaux Château .Prieuré-Lichine .‘16 . . . . . . . . . . .  .  .  .  .  .  .  .  .  . 125",
+    "bbox": [
+      "74.02",
+      "564.66",
+      "344.05",
+      "574.77"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "5890}  Margaux Château .Prieuré-Lichine .",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "‘16",
+            "answer_start": 41
+          }
+        ],
+        "P": [
+          {
+            "text": "125",
+            "answer_start": 94
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "35",
+    "bbox": [
+      "501.98",
+      "573.66",
+      "515.35",
+      "585.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "5242}  Gigondas Raspail .‘16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .55",
+    "bbox": [
+      "74.02",
+      "581.28",
+      "344.05",
+      "591.39"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "5242}  Gigondas Raspail .",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "‘16",
+            "answer_start": 25
+          }
+        ],
+        "P": [
+          {
+            "text": "55",
+            "answer_start": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "5237}  Bandol La .Suffrene .‘16  . . . . . . . . . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .  . 46",
+    "bbox": [
+      "74.02",
+      "597.97",
+      "338.37",
+      "608.01"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "5237}  Bandol La .Suffrene .",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "‘16",
+            "answer_start": 28
+          }
+        ],
+        "P": [
+          {
+            "text": "46",
+            "answer_start": 111
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "C",
+    "bbox": [
+      "263.76",
+      "623.45",
+      "276.15",
+      "659.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "H",
+    "bbox": [
+      "285.15",
+      "623.45",
+      "299.40",
+      "659.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A",
+    "bbox": [
+      "308.40",
+      "623.45",
+      "322.26",
+      "659.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "M",
+    "bbox": [
+      "331.26",
+      "623.45",
+      "348.51",
+      "659.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PA",
+    "bbox": [
+      "357.51",
+      "623.45",
+      "390.96",
+      "659.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "G",
+    "bbox": [
+      "399.42",
+      "623.45",
+      "413.68",
+      "659.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "N",
+    "bbox": [
+      "422.68",
+      "623.45",
+      "435.42",
+      "659.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "444.42",
+      "623.45",
+      "457.16",
+      "659.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "NON VINTAGE",
+    "bbox": [
+      "123.53",
+      "661.56",
+      "288.25",
+      "675.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "VINTAGE",
+    "bbox": [
+      "452.99",
+      "660.98",
+      "562.64",
+      "674.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3944}  Vincent Couche “Chardonnay de Montgueux” Extra Brut   .  . 155",
+    "bbox": [
+      "69.59",
+      "680.46",
+      "336.68",
+      "690.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3994}  A Bonnet “7 Cepages” Des Riceys Brut Nature ‘17 . . . . . . .200",
+    "bbox": [
+      "373.81",
+      "677.01",
+      "637.87",
+      "687.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3980}  Valentin Leflaive Blanc de Blancs Extra Brut ‘17 . . . . . . . . . .175",
+    "bbox": [
+      "372.81",
+      "692.88",
+      "637.87",
+      "702.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3945}  Ulysse-Collin “Les Maillons” Blanc de Noir Extra Brut  . . . .240",
+    "bbox": [
+      "69.59",
+      "699.89",
+      "333.94",
+      "709.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3981}  Ayala Blanc de Blancs Brut ‘15  . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .180",
+    "bbox": [
+      "372.81",
+      "709.75",
+      "637.87",
+      "719.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "4019}  J Lassalle Premier Cru Brut  . . . . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .130",
+    "bbox": [
+      "69.59",
+      "717.37",
+      "339.62",
+      "727.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3987}  Philipponnat “Cuvée 1522” Extra Brut ‘14  . . . .  .  .  .  .  .  .  .  .  .275",
+    "bbox": [
+      "372.81",
+      "726.60",
+      "637.87",
+      "736.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3918}  Charles Heidsieck Réserve Brut  . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  . 145",
+    "bbox": [
+      "69.59",
+      "734.85",
+      "339.62",
+      "744.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3937}  Dom Perignon Brut ‘12  . . . . . . . . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .490",
+    "bbox": [
+      "372.81",
+      "744.43",
+      "637.87",
+      "754.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3850}  Bollinger Brut   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  . 160",
+    "bbox": [
+      "69.59",
+      "753.93",
+      "337.01",
+      "764.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "33994433}  Gosset “Grand Millesime” Brut ‘12 .(magnum) . .  .  .  .  .  .  .  .  .  .460",
+    "bbox": [
+      "372.81",
+      "761.21",
+      "635.17",
+      "771.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3832}  Gosset Brut “Réserve” (half bottle)   . . . . . . . . . . .  .  .  .  .  .  .  .  .  .  . 85",
+    "bbox": [
+      "69.59",
+      "773.37",
+      "333.94",
+      "783.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3867}  Taittinger “Comte de Champagne” Brut ‘11 . . . . .  .  .  .  .  .  .  .  .  .300",
+    "bbox": [
+      "371.81",
+      "779.11",
+      "637.87",
+      "789.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3822} Duval-Leroy Premier Cru Brut . . . . . . . . . . . . . . . . . . . . . . . . . .135",
+    "bbox": [
+      "69.59",
+      "792.18",
+      "333.94",
+      "801.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3974}  Paul Bara “Comtesse Marie de France” Brut ‘10 .  .  .  .  .  .  .  .  .  .325",
+    "bbox": [
+      "371.81",
+      "796.95",
+      "637.87",
+      "807.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3851} Lanson Brut  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .120",
+    "bbox": [
+      "69.59",
+      "811.62",
+      "336.65",
+      "821.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3875}   Krug “Clos du Mesnil” Blanc de Blancs Brut ‘98 .  .  .  .  .  .  .  .1700",
+    "bbox": [
+      "371.81",
+      "814.78",
+      "635.17",
+      "824.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3933}  Jacquesson “Cuvée 744” Extra Brut  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .190",
+    "bbox": [
+      "69.59",
+      "831.05",
+      "333.94",
+      "840.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3932}  Jacquesson Brut ‘96  . . . . . . . . . . . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .800",
+    "bbox": [
+      "371.81",
+      "832.61",
+      "637.87",
+      "842.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3993} Laurent-Perrier “La Cuvée” Brut (magnum)  . . .  .  .  .  .  .  .  .  .  .225",
+    "bbox": [
+      "69.59",
+      "850.14",
+      "336.65",
+      "860.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3833}  Duval Leroy “Femme” Brut ‘96 . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .640",
+    "bbox": [
+      "370.81",
+      "850.45",
+      "637.87",
+      "860.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3862}  Krug “Grande Cuvée” Brut . . . . . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .330",
+    "bbox": [
+      "69.59",
+      "869.93",
+      "333.94",
+      "879.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3870}   Jean-Laurent Blanc de Noirs Brut ‘96 . .(magnum) . . . . . . . .700",
+    "bbox": [
+      "370.81",
+      "867.23",
+      "639.12",
+      "877.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3947}  Pol Roger “Extra Cuvée de Réserve” Brut (balthazar ) . . . .2100",
+    "bbox": [
+      "69.59",
+      "889.01",
+      "337.14",
+      "899.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3903}  Billecart Salmon “Cuvée Elisabeth” Brut Rosé ‘08 . . . . . . . .450",
+    "bbox": [
+      "370.81",
+      "883.18",
+      "639.12",
+      "893.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3894}  Charles de Cazanove “Tete de Cuvée” Brut (magnum)  . . .175",
+    "bbox": [
+      "69.59",
+      "908.45",
+      "336.65",
+      "918.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "S    P     A    R     K    L    I  N     G        B Y THE GLASS",
+    "bbox": [
+      "370.81",
+      "905.22",
+      "574.34",
+      "920.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3865}  Besserat de Bellefon “Cuvée des Moines” Rosé (half bottle)  . 90",
+    "bbox": [
+      "69.59",
+      "927.88",
+      "337.76",
+      "938.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3969}  Taittinger “Cuvée Prestige” Brut NV . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . 29",
+    "bbox": [
+      "369.41",
+      "923.85",
+      "622.53",
+      "933.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3110}   Crémant d’Alsace Brut F .Baur .NV  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 19",
+    "bbox": [
+      "369.41",
+      "938.54",
+      "619.36",
+      "948.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3886}  Gonet-Medeville Premier Cru Extra Brut Rosé  . . . . . . . . . . . .160",
+    "bbox": [
+      "69.59",
+      "947.39",
+      "336.65",
+      "957.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3997}   Christian Etienne Brut Rosé NV . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .32",
+    "bbox": [
+      "369.41",
+      "952.30",
+      "619.85",
+      "962.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3852}  Billecart-Salmon Brut Rosé  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .220",
+    "bbox": [
+      "69.59",
+      "966.82",
+      "333.94",
+      "976.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3216}   Saumur Brut Rosé Louis .de .Grenelle NV .  .  .  .  .  .  .  .  .  .  .  .21",
+    "bbox": [
+      "369.41",
+      "967.03",
+      "634.11",
+      "977.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "M",
+    "bbox": [
+      "244.65",
+      "101.31",
+      "261.31",
+      "119.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "V",
+    "bbox": [
+      "269.01",
+      "102.91",
+      "286.92",
+      "120.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "IN",
+    "bbox": [
+      "291.40",
+      "102.91",
+      "327.38",
+      "120.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "B",
+    "bbox": [
+      "331.86",
+      "102.91",
+      "362.20",
+      "120.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "L",
+    "bbox": [
+      "366.68",
+      "102.91",
+      "383.58",
+      "120.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "A",
+    "bbox": [
+      "388.06",
+      "102.91",
+      "405.31",
+      "120.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "N",
+    "bbox": [
+      "409.79",
+      "102.91",
+      "429.02",
+      "120.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "C",
+    "bbox": [
+      "433.50",
+      "102.91",
+      "449.08",
+      "120.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "N",
+    "bbox": [
+      "453.56",
+      "101.31",
+      "470.22",
+      "119.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "COTEAUx CHAMPENOIS",
+    "bbox": [
+      "72.92",
+      "157.19",
+      "258.31",
+      "168.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "M",
+    "bbox": [
+      "298.40",
+      "159.60",
+      "315.06",
+      "177.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "R",
+    "bbox": [
+      "322.76",
+      "161.19",
+      "341.67",
+      "179.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "O",
+    "bbox": [
+      "346.15",
+      "161.19",
+      "364.06",
+      "179.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "S",
+    "bbox": [
+      "368.54",
+      "161.19",
+      "385.45",
+      "179.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "É",
+    "bbox": [
+      "389.92",
+      "161.19",
+      "408.50",
+      "179.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "N",
+    "bbox": [
+      "412.98",
+      "159.60",
+      "429.63",
+      "177.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "COTES DE NUITS VILLAGES",
+    "bbox": [
+      "475.09",
+      "158.31",
+      "614.28",
+      "167.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3971}  Sillery Blanc  F .Seconde .NV  . . . . .  .  .  .  .105",
+    "bbox": [
+      "72.50",
+      "173.03",
+      "255.87",
+      "183.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13 589}  “La Montagne” JJ .Confuron .‘17 . . . . . . . . . . . . .150",
+    "bbox": [
+      "429.63",
+      "167.54",
+      "654.20",
+      "187.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SANCERRE",
+    "bbox": [
+      "278.77",
+      "189.48",
+      "382.40",
+      "198.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1A UXEY-DURESSES",
+    "bbox": [
+      "467.17",
+      "186.14",
+      "565.73",
+      "197.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1",
+    "bbox": [
+      "467.17",
+      "193.43",
+      "476.36",
+      "202.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SAVOIE & jura",
+    "bbox": [
+      "88.53",
+      "198.74",
+      "242.70",
+      "210.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3290} La .Croix .St .Laurent .‘20 . . . . . . . . . . . . . . . . . . . . . . .75",
+    "bbox": [
+      "278.77",
+      "201.20",
+      "447.68",
+      "211.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13 486}  “Les Vireux”  D .Carré .‘19 . . . . . . . . . . . . . . . . . . . . . . .100",
+    "bbox": [
+      "467.17",
+      "199.79",
+      "655.92",
+      "210.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1",
+    "bbox": [
+      "467.17",
+      "208.01",
+      "476.36",
+      "217.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3060} Savoie  Maison .P .Viallet .‘20 . . . . . . . . . . . . . . . . . . . . . .64",
+    "bbox": [
+      "72.50",
+      "212.73",
+      "252.33",
+      "222.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "19 816}  V .Prunier .‘14 . . . . . . . . . . . . . . . . . . . . . . . . . . . .76",
+    "bbox": [
+      "467.17",
+      "211.74",
+      "656.95",
+      "224.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PROVENCE",
+    "bbox": [
+      "278.77",
+      "218.92",
+      "380.32",
+      "228.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1",
+    "bbox": [
+      "467.17",
+      "222.59",
+      "476.36",
+      "231.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3417}  Arbois Savagnin Ouillé  Pélican .‘16 . . . . . . . . .120",
+    "bbox": [
+      "72.50",
+      "228.53",
+      "252.32",
+      "238.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4097} Commandeurs Château .Peyrassol .‘20 . . . . . . .68",
+    "bbox": [
+      "278.77",
+      "229.14",
+      "447.14",
+      "239.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1S T-AUBIN",
+    "bbox": [
+      "467.17",
+      "229.88",
+      "523.46",
+      "239.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1",
+    "bbox": [
+      "467.17",
+      "237.18",
+      "476.36",
+      "246.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3024} Arbois “Les Graviers” .Tissot .‘16 . . . . . . . .105",
+    "bbox": [
+      "72.50",
+      "244.43",
+      "254.85",
+      "254.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3763} Pallete Château .Simone .‘20 . . . . . . . . . . . . . . . . . .140",
+    "bbox": [
+      "278.77",
+      "243.14",
+      "447.37",
+      "253.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13 652}  “Compendium” J .Colin .‘17 . . . . . . . . . . . . . . . . .120",
+    "bbox": [
+      "467.17",
+      "241.58",
+      "654.20",
+      "253.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1",
+    "bbox": [
+      "467.17",
+      "251.76",
+      "476.36",
+      "260.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3 0 53 }  Arbois .Chardonnay Renardiere .‘14 . . . . . . . .60",
+    "bbox": [
+      "72.50",
+      "261.22",
+      "252.06",
+      "276.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4052} “Les Clans” Château .D’Esclans .‘19 . . . .160",
+    "bbox": [
+      "278.77",
+      "259.14",
+      "447.63",
+      "269.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "113  456}  “Les Pitangerets” P .Pillot .‘17 . . . . . . . . . . . . . . . . .140",
+    "bbox": [
+      "467.17",
+      "255.53",
+      "659.97",
+      "275.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BANDOL",
+    "bbox": [
+      "278.77",
+      "277.36",
+      "369.80",
+      "287.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11P  ULIGNY-MONTRACHET",
+    "bbox": [
+      "467.17",
+      "273.63",
+      "596.45",
+      "290.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "alsace & MOSELLE",
+    "bbox": [
+      "72.50",
+      "286.80",
+      "252.36",
+      "297.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3708} Domaine .Tempier .‘20 . . . . . . . . . . . . . . . . . . . . . . .130",
+    "bbox": [
+      "278.77",
+      "286.32",
+      "447.30",
+      "298.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13 658}  .Domaine .Chavy .‘19 . . . . . . . . . . . . . . . . . . . . . . . .150",
+    "bbox": [
+      "467.17",
+      "285.39",
+      "656.95",
+      "297.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1",
+    "bbox": [
+      "467.17",
+      "295.51",
+      "476.36",
+      "304.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RIESLING",
+    "bbox": [
+      "72.50",
+      "307.35",
+      "124.32",
+      "316.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TAVEL",
+    "bbox": [
+      "278.77",
+      "306.23",
+      "359.16",
+      "316.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11C  HASSAGNE-MONTRACHET",
+    "bbox": [
+      "467.17",
+      "302.80",
+      "610.88",
+      "319.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3061} “Rosacker” Grand Cru .Sipp .Mack .‘15 . .100",
+    "bbox": [
+      "72.50",
+      "319.01",
+      "251.61",
+      "329.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3756} “Dame Rousse” Mordorée .‘20 . . . . . . . . . .95",
+    "bbox": [
+      "278.77",
+      "315.19",
+      "448.65",
+      "327.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "113  610}  .Château .de .Chassagne-Montrachet .‘18 . . .165",
+    "bbox": [
+      "467.17",
+      "313.25",
+      "656.95",
+      "333.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3056} “Brand” Grand Cru .A .Boxler .‘14 . . . . .145",
+    "bbox": [
+      "72.50",
+      "332.94",
+      "251.61",
+      "343.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1S ANTENAY",
+    "bbox": [
+      "467.17",
+      "329.44",
+      "528.52",
+      "341.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13 463}  . “Les Gravières” Maison .Harbour .‘17 . . . . .125",
+    "bbox": [
+      "467.17",
+      "339.25",
+      "654.20",
+      "350.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1",
+    "bbox": [
+      "467.17",
+      "346.55",
+      "476.36",
+      "355.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MOSELLE",
+    "bbox": [
+      "72.50",
+      "351.11",
+      "120.13",
+      "360.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1",
+    "bbox": [
+      "467.17",
+      "353.84",
+      "476.36",
+      "362.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3 138}  “Gryphées” Château .de .Vaux .‘17 . . . . .50",
+    "bbox": [
+      "72.50",
+      "362.77",
+      "251.61",
+      "382.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHAB LBISO  URGOGNE",
+    "bbox": [
+      "273.80",
+      "357.31",
+      "438.02",
+      "387.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "111M3   42E2U}  R“LSeAs UMeLixT Chavaux” L .Muzard .‘19 . . . . . .120",
+    "bbox": [
+      "467.17",
+      "358.28",
+      "654.20",
+      "384.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PINOT GRIS",
+    "bbox": [
+      "72.50",
+      "380.90",
+      "132.48",
+      "390.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13 445}  “Sous La Velle” Michelot .‘18 . . . . . . . . . . . . . . . .145",
+    "bbox": [
+      "467.17",
+      "383.00",
+      "654.20",
+      "393.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3058}  L .Beyer .‘16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .70",
+    "bbox": [
+      "72.50",
+      "392.56",
+      "254.36",
+      "402.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3483}  Petit Chablis S .Christophe .‘20 . . .  .  .  .  .  . 75 11",
+    "bbox": [
+      "273.80",
+      "389.33",
+      "476.36",
+      "406.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3244}  Domaine .Aleth .‘19 . . . . . . . . . . . . .  .  .  .  .  .82 1",
+    "bbox": [
+      "273.80",
+      "402.30",
+      "476.36",
+      "413.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PINOT BLANC",
+    "bbox": [
+      "72.50",
+      "412.66",
+      "142.43",
+      "421.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3636}  “Montmains” .C .Davenne .‘18 . . . .  .  .  .  . 110 11        bordeaux",
+    "bbox": [
+      "273.80",
+      "410.01",
+      "632.97",
+      "428.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3038}  Pierre .Sparr .‘19 . . . . . . . . . . . . . . . . . . . . . . . . . . .56",
+    "bbox": [
+      "72.50",
+      "424.32",
+      "251.61",
+      "434.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3459}  L’Enclos .‘16 (magnum)  . . . . . . . . . . . . . . . .150",
+    "bbox": [
+      "273.80",
+      "429.19",
+      "452.91",
+      "439.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11B  ORDEAUX BLANC",
+    "bbox": [
+      "467.17",
+      "426.75",
+      "568.67",
+      "443.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ALSACE BLEND (Slightly .off-dry)",
+    "bbox": [
+      "72.50",
+      "444.51",
+      "201.27",
+      "453.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ST BRIS",
+    "bbox": [
+      "273.80",
+      "446.42",
+      "319.54",
+      "457.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "114  114} “Clos des Lunes” de .Chevalier .‘18 . . . . . . .62",
+    "bbox": [
+      "467.17",
+      "440.39",
+      "657.38",
+      "457.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3023}   “Cuvée 8” Pfister .‘15 . . . . . . . . . . . . . . . . .74",
+    "bbox": [
+      "72.50",
+      "456.16",
+      "251.61",
+      "466.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3312}  Sauvignon Blanc Goisot .‘20 . . . . . .  .  .  .  .  . 6511G  RAVES & PESSAC-LÉOGNAN",
+    "bbox": [
+      "273.80",
+      "455.92",
+      "623.70",
+      "472.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3008}  “Schoffweg” M .Deiss .‘12 . . . . . . . . . . . . .110",
+    "bbox": [
+      "72.50",
+      "470.10",
+      "251.61",
+      "480.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BOURGOGNE BLANC",
+    "bbox": [
+      "273.80",
+      "475.71",
+      "382.16",
+      "486.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "114  153} Château .Lespault-Martillac .‘17 . . . . . . . . . . . . .86",
+    "bbox": [
+      "467.17",
+      "470.50",
+      "653.96",
+      "486.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GEWURZTRAMINER (Slightly .off-dry)",
+    "bbox": [
+      "72.50",
+      "490.24",
+      "222.76",
+      "499.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3529}  Aligoté .“Sélection Massale” B .Champy .‘19  . .87113  801} Blanc .de .Lynch .Bages .‘17 . . . . . . . . . . . . . . . . . .160",
+    "bbox": [
+      "273.80",
+      "483.74",
+      "654.20",
+      "501.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3054}  Barmès-Buecher .‘18 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .70",
+    "bbox": [
+      "72.50",
+      "501.24",
+      "253.45",
+      "511.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3478}  P .Morey .‘18 . . . . . . . . . . . . . . . . . . . .  .  .  .  .100",
+    "bbox": [
+      "273.80",
+      "502.83",
+      "452.91",
+      "513.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11                   RHÔNE",
+    "bbox": [
+      "467.17",
+      "499.66",
+      "597.81",
+      "519.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3022}  A .Boxler .‘15 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .80",
+    "bbox": [
+      "72.50",
+      "514.21",
+      "253.34",
+      "524.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3633}  “Eclat de Calcaire” .P .Girardin .‘17 . . . . . .78 11",
+    "bbox": [
+      "273.80",
+      "514.25",
+      "476.36",
+      "530.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CÔTES-DU-RHÔNE",
+    "bbox": [
+      "475.09",
+      "525.45",
+      "566.58",
+      "534.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1",
+    "bbox": [
+      "467.17",
+      "528.83",
+      "476.36",
+      "537.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Loire",
+    "bbox": [
+      "132.80",
+      "536.65",
+      "195.58",
+      "548.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BEAUJOLAIS BLANC",
+    "bbox": [
+      "273.80",
+      "534.98",
+      "374.08",
+      "544.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "19 815}  .“Petite Parcelle” Marjolet .‘19 . . . . . . . . . . . . . . . .68",
+    "bbox": [
+      "467.17",
+      "536.12",
+      "654.20",
+      "547.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1",
+    "bbox": [
+      "467.17",
+      "543.41",
+      "476.36",
+      "552.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4163} Chardonnay Domaine .du .Granit .‘20  .  .  . 62 1",
+    "bbox": [
+      "273.80",
+      "547.65",
+      "476.36",
+      "559.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MUSCADET SÈVRE ET MAINE",
+    "bbox": [
+      "72.50",
+      "555.04",
+      "225.79",
+      "565.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1L IRAC",
+    "bbox": [
+      "467.17",
+      "555.28",
+      "508.37",
+      "567.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3283}  “La Louvetrie” J .Landron .‘19 . . . . . . . . . . . . . . . . . . . . .55",
+    "bbox": [
+      "72.50",
+      "566.70",
+      "251.61",
+      "576.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RULLY 1ER CRU",
+    "bbox": [
+      "273.80",
+      "564.60",
+      "347.77",
+      "574.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "113  724}  “Reine des Bois” Mordorée .‘14 . . . . . .85",
+    "bbox": [
+      "467.17",
+      "565.29",
+      "656.95",
+      "581.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3151}  “St Hubert” Coing .de .St .Fiacre .‘13 . . . . . . . . . . . . . . . .70",
+    "bbox": [
+      "72.50",
+      "580.64",
+      "251.61",
+      "590.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4162} “Clos du Chaignes” La .Folie .‘19  .  .  .  .  .  .  .94 11S   AINT-PERAY",
+    "bbox": [
+      "273.80",
+      "577.50",
+      "543.23",
+      "596.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "VAL DE LOIRE",
+    "bbox": [
+      "72.50",
+      "598.81",
+      "164.68",
+      "608.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MACON",
+    "bbox": [
+      "273.80",
+      "596.70",
+      "309.86",
+      "605.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "114  107}  J .Pilon .‘16  . . . . . . . . . . . . . . . . . . . .  .  .  .  .  . 75",
+    "bbox": [
+      "467.17",
+      "594.45",
+      "656.95",
+      "610.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3286}  Tréssalier-Chardonnay “Trésaille”",
+    "bbox": [
+      "72.50",
+      "610.76",
+      "215.38",
+      "620.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3510} Prissé “Le Clos” .Famille .Paquet .‘20  .  .  .  .66 11C  ROZES-HERMITAGE",
+    "bbox": [
+      "273.80",
+      "607.36",
+      "582.62",
+      "625.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bérioles .‘20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .58",
+    "bbox": [
+      "72.50",
+      "620.42",
+      "251.61",
+      "630.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3611} Loche M .Couturier .‘18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 72 1",
+    "bbox": [
+      "273.80",
+      "621.32",
+      "476.36",
+      "632.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3 204}  C Jh-Cen .Gina rBnlaienrc .‘ 1“8B .é .z .ig .o . .n .” .  . . . . . . . . . . . . . . . . . . .80",
+    "bbox": [
+      "72.50",
+      "632.64",
+      "254.36",
+      "652.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "VIRÉ-CLESSÉ",
+    "bbox": [
+      "273.80",
+      "640.50",
+      "339.84",
+      "649.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1114C   1O51}N “DLeRs IPEitUchounettes” Les .4 .Vents .‘18 . . . .70",
+    "bbox": [
+      "467.17",
+      "627.53",
+      "654.20",
+      "657.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3585} “Les Chazelles” R .Denogent .‘16  .  .  .  .  . 1061",
+    "bbox": [
+      "273.80",
+      "652.78",
+      "476.36",
+      "663.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "REUILLY",
+    "bbox": [
+      "72.50",
+      "660.46",
+      "138.74",
+      "670.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14 053} “Jardin Suspendu” PJ .Villa .‘19 . . . . . . . . . . . . . .96",
+    "bbox": [
+      "467.17",
+      "660.07",
+      "654.20",
+      "670.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1",
+    "bbox": [
+      "467.17",
+      "667.36",
+      "476.36",
+      "676.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3230} “Les Lignis” Valéry .Renaudat .‘19 . . . . . . . . . . . . . .62",
+    "bbox": [
+      "72.50",
+      "672.13",
+      "254.36",
+      "682.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "POUILLY-FUISSÉ",
+    "bbox": [
+      "273.80",
+      "672.38",
+      "358.64",
+      "681.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1",
+    "bbox": [
+      "467.17",
+      "674.66",
+      "538.77",
+      "694.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SANCERRE",
+    "bbox": [
+      "72.50",
+      "688.30",
+      "148.05",
+      "698.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3532} “Les Vieux Murs” .J .Loron .‘19  .  .  .  .  .  .  . 100 11",
+    "bbox": [
+      "273.80",
+      "681.95",
+      "476.36",
+      "698.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SUD",
+    "bbox": [
+      "543.55",
+      "682.15",
+      "584.43",
+      "694.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1S UD-OUEST",
+    "bbox": [
+      "452.66",
+      "694.29",
+      "532.95",
+      "705.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3284}  “La Garenne” Girard .‘20 . . . . . . . .  .  .  .  .  . 8 . 5",
+    "bbox": [
+      "72.50",
+      "699.96",
+      "251.61",
+      "710.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1",
+    "bbox": [
+      "467.17",
+      "703.82",
+      "476.36",
+      "712.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3250}  “Chambrates” Vacheron .‘16  . . . . . .  .  .  .  . 1 .60",
+    "bbox": [
+      "72.50",
+      "712.89",
+      "251.61",
+      "723.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "M",
+    "bbox": [
+      "282.68",
+      "715.09",
+      "299.33",
+      "733.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPARKLINGN",
+    "bbox": [
+      "307.03",
+      "715.09",
+      "443.78",
+      "733.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "114    096}   J u“rCanuçvoéne  SMeacr ie” .C .Hours .‘17 . . .  .  .  .  .  .62",
+    "bbox": [
+      "467.17",
+      "709.33",
+      "654.20",
+      "730.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3159}  “La Moussière” .A .Mellot .‘17 .(magnum) . . .175",
+    "bbox": [
+      "72.50",
+      "725.82",
+      "257.78",
+      "736.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1",
+    "bbox": [
+      "467.17",
+      "725.69",
+      "476.36",
+      "734.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1",
+    "bbox": [
+      "467.17",
+      "732.99",
+      "476.44",
+      "742.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1LANGUEDOC-ROUSSILLON",
+    "bbox": [
+      "467.17",
+      "740.14",
+      "608.28",
+      "749.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MENETOU-SALON",
+    "bbox": [
+      "72.50",
+      "746.88",
+      "164.18",
+      "756.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CREMANT DE BOURGOGNE",
+    "bbox": [
+      "278.77",
+      "744.94",
+      "427.64",
+      "754.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4158}  “La Pointe” La .Gemière .‘19 . . . . . . . . . . . .60",
+    "bbox": [
+      "72.50",
+      "756.55",
+      "251.61",
+      "766.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3973}  R .Briand .Brut .NV . . . . . . . . . . . . . . . . . . . . . . . . .60",
+    "bbox": [
+      "278.77",
+      "756.60",
+      "445.97",
+      "766.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4139} Viognier .S .Delafont .‘18  .  .  .  .  .  .  .  .  .  .  .  . 60",
+    "bbox": [
+      "475.09",
+      "752.79",
+      "655.48",
+      "763.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3757} Catalanes “One Block Muscat”",
+    "bbox": [
+      "475.09",
+      "767.02",
+      "615.04",
+      "776.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "POUILLY-FUMÉ",
+    "bbox": [
+      "72.50",
+      "775.73",
+      "153.03",
+      "785.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CREMANT DE SAVOIE",
+    "bbox": [
+      "278.77",
+      "776.79",
+      "399.75",
+      "786.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Treloar .‘13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .50",
+    "bbox": [
+      "475.09",
+      "776.67",
+      "656.30",
+      "786.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3165}  Ladoucette .‘19 . . . . . . . . . . . . . . . . . . . . . . . . . . .110",
+    "bbox": [
+      "72.50",
+      "787.40",
+      "254.36",
+      "797.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3996}  Coincer .La .Bulle .Brut .NV . . . . . . . . . . . .75",
+    "bbox": [
+      "278.77",
+      "788.46",
+      "442.04",
+      "798.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4121} Limoux “Odyssée”",
+    "bbox": [
+      "475.09",
+      "792.89",
+      "567.31",
+      "802.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SAVENNIERES",
+    "bbox": [
+      "72.50",
+      "805.58",
+      "145.02",
+      "814.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Château .Rives-Blanques . .‘15 . . . . . . . . . . . . . .48",
+    "bbox": [
+      "475.09",
+      "803.55",
+      "655.68",
+      "813.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CREMANT DU JURA",
+    "bbox": [
+      "278.77",
+      "808.64",
+      "390.75",
+      "817.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4159}  “Le Moulin du Gué” .des .Forges .‘17 . . . . .58",
+    "bbox": [
+      "72.50",
+      "817.25",
+      "254.36",
+      "827.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3057}  Dosage Zèro B&S .Tissot .NV . . . . . . . . .70",
+    "bbox": [
+      "278.77",
+      "820.32",
+      "442.96",
+      "830.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3783}  L’Herault .Daumas .Gassac .‘11  . .  .  .  .  .  . 95",
+    "bbox": [
+      "475.45",
+      "820.48",
+      "656.95",
+      "830.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3228}  “Clos du Papillon” .Baumard .‘14 . . . . . . .95",
+    "bbox": [
+      "72.50",
+      "829.19",
+      "254.36",
+      "839.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CREMANT D’ALSACE ROSÉ",
+    "bbox": [
+      "278.77",
+      "840.50",
+      "425.55",
+      "849.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3790}  Minervois “Naïck 4”",
+    "bbox": [
+      "475.09",
+      "836.70",
+      "579.14",
+      "846.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SAUMUR",
+    "bbox": [
+      "72.50",
+      "845.37",
+      "117.39",
+      "854.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "L’Oustal .Blanc .‘04 . . . . . . . . . . . . . . . . . . . . .110",
+    "bbox": [
+      "475.09",
+      "848.35",
+      "656.95",
+      "858.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3289}  Clos .de .l’Ecotard .‘17 . . . . . . . . . . . . . . . . . . . . . . .90",
+    "bbox": [
+      "72.50",
+      "857.04",
+      "254.36",
+      "867.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3979}  Camille .Braun .Brut .NV . . . . . . . . . . . . . . .66",
+    "bbox": [
+      "278.77",
+      "852.17",
+      "441.88",
+      "862.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PROVENCE & CORSICA",
+    "bbox": [
+      "475.09",
+      "867.52",
+      "583.63",
+      "876.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "VOUVRAY(Slightly .off-dry)",
+    "bbox": [
+      "72.50",
+      "875.22",
+      "168.51",
+      "884.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LOIRE BRUT ROSÉ",
+    "bbox": [
+      "278.77",
+      "872.36",
+      "380.79",
+      "881.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3176}  “Tuffo” D .Pinon .‘19 . . . . . . . . . . . . . . . . . . . . . . .75",
+    "bbox": [
+      "72.50",
+      "888.88",
+      "254.36",
+      "899.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3972}  “Six Roses” La .Port .St .Jean .NV . . . .72",
+    "bbox": [
+      "278.77",
+      "884.03",
+      "441.64",
+      "894.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4148}  Bandol .Château .Canadel .‘20 . . . . . . . . .98",
+    "bbox": [
+      "475.09",
+      "881.16",
+      "654.20",
+      "891.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3236}  “Cuvée Aurélie” Viking .‘02 . . . . . . . . . . . . . . . . .120",
+    "bbox": [
+      "72.50",
+      "900.81",
+      "252.21",
+      "911.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BEAUJOLAIS BRUT (Slightly .off-dry)",
+    "bbox": [
+      "278.77",
+      "904.22",
+      "437.74",
+      "913.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3743}  Bandol .Domaine .Tempier .‘20 . . . . . . . . .150",
+    "bbox": [
+      "475.09",
+      "897.08",
+      "654.20",
+      "907.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "COUR-CHEVERNY (Slightly .off-dry)",
+    "bbox": [
+      "72.50",
+      "918.01",
+      "212.04",
+      "927.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3978}  Gamay “FRV100” JP .Brun .NV . . . . .65",
+    "bbox": [
+      "278.77",
+      "917.89",
+      "441.34",
+      "928.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3710} Alpilles .Domaine .de .Trévallon .‘12 . . . . . . .130",
+    "bbox": [
+      "475.09",
+      "913.01",
+      "654.48",
+      "923.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3251}  “Cuvée Renaissance” F .Cazin .‘10  . . .65",
+    "bbox": [
+      "72.50",
+      "929.70",
+      "251.61",
+      "939.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3800} Patrimonio “Carco” .A .Arena .‘13 . . . . . . . . .125",
+    "bbox": [
+      "475.09",
+      "928.93",
+      "654.91",
+      "939.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "B RESERVE LIST ON BACK PAGE A",
+    "bbox": [
+      "262.62",
+      "970.62",
+      "471.92",
+      "985.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "M",
+    "bbox": [
+      "230.52",
+      "103.40",
+      "247.07",
+      "121.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "V",
+    "bbox": [
+      "254.72",
+      "104.99",
+      "272.52",
+      "122.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "IN",
+    "bbox": [
+      "279.46",
+      "104.99",
+      "317.70",
+      "122.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "R",
+    "bbox": [
+      "324.64",
+      "104.99",
+      "357.62",
+      "122.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "O",
+    "bbox": [
+      "364.56",
+      "104.99",
+      "382.36",
+      "122.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "U",
+    "bbox": [
+      "389.30",
+      "104.99",
+      "408.09",
+      "122.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "G",
+    "bbox": [
+      "415.03",
+      "104.99",
+      "432.83",
+      "122.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "E",
+    "bbox": [
+      "439.77",
+      "104.99",
+      "458.23",
+      "122.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "N",
+    "bbox": [
+      "465.88",
+      "103.40",
+      "482.43",
+      "121.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SAVOIE & jura",
+    "bbox": [
+      "81.90",
+      "155.33",
+      "235.09",
+      "167.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RHÔNE",
+    "bbox": [
+      "523.09",
+      "155.35",
+      "594.01",
+      "167.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHASSAGNE-MONTRACHET ROUGE",
+    "bbox": [
+      "267.55",
+      "166.53",
+      "441.29",
+      "175.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4483}  Savoie Mondeuse Richel .‘17  .  .  .  .  . . . . .5 5",
+    "bbox": [
+      "67.50",
+      "171.34",
+      "245.47",
+      "181.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CÔTES-DU-RHÔNE",
+    "bbox": [
+      "467.60",
+      "174.65",
+      "559.09",
+      "183.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4491} Gamay “Madelon”  JF Ganevat .‘19 . . . . .130",
+    "bbox": [
+      "67.50",
+      "185.14",
+      "245.12",
+      "195.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4858}  “Vieilles Vignes” B .Colin .‘19 . . . . . . . . . . . . . . . . . . . . . . . . .155  5278}  .Combe .Queyzaire .‘19  .  .  .  .  .  .  .  .  .  .  .  .  . 76",
+    "bbox": [
+      "267.55",
+      "180.12",
+      "651.14",
+      "196.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4479}  Jura Pinot Noir “En Barberon” .Tissot .‘18 . .140",
+    "bbox": [
+      "67.50",
+      "199.00",
+      "245.47",
+      "209.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "HAUTES-COTES-DE-BEAUNE",
+    "bbox": [
+      "267.55",
+      "200.31",
+      "407.52",
+      "209.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5273}  .Saint .Gayan .‘17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .65",
+    "bbox": [
+      "467.60",
+      "198.10",
+      "651.39",
+      "208.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4501}  Jura Pinot Noir D’Arlay .‘11 . . . . . . . . . . . . . . . .88",
+    "bbox": [
+      "67.50",
+      "212.87",
+      "245.47",
+      "223.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4771}  Roblet .-Monnot .‘17 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .110  VENTOUX",
+    "bbox": [
+      "267.55",
+      "213.90",
+      "519.64",
+      "227.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Loire",
+    "bbox": [
+      "67.50",
+      "232.50",
+      "193.94",
+      "244.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SANTENAY",
+    "bbox": [
+      "267.55",
+      "231.95",
+      "320.64",
+      "241.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5274} “Pax” Caritatis .‘18 . . . . . . . . . . . . . . . . . . . . . . . .80",
+    "bbox": [
+      "467.60",
+      "229.77",
+      "648.30",
+      "239.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SANCERRE ROUGE",
+    "bbox": [
+      "67.50",
+      "245.79",
+      "162.63",
+      "260.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4624} “Vieilles Vignes” B .Colin .‘19 . . . . . . . . . . . . . . . .125",
+    "bbox": [
+      "267.55",
+      "245.51",
+      "445.52",
+      "255.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "LIRAC",
+    "bbox": [
+      "467.60",
+      "249.84",
+      "497.85",
+      "259.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "9819}  “Terres Blanches” Thomas .‘19 . . . . . . . . . . . . .120 VOLNAY",
+    "bbox": [
+      "67.50",
+      "263.35",
+      "310.57",
+      "273.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5271} “Plateau des Chênes” Bréchet .‘16 . . . .60",
+    "bbox": [
+      "467.60",
+      "261.41",
+      "650.27",
+      "271.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4520}  “Chant de l’Arche” Chotard .‘16 . . . . . . . . . . . .85 4616} “Vieilles Vignes” Delagrange .‘18 . . . . . . . . . . . . .120",
+    "bbox": [
+      "67.50",
+      "275.26",
+      "448.25",
+      "287.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHÂTEAUNEUF-DU-PAPE",
+    "bbox": [
+      "467.60",
+      "281.43",
+      "598.97",
+      "291.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "VAL DE LOIRE",
+    "bbox": [
+      "67.50",
+      "293.19",
+      "140.33",
+      "302.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "POMMARD",
+    "bbox": [
+      "267.55",
+      "295.11",
+      "319.69",
+      "304.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5321}  Domaine .du .Beaurenard .‘19 . . . . . . . . . . . . . . . . .170",
+    "bbox": [
+      "467.60",
+      "293.00",
+      "644.96",
+      "303.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4480}  Gamay “Mille-pattes” .Bérioles .‘20 . . . . . . . .55",
+    "bbox": [
+      "67.50",
+      "304.95",
+      "245.42",
+      "315.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4823} Bonnardot .‘19 . . . . . . . . . . . . . . . . . . . . . .140",
+    "bbox": [
+      "267.55",
+      "306.77",
+      "448.25",
+      "316.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5395} Château .La .Nerthe .‘17 . . . . . . . . . . . . . . . . . . . . . . . .145",
+    "bbox": [
+      "467.60",
+      "305.81",
+      "645.57",
+      "315.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4545}  Cabernets “Tailles” JC .Garnier .‘17 . . . . .65",
+    "bbox": [
+      "67.50",
+      "318.91",
+      "246.14",
+      "329.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PERNAND-VERGELESSES",
+    "bbox": [
+      "267.55",
+      "326.64",
+      "392.10",
+      "335.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RASTEAU",
+    "bbox": [
+      "467.60",
+      "326.84",
+      "513.71",
+      "336.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ANJOU",
+    "bbox": [
+      "67.50",
+      "338.98",
+      "104.04",
+      "348.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4887} Chapuis .et .Chapuis .‘19 . . . . . . . . . . . . . . . .95",
+    "bbox": [
+      "267.55",
+      "338.29",
+      "448.25",
+      "348.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5323} “La Bastide” Domaine .Brusset .‘19 . . . .76",
+    "bbox": [
+      "467.60",
+      "337.47",
+      "648.30",
+      "347.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "9814}  Clau .de .Nell .‘14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .110",
+    "bbox": [
+      "67.50",
+      "350.75",
+      "251.00",
+      "360.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5175} “Vieilles Vignes” Girasols .‘18 . . . . . . . . . .82",
+    "bbox": [
+      "467.60",
+      "351.40",
+      "648.30",
+      "361.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MONTHELIE",
+    "bbox": [
+      "267.55",
+      "358.37",
+      "328.60",
+      "367.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHINON",
+    "bbox": [
+      "67.50",
+      "368.82",
+      "110.57",
+      "378.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4 845} “Miex Bataille” .Changarnier .‘17 . . . . . . . . .85",
+    "bbox": [
+      "267.55",
+      "370.02",
+      "448.25",
+      "384.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "GIGONDAS",
+    "bbox": [
+      "467.60",
+      "371.47",
+      "521.03",
+      "380.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5948} “Vieilles Vignes” .Gasnier .‘19 . . . . . . . . .60",
+    "bbox": [
+      "67.50",
+      "380.41",
+      "249.63",
+      "390.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5236} Grapillon .d’Or .‘18 . . . . . . . . . . . . . . . . . . . .86",
+    "bbox": [
+      "467.60",
+      "382.00",
+      "645.57",
+      "392.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "FIXIN",
+    "bbox": [
+      "267.55",
+      "390.14",
+      "296.80",
+      "399.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BOURGEUIL",
+    "bbox": [
+      "67.50",
+      "398.50",
+      "127.01",
+      "407.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4750}  M .Magnien .‘19 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .100  5494}  Gour .de .Chaulé .‘13 . .(magnum) . . . . .140",
+    "bbox": [
+      "267.55",
+      "396.83",
+      "651.30",
+      "411.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4482} “Clos Sénéchal” .C&P .Breton .‘16 . . . . . . . . .110",
+    "bbox": [
+      "67.50",
+      "410.12",
+      "249.04",
+      "420.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "GEVREY CHAMBERTIN",
+    "bbox": [
+      "267.55",
+      "419.94",
+      "379.61",
+      "429.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "VACQUEYRAS",
+    "bbox": [
+      "467.60",
+      "417.87",
+      "531.93",
+      "427.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SAUMUR-CHAMPIGNY",
+    "bbox": [
+      "67.50",
+      "428.21",
+      "175.64",
+      "437.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "9811}  Collotte .‘18 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .145",
+    "bbox": [
+      "267.55",
+      "431.50",
+      "446.09",
+      "441.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5262} Xavier .Vignon .‘19 . . . . . . . . . . . . . . . . . . . . .75",
+    "bbox": [
+      "467.60",
+      "430.43",
+      "648.30",
+      "440.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4550} Château .Yvonne .‘17 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .100",
+    "bbox": [
+      "67.50",
+      "439.82",
+      "247.43",
+      "450.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MOREY-ST-DENIS",
+    "bbox": [
+      "267.55",
+      "449.73",
+      "355.38",
+      "458.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CROZES-HERMITAGE",
+    "bbox": [
+      "467.60",
+      "450.50",
+      "574.45",
+      "459.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TOURAINE",
+    "bbox": [
+      "67.50",
+      "459.89",
+      "120.58",
+      "469.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4814}  “Clos des Ormes” R .Jeanniard .‘17 . . . . . . . . . .135  5416} Domaine .du .Colombier .‘17 . . . . . . . . . . . . . . . . . . . . . . .80",
+    "bbox": [
+      "267.55",
+      "461.39",
+      "645.97",
+      "472.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4525} . .“Conquetes” P .Corbineau .‘11 . . . . . . . . . . . . . . . . . . . .90",
+    "bbox": [
+      "67.50",
+      "471.51",
+      "247.44",
+      "481.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "bordeaux",
+    "bbox": [
+      "267.55",
+      "480.99",
+      "412.65",
+      "492.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5341} “Clos des Grives” .Combier .‘17 . . . . . . . . . . . . . . .145",
+    "bbox": [
+      "467.60",
+      "476.04",
+      "646.44",
+      "486.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CÔTE ROANNAISE",
+    "bbox": [
+      "67.50",
+      "489.58",
+      "157.39",
+      "498.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SAINT JOSEPH",
+    "bbox": [
+      "467.60",
+      "497.91",
+      "540.67",
+      "507.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4541} . .Gamay V .Giraudon .‘19 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .58",
+    "bbox": [
+      "67.50",
+      "503.15",
+      "250.21",
+      "513.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BORDEAUX & CÔTES",
+    "bbox": [
+      "267.55",
+      "501.21",
+      "373.56",
+      "511.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "9818}  Superieur .Fleur .Haut .Gaussens .‘18 . . .60",
+    "bbox": [
+      "267.55",
+      "512.83",
+      "445.52",
+      "523.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5272}  .“Poivre et Sol” F .Villard .‘19  . . .  .  .  .  .  .90",
+    "bbox": [
+      "467.60",
+      "509.50",
+      "648.30",
+      "519.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ALSACE & MOSELLE",
+    "bbox": [
+      "73.34",
+      "523.89",
+      "246.72",
+      "536.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5871}  Cadillac Felix .de .Biac .‘17 . . . . . . .  .  .  .  .  . 68",
+    "bbox": [
+      "267.55",
+      "525.60",
+      "445.52",
+      "535.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "COLLINES RHODANIENNES",
+    "bbox": [
+      "467.60",
+      "529.57",
+      "606.17",
+      "538.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4481}  Pinot Noir “Tradition”  E .Beyer .‘19 . . . .68",
+    "bbox": [
+      "67.50",
+      "540.76",
+      "249.63",
+      "550.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ST-ÉMILION",
+    "bbox": [
+      "267.55",
+      "544.63",
+      "331.14",
+      "554.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5270} Syrah “First Flight” .G&J .Bott .‘18 . . . . . . . . . .78",
+    "bbox": [
+      "467.60",
+      "542.15",
+      "644.94",
+      "552.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4478}  Pinot Noir Château .de .Vaux .‘19 .  . . . . .85",
+    "bbox": [
+      "67.50",
+      "556.60",
+      "249.63",
+      "566.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5677}  Puisseguin .Château .des .Laurets .‘15 . . .85",
+    "bbox": [
+      "267.55",
+      "556.25",
+      "445.52",
+      "566.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5445} Syrah-Viognier Cumelle .‘18 . . . . . . . . . . . . . . . . . . . .96",
+    "bbox": [
+      "467.60",
+      "557.01",
+      "645.18",
+      "567.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5748}  Grand Cru Château .F .Lartigue .‘16 . .110",
+    "bbox": [
+      "267.55",
+      "569.02",
+      "445.52",
+      "579.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5487}  Syrah  .B .Roseau .‘14 .(magnum) . . . . . . . .118",
+    "bbox": [
+      "467.60",
+      "571.79",
+      "642.59",
+      "582.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Beaujolais",
+    "bbox": [
+      "67.50",
+      "578.21",
+      "226.18",
+      "590.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5870}  Grand Cru Château .La .Marzelle .‘12 . .160",
+    "bbox": [
+      "267.55",
+      "581.79",
+      "445.52",
+      "591.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BEAUJOLAIS",
+    "bbox": [
+      "67.50",
+      "594.43",
+      "132.35",
+      "603.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CORNAS",
+    "bbox": [
+      "467.60",
+      "592.90",
+      "511.04",
+      "602.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "POMEROL",
+    "bbox": [
+      "267.55",
+      "600.82",
+      "316.88",
+      "610.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5114} “Les Pierres Dorées” .Romy .‘20 . . . . . . . . . . . . . . . . . . .65",
+    "bbox": [
+      "67.50",
+      "606.02",
+      "246.83",
+      "616.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5858} Château .Grange-Neuve .‘18  .  .  .  .  .  .  .  .  .  . 95",
+    "bbox": [
+      "267.55",
+      "611.63",
+      "445.52",
+      "621.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5415} “Empreints” Durand .‘14  .  .  .  .  .  .  .  .  .  .  . 120",
+    "bbox": [
+      "467.60",
+      "604.49",
+      "646.37",
+      "614.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "FLEURIE",
+    "bbox": [
+      "67.50",
+      "626.11",
+      "111.38",
+      "635.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5708} Château .de .Valois .‘16  . . . . . . . . . .  .  .  .  .120",
+    "bbox": [
+      "267.55",
+      "624.70",
+      "445.52",
+      "634.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CÔTE-RÔTIE",
+    "bbox": [
+      "467.60",
+      "624.54",
+      "530.14",
+      "633.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5016} C .Mélinand .‘19 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .75",
+    "bbox": [
+      "67.50",
+      "637.72",
+      "246.44",
+      "647.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5375} X .Gérard .‘18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .170",
+    "bbox": [
+      "467.60",
+      "636.15",
+      "645.68",
+      "646.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "FRONSAC",
+    "bbox": [
+      "267.55",
+      "643.94",
+      "316.35",
+      "653.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "REGNIE",
+    "bbox": [
+      "67.50",
+      "657.82",
+      "106.21",
+      "667.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5861} Château .Fontenil .‘15 . . . . . . . .  .  .  .  .  .  .  .  .  .  .  . 82",
+    "bbox": [
+      "267.55",
+      "654.48",
+      "449.00",
+      "664.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SUD",
+    "bbox": [
+      "467.60",
+      "661.77",
+      "581.13",
+      "673.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5130}  “Grain & Granit” .C .Thevenet .‘17 . . . . . . . . . . . . . . . .90",
+    "bbox": [
+      "67.50",
+      "669.43",
+      "248.20",
+      "679.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5766} Canon-Fronsac .Château .Gaby .‘12 . . . . . . .110",
+    "bbox": [
+      "267.55",
+      "667.49",
+      "448.90",
+      "677.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHENAS",
+    "bbox": [
+      "67.50",
+      "686.49",
+      "108.11",
+      "695.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "GRAVES & PESSAC-LEOGNAN",
+    "bbox": [
+      "267.55",
+      "684.75",
+      "412.76",
+      "693.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SUD-OUEST",
+    "bbox": [
+      "467.60",
+      "684.02",
+      "525.46",
+      "693.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4846} “Les Perelles” .Dutraive .‘20 . . . . . . . . . . . . . . . . . . .88",
+    "bbox": [
+      "67.50",
+      "698.13",
+      "248.12",
+      "708.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5872}  Château .Langlet .‘18 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .68",
+    "bbox": [
+      "267.55",
+      "695.55",
+      "446.15",
+      "705.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5462} Cahors Malbec Haute-Serre .‘16 . . . . . . . . . . . . . . . . .125",
+    "bbox": [
+      "467.60",
+      "697.58",
+      "645.57",
+      "707.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "JULIENAS",
+    "bbox": [
+      "67.50",
+      "716.22",
+      "116.98",
+      "725.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5777}  Château .Lusseau .‘14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .95",
+    "bbox": [
+      "267.55",
+      "708.63",
+      "446.25",
+      "718.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5351} Cahors Malbec Château .de .Chambert .‘15 . . .65",
+    "bbox": [
+      "467.60",
+      "711.43",
+      "645.57",
+      "721.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5735}  Château .du .Grand .Bos .‘05 .(magnum) .150",
+    "bbox": [
+      "267.55",
+      "721.64",
+      "448.25",
+      "731.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5097} M .Mathray .‘16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .58",
+    "bbox": [
+      "67.50",
+      "727.86",
+      "247.04",
+      "738.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "LANGUEDOC",
+    "bbox": [
+      "467.60",
+      "733.45",
+      "530.76",
+      "742.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MEDOC",
+    "bbox": [
+      "267.55",
+      "740.92",
+      "306.32",
+      "750.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "COTES DE BROUILLY",
+    "bbox": [
+      "67.50",
+      "745.95",
+      "172.58",
+      "755.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5350} .Côtes du Tarn Le .Champ .d’Orphée .‘19 . . .75",
+    "bbox": [
+      "467.60",
+      "746.08",
+      "648.30",
+      "756.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4  886} JC .Lapalu .‘20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .85",
+    "bbox": [
+      "67.50",
+      "757.59",
+      "246.91",
+      "771.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "55886595}}    LMea .Mdaémdoec .d .dee .B .Ceaosu .c‘1a4il .l .o . .u . . . . .‘ .1 . .9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1 .8005",
+    "bbox": [
+      "267.55",
+      "753.46",
+      "448.25",
+      "776.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5434} Minervois “Les Planels” .Maris .‘18 . . . . . . . .68",
+    "bbox": [
+      "467.60",
+      "762.97",
+      "651.23",
+      "773.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MORGON",
+    "bbox": [
+      "67.50",
+      "776.63",
+      "111.92",
+      "785.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MARGAUX",
+    "bbox": [
+      "267.55",
+      "785.33",
+      "327.32",
+      "795.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5353} Faugeres .L .Barral .‘16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .89",
+    "bbox": [
+      "467.60",
+      "779.87",
+      "651.23",
+      "790.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4851} “Côte du Py” Chauvet .Frères .‘20 . . . . . . . . . . . . . . . .60",
+    "bbox": [
+      "67.50",
+      "789.21",
+      "245.47",
+      "799.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5840}  Le .Kid .d’Arsac .‘18 . . . . . . . . . . . . . . . . . . . . .89",
+    "bbox": [
+      "267.55",
+      "797.93",
+      "448.25",
+      "808.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5378} Fitou “Anthocyane” .",
+    "bbox": [
+      "467.60",
+      "796.73",
+      "567.03",
+      "806.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BOURGOGNE",
+    "bbox": [
+      "96.18",
+      "810.75",
+      "219.82",
+      "822.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5615}  Château .Moulin .de .Tricot .‘18 . . . . . . . . .120",
+    "bbox": [
+      "267.55",
+      "810.81",
+      "448.25",
+      "820.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": ". . . . .Mas .des .Caprices .‘16 . . . . . . . . . . . . . . . . . . . . . . . . . .75",
+    "bbox": [
+      "467.60",
+      "808.57",
+      "645.35",
+      "818.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BOURGOGNE",
+    "bbox": [
+      "67.50",
+      "828.97",
+      "133.81",
+      "838.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ST-JULIEN",
+    "bbox": [
+      "267.55",
+      "829.87",
+      "327.53",
+      "839.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CÔTES DU ROUSSILLON",
+    "bbox": [
+      "467.60",
+      "828.62",
+      "589.43",
+      "837.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4952}  Coteaux “Les Pierres Dorees” Latour .‘18 . . . .66",
+    "bbox": [
+      "67.50",
+      "840.63",
+      "246.09",
+      "850.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5649}  Château .Lalande .‘18  . . . . . . . . . . .  .  .  .  .  .115",
+    "bbox": [
+      "267.55",
+      "842.41",
+      "445.52",
+      "852.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5267} “L’Esquerda” Bila-Haut .‘18 . . . . . . . . . . . . . . . .65",
+    "bbox": [
+      "467.60",
+      "840.18",
+      "648.30",
+      "850.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4904}  “Epineuil” D .Gruhier .‘18 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .75 . 5844}  Château .Gloria .‘14 . . . . . . . . . . . . .  .  .  .  . 145",
+    "bbox": [
+      "67.50",
+      "854.56",
+      "445.52",
+      "866.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PROVENCE & CORSICA",
+    "bbox": [
+      "467.60",
+      "860.46",
+      "575.45",
+      "869.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "GIVRY",
+    "bbox": [
+      "67.50",
+      "872.63",
+      "105.68",
+      "881.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PAUILLAC",
+    "bbox": [
+      "267.55",
+      "875.27",
+      "320.44",
+      "884.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5365}  “Commandeurs” Peyrassol .‘20 . . . . . . . . . . . . . . . . .85",
+    "bbox": [
+      "467.60",
+      "873.04",
+      "645.90",
+      "883.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4856} 1er Cru .Chofflet .Valdenaire .‘17 . . . . . . . . . . . .110",
+    "bbox": [
+      "67.50",
+      "884.22",
+      "249.13",
+      "894.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5816} Château .Bellegrave .‘15 . . . . . . . . . . . . . . . . . . . . .115",
+    "bbox": [
+      "267.55",
+      "886.86",
+      "448.25",
+      "897.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5256}  VDF “Le Vallon” H .Milan .‘14 . . . . . . . . . . . . . . . . .65",
+    "bbox": [
+      "467.60",
+      "889.89",
+      "645.14",
+      "900.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MARANGES",
+    "bbox": [
+      "67.50",
+      "902.29",
+      "126.71",
+      "911.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ST-ESTÈPHE",
+    "bbox": [
+      "267.55",
+      "905.92",
+      "330.15",
+      "915.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5482} Bandol “Pur Lulu” Tempier .‘17 . . . . . . . . .175",
+    "bbox": [
+      "467.60",
+      "906.78",
+      "647.47",
+      "916.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4866} L .Muzard .‘20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .85",
+    "bbox": [
+      "67.50",
+      "913.88",
+      "245.58",
+      "924.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5628}  Château .Haut .Beauséjour .‘17 . . . . . . . . . . . . . .90",
+    "bbox": [
+      "267.55",
+      "916.50",
+      "445.52",
+      "926.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SAVIGNY-LES-BEAUNE",
+    "bbox": [
+      "67.50",
+      "931.95",
+      "181.90",
+      "941.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5682}  Château .Meyney .‘12 . . . . . . . . . . . . . . . . . . . . .150",
+    "bbox": [
+      "267.55",
+      "929.35",
+      "445.52",
+      "939.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5168} Bandol Le .Galantin .‘07 . . . . . . . . . . . . . . . . . . . . . . . . .94",
+    "bbox": [
+      "467.60",
+      "923.67",
+      "645.38",
+      "933.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4877}  “Les Lavières” .L .Chenu .‘19 . . . . . . . . . . .100",
+    "bbox": [
+      "67.50",
+      "943.54",
+      "245.47",
+      "953.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5690} Prieur .de .Meyney .‘08 .(magnum) . . . .190",
+    "bbox": [
+      "267.55",
+      "942.01",
+      "445.52",
+      "952.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5461} Corse Domaine .Petroni .‘19 . . . . . . . . . . . . . . . . . . . .50",
+    "bbox": [
+      "467.60",
+      "940.57",
+      "645.75",
+      "950.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "B RESERVE LIST ON BACK PAGE A",
+    "bbox": [
+      "249.38",
+      "970.12",
+      "468.41",
+      "985.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "V",
+    "bbox": [
+      "218.14",
+      "88.83",
+      "252.49",
+      "160.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "in",
+    "bbox": [
+      "252.49",
+      "88.83",
+      "289.06",
+      "160.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "d",
+    "bbox": [
+      "289.06",
+      "88.83",
+      "321.56",
+      "160.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "e ",
+    "bbox": [
+      "321.56",
+      "88.83",
+      "395.55",
+      "160.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "éserv",
+    "bbox": [
+      "395.55",
+      "88.83",
+      "477.67",
+      "160.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "e",
+    "bbox": [
+      "477.67",
+      "88.83",
+      "492.78",
+      "160.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "",
+    "bbox": [
+      "492.81",
+      "97.03",
+      "509.35",
+      "168.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "M",
+    "bbox": [
+      "133.60",
+      "151.62",
+      "150.17",
+      "169.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "M",
+    "bbox": [
+      "157.83",
+      "151.62",
+      "191.16",
+      "169.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "M",
+    "bbox": [
+      "198.82",
+      "151.62",
+      "232.14",
+      "169.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "B",
+    "bbox": [
+      "239.81",
+      "151.62",
+      "327.34",
+      "171.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "L",
+    "bbox": [
+      "332.29",
+      "151.75",
+      "350.98",
+      "171.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "A",
+    "bbox": [
+      "355.93",
+      "151.75",
+      "375.00",
+      "171.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "N",
+    "bbox": [
+      "379.95",
+      "151.75",
+      "401.21",
+      "171.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "C",
+    "bbox": [
+      "406.16",
+      "151.75",
+      "423.39",
+      "171.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "M",
+    "bbox": [
+      "428.34",
+      "151.62",
+      "511.92",
+      "169.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "M",
+    "bbox": [
+      "519.58",
+      "151.62",
+      "552.90",
+      "169.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "M",
+    "bbox": [
+      "560.56",
+      "151.62",
+      "593.89",
+      "169.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "JURA & ALSACE",
+    "bbox": [
+      "95.88",
+      "191.85",
+      "232.74",
+      "202.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BOURGOGNE",
+    "bbox": [
+      "269.75",
+      "191.85",
+      "420.10",
+      "202.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CORTON-CHARLEMAGNE GRAND CRU",
+    "bbox": [
+      "467.25",
+      "190.90",
+      "648.41",
+      "200.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3412} B .Ambroise .‘11 . . . . . . . . . . . . . . . . . . . . . . . . . .350",
+    "bbox": [
+      "467.25",
+      "198.94",
+      "650.80",
+      "208.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CÔTES DU JURA BLANC",
+    "bbox": [
+      "72.24",
+      "210.45",
+      "189.82",
+      "219.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CHABLIS GRAND CRU",
+    "bbox": [
+      "269.75",
+      "211.99",
+      "379.37",
+      "222.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3365} J-F .Coche-Dury .‘08 .  . . . . . . . . . . . . . . . . . .4200",
+    "bbox": [
+      "467.25",
+      "210.76",
+      "653.70",
+      "221.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3190}  Bourdy .Père .& .Fils .‘82 . . . . . . . . . . . . . . . . . . .290",
+    "bbox": [
+      "72.24",
+      "219.59",
+      "255.79",
+      "228.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3484} “Blanchot” Christopher .& .Fils .‘20  . . . . . . . .200          BORDEAUX",
+    "bbox": [
+      "269.75",
+      "225.57",
+      "608.59",
+      "239.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3179}  Bourdy .Père .& .Fils .‘78 . . . . . . . . . . . . . . . . . . .285",
+    "bbox": [
+      "72.24",
+      "232.48",
+      "255.79",
+      "241.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3243} “Les Clos” Laroche .‘19  . . . . . . . . . . . . . . . . .3403792} La .Clarté .de .Haut .Brion .‘12  . . . . . . . . . . . . .275",
+    "bbox": [
+      "269.75",
+      "239.45",
+      "650.80",
+      "252.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CHÂTEAU-CHALON",
+    "bbox": [
+      "72.24",
+      "252.07",
+      "167.44",
+      "261.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3731} Berthet-Bondet .‘86 .(62cl) . . . . . . . . . . . . . . . .260BOURGOGNE BLANC",
+    "bbox": [
+      "72.24",
+      "259.10",
+      "371.41",
+      "269.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3805} Domaine .de .Chevalier .‘11 . . . . . . . . . . . . . . . .250",
+    "bbox": [
+      "467.25",
+      "255.57",
+      "650.80",
+      "264.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3580}  Leflaive .‘19  . . . . . . . . . . . . . . . . . . . . . . . .2255572} Ch . .Laville-Haut-Brion .‘82 .(magnum) . . .1200",
+    "bbox": [
+      "269.75",
+      "267.49",
+      "650.80",
+      "277.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RIESLING",
+    "bbox": [
+      "72.24",
+      "277.81",
+      "121.35",
+      "287.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3002} “Furstentum, Vieilles Vignes” .P .Blanck .‘98 .220PULIGNY-MONTRACHET",
+    "bbox": [
+      "72.24",
+      "286.93",
+      "385.55",
+      "297.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RHÔNE",
+    "bbox": [
+      "528.90",
+      "289.34",
+      "589.75",
+      "300.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3660}  Leflaive .‘16  . . . . . . . . . . . . . . . . . . . . . . . .380",
+    "bbox": [
+      "269.75",
+      "298.55",
+      "453.29",
+      "307.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "LOIRE",
+    "bbox": [
+      "72.24",
+      "307.70",
+      "186.05",
+      "318.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CHÂTEAU GRILLET",
+    "bbox": [
+      "467.25",
+      "305.96",
+      "558.56",
+      "315.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3540} “Les Combettes” .Coudray-Bizot .‘11 . . . . . .3003701} “Cuvée Renaissance” Château .Grillet .‘72 . . . . . . . . .1100",
+    "bbox": [
+      "269.75",
+      "313.28",
+      "650.51",
+      "324.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "VAL DE LOIRE",
+    "bbox": [
+      "72.24",
+      "325.38",
+      "142.97",
+      "334.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3541} “Les Combettes”",
+    "bbox": [
+      "269.75",
+      "326.03",
+      "344.14",
+      "335.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "HERMITAGE BLANC",
+    "bbox": [
+      "467.25",
+      "331.70",
+      "562.82",
+      "340.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3225} “Blanc Etc” . .L-B .Dagueneau .‘18 . . . . . . . .200  Coudray-Bizot .‘09 .(magnum) . . . . . . . . . . . . .5004100}  “Le Meal” M .Chapoutier .‘14 . . . . . . . . . . . . . . . .460",
+    "bbox": [
+      "72.24",
+      "335.52",
+      "650.80",
+      "351.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SANCERRE",
+    "bbox": [
+      "72.24",
+      "355.14",
+      "125.85",
+      "364.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3734}  “Chante-Alouette” M .Chapoutier .‘07 . . . . . . . .200",
+    "bbox": [
+      "467.25",
+      "353.60",
+      "650.80",
+      "363.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CHASSAGNE-MONTRACHET",
+    "bbox": [
+      "269.75",
+      "359.29",
+      "406.34",
+      "368.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3256} “Comtesse” . .G .Boulay .‘17 .(magnum) . . . . . .2653482}  “Les Chenevottes” M .Morey .‘17 . . . . . . . . . .295ST-JOSEPH",
+    "bbox": [
+      "72.24",
+      "365.22",
+      "518.70",
+      "381.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SAVENNIERES",
+    "bbox": [
+      "72.24",
+      "382.98",
+      "141.63",
+      "392.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3703} “Les Granits” M .Chapoutier .‘13 . . . . . . . . . . . .210",
+    "bbox": [
+      "467.25",
+      "381.34",
+      "650.80",
+      "390.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MEURSAULT",
+    "bbox": [
+      "269.75",
+      "387.78",
+      "330.96",
+      "397.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3285}  “La Bergerie” N .Joly .‘19 . . . . . . . . . . . . . . . . .200",
+    "bbox": [
+      "72.24",
+      "392.03",
+      "255.79",
+      "401.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3211}  “Coulée de Serrant” N .Joly .‘12 . . . . . . . . . . . . . .2753439}  “Clos de Charrons” Château .Meursault .‘12 . . .300",
+    "bbox": [
+      "72.24",
+      "398.84",
+      "453.29",
+      "412.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SUD",
+    "bbox": [
+      "543.07",
+      "400.16",
+      "577.99",
+      "411.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3389}  “Charmes” Bitouzet-Prieur .‘07 .(magnum) 325L’HÉRAULT BLANC",
+    "bbox": [
+      "269.75",
+      "413.59",
+      "558.74",
+      "426.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "VOUVRAY",
+    "bbox": [
+      "72.24",
+      "421.33",
+      "116.87",
+      "430.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3181}  “Demi-Sec, Le Mont” Huet .‘52 . . . . . . . . . .4853362}  “La Pièce Sous le Bois” .R .Ampeau .‘02 . . .2503717}  Grange .des .Pères .‘04 . .(magnum) . . . . . . . .350",
+    "bbox": [
+      "72.24",
+      "425.87",
+      "650.80",
+      "439.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "M",
+    "bbox": [
+      "144.89",
+      "456.96",
+      "161.47",
+      "474.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "M",
+    "bbox": [
+      "169.13",
+      "456.96",
+      "202.45",
+      "474.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "M",
+    "bbox": [
+      "210.11",
+      "456.96",
+      "243.44",
+      "474.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "R",
+    "bbox": [
+      "292.44",
+      "457.09",
+      "313.35",
+      "476.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "O",
+    "bbox": [
+      "321.07",
+      "457.09",
+      "340.87",
+      "476.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "U",
+    "bbox": [
+      "348.60",
+      "457.09",
+      "369.50",
+      "476.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "G",
+    "bbox": [
+      "377.23",
+      "457.09",
+      "397.03",
+      "476.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "E",
+    "bbox": [
+      "404.75",
+      "457.09",
+      "425.28",
+      "476.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "M",
+    "bbox": [
+      "433.79",
+      "456.96",
+      "500.62",
+      "474.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "M",
+    "bbox": [
+      "508.28",
+      "456.96",
+      "541.61",
+      "474.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "M",
+    "bbox": [
+      "549.27",
+      "456.96",
+      "582.59",
+      "474.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "COTEAUX CHAMPENOISE",
+    "bbox": [
+      "75.01",
+      "492.03",
+      "255.60",
+      "500.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "NUITS-ST-GEORGES",
+    "bbox": [
+      "270.74",
+      "494.86",
+      "365.17",
+      "504.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ST-JULIEN",
+    "bbox": [
+      "468.24",
+      "494.15",
+      "517.34",
+      "503.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4552}  “Au Bas de Combe” Coudray-Bizot .‘11  . .200 5785} Château .Beychevelle .‘13 . . . . . . . . . . . . . . . . . .265",
+    "bbox": [
+      "270.74",
+      "503.92",
+      "654.25",
+      "514.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "AY ROUGE",
+    "bbox": [
+      "73.23",
+      "511.12",
+      "125.18",
+      "520.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4832}  “La Côte aux Enfants” Bollinger .‘09 . . . .260BONNES-MARES GRAND CRU",
+    "bbox": [
+      "73.23",
+      "521.19",
+      "413.34",
+      "531.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "5506} Château .Léoville .Las .Cases .‘98 . . . . . . . . . . .700",
+    "bbox": [
+      "468.24",
+      "518.09",
+      "654.25",
+      "527.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4679}  Domaine .Roumier .‘14 . . . . . . . . . . . . . . .32005854} Château .Léoville .Poyferré .‘96 . . . . . . . . . . . . .560",
+    "bbox": [
+      "270.74",
+      "530.98",
+      "654.25",
+      "541.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "LOIRE",
+    "bbox": [
+      "140.86",
+      "541.55",
+      "189.75",
+      "552.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "5563} Ducru-Beaucaillou .‘88 . . . . . . . . . . . . . . . . . . .525",
+    "bbox": [
+      "468.24",
+      "543.87",
+      "654.25",
+      "553.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CLOS DE LA ROCHE GRAND CRU",
+    "bbox": [
+      "270.74",
+      "550.30",
+      "430.31",
+      "559.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CHINON",
+    "bbox": [
+      "73.23",
+      "557.18",
+      "117.24",
+      "566.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4907}  A .Rousseau .‘16 . . . . . . . . . . . . . . . . . . . . . . . . .1200PAUILLAC",
+    "bbox": [
+      "270.74",
+      "558.70",
+      "516.16",
+      "571.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4524}  “Beaumont” C&P .Breton .‘07  . . . . . . . . . .200",
+    "bbox": [
+      "73.23",
+      "567.12",
+      "273.20",
+      "578.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "5614} Château .Mouton .Rothschild .‘14 . . . . . . . . . .1600",
+    "bbox": [
+      "468.24",
+      "572.60",
+      "654.25",
+      "582.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ECHEZEAUX GRAND CRU",
+    "bbox": [
+      "270.74",
+      "578.95",
+      "390.80",
+      "588.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BOURGOGNE",
+    "bbox": [
+      "123.29",
+      "588.95",
+      "225.49",
+      "599.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4861}  D .Rion .‘18 .(magnum) . . . . . . . . . . . . . . . . . . . .8005849} Château .Clerc .Milon .‘14 . . . . . . . . . . . . . . . . . .400",
+    "bbox": [
+      "270.74",
+      "585.49",
+      "654.25",
+      "596.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4976}  Romanée-Conti .‘14 . . . . . . . . . . . . . . . . . . . . .65005862} Château .Pichon .Baron .‘10 . . . . . . . . . . . . . . . .650",
+    "bbox": [
+      "270.74",
+      "597.59",
+      "654.25",
+      "607.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MORGON",
+    "bbox": [
+      "73.23",
+      "607.45",
+      "121.59",
+      "616.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "5100}  M .Lapierre .‘18 .(magnum) . . . . . . . . . . . . . . .210CLOS DE VOUGEOT GRAND CRU",
+    "bbox": [
+      "73.23",
+      "615.60",
+      "438.03",
+      "625.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "5825} Château .Lynch .Bages .‘06 . . . . . . . . . . . . . . . .525",
+    "bbox": [
+      "468.24",
+      "611.27",
+      "651.79",
+      "620.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4882}  L .Latour .‘15 . . . . . . . . . . . . . . . . . . . . . . . . .5255717} Château .Pichon .Lalande .‘03 .(3 Litre) . . . . .1500",
+    "bbox": [
+      "270.74",
+      "624.08",
+      "651.79",
+      "633.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "VOLNAY",
+    "bbox": [
+      "73.23",
+      "637.19",
+      "114.36",
+      "646.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4627}  J .Drouhin .‘96 .(magnum)  . . . . . . . . . . . . .750",
+    "bbox": [
+      "270.74",
+      "634.24",
+      "454.28",
+      "643.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ST-ESTÈPHE",
+    "bbox": [
+      "468.24",
+      "642.81",
+      "524.02",
+      "652.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4776} “Santenots” .Rougeot .‘17  . . . . . . . . . . . . . . .200",
+    "bbox": [
+      "73.23",
+      "646.24",
+      "256.78",
+      "655.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4820} “Santenots” C .Giroud .‘93 . . . . . . . . . . . . . .400R46O68M}  RAoNmaÉnEé-eS-CTo-VntIiV .‘0A6N . .T .  .G . .R . .A .N . .D . .  .C . .R .U500055879911}}  CChhââtteeaauu . .MCoesy .nde’Ey .s‘t0o5u .r . .n . .e . .l . . .‘ . .0 . .9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1 . .220205",
+    "bbox": [
+      "73.23",
+      "652.90",
+      "651.79",
+      "676.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4790}  Romanée-Conti .‘05 . . . . . . . . . . . . . . . . . . . .7000",
+    "bbox": [
+      "270.74",
+      "672.28",
+      "454.28",
+      "681.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "POMMARD",
+    "bbox": [
+      "73.23",
+      "679.82",
+      "127.60",
+      "689.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "5826} Château .Calon .Ségur .‘04 .  .  . . . . . . . . . . . . . . . . .300",
+    "bbox": [
+      "468.24",
+      "679.66",
+      "651.79",
+      "689.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4876}  B .Champy .‘18 . . . . . . . . . . . . . . . . . . . . . . . . .195LA TACHE GRAND CRU",
+    "bbox": [
+      "73.23",
+      "688.87",
+      "384.45",
+      "699.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "5551} Château .de .Pez .‘04 .(magnum) . . . . . . . . . . . . . .350",
+    "bbox": [
+      "468.24",
+      "692.57",
+      "651.79",
+      "701.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4569}  Romanée-Conti .‘09 . . . . . . . . . . . . . . . . . . . . .7500",
+    "bbox": [
+      "270.74",
+      "698.61",
+      "454.28",
+      "708.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CORTON GRAND CRU",
+    "bbox": [
+      "73.23",
+      "708.53",
+      "179.34",
+      "717.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4789}  Romanée-Conti .‘05 . . . . . . . . . . . . . . . . . . .10,000",
+    "bbox": [
+      "270.74",
+      "709.50",
+      "454.28",
+      "718.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RHÔNE & SUD",
+    "bbox": [
+      "502.27",
+      "714.40",
+      "618.36",
+      "725.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4881}  Romanée-Conti .‘14  . . . . . . . . . . . . . . . . . . .4500",
+    "bbox": [
+      "73.23",
+      "718.57",
+      "256.78",
+      "727.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4910}  Coche-Dury .‘13  . . . . . . . . . . . . . . . . . . . . .3000          BORDEAUX",
+    "bbox": [
+      "73.23",
+      "730.36",
+      "408.38",
+      "741.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CHÂTEAUNEUF-DU-PAPE",
+    "bbox": [
+      "468.24",
+      "735.00",
+      "585.17",
+      "744.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4689}  Renardes M .Gaunoux .‘79 . . . . . . . . . . . . .900PESSAC-LÉOGNAN",
+    "bbox": [
+      "73.23",
+      "742.33",
+      "360.40",
+      "757.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "5447}  “La Bernardine” M .Chapoutier .‘14 .(magnum)  .300",
+    "bbox": [
+      "468.24",
+      "744.72",
+      "651.62",
+      "754.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "5756} La .Chapelle .de .la .Mission .Haut-Brion .‘09  .3005432}  Beaucastel .‘06 . . . . . . . . . . . . . . . . . . . . . . . . .400",
+    "bbox": [
+      "270.74",
+      "756.30",
+      "651.79",
+      "766.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CHAMBOLLE-MUSIGNY",
+    "bbox": [
+      "73.23",
+      "764.01",
+      "190.94",
+      "773.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4665}  Roumier .‘13 . . . . . . . . . . . . . . . . . . . . . . . . . . . 6509823} Château .Haut-Brion .‘04 . . . . . . . . . . . . . . . .1250HERMITAGE",
+    "bbox": [
+      "73.23",
+      "769.19",
+      "520.47",
+      "783.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4591}  Remoissenet .Père .& .fils .‘69  .  .  .  .  .  .  .  .  .  .  .  .  .  425 5670} Château .Haut-Bailly .‘04  . . . . . . . . . . . . . . . .3505466}  “Le Pavillon” M .Chapoutier .‘14  . . . . . . . . .700",
+    "bbox": [
+      "73.23",
+      "782.08",
+      "651.79",
+      "798.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ST-ÉMILION GRAND CRU",
+    "bbox": [
+      "270.74",
+      "802.75",
+      "393.54",
+      "811.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CORNAS",
+    "bbox": [
+      "468.24",
+      "802.36",
+      "511.79",
+      "811.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "VOSNE-ROMANÉE",
+    "bbox": [
+      "73.23",
+      "807.61",
+      "158.62",
+      "816.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4768}  “Aux Reas” .A-F .Gros .‘13 . . . . . . . . . . . . . . .2505818} Cheval .Blanc .‘15  . . . . . . . . . . . . . . . . . . . . . .22005373}  “Les Chaillots” F .Balthazar .‘19 . . . . . . . . . . . .370",
+    "bbox": [
+      "73.23",
+      "811.80",
+      "651.79",
+      "827.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "5796} Château .Bellevue .‘10 . . . . . . . . . . . . . . . . . . . .300",
+    "bbox": [
+      "270.74",
+      "824.69",
+      "454.28",
+      "834.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4971}  “Aux Malconsorts” S .Cathiard .‘13 . . . . . . . . . . .675",
+    "bbox": [
+      "73.23",
+      "830.54",
+      "256.78",
+      "839.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CÔTE-RÔTIE",
+    "bbox": [
+      "468.24",
+      "831.32",
+      "530.01",
+      "840.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "5798}  Château .Canon-La-Gaffelière .‘04 . . . . . . . . . .4005405}  “La Landonne” .E .Guigal .‘16 . . . . . . . . . . . . .875",
+    "bbox": [
+      "270.74",
+      "837.66",
+      "651.79",
+      "849.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MOREY-ST-DENIS",
+    "bbox": [
+      "73.23",
+      "851.19",
+      "155.04",
+      "860.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "5414}  Château .D’Ampuis .‘11 . . . . . . . . . . . . . . . . . . .380",
+    "bbox": [
+      "468.24",
+      "850.90",
+      "651.79",
+      "860.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "POMEROL",
+    "bbox": [
+      "270.74",
+      "858.25",
+      "318.37",
+      "867.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4666}  “Clos de la Bussière” G .Roumier .‘14 . . . . .3805811} Chateau .Beauregard .‘10  . . . . . . . . . . . . . . . . . .240L’HÉRAULT",
+    "bbox": [
+      "73.23",
+      "862.22",
+      "516.38",
+      "879.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "GEVREY-CHAMBERTIN",
+    "bbox": [
+      "73.23",
+      "880.87",
+      "178.83",
+      "890.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "9824} Petrus .‘07 . . . . . . . . . . . . . . . . . . . . . . . . . . . .68005453}  Mas .de .Daumas .Gassac .‘09  . . . . . . . . . . . . .285",
+    "bbox": [
+      "270.74",
+      "878.64",
+      "651.79",
+      "888.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4792}  R .Leclerc .‘19 . . . . . . . . . . . . . . . . . . . . . . . . . . .200",
+    "bbox": [
+      "73.23",
+      "889.90",
+      "259.24",
+      "899.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "5457}  Mas .de .Daumas .Gassac .‘96  . . . . . . . . . . . . .375",
+    "bbox": [
+      "468.24",
+      "891.55",
+      "651.79",
+      "901.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MARGAUX",
+    "bbox": [
+      "270.74",
+      "900.10",
+      "319.84",
+      "909.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CHAPELLE-CHAMBERTIN",
+    "bbox": [
+      "73.23",
+      "910.55",
+      "192.78",
+      "919.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "5772}  Château .des .Eyrins .‘18 .(magnum)  . . . . . . .240BANDOL",
+    "bbox": [
+      "270.74",
+      "909.15",
+      "506.18",
+      "921.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "5119}  L .Jadot .‘11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .280 5847}  Château .Cantenac .Brown .‘06 . . . . . . . . . . . .2255498} “La Cabassaou” Tempier .‘17 . . . . . . . . . . . . . . .240",
+    "bbox": [
+      "73.23",
+      "919.58",
+      "651.79",
+      "931.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CHAMBERTIN GRAND CRU",
+    "bbox": [
+      "73.23",
+      "938.25",
+      "210.90",
+      "947.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "5700}  Château .Rauzan-Segla .‘06 .(3 Litre) . . . .1200CORSICA",
+    "bbox": [
+      "270.74",
+      "934.95",
+      "512.70",
+      "949.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4891}  A .Rousseau . .‘11 . . . . . . . . . . . . . . . . . . . . . . .19505780}  Château .Rauzan-Ségla .‘04 . . . . . . . . . . . . . . .2455337}  “Ministre Impérial” J-P-C .Abbatucci .‘13 . . . . .225",
+    "bbox": [
+      "73.23",
+      "947.90",
+      "654.80",
+      "958.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Wine list updated:  April 13, 2022",
+    "bbox": [
+      "486.42",
+      "967.14",
+      "586.45",
+      "975.06"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

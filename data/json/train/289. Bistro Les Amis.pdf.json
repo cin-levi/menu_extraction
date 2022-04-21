@@ -1,0 +1,3900 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/19/22, 7:53 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Wine List - Bistro Les Amis - SoHo, New York",
+    "bbox": [
+      "271.03",
+      "15.70",
+      "432.12",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Reservations | Gift Certificates | Location | Photos | Contact | Home",
+    "bbox": [
+      "287.44",
+      "35.40",
+      "570.86",
+      "42.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dinner",
+    "bbox": [
+      "46.04",
+      "110.25",
+      "74.03",
+      "117.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "W",
+    "bbox": [
+      "308.64",
+      "112.75",
+      "329.32",
+      "134.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "INE LIST",
+    "bbox": [
+      "329.32",
+      "112.75",
+      "423.03",
+      "134.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Prix Fixe",
+    "bbox": [
+      "46.04",
+      "129.73",
+      "84.54",
+      "137.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Lunch",
+    "bbox": [
+      "46.04",
+      "149.20",
+      "70.69",
+      "156.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE WINES",
+    "bbox": [
+      "329.02",
+      "160.33",
+      "403.26",
+      "171.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Brunch",
+    "bbox": [
+      "46.04",
+      "168.67",
+      "75.48",
+      "175.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dessert",
+    "bbox": [
+      "46.04",
+      "188.15",
+      "78.35",
+      "195.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Raymond “Reserve” Chardonnay '20 (Napa) ... $52.00",
+    "bbox": [
+      "180.53",
+      "191.32",
+      "463.84",
+      "201.66"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Raymond “Reserve” Chardonnay",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'20",
+            "answer_start": 29
+          }
+        ],
+        "P": [
+          {
+            "text": "$52.00",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Wine List",
+    "bbox": [
+      "47.87",
+      "207.62",
+      "92.31",
+      "214.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "J. Lohr, Riverstone Chardonnay '19 (Monterey County) ... $41.00",
+    "bbox": [
+      "180.53",
+      "213.83",
+      "510.76",
+      "224.18"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "J. Lohr, Riverstone Chardonnay",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'19",
+            "answer_start": 31
+          }
+        ],
+        "P": [
+          {
+            "text": "$41.00",
+            "answer_start": 57
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "White Wines",
+    "bbox": [
+      "64.30",
+      "226.36",
+      "114.17",
+      "233.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Red Wines",
+    "bbox": [
+      "64.30",
+      "237.31",
+      "106.16",
+      "244.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "La Cote Blanche, Macon Villages '19 (France) ... $42.00",
+    "bbox": [
+      "180.53",
+      "236.35",
+      "465.55",
+      "246.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "La Cote Blanche, Macon Villages",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'19",
+            "answer_start": 32
+          }
+        ],
+        "P": [
+          {
+            "text": "$42.00",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sparkling",
+    "bbox": [
+      "64.30",
+      "248.27",
+      "101.32",
+      "254.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "By the Glass",
+    "bbox": [
+      "64.30",
+      "259.22",
+      "116.48",
+      "265.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Murphy Goode, Chardonnay '20 (Sonoma County) ... $42.00",
+    "bbox": [
+      "180.53",
+      "258.87",
+      "487.91",
+      "269.21"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Murphy Goode, Chardonnay",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'20",
+            "answer_start": 25
+          }
+        ],
+        "P": [
+          {
+            "text": "$42.00",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Specialty Drinks",
+    "bbox": [
+      "64.30",
+      "270.18",
+      "130.05",
+      "276.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Download Menu",
+    "bbox": [
+      "64.30",
+      "281.13",
+      "127.15",
+      "287.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Jordan, Chardonnay '16 (Russian River Valley) ... $79.00",
+    "bbox": [
+      "180.53",
+      "281.38",
+      "466.72",
+      "291.73"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Jordan, Chardonnay",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'16",
+            "answer_start": 19
+          }
+        ],
+        "P": [
+          {
+            "text": "$79.00",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Happy Hour",
+    "bbox": [
+      "46.04",
+      "301.95",
+      "97.57",
+      "309.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bortoluzzi, Pinot Grigio '17 (Italy) ... $42.00",
+    "bbox": [
+      "180.53",
+      "303.90",
+      "407.03",
+      "314.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bortoluzzi, Pinot Grigio",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'17",
+            "answer_start": 25
+          }
+        ],
+        "P": [
+          {
+            "text": "$42.00",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Roero Arneis, Bruno Giacosa '18 (Italy) ... $71.00",
+    "bbox": [
+      "180.53",
+      "326.42",
+      "434.01",
+      "336.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Roero Arneis, Bruno Giacosa",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'18",
+            "answer_start": 28
+          }
+        ],
+        "P": [
+          {
+            "text": "... $71.00",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "St. Supery, Sauvignon Blanc '19 (Napa) ... $43.00",
+    "bbox": [
+      "180.53",
+      "348.93",
+      "436.66",
+      "359.28"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "St. Supery, Sauvignon Blanc",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'19",
+            "answer_start": 28
+          }
+        ],
+        "P": [
+          {
+            "text": "$43.00",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cloudy Bay, Sauvignon Blanc '20 (New Zealand) ... $85.00",
+    "bbox": [
+      "180.53",
+      "371.45",
+      "481.26",
+      "381.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cloudy Bay, Sauvignon Blanc",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'20",
+            "answer_start": 28
+          }
+        ],
+        "P": [
+          {
+            "text": "$85.00",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pouilly-Fuisse, Bouchard Pere & Fils '18 (France) ... $78.00",
+    "bbox": [
+      "180.53",
+      "393.97",
+      "486.16",
+      "404.31"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pouilly-Fuisse, Bouchard Pere & Fils",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'18",
+            "answer_start": 37
+          }
+        ],
+        "P": [
+          {
+            "text": "$78.00",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chablis Champs Royaux, William Fevre '19 (France) ... $71.00",
+    "bbox": [
+      "180.53",
+      "416.48",
+      "501.39",
+      "426.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chablis Champs Royaux, William Fevre",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'19",
+            "answer_start": 37
+          }
+        ],
+        "P": [
+          {
+            "text": "$71.00",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Puligny Montrachet, Olivier Leflaive '17 (France) ... $193.00",
+    "bbox": [
+      "180.53",
+      "439.00",
+      "491.85",
+      "449.34"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Puligny Montrachet, Olivier Leflaive",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'17",
+            "answer_start": 37
+          }
+        ],
+        "P": [
+          {
+            "text": "$193.00",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Meursault-Blagny Premier Cru, Louis Latour '13 (France) ... $192.00",
+    "bbox": [
+      "180.53",
+      "461.51",
+      "538.97",
+      "471.86"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Meursault-Blagny Premier Cru, Louis Latour",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'13",
+            "answer_start": 43
+          }
+        ],
+        "P": [
+          {
+            "text": "$192.00",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dry Creek, Fume Blanc '19 (Sonoma) ... $39.00",
+    "bbox": [
+      "180.53",
+      "484.03",
+      "419.51",
+      "494.38"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Dry Creek, Fume Blanc",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'19",
+            "answer_start": 22
+          }
+        ],
+        "P": [
+          {
+            "text": "$39.00",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Robert Mondavi, Fume Blanc '18 (Napa) ... $59.00",
+    "bbox": [
+      "180.53",
+      "506.55",
+      "440.47",
+      "516.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Robert Mondavi, Fume Blanc",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'18",
+            "answer_start": 27
+          }
+        ],
+        "P": [
+          {
+            "text": "$59.00",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A to Z, Pinot Gris '19 (Oregon) ... $39.00",
+    "bbox": [
+      "180.53",
+      "529.06",
+      "383.53",
+      "539.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "A to Z, Pinot Gris '1",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'19",
+            "answer_start": 19
+          }
+        ],
+        "P": [
+          {
+            "text": "$39.00",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chateau Fage, Graves De Vayres '20 (France) ... $39.00",
+    "bbox": [
+      "180.53",
+      "551.58",
+      "467.43",
+      "561.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chateau Fage, Graves De Vayres",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'20",
+            "answer_start": 31
+          }
+        ],
+        "P": [
+          {
+            "text": "$39.00",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pinot Blanc, Alsace Willm '20 (France) ... $39.00",
+    "bbox": [
+      "180.53",
+      "574.10",
+      "430.80",
+      "584.44"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Blanc, Alsace Willm",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'20",
+            "answer_start": 26
+          }
+        ],
+        "P": [
+          {
+            "text": "$39.00",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sancerre, Jean Dmont '19 (France) ... $61.00",
+    "bbox": [
+      "180.53",
+      "596.61",
+      "408.42",
+      "606.96"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sancerre, Jean Dmont",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'19",
+            "answer_start": 21
+          }
+        ],
+        "P": [
+          {
+            "text": "$61.00",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cotes De Provence, Chateau Saint Baillon Rose '20 (France) ... $44.00",
+    "bbox": [
+      "180.53",
+      "619.13",
+      "543.90",
+      "629.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cotes De Provence, Chateau Saint Baillon Rose",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'20",
+            "answer_start": 46
+          }
+        ],
+        "P": [
+          {
+            "text": "$44.00",
+            "answer_start": 63
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Urban Riesling, St. Urbans-Hof '20 (Germany) ... $41.00",
+    "bbox": [
+      "180.53",
+      "641.65",
+      "470.43",
+      "651.99"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Urban Riesling, St. Urbans-Hof",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'20",
+            "answer_start": 31
+          }
+        ],
+        "P": [
+          {
+            "text": "$41.00",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RED WINES",
+    "bbox": [
+      "335.10",
+      "714.12",
+      "397.18",
+      "725.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chateau Tour Marcillanet, Haut Medoc '12 (France) ... $61.00",
+    "bbox": [
+      "180.53",
+      "745.10",
+      "500.17",
+      "755.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chateau Tour Marcillanet, Haut Medoc",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'12",
+            "answer_start": 37
+          }
+        ],
+        "P": [
+          {
+            "text": "$61.00",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "www.bistrolesamis.com/wines.htm",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "147.82",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/19/22, 7:53 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Wine List - Bistro Les Amis - SoHo, New York",
+    "bbox": [
+      "271.03",
+      "15.70",
+      "432.12",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chateau La Couronne, Saint-Emilion Grand Cru '18 (France) ... $69.00",
+    "bbox": [
+      "180.53",
+      "30.66",
+      "549.05",
+      "41.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chateau La Couronne, Saint-Emilion Grand Cru",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'18",
+            "answer_start": 45
+          }
+        ],
+        "P": [
+          {
+            "text": "$69.00",
+            "answer_start": 62
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "L'Eclat De Tour De Pez, Saint Estephe '18 (France) ... $71.00",
+    "bbox": [
+      "180.53",
+      "53.18",
+      "489.11",
+      "63.52"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "L'Eclat De Tour De Pez, Saint Estephe",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'18",
+            "answer_start": 38
+          }
+        ],
+        "P": [
+          {
+            "text": "$71.00",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Schroder & Schyler, Margaux Private Reserve '19 (France) ... $68.00",
+    "bbox": [
+      "180.53",
+      "75.69",
+      "537.74",
+      "86.04"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Schroder & Schyler, Margaux Private Reserve",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'19",
+            "answer_start": 44
+          }
+        ],
+        "P": [
+          {
+            "text": "$68.00",
+            "answer_start": 61
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chateau Malmaison, Moulis En Medoc Baronne Nadine De Rothschild",
+    "bbox": [
+      "180.53",
+      "98.21",
+      "557.03",
+      "108.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chateau Malmaison, Moulis En Medoc Baronne Nadine De Rothschild",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dinner",
+    "bbox": [
+      "46.04",
+      "110.25",
+      "74.03",
+      "117.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "'15 (France) ... $79.00",
+    "bbox": [
+      "180.53",
+      "110.38",
+      "285.94",
+      "120.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Prix Fixe",
+    "bbox": [
+      "46.04",
+      "129.73",
+      "84.54",
+      "137.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Amiral De Beychevelle, St. Julien '18 (France) ... $142.00",
+    "bbox": [
+      "180.53",
+      "132.90",
+      "473.23",
+      "143.24"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Amiral De Beychevelle, St. Julien",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'18",
+            "answer_start": 34
+          }
+        ],
+        "P": [
+          {
+            "text": "$142.00",
+            "answer_start": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Lunch",
+    "bbox": [
+      "46.04",
+      "149.20",
+      "70.69",
+      "156.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "La Tour Chambert, Cahors '17 (France) ... $44.00",
+    "bbox": [
+      "180.53",
+      "155.41",
+      "432.99",
+      "165.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "La Tour Chambert, Cahors",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'17",
+            "answer_start": 25
+          }
+        ],
+        "P": [
+          {
+            "text": ".. $44.00",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Brunch",
+    "bbox": [
+      "46.04",
+      "168.67",
+      "75.48",
+      "175.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Borgo Scopeto, Chianti Classico '18 (Tuscany) ... $55.00",
+    "bbox": [
+      "180.53",
+      "177.93",
+      "467.35",
+      "188.27"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Borgo Scopeto, Chianti Classico",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'18",
+            "answer_start": 32
+          }
+        ],
+        "P": [
+          {
+            "text": "$55.00",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dessert",
+    "bbox": [
+      "46.04",
+      "188.15",
+      "78.35",
+      "195.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Antinori Santa Cristina, Sangiovese '19 (Tuscany) ... $43.00",
+    "bbox": [
+      "180.53",
+      "200.45",
+      "490.56",
+      "210.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Antinori Santa Cristina, Sangiovese",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'19",
+            "answer_start": 36
+          }
+        ],
+        "P": [
+          {
+            "text": "$43.00",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Wine List",
+    "bbox": [
+      "47.87",
+      "207.62",
+      "92.31",
+      "214.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Barolo Falletto, Bruno Giacosa '09 (Italy) ... $399.00",
+    "bbox": [
+      "180.53",
+      "222.96",
+      "455.57",
+      "233.31"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Barolo Falletto, Bruno Giacosa",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'09",
+            "answer_start": 31
+          }
+        ],
+        "P": [
+          {
+            "text": "$399.00",
+            "answer_start": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "White Wines",
+    "bbox": [
+      "64.30",
+      "226.36",
+      "114.17",
+      "233.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Red Wines",
+    "bbox": [
+      "64.30",
+      "237.31",
+      "106.16",
+      "244.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sparkling",
+    "bbox": [
+      "64.30",
+      "248.27",
+      "101.32",
+      "254.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Barbera D’Alba, Bruno Giacosa '20 (Italy) ... $71.00",
+    "bbox": [
+      "180.53",
+      "245.48",
+      "448.94",
+      "255.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Barbera D’Alba, Bruno Giacosa",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'20",
+            "answer_start": 30
+          }
+        ],
+        "P": [
+          {
+            "text": "$71.00",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "By the Glass",
+    "bbox": [
+      "64.30",
+      "259.22",
+      "116.48",
+      "265.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Specialty Drinks",
+    "bbox": [
+      "64.30",
+      "270.18",
+      "130.05",
+      "276.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chateau Ste. Michelle, Cabernet Sauvignon '17 (Columbia Valley) ...",
+    "bbox": [
+      "180.53",
+      "268.00",
+      "525.76",
+      "278.34"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chateau Ste. Michelle, Cabernet Sauvignon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'17",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Download Menu",
+    "bbox": [
+      "64.30",
+      "281.13",
+      "127.15",
+      "287.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$39.00",
+    "bbox": [
+      "180.53",
+      "280.17",
+      "218.22",
+      "290.51"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$39.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Happy Hour",
+    "bbox": [
+      "46.04",
+      "301.95",
+      "97.57",
+      "309.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sebastiani, Cabernet Sauvignon '18 (’ Sonoma) ... $46.00",
+    "bbox": [
+      "180.53",
+      "302.68",
+      "473.68",
+      "313.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sebastiani, Cabernet Sauvignon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'18",
+            "answer_start": 31
+          }
+        ],
+        "P": [
+          {
+            "text": "$46.00",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Annabella, Cabernet Sauvignon '19 (Napa) ... $47.00",
+    "bbox": [
+      "180.53",
+      "325.20",
+      "454.07",
+      "335.54"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Annabella, Cabernet Sauvignon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'19",
+            "answer_start": 30
+          }
+        ],
+        "P": [
+          {
+            "text": "$47.00",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Faust, Cabernet Sauvignon '18 (Napa) ... $145.00",
+    "bbox": [
+      "180.53",
+      "347.72",
+      "434.72",
+      "358.06"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Faust, Cabernet Sauvignon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'18",
+            "answer_start": 26
+          }
+        ],
+        "P": [
+          {
+            "text": "$145.00",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Grgich Hills, Cabernet Sauvignon ' 06 (Napa) ... $158.00",
+    "bbox": [
+      "180.53",
+      "370.23",
+      "474.01",
+      "380.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grgich Hills, Cabernet Sauvignon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "06",
+            "answer_start": 35
+          }
+        ],
+        "P": [
+          {
+            "text": "$158.00",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Mulderbosch- “Faithful Hound” (Meritage) - Stellenbosch '17 (South",
+    "bbox": [
+      "180.53",
+      "392.75",
+      "537.91",
+      "403.09"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Mulderbosch- “Faithful Hound” (Meritage) - Stellenbosch",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'17",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Africa) ... $48.00",
+    "bbox": [
+      "180.53",
+      "404.92",
+      "264.82",
+      "415.26"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$48.00",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Francois Labet Bourgogne, Pinot Noir '18 (France) ... $78.00",
+    "bbox": [
+      "180.53",
+      "427.44",
+      "495.26",
+      "437.78"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Francois Labet Bourgogne, Pinot Noir",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'18",
+            "answer_start": 37
+          }
+        ],
+        "P": [
+          {
+            "text": "$78.00",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Beaujolais Village, Henry Fessy '20 ( France) ... $39.00",
+    "bbox": [
+      "180.53",
+      "449.95",
+      "465.98",
+      "460.30"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Beaujolais Village, Henry Fessy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'20",
+            "answer_start": 32
+          }
+        ],
+        "P": [
+          {
+            "text": ".. $39.00",
+            "answer_start": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Bichot,Vosne-Romanee '17 (France) ... $399.00",
+    "bbox": [
+      "180.53",
+      "472.47",
+      "457.63",
+      "482.81"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albert Bichot,Vosne-Romanee",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'17",
+            "answer_start": 28
+          }
+        ],
+        "P": [
+          {
+            "text": "... $399.00",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Gevrey Chambertin, Joseph Drouhin '18 (France) ... $152.00",
+    "bbox": [
+      "180.53",
+      "494.99",
+      "492.47",
+      "505.33"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Gevrey Chambertin, Joseph Drouhin",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'18",
+            "answer_start": 34
+          }
+        ],
+        "P": [
+          {
+            "text": "$152.00",
+            "answer_start": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Koonunga Hill, Shiraz '19 (Australia) ... $39.00",
+    "bbox": [
+      "180.53",
+      "517.50",
+      "421.39",
+      "527.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Koonunga Hill, Shiraz",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'19",
+            "answer_start": 22
+          }
+        ],
+        "P": [
+          {
+            "text": "$39.00",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Alexander Valley Vineyards, Syrah '18 (Sonoma) ... $49.00",
+    "bbox": [
+      "180.53",
+      "540.02",
+      "485.96",
+      "550.36"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Alexander Valley Vineyards, Syrah",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'18",
+            "answer_start": 34
+          }
+        ],
+        "P": [
+          {
+            "text": "$49.00",
+            "answer_start": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tavola Pinot Noir, Ponzi Vineyards '18 (Oregon) ... $55.00",
+    "bbox": [
+      "180.53",
+      "562.53",
+      "482.20",
+      "572.88"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tavola Pinot Noir, Ponzi Vineyards",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'18",
+            "answer_start": 35
+          }
+        ],
+        "P": [
+          {
+            "text": "$55.00",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pinot Noir, Maison De La Villette '19 (France) ... $41.00",
+    "bbox": [
+      "180.53",
+      "585.05",
+      "465.99",
+      "595.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir, Maison De La Villette",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'19",
+            "answer_start": 34
+          }
+        ],
+        "P": [
+          {
+            "text": "$41.00",
+            "answer_start": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bouchard Pere & Fils Reserve Bourgogne, Pinot Noir, '19 (France) ...",
+    "bbox": [
+      "180.53",
+      "607.57",
+      "536.31",
+      "617.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bouchard Pere & Fils Reserve Bourgogne, Pinot Noir",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'19",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$52.00",
+    "bbox": [
+      "180.53",
+      "619.74",
+      "217.74",
+      "630.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$52.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Souverain, Merlot '17 (North Coast) ... $46.00",
+    "bbox": [
+      "180.53",
+      "642.25",
+      "411.08",
+      "652.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Souverain, Merlot",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'17",
+            "answer_start": 18
+          }
+        ],
+        "P": [
+          {
+            "text": "$46.00",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Columbia Crest, Merlot '16 (Columbia Valley) ... $39.00",
+    "bbox": [
+      "180.53",
+      "664.77",
+      "459.62",
+      "675.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Columbia Crest, Merlot",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'16",
+            "answer_start": 23
+          }
+        ],
+        "P": [
+          {
+            "text": "$39.00",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Firestone, Merlot '18 (Santa Ynez Valley) ... $46.00",
+    "bbox": [
+      "180.53",
+      "687.29",
+      "434.80",
+      "697.63"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Firestone, Merlot",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'18",
+            "answer_start": 18
+          }
+        ],
+        "P": [
+          {
+            "text": "$46.00",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cotes Du Rhone, E. Guigal '17 ( France) ... $45.00",
+    "bbox": [
+      "180.53",
+      "709.80",
+      "431.98",
+      "720.15"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cotes Du Rhone, E. Guigal",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'17",
+            "answer_start": 26
+          }
+        ],
+        "P": [
+          {
+            "text": "$45.00",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Famille Perrin, Chateauneuef du Pape Les Sinards '18 (France) ...",
+    "bbox": [
+      "180.53",
+      "732.32",
+      "520.80",
+      "742.67"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Famille Perrin, Chateauneuef du Pape Les Sinards",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'18",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$113.00",
+    "bbox": [
+      "180.53",
+      "744.49",
+      "221.65",
+      "754.84"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$113.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "www.bistrolesamis.com/wines.htm",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "147.82",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/19/22, 7:53 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Wine List - Bistro Les Amis - SoHo, New York",
+    "bbox": [
+      "271.03",
+      "15.70",
+      "432.12",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Decoy, Zinfandel '16 (Sonoma) ... $55.00",
+    "bbox": [
+      "180.53",
+      "30.66",
+      "385.83",
+      "41.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$55.00",
+            "answer_start": 34
+          }
+        ],
+        "V": [
+          {
+            "text": "'16",
+            "answer_start": 17
+          }
+        ],
+        "W": [
+          {
+            "text": "Decoy, Zinfandel",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SPARKLING",
+    "bbox": [
+      "334.29",
+      "103.13",
+      "397.99",
+      "114.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Dinner",
+    "bbox": [
+      "46.04",
+      "110.25",
+      "74.03",
+      "117.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Prix Fixe",
+    "bbox": [
+      "46.04",
+      "129.73",
+      "84.54",
+      "137.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bouvet Rose, Brut (France) ... $48.00",
+    "bbox": [
+      "180.53",
+      "134.11",
+      "372.24",
+      "144.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Lunch",
+    "bbox": [
+      "46.04",
+      "149.20",
+      "70.69",
+      "156.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Domaine St. Michelle, Cuvee Brut (Columbia Valley) ... $45.00",
+    "bbox": [
+      "180.53",
+      "156.63",
+      "498.83",
+      "166.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Brunch",
+    "bbox": [
+      "46.04",
+      "168.67",
+      "75.48",
+      "175.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Piper-Heidsieck (Reims France) ... $135.00",
+    "bbox": [
+      "180.53",
+      "179.15",
+      "396.30",
+      "189.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Dessert",
+    "bbox": [
+      "46.04",
+      "188.15",
+      "78.35",
+      "195.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Veuve Clicquot Ponsardin, Brut (France) ... $155.00",
+    "bbox": [
+      "180.53",
+      "201.66",
+      "449.17",
+      "212.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Wine List",
+    "bbox": [
+      "47.87",
+      "207.62",
+      "92.31",
+      "214.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "White Wines",
+    "bbox": [
+      "64.30",
+      "226.36",
+      "114.17",
+      "233.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Charles De Fere, Brut (France) ... $43.00",
+    "bbox": [
+      "180.53",
+      "224.18",
+      "390.36",
+      "234.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Red Wines",
+    "bbox": [
+      "64.30",
+      "237.31",
+      "106.16",
+      "244.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sparkling",
+    "bbox": [
+      "64.30",
+      "248.27",
+      "101.32",
+      "254.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Duval-Leroy, Brut (France) ... $39.00 375ml",
+    "bbox": [
+      "180.53",
+      "246.70",
+      "404.39",
+      "257.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "By the Glass",
+    "bbox": [
+      "64.30",
+      "259.22",
+      "116.48",
+      "265.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Specialty Drinks",
+    "bbox": [
+      "64.30",
+      "270.18",
+      "130.05",
+      "276.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cuvée Dom Pérignon '06 (France) ... $360.00",
+    "bbox": [
+      "180.53",
+      "269.21",
+      "411.69",
+      "279.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Download Menu",
+    "bbox": [
+      "64.30",
+      "281.13",
+      "127.15",
+      "287.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Louis Roederer, Christal '07 (France) ... $599.00",
+    "bbox": [
+      "180.53",
+      "291.73",
+      "429.45",
+      "302.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Happy Hour",
+    "bbox": [
+      "46.04",
+      "301.95",
+      "97.57",
+      "309.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RED WINE BY THE GLASS",
+    "bbox": [
+      "294.94",
+      "364.20",
+      "437.34",
+      "375.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cabernet Sauvignon, L De Lyeth '19 (Sonoma) ... $14.00",
+    "bbox": [
+      "180.53",
+      "395.18",
+      "467.78",
+      "405.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chateau Malbat, Bordeaux '20 (France) ... $14.00",
+    "bbox": [
+      "180.53",
+      "417.70",
+      "435.30",
+      "428.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Beaujolais Village, Henry Fessy '20 (France) ... $14.00",
+    "bbox": [
+      "180.53",
+      "440.22",
+      "462.10",
+      "450.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Noir, Haut-Blanville '19 (France) ... $14.00",
+    "bbox": [
+      "180.53",
+      "462.73",
+      "430.57",
+      "473.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Oyster Bay, Pinot Noir '19 (New Zealand) ... $14.00",
+    "bbox": [
+      "180.53",
+      "485.25",
+      "440.06",
+      "495.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cotes Du Rhone Villages '19 (France) ... $14.00",
+    "bbox": [
+      "180.53",
+      "507.76",
+      "419.42",
+      "518.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Finca El Origen Reserva, Malbec '20 (Argentina) ... $14.00",
+    "bbox": [
+      "180.53",
+      "530.28",
+      "480.30",
+      "540.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Koonunga Hill, Shiraz '17 (Australia) ... $14.00",
+    "bbox": [
+      "180.53",
+      "552.80",
+      "419.30",
+      "563.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Podere Castorani Montepulciano '17 (Italy) ... $15.00",
+    "bbox": [
+      "180.53",
+      "575.31",
+      "455.26",
+      "585.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cusumano, Merlot '19 (Italy) ... $14.00",
+    "bbox": [
+      "180.53",
+      "597.83",
+      "378.14",
+      "608.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WHITE WINE BY THE GLASS",
+    "bbox": [
+      "288.86",
+      "652.04",
+      "443.42",
+      "663.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chardonnay Ardeche, Louis Latour '16 (France) ... $14.00",
+    "bbox": [
+      "180.53",
+      "683.03",
+      "479.10",
+      "693.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Grigio, Ca’Donini '18 (Italy) ... $14.00",
+    "bbox": [
+      "180.53",
+      "705.54",
+      "404.62",
+      "715.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Ch. Fage, Graves '17 (France) ... $14.00",
+    "bbox": [
+      "180.53",
+      "728.06",
+      "378.16",
+      "738.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Blanc, Alsace Willm '17 (France) ... $14.00",
+    "bbox": [
+      "180.53",
+      "750.58",
+      "426.88",
+      "760.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "www.bistrolesamis.com/wines.htm",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "147.82",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/19/22, 7:53 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Wine List - Bistro Les Amis - SoHo, New York",
+    "bbox": [
+      "271.03",
+      "15.70",
+      "432.12",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sauvignon Blanc, Paul Buisse '17 (France) ... $15.00",
+    "bbox": [
+      "180.53",
+      "30.66",
+      "447.55",
+      "41.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pouilly-Fuisse, Bouchard Pere & Fils '17 (France) ... $17.00",
+    "bbox": [
+      "180.53",
+      "53.18",
+      "483.21",
+      "63.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Urban Riesling, St. Urbans-Hof '18 (Germany) ... $15.00",
+    "bbox": [
+      "180.53",
+      "75.69",
+      "468.40",
+      "86.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chateau De Brigue, Rose '18 (France) ... $14.00",
+    "bbox": [
+      "180.53",
+      "98.21",
+      "421.90",
+      "108.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Dinner",
+    "bbox": [
+      "46.04",
+      "110.25",
+      "74.03",
+      "117.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sancerre, Jean Demont '18 (France) ... $17.00",
+    "bbox": [
+      "180.53",
+      "120.73",
+      "413.65",
+      "131.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Prix Fixe",
+    "bbox": [
+      "46.04",
+      "129.73",
+      "84.54",
+      "137.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Parducci, Chardonnay '20 (California) ... $14.00",
+    "bbox": [
+      "180.53",
+      "143.24",
+      "427.41",
+      "153.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Lunch",
+    "bbox": [
+      "46.04",
+      "149.20",
+      "70.69",
+      "156.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Brunch",
+    "bbox": [
+      "46.04",
+      "168.67",
+      "75.48",
+      "175.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Dessert",
+    "bbox": [
+      "46.04",
+      "188.15",
+      "78.35",
+      "195.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SPARKLING WINE BY THE GLASS",
+    "bbox": [
+      "274.66",
+      "197.46",
+      "457.62",
+      "208.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Wine List",
+    "bbox": [
+      "47.87",
+      "207.62",
+      "92.31",
+      "214.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "White Wines",
+    "bbox": [
+      "64.30",
+      "226.36",
+      "114.17",
+      "233.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Bouvet Rose, Brut (France) ... $15.00",
+    "bbox": [
+      "180.53",
+      "228.44",
+      "376.57",
+      "238.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Red Wines",
+    "bbox": [
+      "64.30",
+      "237.31",
+      "106.16",
+      "244.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sparkling",
+    "bbox": [
+      "64.30",
+      "248.27",
+      "101.32",
+      "254.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Charles De Fere, Brut (France) ... $15.00",
+    "bbox": [
+      "180.53",
+      "250.96",
+      "395.24",
+      "261.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "By the Glass",
+    "bbox": [
+      "64.30",
+      "259.22",
+      "116.48",
+      "265.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Specialty Drinks",
+    "bbox": [
+      "64.30",
+      "270.18",
+      "130.05",
+      "276.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Valdo Prosecco, Brut (Italy) ... $14.00",
+    "bbox": [
+      "180.53",
+      "273.47",
+      "381.88",
+      "283.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Download Menu",
+    "bbox": [
+      "64.30",
+      "281.13",
+      "127.15",
+      "287.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Happy Hour",
+    "bbox": [
+      "46.04",
+      "301.95",
+      "97.57",
+      "309.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SPECIALTY DRINKS",
+    "bbox": [
+      "313.29",
+      "345.94",
+      "418.98",
+      "356.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Aperol Spritz ... $15.00",
+    "bbox": [
+      "180.53",
+      "376.93",
+      "301.10",
+      "387.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Prosecco, Aperol, Club Soda",
+    "bbox": [
+      "180.53",
+      "386.66",
+      "303.59",
+      "397.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Mojito ... $15.00",
+    "bbox": [
+      "180.53",
+      "409.79",
+      "265.38",
+      "420.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Parisian Spritz ... $15.00",
+    "bbox": [
+      "180.53",
+      "432.30",
+      "311.41",
+      "442.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Gin, St. Germain, Lime Juice, &  Orange Blossom",
+    "bbox": [
+      "180.53",
+      "442.04",
+      "388.38",
+      "453.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sangria ... $14.00",
+    "bbox": [
+      "180.53",
+      "465.17",
+      "273.76",
+      "475.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Frozen Rose ... $15.00",
+    "bbox": [
+      "180.53",
+      "487.68",
+      "295.53",
+      "498.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Frozen Blueberry Margarita ... $15.00",
+    "bbox": [
+      "180.53",
+      "510.20",
+      "384.08",
+      "520.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Frozen Frangelico Latte ... $15.00",
+    "bbox": [
+      "180.53",
+      "532.72",
+      "359.02",
+      "543.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Strawberry Lime Daiquiri ... $15.00",
+    "bbox": [
+      "180.53",
+      "555.23",
+      "371.59",
+      "565.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Frozen Chocolate Chambord Vanilla Milk Shake ... $16.00",
+    "bbox": [
+      "180.53",
+      "577.75",
+      "489.04",
+      "588.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Raspberry Vodka Lemonade ... $15.00",
+    "bbox": [
+      "180.53",
+      "600.26",
+      "383.82",
+      "610.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Frozen Mint Grasshopper with Vanilla Ice Cream ... $15.00",
+    "bbox": [
+      "180.53",
+      "622.78",
+      "494.99",
+      "633.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Malibu Peach Pina Colada ... $15.00",
+    "bbox": [
+      "180.53",
+      "645.30",
+      "371.96",
+      "655.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Frozen Spicy Hot Chocolate with Tequila ... $15.00",
+    "bbox": [
+      "180.53",
+      "667.81",
+      "449.63",
+      "678.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Evening in Paris ... $15.00",
+    "bbox": [
+      "180.53",
+      "690.33",
+      "318.97",
+      "700.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Peach Vodka, Pineapple Juice, Or ange Juice, Lemon Juice, Sprite",
+    "bbox": [
+      "180.53",
+      "700.07",
+      "457.61",
+      "711.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Veratini ... $17.00",
+    "bbox": [
+      "180.53",
+      "723.19",
+      "274.35",
+      "733.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Hendrick's Gin, St-Ger main, Fresh Lime Juice, Cherry Juice",
+    "bbox": [
+      "180.53",
+      "732.93",
+      "433.66",
+      "744.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "www.bistrolesamis.com/wines.htm",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "147.82",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/19/22, 7:53 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Wine List - Bistro Les Amis - SoHo, New York",
+    "bbox": [
+      "271.03",
+      "15.70",
+      "432.12",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Dark ‘n'Stormy ... $15.00",
+    "bbox": [
+      "180.53",
+      "30.66",
+      "313.07",
+      "41.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Myers Rum, Ginger Beer",
+    "bbox": [
+      "180.53",
+      "42.96",
+      "285.41",
+      "51.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "French 75 ... $17.00",
+    "bbox": [
+      "180.53",
+      "63.52",
+      "281.91",
+      "73.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "VSOP Cognac, Simple Syrup, Fresh Lemon Juice, Champagne",
+    "bbox": [
+      "180.53",
+      "75.82",
+      "443.95",
+      "84.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "French Martini ... $15.00",
+    "bbox": [
+      "180.53",
+      "96.38",
+      "312.25",
+      "106.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Dinner",
+    "bbox": [
+      "46.04",
+      "110.25",
+      "74.03",
+      "117.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Stoli Vanilla, Chambord, Pineapple Juice",
+    "bbox": [
+      "180.53",
+      "108.68",
+      "352.16",
+      "117.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Prix Fixe",
+    "bbox": [
+      "46.04",
+      "129.73",
+      "84.54",
+      "137.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Paris Manhattan ... $15.00",
+    "bbox": [
+      "180.53",
+      "129.25",
+      "322.16",
+      "139.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Jim Beam, St-Germain, Dry Vermouth, Bitters",
+    "bbox": [
+      "180.53",
+      "141.55",
+      "377.96",
+      "150.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Lunch",
+    "bbox": [
+      "46.04",
+      "149.20",
+      "70.69",
+      "156.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "The Boulevardier ... $17.00",
+    "bbox": [
+      "180.53",
+      "162.11",
+      "323.35",
+      "172.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Brunch",
+    "bbox": [
+      "46.04",
+      "168.67",
+      "75.48",
+      "175.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Makers Mark, Sweet Vermouth & Campari",
+    "bbox": [
+      "180.53",
+      "174.41",
+      "359.86",
+      "182.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Dessert",
+    "bbox": [
+      "46.04",
+      "188.15",
+      "78.35",
+      "195.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Caipirinha Cocktail ... $15.00",
+    "bbox": [
+      "180.53",
+      "194.97",
+      "335.95",
+      "205.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Wine List",
+    "bbox": [
+      "47.87",
+      "207.62",
+      "92.31",
+      "214.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cacacha Rum, Club Soda, Sugar",
+    "bbox": [
+      "180.53",
+      "207.27",
+      "319.48",
+      "215.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "White Wines",
+    "bbox": [
+      "64.30",
+      "226.36",
+      "114.17",
+      "233.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chocolate-Mint Chill ... $15.00",
+    "bbox": [
+      "180.53",
+      "227.83",
+      "341.31",
+      "238.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Red Wines",
+    "bbox": [
+      "64.30",
+      "237.31",
+      "106.16",
+      "244.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Rum, Crème De Cacao, Green Crème De Menthe, Half & Half",
+    "bbox": [
+      "180.53",
+      "240.13",
+      "441.44",
+      "248.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sparkling",
+    "bbox": [
+      "64.30",
+      "248.27",
+      "101.32",
+      "254.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "By the Glass",
+    "bbox": [
+      "64.30",
+      "259.22",
+      "116.48",
+      "265.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Strawberry Short Cake ... $15.00",
+    "bbox": [
+      "180.53",
+      "260.69",
+      "355.23",
+      "271.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Specialty Drinks",
+    "bbox": [
+      "64.30",
+      "270.18",
+      "130.05",
+      "276.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Amaretto, Cream, Crème de Cacao, Strawberry Puree",
+    "bbox": [
+      "180.53",
+      "272.99",
+      "411.36",
+      "281.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Download Menu",
+    "bbox": [
+      "64.30",
+      "281.13",
+      "127.15",
+      "287.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Moscow Mule ... $16.00",
+    "bbox": [
+      "180.53",
+      "293.55",
+      "304.40",
+      "303.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Happy Hour",
+    "bbox": [
+      "46.04",
+      "301.95",
+      "97.57",
+      "309.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Ketel one, Ginger Beer, Lime Juice",
+    "bbox": [
+      "180.53",
+      "305.85",
+      "327.13",
+      "314.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Prices subject to change.",
+    "bbox": [
+      "324.70",
+      "343.33",
+      "416.71",
+      "350.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "@2022 Bistro Les Amis. All rights reserved.",
+    "bbox": [
+      "247.77",
+      "382.64",
+      "365.23",
+      "388.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "www.bistrolesamis.com/wines.htm",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "147.82",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]
