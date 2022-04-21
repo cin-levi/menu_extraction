@@ -67,11 +67,11 @@ def train_full_data(data_dir, output_folder):
                       max_seq_len=128, doc_stride=32, version='v1')
 
     training_mode = 'QANER'
-    batch_size = 16
+    batch_size = 8
 
     trainer.train(data_dir=data_dir, train_filename=train_file, test_filename=test_file,
                   output_dir=output_dir,
-                  train_bs=batch_size, test_bs=batch_size, num_train_epochs=20, cache_dir=cache_dir,
+                  train_bs=batch_size, test_bs=batch_size, num_train_epochs=10, cache_dir=cache_dir,
                   override_cache=True,
                   report_name=f'menu_v1_test_stable' + training_mode,
                   training_mode=training_mode,
