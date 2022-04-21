@@ -4,7 +4,7 @@ from document_reader import Document
 from processors import prj_path
 from glob import glob
 from tqdm import tqdm
-train_files = glob(prj_path + '/data\\pdf\\*.pdf')
+train_files = glob(prj_path + '/data\\pdf_test\\*.pdf')
 for file in tqdm(train_files):
     document = Document(file)
 

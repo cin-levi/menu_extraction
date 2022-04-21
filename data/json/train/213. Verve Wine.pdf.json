@@ -1,0 +1,4325 @@
+[
+  {
+    "page_number": 1,
+    "text": "FREE SAME DAY DELIVERY | ORDERS $150+",
+    "bbox": [
+      "210.34",
+      "20.72",
+      "400.67",
+      "29.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Search",
+    "bbox": [
+      "47.89",
+      "56.11",
+      "81.61",
+      "67.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ACCOUNT",
+    "bbox": [
+      "389.94",
+      "55.93",
+      "453.93",
+      "66.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CART",
+    "bbox": [
+      "501.14",
+      "55.93",
+      "533.68",
+      "66.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Search",
+    "bbox": [
+      "47.89",
+      "93.74",
+      "81.61",
+      "104.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SHOP BY LOCATION",
+    "bbox": [
+      "92.41",
+      "98.36",
+      "222.21",
+      "108.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SAME DAY DELIVERY",
+    "bbox": [
+      "251.64",
+      "98.36",
+      "384.78",
+      "108.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE",
+    "bbox": [
+      "416.27",
+      "98.36",
+      "448.88",
+      "108.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GIFTS",
+    "bbox": [
+      "480.36",
+      "98.36",
+      "516.53",
+      "108.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PAIRINGS",
+    "bbox": [
+      "136.34",
+      "135.99",
+      "196.77",
+      "146.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPIRITS",
+    "bbox": [
+      "226.20",
+      "135.99",
+      "273.13",
+      "146.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE CLUB",
+    "bbox": [
+      "304.62",
+      "135.99",
+      "378.52",
+      "146.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "THE BLOG",
+    "bbox": [
+      "407.95",
+      "135.99",
+      "472.61",
+      "146.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Home /",
+    "bbox": [
+      "40.37",
+      "231.56",
+      "73.47",
+      "240.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "W",
+    "bbox": [
+      "42.42",
+      "256.78",
+      "67.46",
+      "281.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "INE",
+    "bbox": [
+      "67.46",
+      "256.78",
+      "109.35",
+      "281.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1511 Products",
+    "bbox": [
+      "40.37",
+      "309.09",
+      "107.43",
+      "319.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Filter",
+    "bbox": [
+      "60.89",
+      "336.65",
+      "91.18",
+      "347.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1511 Products",
+    "bbox": [
+      "305.50",
+      "337.14",
+      "372.56",
+      "347.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Featured",
+    "bbox": [
+      "394.79",
+      "367.25",
+      "436.81",
+      "377.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "STORE AVAILABILITY",
+    "bbox": [
+      "40.37",
+      "402.66",
+      "134.61",
+      "412.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TYPE",
+    "bbox": [
+      "172.24",
+      "402.66",
+      "195.21",
+      "412.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "COUNTRY",
+    "bbox": [
+      "232.85",
+      "402.66",
+      "279.20",
+      "412.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "REGION",
+    "bbox": [
+      "316.83",
+      "402.66",
+      "354.41",
+      "412.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GRAPE",
+    "bbox": [
+      "392.05",
+      "402.66",
+      "423.93",
+      "412.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SIZE",
+    "bbox": [
+      "461.56",
+      "402.66",
+      "481.46",
+      "412.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FARMING",
+    "bbox": [
+      "40.37",
+      "430.71",
+      "84.52",
+      "440.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "METHOD",
+    "bbox": [
+      "122.15",
+      "430.71",
+      "164.78",
+      "440.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "STYLE",
+    "bbox": [
+      "202.42",
+      "430.71",
+      "229.79",
+      "440.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PRICE",
+    "bbox": [
+      "267.42",
+      "430.71",
+      "294.50",
+      "440.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "4 Monos Madrid",
+    "bbox": [
+      "55.56",
+      "599.37",
+      "139.26",
+      "610.32"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "4 Monos Madrid",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "4 Monos Madrid",
+    "bbox": [
+      "191.55",
+      "599.37",
+      "275.25",
+      "610.32"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "4 Monos Madrid",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A.J. Adam 'Dhron",
+    "bbox": [
+      "324.66",
+      "599.37",
+      "414.12",
+      "610.32"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "A.J. Adam 'Dhron",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A.J. Adam Riesling 'Im",
+    "bbox": [
+      "448.60",
+      "599.37",
+      "562.15",
+      "610.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "A.J. Adam Riesling 'Im",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Blanco 'GR-10' 2018",
+    "bbox": [
+      "44.91",
+      "615.79",
+      "149.91",
+      "626.74"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Blanco 'GR-10' 201",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Blanco 'GR-10' 2019",
+    "bbox": [
+      "180.90",
+      "615.79",
+      "285.89",
+      "626.74"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Blanco 'GR-10' 201",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Hofberg' Riesling",
+    "bbox": [
+      "325.29",
+      "615.79",
+      "413.49",
+      "626.74"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Hofberg' Riesling",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pfarrgarten' 2019",
+    "bbox": [
+      "460.52",
+      "615.79",
+      "550.24",
+      "626.74"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pfarrgarten' 2019",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "4 Monos",
+    "bbox": [
+      "81.21",
+      "634.95",
+      "113.61",
+      "643.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "4 Monos",
+    "bbox": [
+      "217.19",
+      "634.95",
+      "249.60",
+      "643.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Kabinett Mosel 2019",
+    "bbox": [
+      "316.25",
+      "632.21",
+      "422.52",
+      "643.16"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Kabinett Mosel 201",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A.J. Adam",
+    "bbox": [
+      "486.20",
+      "634.95",
+      "524.56",
+      "643.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$31",
+    "bbox": [
+      "84.43",
+      "651.56",
+      "106.97",
+      "663.19"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$31",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$31",
+    "bbox": [
+      "220.41",
+      "651.56",
+      "242.95",
+      "663.19"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$31",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A.J. Adam",
+    "bbox": [
+      "350.21",
+      "651.37",
+      "388.57",
+      "659.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$23",
+    "bbox": [
+      "492.39",
+      "651.56",
+      "514.93",
+      "663.19"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$23",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$25",
+    "bbox": [
+      "356.40",
+      "667.98",
+      "378.94",
+      "679.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$25",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Alain Graillot Crozes-",
+    "bbox": [
+      "43.92",
+      "66.37",
+      "150.92",
+      "77.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Alain Graillot Crozes-",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Alain Graillot Crozes-",
+    "bbox": [
+      "179.90",
+      "66.37",
+      "286.90",
+      "77.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Alain Graillot Crozes-",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Alain Graillot Crozes-",
+    "bbox": [
+      "315.89",
+      "66.37",
+      "422.89",
+      "77.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Alain Graillot Crozes-",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Alain Graillot Crozes-",
+    "bbox": [
+      "451.88",
+      "66.37",
+      "558.88",
+      "77.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Alain Graillot Crozes-",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Hermitage 'La",
+    "bbox": [
+      "61.71",
+      "82.79",
+      "133.13",
+      "93.74"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Hermitage 'La",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Hermitage Blanc 2019",
+    "bbox": [
+      "176.44",
+      "82.79",
+      "290.36",
+      "93.74"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Hermitage Blanc 2019",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Hermitage Rouge",
+    "bbox": [
+      "324.53",
+      "82.79",
+      "414.25",
+      "93.74"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Hermitage Rouge",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Hermitage Rouge",
+    "bbox": [
+      "460.52",
+      "82.79",
+      "550.24",
+      "93.74"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Hermitage Rouge",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Guiraude' 2018",
+    "bbox": [
+      "57.54",
+      "99.21",
+      "137.30",
+      "110.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Guiraude' 2018",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Domaine Graillot",
+    "bbox": [
+      "201.66",
+      "101.95",
+      "265.14",
+      "110.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2018",
+    "bbox": [
+      "356.04",
+      "99.21",
+      "382.75",
+      "110.16"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2019",
+    "bbox": [
+      "492.02",
+      "99.21",
+      "518.73",
+      "110.16"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Domaine Graillot",
+    "bbox": [
+      "65.67",
+      "118.37",
+      "129.15",
+      "126.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$45",
+    "bbox": [
+      "220.41",
+      "118.56",
+      "242.95",
+      "130.19"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$45",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Domaine Graillot",
+    "bbox": [
+      "337.65",
+      "118.37",
+      "401.12",
+      "126.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Domaine Graillot",
+    "bbox": [
+      "473.63",
+      "118.37",
+      "537.11",
+      "126.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$74",
+    "bbox": [
+      "84.43",
+      "134.98",
+      "106.97",
+      "146.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$74",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$46",
+    "bbox": [
+      "362.81",
+      "134.98",
+      "388.26",
+      "146.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$46",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$46",
+    "bbox": [
+      "498.80",
+      "134.98",
+      "524.25",
+      "146.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$46",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "from",
+    "bbox": [
+      "347.10",
+      "138.57",
+      "362.82",
+      "145.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "from",
+    "bbox": [
+      "483.08",
+      "138.57",
+      "498.81",
+      "145.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Boxler Alsace",
+    "bbox": [
+      "45.99",
+      "297.63",
+      "148.84",
+      "308.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albert Boxler Alsace",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Boxler Alsace",
+    "bbox": [
+      "181.98",
+      "297.63",
+      "284.83",
+      "308.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albert Boxler Alsace",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Boxler Alsace",
+    "bbox": [
+      "317.97",
+      "297.63",
+      "420.82",
+      "308.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albert Boxler Alsace",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Boxler Alsace",
+    "bbox": [
+      "453.95",
+      "297.63",
+      "556.80",
+      "308.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albert Boxler Alsace",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chasselas 2018",
+    "bbox": [
+      "57.76",
+      "314.05",
+      "137.06",
+      "325.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chasselas 2018",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Edelzwicker 'Reserve'",
+    "bbox": [
+      "178.31",
+      "314.05",
+      "288.50",
+      "325.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Edelzwicker 'Reserve'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Gewurztraminer 2018",
+    "bbox": [
+      "313.62",
+      "314.05",
+      "425.16",
+      "325.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Gewurztraminer 2018",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Muscat 2017",
+    "bbox": [
+      "472.51",
+      "314.05",
+      "538.24",
+      "325.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Muscat 2017",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Boxler",
+    "bbox": [
+      "73.14",
+      "333.21",
+      "121.70",
+      "341.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2018",
+    "bbox": [
+      "220.05",
+      "330.47",
+      "246.76",
+      "341.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Boxler",
+    "bbox": [
+      "345.11",
+      "333.21",
+      "393.67",
+      "341.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Boxler",
+    "bbox": [
+      "481.10",
+      "333.21",
+      "529.66",
+      "341.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$38",
+    "bbox": [
+      "84.43",
+      "349.83",
+      "106.97",
+      "361.46"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$38",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Boxler",
+    "bbox": [
+      "209.12",
+      "349.63",
+      "257.69",
+      "357.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$36",
+    "bbox": [
+      "356.40",
+      "349.83",
+      "378.94",
+      "361.46"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$36",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$44",
+    "bbox": [
+      "492.39",
+      "349.83",
+      "514.93",
+      "361.46"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$44",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$29",
+    "bbox": [
+      "220.41",
+      "366.25",
+      "242.95",
+      "377.88"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$29",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Boxler Alsace",
+    "bbox": [
+      "45.99",
+      "528.89",
+      "148.84",
+      "539.84"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albert Boxler Alsace",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Boxler Alsace",
+    "bbox": [
+      "181.98",
+      "528.89",
+      "284.83",
+      "539.84"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albert Boxler Alsace",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Boxler Alsace",
+    "bbox": [
+      "317.97",
+      "528.89",
+      "420.82",
+      "539.84"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albert Boxler Alsace",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Boxler Alsace",
+    "bbox": [
+      "453.95",
+      "528.89",
+      "556.80",
+      "539.84"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albert Boxler Alsace",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pinot Blanc 'Reserve'",
+    "bbox": [
+      "44.62",
+      "545.32",
+      "150.21",
+      "556.26"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Blanc 'Reserve'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pinot Blanc 2018",
+    "bbox": [
+      "190.37",
+      "545.32",
+      "276.43",
+      "556.26"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Blanc 2018",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pinot Gris 'Reserve'",
+    "bbox": [
+      "320.35",
+      "545.32",
+      "418.43",
+      "556.26"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Gris 'Reserve'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pinot Gris 2018",
+    "bbox": [
+      "466.10",
+      "545.32",
+      "544.64",
+      "556.26"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Gris 2018",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2018",
+    "bbox": [
+      "84.06",
+      "561.74",
+      "110.77",
+      "572.68"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Boxler",
+    "bbox": [
+      "209.12",
+      "564.47",
+      "257.69",
+      "572.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2018",
+    "bbox": [
+      "356.04",
+      "561.74",
+      "382.75",
+      "572.68"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Boxler",
+    "bbox": [
+      "481.10",
+      "564.47",
+      "529.66",
+      "572.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Boxler",
+    "bbox": [
+      "73.14",
+      "580.89",
+      "121.70",
+      "589.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$38",
+    "bbox": [
+      "220.41",
+      "581.09",
+      "242.95",
+      "592.72"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$38",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Boxler",
+    "bbox": [
+      "345.11",
+      "580.89",
+      "393.67",
+      "589.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$46",
+    "bbox": [
+      "492.39",
+      "581.09",
+      "514.93",
+      "592.72"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$46",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$47",
+    "bbox": [
+      "84.43",
+      "597.51",
+      "106.97",
+      "609.14"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$47",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$53",
+    "bbox": [
+      "356.40",
+      "597.51",
+      "378.94",
+      "609.14"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$53",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Boxler Alsace",
+    "bbox": [
+      "317.97",
+      "760.16",
+      "420.82",
+      "771.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albert Boxler Alsace",
+    "bbox": [
+      "453.95",
+      "760.16",
+      "556.80",
+      "771.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rili'S",
+    "bbox": [
+      "313.09",
+      "776.58",
+      "365.32",
+      "787.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "b",
+    "bbox": [
+      "401.75",
+      "776.58",
+      "408.70",
+      "787.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rili'S",
+    "bbox": [
+      "449.08",
+      "776.58",
+      "501.31",
+      "787.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "b",
+    "bbox": [
+      "537.74",
+      "776.58",
+      "544.69",
+      "787.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Riesling 'Sommerberg",
+    "bbox": [
+      "313.09",
+      "11.63",
+      "425.69",
+      "22.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Riesling 'Sommerberg",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Riesling 'Sommerberg",
+    "bbox": [
+      "449.08",
+      "11.63",
+      "561.68",
+      "22.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Riesling 'Sommerberg",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Albert Boxler Alsace",
+    "bbox": [
+      "45.99",
+      "16.42",
+      "148.84",
+      "27.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albert Boxler Alsace",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Albert Boxler Alsace",
+    "bbox": [
+      "181.98",
+      "16.42",
+      "284.83",
+      "27.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albert Boxler Alsace",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Riesling 'Brand Grand",
+    "bbox": [
+      "42.12",
+      "32.84",
+      "152.70",
+      "43.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Riesling 'Brand Grand",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Riesling 'Reserve'",
+    "bbox": [
+      "188.85",
+      "32.84",
+      "277.95",
+      "43.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Riesling 'Reserve'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "- Dudenstein Grand",
+    "bbox": [
+      "319.83",
+      "34.89",
+      "418.94",
+      "45.84"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "- Dudenstein Grand",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "- Eckberg Grand Cru'",
+    "bbox": [
+      "452.21",
+      "34.89",
+      "558.53",
+      "45.84"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "- Eckberg Grand Cru'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cru' 2019",
+    "bbox": [
+      "72.16",
+      "49.26",
+      "122.67",
+      "60.21"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2018",
+    "bbox": [
+      "220.05",
+      "49.26",
+      "246.76",
+      "60.21"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cru' 2015",
+    "bbox": [
+      "344.14",
+      "51.32",
+      "394.65",
+      "62.26"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2019",
+    "bbox": [
+      "492.02",
+      "51.32",
+      "518.73",
+      "62.26"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Albert Boxler",
+    "bbox": [
+      "73.14",
+      "68.42",
+      "121.70",
+      "76.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Albert Boxler",
+    "bbox": [
+      "209.12",
+      "68.42",
+      "257.69",
+      "76.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Albert Boxler",
+    "bbox": [
+      "345.11",
+      "70.47",
+      "393.67",
+      "78.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Albert Boxler",
+    "bbox": [
+      "481.10",
+      "70.47",
+      "529.66",
+      "78.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$81",
+    "bbox": [
+      "84.43",
+      "85.04",
+      "106.97",
+      "96.67"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$81",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$63",
+    "bbox": [
+      "220.41",
+      "85.04",
+      "242.95",
+      "96.67"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$63",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$95",
+    "bbox": [
+      "356.40",
+      "87.09",
+      "378.94",
+      "98.72"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$96",
+    "bbox": [
+      "492.39",
+      "87.09",
+      "514.93",
+      "98.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Albert Boxler Alsace",
+    "bbox": [
+      "45.99",
+      "249.74",
+      "148.84",
+      "260.68"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albert Boxler Alsace",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Albert Boxler Alsace",
+    "bbox": [
+      "181.98",
+      "249.74",
+      "284.83",
+      "260.68"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albert Boxler Alsace",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Albert Boxler Cremant",
+    "bbox": [
+      "312.77",
+      "249.74",
+      "426.00",
+      "260.68"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albert Boxler Cremant",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Alberto Nanclares y",
+    "bbox": [
+      "455.67",
+      "249.74",
+      "555.08",
+      "260.68"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Alberto Nanclares y",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Riesling 'Sommerberg",
+    "bbox": [
+      "41.12",
+      "266.16",
+      "153.72",
+      "277.11"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Riesling 'Sommerberg",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sylvaner 2018",
+    "bbox": [
+      "197.19",
+      "266.16",
+      "269.62",
+      "277.11"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sylvaner 2018",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "d'Alsace 2017",
+    "bbox": [
+      "333.06",
+      "266.16",
+      "405.71",
+      "277.11"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "d'Alsace 2017",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Prieto Rias Baixas",
+    "bbox": [
+      "461.00",
+      "266.16",
+      "549.75",
+      "277.11"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Prieto Rias Baixas",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Grand Cru' 2015",
+    "bbox": [
+      "54.97",
+      "282.58",
+      "139.86",
+      "293.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grand Cru' 2015",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Albert Boxler",
+    "bbox": [
+      "209.12",
+      "285.32",
+      "257.69",
+      "293.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Albert Boxler",
+    "bbox": [
+      "345.11",
+      "285.32",
+      "393.67",
+      "293.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Albarino 'A Grana'",
+    "bbox": [
+      "458.53",
+      "282.58",
+      "552.23",
+      "293.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albarino 'A Grana'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Albert Boxler",
+    "bbox": [
+      "73.14",
+      "301.74",
+      "121.70",
+      "309.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$38",
+    "bbox": [
+      "220.41",
+      "301.93",
+      "242.95",
+      "313.56"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$38",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$42",
+    "bbox": [
+      "356.40",
+      "301.93",
+      "378.94",
+      "313.56"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$42",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2020",
+    "bbox": [
+      "492.02",
+      "299.00",
+      "518.73",
+      "309.95"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$84",
+    "bbox": [
+      "84.43",
+      "318.35",
+      "106.97",
+      "329.98"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$84",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Nanclares y Prieto",
+    "bbox": [
+      "472.06",
+      "318.16",
+      "538.68",
+      "326.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$66",
+    "bbox": [
+      "492.39",
+      "334.77",
+      "514.93",
+      "346.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$66",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Alberto Nanclares y",
+    "bbox": [
+      "47.71",
+      "498.11",
+      "147.11",
+      "509.05"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Alberto Nanclares y",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Alberto Nanclares y",
+    "bbox": [
+      "183.70",
+      "498.11",
+      "283.10",
+      "509.05"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Alberto Nanclares y",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Alberto Nanclares y",
+    "bbox": [
+      "319.69",
+      "498.11",
+      "419.09",
+      "509.05"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Alberto Nanclares y",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Alberto Nanclares y",
+    "bbox": [
+      "455.67",
+      "498.11",
+      "555.08",
+      "509.05"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Alberto Nanclares y",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Prieto Rias Baixas",
+    "bbox": [
+      "53.04",
+      "514.53",
+      "141.79",
+      "525.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Prieto Rias Baixas",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Prieto Rias Baixas",
+    "bbox": [
+      "189.02",
+      "514.53",
+      "277.77",
+      "525.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Prieto Rias Baixas",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Prieto Rias Baixas",
+    "bbox": [
+      "325.01",
+      "514.53",
+      "413.76",
+      "525.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Prieto Rias Baixas",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Prieto Rias Baixas",
+    "bbox": [
+      "461.00",
+      "514.53",
+      "549.75",
+      "525.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Prieto Rias Baixas",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Albarino 'Dandelion'",
+    "bbox": [
+      "44.71",
+      "530.95",
+      "150.12",
+      "541.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albarino 'Dandelion'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Albarino 'O Bocoi",
+    "bbox": [
+      "188.32",
+      "530.95",
+      "278.49",
+      "541.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albarino 'O Bocoi",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Albarino 'Soverribas'",
+    "bbox": [
+      "316.33",
+      "530.95",
+      "422.44",
+      "541.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albarino 'Soverribas'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Albarino 'Soverribas'",
+    "bbox": [
+      "452.32",
+      "530.95",
+      "558.43",
+      "541.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albarino 'Soverribas'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2020",
+    "bbox": [
+      "84.06",
+      "547.37",
+      "110.77",
+      "558.32"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Vello' 2020",
+    "bbox": [
+      "204.38",
+      "547.37",
+      "262.43",
+      "558.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Vello' 2020",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2019",
+    "bbox": [
+      "356.04",
+      "547.37",
+      "382.75",
+      "558.32"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2020",
+    "bbox": [
+      "492.02",
+      "547.37",
+      "518.73",
+      "558.32"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Nanclares y Prieto",
+    "bbox": [
+      "64.10",
+      "566.53",
+      "130.72",
+      "574.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Nanclares y Prieto",
+    "bbox": [
+      "200.09",
+      "566.53",
+      "266.71",
+      "574.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Nanclares y Prieto",
+    "bbox": [
+      "336.08",
+      "566.53",
+      "402.70",
+      "574.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Nanclares y Prieto",
+    "bbox": [
+      "472.06",
+      "566.53",
+      "538.68",
+      "574.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$28",
+    "bbox": [
+      "90.84",
+      "583.14",
+      "116.29",
+      "594.77"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$28",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$39",
+    "bbox": [
+      "226.83",
+      "583.14",
+      "252.28",
+      "594.77"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$39",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$55",
+    "bbox": [
+      "362.81",
+      "583.14",
+      "388.26",
+      "594.77"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$55",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$55",
+    "bbox": [
+      "492.39",
+      "583.14",
+      "514.93",
+      "594.77"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$55",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "from",
+    "bbox": [
+      "75.12",
+      "586.72",
+      "90.85",
+      "593.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "from",
+    "bbox": [
+      "211.11",
+      "586.72",
+      "226.83",
+      "593.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "from",
+    "bbox": [
+      "347.10",
+      "586.72",
+      "362.82",
+      "593.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Alberto Nanclares y",
+    "bbox": [
+      "47.71",
+      "745.79",
+      "147.11",
+      "756.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Alberto Nanclares y",
+    "bbox": [
+      "183.70",
+      "745.79",
+      "283.10",
+      "756.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Alberto Nanclares y",
+    "bbox": [
+      "319.69",
+      "745.79",
+      "419.09",
+      "756.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Alberto Nanclares y",
+    "bbox": [
+      "455.67",
+      "745.79",
+      "555.08",
+      "756.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Prieto Rias Baixas",
+    "bbox": [
+      "53.04",
+      "762.21",
+      "141.79",
+      "773.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Prieto Ribeira Sacra",
+    "bbox": [
+      "184.10",
+      "762.21",
+      "282.71",
+      "773.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Prieto Ribeira Sacra",
+    "bbox": [
+      "320.08",
+      "762.21",
+      "418.70",
+      "773.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Prieto Ribeira Sacra",
+    "bbox": [
+      "456.07",
+      "762.21",
+      "554.68",
+      "773.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Albarino 2020",
+    "bbox": [
+      "60.88",
+      "13.68",
+      "133.94",
+      "24.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "'Minato da Rana'",
+    "bbox": [
+      "190.67",
+      "13.68",
+      "276.14",
+      "24.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "'Minato da Rana'",
+    "bbox": [
+      "326.66",
+      "13.68",
+      "412.12",
+      "24.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "'Minato da Rana'",
+    "bbox": [
+      "462.64",
+      "13.68",
+      "548.11",
+      "24.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Nanclares y Prieto",
+    "bbox": [
+      "64.10",
+      "32.84",
+      "130.72",
+      "41.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2018",
+    "bbox": [
+      "220.05",
+      "30.11",
+      "246.76",
+      "41.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2019",
+    "bbox": [
+      "356.04",
+      "30.11",
+      "382.75",
+      "41.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2020",
+    "bbox": [
+      "492.02",
+      "30.11",
+      "518.73",
+      "41.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Nanclares y Prieto",
+    "bbox": [
+      "200.09",
+      "49.26",
+      "266.71",
+      "57.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Nanclares y Prieto",
+    "bbox": [
+      "336.08",
+      "49.26",
+      "402.70",
+      "57.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Nanclares y Prieto",
+    "bbox": [
+      "472.06",
+      "49.26",
+      "538.68",
+      "57.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$44",
+    "bbox": [
+      "84.43",
+      "63.83",
+      "106.97",
+      "75.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$62",
+    "bbox": [
+      "220.41",
+      "63.83",
+      "242.95",
+      "75.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$69",
+    "bbox": [
+      "356.40",
+      "63.83",
+      "378.94",
+      "75.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$73",
+    "bbox": [
+      "492.39",
+      "63.83",
+      "514.93",
+      "75.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alberto Nanclares y",
+    "bbox": [
+      "47.71",
+      "226.47",
+      "147.11",
+      "237.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alberto Orte Sierra de",
+    "bbox": [
+      "177.36",
+      "226.47",
+      "289.45",
+      "237.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alessandro Fantino",
+    "bbox": [
+      "320.86",
+      "226.47",
+      "417.91",
+      "237.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alex Foillard Brouilly",
+    "bbox": [
+      "453.12",
+      "226.47",
+      "557.62",
+      "237.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Prieto Vino Tinto 'A",
+    "bbox": [
+      "48.65",
+      "242.89",
+      "146.18",
+      "253.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "la Demanda Rioja",
+    "bbox": [
+      "188.59",
+      "242.89",
+      "278.21",
+      "253.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Barolo Riserva",
+    "bbox": [
+      "333.14",
+      "242.89",
+      "405.64",
+      "253.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2018",
+    "bbox": [
+      "492.02",
+      "242.89",
+      "518.73",
+      "253.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Senda Vermella' 2019",
+    "bbox": [
+      "41.39",
+      "259.32",
+      "153.44",
+      "270.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "'Anibal' 2015",
+    "bbox": [
+      "199.12",
+      "259.32",
+      "267.68",
+      "270.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "'Cascina Dardi Bussia'",
+    "bbox": [
+      "313.99",
+      "259.32",
+      "424.79",
+      "270.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alex Foillard",
+    "bbox": [
+      "482.25",
+      "262.05",
+      "528.51",
+      "270.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Nanclares y Prieto",
+    "bbox": [
+      "64.10",
+      "278.47",
+      "130.72",
+      "286.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alberto Orte",
+    "bbox": [
+      "209.85",
+      "278.47",
+      "256.96",
+      "286.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2013",
+    "bbox": [
+      "356.04",
+      "275.74",
+      "382.75",
+      "286.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$51",
+    "bbox": [
+      "498.80",
+      "278.67",
+      "524.25",
+      "290.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "from",
+    "bbox": [
+      "483.08",
+      "282.25",
+      "498.81",
+      "289.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$33",
+    "bbox": [
+      "84.43",
+      "295.09",
+      "106.97",
+      "306.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$45",
+    "bbox": [
+      "220.41",
+      "295.09",
+      "242.95",
+      "306.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alessandro Fantino e Gian",
+    "bbox": [
+      "320.43",
+      "294.89",
+      "418.34",
+      "303.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Natale",
+    "bbox": [
+      "357.30",
+      "307.21",
+      "381.49",
+      "315.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$70",
+    "bbox": [
+      "356.40",
+      "323.83",
+      "378.94",
+      "335.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alex Foillard Cote de",
+    "bbox": [
+      "44.26",
+      "486.47",
+      "150.56",
+      "497.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alfredo Maestro",
+    "bbox": [
+      "192.37",
+      "486.47",
+      "274.43",
+      "497.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alzinger Gruner",
+    "bbox": [
+      "329.07",
+      "486.47",
+      "409.70",
+      "497.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alzinger Gruner",
+    "bbox": [
+      "465.06",
+      "486.47",
+      "545.69",
+      "497.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Brouilly 2018",
+    "bbox": [
+      "63.52",
+      "502.89",
+      "131.31",
+      "513.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Castilla y Leon VdT",
+    "bbox": [
+      "185.55",
+      "502.89",
+      "281.26",
+      "513.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Veltliner 'Loibenberg'",
+    "bbox": [
+      "314.59",
+      "502.89",
+      "424.19",
+      "513.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Veltliner 'Muhlpoint'",
+    "bbox": [
+      "453.65",
+      "502.89",
+      "557.11",
+      "513.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alex Foillard",
+    "bbox": [
+      "74.29",
+      "522.05",
+      "120.55",
+      "530.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Tinto 'Castrillo de",
+    "bbox": [
+      "188.86",
+      "519.32",
+      "277.93",
+      "530.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Smaragd Wachau",
+    "bbox": [
+      "324.76",
+      "519.32",
+      "414.02",
+      "530.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Smaragd Wachau",
+    "bbox": [
+      "460.75",
+      "519.32",
+      "550.01",
+      "530.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$51",
+    "bbox": [
+      "84.43",
+      "538.67",
+      "106.97",
+      "550.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Duero' 2018",
+    "bbox": [
+      "201.39",
+      "535.74",
+      "265.41",
+      "546.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2019",
+    "bbox": [
+      "356.04",
+      "535.74",
+      "382.75",
+      "546.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2019",
+    "bbox": [
+      "492.02",
+      "535.74",
+      "518.73",
+      "546.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alfredo Maestro",
+    "bbox": [
+      "203.34",
+      "554.89",
+      "263.46",
+      "563.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alzinger",
+    "bbox": [
+      "354.04",
+      "554.89",
+      "384.74",
+      "563.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alzinger",
+    "bbox": [
+      "490.02",
+      "554.89",
+      "520.73",
+      "563.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$26",
+    "bbox": [
+      "220.41",
+      "571.51",
+      "242.95",
+      "583.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$57",
+    "bbox": [
+      "356.40",
+      "571.51",
+      "378.94",
+      "583.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$43",
+    "bbox": [
+      "492.39",
+      "571.51",
+      "514.93",
+      "583.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "1 - 40 OF 1511 PRODUCTS",
+    "bbox": [
+      "246.01",
+      "677.88",
+      "363.86",
+      "685.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "LOAD MORE",
+    "bbox": [
+      "274.70",
+      "718.25",
+      "336.30",
+      "728.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "MY ACCOUNT",
+    "bbox": [
+      "40.37",
+      "17.64",
+      "111.32",
+      "27.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "LOCATIONS",
+    "bbox": [
+      "172.93",
+      "17.64",
+      "232.90",
+      "27.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "SUPPORT",
+    "bbox": [
+      "305.50",
+      "17.64",
+      "353.65",
+      "27.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ABOUT US",
+    "bbox": [
+      "438.07",
+      "17.64",
+      "490.85",
+      "27.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Log In",
+    "bbox": [
+      "40.37",
+      "46.18",
+      "67.43",
+      "55.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "New York City",
+    "bbox": [
+      "172.93",
+      "46.18",
+      "233.70",
+      "55.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Email Us",
+    "bbox": [
+      "305.50",
+      "46.18",
+      "342.78",
+      "55.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Our Story",
+    "bbox": [
+      "438.07",
+      "46.18",
+      "479.61",
+      "55.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "San Francisco",
+    "bbox": [
+      "172.93",
+      "66.03",
+      "232.41",
+      "75.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "FAQ",
+    "bbox": [
+      "305.50",
+      "66.03",
+      "325.67",
+      "75.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Press",
+    "bbox": [
+      "438.07",
+      "66.03",
+      "460.69",
+      "75.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chicago",
+    "bbox": [
+      "172.93",
+      "85.87",
+      "209.36",
+      "95.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Shipping and Delivery",
+    "bbox": [
+      "305.50",
+      "85.87",
+      "401.41",
+      "95.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Careers",
+    "bbox": [
+      "438.07",
+      "85.87",
+      "471.70",
+      "95.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Privacy Policy",
+    "bbox": [
+      "438.07",
+      "105.71",
+      "495.72",
+      "115.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Accessibility",
+    "bbox": [
+      "438.07",
+      "125.55",
+      "490.80",
+      "135.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "SERVICES",
+    "bbox": [
+      "172.93",
+      "156.53",
+      "221.61",
+      "166.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Get in touch",
+    "bbox": [
+      "305.50",
+      "156.53",
+      "365.92",
+      "166.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Corporate Gifts",
+    "bbox": [
+      "172.93",
+      "184.39",
+      "239.87",
+      "193.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Email us",
+    "bbox": [
+      "326.03",
+      "184.39",
+      "361.98",
+      "193.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Tastings & Events",
+    "bbox": [
+      "172.93",
+      "204.24",
+      "248.44",
+      "213.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Follow us",
+    "bbox": [
+      "305.50",
+      "216.74",
+      "352.66",
+      "227.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Digital Gift Cards",
+    "bbox": [
+      "172.93",
+      "224.08",
+      "247.23",
+      "233.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Check Gift Card Balance",
+    "bbox": [
+      "172.93",
+      "243.92",
+      "278.57",
+      "253.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cellars, Storage & More",
+    "bbox": [
+      "172.93",
+      "263.76",
+      "276.07",
+      "273.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "© 2022 Verve Wine",
+    "bbox": [
+      "210.77",
+      "337.49",
+      "290.84",
+      "346.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Terms of Service",
+    "bbox": [
+      "306.58",
+      "337.49",
+      "372.85",
+      "346.38"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

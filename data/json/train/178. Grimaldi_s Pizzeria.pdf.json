@@ -1,0 +1,3598 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/18/22, 2:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Drinks Menu | Wine | Beer | Lemonade | Italian Soda | Grimaldi's",
+    "bbox": [
+      "237.56",
+      "15.70",
+      "465.58",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "#GrimaldisPizzeria",
+    "bbox": [
+      "167.00",
+      "38.42",
+      "269.49",
+      "53.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FIND A  LOC ATI ON",
+    "bbox": [
+      "68.00",
+      "45.39",
+      "185.52",
+      "64.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "441.89",
+      "56.75",
+      "541.25",
+      "74.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Enter City & State or Zip Code",
+    "bbox": [
+      "68.00",
+      "83.37",
+      "184.63",
+      "93.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MENU",
+    "bbox": [
+      "115.48",
+      "114.39",
+      "141.87",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LOCATIONS",
+    "bbox": [
+      "182.37",
+      "114.39",
+      "231.69",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GIFT CARDS",
+    "bbox": [
+      "272.20",
+      "114.39",
+      "324.60",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CAREERS",
+    "bbox": [
+      "365.11",
+      "114.39",
+      "403.52",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "OUR FAMILY",
+    "bbox": [
+      "444.02",
+      "114.39",
+      "497.50",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FRANCHISING",
+    "bbox": [
+      "201.31",
+      "132.39",
+      "261.74",
+      "144.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "REWARDS",
+    "bbox": [
+      "302.25",
+      "132.39",
+      "345.43",
+      "144.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "NEWS",
+    "bbox": [
+      "385.93",
+      "132.39",
+      "411.67",
+      "144.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "252.31",
+      "170.00",
+      "359.92",
+      "188.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "M",
+    "bbox": [
+      "255.59",
+      "230.00",
+      "285.74",
+      "275.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "286.49",
+      "230.00",
+      "308.95",
+      "275.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "N",
+    "bbox": [
+      "309.70",
+      "230.00",
+      "333.41",
+      "275.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "U",
+    "bbox": [
+      "334.16",
+      "230.00",
+      "356.66",
+      "275.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PIZZAS",
+    "bbox": [
+      "58.31",
+      "302.00",
+      "120.54",
+      "324.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "STARTERS",
+    "bbox": [
+      "139.85",
+      "302.00",
+      "227.53",
+      "324.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DRINKS",
+    "bbox": [
+      "246.84",
+      "302.00",
+      "310.06",
+      "324.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MILLE GRADI°",
+    "bbox": [
+      "329.37",
+      "302.00",
+      "446.98",
+      "324.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DESSERTS",
+    "bbox": [
+      "466.29",
+      "302.00",
+      "554.69",
+      "324.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SEASONAL",
+    "bbox": [
+      "260.06",
+      "347.00",
+      "352.94",
+      "369.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE",
+    "bbox": [
+      "280.96",
+      "638.75",
+      "332.04",
+      "664.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "* Wine selection may vary by location.",
+    "bbox": [
+      "211.66",
+      "704.64",
+      "390.10",
+      "716.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPARKLING & ROSÉ",
+    "bbox": [
+      "243.41",
+      "739.46",
+      "369.59",
+      "757.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.grimaldispizzeria.com/menu_type/drinks/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "214.08",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/18/22, 2:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Drinks Menu | Wine | Beer | Lemonade | Italian Soda | Grimaldi's",
+    "bbox": [
+      "237.56",
+      "15.70",
+      "465.58",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DAY OWL ROSÉ",
+    "bbox": [
+      "239.41",
+      "28.03",
+      "373.59",
+      "52.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "FIND A LOCATION",
+    "bbox": [
+      "68.00",
+      "46.25",
+      "185.52",
+      "64.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "441.89",
+      "56.75",
+      "541.25",
+      "74.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "California",
+    "bbox": [
+      "274.65",
+      "59.83",
+      "338.34",
+      "77.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Enter City & State or Zip Code",
+    "bbox": [
+      "68.00",
+      "83.37",
+      "184.63",
+      "93.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "A TO Z “BUBBLES” SPARKLING ROSÉ",
+    "bbox": [
+      "149.34",
+      "101.53",
+      "463.66",
+      "125.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MENU",
+    "bbox": [
+      "115.48",
+      "114.39",
+      "141.87",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LOCATIONS",
+    "bbox": [
+      "182.37",
+      "114.39",
+      "231.69",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GIFT CARDS",
+    "bbox": [
+      "272.20",
+      "114.39",
+      "324.60",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CAREERS",
+    "bbox": [
+      "365.11",
+      "114.39",
+      "403.52",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "OUR FAMILY",
+    "bbox": [
+      "444.02",
+      "114.39",
+      "497.50",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "FRANCHISING",
+    "bbox": [
+      "201.31",
+      "132.39",
+      "261.74",
+      "144.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "OreRgEoWnARDS",
+    "bbox": [
+      "280.50",
+      "132.39",
+      "345.43",
+      "150.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "NEWS",
+    "bbox": [
+      "385.93",
+      "132.39",
+      "411.67",
+      "144.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LA MARCA PROSECCO",
+    "bbox": [
+      "211.77",
+      "175.03",
+      "401.25",
+      "199.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LA MARCA PROSECCO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Italy",
+    "bbox": [
+      "292.19",
+      "206.83",
+      "320.80",
+      "224.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "FERRARI BRUT",
+    "bbox": [
+      "242.64",
+      "248.53",
+      "370.36",
+      "272.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FERRARI BRUT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Trentino, Italy",
+    "bbox": [
+      "259.89",
+      "280.33",
+      "353.12",
+      "297.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Trentino, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PINOT GRIGIO",
+    "bbox": [
+      "258.70",
+      "322.46",
+      "354.31",
+      "340.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "COPPOLA “ROSSO & BIANCO”",
+    "bbox": [
+      "178.66",
+      "352.03",
+      "434.34",
+      "376.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "COPPOLA “ROSSO & BIANCO”",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "California",
+    "bbox": [
+      "274.65",
+      "383.83",
+      "338.34",
+      "401.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MILLE GRADI PINOT GRIGIO",
+    "bbox": [
+      "182.37",
+      "425.53",
+      "430.61",
+      "449.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MILLE GRADI PINOT GRIGIO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Italy",
+    "bbox": [
+      "292.19",
+      "457.33",
+      "320.80",
+      "474.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "242.97",
+      "499.46",
+      "370.02",
+      "517.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "THE CROSSINGS",
+    "bbox": [
+      "236.97",
+      "529.03",
+      "376.03",
+      "553.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "THE CROSSINGS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "New Zealand",
+    "bbox": [
+      "264.95",
+      "560.83",
+      "348.05",
+      "578.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "New Zealand",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DECOY BY DUCKHORN",
+    "bbox": [
+      "209.27",
+      "602.53",
+      "403.73",
+      "626.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DECOY BY DUCKHORN",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sonoma County, California",
+    "bbox": [
+      "220.26",
+      "634.33",
+      "392.75",
+      "651.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sonoma County, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "259.88",
+      "676.46",
+      "353.11",
+      "694.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "KENDALL-JACKSON “AVANT”",
+    "bbox": [
+      "183.14",
+      "706.03",
+      "429.86",
+      "730.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "KENDALL-JACKSON “AVANT”",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "California",
+    "bbox": [
+      "274.65",
+      "737.83",
+      "338.34",
+      "755.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.grimaldispizzeria.com/menu_type/drinks/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "214.08",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/18/22, 2:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Drinks Menu | Wine | Beer | Lemonade | Italian Soda | Grimaldi's",
+    "bbox": [
+      "237.56",
+      "15.70",
+      "465.58",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TREANA",
+    "bbox": [
+      "271.13",
+      "28.03",
+      "341.87",
+      "52.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "FIND A LOCATION",
+    "bbox": [
+      "68.00",
+      "46.25",
+      "185.52",
+      "64.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "441.89",
+      "56.75",
+      "541.25",
+      "74.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Central Coast, California",
+    "bbox": [
+      "227.45",
+      "59.83",
+      "385.56",
+      "77.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Enter City & State or Zip Code",
+    "bbox": [
+      "68.00",
+      "83.37",
+      "184.63",
+      "93.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHALK HILL",
+    "bbox": [
+      "254.93",
+      "101.53",
+      "358.09",
+      "125.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MENU",
+    "bbox": [
+      "115.48",
+      "114.39",
+      "141.87",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "LOCATIONS",
+    "bbox": [
+      "182.37",
+      "114.39",
+      "231.69",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "GIFT CARDS",
+    "bbox": [
+      "272.20",
+      "114.39",
+      "324.60",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CAREERS",
+    "bbox": [
+      "365.11",
+      "114.39",
+      "403.52",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "OUR FAMILY",
+    "bbox": [
+      "444.02",
+      "114.39",
+      "497.50",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "FRRAuNsCsHiIaSInN GRive r VRaElWleAyRD, SCali forNnEiWaS",
+    "bbox": [
+      "201.31",
+      "132.39",
+      "411.67",
+      "150.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "UNIQUE WHITES",
+    "bbox": [
+      "252.21",
+      "175.46",
+      "360.79",
+      "193.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TERRA D’ORO MOSCATO",
+    "bbox": [
+      "200.29",
+      "205.03",
+      "412.71",
+      "229.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "TERRA D’ORO MOSCATO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "California",
+    "bbox": [
+      "274.65",
+      "236.83",
+      "338.34",
+      "254.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHATEAU STE. MICHELLE RIESLING",
+    "bbox": [
+      "154.48",
+      "278.53",
+      "458.52",
+      "302.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHATEAU STE. MICHELLE RIESLING",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Columbia Valley, Washington",
+    "bbox": [
+      "213.03",
+      "310.33",
+      "399.96",
+      "327.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Columbia Valley, Washington",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PALLADIO BIANCO ITALIANO",
+    "bbox": [
+      "181.21",
+      "352.03",
+      "431.77",
+      "376.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PALLADIO BIANCO ITALIANO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Italy",
+    "bbox": [
+      "292.19",
+      "383.83",
+      "320.80",
+      "401.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ITALIAN REDS",
+    "bbox": [
+      "261.16",
+      "425.96",
+      "351.85",
+      "443.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "VILLA POZZI NERO D’AVOLA",
+    "bbox": [
+      "184.89",
+      "455.53",
+      "428.09",
+      "479.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VILLA POZZI NERO D’AVOLA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sicily, Italy",
+    "bbox": [
+      "271.12",
+      "487.33",
+      "341.89",
+      "504.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sicily, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MILLE GRADI SANGIOVESE",
+    "bbox": [
+      "191.26",
+      "529.03",
+      "421.74",
+      "553.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MILLE GRADI SANGIOVESE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Tuscany, Italy",
+    "bbox": [
+      "261.92",
+      "560.83",
+      "351.08",
+      "578.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tuscany, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "DI MAJO NORANTE CABERNET SAUVIGNON",
+    "bbox": [
+      "118.72",
+      "602.53",
+      "494.28",
+      "626.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DI MAJO NORANTE CABERNET SAUVIGNON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Molise, Italy",
+    "bbox": [
+      "266.88",
+      "634.33",
+      "346.11",
+      "651.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Molise, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ITALIAN REDS (CONT'D)",
+    "bbox": [
+      "229.10",
+      "676.46",
+      "383.91",
+      "694.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "POGGIOTONDO CHIANTI",
+    "bbox": [
+      "197.90",
+      "706.03",
+      "415.10",
+      "730.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "POGGIOTONDO CHIANTI",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Tuscany, Italy",
+    "bbox": [
+      "261.92",
+      "737.83",
+      "351.08",
+      "755.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tuscany, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.grimaldispizzeria.com/menu_type/drinks/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "214.08",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/18/22, 2:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Drinks Menu | Wine | Beer | Lemonade | Italian Soda | Grimaldi's",
+    "bbox": [
+      "237.56",
+      "15.70",
+      "465.58",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CECCHI CHIANTI CLASSICO",
+    "bbox": [
+      "190.57",
+      "28.03",
+      "422.43",
+      "52.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "FIND A LOCATION",
+    "bbox": [
+      "68.00",
+      "46.25",
+      "185.52",
+      "64.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "441.89",
+      "56.75",
+      "541.25",
+      "74.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Tuscany, Italy",
+    "bbox": [
+      "261.92",
+      "59.83",
+      "351.08",
+      "77.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Enter City & State or Zip Code",
+    "bbox": [
+      "68.00",
+      "83.37",
+      "184.63",
+      "93.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ALLEGRINI “PALAZZO DELLA TORRE”",
+    "bbox": [
+      "147.55",
+      "101.53",
+      "465.45",
+      "125.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MENU",
+    "bbox": [
+      "115.48",
+      "114.39",
+      "141.87",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "LOCATIONS",
+    "bbox": [
+      "182.37",
+      "114.39",
+      "231.69",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "GIFT CARDS",
+    "bbox": [
+      "272.20",
+      "114.39",
+      "324.60",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CAREERS",
+    "bbox": [
+      "365.11",
+      "114.39",
+      "403.52",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "OUR FAMILY",
+    "bbox": [
+      "444.02",
+      "114.39",
+      "497.50",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "FRANCHISINGVe netoRE,W IAtRaDlyS",
+    "bbox": [
+      "201.31",
+      "132.39",
+      "347.41",
+      "150.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "NEWS",
+    "bbox": [
+      "385.93",
+      "132.39",
+      "411.67",
+      "144.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PERTINACE “NEBBIOLO”",
+    "bbox": [
+      "201.99",
+      "175.03",
+      "411.01",
+      "199.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PERTINACE “NEBBIOLO”",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Piedmont, Italy",
+    "bbox": [
+      "256.93",
+      "206.83",
+      "356.07",
+      "224.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Piedmont, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "266.23",
+      "248.96",
+      "346.77",
+      "266.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CANDONI",
+    "bbox": [
+      "265.00",
+      "278.53",
+      "348.00",
+      "302.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CANDONI",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pavia, Italy",
+    "bbox": [
+      "270.82",
+      "310.33",
+      "342.19",
+      "327.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pavia, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MACMURRAY ESTATE",
+    "bbox": [
+      "214.78",
+      "352.03",
+      "398.22",
+      "376.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MACMURRAY ESTATE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Central Coast, California",
+    "bbox": [
+      "227.45",
+      "383.83",
+      "385.56",
+      "401.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Central Coast, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "COPPOLA DIAMOND COLLECTION",
+    "bbox": [
+      "160.11",
+      "425.53",
+      "452.89",
+      "449.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "COPPOLA DIAMOND COLLECTION",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Oregon",
+    "bbox": [
+      "282.96",
+      "457.33",
+      "330.04",
+      "474.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Oregon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RED BLENDS",
+    "bbox": [
+      "265.74",
+      "499.46",
+      "347.27",
+      "517.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "COPPOLA “ROSSO & BIANCO”",
+    "bbox": [
+      "178.66",
+      "529.03",
+      "434.34",
+      "553.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "COPPOLA “ROSSO & BIANCO”",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "California",
+    "bbox": [
+      "274.65",
+      "560.83",
+      "338.34",
+      "578.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "19 CRIMES",
+    "bbox": [
+      "262.13",
+      "602.53",
+      "350.87",
+      "626.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "19 CRIMES",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "South Eastern Australia",
+    "bbox": [
+      "231.21",
+      "634.33",
+      "381.79",
+      "651.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "South Eastern Australia",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PRAYERS OF SINNERS",
+    "bbox": [
+      "212.84",
+      "676.03",
+      "400.16",
+      "700.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PRAYERS OF SINNERS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Washington",
+    "bbox": [
+      "268.66",
+      "707.83",
+      "344.34",
+      "725.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Washington",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.grimaldispizzeria.com/menu_type/drinks/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "214.08",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/18/22, 2:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Drinks Menu | Wine | Beer | Lemonade | Italian Soda | Grimaldi's",
+    "bbox": [
+      "237.56",
+      "15.70",
+      "465.58",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "PROPHECY “THE LOVERS”",
+    "bbox": [
+      "194.71",
+      "28.03",
+      "418.27",
+      "52.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "FIND A LOCATION",
+    "bbox": [
+      "68.00",
+      "46.25",
+      "185.52",
+      "64.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "441.89",
+      "56.75",
+      "541.25",
+      "74.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Washington & California",
+    "bbox": [
+      "228.18",
+      "59.83",
+      "384.81",
+      "77.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Enter City & State or Zip Code",
+    "bbox": [
+      "68.00",
+      "83.37",
+      "184.63",
+      "93.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RABBLE RED",
+    "bbox": [
+      "252.45",
+      "101.53",
+      "360.55",
+      "125.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "MENU",
+    "bbox": [
+      "115.48",
+      "114.39",
+      "141.87",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "LOCATIONS",
+    "bbox": [
+      "182.37",
+      "114.39",
+      "231.69",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "GIFT CARDS",
+    "bbox": [
+      "272.20",
+      "114.39",
+      "324.60",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CAREERS",
+    "bbox": [
+      "365.11",
+      "114.39",
+      "403.52",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "OUR FAMILY",
+    "bbox": [
+      "444.02",
+      "114.39",
+      "497.50",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "FRANCHPIaSIsNoG Ro bleRsE, WCAaRlDiSforn iaNEWS",
+    "bbox": [
+      "201.31",
+      "132.39",
+      "411.67",
+      "150.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "230.18",
+      "175.46",
+      "382.82",
+      "193.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "TRIBUTE",
+    "bbox": [
+      "268.81",
+      "205.03",
+      "344.19",
+      "229.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "California",
+    "bbox": [
+      "274.65",
+      "236.83",
+      "338.34",
+      "254.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "LIBERTY SCHOOL",
+    "bbox": [
+      "232.65",
+      "278.53",
+      "380.35",
+      "302.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Paso Robles, California",
+    "bbox": [
+      "231.90",
+      "310.33",
+      "381.10",
+      "327.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "EDUCATED GUESS",
+    "bbox": [
+      "228.79",
+      "352.03",
+      "384.21",
+      "376.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Napa Valley, California",
+    "bbox": [
+      "232.85",
+      "383.83",
+      "380.16",
+      "401.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "INTERESTING REDS",
+    "bbox": [
+      "243.52",
+      "425.96",
+      "369.48",
+      "443.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "DRUMHELLER MERLOT",
+    "bbox": [
+      "208.13",
+      "455.53",
+      "404.87",
+      "479.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Columbia Valley, Washington",
+    "bbox": [
+      "213.03",
+      "487.33",
+      "399.96",
+      "504.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "6TH SENSE SYRAH",
+    "bbox": [
+      "227.14",
+      "529.03",
+      "385.86",
+      "553.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Lodi, California",
+    "bbox": [
+      "256.70",
+      "560.83",
+      "356.30",
+      "578.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "LAYER CAKE MALBEC",
+    "bbox": [
+      "215.33",
+      "602.53",
+      "397.67",
+      "626.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Mendoza, Argentina",
+    "bbox": [
+      "241.92",
+      "634.33",
+      "371.09",
+      "651.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "MICHAEL DAVID “FREAKSHOW” ZINFANDEL",
+    "bbox": [
+      "117.87",
+      "676.03",
+      "495.11",
+      "700.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Lodi, California",
+    "bbox": [
+      "256.70",
+      "707.83",
+      "356.30",
+      "725.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.grimaldispizzeria.com/menu_type/drinks/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "214.08",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/18/22, 2:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Drinks Menu | Wine | Beer | Lemonade | Italian Soda | Grimaldi's",
+    "bbox": [
+      "237.56",
+      "15.70",
+      "465.58",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ZOLO MALBEC RESERVA",
+    "bbox": [
+      "204.37",
+      "28.03",
+      "408.63",
+      "52.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "FIND A LOCATION",
+    "bbox": [
+      "68.00",
+      "46.25",
+      "185.52",
+      "64.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "441.89",
+      "56.75",
+      "541.25",
+      "74.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Mendoza, Argentina",
+    "bbox": [
+      "241.92",
+      "59.83",
+      "371.09",
+      "77.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Enter City & State or Zip Code",
+    "bbox": [
+      "68.00",
+      "83.37",
+      "184.63",
+      "93.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MILLE GRADI",
+    "bbox": [
+      "249.12",
+      "101.53",
+      "363.88",
+      "125.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MENU",
+    "bbox": [
+      "115.48",
+      "114.39",
+      "141.87",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "LOCATIONS",
+    "bbox": [
+      "182.37",
+      "114.39",
+      "231.69",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "GIFT CARDS",
+    "bbox": [
+      "272.20",
+      "114.39",
+      "324.60",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CAREERS",
+    "bbox": [
+      "365.11",
+      "114.39",
+      "403.52",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "OUR FAMILY",
+    "bbox": [
+      "444.02",
+      "114.39",
+      "497.50",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "FRANCHISINGRos so TREoWsAcRaDnSo",
+    "bbox": [
+      "201.31",
+      "132.39",
+      "367.18",
+      "150.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "NEWS",
+    "bbox": [
+      "385.93",
+      "132.39",
+      "411.67",
+      "144.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "SANGRIA",
+    "bbox": [
+      "276.99",
+      "175.46",
+      "336.02",
+      "193.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RED SANGRIA",
+    "bbox": [
+      "246.46",
+      "205.03",
+      "366.52",
+      "229.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Beso Del Sol",
+    "bbox": [
+      "266.56",
+      "236.83",
+      "346.44",
+      "254.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "WHITE SANGRIA",
+    "bbox": [
+      "234.28",
+      "278.53",
+      "378.72",
+      "302.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Beso Del Sol",
+    "bbox": [
+      "266.56",
+      "310.33",
+      "346.44",
+      "327.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "COLD BEVERAGES",
+    "bbox": [
+      "219.69",
+      "361.25",
+      "393.32",
+      "386.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ITALIAN SODAS, LEMONADES & TEAS",
+    "bbox": [
+      "146.23",
+      "427.03",
+      "466.77",
+      "451.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Complement your meal with one of these refreshing beverages.",
+    "bbox": [
+      "100.78",
+      "458.83",
+      "512.22",
+      "476.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Year-Round: Watermelon, Strawberry, Peach and Green Apple.",
+    "bbox": [
+      "103.47",
+      "493.33",
+      "509.54",
+      "510.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://www.grimaldispizzeria.com/menu_type/drinks/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "214.08",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/18/22, 2:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Drinks Menu | Wine | Beer | Lemonade | Italian Soda | Grimaldi's",
+    "bbox": [
+      "237.56",
+      "15.70",
+      "465.58",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "FIND A LOCATION",
+    "bbox": [
+      "68.00",
+      "46.25",
+      "185.52",
+      "64.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "441.89",
+      "56.75",
+      "541.25",
+      "74.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Enter City & State or Zip Code",
+    "bbox": [
+      "68.00",
+      "83.37",
+      "184.63",
+      "93.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MENU",
+    "bbox": [
+      "115.48",
+      "114.39",
+      "141.87",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "LOCATIONS",
+    "bbox": [
+      "182.37",
+      "114.39",
+      "231.69",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "GIFT CARDS",
+    "bbox": [
+      "272.20",
+      "114.39",
+      "324.60",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CAREERS",
+    "bbox": [
+      "365.11",
+      "114.39",
+      "403.52",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "OUR FAMILY",
+    "bbox": [
+      "444.02",
+      "114.39",
+      "497.50",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "FRANCHISING",
+    "bbox": [
+      "201.31",
+      "132.39",
+      "261.74",
+      "144.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "REWARDS",
+    "bbox": [
+      "302.25",
+      "132.39",
+      "345.43",
+      "144.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "NEWS",
+    "bbox": [
+      "385.93",
+      "132.39",
+      "411.67",
+      "144.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "PEPSI",
+    "bbox": [
+      "281.52",
+      "304.78",
+      "331.50",
+      "328.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DIET PEPSI",
+    "bbox": [
+      "257.95",
+      "353.53",
+      "355.05",
+      "377.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SIERRA MIST",
+    "bbox": [
+      "250.93",
+      "402.28",
+      "362.07",
+      "426.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DR. PEPPER",
+    "bbox": [
+      "254.13",
+      "451.03",
+      "358.87",
+      "475.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MUG ROOT BEER",
+    "bbox": [
+      "232.14",
+      "499.78",
+      "380.86",
+      "523.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MOUNTAIN DEW",
+    "bbox": [
+      "233.41",
+      "548.53",
+      "379.59",
+      "572.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "TROPICANA LEMONADE",
+    "bbox": [
+      "202.61",
+      "597.28",
+      "410.39",
+      "621.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ICED TEAS",
+    "bbox": [
+      "261.46",
+      "646.03",
+      "351.52",
+      "670.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "APPLE JUICE",
+    "bbox": [
+      "251.84",
+      "694.78",
+      "361.16",
+      "718.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://www.grimaldispizzeria.com/menu_type/drinks/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "214.08",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/18/22, 2:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Drinks Menu | Wine | Beer | Lemonade | Italian Soda | Grimaldi's",
+    "bbox": [
+      "237.56",
+      "15.70",
+      "465.58",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "PANNA (STILL WATER) OR PELLEGRINO (SPARKLING WATER)",
+    "bbox": [
+      "43.14",
+      "28.03",
+      "569.86",
+      "52.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "FIND A LOCATION",
+    "bbox": [
+      "68.00",
+      "46.25",
+      "185.52",
+      "64.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "441.89",
+      "56.75",
+      "541.25",
+      "74.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "500 ml | 1000 ml",
+    "bbox": [
+      "252.78",
+      "59.83",
+      "360.22",
+      "77.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Enter City & State or Zip Code",
+    "bbox": [
+      "68.00",
+      "83.37",
+      "184.63",
+      "93.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Nutritional Info",
+    "bbox": [
+      "484.34",
+      "109.68",
+      "572.74",
+      "124.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MENU",
+    "bbox": [
+      "115.48",
+      "114.39",
+      "141.87",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "LOCATIONS",
+    "bbox": [
+      "182.37",
+      "114.39",
+      "231.69",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "GIFT CARDS",
+    "bbox": [
+      "272.20",
+      "114.39",
+      "324.60",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CAREERS",
+    "bbox": [
+      "365.11",
+      "114.39",
+      "403.52",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "OUR FAMILY",
+    "bbox": [
+      "444.02",
+      "114.39",
+      "497.50",
+      "126.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "FRANCHISING",
+    "bbox": [
+      "201.31",
+      "132.39",
+      "261.74",
+      "144.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "REWARDS",
+    "bbox": [
+      "302.25",
+      "132.39",
+      "345.43",
+      "144.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "NEWS",
+    "bbox": [
+      "385.93",
+      "132.39",
+      "411.67",
+      "144.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "J",
+    "bbox": [
+      "56.88",
+      "178.25",
+      "77.16",
+      "212.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "oin G",
+    "bbox": [
+      "77.16",
+      "178.25",
+      "154.72",
+      "212.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "rim",
+    "bbox": [
+      "153.27",
+      "178.25",
+      "202.65",
+      "212.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "aldi’s P",
+    "bbox": [
+      "202.98",
+      "178.25",
+      "320.30",
+      "212.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "izzeria R",
+    "bbox": [
+      "319.32",
+      "178.25",
+      "450.24",
+      "212.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "ew",
+    "bbox": [
+      "449.90",
+      "178.25",
+      "491.44",
+      "212.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "ards",
+    "bbox": [
+      "489.76",
+      "178.25",
+      "556.11",
+      "212.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "WHEN YOU SIGN UP, YOU’LL RECEIVE A FREE PIZZA* FOR YOUR BIRTHDAY!",
+    "bbox": [
+      "57.18",
+      "227.00",
+      "555.81",
+      "245.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "*Must make a purchase to qualify",
+    "bbox": [
+      "231.35",
+      "259.14",
+      "381.65",
+      "271.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "SIGN UP",
+    "bbox": [
+      "259.98",
+      "299.75",
+      "332.77",
+      "323.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "#GrimaldisPizzeria",
+    "bbox": [
+      "293.13",
+      "469.68",
+      "395.62",
+      "484.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Donations",
+    "bbox": [
+      "93.50",
+      "517.68",
+      "150.94",
+      "532.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Terms of Use",
+    "bbox": [
+      "306.50",
+      "517.68",
+      "379.99",
+      "532.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Gift Cards",
+    "bbox": [
+      "93.50",
+      "543.18",
+      "149.29",
+      "558.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Nutritional Info",
+    "bbox": [
+      "306.50",
+      "543.18",
+      "394.90",
+      "558.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Careers",
+    "bbox": [
+      "93.50",
+      "568.68",
+      "135.95",
+      "583.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Accessibility Statement",
+    "bbox": [
+      "306.50",
+      "568.68",
+      "436.07",
+      "583.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Privacy Policy",
+    "bbox": [
+      "93.50",
+      "594.18",
+      "172.80",
+      "609.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Do Not Sell My Personal Information",
+    "bbox": [
+      "306.50",
+      "594.18",
+      "513.96",
+      "609.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Contact",
+    "bbox": [
+      "93.50",
+      "619.68",
+      "136.24",
+      "634.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Sitemap",
+    "bbox": [
+      "306.50",
+      "619.68",
+      "350.96",
+      "634.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "NOTE: Documents in Portable Document Format (PDF) require Adobe Acrobat Reader 5.0 or higher to view, download Adobe Acrobat",
+    "bbox": [
+      "43.73",
+      "660.12",
+      "569.26",
+      "670.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Reader.",
+    "bbox": [
+      "291.46",
+      "670.62",
+      "321.54",
+      "681.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://www.grimaldispizzeria.com/menu_type/drinks/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "214.08",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

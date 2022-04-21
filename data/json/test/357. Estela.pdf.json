@@ -1,0 +1,1151 @@
+[
+  {
+    "page_number": 1,
+    "text": "Charcuterie   24",
+    "bbox": [
+      "204.15",
+      "157.30",
+      "302.73",
+      "170.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Scallop and squash blossoms*   18",
+    "bbox": [
+      "150.12",
+      "193.30",
+      "353.15",
+      "206.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Oysters with yuzu kosho mignonette*   25",
+    "bbox": [
+      "130.54",
+      "229.30",
+      "372.74",
+      "242.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cured fluke with melon*   25",
+    "bbox": [
+      "168.29",
+      "265.30",
+      "334.98",
+      "278.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tuna, yuba, and buckwheat*   24",
+    "bbox": [
+      "157.51",
+      "301.30",
+      "345.77",
+      "314.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Beef tartare with elderberries and sunchoke*   19",
+    "bbox": [
+      "103.50",
+      "337.30",
+      "399.78",
+      "350.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Summer squash with miso and pine nuts   19",
+    "bbox": [
+      "120.84",
+      "373.30",
+      "382.44",
+      "386.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Endive, walnuts, anchovy, and ubriaco rosso   20",
+    "bbox": [
+      "107.64",
+      "409.30",
+      "395.63",
+      "422.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Lobster with grapes and woodears   29",
+    "bbox": [
+      "137.68",
+      "445.30",
+      "365.60",
+      "458.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sweetbreads with romaine and umeboshi*   31",
+    "bbox": [
+      "115.82",
+      "481.30",
+      "391.06",
+      "494.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Fried arroz negro with squid and romesco*   27",
+    "bbox": [
+      "115.79",
+      "517.30",
+      "398.30",
+      "530.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Red snapper with tomato and ham broth   36",
+    "bbox": [
+      "121.40",
+      "553.30",
+      "381.88",
+      "566.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Ricotta dumplings with mushrooms and pecorino Sardo   27",
+    "bbox": [
+      "89.06",
+      "589.30",
+      "414.22",
+      "602.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pork with potatoes, clams, and seaweed*   42",
+    "bbox": [
+      "127.52",
+      "625.30",
+      "375.75",
+      "638.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Duck with spring onion and Béarnaise*   40",
+    "bbox": [
+      "125.23",
+      "661.30",
+      "378.04",
+      "674.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Please inform us of any food allergies or dietary restrictions",
+    "bbox": [
+      "132.69",
+      "737.20",
+      "369.55",
+      "746.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "*Consuming raw or undercooked meats, poultry, shellfish, or eggs may increase your risk of foodborne illness",
+    "bbox": [
+      "36.68",
+      "749.00",
+      "465.57",
+      "757.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "sparkling",
+    "bbox": [
+      "206.90",
+      "43.75",
+      "297.10",
+      "57.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Ramon Jané  ‘Tinc Set’  – Penedès, Catalonia 2020     14/56",
+    "bbox": [
+      "111.84",
+      "61.76",
+      "392.16",
+      "72.92"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Ramon Jané  ‘Tinc Set’  – Penedès, Catalonia",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "14/56",
+            "answer_start": 54
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bruno Rochard  ‘Des Boires et Des Bulles’  – Loire Valley, France 2020    18/72",
+    "bbox": [
+      "70.46",
+      "77.76",
+      "436.38",
+      "88.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18/72",
+            "answer_start": 74
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 66
+          }
+        ],
+        "W": [
+          {
+            "text": "Bruno Rochard  ‘Des Boires et Des Bulles’  – Loire Valley, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Los Bermejos  Brut Nature ‘Espumoso’  – Canary Islands, Spain 2018    20/80",
+    "bbox": [
+      "72.46",
+      "93.76",
+      "431.54",
+      "104.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "20/80",
+            "answer_start": 70
+          }
+        ],
+        "W": [
+          {
+            "text": "Los Bermejos  Brut Nature ‘Espumoso’  – Canary Islands, Spain",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 62
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "white",
+    "bbox": [
+      "226.16",
+      "115.75",
+      "277.84",
+      "129.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tuets Parellada – Tarragona, Catalonia 2019     15/60",
+    "bbox": [
+      "128.11",
+      "133.76",
+      "375.89",
+      "144.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15/60",
+            "answer_start": 48
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 39
+          }
+        ],
+        "W": [
+          {
+            "text": "Tuets Parellada – Tarragona, Catalonia",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Clandestina ‘Sense Papers’ – Penedès, Catalonia 2019     16/64",
+    "bbox": [
+      "103.96",
+      "149.76",
+      "400.04",
+      "160.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16/64",
+            "answer_start": 57
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 48
+          }
+        ],
+        "W": [
+          {
+            "text": "Clandestina ‘Sense Papers’ – Penedès, Catalonia",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Markus Altenburger ‘Vom Kalk’ – Burgenland, Austria 2018    14/56",
+    "bbox": [
+      "96.44",
+      "165.76",
+      "410.40",
+      "176.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14/56",
+            "answer_start": 60
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 52
+          }
+        ],
+        "W": [
+          {
+            "text": "Markus Altenburger ‘Vom Kalk’ – Burgenland, Austria",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Holger Koch ‘Herrenstück’  – Baden, Germany 2019    18/72",
+    "bbox": [
+      "111.72",
+      "181.76",
+      "392.28",
+      "192.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18/72",
+            "answer_start": 52
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 44
+          }
+        ],
+        "W": [
+          {
+            "text": "Holger Koch ‘Herrenstück’  – Baden, Germany",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bellivière Jasnières ‘Prémices’ – Loire Valley, France 2019    20/80",
+    "bbox": [
+      "100.24",
+      "197.76",
+      "403.76",
+      "208.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "20/80",
+            "answer_start": 63
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 55
+          }
+        ],
+        "W": [
+          {
+            "text": "Bellivière Jasnières ‘Prémices’ – Loire Valley, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "pink",
+    "bbox": [
+      "232.21",
+      "219.75",
+      "271.79",
+      "233.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Shelter Rosé de Noir – Baden, Germany 2020    14/56",
+    "bbox": [
+      "125.66",
+      "237.76",
+      "381.18",
+      "248.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14/56",
+            "answer_start": 46
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 38
+          }
+        ],
+        "W": [
+          {
+            "text": "Shelter Rosé de Noir – Baden, Germany",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Celler Frisach Rosat ‘L’Abrunet’ – Terra Alta, Catalonia 2020    13/52",
+    "bbox": [
+      "94.97",
+      "253.76",
+      "411.87",
+      "264.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13/52",
+            "answer_start": 65
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 57
+          }
+        ],
+        "W": [
+          {
+            "text": "Celler Frisach Rosat ‘L’Abrunet’ – Terra Alta, Catalonia",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Maria & Sepp Muster ‘Rosé vom Opok’  – Steiermark, Austria 2019    19/76",
+    "bbox": [
+      "78.78",
+      "269.76",
+      "425.22",
+      "280.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "19/76",
+            "answer_start": 67
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 59
+          }
+        ],
+        "W": [
+          {
+            "text": "Maria & Sepp Muster ‘Rosé vom Opok’  – Steiermark, Austria",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "red",
+    "bbox": [
+      "236.74",
+      "291.75",
+      "267.26",
+      "305.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Stein ‘Red Light’ – Mosel, Germany 2019    18/72",
+    "bbox": [
+      "137.30",
+      "309.76",
+      "366.70",
+      "320.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18/72",
+            "answer_start": 43
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 35
+          }
+        ],
+        "W": [
+          {
+            "text": "Stein ‘Red Light’ – Mosel, Germany",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Babass ‘Roc Cab’  – Loire Valley, France 2019    17/68",
+    "bbox": [
+      "125.66",
+      "325.76",
+      "378.34",
+      "336.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17/68",
+            "answer_start": 49
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 41
+          }
+        ],
+        "W": [
+          {
+            "text": "Babass ‘Roc Cab’  – Loire Valley, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Herzanovi Dornfelder – Moravia, Czech Republic 2018    15/60",
+    "bbox": [
+      "106.98",
+      "341.76",
+      "397.02",
+      "352.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15/60",
+            "answer_start": 55
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 47
+          }
+        ],
+        "W": [
+          {
+            "text": "Herzanovi Dornfelder – Moravia, Czech Republic",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chahut et Prodiges ‘Black Beat’ – Loire Valley, France 2019    17/68",
+    "bbox": [
+      "95.25",
+      "357.76",
+      "408.75",
+      "368.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17/68",
+            "answer_start": 63
+          }
+        ],
+        "W": [
+          {
+            "text": "Chahut et Prodiges ‘Black Beat’ – Loire Valley, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "La Comarcal ‘Delmoro Tinto’  – Valencia, Spain 2019    15/60",
+    "bbox": [
+      "110.79",
+      "373.76",
+      "393.21",
+      "384.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15/60",
+            "answer_start": 55
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 47
+          }
+        ],
+        "W": [
+          {
+            "text": "La Comarcal ‘Delmoro Tinto’  – Valencia, Spain",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "cocktails",
+    "bbox": [
+      "207.64",
+      "395.75",
+      "296.36",
+      "409.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Ledge 5  melon, Dolin blanc, cava*    17",
+    "bbox": [
+      "160.83",
+      "413.76",
+      "346.01",
+      "424.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 38
+          }
+        ],
+        "W": [
+          {
+            "text": "Ledge 5  melon, Dolin blanc, cava*",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "In Bloom  Good Vodka, Lo-Fi vermouth, grapefruit, rose   18",
+    "bbox": [
+      "117.36",
+      "429.76",
+      "386.64",
+      "440.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 57
+          }
+        ],
+        "W": [
+          {
+            "text": "In Bloom  Good Vodka, Lo-Fi vermouth, grapefruit, rose",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Internet Friends  St. George Terroir gin, fennel vermouth, finocchietto   19",
+    "bbox": [
+      "86.87",
+      "445.76",
+      "417.13",
+      "456.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "19",
+            "answer_start": 74
+          }
+        ],
+        "W": [
+          {
+            "text": "Internet Friends  St. George Terroir gin, fennel vermouth, finocchietto",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "La Mariposa  rye, Chinola, vanilla, gentian    17",
+    "bbox": [
+      "146.02",
+      "461.76",
+      "357.98",
+      "472.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 47
+          }
+        ],
+        "W": [
+          {
+            "text": "La Mariposa  rye, Chinola, vanilla, gentian",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Crudité  mezcal, génépy, celery, lime  20",
+    "bbox": [
+      "160.77",
+      "477.76",
+      "343.23",
+      "488.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "20",
+            "answer_start": 39
+          }
+        ],
+        "W": [
+          {
+            "text": "Crudité  mezcal, génépy, celery, lime",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "beer & cider",
+    "bbox": [
+      "189.04",
+      "499.75",
+      "323.34",
+      "513.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Isastegi  Sidra Natural – Tolosa, Spain (375ml)    14",
+    "bbox": [
+      "134.31",
+      "517.76",
+      "369.69",
+      "528.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 51
+          }
+        ],
+        "W": [
+          {
+            "text": "Isastegi  Sidra Natural – Tolosa, Spain (375ml)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sloop Brewing  ‘The Sauer Peach’  Berliner Weisse – East Fishkill, NY (12oz)    11",
+    "bbox": [
+      "66.45",
+      "533.76",
+      "437.55",
+      "544.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "11",
+            "answer_start": 80
+          }
+        ],
+        "W": [
+          {
+            "text": "Sloop Brewing  ‘The Sauer Peach’  Berliner Weisse – East Fishkill, NY (12oz)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Threes Brewing  ‘Vliet’  Pilsner – Brooklyn, NY (16oz)    14",
+    "bbox": [
+      "119.84",
+      "549.76",
+      "384.16",
+      "560.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 58
+          }
+        ],
+        "W": [
+          {
+            "text": "Threes Brewing  ‘Vliet’  Pilsner – Brooklyn, NY (16oz)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Common Roots  Helles Lager – South Glens Falls, NY (16oz)    13",
+    "bbox": [
+      "101.69",
+      "565.76",
+      "402.31",
+      "576.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 61
+          }
+        ],
+        "W": [
+          {
+            "text": "Common Roots  Helles Lager – South Glens Falls, NY (16oz)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Equilibrium  ‘Tachyon’  Pale Ale – Middletown, NY  (16oz)    17",
+    "bbox": [
+      "110.94",
+      "581.76",
+      "395.90",
+      "592.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 61
+          }
+        ],
+        "W": [
+          {
+            "text": "Equilibrium  ‘Tachyon’  Pale Ale – Middletown, NY  (16oz)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dutchess Ales  ‘Parallax’  Summer Ale – Wassaic, NY  (16oz)    16",
+    "bbox": [
+      "101.75",
+      "597.76",
+      "402.25",
+      "608.92"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 63
+          }
+        ],
+        "W": [
+          {
+            "text": "Dutchess Ales  ‘Parallax’  Summer Ale – Wassaic, NY  (16oz)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "soft",
+    "bbox": [
+      "232.27",
+      "619.75",
+      "271.72",
+      "633.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Citrus soda  8     Celery tonic  8     Ginger beer  7     Sparkling water  8",
+    "bbox": [
+      "84.82",
+      "637.92",
+      "419.18",
+      "648.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "*All proceeds from the sales of the Ledge 5 cocktail will be donated directly to",
+    "bbox": [
+      "77.54",
+      "701.76",
+      "429.30",
+      "712.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "#Rethink Food and their efforts to create a more sustainable and equitable food system.",
+    "bbox": [
+      "55.56",
+      "717.76",
+      "448.44",
+      "728.76"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

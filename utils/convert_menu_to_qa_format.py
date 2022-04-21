@@ -55,8 +55,14 @@ def normalize_boxes(boxes):
                         elif label == 'price':
                             label = 'p'
                         if label.strip() not in ['w', 'v', 'p']:
-                            print(label)
-                            1 / 0
+                            if label in ['d', 'e', 'q', '6']:
+                                label = 'w'
+                            elif label == 'pp':
+                                label = 'p'
+                            else:
+                                print('Label: ', label)
+                                print(answer['text'])
+                                1 / 0
                         start_sentence = len(full_text) + 1 if len(full_text) > 0 else 0
                         start_answer = start_sentence + answer['answer_start']
                         end = start_answer + len(answer['text'])
@@ -89,8 +95,7 @@ def normalize_boxes(boxes):
     return full_text.lower(), bboxes, labels
 
 
-def read_data(folder):
-    files = glob(folder + '/*.json')
+def read_data(files):
     full_data = {'data': []}
     all_keys = []
     for file in tqdm(files):
@@ -138,13 +143,14 @@ def read_data(folder):
                 data['paragraphs'][0]['qas'].append(qa)
             full_data['data'].append(data)
 
-    with open(prj_path + '/data/question_list.json', 'w', encoding='utf-8') as f:
-        json.dump(sorted(list(set(all_keys))), f, ensure_ascii=False)
+    # with open(prj_path + '/data/question_list.json', 'w', encoding='utf-8') as f:
+    #     json.dump(sorted(list(set(all_keys))), f, ensure_ascii=False)
 
     with open(prj_path + '/data/full.json', 'w', encoding='utf-8') as f:
         json.dump(full_data, f, ensure_ascii=False)
 
 
 if __name__ == '__main__':
-    read_data(prj_path + '/data/json')
+    files = glob(prj_path + '/data/json/*/*.json')
+    read_data(files)
     pass

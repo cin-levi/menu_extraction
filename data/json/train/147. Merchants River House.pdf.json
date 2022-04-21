@@ -1,0 +1,3557 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/17/22, 9:30 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menus | Merchants River House in New York City, NY",
+    "bbox": [
+      "256.73",
+      "15.70",
+      "446.43",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "M",
+    "bbox": [
+      "244.36",
+      "131.78",
+      "277.44",
+      "167.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "278.19",
+      "131.78",
+      "297.49",
+      "167.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "N",
+    "bbox": [
+      "298.24",
+      "131.78",
+      "324.88",
+      "167.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "U",
+    "bbox": [
+      "325.63",
+      "131.78",
+      "349.21",
+      "167.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "S",
+    "bbox": [
+      "349.96",
+      "131.78",
+      "367.88",
+      "167.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "78.31",
+      "202.76",
+      "136.41",
+      "211.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LUNCH AND DINNER",
+    "bbox": [
+      "162.82",
+      "202.76",
+      "254.71",
+      "211.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "KIDS MENU",
+    "bbox": [
+      "281.12",
+      "202.76",
+      "331.10",
+      "211.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BRUNCH",
+    "bbox": [
+      "357.51",
+      "202.76",
+      "394.92",
+      "211.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "COCKTAILS, BEER, WINE",
+    "bbox": [
+      "421.34",
+      "202.76",
+      "531.68",
+      "211.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "**Complimentary Refills",
+    "bbox": [
+      "228.50",
+      "255.79",
+      "383.75",
+      "267.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "20% gratuity is added to parties of 6 or more",
+    "bbox": [
+      "164.56",
+      "283.54",
+      "447.68",
+      "295.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DOWNLOAD PDF",
+    "bbox": [
+      "268.74",
+      "451.01",
+      "343.49",
+      "459.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPEC",
+    "bbox": [
+      "157.99",
+      "536.96",
+      "226.09",
+      "563.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "IA",
+    "bbox": [
+      "226.84",
+      "536.96",
+      "253.67",
+      "563.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LTY C",
+    "bbox": [
+      "254.42",
+      "536.96",
+      "325.57",
+      "563.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "O",
+    "bbox": [
+      "326.32",
+      "536.96",
+      "349.78",
+      "563.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "C",
+    "bbox": [
+      "350.53",
+      "536.96",
+      "372.49",
+      "563.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "KTA",
+    "bbox": [
+      "373.24",
+      "536.96",
+      "419.99",
+      "563.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ILS",
+    "bbox": [
+      "420.74",
+      "536.96",
+      "454.26",
+      "563.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16",
+    "bbox": [
+      "300.09",
+      "595.34",
+      "312.16",
+      "605.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Siesta",
+    "bbox": [
+      "287.53",
+      "639.58",
+      "324.73",
+      "651.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "blanco tequila, lime, grapefruit, simple syrup, campari",
+    "bbox": [
+      "155.60",
+      "653.84",
+      "456.66",
+      "664.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Corpse Reviver No. 2",
+    "bbox": [
+      "238.34",
+      "698.08",
+      "373.90",
+      "710.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "gin, lemon, cointreau, cocchi americano, absinthe",
+    "bbox": [
+      "163.64",
+      "713.09",
+      "448.61",
+      "723.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CALL (212) 432-1451",
+    "bbox": [
+      "259.27",
+      "726.26",
+      "352.98",
+      "734.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "273.84",
+      "748.76",
+      "338.41",
+      "757.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.merchantsriverhouse.com/menus/#cocktails",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "225.20",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/17/22, 9:30 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menus | Merchants River House in New York City, NY",
+    "bbox": [
+      "256.73",
+      "15.70",
+      "446.43",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Phoenix Down",
+    "bbox": [
+      "260.13",
+      "32.08",
+      "352.13",
+      "44.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "aberfeldy 12yr, ginger, honey, lemon, bitters",
+    "bbox": [
+      "184.72",
+      "47.09",
+      "427.52",
+      "57.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Waterfront Manhattan",
+    "bbox": [
+      "234.98",
+      "90.58",
+      "377.26",
+      "102.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "rittenhouse rye, carpano antica, italian amari",
+    "bbox": [
+      "178.75",
+      "105.59",
+      "433.51",
+      "115.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Revolver",
+    "bbox": [
+      "278.87",
+      "149.83",
+      "333.38",
+      "161.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "bourbon, coffee liquor, orange bitters",
+    "bbox": [
+      "202.00",
+      "164.84",
+      "410.25",
+      "175.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Aperol Spritz",
+    "bbox": [
+      "265.72",
+      "208.33",
+      "346.54",
+      "220.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "aperol, prosecco, soda water",
+    "bbox": [
+      "224.47",
+      "223.34",
+      "387.77",
+      "233.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cosmopolitan",
+    "bbox": [
+      "260.32",
+      "267.58",
+      "351.94",
+      "279.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ketel one botanicals grapefruit & rose, st-germain, aperol, mandarin, grapefruit, lemon",
+    "bbox": [
+      "65.09",
+      "282.59",
+      "547.16",
+      "292.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "D",
+    "bbox": [
+      "228.07",
+      "389.21",
+      "248.15",
+      "416.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RA",
+    "bbox": [
+      "248.90",
+      "389.21",
+      "286.02",
+      "416.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "FT BEER",
+    "bbox": [
+      "286.77",
+      "389.21",
+      "384.18",
+      "416.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "9",
+    "bbox": [
+      "303.29",
+      "447.59",
+      "308.95",
+      "457.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sam Seasonal",
+    "bbox": [
+      "259.93",
+      "491.83",
+      "352.31",
+      "503.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Coney Island Mermaid Pilsner",
+    "bbox": [
+      "208.24",
+      "536.83",
+      "404.00",
+      "548.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Coney Island Merman IPA",
+    "bbox": [
+      "221.82",
+      "582.58",
+      "390.42",
+      "594.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bronx Summer Pale Ale",
+    "bbox": [
+      "230.81",
+      "628.33",
+      "381.43",
+      "640.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Erdinger Weissbier",
+    "bbox": [
+      "246.97",
+      "674.08",
+      "365.27",
+      "686.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Raderberger",
+    "bbox": [
+      "264.92",
+      "719.83",
+      "347.33",
+      "731.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CALL (212) 432-1451",
+    "bbox": [
+      "259.27",
+      "726.26",
+      "352.98",
+      "734.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "273.84",
+      "748.76",
+      "338.41",
+      "757.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.merchantsriverhouse.com/menus/#cocktails",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "225.20",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/17/22, 9:30 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Menus | Merchants River House in New York City, NY",
+    "bbox": [
+      "256.73",
+      "15.70",
+      "446.43",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "64 Oz Pitchers",
+    "bbox": [
+      "261.22",
+      "32.08",
+      "351.03",
+      "44.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "39",
+    "bbox": [
+      "300.09",
+      "47.09",
+      "312.16",
+      "57.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BO",
+    "bbox": [
+      "213.21",
+      "153.71",
+      "252.92",
+      "180.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TTLED",
+    "bbox": [
+      "253.67",
+      "153.71",
+      "326.98",
+      "180.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BEER",
+    "bbox": [
+      "327.73",
+      "153.71",
+      "399.04",
+      "180.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Abita Light",
+    "bbox": [
+      "271.43",
+      "212.83",
+      "340.82",
+      "224.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "8",
+    "bbox": [
+      "303.29",
+      "227.84",
+      "308.95",
+      "238.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Budweiser",
+    "bbox": [
+      "273.54",
+      "272.08",
+      "338.72",
+      "284.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "8",
+    "bbox": [
+      "303.29",
+      "286.34",
+      "308.95",
+      "296.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bud Light",
+    "bbox": [
+      "276.34",
+      "330.58",
+      "335.90",
+      "342.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "8",
+    "bbox": [
+      "303.29",
+      "345.59",
+      "308.95",
+      "355.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Corona",
+    "bbox": [
+      "281.77",
+      "389.08",
+      "330.48",
+      "401.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "8",
+    "bbox": [
+      "303.29",
+      "404.09",
+      "308.95",
+      "414.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Heineken",
+    "bbox": [
+      "276.01",
+      "448.33",
+      "336.25",
+      "460.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "8",
+    "bbox": [
+      "303.29",
+      "463.34",
+      "308.95",
+      "473.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "C",
+    "bbox": [
+      "267.32",
+      "569.96",
+      "289.28",
+      "596.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "A",
+    "bbox": [
+      "290.03",
+      "569.96",
+      "310.01",
+      "596.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "N",
+    "bbox": [
+      "310.76",
+      "569.96",
+      "330.74",
+      "596.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "S",
+    "bbox": [
+      "331.49",
+      "569.96",
+      "344.93",
+      "596.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Truly Wild Berry Hard Seltzer",
+    "bbox": [
+      "215.84",
+      "629.08",
+      "396.40",
+      "641.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "8",
+    "bbox": [
+      "303.29",
+      "644.09",
+      "308.95",
+      "654.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Truly Strawberry Lemonade Hard Seltzer",
+    "bbox": [
+      "176.30",
+      "687.58",
+      "435.94",
+      "699.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "8",
+    "bbox": [
+      "303.29",
+      "702.59",
+      "308.95",
+      "712.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CALL (212) 432-1451",
+    "bbox": [
+      "259.27",
+      "726.26",
+      "352.98",
+      "734.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TrRuElSyE RBVAuTcIOkNeSts",
+    "bbox": [
+      "265.06",
+      "746.83",
+      "347.18",
+      "758.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.merchantsriverhouse.com/menus/#cocktails",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "225.20",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/17/22, 9:30 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Menus | Merchants River House in New York City, NY",
+    "bbox": [
+      "256.73",
+      "15.70",
+      "446.43",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "30",
+    "bbox": [
+      "300.09",
+      "31.34",
+      "312.16",
+      "41.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "FLAVO",
+    "bbox": [
+      "146.47",
+      "138.71",
+      "234.41",
+      "165.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RED",
+    "bbox": [
+      "235.16",
+      "138.71",
+      "287.61",
+      "165.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "LEM",
+    "bbox": [
+      "288.36",
+      "138.71",
+      "349.85",
+      "165.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "O",
+    "bbox": [
+      "350.60",
+      "138.71",
+      "374.06",
+      "165.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "N",
+    "bbox": [
+      "374.81",
+      "138.71",
+      "394.79",
+      "165.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "A",
+    "bbox": [
+      "395.54",
+      "138.71",
+      "415.52",
+      "165.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "D",
+    "bbox": [
+      "416.27",
+      "138.71",
+      "436.36",
+      "165.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ES",
+    "bbox": [
+      "437.11",
+      "138.71",
+      "465.78",
+      "165.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Lemonade",
+    "bbox": [
+      "271.23",
+      "197.08",
+      "341.01",
+      "209.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "mango or strawberry",
+    "bbox": [
+      "248.45",
+      "212.09",
+      "363.81",
+      "222.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "6",
+    "bbox": [
+      "303.29",
+      "225.59",
+      "308.95",
+      "235.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Spiked Lemonade",
+    "bbox": [
+      "247.29",
+      "269.08",
+      "364.96",
+      "281.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ask your server or bartender about our spiked options",
+    "bbox": [
+      "156.71",
+      "284.09",
+      "455.54",
+      "294.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "15",
+    "bbox": [
+      "300.09",
+      "297.59",
+      "312.16",
+      "307.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Available In 64 Oz Pitchers:",
+    "bbox": [
+      "217.93",
+      "341.83",
+      "394.31",
+      "353.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "non-alcoholic 24",
+    "bbox": [
+      "259.87",
+      "356.09",
+      "352.37",
+      "366.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "spiked 50",
+    "bbox": [
+      "280.54",
+      "369.59",
+      "331.70",
+      "379.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "HO",
+    "bbox": [
+      "226.33",
+      "476.96",
+      "268.99",
+      "503.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "T D",
+    "bbox": [
+      "269.74",
+      "476.96",
+      "310.31",
+      "503.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RIN",
+    "bbox": [
+      "311.06",
+      "476.96",
+      "355.03",
+      "503.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "KS",
+    "bbox": [
+      "355.78",
+      "476.96",
+      "385.93",
+      "503.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Bulleit Bourbon Hot Cider For Two",
+    "bbox": [
+      "197.56",
+      "535.33",
+      "414.68",
+      "547.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "32",
+    "bbox": [
+      "300.09",
+      "550.34",
+      "312.16",
+      "560.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Mulled Red Wine",
+    "bbox": [
+      "248.94",
+      "594.58",
+      "361.06",
+      "606.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "15",
+    "bbox": [
+      "300.09",
+      "609.59",
+      "312.16",
+      "619.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "C",
+    "bbox": [
+      "80.33",
+      "716.21",
+      "102.28",
+      "743.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "HA",
+    "bbox": [
+      "103.03",
+      "716.21",
+      "142.20",
+      "743.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "M",
+    "bbox": [
+      "142.95",
+      "716.21",
+      "167.76",
+      "743.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PA",
+    "bbox": [
+      "168.51",
+      "716.21",
+      "203.23",
+      "743.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "G",
+    "bbox": [
+      "203.98",
+      "716.21",
+      "227.52",
+      "743.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "N",
+    "bbox": [
+      "228.27",
+      "716.21",
+      "248.25",
+      "743.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "E &",
+    "bbox": [
+      "249.00",
+      "716.21",
+      "292.89",
+      "743.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SPA",
+    "bbox": [
+      "293.64",
+      "716.21",
+      "350.78",
+      "743.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RKLIN",
+    "bbox": [
+      "351.53",
+      "716.21",
+      "425.44",
+      "743.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "G",
+    "bbox": [
+      "426.19",
+      "716.21",
+      "449.73",
+      "743.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "W",
+    "bbox": [
+      "450.48",
+      "716.21",
+      "486.87",
+      "743.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "IN",
+    "bbox": [
+      "487.62",
+      "716.21",
+      "514.46",
+      "743.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "E",
+    "bbox": [
+      "515.21",
+      "716.21",
+      "529.68",
+      "743.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CALL (212) 432-1451",
+    "bbox": [
+      "259.27",
+      "726.26",
+      "352.98",
+      "734.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "273.84",
+      "748.76",
+      "338.41",
+      "757.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.merchantsriverhouse.com/menus/#cocktails",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "225.20",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/17/22, 9:30 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Menus | Merchants River House in New York City, NY",
+    "bbox": [
+      "256.73",
+      "15.70",
+      "446.43",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Luca Paretti Prosecco",
+    "bbox": [
+      "235.65",
+      "32.08",
+      "376.61",
+      "44.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "prosecco, veneto, italy",
+    "bbox": [
+      "241.54",
+      "47.09",
+      "374.28",
+      "57.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "yellow and lime green hues, fine bubbles, green apple, peach and floral aromas",
+    "bbox": [
+      "81.64",
+      "59.84",
+      "530.60",
+      "70.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "glass 13",
+    "bbox": [
+      "284.27",
+      "73.34",
+      "327.98",
+      "83.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "bottle 50",
+    "bbox": [
+      "282.23",
+      "86.84",
+      "330.01",
+      "97.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Rosé",
+    "bbox": [
+      "290.98",
+      "130.33",
+      "321.25",
+      "142.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ruffino, veneto, italy",
+    "bbox": [
+      "250.55",
+      "145.34",
+      "365.27",
+      "155.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "delicately fruity with strawberry, rose petals; a crisp lingering finish",
+    "bbox": [
+      "123.54",
+      "158.84",
+      "488.72",
+      "169.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "glass 14",
+    "bbox": [
+      "284.27",
+      "172.34",
+      "327.98",
+      "182.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "bottle 54",
+    "bbox": [
+      "282.23",
+      "185.09",
+      "330.01",
+      "195.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "W",
+    "bbox": [
+      "171.10",
+      "292.46",
+      "197.02",
+      "319.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "HITE &",
+    "bbox": [
+      "197.77",
+      "292.46",
+      "279.96",
+      "319.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RO",
+    "bbox": [
+      "280.71",
+      "292.46",
+      "329.54",
+      "319.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "SÉ W",
+    "bbox": [
+      "330.29",
+      "292.46",
+      "396.10",
+      "319.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "IN",
+    "bbox": [
+      "396.85",
+      "292.46",
+      "423.68",
+      "319.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "E",
+    "bbox": [
+      "424.43",
+      "292.46",
+      "438.90",
+      "319.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pinot Grigio",
+    "bbox": [
+      "267.87",
+      "351.58",
+      "344.38",
+      "363.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Grigio",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ruffino lumina, venezie, italy",
+    "bbox": [
+      "227.81",
+      "365.84",
+      "388.02",
+      "376.04"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ruffino lumina, venezie, italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "pear, peach flavors; accompanied by an elegant mineral touch",
+    "bbox": [
+      "127.87",
+      "379.34",
+      "484.37",
+      "389.54"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "pear, peach flavors; accompanied by an elegant mineral touch",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "glass 12.50",
+    "bbox": [
+      "276.07",
+      "392.84",
+      "336.18",
+      "403.04"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "glass 12.50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "bottle 48",
+    "bbox": [
+      "282.23",
+      "405.59",
+      "330.01",
+      "415.79"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "bottle 48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chardonnay",
+    "bbox": [
+      "265.04",
+      "449.83",
+      "347.22",
+      "461.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "tom gore, california",
+    "bbox": [
+      "249.71",
+      "464.84",
+      "366.10",
+      "475.04"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "tom gore, california",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "tropical fruits, butterscotch with a creamy texture; touch of oak",
+    "bbox": [
+      "131.25",
+      "478.34",
+      "481.01",
+      "488.54"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "tropical fruits, butterscotch with a creamy texture; touch of oak",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "glass 12.50",
+    "bbox": [
+      "276.07",
+      "491.09",
+      "336.18",
+      "501.29"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "glass 12.50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "bottle 48",
+    "bbox": [
+      "282.23",
+      "504.59",
+      "330.01",
+      "514.79"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "bottle 48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bianchello",
+    "bbox": [
+      "271.78",
+      "548.83",
+      "340.47",
+      "560.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bianchello",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "claudio morelli, marche, italy",
+    "bbox": [
+      "225.57",
+      "563.09",
+      "390.24",
+      "573.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "medium body with notes of apple, peach and pear",
+    "bbox": [
+      "162.73",
+      "576.59",
+      "449.51",
+      "586.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "glass 12.50",
+    "bbox": [
+      "276.07",
+      "590.09",
+      "336.18",
+      "600.29"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "glass 12.50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "bottle 48",
+    "bbox": [
+      "282.23",
+      "602.84",
+      "330.01",
+      "613.04"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "bottle 48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sauvignon Blanc",
+    "bbox": [
+      "251.08",
+      "647.08",
+      "361.16",
+      "659.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "z. alexander brown, north coast ca",
+    "bbox": [
+      "207.07",
+      "662.09",
+      "408.75",
+      "672.29"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "z. alexander brown, north coast ca",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "aromas of lemongrass, honeysuckle; tropical fruit flavors",
+    "bbox": [
+      "150.58",
+      "674.84",
+      "461.66",
+      "685.04"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "aromas of lemongrass, honeysuckle; tropical fruit flavors",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "glass 14",
+    "bbox": [
+      "284.27",
+      "688.34",
+      "327.98",
+      "698.54"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "glass 14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "bottle 54",
+    "bbox": [
+      "282.23",
+      "701.84",
+      "330.01",
+      "712.04"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "bottle 54",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CALL (212) 432-1451",
+    "bbox": [
+      "259.27",
+      "726.26",
+      "352.98",
+      "734.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RESERRoVAsTéIONS",
+    "bbox": [
+      "273.84",
+      "746.08",
+      "338.41",
+      "758.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.merchantsriverhouse.com/menus/#cocktails",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "225.20",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/17/22, 9:30 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Menus | Merchants River House in New York City, NY",
+    "bbox": [
+      "256.73",
+      "15.70",
+      "446.43",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "breezette, cotes de provence, france",
+    "bbox": [
+      "201.41",
+      "31.34",
+      "414.41",
+      "41.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "bright flavors of peach, strawberry",
+    "bbox": [
+      "211.12",
+      "44.84",
+      "401.13",
+      "55.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "glass 14",
+    "bbox": [
+      "284.27",
+      "57.59",
+      "327.98",
+      "67.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "bottle 54",
+    "bbox": [
+      "282.23",
+      "71.09",
+      "330.01",
+      "81.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RED",
+    "bbox": [
+      "238.80",
+      "178.46",
+      "291.25",
+      "205.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "W",
+    "bbox": [
+      "292.00",
+      "178.46",
+      "328.39",
+      "205.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "IN",
+    "bbox": [
+      "329.14",
+      "178.46",
+      "355.97",
+      "205.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "E",
+    "bbox": [
+      "356.72",
+      "178.46",
+      "371.19",
+      "205.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chianti",
+    "bbox": [
+      "283.03",
+      "236.83",
+      "329.22",
+      "248.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chianti",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "colli senesi, italy",
+    "bbox": [
+      "261.73",
+      "251.84",
+      "354.08",
+      "262.04"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "colli senesi, italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "medium body, dry with notes of cherry and plums",
+    "bbox": [
+      "167.76",
+      "265.34",
+      "444.48",
+      "275.54"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "medium body, dry with notes of cherry and plums",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "glass 12.50",
+    "bbox": [
+      "276.07",
+      "278.09",
+      "336.18",
+      "288.29"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "glass 12.50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "bottle 48",
+    "bbox": [
+      "282.23",
+      "291.59",
+      "330.01",
+      "301.79"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "bottle 48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Valpolicella",
+    "bbox": [
+      "267.23",
+      "335.83",
+      "345.01",
+      "347.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Valpolicella",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "villa spinosa, figari, italy",
+    "bbox": [
+      "238.92",
+      "350.84",
+      "376.90",
+      "361.04"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "villa spinosa, figari, italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "aromas of blackberry & currants with soft tannins & long lasting flavors",
+    "bbox": [
+      "110.43",
+      "363.59",
+      "501.82",
+      "373.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "aromas of blackberry & currants with soft tannins & long lasting flavors",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "glass 14",
+    "bbox": [
+      "284.27",
+      "377.09",
+      "327.98",
+      "387.29"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "glass 14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "bottle 54",
+    "bbox": [
+      "282.23",
+      "390.59",
+      "330.01",
+      "400.79"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "bottle 54",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Cabernet Sauvignon",
+    "bbox": [
+      "238.46",
+      "434.08",
+      "373.79",
+      "446.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "josh cellars, hopland, ca",
+    "bbox": [
+      "235.55",
+      "449.09",
+      "380.27",
+      "459.29"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "josh cellars, hopland, ca",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "aromas of cinnamon, clove, oak; flavors of cherries, blackberries; soft finish",
+    "bbox": [
+      "97.37",
+      "462.59",
+      "514.88",
+      "472.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "aromas of cinnamon, clove, oak; flavors of cherries, blackberries; soft finish",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "glass 14.50",
+    "bbox": [
+      "276.07",
+      "475.34",
+      "336.18",
+      "485.54"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "glass 14.50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "bottle 56",
+    "bbox": [
+      "282.23",
+      "488.84",
+      "330.01",
+      "499.04"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "bottle 56",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pinot Noir",
+    "bbox": [
+      "274.92",
+      "533.08",
+      "337.34",
+      "545.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "gerard bertrand reserve speciale, languedoc roussillon, france",
+    "bbox": [
+      "129.86",
+      "548.09",
+      "485.95",
+      "558.29"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "gerard bertrand reserve speciale, languedoc roussillon, france",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ripe cherry, wild raspberry, spices; silky tannins",
+    "bbox": [
+      "177.07",
+      "560.84",
+      "435.18",
+      "571.04"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ripe cherry, wild raspberry, spices; silky tannins",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "glass 14.50",
+    "bbox": [
+      "276.07",
+      "574.34",
+      "336.18",
+      "584.54"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "glass 14.50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "bottle 56",
+    "bbox": [
+      "282.23",
+      "587.84",
+      "330.01",
+      "598.04"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "bottle 56",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "HO",
+    "bbox": [
+      "194.48",
+      "694.46",
+      "237.13",
+      "721.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "USE C",
+    "bbox": [
+      "237.88",
+      "694.46",
+      "315.92",
+      "721.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "A",
+    "bbox": [
+      "316.67",
+      "694.46",
+      "336.65",
+      "721.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RA",
+    "bbox": [
+      "337.40",
+      "694.46",
+      "374.52",
+      "721.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "FES",
+    "bbox": [
+      "375.27",
+      "694.46",
+      "417.78",
+      "721.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CALL (212) 432-1451",
+    "bbox": [
+      "259.27",
+      "726.26",
+      "352.98",
+      "734.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "273.84",
+      "748.76",
+      "338.41",
+      "757.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://www.merchantsriverhouse.com/menus/#cocktails",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "225.20",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/17/22, 9:30 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Menus | Merchants River House in New York City, NY",
+    "bbox": [
+      "256.73",
+      "15.70",
+      "446.43",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Mimosa",
+    "bbox": [
+      "280.64",
+      "32.08",
+      "331.61",
+      "44.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "44",
+    "bbox": [
+      "300.09",
+      "47.09",
+      "312.16",
+      "57.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Bloody Mary",
+    "bbox": [
+      "264.66",
+      "90.58",
+      "347.58",
+      "102.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "44",
+    "bbox": [
+      "300.09",
+      "105.59",
+      "312.16",
+      "115.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BEVERA",
+    "bbox": [
+      "227.52",
+      "212.96",
+      "331.03",
+      "239.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "G",
+    "bbox": [
+      "331.78",
+      "212.96",
+      "355.32",
+      "239.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ES",
+    "bbox": [
+      "356.07",
+      "212.96",
+      "384.74",
+      "239.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Fountain Soda",
+    "bbox": [
+      "259.11",
+      "272.08",
+      "353.14",
+      "284.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "3.50",
+    "bbox": [
+      "295.10",
+      "286.34",
+      "317.16",
+      "296.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Iced Tea**",
+    "bbox": [
+      "270.66",
+      "330.58",
+      "341.58",
+      "342.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "3.50",
+    "bbox": [
+      "295.10",
+      "345.59",
+      "317.16",
+      "355.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Coffee**",
+    "bbox": [
+      "277.16",
+      "389.08",
+      "335.10",
+      "401.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "3.50",
+    "bbox": [
+      "295.10",
+      "404.09",
+      "317.16",
+      "414.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Decaf Coffee**",
+    "bbox": [
+      "255.31",
+      "448.33",
+      "356.95",
+      "460.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "3.50",
+    "bbox": [
+      "295.10",
+      "463.34",
+      "317.16",
+      "473.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Hot Tea",
+    "bbox": [
+      "282.22",
+      "506.83",
+      "330.04",
+      "518.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "3.75",
+    "bbox": [
+      "295.10",
+      "521.84",
+      "317.16",
+      "532.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Lemonade",
+    "bbox": [
+      "271.23",
+      "566.08",
+      "341.01",
+      "578.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4.25",
+    "bbox": [
+      "295.10",
+      "581.09",
+      "317.16",
+      "591.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Juices",
+    "bbox": [
+      "285.99",
+      "624.58",
+      "326.25",
+      "636.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4.25",
+    "bbox": [
+      "295.10",
+      "639.59",
+      "317.16",
+      "649.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Espresso",
+    "bbox": [
+      "278.86",
+      "683.83",
+      "333.39",
+      "695.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4.50",
+    "bbox": [
+      "295.10",
+      "698.84",
+      "317.16",
+      "709.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CALL (212) 432-1451",
+    "bbox": [
+      "259.27",
+      "726.26",
+      "352.98",
+      "734.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Cappuccino",
+    "bbox": [
+      "265.20",
+      "742.33",
+      "347.04",
+      "754.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "273.84",
+      "748.76",
+      "338.41",
+      "757.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://www.merchantsriverhouse.com/menus/#cocktails",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "225.20",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/17/22, 9:30 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Menus | Merchants River House in New York City, NY",
+    "bbox": [
+      "256.73",
+      "15.70",
+      "446.43",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "5",
+    "bbox": [
+      "303.29",
+      "31.34",
+      "308.95",
+      "41.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Acqua Panna 1 Liter",
+    "bbox": [
+      "240.46",
+      "75.58",
+      "371.79",
+      "87.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "5",
+    "bbox": [
+      "303.29",
+      "89.84",
+      "308.95",
+      "100.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "San Pellegrino 1 Liter",
+    "bbox": [
+      "237.73",
+      "134.08",
+      "374.52",
+      "146.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "5",
+    "bbox": [
+      "303.29",
+      "149.09",
+      "308.95",
+      "159.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CALL (212) 432-1451",
+    "bbox": [
+      "259.27",
+      "726.26",
+      "352.98",
+      "734.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "273.84",
+      "748.76",
+      "338.41",
+      "757.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://www.merchantsriverhouse.com/menus/#cocktails",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "225.20",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

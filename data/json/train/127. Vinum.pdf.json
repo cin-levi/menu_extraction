@@ -1,0 +1,6876 @@
+[
+  {
+    "page_number": 1,
+    "text": "C",
+    "bbox": [
+      "189.87",
+      "123.45",
+      "215.93",
+      "168.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "O",
+    "bbox": [
+      "215.93",
+      "123.45",
+      "243.65",
+      "168.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "C",
+    "bbox": [
+      "243.65",
+      "123.45",
+      "269.70",
+      "168.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "K",
+    "bbox": [
+      "269.70",
+      "123.45",
+      "295.89",
+      "168.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "T",
+    "bbox": [
+      "295.89",
+      "123.45",
+      "322.62",
+      "168.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A",
+    "bbox": [
+      "321.49",
+      "123.45",
+      "346.20",
+      "168.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "I",
+    "bbox": [
+      "346.20",
+      "123.45",
+      "368.47",
+      "168.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "L",
+    "bbox": [
+      "368.47",
+      "123.45",
+      "395.56",
+      "168.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "S",
+    "bbox": [
+      "395.56",
+      "123.45",
+      "422.02",
+      "168.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1",
+    "bbox": [
+      "280.64",
+      "187.89",
+      "306.25",
+      "232.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "3",
+    "bbox": [
+      "306.25",
+      "187.89",
+      "331.31",
+      "232.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CLASSICS",
+    "bbox": [
+      "256.86",
+      "251.39",
+      "355.14",
+      "277.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Negroni",
+    "bbox": [
+      "284.98",
+      "292.76",
+      "327.01",
+      "306.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "– Bombay Sapphire, Campari, Sweet Vermouth, Orange Peel –",
+    "bbox": [
+      "131.28",
+      "310.88",
+      "480.66",
+      "325.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "OLD FASHIONED",
+    "bbox": [
+      "263.01",
+      "341.25",
+      "348.95",
+      "355.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "– Wyoming Bourbon, Slow Cooked Orange Syrup, Orange & Angostura Bitters, Orange",
+    "bbox": [
+      "66.16",
+      "359.37",
+      "545.77",
+      "374.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Peel and Amarena Cherry –",
+    "bbox": [
+      "229.87",
+      "378.48",
+      "382.08",
+      "393.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MARGARITA",
+    "bbox": [
+      "273.65",
+      "408.86",
+      "338.34",
+      "422.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "– Patron Silver Tequila, Fresh Squeezed Lime Juice, Slow Cooked Orange Syrup –",
+    "bbox": [
+      "76.23",
+      "426.98",
+      "535.74",
+      "441.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Manhattan",
+    "bbox": [
+      "276.34",
+      "457.35",
+      "335.63",
+      "471.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "– Noble oak Rye, Sweet Vermouth, Dash Angostura Bitters, Amarena Cherry –",
+    "bbox": [
+      "86.69",
+      "475.47",
+      "525.23",
+      "490.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bee's Knees",
+    "bbox": [
+      "273.39",
+      "505.85",
+      "338.52",
+      "519.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "– Bulldog Gin, Lime Juice, Honey, Peach Giffard –",
+    "bbox": [
+      "166.74",
+      "523.97",
+      "445.20",
+      "538.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPECIALTIES",
+    "bbox": [
+      "241.15",
+      "558.13",
+      "370.85",
+      "584.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CUBAN OLD FASHIONED",
+    "bbox": [
+      "242.06",
+      "599.50",
+      "369.90",
+      "613.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "– Noble Oak \"Double Oak\" Bourbon, Slow Tabacco- Cinnamon Syrup, Orange &",
+    "bbox": [
+      "86.98",
+      "617.62",
+      "525.00",
+      "632.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Angostura Bitters, Orange Peel and Burned Cinnamon –",
+    "bbox": [
+      "149.90",
+      "636.73",
+      "462.05",
+      "651.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ITALIAN MARGARITA",
+    "bbox": [
+      "251.59",
+      "667.10",
+      "360.41",
+      "681.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "– Patron Silver Tequila, Campari, Fresh Squeezed Lime Juice, Muddled Orange Wedge,",
+    "bbox": [
+      "63.40",
+      "685.23",
+      "548.57",
+      "700.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Slow Cooked Orange Syrup, Pink Peppercorns  –",
+    "bbox": [
+      "169.99",
+      "704.34",
+      "442.00",
+      "719.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GIN, APRICOT AND TONIC",
+    "bbox": [
+      "238.74",
+      "734.71",
+      "373.24",
+      "748.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "– Gray Whale Organic Gin , Pink Peppercorn Juniper Berries, Bay Leaves  & Homemade",
+    "bbox": [
+      "62.22",
+      "752.83",
+      "549.75",
+      "767.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Apricot Jam –",
+    "bbox": [
+      "266.20",
+      "771.94",
+      "345.73",
+      "786.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSE WINE PUNCH",
+    "bbox": [
+      "254.85",
+      "802.31",
+      "357.07",
+      "816.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "– Mas de la Dame Rose, Strawberry- Hibiscus Sweet Infusion, Top with Prosecco –",
+    "bbox": [
+      "70.38",
+      "820.43",
+      "541.61",
+      "835.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BY THE GLASS & BTL",
+    "bbox": [
+      "233.38",
+      "137.23",
+      "378.62",
+      "155.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "REDS",
+    "bbox": [
+      "292.24",
+      "166.46",
+      "319.76",
+      "180.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Super Tuscan Blend – Cantaloro, Toscany, Italy 2016   $14  $55",
+    "bbox": [
+      "21.60",
+      "198.46",
+      "279.17",
+      "211.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Super Tuscan Blend – Cantaloro, Toscany, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 47
+          }
+        ],
+        "P": [
+          {
+            "text": "$14  $55",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Red Blend – Prunotto Mompertone Langhe Piedmont, Italy 2013",
+    "bbox": [
+      "313.20",
+      "198.46",
+      "580.32",
+      "211.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Red Blend – Prunotto Mompertone Langhe Piedmont, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$15  $55",
+    "bbox": [
+      "313.20",
+      "215.02",
+      "354.16",
+      "228.02"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15  $55",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pinot Noir – The Pinot Project, California, USA 2019  $12  $45",
+    "bbox": [
+      "21.60",
+      "229.42",
+      "275.79",
+      "242.42"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir – The Pinot Project, California, USA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 48
+          }
+        ],
+        "P": [
+          {
+            "text": "$12  $45",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cabernet Sauvignon – Josh Phelps, Grounded, California 2018",
+    "bbox": [
+      "313.20",
+      "245.98",
+      "567.98",
+      "258.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon – Josh Phelps, Grounded, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chianti Classico – San Felice, Tuscany, Italy 2016  $14  $55",
+    "bbox": [
+      "21.60",
+      "260.38",
+      "267.26",
+      "273.38"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chianti Classico – San Felice, Tuscany, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 46
+          }
+        ],
+        "P": [
+          {
+            "text": "$14  $55",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$55",
+    "bbox": [
+      "313.20",
+      "262.54",
+      "331.81",
+      "275.54"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$55",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WHITE",
+    "bbox": [
+      "290.96",
+      "286.70",
+      "321.04",
+      "300.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chardonnay – Maison Louis Latour, Ardache, Côteaux de",
+    "bbox": [
+      "21.60",
+      "318.70",
+      "252.33",
+      "331.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay – Maison Louis Latour, Ardache, Côteaux de",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Riesling – Schloss Lieser, Mosel, Germany 2016  $13  $48",
+    "bbox": [
+      "313.20",
+      "318.70",
+      "557.00",
+      "331.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Riesling – Schloss Lieser, Mosel, Germany",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 42
+          }
+        ],
+        "P": [
+          {
+            "text": "$13  $48",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "l'Ardèche, France 2019  $14  $55",
+    "bbox": [
+      "21.60",
+      "335.26",
+      "164.10",
+      "348.26"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "l'Ardèche, France 2019  $14  $55",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 18
+          }
+        ],
+        "P": [
+          {
+            "text": "$14  $55",
+            "answer_start": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sauvignon Blanc – Biscaye Baie - Cotes De Gascogne France",
+    "bbox": [
+      "313.20",
+      "349.66",
+      "563.98",
+      "362.66"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc – Biscaye Baie - Cotes De Gascogne France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pinot Grigio – Esperto, Venezie, Italy 2018  $13  $45",
+    "bbox": [
+      "21.60",
+      "366.22",
+      "237.97",
+      "379.22"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Grigio – Esperto, Venezie, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 39
+          }
+        ],
+        "P": [
+          {
+            "text": "$13  $45",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2020  $13  $48",
+    "bbox": [
+      "313.20",
+      "366.22",
+      "381.68",
+      "379.22"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$13  $48",
+            "answer_start": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Gavi – Principe Gasco di bisio, Piedmont, Italy 2019  $12  $42",
+    "bbox": [
+      "21.60",
+      "397.18",
+      "280.92",
+      "410.18"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Gavi – Principe Gasco di bisio, Piedmont, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 48
+          }
+        ],
+        "P": [
+          {
+            "text": "$12  $42",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROSE'",
+    "bbox": [
+      "290.94",
+      "426.74",
+      "321.06",
+      "440.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rose – Fleurs de Prairie, Cotes de Provence, France 2020  $14",
+    "bbox": [
+      "21.60",
+      "458.74",
+      "285.73",
+      "471.74"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rose – Fleurs de Prairie, Cotes de Provence, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 52
+          }
+        ],
+        "P": [
+          {
+            "text": "$14",
+            "answer_start": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rose Blend – ORIN SWIFT LOCATIONES ( F ) ROSE, 100%",
+    "bbox": [
+      "313.20",
+      "458.74",
+      "548.40",
+      "471.74"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rose Blend – ORIN SWIFT LOCATIONES ( F ) ROSE, 100%",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$55",
+    "bbox": [
+      "21.60",
+      "475.30",
+      "40.21",
+      "488.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GRANACHE, FRANCE, NV   $55",
+    "bbox": [
+      "313.20",
+      "475.30",
+      "441.96",
+      "488.30"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "GRANACHE, FRANCE, NV   $55",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 18
+          }
+        ],
+        "P": [
+          {
+            "text": "$55",
+            "answer_start": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rose – Donnafugata Dolce & Gabbana Rosa, Sicilia, Italy 2019",
+    "bbox": [
+      "21.60",
+      "506.26",
+      "283.12",
+      "519.26"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rose – Donnafugata Dolce & Gabbana Rosa, Sicilia, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$88",
+    "bbox": [
+      "21.60",
+      "522.82",
+      "40.21",
+      "535.82"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$88",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DESSERT WINES",
+    "bbox": [
+      "264.38",
+      "546.98",
+      "347.62",
+      "560.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dessert Wine – Muffato della Sala, Dessert Wine,  Umbria, Italy",
+    "bbox": [
+      "21.60",
+      "578.98",
+      "276.37",
+      "591.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Dessert Wine – Muffato della Sala, Dessert Wine,  Umbria, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Vin Santo – San Felice, Tuscany, Italy 2011  $12  $55",
+    "bbox": [
+      "313.20",
+      "578.98",
+      "534.62",
+      "591.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Vin Santo – San Felice, Tuscany, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2011",
+            "answer_start": 39
+          }
+        ],
+        "P": [
+          {
+            "text": "$12  $55",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2009  $14  $75",
+    "bbox": [
+      "21.60",
+      "595.54",
+      "90.34",
+      "608.54"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2009",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$14  $75",
+            "answer_start": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Passito – Donnafugata Ben Rye,  Passito di Pantelleria, Sicily,",
+    "bbox": [
+      "313.20",
+      "609.94",
+      "565.46",
+      "622.94"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Passito – Donnafugata Ben Rye,  Passito di Pantelleria, Sicily,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Port Tawny – Dow's 20 years Old, Portugal  $22  $150",
+    "bbox": [
+      "21.60",
+      "626.50",
+      "243.54",
+      "639.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Port Tawny – Dow's 20 years Old, Portugal",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$22  $150",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Italy 2017   $12  $55",
+    "bbox": [
+      "313.20",
+      "626.50",
+      "403.96",
+      "639.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Italy 2017   $12  $55",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 6
+          }
+        ],
+        "P": [
+          {
+            "text": "$12  $55",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Port Vintage – Dow's 2000, Portugal  $24  $150",
+    "bbox": [
+      "21.60",
+      "657.46",
+      "219.15",
+      "670.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Port Vintage – Dow's 2000, Portugal",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$24  $150",
+            "answer_start": 37
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BY THE BOTTLE",
+    "bbox": [
+      "252.23",
+      "37.87",
+      "359.77",
+      "55.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RED",
+    "bbox": [
+      "295.63",
+      "57.90",
+      "316.37",
+      "71.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Noir – Maison Louis Latour, Marsannay, Burgundy, France 2017 1.5L  $150",
+    "bbox": [
+      "21.60",
+      "80.79",
+      "355.21",
+      "93.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir – Maison Louis Latour, Marsannay, Burgundy, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 62
+          }
+        ],
+        "P": [
+          {
+            "text": "$150",
+            "answer_start": 73
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Noir – Maison Louis  \"Les Chaillots\" 1er Cru, Aloxe-Corton, Burgundy, France 2013  $150",
+    "bbox": [
+      "21.60",
+      "102.62",
+      "410.88",
+      "115.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir – Maison Louis  \"Les Chaillots\" 1er Cru, Aloxe-Corton, Burgundy, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 83
+          }
+        ],
+        "P": [
+          {
+            "text": "$150",
+            "answer_start": 89
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Noir – Purple Hands, Willamete Valley Oregon, USA 2020  $67",
+    "bbox": [
+      "21.60",
+      "124.46",
+      "299.82",
+      "137.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir – Purple Hands, Willamete Valley Oregon, USA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 56
+          }
+        ],
+        "P": [
+          {
+            "text": "$67",
+            "answer_start": 62
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Noir – Sea Smoke Ten, Santa Rita Hills, California, USA 2018  $200",
+    "bbox": [
+      "21.60",
+      "146.31",
+      "322.41",
+      "159.31"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir – Sea Smoke Ten, Santa Rita Hills, California, USA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 62
+          }
+        ],
+        "P": [
+          {
+            "text": "$200",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Noir – Eden Rift Vineyards Valliant, Oregon 2017  $68",
+    "bbox": [
+      "21.60",
+      "168.14",
+      "265.21",
+      "181.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir – Eden Rift Vineyards Valliant, Oregon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 50
+          }
+        ],
+        "P": [
+          {
+            "text": "$68",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Noir – Simi, Russian River, California,USA 2019  $68",
+    "bbox": [
+      "21.60",
+      "189.98",
+      "259.54",
+      "202.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir – Simi, Russian River, California,USA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 49
+          }
+        ],
+        "P": [
+          {
+            "text": "$68",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Tempranillo – Ferdinand, Napa, California 2016  $62",
+    "bbox": [
+      "21.60",
+      "211.83",
+      "234.97",
+      "224.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tempranillo – Ferdinand, Napa, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 42
+          }
+        ],
+        "P": [
+          {
+            "text": "$62",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RED BLEND – DEPARTMENT 66 '\"OTHERS\" DAVID PHYNNEY, RED BLEND, FRANCE, 2015  $75",
+    "bbox": [
+      "21.60",
+      "233.66",
+      "409.13",
+      "246.66"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RED BLEND – DEPARTMENT 66 '\"OTHERS\" DAVID PHYNNEY, RED BLEND, FRANCE,",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$75",
+            "answer_start": 76
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Orin Swift Abstract – Grenache Blend, Saint Helena, California 2019 1.5L  $145",
+    "bbox": [
+      "21.60",
+      "255.50",
+      "343.28",
+      "268.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Orin Swift Abstract – Grenache Blend, Saint Helena, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 63
+          }
+        ],
+        "P": [
+          {
+            "text": "$145",
+            "answer_start": 74
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RED BLEND – Orin Swift Abstract Grenache Blend, Saint Helena, California 2019   $85",
+    "bbox": [
+      "21.60",
+      "277.35",
+      "373.16",
+      "290.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RED BLEND – Orin Swift Abstract Grenache Blend, Saint Helena, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 73
+          }
+        ],
+        "P": [
+          {
+            "text": "$85",
+            "answer_start": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RED BLEND – ORIN SWIFT ( F ), RED BLEND, France NV  $55",
+    "bbox": [
+      "21.60",
+      "299.18",
+      "268.03",
+      "312.18"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RED BLEND – ORIN SWIFT ( F ), RED BLEND, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 48
+          }
+        ],
+        "P": [
+          {
+            "text": "$55",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RED BLEND – ORIN SWIFT ( CA ), RED BLEND, California, USA NV  $55",
+    "bbox": [
+      "21.60",
+      "321.02",
+      "305.18",
+      "334.02"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RED BLEND – ORIN SWIFT ( CA ), RED BLEND, California, USA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 58
+          }
+        ],
+        "P": [
+          {
+            "text": "$55",
+            "answer_start": 62
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Zinfandel Blend – Orin Swift 8 Years in the Desert, California, USA 2018  $115",
+    "bbox": [
+      "21.60",
+      "342.87",
+      "341.16",
+      "355.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Zinfandel Blend – Orin Swift 8 Years in the Desert, California, USA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 68
+          }
+        ],
+        "P": [
+          {
+            "text": "$115",
+            "answer_start": 74
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RED BLEND – Orin Swift \"MACHETE\", Saint Helena, Napa Valley, California, USA 2017  $115",
+    "bbox": [
+      "21.60",
+      "364.70",
+      "395.81",
+      "377.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RED BLEND – Orin Swift \"MACHETE\", Saint Helena, Napa Valley, California, USA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 77
+          }
+        ],
+        "P": [
+          {
+            "text": "$115",
+            "answer_start": 83
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Zinfandel Blend – Three, Contra Costa County, California, USA 2016  $85",
+    "bbox": [
+      "21.60",
+      "386.54",
+      "318.39",
+      "399.54"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Zinfandel Blend – Three, Contra Costa County, California, USA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 62
+          }
+        ],
+        "P": [
+          {
+            "text": "$85",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Malbec – Benmarco, Valle de Uco, Mendoza, Argentina 2019  $58",
+    "bbox": [
+      "21.60",
+      "408.39",
+      "293.27",
+      "421.39"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Malbec – Benmarco, Valle de Uco, Mendoza, Argentina",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 52
+          }
+        ],
+        "P": [
+          {
+            "text": "$58",
+            "answer_start": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Merlot – Eagle Glen Napa Valley, California  2017  $58",
+    "bbox": [
+      "21.60",
+      "430.22",
+      "245.66",
+      "443.22"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Merlot – Eagle Glen Napa Valley, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 45
+          }
+        ],
+        "P": [
+          {
+            "text": "$58",
+            "answer_start": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "+ 1 Blt",
+    "bbox": [
+      "36.00",
+      "446.00",
+      "62.36",
+      "456.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Merlot – Tres Palacios Family Vintage, Maipo, Chile 2018  $65",
+    "bbox": [
+      "21.60",
+      "464.81",
+      "280.31",
+      "477.81"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Merlot – Tres Palacios Family Vintage, Maipo, Chile",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 52
+          }
+        ],
+        "P": [
+          {
+            "text": "$65",
+            "answer_start": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bordeaux – Chateau D'Aighilhe, Bordeaux, France 2010  $118",
+    "bbox": [
+      "21.60",
+      "486.64",
+      "277.84",
+      "499.64"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bordeaux – Chateau D'Aighilhe, Bordeaux, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2010",
+            "answer_start": 48
+          }
+        ],
+        "P": [
+          {
+            "text": "$118",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cabernet Sauvignon – Josh Phelps, California, USA 2018  $14  $55",
+    "bbox": [
+      "21.60",
+      "508.49",
+      "293.83",
+      "521.49"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon – Josh Phelps, California, USA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 50
+          }
+        ],
+        "P": [
+          {
+            "text": "$14  $55",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cabernet Sauvignon – Estate Prontopapa, Kavala, Greece 2013  $55",
+    "bbox": [
+      "21.60",
+      "530.33",
+      "301.41",
+      "543.33"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon – Estate Prontopapa, Kavala, Greece",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 55
+          }
+        ],
+        "P": [
+          {
+            "text": "$55",
+            "answer_start": 61
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cabernet Sauvignon – Bellacosa, North Coast, California 2017  $59",
+    "bbox": [
+      "21.60",
+      "552.16",
+      "294.74",
+      "565.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon – Bellacosa, North Coast, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 56
+          }
+        ],
+        "P": [
+          {
+            "text": "$59",
+            "answer_start": 62
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cabernet Sauvignon – Emblem, Napa Valley, USA 2017  $82",
+    "bbox": [
+      "21.60",
+      "574.01",
+      "264.37",
+      "587.01"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon – Emblem, Napa Valley, USA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 46
+          }
+        ],
+        "P": [
+          {
+            "text": "$82",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cabernet Sauvignon – Recoltant, Napa Valley, California, USA  2018  $92",
+    "bbox": [
+      "21.60",
+      "595.85",
+      "315.98",
+      "608.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon – Recoltant, Napa Valley, California, USA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 62
+          }
+        ],
+        "P": [
+          {
+            "text": "$92",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cabernet Sauvignon – Mayacamas Vineyards AVA Napa Valley, Mt. Veeder  Califoria USA 2015  $290",
+    "bbox": [
+      "21.60",
+      "617.68",
+      "430.61",
+      "630.68"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon – Mayacamas Vineyards AVA Napa Valley, Mt. Veeder  Califoria USA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 84
+          }
+        ],
+        "P": [
+          {
+            "text": "$290",
+            "answer_start": 90
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cabernet Sauvignon – Paul Hobbs, AVA Napa Valley, California USA 2015  $270",
+    "bbox": [
+      "21.60",
+      "639.53",
+      "342.07",
+      "652.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon – Paul Hobbs, AVA Napa Valley, California USA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 65
+          }
+        ],
+        "P": [
+          {
+            "text": "$270",
+            "answer_start": 71
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cabernet Sauvignon – Freemark Abbey, Napa Valley, USA 2016  $120",
+    "bbox": [
+      "21.60",
+      "661.37",
+      "303.11",
+      "674.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon – Freemark Abbey, Napa Valley, USA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 54
+          }
+        ],
+        "P": [
+          {
+            "text": "$120",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cabernet Sauvignon – Caymus - Napa Valley California 2018 1L  $290",
+    "bbox": [
+      "21.60",
+      "683.20",
+      "304.97",
+      "696.20"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon – Caymus - Napa Valley California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 53
+          }
+        ],
+        "P": [
+          {
+            "text": "$290",
+            "answer_start": 62
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cabernet Sauvignon – Jordan , Alexander Valley, California, USA 2017  $163",
+    "bbox": [
+      "21.60",
+      "705.05",
+      "328.55",
+      "718.05"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon – Jordan , Alexander Valley, California, USA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 64
+          }
+        ],
+        "P": [
+          {
+            "text": "$163",
+            "answer_start": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cabernet Sauvignon – Cakebread Cellars, Napa Valley, California, USA 2018  $175",
+    "bbox": [
+      "21.60",
+      "726.89",
+      "354.69",
+      "739.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon – Cakebread Cellars, Napa Valley, California, USA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 69
+          }
+        ],
+        "P": [
+          {
+            "text": "$175",
+            "answer_start": 75
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "VINTAGE SERIES",
+    "bbox": [
+      "248.09",
+      "48.67",
+      "363.91",
+      "66.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Merlot – Stags Leap Wine Cellars Napa Valley, California, USA Special Vintage 2003  $550",
+    "bbox": [
+      "21.60",
+      "86.30",
+      "396.23",
+      "99.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "+ 2 BTL",
+    "bbox": [
+      "36.00",
+      "102.08",
+      "65.03",
+      "112.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cabernet Sauvignon – Shafer One Point Five, AVA Stags Leap District, Napa Valley, California USA 2016; 66 cases produced only  $340",
+    "bbox": [
+      "21.60",
+      "117.28",
+      "574.87",
+      "130.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cabernet Sauvignon – Far Niente Napa Valley California, USA Special Vintage 2000  $720",
+    "bbox": [
+      "21.60",
+      "135.53",
+      "385.07",
+      "148.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "+ 3 BTLS",
+    "bbox": [
+      "36.00",
+      "151.30",
+      "70.42",
+      "161.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cabernet Sauvignon – Stags Leap Wine Cellars \"Fay\" Napa Valley, California, USA Special Vintage 2003  $450",
+    "bbox": [
+      "21.60",
+      "166.51",
+      "469.99",
+      "179.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "+ 2 BTLS",
+    "bbox": [
+      "36.00",
+      "182.29",
+      "70.22",
+      "192.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cabernet Sauvignon – Chimney Rock, Napa Vallet, USA Special Vintage 2003  $420",
+    "bbox": [
+      "21.60",
+      "197.49",
+      "361.53",
+      "210.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "+ 3 BTLS",
+    "bbox": [
+      "36.00",
+      "213.27",
+      "70.42",
+      "223.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cabernet Sauvignon – Mayacamas, Vineyards, AVA MT. Veeder, Napa Valley California USA 2013  $250",
+    "bbox": [
+      "21.60",
+      "228.47",
+      "438.78",
+      "241.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "+ 2 BTLS",
+    "bbox": [
+      "36.00",
+      "244.25",
+      "70.22",
+      "254.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cabernet Sauvignon – Quintessa, Napa Valley, California, USA Special Vintage 2002  $720",
+    "bbox": [
+      "21.60",
+      "259.46",
+      "388.17",
+      "272.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "+ 2 BTLS",
+    "bbox": [
+      "36.00",
+      "275.23",
+      "70.22",
+      "285.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Taurasi – Feudi di San Gregorio, - Campania Italy 2003  $495",
+    "bbox": [
+      "21.60",
+      "290.44",
+      "273.73",
+      "303.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "+ 1 btl",
+    "bbox": [
+      "36.00",
+      "306.21",
+      "61.76",
+      "316.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Super Tuscan – Ornellaia, Bolgheri, Tuscany, Italy 2003  $795",
+    "bbox": [
+      "21.60",
+      "321.43",
+      "271.56",
+      "334.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "+ 1 BTL",
+    "bbox": [
+      "36.00",
+      "337.20",
+      "65.26",
+      "347.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Super Tuscan – Vigorello, San Felice, Tuscany, Italy 2010  $325",
+    "bbox": [
+      "21.60",
+      "352.41",
+      "280.58",
+      "365.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "+ 1 BTL",
+    "bbox": [
+      "36.00",
+      "368.18",
+      "65.26",
+      "378.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Super Tuscan – Vigorello, San Felice, Tuscany, Italy 2001  $395",
+    "bbox": [
+      "21.60",
+      "383.39",
+      "280.84",
+      "396.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "+ 1 BTL",
+    "bbox": [
+      "36.00",
+      "399.16",
+      "65.26",
+      "409.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Super Tuscan – Vigorello, San Felice, Tuscany, Italy 2013  $150",
+    "bbox": [
+      "21.60",
+      "414.37",
+      "280.88",
+      "427.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "+ 2 BTL",
+    "bbox": [
+      "36.00",
+      "430.15",
+      "65.03",
+      "440.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Super Tuscan – Marchesi Antinori Solaia, Tuscany, Italy  Special Vintage 2001  $750",
+    "bbox": [
+      "21.60",
+      "445.35",
+      "367.33",
+      "458.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "+ 1 BTL",
+    "bbox": [
+      "36.00",
+      "461.13",
+      "65.26",
+      "471.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chianti Classico Riserva – San Felice \"Il Grigio\", Tuscany, Italy 2011 3L  $352",
+    "bbox": [
+      "21.60",
+      "476.33",
+      "331.24",
+      "489.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "+ 2 BTLS",
+    "bbox": [
+      "36.00",
+      "492.11",
+      "70.22",
+      "502.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Brunello di Montalcino – Il Poggione, Montalcino, Tuscany, Italy 2009 3L  $840",
+    "bbox": [
+      "21.60",
+      "507.32",
+      "339.10",
+      "520.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "+ 1 BTL",
+    "bbox": [
+      "36.00",
+      "523.09",
+      "65.26",
+      "533.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Nebbiolo – Travaglini, Gattinara, Piedmont, Italy 2013 1.5 L  $295",
+    "bbox": [
+      "21.60",
+      "538.30",
+      "292.34",
+      "551.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "+ 1 BTL",
+    "bbox": [
+      "36.00",
+      "554.07",
+      "65.26",
+      "564.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Amarone della Valpolicella – Tommasi, Veneto, Italy 2004  $780",
+    "bbox": [
+      "21.60",
+      "569.28",
+      "277.82",
+      "582.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "+ 1 BTL",
+    "bbox": [
+      "36.00",
+      "585.05",
+      "65.26",
+      "595.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "REDS FROM ITALY",
+    "bbox": [
+      "261.55",
+      "36.61",
+      "350.45",
+      "50.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Barolo – Prunotto \"Bussia\",  Barolo, Piedmont, Italy 2014  $195",
+    "bbox": [
+      "21.60",
+      "65.25",
+      "285.68",
+      "78.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Barolo – Arnaldo Rivera Undicicomuni, Piedmonte, Italy, 2016  $98",
+    "bbox": [
+      "21.60",
+      "85.65",
+      "297.70",
+      "98.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Barbaresco – Fontanafredda Coste Rubin , Piedmont, Italy 2015  $98",
+    "bbox": [
+      "21.60",
+      "106.05",
+      "307.57",
+      "119.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Barbaresco – Prunotto de Alba, Piedmont, Italy 2016  $110",
+    "bbox": [
+      "21.60",
+      "126.45",
+      "265.67",
+      "139.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Barbaresco – Prunotto \"Bric Turot\" DOCG- Alba, Piedmont, Italy 2015  $190",
+    "bbox": [
+      "21.60",
+      "146.85",
+      "332.47",
+      "159.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Barbaresco – Azienda Agricola Ronchi,Barbaresco, Piedmont, Italy 2015  $95",
+    "bbox": [
+      "21.60",
+      "167.25",
+      "339.23",
+      "180.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sagrantino – Sagrantino di Montefalco, Rocca di Fabbri, Montefalco, Umbria, Italy 2013  $78",
+    "bbox": [
+      "21.60",
+      "187.65",
+      "403.23",
+      "200.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "+ 1 BTL",
+    "bbox": [
+      "36.00",
+      "203.43",
+      "65.26",
+      "213.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Amarone della Valpolicella – Luigi Righetti, Capitel de' Roari, Veneto, USA 2017  $85",
+    "bbox": [
+      "21.60",
+      "220.79",
+      "359.04",
+      "233.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sangiovese – Avignonesi \"Da.Di\", Tuscany, Italy 2019  $55",
+    "bbox": [
+      "21.60",
+      "241.20",
+      "260.00",
+      "254.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Vino Nobile di Montepulciano – La Braccesca Santa Pia, Tuscany, Italy 2010  $90",
+    "bbox": [
+      "21.60",
+      "261.59",
+      "347.56",
+      "274.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "+ 1 BTL",
+    "bbox": [
+      "36.00",
+      "277.37",
+      "65.26",
+      "287.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Vino Nobile di Montepulciano – Cantine Avignonesi, Montepulciano-Cortona, Tuscany, Italy 2016  $75",
+    "bbox": [
+      "21.60",
+      "294.74",
+      "430.12",
+      "307.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Rosso di Montepulciano – Societa Agricoola Cantine Avignonesi, Cortona,Tuscany Italy 2017  $48",
+    "bbox": [
+      "21.60",
+      "315.14",
+      "417.18",
+      "328.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Brunello di Montalcino – Nannetti ,Montalcino, Tuscany 2013  $98",
+    "bbox": [
+      "21.60",
+      "335.54",
+      "289.79",
+      "348.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Brunello di Montalcino – Le Macioche, Montalcino, Tuscany, Italy 2011  $155",
+    "bbox": [
+      "21.60",
+      "355.94",
+      "333.84",
+      "368.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Brunello di Montalcino Riserva – San Felice  \"Campogiovanni\" il Quercione Riserva  Tuscany Italy 2013  $240",
+    "bbox": [
+      "21.60",
+      "376.34",
+      "460.05",
+      "389.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Brunello di Montalcino –  Cerbaia, Organic Vineyard-Tucany, Italy 2011  $145",
+    "bbox": [
+      "21.60",
+      "396.74",
+      "331.13",
+      "409.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Brunello di Montalcino – Fuligni, Tuscany, Italy 2013  $175",
+    "bbox": [
+      "21.60",
+      "417.14",
+      "257.43",
+      "430.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Rosso di Montalcino – Campogiovanni, San Felice, Tuscany, Italy 2017  $68",
+    "bbox": [
+      "21.60",
+      "437.54",
+      "327.97",
+      "450.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Frappato – Donnafugata Ball'Asai, Vittoria DOC, Sicily Italy 2019  $75",
+    "bbox": [
+      "21.60",
+      "457.94",
+      "306.37",
+      "470.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Frappato-Nero d'Avola – Floramundi,  Donnafugata, Sicily, Italy 2018  $65",
+    "bbox": [
+      "21.60",
+      "478.34",
+      "315.80",
+      "491.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chianti Classico Gran Selezione –  Il Grigio Gran Selezione,San Felice, Tuscany, Italy 2013    $95",
+    "bbox": [
+      "21.60",
+      "498.74",
+      "404.23",
+      "511.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Red Blend – Tormaresca - TRENTANGELI (Aglianico, Canaiolo, Syrah) Puglia Italy 2015  $58",
+    "bbox": [
+      "21.60",
+      "519.14",
+      "397.55",
+      "532.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Red Blend – Mille e una Notte, Cantina Donnafugata, Sicily, Italy 2016  $145",
+    "bbox": [
+      "21.60",
+      "539.54",
+      "335.97",
+      "552.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Etna Rosso – Fragore, Cantina Donnafugata, Sicily, Italy 2016  $170",
+    "bbox": [
+      "21.60",
+      "559.94",
+      "300.29",
+      "572.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Merlot – Cantine Avignonesi \"Desiderio\", Tuscany Italy 2014  $95",
+    "bbox": [
+      "21.60",
+      "580.34",
+      "292.40",
+      "593.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Super Tuscan – Avignonesi-Capannelle 50&50, Tuscany, Italy 2015  $260",
+    "bbox": [
+      "21.60",
+      "600.74",
+      "324.81",
+      "613.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Super Tuscan – Avignonesi Grifi, Tuscany, Italy 2017 L  $87",
+    "bbox": [
+      "21.60",
+      "621.14",
+      "262.13",
+      "634.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Super Tuscan – San Felice Super Tuscan Pugnitello 100% grapes Tuscany Italy 2017  $125",
+    "bbox": [
+      "21.60",
+      "641.54",
+      "399.91",
+      "654.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Super Tuscan – \"Tignanello\" Marchesi Antinori, Tuscany, Italy 2016  $295",
+    "bbox": [
+      "21.60",
+      "661.94",
+      "320.97",
+      "674.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Super Tuscan – Solaia, Tuscany, Italy 2014  $495",
+    "bbox": [
+      "21.60",
+      "682.34",
+      "222.83",
+      "695.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Super Tuscan – Vigorello, San Felice, Tuscany, Italy 2013  $125",
+    "bbox": [
+      "21.60",
+      "702.74",
+      "280.62",
+      "715.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Super Tuscan – San Felice \"Bella' Aja \" Bolgheri Superiore, Tuscany, Italy 2017  $135",
+    "bbox": [
+      "21.60",
+      "723.14",
+      "367.66",
+      "736.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "SPARKLING",
+    "bbox": [
+      "266.59",
+      "58.75",
+      "345.41",
+      "76.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Lambrusco – Vecchia Modena ½  Bottle 375 ml Semi-Dry Emilia Romana, Italy NV  $32",
+    "bbox": [
+      "21.60",
+      "85.34",
+      "380.32",
+      "98.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Lambrusco – Settecani Amabile, Lambrusco Grasparossa di Castelvetro, Emilia-Romagna, Italy NV  $35",
+    "bbox": [
+      "21.60",
+      "106.94",
+      "450.18",
+      "119.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Prosecco – Johnnie Bubble, Veneto, Italy NV  $42",
+    "bbox": [
+      "21.60",
+      "128.54",
+      "222.06",
+      "141.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Brut Sparkling Rose – J.L Denois Artisanal ,Limoux, France NV  $68",
+    "bbox": [
+      "21.60",
+      "150.14",
+      "291.80",
+      "163.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "+ 1BTl",
+    "bbox": [
+      "36.00",
+      "165.92",
+      "60.97",
+      "175.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Champagne Brut – Duval Leroy, Champagne, France NV  $97",
+    "bbox": [
+      "21.60",
+      "184.49",
+      "267.51",
+      "197.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Champagne Brut – Nicolas Feuillatte Reserve Exclusive, Champagne, France  NV  $87",
+    "bbox": [
+      "21.60",
+      "206.09",
+      "374.43",
+      "219.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "WHITES",
+    "bbox": [
+      "280.43",
+      "241.82",
+      "331.57",
+      "259.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pinot Grigio – Esperto By Livio Felluga, Trentino Alto Adige, Italy 2020  $45",
+    "bbox": [
+      "21.60",
+      "268.42",
+      "326.80",
+      "281.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pinot Grigio – Santa Margherita, Italy 2019  $55",
+    "bbox": [
+      "21.60",
+      "290.02",
+      "218.24",
+      "303.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Vermentino – San  Felice, Tuscany, Italy 2020  $48",
+    "bbox": [
+      "21.60",
+      "311.62",
+      "230.50",
+      "324.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Riesling – A.J. Adams Kabinett,  Mosel-Saar-Ruwer,  Germany 2017  $57",
+    "bbox": [
+      "21.60",
+      "333.22",
+      "322.90",
+      "346.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Riesling – Von Winning Trocken, Pfalz, Germany 2019  $58",
+    "bbox": [
+      "21.60",
+      "354.82",
+      "264.59",
+      "367.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "+ 1 BTL",
+    "bbox": [
+      "36.00",
+      "370.59",
+      "65.26",
+      "380.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Gavi – Principe Gasco di bisio, Piedmont, Italy 2018  $42",
+    "bbox": [
+      "21.60",
+      "389.16",
+      "258.74",
+      "402.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sauvignon Blanc – Stoneleigh, Marlborough, New Zealand 2020  $48",
+    "bbox": [
+      "21.60",
+      "410.76",
+      "301.85",
+      "423.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sauvignon Blanc – Isabelle Garrsult \"Les Grands Monts\", Sancerre, Loire, France 2020  $65",
+    "bbox": [
+      "21.60",
+      "432.36",
+      "395.07",
+      "445.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chardonnay – Hartford, Russian River, California, USA 2018  $65",
+    "bbox": [
+      "21.60",
+      "453.96",
+      "286.71",
+      "466.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Albariño – Granbazán \"Etiqueta Verde\", Rías Baixas , Spain 2019  $58",
+    "bbox": [
+      "21.60",
+      "475.56",
+      "311.31",
+      "488.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chardonnay – Louis Latour La Grande Roche 1er Cru, Montagny, Burgundy, France 2018   $68",
+    "bbox": [
+      "21.60",
+      "497.16",
+      "408.13",
+      "510.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chardonnay – Louis Latour Macon-Village, Burgundy, France 2018   $45",
+    "bbox": [
+      "21.60",
+      "518.76",
+      "316.96",
+      "531.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chardonnay – Louis Latour Meursault 1er Cru \"Château de Blagny\", Côte de Beaune, Burgundy, France 2018   $200",
+    "bbox": [
+      "21.60",
+      "540.36",
+      "497.59",
+      "553.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chardonnay – Bramito della Sala Marchesi Antinori, Umbria, Italy 2017  $55",
+    "bbox": [
+      "21.60",
+      "561.96",
+      "332.96",
+      "574.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chardonnay – Simi, Russian River Valley, Sonoma, California, USA 2019  $88",
+    "bbox": [
+      "21.60",
+      "583.56",
+      "336.54",
+      "596.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SSPPIIRRIITT,,  CCOORRDDIIAALLSS,,  LLIIQQUUOORRSS  AANNDD  AAMMAARROOSS",
+    "bbox": [
+      "171.98",
+      "111.39",
+      "440.71",
+      "125.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ALL OF SERVINGS ARE BASED IN 1.5 OZ",
+    "bbox": [
+      "241.01",
+      "134.45",
+      "370.99",
+      "142.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "GIN",
+    "bbox": [
+      "118.97",
+      "152.79",
+      "130.64",
+      "160.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CASA DRAGONES … $19",
+    "bbox": [
+      "268.57",
+      "152.79",
+      "343.45",
+      "160.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DIPLOMATICO … $14",
+    "bbox": [
+      "454.87",
+      "152.79",
+      "519.55",
+      "160.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MEXICAN BLUE AGAVE",
+    "bbox": [
+      "266.99",
+      "163.66",
+      "345.03",
+      "171.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "VENEZUELA RESERVA EXLUSIVA",
+    "bbox": [
+      "431.76",
+      "163.66",
+      "542.67",
+      "171.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "GRAY WHALE … C$14 M$15",
+    "bbox": [
+      "82.47",
+      "171.12",
+      "167.13",
+      "179.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 40%ABV *",
+    "bbox": [
+      "470.58",
+      "174.20",
+      "503.85",
+      "181.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BOTANICAL WESTCOAST GIN",
+    "bbox": [
+      "75.26",
+      "181.99",
+      "174.36",
+      "189.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CLASE AZUL … $32",
+    "bbox": [
+      "276.00",
+      "182.01",
+      "336.01",
+      "190.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 43 % ABV *",
+    "bbox": [
+      "107.18",
+      "192.53",
+      "142.44",
+      "199.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MEXICAN BLUE AGAVE REPOSADO",
+    "bbox": [
+      "247.25",
+      "192.88",
+      "364.78",
+      "200.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RUM BARCELO SELECTION … $14",
+    "bbox": [
+      "436.08",
+      "191.54",
+      "538.34",
+      "199.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 40% ABV *",
+    "bbox": [
+      "288.68",
+      "203.42",
+      "323.35",
+      "210.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DOMINICAN REPUBLIC",
+    "bbox": [
+      "447.57",
+      "202.41",
+      "526.87",
+      "210.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "TANQUERAY … C$ 14 M$15",
+    "bbox": [
+      "82.91",
+      "209.88",
+      "166.69",
+      "217.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 40%ABV *",
+    "bbox": [
+      "470.58",
+      "212.95",
+      "503.85",
+      "219.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "LONDON DRY",
+    "bbox": [
+      "101.48",
+      "220.74",
+      "148.14",
+      "228.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "KOMOS … $27",
+    "bbox": [
+      "283.51",
+      "220.76",
+      "328.50",
+      "228.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 47% ABV *",
+    "bbox": [
+      "107.87",
+      "231.28",
+      "141.76",
+      "238.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MEXICAN BLUE AGAVE AÑEJO",
+    "bbox": [
+      "255.07",
+      "231.63",
+      "356.95",
+      "239.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DON Q … $21",
+    "bbox": [
+      "466.77",
+      "230.29",
+      "507.65",
+      "238.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 40%ABV *",
+    "bbox": [
+      "289.38",
+      "242.17",
+      "322.65",
+      "249.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Puerto Rico Gran Anejo Rum",
+    "bbox": [
+      "444.83",
+      "241.16",
+      "529.61",
+      "249.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ROKU … C$ 14 M$ 15",
+    "bbox": [
+      "91.87",
+      "248.63",
+      "157.72",
+      "256.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 40%ABV *",
+    "bbox": [
+      "470.58",
+      "251.70",
+      "503.85",
+      "258.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BOTANICAL JAPANESE GIN",
+    "bbox": [
+      "79.53",
+      "259.49",
+      "170.10",
+      "267.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DON JULIO 1942 … $35",
+    "bbox": [
+      "269.53",
+      "259.52",
+      "342.48",
+      "267.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 43% ABV *",
+    "bbox": [
+      "107.89",
+      "270.04",
+      "141.74",
+      "277.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MEXICAN BLUE AGAVE AÑEJO",
+    "bbox": [
+      "255.07",
+      "270.39",
+      "356.95",
+      "278.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RUM BARCELO IMPERIAL 30 ANNIVERSARY …",
+    "bbox": [
+      "416.54",
+      "269.04",
+      "557.89",
+      "277.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 40% ABV *",
+    "bbox": [
+      "288.68",
+      "280.93",
+      "323.35",
+      "287.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$29",
+    "bbox": [
+      "480.68",
+      "280.90",
+      "493.74",
+      "288.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "AGAVES",
+    "bbox": [
+      "112.36",
+      "287.38",
+      "137.25",
+      "295.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DOMINICAN REPUBLIC AGED RUM",
+    "bbox": [
+      "428.08",
+      "291.76",
+      "546.35",
+      "299.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RUM",
+    "bbox": [
+      "298.51",
+      "298.27",
+      "313.50",
+      "306.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 43%ABV *",
+    "bbox": [
+      "471.00",
+      "302.30",
+      "503.44",
+      "309.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "TOSBA … $17",
+    "bbox": [
+      "104.38",
+      "305.72",
+      "145.23",
+      "313.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MEZCAL ESPADIN AGAVE",
+    "bbox": [
+      "81.98",
+      "316.58",
+      "167.64",
+      "324.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ZACAPA NO.23 … $15",
+    "bbox": [
+      "272.34",
+      "316.61",
+      "339.68",
+      "324.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BARCELO IMPERIAL … $23",
+    "bbox": [
+      "445.81",
+      "319.66",
+      "528.61",
+      "327.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 48.15% ABV *",
+    "bbox": [
+      "104.06",
+      "327.12",
+      "145.56",
+      "334.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "GUATEMALA RON AÑEJO SOLERA",
+    "bbox": [
+      "250.00",
+      "327.48",
+      "362.03",
+      "335.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DOMINICAN REPUBLIC 6 YEARS OLD",
+    "bbox": [
+      "425.32",
+      "330.52",
+      "549.11",
+      "338.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 40%ABV *",
+    "bbox": [
+      "289.38",
+      "338.02",
+      "322.65",
+      "345.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 40% ABV *",
+    "bbox": [
+      "469.88",
+      "341.06",
+      "504.56",
+      "348.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "PATRON SILVER … $14",
+    "bbox": [
+      "90.44",
+      "344.47",
+      "159.17",
+      "352.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MEXICAN BLUE AGAVE",
+    "bbox": [
+      "85.79",
+      "355.33",
+      "163.83",
+      "363.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "PLANTATION … $14",
+    "bbox": [
+      "276.15",
+      "355.36",
+      "335.86",
+      "363.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "VODKA",
+    "bbox": [
+      "476.13",
+      "358.41",
+      "498.30",
+      "366.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 40 % abv *",
+    "bbox": [
+      "108.05",
+      "365.87",
+      "141.58",
+      "372.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BARBADOS SILVER",
+    "bbox": [
+      "274.24",
+      "366.23",
+      "337.79",
+      "374.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 41.2% *",
+    "bbox": [
+      "293.76",
+      "376.77",
+      "318.27",
+      "383.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Ô TITOS VODKA … C $14 M $16",
+    "bbox": [
+      "438.44",
+      "374.51",
+      "535.96",
+      "384.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "1800 CRISTALINO … $18",
+    "bbox": [
+      "86.79",
+      "383.23",
+      "162.83",
+      "391.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "AMERICAN VODKA",
+    "bbox": [
+      "455.31",
+      "387.61",
+      "519.12",
+      "395.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MEXICAN BLUE AGAVE AÑEJO",
+    "bbox": [
+      "73.87",
+      "394.09",
+      "175.75",
+      "402.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SANTA TERESA … $14",
+    "bbox": [
+      "272.76",
+      "394.11",
+      "339.25",
+      "402.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 40% ABV *",
+    "bbox": [
+      "469.88",
+      "398.15",
+      "504.56",
+      "405.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 40%ABV *",
+    "bbox": [
+      "108.18",
+      "404.63",
+      "141.44",
+      "411.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "VENEZUELA SOLERA RUM",
+    "bbox": [
+      "261.98",
+      "404.98",
+      "350.05",
+      "412.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 40% ABV *",
+    "bbox": [
+      "288.68",
+      "415.52",
+      "323.35",
+      "422.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DOUBLE CROSS … C$ 14 M$15",
+    "bbox": [
+      "439.88",
+      "415.50",
+      "534.53",
+      "423.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SLOVAK VODKA",
+    "bbox": [
+      "460.56",
+      "426.36",
+      "513.87",
+      "434.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 40% ABV *",
+    "bbox": [
+      "469.88",
+      "436.90",
+      "504.56",
+      "443.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BOURBON AND RYE",
+    "bbox": [
+      "236.89",
+      "456.66",
+      "375.11",
+      "469.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "WYOMING … $14",
+    "bbox": [
+      "98.53",
+      "479.95",
+      "151.08",
+      "487.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "GEORGE T. STAGG JR … $53",
+    "bbox": [
+      "262.45",
+      "479.95",
+      "349.57",
+      "487.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "OLD RIP VAN WINKLE … BLT $1300",
+    "bbox": [
+      "433.87",
+      "479.95",
+      "540.55",
+      "487.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SMALL BATCH",
+    "bbox": [
+      "100.78",
+      "490.82",
+      "148.84",
+      "498.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Kentucky Straight Bourbon Whiskey",
+    "bbox": [
+      "252.05",
+      "490.82",
+      "359.97",
+      "498.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "12 YEARS OLD BOURBON",
+    "bbox": [
+      "445.93",
+      "490.82",
+      "528.50",
+      "498.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 44% ABV *",
+    "bbox": [
+      "107.77",
+      "501.36",
+      "141.85",
+      "508.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 67.2% ABV *",
+    "bbox": [
+      "286.55",
+      "501.36",
+      "325.48",
+      "508.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 107 PROOF *",
+    "bbox": [
+      "466.63",
+      "501.36",
+      "507.81",
+      "508.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "NOBLE OAK … $14",
+    "bbox": [
+      "96.58",
+      "518.70",
+      "153.03",
+      "526.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "E.H. TAYLOR, JR. … BLT $450",
+    "bbox": [
+      "261.04",
+      "518.70",
+      "350.98",
+      "526.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "OLD RIP VAN WINKLE … BLT $1299",
+    "bbox": [
+      "433.93",
+      "518.70",
+      "540.48",
+      "526.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DOUBLE OAK BOURBON",
+    "bbox": [
+      "83.93",
+      "529.57",
+      "165.70",
+      "537.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SINGLE BARREL",
+    "bbox": [
+      "278.93",
+      "529.57",
+      "333.10",
+      "537.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "10 YEARS OLD BOURBON",
+    "bbox": [
+      "445.72",
+      "529.57",
+      "528.72",
+      "537.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 45% ABV *",
+    "bbox": [
+      "107.83",
+      "540.11",
+      "141.79",
+      "547.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 100 PROOF *",
+    "bbox": [
+      "285.03",
+      "540.11",
+      "327.00",
+      "547.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 107 PROOF *",
+    "bbox": [
+      "466.63",
+      "540.11",
+      "507.81",
+      "547.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "WOODFORD RESERVE BOURBON … $18",
+    "bbox": [
+      "64.67",
+      "557.46",
+      "184.95",
+      "565.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BLANTON'S GOLD EDITION … BLT $800",
+    "bbox": [
+      "245.69",
+      "557.46",
+      "366.32",
+      "565.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "OLD RIP VAN WINKLE … BLT $5299",
+    "bbox": [
+      "433.08",
+      "557.46",
+      "541.33",
+      "565.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "STRAIGHT BOURBON",
+    "bbox": [
+      "88.84",
+      "568.32",
+      "160.78",
+      "576.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "HIGH RYE BOURBON",
+    "bbox": [
+      "270.49",
+      "568.32",
+      "341.54",
+      "576.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "15 YEARS OLD BOURBON",
+    "bbox": [
+      "446.10",
+      "568.32",
+      "528.33",
+      "576.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 45.1%ABV *",
+    "bbox": [
+      "106.47",
+      "578.86",
+      "143.16",
+      "585.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 51% ABV *",
+    "bbox": [
+      "289.36",
+      "578.86",
+      "322.67",
+      "585.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 107 PROOF *",
+    "bbox": [
+      "466.63",
+      "578.86",
+      "507.81",
+      "585.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "E.H. TAYLOR, JR. … $21",
+    "bbox": [
+      "89.30",
+      "596.21",
+      "160.30",
+      "604.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BLANTON'S BLACK … BLT $900",
+    "bbox": [
+      "257.27",
+      "596.21",
+      "354.75",
+      "604.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "W.L. WELLER C.Y.P.B. … BLT $2399",
+    "bbox": [
+      "433.40",
+      "596.21",
+      "541.02",
+      "604.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SINGLE BARREL",
+    "bbox": [
+      "97.73",
+      "607.07",
+      "151.90",
+      "615.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Unfiltered, and Uncut Kentucky Straight Bourbon",
+    "bbox": [
+      "232.71",
+      "607.07",
+      "379.31",
+      "615.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Craft Your Perfect Bourbon",
+    "bbox": [
+      "447.51",
+      "607.07",
+      "526.93",
+      "615.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 50% ABV *",
+    "bbox": [
+      "107.53",
+      "617.62",
+      "142.09",
+      "624.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Whiskey",
+    "bbox": [
+      "293.15",
+      "617.96",
+      "318.87",
+      "625.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 45%ABV *",
+    "bbox": [
+      "470.95",
+      "617.62",
+      "503.49",
+      "624.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 40% ABV *",
+    "bbox": [
+      "288.68",
+      "628.51",
+      "323.35",
+      "635.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BLANTON'S SINGLE BARREL … $18",
+    "bbox": [
+      "71.95",
+      "634.96",
+      "177.66",
+      "642.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "EAGLE RARE … BLT $4999",
+    "bbox": [
+      "446.45",
+      "634.96",
+      "527.96",
+      "642.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SINGLE BARREL",
+    "bbox": [
+      "97.73",
+      "645.83",
+      "151.90",
+      "653.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "WILLIAM LARUE WELLER … BLT $2999",
+    "bbox": [
+      "247.09",
+      "645.85",
+      "364.92",
+      "653.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "17 YEARS OLD",
+    "bbox": [
+      "464.51",
+      "645.83",
+      "509.92",
+      "653.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 46% ABV *",
+    "bbox": [
+      "107.75",
+      "656.37",
+      "141.88",
+      "663.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BOURBON BARREL PROOF",
+    "bbox": [
+      "261.76",
+      "656.72",
+      "350.27",
+      "664.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 50.5%ABV *",
+    "bbox": [
+      "468.31",
+      "656.37",
+      "506.13",
+      "663.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "*  67.25% ABV *",
+    "bbox": [
+      "284.34",
+      "667.26",
+      "327.69",
+      "674.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "NOBLE OAK RYE … C$14 M$15",
+    "bbox": [
+      "78.18",
+      "673.72",
+      "171.42",
+      "681.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DOUBLE OAK RYE",
+    "bbox": [
+      "94.88",
+      "684.58",
+      "154.75",
+      "692.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "GEORGE T. STAGG BTL … $1999",
+    "bbox": [
+      "256.68",
+      "684.60",
+      "355.33",
+      "692.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 48% ABV *",
+    "bbox": [
+      "107.64",
+      "695.12",
+      "141.98",
+      "702.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Kentucky Straight Bourbon Whiskey",
+    "bbox": [
+      "252.05",
+      "695.47",
+      "359.97",
+      "703.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "* 62.5% ABV *",
+    "bbox": [
+      "286.51",
+      "706.01",
+      "325.52",
+      "713.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "SCOTCHES AND SINGLE MALTS",
+    "bbox": [
+      "204.73",
+      "62.05",
+      "407.25",
+      "74.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "ABERLOUR 12YR DOUBLE CASK … $14",
+    "bbox": [
+      "111.29",
+      "100.88",
+      "228.90",
+      "108.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "LAPHROAIG 10YR … $16",
+    "bbox": [
+      "404.52",
+      "100.88",
+      "479.26",
+      "108.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "The 12 year-old expression is a fine example of how the distinctively crisp, citrus",
+    "bbox": [
+      "54.34",
+      "111.75",
+      "285.86",
+      "119.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "The smoke from the unique Islay peat gives Laphroaig its particular rich flavor.",
+    "bbox": [
+      "326.58",
+      "111.75",
+      "557.22",
+      "119.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "character of Aberlour’s new distillate is deftly softened by double cask maturation.",
+    "bbox": [
+      "51.65",
+      "122.64",
+      "288.55",
+      "130.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "This peated whisky is renowned for its bold, smoky taste, followed by a hint of",
+    "bbox": [
+      "329.58",
+      "122.64",
+      "554.22",
+      "130.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Traditional Oak and seasoned Sherry butts are both used to great effect, as the",
+    "bbox": [
+      "56.81",
+      "133.53",
+      "283.39",
+      "141.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "seaweed and a surprising sweetness. Full-bodied with a long finish, it truly",
+    "bbox": [
+      "333.23",
+      "133.53",
+      "550.57",
+      "141.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "mellowed spirits within are combined to deliver a subtly balanced flavour",
+    "bbox": [
+      "63.64",
+      "144.42",
+      "276.56",
+      "152.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "embodies the quintessential Laphroaig character.",
+    "bbox": [
+      "370.28",
+      "144.42",
+      "513.52",
+      "152.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "* SPEYSIDE 40%ABV  *",
+    "bbox": [
+      "136.67",
+      "154.96",
+      "203.53",
+      "161.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "* ISLAY 40% ABV *",
+    "bbox": [
+      "415.06",
+      "154.96",
+      "468.74",
+      "161.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "GLENFIDDICH 12 YEAR OLD … $18",
+    "bbox": [
+      "118.37",
+      "174.47",
+      "221.82",
+      "182.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "GLENLIVET 12 YEAR OLD … $15",
+    "bbox": [
+      "394.93",
+      "174.47",
+      "488.86",
+      "182.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Fresh fruit, soft oak, and butterscotch. Creamy with a long, smooth and mellow",
+    "bbox": [
+      "55.16",
+      "185.33",
+      "285.04",
+      "193.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "This whisky is smooth, fruity, complex, sophisticated, entertaining, classic. The",
+    "bbox": [
+      "326.97",
+      "185.33",
+      "556.83",
+      "193.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "finish, our 12 Year Old is the perfect example of Glenfiddich’s unique Speyside",
+    "bbox": [
+      "57.36",
+      "196.22",
+      "282.84",
+      "204.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "mineral-rich water that comes from Josie’s Well helps form the flavours during",
+    "bbox": [
+      "327.80",
+      "196.22",
+      "556.00",
+      "204.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "style and is widely proclaimed the best dram in the valley.",
+    "bbox": [
+      "86.04",
+      "207.11",
+      "254.16",
+      "215.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "mashing and fermentation, whilst the specific height and width of the copper stills",
+    "bbox": [
+      "322.66",
+      "207.11",
+      "561.14",
+      "215.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "* SPEYSIDE 40% ABV  *",
+    "bbox": [
+      "135.96",
+      "217.66",
+      "204.24",
+      "224.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "add a delicate yet complex character.",
+    "bbox": [
+      "388.45",
+      "218.00",
+      "495.35",
+      "226.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "* SPEYSIDE 40%ABV *",
+    "bbox": [
+      "409.18",
+      "228.55",
+      "474.62",
+      "235.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "GLENFIDDICH 15YR … $25",
+    "bbox": [
+      "129.26",
+      "237.16",
+      "210.92",
+      "245.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "European oak sherry and American oak casks imbue our whisky with aromas and",
+    "bbox": [
+      "51.24",
+      "248.03",
+      "288.96",
+      "256.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MACALLAN 12 YEAR OLD … $18",
+    "bbox": [
+      "394.11",
+      "248.05",
+      "489.68",
+      "256.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "flavours. It is then harmonised by the magic of our Solera Vat process, adding",
+    "bbox": [
+      "57.36",
+      "258.92",
+      "282.84",
+      "266.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "The Macallan Double Cask 12 Years Old forms part of our Double Cask range",
+    "bbox": [
+      "329.16",
+      "258.92",
+      "554.64",
+      "266.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "complex layers of warm spice, honey and rich fruit flavours",
+    "bbox": [
+      "84.26",
+      "269.81",
+      "255.94",
+      "277.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "which marries the classic Macallan style and the unmistakable sweetness of",
+    "bbox": [
+      "332.04",
+      "269.81",
+      "551.76",
+      "277.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "* SPEYSIDE 40% ABV *",
+    "bbox": [
+      "136.67",
+      "280.35",
+      "203.53",
+      "287.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "American oak. This is a fully rounded single malt in perfect balance, with flavors",
+    "bbox": [
+      "324.84",
+      "280.70",
+      "558.96",
+      "288.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "of honey, citrus and ginger.",
+    "bbox": [
+      "402.17",
+      "291.59",
+      "481.63",
+      "299.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "DALMORE 12 YEARS OLD … $18",
+    "bbox": [
+      "122.30",
+      "299.86",
+      "217.89",
+      "307.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "* HIGHLANDS 43%ABV *",
+    "bbox": [
+      "405.47",
+      "302.13",
+      "478.33",
+      "309.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "The Dalmore 12 is recognized as a whisky with character far beyond its age. The",
+    "bbox": [
+      "54.10",
+      "310.72",
+      "286.10",
+      "318.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "spirit is initially matured in American white oak ex-Bourbon casks, yielding soft",
+    "bbox": [
+      "53.39",
+      "321.61",
+      "286.81",
+      "329.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MACALLAN 18 YEAR OLD … $48",
+    "bbox": [
+      "393.22",
+      "321.64",
+      "490.56",
+      "329.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "vanilla and honey notes. A proportion of the spirit is then finessed in pinnacle",
+    "bbox": [
+      "57.77",
+      "332.50",
+      "282.43",
+      "340.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "The Macallan Sherry Oak 18 Years Old forms part of our Sherry Oak range which",
+    "bbox": [
+      "322.80",
+      "332.50",
+      "561.00",
+      "340.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Sherry casks, including 30-Year Old Matusalem Oloroso casks, exclusive to The",
+    "bbox": [
+      "54.73",
+      "343.39",
+      "285.47",
+      "351.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "features a series of single malt whiskies matured exclusively in hand-picked",
+    "bbox": [
+      "332.34",
+      "343.39",
+      "551.46",
+      "351.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Dalmore, to give the whisky a rich, nutty character.",
+    "bbox": [
+      "95.26",
+      "354.28",
+      "244.94",
+      "362.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "sherry seasoned oak casks from Jerez for richness and complexity. A full bodied",
+    "bbox": [
+      "328.13",
+      "354.28",
+      "555.67",
+      "362.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "* HIGHLANDS 40%ABV *",
+    "bbox": [
+      "133.26",
+      "364.82",
+      "206.94",
+      "371.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "palate of mature oak, ginger and raisin flavors is complimented by a light",
+    "bbox": [
+      "334.92",
+      "365.17",
+      "548.88",
+      "373.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "mahogany natural color.",
+    "bbox": [
+      "405.52",
+      "376.06",
+      "478.28",
+      "384.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "OBAN 14 YEAR OLD … $20",
+    "bbox": [
+      "129.54",
+      "384.33",
+      "210.65",
+      "392.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "* HIGHLANDS 43%ABV *",
+    "bbox": [
+      "405.47",
+      "386.60",
+      "478.33",
+      "393.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "For over 200 years, we have welcomed our guests with a dram of whisky - but for",
+    "bbox": [
+      "53.15",
+      "395.19",
+      "287.05",
+      "403.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "the past year, we have missed the many visitors-turned-family who pass through",
+    "bbox": [
+      "52.68",
+      "406.08",
+      "287.52",
+      "414.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "YAMAZAKI 12 YEARS OLD … $42",
+    "bbox": [
+      "391.96",
+      "406.11",
+      "491.82",
+      "414.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "town. OBAN 14 Years Old shows Flavours of rich fruits, smoky dryness, honeyed",
+    "bbox": [
+      "53.61",
+      "416.97",
+      "286.59",
+      "424.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Yamazaki Whisky is Suntory's flagship single malt whisky, from Japan’s first",
+    "bbox": [
+      "329.00",
+      "416.97",
+      "554.80",
+      "424.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "spice, and a whiff of sea salt distinguish this full-bodied Highland malt.",
+    "bbox": [
+      "65.68",
+      "427.86",
+      "274.52",
+      "435.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "and oldest malt distillery, multi-layered with fruit and Mizunara aromas. Pure",
+    "bbox": [
+      "326.51",
+      "427.86",
+      "557.29",
+      "435.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "* WEST HIGHLANDS 43% ABV *",
+    "bbox": [
+      "123.16",
+      "438.40",
+      "217.04",
+      "445.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "gold reflexions, follow by peach, pineapple, grapefruit, clove, candied orange,",
+    "bbox": [
+      "330.37",
+      "438.75",
+      "553.43",
+      "446.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "vanilla and Mizunara (Japanese oak) aromas. on the palate Yamazaki shows",
+    "bbox": [
+      "329.56",
+      "449.64",
+      "554.24",
+      "457.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "JOHNNY WALKER BLACK 12 YEARS OLD … $18",
+    "bbox": [
+      "99.94",
+      "457.91",
+      "240.25",
+      "465.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Flavors of Coconut, cranberry, butter and Finish Sweet ginger, cinnamon, long",
+    "bbox": [
+      "327.28",
+      "460.53",
+      "556.52",
+      "468.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Johnnie Walker Black Label is a true icon, recognized as the benchmark for all",
+    "bbox": [
+      "56.76",
+      "468.78",
+      "283.44",
+      "476.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "finish.",
+    "bbox": [
+      "432.52",
+      "471.42",
+      "451.28",
+      "479.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "other deluxe blends. Created using only whiskies aged for a minimum of 12 years",
+    "bbox": [
+      "52.83",
+      "479.67",
+      "287.37",
+      "487.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "* JAPAN 43% ABV *",
+    "bbox": [
+      "414.63",
+      "481.96",
+      "469.17",
+      "488.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "from the four corners of Scotland, Johnnie Walker Black Label has an",
+    "bbox": [
+      "69.57",
+      "490.56",
+      "270.63",
+      "498.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "unmistakably smooth, deep character. This is the world’s leading premium Scotch",
+    "bbox": [
+      "51.26",
+      "501.45",
+      "288.94",
+      "509.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "YAMAZAKI 18 YEARS OLD BTL … $1799",
+    "bbox": [
+      "382.34",
+      "501.47",
+      "501.44",
+      "509.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Whisky with a multi-dimensional taste that makes it really versatile: the flavors",
+    "bbox": [
+      "53.52",
+      "512.34",
+      "286.68",
+      "520.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Yamazaki 18 doesn’t really exist any more. Like all of the other age-stated",
+    "bbox": [
+      "335.50",
+      "512.34",
+      "548.30",
+      "520.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "of rich fruits, vanilla and smoke shine through whether served on the rocks or",
+    "bbox": [
+      "58.36",
+      "523.23",
+      "281.84",
+      "531.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Japanese whiskies it’s pretty much done for and the only way to really find a bottle",
+    "bbox": [
+      "322.78",
+      "523.23",
+      "561.02",
+      "531.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "mixed with soda in a highball.",
+    "bbox": [
+      "125.49",
+      "534.12",
+      "214.71",
+      "542.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "is via an auction, high-priced specialty store or a private seller. It’s aged for at",
+    "bbox": [
+      "329.40",
+      "534.12",
+      "554.40",
+      "542.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "* BLEND SPEYSIDE AND HIGHLANDS 40%ABV *",
+    "bbox": [
+      "97.84",
+      "544.66",
+      "242.36",
+      "551.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "least 18 years in ex-bourbon casks, ex-sherry casks and Mizunara casks. Rich",
+    "bbox": [
+      "329.91",
+      "545.01",
+      "553.89",
+      "553.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "fruit, soft warm pastries, buttery caramel, vanilla, malt, spice and a touch of oak",
+    "bbox": [
+      "325.16",
+      "555.90",
+      "558.64",
+      "563.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "JOHNNIE WALKER BLUE … $38",
+    "bbox": [
+      "123.07",
+      "564.16",
+      "217.12",
+      "572.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "and ash. This is a lovely aroma. The palate keeps the rich full theme moving along",
+    "bbox": [
+      "322.86",
+      "566.79",
+      "560.94",
+      "574.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Johnnie Walker Blue Label is an unrivaled masterpiece – an exquisite",
+    "bbox": [
+      "69.03",
+      "575.03",
+      "271.17",
+      "583.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "with notes of fruit, malt, char, dark sweets, vanilla, toasted grain, nuts and again",
+    "bbox": [
+      "323.78",
+      "577.68",
+      "560.02",
+      "585.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "combination of Scotland’s rarest and most exceptional whiskies. Only one in every",
+    "bbox": [
+      "50.98",
+      "585.92",
+      "289.22",
+      "593.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "a touch of oak but this time accompanied by some spice. Long fruity drawl i",
+    "bbox": [
+      "332.92",
+      "588.57",
+      "550.88",
+      "596.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "ten thousand casks has the elusive quality, character and flavor to deliver the",
+    "bbox": [
+      "58.73",
+      "596.81",
+      "281.47",
+      "604.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "* JAPAN 43% ABV *",
+    "bbox": [
+      "414.63",
+      "599.11",
+      "469.17",
+      "606.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "remarkable signature taste. An extraordinary whisky for extraordinary occasions.",
+    "bbox": [
+      "51.04",
+      "607.70",
+      "289.16",
+      "615.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Johnnie Walker Blue Label is inspired by Alexander Walker’s 1867 Old Highland",
+    "bbox": [
+      "52.16",
+      "618.59",
+      "288.04",
+      "626.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "HAKUSHU 12 YEARS OLD … $42",
+    "bbox": [
+      "392.44",
+      "618.61",
+      "491.35",
+      "626.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Whisky. It was at the forefront of an era when fewer casks were available and",
+    "bbox": [
+      "57.82",
+      "629.48",
+      "282.38",
+      "637.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "From Suntory’s mountain forest distillery, nestled deep in Mt. Kaikomagatake,",
+    "bbox": [
+      "327.37",
+      "629.47",
+      "556.43",
+      "637.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "quality cask selection was in its infancy.",
+    "bbox": [
+      "111.88",
+      "640.37",
+      "228.32",
+      "648.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Suntory Single Malt Whisky Hakushu is the fresh Peppermint, melon, cucumber",
+    "bbox": [
+      "324.31",
+      "640.36",
+      "559.49",
+      "648.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "* BLEND SPEYSIDE AND HIGHLANDS 40%ABV *",
+    "bbox": [
+      "97.84",
+      "650.91",
+      "242.36",
+      "657.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "and gently smoky single malt whisky with herbal notes, flavors of Yuzu,",
+    "bbox": [
+      "337.60",
+      "651.25",
+      "546.20",
+      "659.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "grapefruit, lemon thyme that is the revelation of Japanese single malts.",
+    "bbox": [
+      "339.05",
+      "662.14",
+      "544.75",
+      "670.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "* JAPAN 43% ABV *",
+    "bbox": [
+      "414.63",
+      "672.68",
+      "469.17",
+      "679.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "AAMMAARROOSS",
+    "bbox": [
+      "279.72",
+      "62.43",
+      "333.00",
+      "76.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "BRAULIO AMARO … $11",
+    "bbox": [
+      "133.78",
+      "88.62",
+      "206.41",
+      "96.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "AMARO MELETTI … $11",
+    "bbox": [
+      "407.10",
+      "88.62",
+      "476.69",
+      "96.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Tasting Notes Braulio is made in the true Alpine style from a venerated estate",
+    "bbox": [
+      "57.76",
+      "99.48",
+      "282.44",
+      "107.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "From the Famiglia Meletti of Le Marche on Italy's Adriatic side, this",
+    "bbox": [
+      "342.96",
+      "99.48",
+      "540.84",
+      "107.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "begun by Francesco Peloni over a century ago. Located in Valtellina, near the",
+    "bbox": [
+      "58.51",
+      "110.37",
+      "281.69",
+      "118.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "ample-bodied amaro counts locally sourced saffron and gentian as ingredients",
+    "bbox": [
+      "328.42",
+      "110.37",
+      "555.38",
+      "118.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "border with Switzerland, this amaro is made from a secret recipe of over 20",
+    "bbox": [
+      "61.29",
+      "121.26",
+      "278.91",
+      "129.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "and offers a lower Alcohol. Standing before a wall of Amari is daunting and",
+    "bbox": [
+      "332.26",
+      "121.26",
+      "551.54",
+      "129.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "mountain herbs and botanicals, which are gathered and used to create this",
+    "bbox": [
+      "61.86",
+      "132.15",
+      "278.34",
+      "140.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "exciting, regardless of your experience with these herbal, bittersweet digestives.",
+    "bbox": [
+      "327.55",
+      "132.15",
+      "556.25",
+      "140.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "one-of-a-kind spirit. Foresty, herbaceous, and piney, with a floral character and a",
+    "bbox": [
+      "51.82",
+      "143.04",
+      "288.38",
+      "151.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "With a nose of saffron, cola, bitter orange, chocolate, soft clove, and violet pastiglie",
+    "bbox": [
+      "322.74",
+      "143.04",
+      "561.06",
+      "151.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "distinct menthol note. Intense concentration with a touch of medicinal spice that",
+    "bbox": [
+      "53.63",
+      "153.93",
+      "286.57",
+      "161.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "this balanced and complex amaro is a perfect reminder of how sensuous an amaro",
+    "bbox": [
+      "323.06",
+      "153.93",
+      "560.74",
+      "161.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "speaks to the original purposes of these ancient potions.",
+    "bbox": [
+      "90.08",
+      "164.82",
+      "250.12",
+      "172.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "can be.",
+    "bbox": [
+      "431.74",
+      "164.82",
+      "452.06",
+      "172.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "* 21% ABV *",
+    "bbox": [
+      "153.29",
+      "175.36",
+      "186.91",
+      "182.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "* 32% ABV *",
+    "bbox": [
+      "424.88",
+      "175.36",
+      "458.92",
+      "182.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "AVERNA AMARO SICILIANO … $11",
+    "bbox": [
+      "118.44",
+      "194.87",
+      "221.75",
+      "202.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "AMARO FERNET BRANCA … $11",
+    "bbox": [
+      "394.20",
+      "194.87",
+      "489.59",
+      "202.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Made with pomegranate, bitter lemons, bitter oranges, flowers, fresh herbs, and",
+    "bbox": [
+      "54.50",
+      "205.73",
+      "285.70",
+      "213.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Fernet Branca is a bitter, aromatic spirit made from 27 herbs and spices,",
+    "bbox": [
+      "336.88",
+      "205.73",
+      "546.92",
+      "213.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "licorice, this rich-textured digestif will spice up your palate. In production since at",
+    "bbox": [
+      "51.52",
+      "216.62",
+      "288.68",
+      "224.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "including myrrh, rhubarb, chamomile, cardamom, aloe, and saffron, with a base",
+    "bbox": [
+      "324.21",
+      "216.62",
+      "559.59",
+      "224.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "least the early 1800s this is one of the classic Italian liqueurs. Averna has a",
+    "bbox": [
+      "61.77",
+      "227.51",
+      "278.43",
+      "235.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "of grape alcohol. It is usually served as a digestif after a meal, and can be enjoyed",
+    "bbox": [
+      "324.57",
+      "227.51",
+      "559.23",
+      "235.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "mouth-coating and bittersweet taste, carrying hints of orange and licorice,",
+    "bbox": [
+      "62.32",
+      "238.40",
+      "277.88",
+      "246.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "at room temperature or on the rocks.",
+    "bbox": [
+      "389.22",
+      "238.40",
+      "494.58",
+      "246.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "balanced with notes of myrtle, juniper berries, rosemary, and sage. It stimulates",
+    "bbox": [
+      "54.12",
+      "249.29",
+      "286.08",
+      "257.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "* 39% ABV *",
+    "bbox": [
+      "424.95",
+      "248.94",
+      "458.85",
+      "255.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "the senses, instantly transporting you to the island, and making Averna not just",
+    "bbox": [
+      "54.14",
+      "260.18",
+      "286.06",
+      "268.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "an amaro, but an authentic Sicilian experience.",
+    "bbox": [
+      "100.82",
+      "271.07",
+      "239.38",
+      "279.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "AMARO NONNINO … $20",
+    "bbox": [
+      "403.03",
+      "268.45",
+      "480.76",
+      "276.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "* 29% ABV *",
+    "bbox": [
+      "152.94",
+      "281.61",
+      "187.26",
+      "288.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Amaro Nonino is a perfect step one. Made from a base of grappa and infused with",
+    "bbox": [
+      "323.62",
+      "279.32",
+      "560.18",
+      "287.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "alpine herbs and botanicals, it's a less aggressively sweet, syrupy, and bitter style",
+    "bbox": [
+      "324.61",
+      "290.21",
+      "559.19",
+      "298.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "AMARO MONTENEGRO … $11",
+    "bbox": [
+      "125.89",
+      "301.12",
+      "214.30",
+      "309.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "of amaro. With herbal and orange notes, it's smooth and sweet upfront and",
+    "bbox": [
+      "332.85",
+      "301.10",
+      "550.95",
+      "309.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Amaro Montenegro, \"the liqueur of the virtues,\" stands as the first Italian herbal",
+    "bbox": [
+      "53.85",
+      "311.99",
+      "286.35",
+      "319.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "finishes mildly and pleasantly bitter. Excellent as either an aperitif or a digestif,",
+    "bbox": [
+      "325.75",
+      "311.99",
+      "558.05",
+      "319.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "liqueur. Born into Mediterranean tradition, it uses a distinct soaking and",
+    "bbox": [
+      "63.54",
+      "322.88",
+      "276.66",
+      "330.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "serve it on the rocks, add it to some seltzer with a splash of grapefruit juice, or with",
+    "bbox": [
+      "322.70",
+      "322.88",
+      "561.10",
+      "330.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "distillation process, which results in a liqueur that is sweet in taste with a slightly",
+    "bbox": [
+      "51.90",
+      "333.77",
+      "288.30",
+      "341.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "sweet vermouth and an orange peel.",
+    "bbox": [
+      "389.73",
+      "333.77",
+      "494.07",
+      "341.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "bitter finish.",
+    "bbox": [
+      "151.98",
+      "344.66",
+      "188.22",
+      "352.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "* 35% ABV *",
+    "bbox": [
+      "425.03",
+      "344.31",
+      "458.77",
+      "351.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "* 23% ABV *",
+    "bbox": [
+      "153.08",
+      "355.20",
+      "187.12",
+      "362.20"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]
