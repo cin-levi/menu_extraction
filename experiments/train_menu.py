@@ -75,7 +75,7 @@ def train_full_data(data_dir, output_folder):
                   override_cache=True,
                   report_name=f'menu_v1_test_stable' + training_mode,
                   training_mode=training_mode,
-                  neptune_credential=fastqa_credential
+                  # neptune_credential=fastqa_credential
                   )
 
 
