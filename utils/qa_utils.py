@@ -1235,7 +1235,7 @@ def ner_evaluate_by_char(ner_predictions, examples, question_list):
                     if ca['answer_start'] <= pred['answer_start'] < ca['answer_start'] + \
                             len(ca['text'].strip().split()) or pred['answer_start'] <= ca['answer_start'] < \
                             pred['answer_start'] + len(pred['text'].strip().split()):
-                        match = SequenceMatcher(None, ca['text'], pred['text']).find_longest_match()
+                        match = SequenceMatcher(None, ca['text'], pred['text']).find_longest_match(alo=0, ahi=None, blo=0, bhi=None)
                         match_len = match.size
                         tp = match_len / len(pred['text'])
                         assert tp > 0
