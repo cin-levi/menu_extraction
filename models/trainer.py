@@ -23,6 +23,7 @@ class Trainer(object):
     def __init__(self, pretrained_path, tokenizer_name, all_labels, max_seq_len=384, doc_stride=128, max_ans_len=60,
                  embedding_from_encoder=False, use_multiple_attention=False, version='v1'):
         if version == 'v1':
+            print(f"Load ding the model from {pretrained_path} ....")
             self.model = NERLayoutLM.from_pretrained(pretrained_path, num_question=len(all_labels),
                                                      max_seq_len=max_seq_len, init_embedding=None,
                                                      use_multiple_attention=use_multiple_attention,
@@ -218,6 +219,8 @@ class Trainer(object):
                                                                        test_examples)
 
         (macro_ner, micro_ner, ner_detail) = self.processor.ner_evaluate_by_field(ner_predictions, test_examples)
+        (macro_ner_char, micro_ner_char, ner_detail_char) = self.processor.ner_evaluate_by_char(ner_predictions,
+                                                                                                test_examples)
 
         nbest_to_save = {id: [{'text': x['text'], 'probability': x['probability']} for x in nbest_predictions[id]] for
                          id in nbest_predictions}
@@ -245,7 +248,7 @@ class Trainer(object):
             nathan_score = evaluation_function(ca_data, result)
             squad_acc_dict.update(nathan_score)
 
-        return squad_acc_dict, macro_ner, micro_ner, ner_detail
+        return squad_acc_dict, macro_ner, micro_ner, ner_detail, micro_ner_char, ner_detail_char
 
     def save(self, path_dir):
         self.model.save_pretrained(path_dir)
@@ -323,10 +326,11 @@ class Trainer(object):
                               'training_time': str(training_time),
                               'train_loss': str(train_loss)}
             infer_now = datetime.datetime.now()
-            squad_acc_dict, macro_ner, micro_ner, ner_detail = self.evaluate(test_dataloader, test_features,
-                                                                             test_examples,
-                                                                             i, training_mode,
-                                                                             evaluation_function, ca_data)
+            squad_acc_dict, macro_ner, micro_ner, ner_detail, micro_ner_char, ner_detail_char = self.evaluate(
+                test_dataloader, test_features,
+                test_examples,
+                i, training_mode,
+                evaluation_function, ca_data)
             report_dict[i].update(squad_acc_dict)
             report_dict[i].update(macro_ner)
             report_dict[i].update(micro_ner)
@@ -338,6 +342,9 @@ class Trainer(object):
             print("Detailed NER report: ")
             for x in ner_detail:
                 print(f"{x}\tP: {ner_detail[x]['p']}\tR: {ner_detail[x]['r']}\tF: {ner_detail[x]['f']}")
+            print("Detailed NER char report: ")
+            for x in ner_detail_char:
+                print(f"{x}_by_char\tP: {ner_detail_char[x]['p']}\tR: {ner_detail_char[x]['r']}\tF: {ner_detail_char[x]['f']}")
             f1 = report_dict[i]['f1']
 
             with open(report_file, 'w', encoding='utf-8') as f:
@@ -361,4 +368,3 @@ class Trainer(object):
                 print("save check point ...")
                 self.save(output_dir + f'/model_epoch_{i}')
         return report_dict
-

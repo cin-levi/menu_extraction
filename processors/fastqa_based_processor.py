@@ -26,7 +26,7 @@ from utils.qa_utils import (
     squad_evaluate,
     fastqa_compute_predictions_logits,
     ner_compute_predictions_logits,
-    ner_evaluate,
+    ner_evaluate, ner_evaluate_by_char,
     combine_ner_and_QA_result
 )
 
@@ -609,6 +609,9 @@ class CustomProcessor(Processor):
 
     def ner_evaluate_by_field(self, predictions, examples) -> Dict[str, Any]:
         return ner_evaluate(predictions, examples, self.question_list)
+
+    def ner_evaluate_by_char(self, predictions, examples) -> Dict[str, Any]:
+        return ner_evaluate_by_char(predictions, examples, self.question_list)
 
     def compute_ner_predictions(
             self,

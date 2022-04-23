@@ -220,14 +220,14 @@
       {
         "w\r\n": [
           {
-            "text": "glera bisol prosecco (it",
+            "text": "glera bisol prosecco (it)",
             "answer_start": 0
           }
         ],
         "p\r\n": [
           {
-            "text": ") 1",
-            "answer_start": 24
+            "text": "14",
+            "answer_start": 26
           }
         ]
       }
@@ -497,20 +497,20 @@
       {
         "w": [
           {
-            "text": "dolcetto chionetti briccoler",
+            "text": "dolcetto chionetti briccolero",
             "answer_start": 0
           }
         ],
         "p": [
           {
-            "text": ") 1",
-            "answer_start": 38
+            "text": "15",
+            "answer_start": 40
           }
         ],
         "v": [
           {
-            "text": "o 201",
-            "answer_start": 28
+            "text": "2013",
+            "answer_start": 30
           }
         ]
       }
@@ -742,14 +742,14 @@
         ],
         "v": [
           {
-            "text": "n",
-            "answer_start": 38
+            "text": "nv",
+            "answer_start": 39
           }
         ],
         "p": [
           {
-            "text": "v 7",
-            "answer_start": 40
+            "text": "75",
+            "answer_start": 42
           }
         ]
       }
@@ -1255,20 +1255,20 @@
       {
         "w": [
           {
-            "text": "listan blanco suertes de marques vidoni",
+            "text": "listan blanco suertes de marques vidonia",
             "answer_start": 0
           }
         ],
         "v": [
           {
-            "text": "a 202",
-            "answer_start": 39
+            "text": "2020",
+            "answer_start": 41
           }
         ],
         "p": [
           {
-            "text": "0 7",
-            "answer_start": 44
+            "text": "75",
+            "answer_start": 46
           }
         ]
       }
@@ -1539,20 +1539,20 @@
       {
         "w": [
           {
-            "text": "montepulciano colle florido lalena rosat",
+            "text": "montepulciano colle florido lalena rosato",
             "answer_start": 0
           }
         ],
         "v": [
           {
-            "text": "o 202",
-            "answer_start": 40
+            "text": "2020",
+            "answer_start": 42
           }
         ],
         "p": [
           {
-            "text": "0 6",
-            "answer_start": 45
+            "text": "65",
+            "answer_start": 47
           }
         ]
       }
@@ -1584,20 +1584,20 @@
       {
         "w": [
           {
-            "text": "cabernet franc terrasse",
+            "text": "cabernet franc terrassen",
             "answer_start": 0
           }
         ],
         "v": [
           {
-            "text": "n 201",
-            "answer_start": 23
+            "text": "2018",
+            "answer_start": 25
           }
         ],
         "p": [
           {
-            "text": "8 5",
-            "answer_start": 28
+            "text": "55",
+            "answer_start": 30
           }
         ]
       }
@@ -1648,20 +1648,20 @@
       {
         "w": [
           {
-            "text": "cabernet franc aurélien revillot bourguei",
+            "text": "cabernet franc aurélien revillot bourgueil",
             "answer_start": 0
           }
         ],
         "v": [
           {
-            "text": "l 201",
-            "answer_start": 41
+            "text": "2017",
+            "answer_start": 43
           }
         ],
         "p": [
           {
-            "text": "7 5",
-            "answer_start": 46
+            "text": "55",
+            "answer_start": 48
           }
         ]
       }
@@ -1680,20 +1680,20 @@
       {
         "w": [
           {
-            "text": "teroldego foradori vigneti delle dolomit",
+            "text": "teroldego foradori vigneti delle dolomiti",
             "answer_start": 0
           }
         ],
         "v": [
           {
-            "text": "i 202",
-            "answer_start": 40
+            "text": "2020",
+            "answer_start": 42
           }
         ],
         "p": [
           {
-            "text": "0 6",
-            "answer_start": 45
+            "text": "65",
+            "answer_start": 47
           }
         ]
       }
@@ -1808,20 +1808,20 @@
       {
         "w": [
           {
-            "text": "syrah jolie-laide north coas",
+            "text": "syrah jolie-laide north coast",
             "answer_start": 0
           }
         ],
         "v": [
           {
-            "text": "t 201",
-            "answer_start": 28
+            "text": "2019",
+            "answer_start": 30
           }
         ],
         "p": [
           {
-            "text": "9 7",
-            "answer_start": 33
+            "text": "75",
+            "answer_start": 35
           }
         ]
       }
@@ -1872,20 +1872,20 @@
       {
         "w": [
           {
-            "text": "trousseau arnot-roberts north coas",
+            "text": "trousseau arnot-roberts north coast",
             "answer_start": 0
           }
         ],
         "v": [
           {
-            "text": "t 202",
-            "answer_start": 34
+            "text": "2020",
+            "answer_start": 36
           }
         ],
         "p": [
           {
-            "text": "0 7",
-            "answer_start": 39
+            "text": "75",
+            "answer_start": 41
           }
         ]
       }
@@ -2032,20 +2032,20 @@
       {
         "w": [
           {
-            "text": "nebbiolo brovia barol",
+            "text": "nebbiolo brovia barolo",
             "answer_start": 0
           }
         ],
         "v": [
           {
-            "text": "o 201",
-            "answer_start": 21
+            "text": "2017",
+            "answer_start": 23
           }
         ],
         "p": [
           {
-            "text": "7 9",
-            "answer_start": 26
+            "text": "99",
+            "answer_start": 28
           }
         ]
       }

@@ -195,7 +195,7 @@
       {
         "W": [
           {
-            "text": "TOSCANA GAJA CA’ MARCANDA “PROMIS,",
+            "text": "TOSCANA GAJA CA’ MARCANDA “PROMIS,”",
             "answer_start": 0
           }
         ]
@@ -611,14 +611,14 @@
       {
         "W": [
           {
-            "text": "France, 201",
+            "text": "France, 2016",
             "answer_start": 0
           }
         ],
         "V": [
           {
-            "text": "201",
-            "answer_start": 7
+            "text": "2016",
+            "answer_start": 8
           }
         ]
       }
@@ -1109,7 +1109,7 @@
       {
         "P": [
           {
-            "text": "29 | 11",
+            "text": "29 | 116",
             "answer_start": 0
           }
         ]
@@ -1248,7 +1248,7 @@
       {
         "P": [
           {
-            "text": "16 | 6",
+            "text": "16 | 64",
             "answer_start": 0
           }
         ]
@@ -1578,7 +1578,7 @@
       {
         "P": [
           {
-            "text": "16 | 6",
+            "text": "16 | 64",
             "answer_start": 0
           }
         ]
@@ -1710,7 +1710,7 @@
       {
         "P": [
           {
-            "text": "22 | 8",
+            "text": "22 | 88",
             "answer_start": 0
           }
         ]
@@ -1908,7 +1908,7 @@
       {
         "P": [
           {
-            "text": "15 | 6",
+            "text": "15 | 60",
             "answer_start": 0
           }
         ]
@@ -1974,7 +1974,7 @@
       {
         "P": [
           {
-            "text": "18 | 7",
+            "text": "18 | 72",
             "answer_start": 0
           }
         ]
@@ -2379,7 +2379,7 @@
       {
         "P": [
           {
-            "text": "19 | 7",
+            "text": "19 | 76",
             "answer_start": 0
           }
         ]
@@ -2577,7 +2577,7 @@
       {
         "P": [
           {
-            "text": "21 | 8",
+            "text": "21 | 84",
             "answer_start": 0
           }
         ]
@@ -2722,7 +2722,7 @@
       {
         "P": [
           {
-            "text": "16 | 6",
+            "text": "16 | 64",
             "answer_start": 0
           }
         ]
@@ -3118,7 +3118,7 @@
       {
         "P": [
           {
-            "text": "18 | 7",
+            "text": "18 | 72",
             "answer_start": 0
           }
         ]

@@ -637,7 +637,6 @@ def normalqa_compute_predictions_logits(  # noqa: C901
                 final_text = get_final_text(tok_text, orig_text, do_lower_case, verbose_logging)
                 position = example.positions[orig_doc_start: (orig_doc_end + 1)]
 
-
                 seen_predictions[final_text] = True
             else:
                 final_text = ""
@@ -650,14 +649,15 @@ def normalqa_compute_predictions_logits(  # noqa: C901
                     text=final_text,
                     start_logit=pred.start_logit,
                     end_logit=pred.end_logit,
-                    start= orig_doc_start,
-                    position = position
+                    start=orig_doc_start,
+                    position=position
                 )
             )
         # if we didn't include the empty option in the n-best, include it
         if version_2_with_negative:
             if "" not in seen_predictions:
-                nbest.append(_NbestPrediction(text="", start_logit=null_start_logit, end_logit=null_end_logit, start=null_start))
+                nbest.append(
+                    _NbestPrediction(text="", start_logit=null_start_logit, end_logit=null_end_logit, start=null_start))
 
             # In very rare edge cases we could only have single null prediction.
             # So we just create a nonce prediction in this case to avoid failure.
@@ -879,24 +879,26 @@ def fastqa_compute_predictions_logits(  # noqa: C901
                         start_logit=pred.start_logit,
                         end_logit=pred.end_logit,
                         start=orig_doc_start,
-                        position = position
+                        position=position
                     )
                 )
             # if we didn't include the empty option in the n-best, include it
             if version_2_with_negative:
                 if "" not in seen_predictions:
                     nbest.append(_NbestPrediction(text="", start_logit=null_start_logit, end_logit=null_end_logit,
-                                                  start=null_start, position= []))
+                                                  start=null_start, position=[]))
 
                 # In very rare edge cases we could only have single null prediction.
                 # So we just create a nonce prediction in this case to avoid failure.
                 if len(nbest) == 1:
-                    nbest.insert(0, _NbestPrediction(text="empty", start_logit=0.0, end_logit=0.0, start=null_start, position= []))
+                    nbest.insert(0, _NbestPrediction(text="empty", start_logit=0.0, end_logit=0.0, start=null_start,
+                                                     position=[]))
 
             # In very rare edge cases we could have no valid predictions. So we
             # just create a nonce prediction in this case to avoid failure.
             if not nbest:
-                nbest.append(_NbestPrediction(text="empty", start_logit=0.0, end_logit=0.0, start=null_start, position= []))
+                nbest.append(
+                    _NbestPrediction(text="empty", start_logit=0.0, end_logit=0.0, start=null_start, position=[]))
 
             assert len(nbest) >= 1
 
@@ -1198,6 +1200,107 @@ def combine_ner_and_QA_result(ner_predictions, qa_results, test_examples):
     return ner_predictions
 
 
+from difflib import SequenceMatcher
+
+
+def ner_evaluate_by_char(ner_predictions, examples, question_list):
+    # calculate ner by field
+    id_to_example = {example.uid: example for example in examples}
+    confusion_matrix = {question: {'tp': 0, 'fn': 0, 'fp': 0, 'support': 0} for question in question_list}
+    for id in id_to_example:
+        example = id_to_example[id]
+        char_to_word_offset = example.char_to_word_offset
+        example_predictions = ner_predictions[id]
+        questions = example.question_texts
+        for i in range(len(questions)):
+            question = questions[i]
+            gt = []
+            for answer in example.answers[i]:
+                gt.append({'answer_start': char_to_word_offset[answer['answer_start']], 'text': answer['text']})
+            preds = [{'answer_start': x['start'], 'text': x['text']} for x in example_predictions if
+                     x['entity_type'] == question]
+            # Remove duplication here
+
+            new_preds = []
+            for p in preds:
+                if p not in new_preds:
+                    new_preds.append(p)
+            preds = new_preds
+            # Check the overlap here
+
+            for pred in preds:
+                # Check if there is any overlapped section
+                pred_match_found = False
+                for ca in gt:
+                    if ca['answer_start'] <= pred['answer_start'] < ca['answer_start'] + \
+                            len(ca['text'].strip().split()) or pred['answer_start'] <= ca['answer_start'] < \
+                            pred['answer_start'] + len(pred['text'].strip().split()):
+                        match = SequenceMatcher(None, ca['text'], pred['text']).find_longest_match()
+                        match_len = match.size
+                        tp = match_len / len(pred['text'])
+                        assert tp > 0
+                        fp = 1 - tp
+                        confusion_matrix[question]['tp'] += tp
+                        confusion_matrix[question]['fp'] += fp
+                        fn = 1 - match_len / len(ca['text'])
+                        confusion_matrix[question]['fn'] += fn
+                        pred_match_found = True
+                        pass
+                if not pred_match_found:
+                    confusion_matrix[question]['fp'] += 1
+            for ca in gt:
+                ca_match_found = False
+                confusion_matrix[question]['support'] += 1
+                for pred in preds:
+                    if ca['answer_start'] <= pred['answer_start'] <= ca['answer_start'] + \
+                            len(ca['text'].strip().split()) or pred['answer_start'] <= ca['answer_start'] <= \
+                            pred['answer_start'] + len(pred['text'].strip().split()):
+                        ca_match_found = True
+                        break
+                if not ca_match_found:
+                    confusion_matrix[question]['fn'] += 1
+    # calculate accuracy by field
+    print("confusion_matrix: ", confusion_matrix)
+    for question in confusion_matrix:
+        p_denominator = confusion_matrix[question]['tp'] + confusion_matrix[question]['fp']
+        if confusion_matrix[question]['support'] == 0:
+            if p_denominator == 0:
+                confusion_matrix[question]['r'] = 1
+                confusion_matrix[question]['p'] = 1
+                confusion_matrix[question]['f'] = 1
+            else:
+                confusion_matrix[question]['r'] = 0
+                confusion_matrix[question]['p'] = 0
+                confusion_matrix[question]['f'] = 0
+        else:
+            r_denominator = confusion_matrix[question]['tp'] + confusion_matrix[question]['fn']
+            r = confusion_matrix[question]['tp'] / r_denominator
+            p = confusion_matrix[question]['tp'] / p_denominator if p_denominator != 0 else 0
+            confusion_matrix[question]['r'] = r
+            confusion_matrix[question]['p'] = p
+            confusion_matrix[question]['f'] = 2 * r * p / (r + p) if (r + p) != 0 else 0
+    # average macro
+    average = {x: sum([confusion_matrix[question][x] for question in question_list]) / len(question_list) for x in
+               ['r', 'p', 'f']}
+    macro = {'macro_ner_r': average['r'], 'macro_ner_p': average['p'], 'macro_ner_f1': average['f']}
+    # average micro
+    micro = {x: sum([confusion_matrix[question][x] for question in question_list]) for x in
+             ['tp', 'fp', 'fn', 'support']}
+    if micro['support'] == 0:
+        micro['micro_ner_r'] = -1
+        micro['micro_ner_p'] = -1
+        micro['micro_ner_f1'] = -1
+    else:
+        micro_p_denominator = micro['tp'] + micro['fp']
+        micro_r_denominator = micro['tp'] + micro['fn']
+        r = micro['tp'] / micro_r_denominator
+        p = micro['tp'] / micro_p_denominator if micro_p_denominator != 0 else 0
+        micro['micro_ner_r'] = r
+        micro['micro_ner_p'] = p
+        micro['micro_ner_f1'] = 2 * r * p / (r + p) if (r + p) != 0 else 0
+    return (macro, micro, confusion_matrix)
+
+
 def ner_evaluate(ner_predictions, examples, question_list):
     # calculate ner by field
     id_to_example = {example.uid: example for example in examples}
@@ -1212,7 +1315,14 @@ def ner_evaluate(ner_predictions, examples, question_list):
             gt = []
             for answer in example.answers[i]:
                 gt.append({'answer_start': char_to_word_offset[answer['answer_start']], 'text': answer['text']})
-            preds = [{'answer_start': x['start'], 'text': x['text']} for x in example_predictions if x['entity_type'] == question]
+            preds = [{'answer_start': x['start'], 'text': x['text']} for x in example_predictions if
+                     x['entity_type'] == question]
+            new_preds = []
+            for p in preds:
+                if p not in new_preds:
+                    new_preds.append(p)
+            preds = new_preds
+            # Remove duplication here
             for pred in preds:
                 if pred in gt:
                     confusion_matrix[question]['tp'] += 1

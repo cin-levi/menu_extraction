@@ -1,6 +1,7 @@
 from decimal import Decimal
 # for visualization
 from PIL import Image, ImageDraw
+import re
 
 ANNOTATORS = ['rio', 'melanie', 'Rio']
 OVERLAP_RATIO = Decimal(0.25)
@@ -33,8 +34,11 @@ def get_continuous_chars(char_indexes):
     return spans
 
 
+import re
+
+
 def add_annotation_to_line(line, annots, annotators):
-    no_blank_to_correct_char = {len(line.text[:i].replace(' ', '')): i for i in range(len(line.text))}
+    no_blank_to_correct_char = {len(re.sub('\s+', '', line.text[:i])): i for i in range(len(line.text))}
     for annot in annots:
         if annot['contents']:
             label = annot['contents']

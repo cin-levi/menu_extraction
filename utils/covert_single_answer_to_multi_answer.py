@@ -71,9 +71,9 @@ if __name__ == '__main__':
     # questions_path = 'D:\\FastQA\\data\\address\\question_list.json'
     # generate_question_list(data_path, questions_path)
     from processors import prj_path
-    original_train_data_file = prj_path + '/data\\train.json'
+    original_train_data_file = prj_path + '/data\\test.json'
     questions_path = prj_path + '/data\\question_list.json'
-    output_file = prj_path + '/data\\train.json'
+    output_file = prj_path + '/data\\test.json'
     with open(questions_path, 'r', encoding='utf-8') as f:
         question_dict = json.load(f)
     all_questions = sorted([x for x in question_dict])

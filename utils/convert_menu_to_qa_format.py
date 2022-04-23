@@ -24,11 +24,32 @@ def normalize_boxes(boxes):
     for box in boxes:
         box['bbox'] = [float(x) for x in box['bbox']]
         text = unidecode(box['text'].strip())
-        print("text:   ", text)
-        words = text.split()
+        # TODO: fix the error here (… -> ...)
+        mapping_error = False
+        mapping_dict = {}
+        if len(text) != len(box['text'].strip()):
+            mapping_error = True
+            text = ''
+            for i, char in enumerate(box['text'].strip()):
+                normalized_char = unidecode(char)
+                mapping_dict[i] = len(text)
+                text += normalized_char
+        # Remap the answer due to the conflict
+        if mapping_error:
+            for annotation in box['annots']:
+                if annotation is None:
+                    continue
+                for key in annotation:
+                    for answer in annotation[key]:
+                        answer['answer_start'] = mapping_dict[answer['answer_start']]
+                        answer['text'] = unidecode(answer['text'])
+                        assert text[answer['answer_start']:].startswith(answer['text'])
 
-        text = ' '.join(words)
+        # Lower all key
+        box['annots'] = [{k.lower(): x[k] for k in x} for x in box['annots'] if x is not None]
+
         # TODO: remove overlap between wine name and vintage
+        other_annots = []
         for annotation in box['annots']:
             if annotation is None:
                 continue
@@ -40,8 +61,15 @@ def normalize_boxes(boxes):
                                 if other_annotation['text'] in wine_annotation['text']:
                                     # if not wine_annotation['test'].strip().endswith(other_annotation['text'].strip()):
                                     #     another_wine
-                                    wine_annotation['text'] = wine_annotation['text'][:wine_annotation['text'].find(
-                                        other_annotation['text'])]
+                                    start = wine_annotation['text'].find(other_annotation['text'])
+                                    end = start + len(other_annotation['text'])
+                                    wine_annotation['text'] = wine_annotation['text'][:start]
+                                    # Check if other annotation is in the middle of the wine
+                                    posterious = wine_annotation['text'][end:].strip()
+                                    if len(posterious) > 0:
+                                        posterious_start = wine_annotation['text'].find(posterious)
+                                        assert posterious_start > start
+                                        annotation['w'].append({'text': posterious, 'answer_start': posterious_start})
 
         for annotation in box['annots']:
             if annotation:
@@ -49,7 +77,6 @@ def normalize_boxes(boxes):
                     for answer in annotation[label]:
                         if len(answer['text']) == 0:
                             continue
-                        label = label.lower()
                         if label in ['wine', 'ww']:
                             label = 'w'
                         elif label == 'vintage':
@@ -78,9 +105,30 @@ def normalize_boxes(boxes):
             full_text += ' '
         full_text += text
 
-        for i in range(len(words)):
-            start = len(' '.join(words[:i]))
-            end = len(' '.join(words[:i + 1]))
+        # TODO: split words here
+        _word = ''
+        _start = None
+        word_starts = []
+        word_ends = []
+        for i, char in enumerate(text):
+            if char == ' ':
+                if len(_word) > 0:
+                    word_starts.append(_start)
+                    word_ends.append(i)
+                _word = ''
+                _start = None
+            else:
+                if len(_word) == 0:
+                    _start = i
+                _word += char
+        if len(_word) > 0:
+            word_starts.append(_start)
+            word_ends.append(len(text))
+
+
+        for i in range(len(word_starts)):
+            start = word_starts[i]
+            end = word_ends[i]
             x0 = box['bbox'][0] + int((box['bbox'][2] - box['bbox'][0]) / len(text) * start)
             x1 = box['bbox'][0] + int((box['bbox'][2] - box['bbox'][0]) / len(text) * end)
             bboxes.append([x0, box['bbox'][1], x1, box['bbox'][3]])
@@ -136,7 +184,8 @@ def read_data(files):
                       }
                 for answer in labels[label]:
                     if final_text[answer['start']: answer['end']] != unidecode(answer['text']).lower():
-                        print("ERROR: ", f"{final_text[answer['start']: answer['end']]} || {answer['text']}")
+                        print("ERROR: ",
+                              f"{final_text[answer['start']: answer['end']]} || {unidecode(answer['text']).lower()}")
                         continue
                     qa['answers'].append({'answer_start': answer['start'],
                                           'text': final_text[answer['start']: answer['end']]})
@@ -148,11 +197,12 @@ def read_data(files):
     # with open(prj_path + '/data/question_list.json', 'w', encoding='utf-8') as f:
     #     json.dump(sorted(list(set(all_keys))), f, ensure_ascii=False)
 
-    with open(prj_path + '/data/train.json', 'w', encoding='utf-8') as f:
+    with open(prj_path + '/data/test.json', 'w', encoding='utf-8') as f:
         json.dump(full_data, f, ensure_ascii=False)
 
 
 if __name__ == '__main__':
-    files = glob(prj_path + '/data/json/train/*.json')
+    files = glob(prj_path + '/data/json/test/*.json')
+    # files = ['D:\\menu_extraction\\data\\json\\test\\32. Terroir.pdf.json']
     read_data(files)
     pass
