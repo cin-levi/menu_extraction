@@ -3,7 +3,7 @@ import json
 
 from processors import prj_path
 
-# from neptune_credentials import fastqa_credential
+from neptune_credentials import fastqa_credential
 import os
 
 fold_prefix = 'fold_'
@@ -73,7 +73,7 @@ def train_full_data(data_dir, output_folder):
                   override_cache=True,
                   report_name=f'menu_v1_test_stable' + training_mode,
                   training_mode=training_mode,
-                  # neptune_credential=fastqa_credential
+                  neptune_credential=fastqa_credential
                   )
 
 
