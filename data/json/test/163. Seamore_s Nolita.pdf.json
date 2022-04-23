@@ -1414,6 +1414,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Riondo, italy",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2020",
@@ -2007,7 +2013,14 @@
       "580.25"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY ESTATE",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2025,6 +2038,12 @@
           {
             "text": "2016",
             "answer_start": 32
+          }
+        ],
+        "W": [
+          {
+            "text": "macari, north fork, long island 20",
+            "answer_start": 0
           }
         ]
       }

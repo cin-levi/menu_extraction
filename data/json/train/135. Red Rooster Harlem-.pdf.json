@@ -1,0 +1,3848 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/17/22, 2:48 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menus — Red Rooster Harlem",
+    "bbox": [
+      "296.89",
+      "15.70",
+      "406.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ABOUT",
+    "bbox": [
+      "201.70",
+      "78.88",
+      "238.31",
+      "90.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MENUS",
+    "bbox": [
+      "264.46",
+      "78.88",
+      "303.48",
+      "90.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "329.64",
+      "78.88",
+      "409.88",
+      "90.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PRIVATE PARTIES",
+    "bbox": [
+      "436.04",
+      "78.88",
+      "523.44",
+      "90.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LOCATION & HOURS",
+    "bbox": [
+      "283.46",
+      "101.38",
+      "392.50",
+      "112.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PLAYLIST",
+    "bbox": [
+      "418.66",
+      "101.38",
+      "463.89",
+      "112.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "STORE",
+    "bbox": [
+      "490.05",
+      "101.38",
+      "523.44",
+      "112.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MM",
+    "bbox": [
+      "230.80",
+      "286.25",
+      "264.02",
+      "326.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "EE",
+    "bbox": [
+      "267.77",
+      "286.25",
+      "286.60",
+      "326.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "NN",
+    "bbox": [
+      "290.35",
+      "286.25",
+      "320.20",
+      "326.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "UU",
+    "bbox": [
+      "323.95",
+      "286.25",
+      "350.57",
+      "326.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SS",
+    "bbox": [
+      "354.32",
+      "286.25",
+      "374.95",
+      "326.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PICK UP",
+    "bbox": [
+      "163.99",
+      "359.00",
+      "215.58",
+      "372.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CAVIAR",
+    "bbox": [
+      "269.80",
+      "359.00",
+      "318.19",
+      "372.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DOORDASH",
+    "bbox": [
+      "372.41",
+      "359.00",
+      "448.62",
+      "372.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FOOD DESSERT BEVERAGE WEEKEND BRUNCH",
+    "bbox": [
+      "163.71",
+      "594.50",
+      "449.09",
+      "607.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BEVERAG",
+    "bbox": [
+      "190.34",
+      "668.30",
+      "316.23",
+      "696.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E M",
+    "bbox": [
+      "316.66",
+      "668.30",
+      "363.71",
+      "696.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "EN",
+    "bbox": [
+      "364.14",
+      "668.30",
+      "401.56",
+      "696.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "U",
+    "bbox": [
+      "401.98",
+      "668.30",
+      "422.22",
+      "696.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.redroosterharlem.com/menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "170.06",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/17/22, 2:48 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menus — Red Rooster Harlem",
+    "bbox": [
+      "296.89",
+      "15.70",
+      "406.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CO",
+    "bbox": [
+      "231.46",
+      "35.30",
+      "272.22",
+      "63.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CKTAILS",
+    "bbox": [
+      "272.65",
+      "35.30",
+      "381.12",
+      "63.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ask for the 16oz for an additional $5",
+    "bbox": [
+      "205.06",
+      "63.50",
+      "407.75",
+      "76.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Diva's Potion",
+    "bbox": [
+      "73.39",
+      "120.80",
+      "158.85",
+      "134.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$19.00",
+    "bbox": [
+      "491.62",
+      "120.80",
+      "538.24",
+      "134.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "strawberries, raspberries, passion fruit puree, vodka, champagne",
+    "bbox": [
+      "73.39",
+      "139.25",
+      "440.78",
+      "152.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Lenox Bramble",
+    "bbox": [
+      "73.39",
+      "197.30",
+      "169.83",
+      "210.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$14.00",
+    "bbox": [
+      "491.79",
+      "197.30",
+      "538.25",
+      "210.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "gin bramble, lime leaves, pineapple, basil, rosemary, lavender flowers,",
+    "bbox": [
+      "73.39",
+      "215.75",
+      "469.28",
+      "228.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "elderflower",
+    "bbox": [
+      "73.39",
+      "233.75",
+      "137.64",
+      "246.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Yes, Chef",
+    "bbox": [
+      "73.39",
+      "291.80",
+      "135.40",
+      "305.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$13.00",
+    "bbox": [
+      "491.11",
+      "291.80",
+      "538.24",
+      "305.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "vodka, fresh mint, housemade ginger beer, honey, pineapple, lemon,",
+    "bbox": [
+      "73.39",
+      "310.25",
+      "461.81",
+      "323.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "berbere",
+    "bbox": [
+      "73.39",
+      "328.25",
+      "118.87",
+      "341.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Harlem Mule",
+    "bbox": [
+      "73.39",
+      "385.55",
+      "156.97",
+      "399.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$14.00",
+    "bbox": [
+      "491.79",
+      "385.55",
+      "538.25",
+      "399.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "bourbon, housemade ginger beer, lime, basil",
+    "bbox": [
+      "73.39",
+      "404.00",
+      "326.61",
+      "416.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Harlem Stoner",
+    "bbox": [
+      "73.39",
+      "462.05",
+      "167.05",
+      "475.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$16.00",
+    "bbox": [
+      "491.27",
+      "462.05",
+      "538.24",
+      "475.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "whiskey, st germain, sweet vermouth",
+    "bbox": [
+      "73.39",
+      "480.50",
+      "281.30",
+      "493.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Harlem Rooster Booster",
+    "bbox": [
+      "73.39",
+      "538.55",
+      "228.59",
+      "552.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$14.00",
+    "bbox": [
+      "491.79",
+      "538.55",
+      "538.25",
+      "552.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "illy coffee, irish cream liquor, caramel vanilla mix",
+    "bbox": [
+      "73.39",
+      "557.00",
+      "344.26",
+      "569.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Peaches & Herb",
+    "bbox": [
+      "73.39",
+      "615.05",
+      "176.61",
+      "628.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$15.00",
+    "bbox": [
+      "491.28",
+      "615.05",
+      "538.24",
+      "628.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "rye whiskey, peach puree, lemon, iced tea",
+    "bbox": [
+      "73.39",
+      "633.50",
+      "311.99",
+      "646.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.redroosterharlem.com/menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "170.06",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/17/22, 2:48 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Menus — Red Rooster Harlem",
+    "bbox": [
+      "296.89",
+      "15.70",
+      "406.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PU",
+    "bbox": [
+      "241.52",
+      "35.30",
+      "278.48",
+      "63.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "N",
+    "bbox": [
+      "278.91",
+      "35.30",
+      "301.60",
+      "63.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CH",
+    "bbox": [
+      "302.03",
+      "35.30",
+      "340.21",
+      "63.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ES",
+    "bbox": [
+      "340.64",
+      "35.30",
+      "371.05",
+      "63.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "King's Blood",
+    "bbox": [
+      "73.39",
+      "103.55",
+      "155.17",
+      "117.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$14.00",
+    "bbox": [
+      "491.79",
+      "103.55",
+      "538.25",
+      "117.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "jamaican style spiced rum punch",
+    "bbox": [
+      "73.39",
+      "122.00",
+      "258.28",
+      "134.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "small pitcher - $42",
+    "bbox": [
+      "73.39",
+      "140.30",
+      "158.48",
+      "150.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "large pitcher - $83",
+    "bbox": [
+      "73.39",
+      "156.05",
+      "158.32",
+      "166.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BO",
+    "bbox": [
+      "212.77",
+      "278.30",
+      "253.21",
+      "306.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TTLED BEER",
+    "bbox": [
+      "253.64",
+      "278.30",
+      "399.79",
+      "306.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Angry Orchard",
+    "bbox": [
+      "73.39",
+      "346.55",
+      "172.45",
+      "360.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$9.00",
+    "bbox": [
+      "498.78",
+      "346.55",
+      "538.25",
+      "360.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "rose cider",
+    "bbox": [
+      "73.39",
+      "365.00",
+      "130.40",
+      "377.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Mackeson XXX Stout",
+    "bbox": [
+      "73.39",
+      "423.05",
+      "207.30",
+      "436.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$9.00",
+    "bbox": [
+      "498.78",
+      "423.05",
+      "538.25",
+      "436.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "21st Amendment IPA",
+    "bbox": [
+      "73.39",
+      "481.55",
+      "209.31",
+      "495.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$8.00",
+    "bbox": [
+      "498.78",
+      "481.55",
+      "538.25",
+      "495.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "El Sully",
+    "bbox": [
+      "73.39",
+      "540.05",
+      "121.73",
+      "553.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$8.00",
+    "bbox": [
+      "498.78",
+      "540.05",
+      "538.25",
+      "553.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Blue Moon",
+    "bbox": [
+      "73.39",
+      "598.55",
+      "142.83",
+      "612.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$8.00",
+    "bbox": [
+      "498.78",
+      "598.55",
+      "538.25",
+      "612.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Heineken",
+    "bbox": [
+      "73.39",
+      "657.05",
+      "133.20",
+      "670.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$8.00",
+    "bbox": [
+      "498.78",
+      "657.05",
+      "538.25",
+      "670.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.redroosterharlem.com/menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "170.06",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/17/22, 2:48 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Menus — Red Rooster Harlem",
+    "bbox": [
+      "296.89",
+      "15.70",
+      "406.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Corona",
+    "bbox": [
+      "73.39",
+      "30.80",
+      "121.01",
+      "44.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$8.00",
+    "bbox": [
+      "498.78",
+      "30.80",
+      "538.25",
+      "44.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Brooklyn Brewery Non-Alcoholic Ale",
+    "bbox": [
+      "73.39",
+      "89.30",
+      "316.92",
+      "102.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$6.00",
+    "bbox": [
+      "498.78",
+      "89.30",
+      "538.25",
+      "102.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Interboro Black & White Ambassador Stout",
+    "bbox": [
+      "73.39",
+      "147.80",
+      "357.19",
+      "161.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$13.00",
+    "bbox": [
+      "491.11",
+      "147.80",
+      "538.24",
+      "161.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Prestige Lager",
+    "bbox": [
+      "73.39",
+      "206.30",
+      "166.96",
+      "219.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$8.00",
+    "bbox": [
+      "498.78",
+      "206.30",
+      "538.25",
+      "219.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Voodoo Ranger IPA",
+    "bbox": [
+      "73.39",
+      "264.80",
+      "203.09",
+      "278.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$9.00",
+    "bbox": [
+      "498.78",
+      "264.80",
+      "538.25",
+      "278.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "O",
+    "bbox": [
+      "254.66",
+      "391.55",
+      "277.74",
+      "420.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "N",
+    "bbox": [
+      "278.17",
+      "391.55",
+      "300.85",
+      "420.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "TAP",
+    "bbox": [
+      "301.28",
+      "391.55",
+      "357.91",
+      "420.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Mermaid Pilsner",
+    "bbox": [
+      "73.39",
+      "459.80",
+      "179.58",
+      "473.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$10.00",
+    "bbox": [
+      "490.78",
+      "459.80",
+      "538.25",
+      "473.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Samuel Adams IPA",
+    "bbox": [
+      "73.39",
+      "518.30",
+      "195.94",
+      "531.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$10.00",
+    "bbox": [
+      "490.78",
+      "518.30",
+      "538.25",
+      "531.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Angry Orchard Cider",
+    "bbox": [
+      "73.39",
+      "576.80",
+      "213.21",
+      "590.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$10.00",
+    "bbox": [
+      "490.78",
+      "576.80",
+      "538.25",
+      "590.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Interboro Pilsner",
+    "bbox": [
+      "73.39",
+      "635.30",
+      "183.29",
+      "648.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$10.00",
+    "bbox": [
+      "490.78",
+      "635.30",
+      "538.25",
+      "648.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Samuel Adams Lager",
+    "bbox": [
+      "73.39",
+      "693.80",
+      "210.39",
+      "707.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$10.00",
+    "bbox": [
+      "490.78",
+      "693.80",
+      "538.25",
+      "707.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.redroosterharlem.com/menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "170.06",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/17/22, 2:48 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Menus — Red Rooster Harlem",
+    "bbox": [
+      "296.89",
+      "15.70",
+      "406.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Merman IPA",
+    "bbox": [
+      "73.39",
+      "30.80",
+      "153.23",
+      "44.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$10.00",
+    "bbox": [
+      "490.78",
+      "30.80",
+      "538.25",
+      "44.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "SPARKLIN",
+    "bbox": [
+      "227.73",
+      "157.55",
+      "362.56",
+      "186.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "G",
+    "bbox": [
+      "362.99",
+      "157.55",
+      "384.85",
+      "186.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Paul De Coste",
+    "bbox": [
+      "73.39",
+      "225.80",
+      "164.41",
+      "239.30"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Paul De Coste",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$12 G / $49 B",
+    "bbox": [
+      "438.71",
+      "225.80",
+      "538.22",
+      "239.30"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$12 G / $49 B",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "blanc de blanc brut mousseux, provence, france",
+    "bbox": [
+      "73.39",
+      "244.25",
+      "346.16",
+      "257.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "blanc de blanc brut mousseux, provence, france",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Black Girl Magic",
+    "bbox": [
+      "73.39",
+      "301.55",
+      "183.87",
+      "315.05"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Black Girl Magic",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$85 B",
+    "bbox": [
+      "499.92",
+      "301.55",
+      "538.25",
+      "315.05"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$85 B",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "mcbride sisters, sparkling brut, marlborough, new zealand",
+    "bbox": [
+      "73.39",
+      "320.00",
+      "400.90",
+      "332.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "mcbride sisters, sparkling brut, marlborough, new zealand",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Champagne",
+    "bbox": [
+      "73.39",
+      "378.05",
+      "150.27",
+      "391.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$20 G / $95 B",
+    "bbox": [
+      "437.64",
+      "378.05",
+      "538.22",
+      "391.55"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$20 G / $95 B",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "la caravelle brut, france",
+    "bbox": [
+      "73.39",
+      "396.50",
+      "205.91",
+      "409.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "la caravelle brut, france",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Champagne",
+    "bbox": [
+      "73.39",
+      "454.55",
+      "150.27",
+      "468.05"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$120 B",
+    "bbox": [
+      "492.28",
+      "454.55",
+      "538.25",
+      "468.05"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$120 B",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "moet & chandon brut imperial, france",
+    "bbox": [
+      "73.39",
+      "473.00",
+      "283.38",
+      "485.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "moet & chandon brut imperial, france",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Champagne",
+    "bbox": [
+      "73.39",
+      "531.05",
+      "150.27",
+      "544.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$150 B",
+    "bbox": [
+      "492.11",
+      "531.05",
+      "538.25",
+      "544.55"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$150 B",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "taittinger, brut la francais, france",
+    "bbox": [
+      "73.39",
+      "549.50",
+      "253.90",
+      "562.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "taittinger, brut la francais, france",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "W",
+    "bbox": [
+      "262.82",
+      "675.80",
+      "291.38",
+      "704.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "H",
+    "bbox": [
+      "291.81",
+      "675.80",
+      "312.33",
+      "704.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ITE",
+    "bbox": [
+      "312.76",
+      "675.80",
+      "349.75",
+      "704.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sauvignon Blanc",
+    "bbox": [
+      "73.39",
+      "743.30",
+      "182.01",
+      "756.80"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$15 G",
+    "bbox": [
+      "498.12",
+      "743.30",
+      "538.24",
+      "756.80"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15 G",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.redroosterharlem.com/menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "170.06",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/17/22, 2:48 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Menus — Red Rooster Harlem",
+    "bbox": [
+      "296.89",
+      "15.70",
+      "406.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "augustine, 2020, bordeaux, france",
+    "bbox": [
+      "73.39",
+      "29.00",
+      "268.67",
+      "41.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "augustine",
+            "answer_start": 0
+          },
+          {
+            "text": "bordeaux, france",
+            "answer_start": 17
+          }
+        ],
+        "V": [
+          {
+            "text": "2020,",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chardonnay",
+    "bbox": [
+      "73.39",
+      "87.05",
+      "153.18",
+      "100.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$52 B",
+    "bbox": [
+      "500.07",
+      "87.05",
+      "538.24",
+      "100.55"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$52 B",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "knock on wood, 2017, willamette valley, oregon",
+    "bbox": [
+      "73.39",
+      "105.50",
+      "339.29",
+      "118.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "knock on wood",
+            "answer_start": 0
+          },
+          {
+            "text": "willamette valley, oregon",
+            "answer_start": 21
+          }
+        ],
+        "V": [
+          {
+            "text": "2017,",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chardonnay",
+    "bbox": [
+      "73.39",
+      "163.55",
+      "153.18",
+      "177.05"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$14 G / $63 B",
+    "bbox": [
+      "439.04",
+      "163.55",
+      "538.21",
+      "177.05"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14 G / $63 B",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "le vicomte, 2019, languedoc-roussillon, france",
+    "bbox": [
+      "73.39",
+      "182.00",
+      "331.81",
+      "194.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "le vicomte, 20",
+            "answer_start": 0
+          },
+          {
+            "text": "languedoc-roussillon, france",
+            "answer_start": 18
+          }
+        ],
+        "V": [
+          {
+            "text": "2019,",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chardonnay",
+    "bbox": [
+      "73.39",
+      "239.30",
+      "153.18",
+      "252.80"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$89 B",
+    "bbox": [
+      "500.07",
+      "239.30",
+      "538.24",
+      "252.80"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$89 B",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "lioco, 2017, sonoma county, california",
+    "bbox": [
+      "73.39",
+      "257.75",
+      "282.08",
+      "270.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "lioco, 2017, son",
+            "answer_start": 0
+          },
+          {
+            "text": "sonoma county, california",
+            "answer_start": 13
+          }
+        ],
+        "V": [
+          {
+            "text": "2017,",
+            "answer_start": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Riesling",
+    "bbox": [
+      "73.39",
+      "315.80",
+      "124.11",
+      "329.30"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Riesling",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$14 G / $63 B",
+    "bbox": [
+      "439.04",
+      "315.80",
+      "538.21",
+      "329.30"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14 G / $63 B",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "schmitt sohne, 2020, mosel, germany",
+    "bbox": [
+      "73.39",
+      "334.25",
+      "285.63",
+      "347.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "schmitt sohne,",
+            "answer_start": 0
+          },
+          {
+            "text": "mosel, germany",
+            "answer_start": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RED",
+    "bbox": [
+      "280.30",
+      "460.55",
+      "332.28",
+      "489.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Cabernet Sauvignon",
+    "bbox": [
+      "73.39",
+      "528.80",
+      "206.58",
+      "542.30"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$15 G / $68 B",
+    "bbox": [
+      "438.55",
+      "528.80",
+      "538.22",
+      "542.30"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15 G / $68 B",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "cult, lodi, 2017, central valley, california",
+    "bbox": [
+      "73.39",
+      "547.25",
+      "290.50",
+      "560.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "cult, lodi, 2017, central v",
+            "answer_start": 0
+          },
+          {
+            "text": "central valley, california",
+            "answer_start": 18
+          }
+        ],
+        "V": [
+          {
+            "text": "2017,",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pinot Noir",
+    "bbox": [
+      "73.39",
+      "604.55",
+      "139.84",
+      "618.05"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$14 G / $63 B",
+    "bbox": [
+      "439.04",
+      "604.55",
+      "538.21",
+      "618.05"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14 G / $63 B",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "nicolas idiart, 2019, pays d'oc, france",
+    "bbox": [
+      "73.39",
+      "623.00",
+      "280.59",
+      "635.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "nicolas idiart,",
+            "answer_start": 0
+          },
+          {
+            "text": "pays d'oc, france",
+            "answer_start": 22
+          }
+        ],
+        "V": [
+          {
+            "text": "2019,",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Cabernet Sauvignon, Merlot, Cabernet Franc",
+    "bbox": [
+      "73.39",
+      "681.05",
+      "372.89",
+      "694.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon, Merlot, Cabernet Franc",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$13 G / $59 B",
+    "bbox": [
+      "438.69",
+      "681.05",
+      "538.22",
+      "694.55"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$13 G / $59 B",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "baron de saint-onge, 2013, bordeaux, france",
+    "bbox": [
+      "73.39",
+      "699.50",
+      "324.20",
+      "712.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "baron de saint-onge, 2013, bordeaux, france",
+            "answer_start": 0
+          },
+          {
+            "text": "bordeaux, france",
+            "answer_start": 27
+          }
+        ],
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://www.redroosterharlem.com/menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "170.06",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/17/22, 2:48 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Menus — Red Rooster Harlem",
+    "bbox": [
+      "296.89",
+      "15.70",
+      "406.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Gamay",
+    "bbox": [
+      "73.39",
+      "30.80",
+      "119.18",
+      "44.30"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Gamay",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$13 G / $59 B",
+    "bbox": [
+      "438.69",
+      "30.80",
+      "538.22",
+      "44.30"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$13 G / $59 B",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "lauren et romain schneider, by briante, 2015, beaujolais, france",
+    "bbox": [
+      "73.39",
+      "49.25",
+      "427.80",
+      "62.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "lauren et romain schneider, by briante",
+            "answer_start": 0
+          },
+          {
+            "text": "beaujolais, france",
+            "answer_start": 46
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Cabernet Sauvignon",
+    "bbox": [
+      "73.39",
+      "107.30",
+      "206.58",
+      "120.80"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$69 B",
+    "bbox": [
+      "499.60",
+      "107.30",
+      "538.25",
+      "120.80"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$69 B",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "aslina, 2019, south africa",
+    "bbox": [
+      "73.39",
+      "125.75",
+      "211.37",
+      "138.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "aslina, 2019, south africa",
+            "answer_start": 0
+          },
+          {
+            "text": "south africa",
+            "answer_start": 14
+          }
+        ],
+        "V": [
+          {
+            "text": "2019,",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RO",
+    "bbox": [
+      "226.70",
+      "252.05",
+      "267.51",
+      "280.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SE W",
+    "bbox": [
+      "267.93",
+      "252.05",
+      "336.64",
+      "280.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "IN",
+    "bbox": [
+      "337.07",
+      "252.05",
+      "368.90",
+      "280.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "E",
+    "bbox": [
+      "369.33",
+      "252.05",
+      "383.64",
+      "280.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Grenache",
+    "bbox": [
+      "73.39",
+      "319.55",
+      "136.37",
+      "333.05"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grenache",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$72 B",
+    "bbox": [
+      "500.39",
+      "319.55",
+      "538.25",
+      "333.05"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$72 B",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "whispering angel, 2021, cotes de provence, france",
+    "bbox": [
+      "73.39",
+      "338.00",
+      "359.49",
+      "350.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "whispering angel",
+            "answer_start": 0
+          },
+          {
+            "text": "cotes de provence, france",
+            "answer_start": 24
+          }
+        ],
+        "V": [
+          {
+            "text": "2021",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Grenache, Cabernet Sauvignon, Syrah",
+    "bbox": [
+      "73.39",
+      "396.05",
+      "329.66",
+      "409.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grenache, Cabernet Sauvignon, Syrah",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$12 G / $51 B",
+    "bbox": [
+      "440.42",
+      "396.05",
+      "538.22",
+      "409.55"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$12 G / $51 B",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "domaine montrose, 2020, cotes de thongue, france",
+    "bbox": [
+      "73.39",
+      "414.50",
+      "365.56",
+      "427.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "domaine montrose, 2020, cotes de thongue,",
+            "answer_start": 0
+          },
+          {
+            "text": "cotes de thongue, france",
+            "answer_start": 24
+          }
+        ],
+        "V": [
+          {
+            "text": "2020,",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DESSERT W",
+    "bbox": [
+      "206.28",
+      "540.80",
+      "357.04",
+      "569.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "IN",
+    "bbox": [
+      "357.47",
+      "540.80",
+      "389.30",
+      "569.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "E",
+    "bbox": [
+      "389.73",
+      "540.80",
+      "404.04",
+      "569.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Castelnau Chateau Suduiraut",
+    "bbox": [
+      "73.39",
+      "608.30",
+      "265.35",
+      "621.80"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Castelnau Chateau Suduiraut",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$15 G",
+    "bbox": [
+      "498.12",
+      "608.30",
+      "538.24",
+      "621.80"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15 G",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "sauternes, france",
+    "bbox": [
+      "73.39",
+      "626.75",
+      "171.14",
+      "639.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "sauternes, france",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://www.redroosterharlem.com/menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "170.06",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/17/22, 2:48 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Menus — Red Rooster Harlem",
+    "bbox": [
+      "296.89",
+      "15.70",
+      "406.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "LOCATIONS",
+    "bbox": [
+      "73.39",
+      "126.22",
+      "156.42",
+      "139.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "HOURS",
+    "bbox": [
+      "196.32",
+      "126.22",
+      "246.67",
+      "139.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "RESTAURANT",
+    "bbox": [
+      "319.24",
+      "126.22",
+      "415.75",
+      "139.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "NEWSLETTER",
+    "bbox": [
+      "445.60",
+      "126.22",
+      "534.83",
+      "139.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "SITES",
+    "bbox": [
+      "319.24",
+      "146.47",
+      "355.94",
+      "159.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Red Rooster Harlem®",
+    "bbox": [
+      "73.39",
+      "156.05",
+      "172.95",
+      "166.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Mon-Thurs, 12pm-",
+    "bbox": [
+      "196.32",
+      "156.05",
+      "280.24",
+      "166.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Want to know more",
+    "bbox": [
+      "442.17",
+      "156.05",
+      "533.38",
+      "166.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "310 Lenox Avenue",
+    "bbox": [
+      "73.39",
+      "179.30",
+      "159.66",
+      "189.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "9pm",
+    "bbox": [
+      "196.32",
+      "179.30",
+      "219.32",
+      "189.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Ginny’s Supper",
+    "bbox": [
+      "319.24",
+      "176.30",
+      "391.24",
+      "186.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "about Marcus and",
+    "bbox": [
+      "442.17",
+      "179.30",
+      "526.90",
+      "189.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Harlem, NY 10027",
+    "bbox": [
+      "73.39",
+      "201.80",
+      "158.37",
+      "212.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Fri, 12pm-9:45pm",
+    "bbox": [
+      "196.32",
+      "201.80",
+      "278.81",
+      "212.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Club™",
+    "bbox": [
+      "319.24",
+      "198.80",
+      "347.83",
+      "209.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "what’s happening at",
+    "bbox": [
+      "442.17",
+      "201.80",
+      "536.66",
+      "212.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "212.792.9001",
+    "bbox": [
+      "73.39",
+      "225.05",
+      "135.68",
+      "235.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Sat, 11am-9:45pm",
+    "bbox": [
+      "196.32",
+      "225.05",
+      "278.59",
+      "235.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Red Rooster",
+    "bbox": [
+      "319.24",
+      "222.05",
+      "377.88",
+      "232.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "his restaurants? Sign",
+    "bbox": [
+      "442.17",
+      "225.05",
+      "539.08",
+      "235.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "info@redroosterharle",
+    "bbox": [
+      "73.39",
+      "248.30",
+      "169.48",
+      "258.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Sun, 11am-9pm",
+    "bbox": [
+      "196.32",
+      "248.30",
+      "264.32",
+      "258.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Overtown®",
+    "bbox": [
+      "319.24",
+      "245.30",
+      "371.81",
+      "255.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "up for his Newsletter",
+    "bbox": [
+      "442.17",
+      "248.30",
+      "539.72",
+      "258.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "m.com",
+    "bbox": [
+      "73.39",
+      "270.80",
+      "103.26",
+      "281.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Streetbird",
+    "bbox": [
+      "319.24",
+      "267.80",
+      "367.00",
+      "278.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "and learn all about",
+    "bbox": [
+      "442.17",
+      "270.80",
+      "529.98",
+      "281.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "INQUIRIES",
+    "bbox": [
+      "196.32",
+      "284.47",
+      "271.85",
+      "297.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Kitchen & Table™",
+    "bbox": [
+      "319.24",
+      "291.05",
+      "397.97",
+      "301.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "upcoming events",
+    "bbox": [
+      "442.17",
+      "294.05",
+      "523.52",
+      "304.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Rooster Overtown®",
+    "bbox": [
+      "73.39",
+      "303.80",
+      "163.99",
+      "314.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Press - Chloe Mata",
+    "bbox": [
+      "196.32",
+      "314.30",
+      "286.43",
+      "324.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Norda",
+    "bbox": [
+      "319.24",
+      "313.55",
+      "350.16",
+      "323.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "and appearances.",
+    "bbox": [
+      "442.17",
+      "316.55",
+      "524.16",
+      "326.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "920 NW 2nd Ave",
+    "bbox": [
+      "73.39",
+      "327.05",
+      "155.05",
+      "337.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Crane",
+    "bbox": [
+      "196.32",
+      "337.55",
+      "226.61",
+      "347.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Eatery Social",
+    "bbox": [
+      "319.24",
+      "336.80",
+      "381.27",
+      "347.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Miami, FL 33136",
+    "bbox": [
+      "73.39",
+      "350.30",
+      "145.79",
+      "360.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "cmcrane@baltzco.co",
+    "bbox": [
+      "196.32",
+      "360.05",
+      "290.21",
+      "370.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Taqueria",
+    "bbox": [
+      "319.24",
+      "360.05",
+      "361.26",
+      "370.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "JOIN THE",
+    "bbox": [
+      "466.64",
+      "371.00",
+      "514.39",
+      "380.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "FOLLOW US",
+    "bbox": [
+      "73.39",
+      "386.47",
+      "156.85",
+      "399.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "m",
+    "bbox": [
+      "196.32",
+      "383.30",
+      "207.20",
+      "393.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MARCUS Montreal",
+    "bbox": [
+      "319.24",
+      "382.55",
+      "406.58",
+      "392.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "LIST",
+    "bbox": [
+      "479.94",
+      "385.25",
+      "501.07",
+      "395.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Special Events -",
+    "bbox": [
+      "196.32",
+      "405.80",
+      "274.89",
+      "416.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Marcus at Baha Mar",
+    "bbox": [
+      "319.24",
+      "405.80",
+      "412.20",
+      "416.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Dina Hill",
+    "bbox": [
+      "196.32",
+      "429.05",
+      "237.11",
+      "439.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Fish + Chop House",
+    "bbox": [
+      "319.24",
+      "428.30",
+      "406.15",
+      "438.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "dina@redroosterharl",
+    "bbox": [
+      "196.32",
+      "452.30",
+      "289.04",
+      "462.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CORPORATE",
+    "bbox": [
+      "319.24",
+      "465.22",
+      "409.18",
+      "478.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "em.com",
+    "bbox": [
+      "196.32",
+      "474.80",
+      "232.16",
+      "485.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "SITE",
+    "bbox": [
+      "319.24",
+      "484.72",
+      "347.32",
+      "497.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Preferred Payment",
+    "bbox": [
+      "442.17",
+      "507.50",
+      "530.28",
+      "518.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Marcus Samuelsson",
+    "bbox": [
+      "319.24",
+      "514.55",
+      "413.06",
+      "524.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Partner of Red",
+    "bbox": [
+      "442.17",
+      "530.00",
+      "509.81",
+      "540.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Group",
+    "bbox": [
+      "319.24",
+      "537.80",
+      "347.64",
+      "548.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Rooster Harlem®",
+    "bbox": [
+      "442.17",
+      "553.25",
+      "520.84",
+      "563.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Terms of Use | Privacy Policy",
+    "bbox": [
+      "241.33",
+      "672.05",
+      "371.48",
+      "682.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "ALL CONTENT COPYRIGHT 2021 Marcus Samuelsson Group LLC",
+    "bbox": [
+      "157.48",
+      "705.05",
+      "455.32",
+      "715.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://www.redroosterharlem.com/menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "170.06",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "4/17/22, 2:48 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Menus — Red Rooster Harlem",
+    "bbox": [
+      "296.89",
+      "15.70",
+      "406.26",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "https://www.redroosterharlem.com/menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "170.06",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "9/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

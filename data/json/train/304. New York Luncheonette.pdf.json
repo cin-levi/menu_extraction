@@ -113,7 +113,14 @@
       "318.12"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Albariño, Rías Baixas, Spain",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -152,7 +159,14 @@
       "384.87"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Sauvignon  Blanc, Casablanca, Chile",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -191,7 +205,14 @@
       "451.62"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Pinot Grigio, Venezia Giulia, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -230,7 +251,14 @@
       "518.37"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Grüner Veltliner, Traisental, Austria",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -269,7 +297,14 @@
       "585.12"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc, Russian River Valley, CA",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -308,7 +343,14 @@
       "651.87"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Chenin Blanc, Vouvray",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -347,7 +389,14 @@
       "718.62"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Riesling, North Fork Long Island, New York",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -438,7 +487,14 @@
       "64.62"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Chardonnay, Meursault, Burgundy, FR",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -477,7 +533,14 @@
       "131.37"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Chardonnay, Russian River Valley, Sonoma County, CA",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

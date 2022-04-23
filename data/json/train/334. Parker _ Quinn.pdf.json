@@ -1023,7 +1023,14 @@
       "470.23"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "PROSECCO - le contesse, italy",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1036,7 +1043,14 @@
       "470.23"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "11",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1049,7 +1063,14 @@
       "484.90"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "PROSECCO ROSÉ - la gioiosa, italy",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1062,7 +1083,14 @@
       "484.90"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "14 / 56",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1075,7 +1103,14 @@
       "499.56"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "ROSÉ - le vieille ferme, france",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1088,7 +1123,14 @@
       "499.56"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1101,7 +1143,14 @@
       "514.23"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "PINOT GRIGIO - lavis, italy",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1114,7 +1163,14 @@
       "514.23"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "13 / 52",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1127,7 +1183,14 @@
       "528.90"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "BORDEAUX BLANC - clarendelle, france",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1140,7 +1203,14 @@
       "528.90"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "15 / 60",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1153,7 +1223,14 @@
       "543.57"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY - elouan, california",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1166,7 +1243,14 @@
       "543.57"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "15 / 60",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1179,7 +1263,14 @@
       "558.23"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "PINOT NOIR - boen, california",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1192,7 +1283,14 @@
       "558.23"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "16 / 64",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1205,7 +1303,14 @@
       "572.90"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "CABERNET SAUVIGNON - parducci, california",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1218,7 +1323,14 @@
       "572.90"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "15 / 60",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1231,7 +1343,14 @@
       "587.57"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "PRIMITIVO - vigneti del salento, italy",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1244,7 +1363,14 @@
       "587.57"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "14 / 56",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1270,7 +1396,14 @@
       "139.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "ANGELS ENVY",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1283,7 +1416,20 @@
       "139.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "KNOB CREEK",
+            "answer_start": 2
+          }
+        ],
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1296,7 +1442,14 @@
       "139.83"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1309,7 +1462,14 @@
       "151.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "BAKER’S",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1322,7 +1482,14 @@
       "151.83"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "25",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1335,7 +1502,14 @@
       "151.83"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1348,7 +1522,14 @@
       "163.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "BASIL HAYDEN’S",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1361,7 +1542,20 @@
       "163.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "BIB & TUCKER",
+            "answer_start": 2
+          }
+        ],
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1374,7 +1568,14 @@
       "163.83"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1387,7 +1588,14 @@
       "175.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "BLANTON’S",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1400,7 +1608,20 @@
       "175.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "PAPPY VAN WINKLE OLD RIP 10 YEAR",
+            "answer_start": 2
+          }
+        ],
+        "P": [
+          {
+            "text": "24",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1413,7 +1634,14 @@
       "175.83"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "75",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1426,7 +1654,14 @@
       "187.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "JIM BEAM WHITE LABEL",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1439,7 +1674,24 @@
       "187.83"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "95",
+            "answer_start": 43
+          },
+          {
+            "text": "11",
+            "answer_start": 0
+          }
+        ],
+        "W": [
+          {
+            "text": "PAPPY VAN WINKLE SPECIAL RESERVE 12 YEAR",
+            "answer_start": 2
+          }
+        ]
+      }
     ]
   },
   {
@@ -1452,7 +1704,14 @@
       "199.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "BULLEIT",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1465,7 +1724,20 @@
       "199.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "PAPPY VAN WINKLE 15 YEAR",
+            "answer_start": 2
+          }
+        ],
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1478,7 +1750,14 @@
       "199.83"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "150",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1491,7 +1770,14 @@
       "211.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "HUDSON BABY BOURBON",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1504,7 +1790,20 @@
       "211.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "PAPPY VAN WINKLE 23 YEAR",
+            "answer_start": 2
+          }
+        ],
+        "P": [
+          {
+            "text": "20",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1517,7 +1816,14 @@
       "211.83"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "225",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1530,7 +1836,14 @@
       "223.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "GENTLEMAN JACK",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1543,7 +1856,20 @@
       "223.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "W.L. WELLER",
+            "answer_start": 2
+          }
+        ],
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1556,7 +1882,14 @@
       "223.83"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "12",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1569,7 +1902,14 @@
       "235.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "JACK DANIEL’S SINGLE BARREL",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1582,7 +1922,20 @@
       "235.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "WOODFORD RESERVE",
+            "answer_start": 2
+          }
+        ],
+        "P": [
+          {
+            "text": "22",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1595,7 +1948,14 @@
       "235.83"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1608,7 +1968,14 @@
       "247.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "JACK DANIEL’S",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1621,7 +1988,20 @@
       "247.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "REDEMPTION",
+            "answer_start": 2
+          }
+        ],
+        "P": [
+          {
+            "text": "12",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1634,7 +2014,14 @@
       "247.83"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "12",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1647,7 +2034,14 @@
       "259.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "JEFFERSON’S OCEAN AGED AT SEA",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1660,7 +2054,14 @@
       "259.83"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "24",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1673,7 +2074,14 @@
       "312.02"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "BULLEIT",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1686,7 +2094,20 @@
       "312.02"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "KENTUCKY OWL",
+            "answer_start": 2
+          }
+        ],
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1699,7 +2120,14 @@
       "312.02"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "60",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1712,7 +2140,14 @@
       "324.02"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "HIGH WEST CAMPFIRE",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1725,7 +2160,20 @@
       "324.02"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "MICHTER’S",
+            "answer_start": 2
+          }
+        ],
+        "P": [
+          {
+            "text": "24",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1738,7 +2186,14 @@
       "324.02"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1751,7 +2206,14 @@
       "336.02"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "HIGH WEST DBL",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1764,7 +2226,20 @@
       "336.02"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "TEMPLETON",
+            "answer_start": 2
+          }
+        ],
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1777,7 +2252,14 @@
       "336.02"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "12",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1790,7 +2272,14 @@
       "348.02"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "JACK DANIEL’S RYE",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1803,7 +2292,20 @@
       "348.02"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "WOODFORD RESERVE",
+            "answer_start": 2
+          }
+        ],
+        "P": [
+          {
+            "text": "12",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1829,7 +2331,14 @@
       "360.02"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "HUDSON IGC MANHATTAN",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1842,7 +2351,20 @@
       "360.02"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "WHISTLE PIG 10YR",
+            "answer_start": 2
+          }
+        ],
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1855,7 +2377,14 @@
       "360.02"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "28",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1868,7 +2397,14 @@
       "372.02"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "KNOB CREEK",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1881,7 +2417,14 @@
       "372.02"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1907,7 +2450,14 @@
       "424.52"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "BLACK BUSH",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1920,7 +2470,14 @@
       "424.52"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "REDBREAST 12",
+            "answer_start": 2
+          }
+        ]
+      }
     ]
   },
   {
@@ -1933,7 +2490,14 @@
       "424.52"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "25",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1946,7 +2510,14 @@
       "436.02"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "BUSHMILLS",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1959,7 +2530,20 @@
       "436.02"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "REDBREAST 15",
+            "answer_start": 2
+          }
+        ],
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1972,7 +2556,14 @@
       "436.02"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "35",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1985,7 +2576,14 @@
       "447.52"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "GREEN SPOT",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1998,7 +2596,20 @@
       "447.52"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "MIDLETON",
+            "answer_start": 2
+          }
+        ],
+        "P": [
+          {
+            "text": "22",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2011,7 +2622,14 @@
       "447.52"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "48",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2024,7 +2642,14 @@
       "459.02"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "YELLOW SPOT",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2037,7 +2662,20 @@
       "459.02"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "TULLAMORE DEW",
+            "answer_start": 2
+          }
+        ],
+        "P": [
+          {
+            "text": "34",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2050,7 +2688,14 @@
       "459.02"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "12",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2063,7 +2708,14 @@
       "470.52"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "JAMESON",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2076,7 +2728,20 @@
       "470.52"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "TULLAMORE DEW 12 YEAR",
+            "answer_start": 2
+          }
+        ],
+        "P": [
+          {
+            "text": "12",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2089,7 +2754,14 @@
       "470.52"
     ],
     "annots": [
-      null
+      {
+        "p": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2102,7 +2774,14 @@
       "482.02"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "JAMESON 18",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2115,7 +2794,14 @@
       "482.02"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "44",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

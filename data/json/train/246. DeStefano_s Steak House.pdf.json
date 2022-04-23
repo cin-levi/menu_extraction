@@ -448,6 +448,10 @@
           {
             "text": "Napa Valley ’18 (",
             "answer_start": 0
+          },
+          {
+            "text": "(JS93)",
+            "answer_start": 16
           }
         ],
         "v": [
@@ -527,6 +531,10 @@
           {
             "text": "Napa Valley ’19 (RP",
             "answer_start": 0
+          },
+          {
+            "text": "(RP 93)",
+            "answer_start": 16
           }
         ],
         "V": [
@@ -1118,6 +1126,10 @@
           {
             "text": "Napa Valley ’16 (R",
             "answer_start": 0
+          },
+          {
+            "text": "(RP 92, WE 94)",
+            "answer_start": 16
           }
         ],
         "V": [
@@ -1197,6 +1209,10 @@
           {
             "text": "Napa Valley, ’17 (WE",
             "answer_start": 0
+          },
+          {
+            "text": "(WE 92)",
+            "answer_start": 17
           }
         ],
         "V": [
@@ -1478,6 +1494,10 @@
           {
             "text": "Baby Barolo, Piedmont DOCG",
             "answer_start": 0
+          },
+          {
+            "text": "(JS91)",
+            "answer_start": 31
           }
         ],
         "V": [
@@ -1557,6 +1577,10 @@
           {
             "text": "Nobile di Montelpuciano, ’",
             "answer_start": 0
+          },
+          {
+            "text": "(JS92, RP91)",
+            "answer_start": 29
           }
         ],
         "V": [
@@ -1722,6 +1746,12 @@
             "text": "16",
             "answer_start": 10
           }
+        ],
+        "W": [
+          {
+            "text": "(JS 95) (RP 94)",
+            "answer_start": 13
+          }
         ]
       }
     ]
@@ -1800,6 +1830,12 @@
           {
             "text": "15",
             "answer_start": 32
+          }
+        ],
+        "W": [
+          {
+            "text": "(JS 95)",
+            "answer_start": 35
           }
         ]
       }
@@ -1958,6 +1994,12 @@
           {
             "text": "’17",
             "answer_start": 5
+          }
+        ],
+        "W": [
+          {
+            "text": "Toscano, (WS90)",
+            "answer_start": 9
           }
         ]
       }

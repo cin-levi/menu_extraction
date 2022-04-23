@@ -89,6 +89,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Veneto, Italy",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "nv",
@@ -162,6 +168,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Piedmont, Italy",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2020",
@@ -212,6 +224,10 @@
           {
             "text": "Champagne, Moët & Chandon ‘Brut Imperial’",
             "answer_start": 0
+          },
+          {
+            "text": "Champagne, M",
+            "answer_start": 0
           }
         ],
         "V": [
@@ -257,6 +273,10 @@
         "W": [
           {
             "text": "Épernay, France nv",
+            "answer_start": 0
+          },
+          {
+            "text": "Épernay, France",
             "answer_start": 0
           }
         ],
@@ -349,6 +369,10 @@
         "W": [
           {
             "text": "Reims, France nv",
+            "answer_start": 0
+          },
+          {
+            "text": "Reims, France",
             "answer_start": 0
           }
         ],
@@ -477,6 +501,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Friuli-Venezia Giulia, Italy",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2018",
@@ -563,6 +593,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Touraine, Loire Valley, France",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2018",
@@ -653,6 +689,10 @@
           {
             "text": "Finger Lakes, New York 2017",
             "answer_start": 0
+          },
+          {
+            "text": "Finger Lakes, New York",
+            "answer_start": 0
           }
         ],
         "V": [
@@ -728,6 +768,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Sonoma County, California",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2018",
@@ -814,6 +860,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Russian River Valley, Sonoma, California",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2013",
@@ -956,6 +1008,10 @@
           {
             "text": "Côtes de Provence, France 2020",
             "answer_start": 0
+          },
+          {
+            "text": "Côtes de Provence, France",
+            "answer_start": 0
           }
         ],
         "V": [
@@ -1047,6 +1103,10 @@
         "W": [
           {
             "text": "Sancerre, France 2018",
+            "answer_start": 0
+          },
+          {
+            "text": "Sancerre, France",
             "answer_start": 0
           }
         ],
@@ -1149,6 +1209,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Lombardy, Italy",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2017",
@@ -1235,6 +1301,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Mendoza, Argentina",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2018",
@@ -1321,6 +1393,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Piedmont, Italy",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2014",
@@ -1411,6 +1489,10 @@
           {
             "text": "Tuscany, Italy 2017",
             "answer_start": 0
+          },
+          {
+            "text": "Tuscany, Italy",
+            "answer_start": 0
           }
         ],
         "V": [
@@ -1499,6 +1581,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Tuscany, Italy",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2013",
@@ -1575,6 +1663,10 @@
         "W": [
           {
             "text": "Napa Valley, California 2017",
+            "answer_start": 0
+          },
+          {
+            "text": "Napa Valley, California",
             "answer_start": 0
           }
         ],

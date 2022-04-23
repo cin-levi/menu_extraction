@@ -1,0 +1,275 @@
+[
+  {
+    "page_number": 1,
+    "text": "Menu — Amelie wine bar",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "104.97",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.ameliewinebar.com/menu-west-village",
+    "bbox": [
+      "389.55",
+      "1.16",
+      "596.01",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PRIX FIXE MENU",
+    "bbox": [
+      "422.50",
+      "93.60",
+      "490.17",
+      "99.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(PARTY OF 6 OR",
+    "bbox": [
+      "423.19",
+      "101.73",
+      "489.48",
+      "108.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MORE)",
+    "bbox": [
+      "443.28",
+      "109.87",
+      "469.38",
+      "116.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "73.66",
+      "388.74",
+      "86.39",
+      "401.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "350.50",
+      "388.74",
+      "363.23",
+      "401.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1 av 2",
+    "bbox": [
+      "0.00",
+      "832.16",
+      "24.44",
+      "842.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2022-04-10 11:12",
+    "bbox": [
+      "524.45",
+      "832.16",
+      "596.00",
+      "842.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menu — Amelie wine bar",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "104.97",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.ameliewinebar.com/menu-west-village",
+    "bbox": [
+      "389.55",
+      "1.16",
+      "596.01",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Monday - Tuesday - Wednesday: 5pm - 11pm",
+    "bbox": [
+      "68.35",
+      "76.38",
+      "237.18",
+      "84.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "(212) 533-2962",
+    "bbox": [
+      "469.37",
+      "76.38",
+      "527.56",
+      "84.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Thursday: 12pm - 11pm",
+    "bbox": [
+      "68.35",
+      "99.29",
+      "153.97",
+      "107.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "amelienyc@hotmail.com",
+    "bbox": [
+      "435.39",
+      "99.29",
+      "527.56",
+      "107.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Friday - Saturday: 12pm - 12am",
+    "bbox": [
+      "68.35",
+      "122.21",
+      "185.02",
+      "130.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "22 W 8th Street",
+    "bbox": [
+      "467.35",
+      "122.21",
+      "527.55",
+      "130.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "New York, NY 10011",
+    "bbox": [
+      "452.93",
+      "136.64",
+      "527.55",
+      "145.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sunday: 12pm - 11pm",
+    "bbox": [
+      "68.35",
+      "145.12",
+      "147.09",
+      "153.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2 av 2",
+    "bbox": [
+      "0.00",
+      "832.16",
+      "24.44",
+      "842.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2022-04-10 11:12",
+    "bbox": [
+      "524.45",
+      "832.16",
+      "596.00",
+      "842.16"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

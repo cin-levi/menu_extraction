@@ -1,0 +1,1523 @@
+[
+  {
+    "page_number": 1,
+    "text": "ALL SURFACES AND ITEMS ON YOUR TABLE HAVE BEEN THOROUGHLY SANITIZED.",
+    "bbox": [
+      "187.46",
+      "35.74",
+      "443.29",
+      "45.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "OUR MENUS ARE PRINTED ON RECYCLED PAPER AND ARE DISCARDED AFTER EACH USE.",
+    "bbox": [
+      "177.11",
+      "53.24",
+      "453.65",
+      "63.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "OUR SERVERS ARE WEARING MASKS AND GLOVES AND WILL TAKE YOUR ORDER WHILE MAINTAINING A SAFE DISTANCE.",
+    "bbox": [
+      "126.59",
+      "70.74",
+      "504.16",
+      "80.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "OUR RESTROOMS ARE SANITIZED CONTINUOUSLY, WE ASK THAT YOU WEAR A MASK WHEN LEAVING THE TABLE .",
+    "bbox": [
+      "138.40",
+      "88.24",
+      "492.35",
+      "98.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SEE OUR FULL WINE",
+    "bbox": [
+      "417.33",
+      "131.72",
+      "579.34",
+      "153.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINES BY THE GLASS",
+    "bbox": [
+      "123.75",
+      "161.03",
+      "291.68",
+      "183.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPARKLING",
+    "bbox": [
+      "59.69",
+      "225.73",
+      "126.79",
+      "241.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BISOL PROSECCO",
+    "bbox": [
+      "59.69",
+      "252.36",
+      "117.32",
+      "262.36"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BISOL PROSECCO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16",
+    "bbox": [
+      "339.87",
+      "252.36",
+      "347.69",
+      "262.36"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Veneto, Italy NV",
+    "bbox": [
+      "117.52",
+      "255.40",
+      "184.00",
+      "265.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Veneto, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROBERT MONCUIT BLANC DE BLANCS",
+    "bbox": [
+      "59.69",
+      "269.86",
+      "179.41",
+      "279.86"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ROBERT MONCUIT BLANC DE BLANCS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "32",
+    "bbox": [
+      "339.30",
+      "269.86",
+      "347.69",
+      "279.86"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "32",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne, France NV",
+    "bbox": [
+      "179.41",
+      "272.90",
+      "272.60",
+      "282.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "COCKTAILS",
+    "bbox": [
+      "452.57",
+      "275.55",
+      "540.15",
+      "297.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LOUIS ROEDERER BRUT ROSÉ",
+    "bbox": [
+      "59.69",
+      "287.36",
+      "154.36",
+      "297.36"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LOUIS ROEDERER BRUT ROSÉ",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "38",
+    "bbox": [
+      "339.07",
+      "287.36",
+      "347.69",
+      "297.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne, France 2014",
+    "bbox": [
+      "154.36",
+      "290.40",
+      "251.19",
+      "300.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "· 18 ·",
+    "bbox": [
+      "485.40",
+      "303.10",
+      "507.31",
+      "317.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE",
+    "bbox": [
+      "59.69",
+      "329.45",
+      "96.11",
+      "345.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MANHATTAN",
+    "bbox": [
+      "459.81",
+      "332.15",
+      "537.90",
+      "343.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rye, Cherry, Cinnamon",
+    "bbox": [
+      "451.96",
+      "344.43",
+      "540.75",
+      "354.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ANDREA FELICI",
+    "bbox": [
+      "59.69",
+      "356.08",
+      "111.88",
+      "366.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ANDREA FELICI",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16",
+    "bbox": [
+      "339.87",
+      "356.08",
+      "347.69",
+      "366.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Verdicchio, Marche, Italy 2019",
+    "bbox": [
+      "111.88",
+      "359.12",
+      "229.99",
+      "369.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Verdicchio, Marche, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DAIQUIRI",
+    "bbox": [
+      "469.01",
+      "368.96",
+      "527.81",
+      "378.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BRUNO GIACOSA",
+    "bbox": [
+      "59.69",
+      "373.58",
+      "116.37",
+      "383.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BRUNO GIACOSA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "21",
+    "bbox": [
+      "340.06",
+      "373.58",
+      "347.69",
+      "383.58"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "21",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Arneis, Piedmont, Italy 2019",
+    "bbox": [
+      "116.37",
+      "376.62",
+      "226.98",
+      "386.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Arneis, Piedmont, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rum, Lime, Grapefruit",
+    "bbox": [
+      "452.08",
+      "380.31",
+      "540.63",
+      "390.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BAILLY REVERDY ‘CHAVIGNOL’",
+    "bbox": [
+      "59.69",
+      "391.08",
+      "157.84",
+      "401.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BAILLY REVERDY ‘CHAVIGNOL’",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "24",
+    "bbox": [
+      "339.64",
+      "391.08",
+      "347.69",
+      "401.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "24",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sancerre, France 2019",
+    "bbox": [
+      "157.84",
+      "394.12",
+      "244.08",
+      "404.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sancerre, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HOT  TODDY",
+    "bbox": [
+      "462.94",
+      "404.84",
+      "533.88",
+      "414.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RAMEY CHARDONNAY",
+    "bbox": [
+      "59.69",
+      "408.58",
+      "131.01",
+      "418.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RAMEY CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "29",
+    "bbox": [
+      "339.20",
+      "408.58",
+      "347.69",
+      "418.58"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "29",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Russian River, California 2018",
+    "bbox": [
+      "131.01",
+      "411.62",
+      "251.10",
+      "421.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Russian River, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Amaro, Rum, Honey",
+    "bbox": [
+      "456.96",
+      "416.19",
+      "535.75",
+      "426.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MARGARITA",
+    "bbox": [
+      "462.35",
+      "440.72",
+      "534.47",
+      "450.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSÉ",
+    "bbox": [
+      "59.69",
+      "447.92",
+      "89.26",
+      "463.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tequila, Orange, Cinnamon",
+    "bbox": [
+      "444.30",
+      "452.07",
+      "548.42",
+      "462.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DIRTY FRENCH ROSÉ Millahue Valley, Chile 2019",
+    "bbox": [
+      "59.69",
+      "474.56",
+      "233.62",
+      "487.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DIRTY FRENCH ROSÉ Millahue Valley, Chile",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "339.83",
+      "474.56",
+      "349.49",
+      "484.56"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MAI TAI",
+    "bbox": [
+      "473.75",
+      "476.47",
+      "523.07",
+      "486.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rum, Lime, Almond",
+    "bbox": [
+      "457.69",
+      "487.95",
+      "537.07",
+      "497.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RED",
+    "bbox": [
+      "59.69",
+      "508.04",
+      "81.82",
+      "524.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "OLD FASHIONED",
+    "bbox": [
+      "450.51",
+      "512.48",
+      "544.26",
+      "522.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rum, Orange, Demerara",
+    "bbox": [
+      "449.94",
+      "523.83",
+      "542.77",
+      "533.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ISTINE CHIANTI CLASSICO",
+    "bbox": [
+      "59.69",
+      "534.68",
+      "146.18",
+      "544.68"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ISTINE CHIANTI CLASSICO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "339.83",
+      "534.68",
+      "347.69",
+      "544.68"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tuscany, Italy 2018",
+    "bbox": [
+      "146.18",
+      "537.72",
+      "220.71",
+      "547.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tuscany, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHISKEY SOUR",
+    "bbox": [
+      "452.84",
+      "548.36",
+      "543.97",
+      "558.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SETTE CIELI ‘YANTRA’",
+    "bbox": [
+      "59.69",
+      "552.18",
+      "131.74",
+      "562.18"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SETTE CIELI ‘YANTRA’",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "22",
+    "bbox": [
+      "339.39",
+      "552.18",
+      "347.69",
+      "562.18"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "22",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tuscany, Italy 2018",
+    "bbox": [
+      "131.74",
+      "555.22",
+      "206.27",
+      "565.22"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tuscany, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Scotch, Grapefruit, Honey",
+    "bbox": [
+      "447.23",
+      "559.71",
+      "545.48",
+      "569.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HOLLORAN PINOT NOIR",
+    "bbox": [
+      "59.69",
+      "569.68",
+      "135.86",
+      "579.68"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "HOLLORAN PINOT NOIR",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "25",
+    "bbox": [
+      "339.23",
+      "569.68",
+      "347.69",
+      "579.68"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "25",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Willamette Valley, Oregon 2015",
+    "bbox": [
+      "135.86",
+      "572.72",
+      "258.28",
+      "582.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Willamette Valley, Oregon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LUIGI GIORDANO BARBARESCO ‘CAVANNA’",
+    "bbox": [
+      "59.69",
+      "587.18",
+      "198.74",
+      "597.18"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LUIGI GIORDANO BARBARESCO ‘CAVANNA’",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "32",
+    "bbox": [
+      "339.30",
+      "587.18",
+      "347.69",
+      "597.18"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "32",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RUSTY NAIL",
+    "bbox": [
+      "462.75",
+      "583.59",
+      "532.01",
+      "594.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Piedmont, Italy 2017",
+    "bbox": [
+      "198.74",
+      "590.22",
+      "278.96",
+      "600.22"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Piedmont, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Scotch,  House Drambuie, Bitters",
+    "bbox": [
+      "434.36",
+      "595.59",
+      "560.40",
+      "605.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHAPPELLET CABERNET SAUVIGNON",
+    "bbox": [
+      "59.69",
+      "604.68",
+      "178.78",
+      "614.68"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHAPPELLET CABERNET SAUVIGNON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "35",
+    "bbox": [
+      "339.14",
+      "604.68",
+      "347.69",
+      "614.68"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "35",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Napa, 2017 (Magnum)",
+    "bbox": [
+      "178.78",
+      "607.72",
+      "266.93",
+      "617.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Napa,",
+            "answer_start": 0
+          },
+          {
+            "text": "(Magnum)",
+            "answer_start": 11
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GIBSON",
+    "bbox": [
+      "474.69",
+      "619.19",
+      "523.02",
+      "630.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Gin, Rosemary, Onion",
+    "bbox": [
+      "454.27",
+      "632.47",
+      "538.44",
+      "642.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SWEET WINE",
+    "bbox": [
+      "58.95",
+      "640.69",
+      "130.84",
+      "656.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LA SPINETTA MOSCATO ‘BIANCOSPINO’",
+    "bbox": [
+      "58.95",
+      "671.83",
+      "188.32",
+      "681.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LA SPINETTA MOSCATO ‘BIANCOSPINO’",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15",
+    "bbox": [
+      "339.16",
+      "671.83",
+      "346.95",
+      "681.83"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Piedmonte, Italy 2020",
+    "bbox": [
+      "188.32",
+      "674.87",
+      "273.40",
+      "684.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Piedmonte, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHÂTEAU LAFAURIE-PEYRAGUEY Sauturnes,  France 2005",
+    "bbox": [
+      "58.95",
+      "689.33",
+      "254.15",
+      "702.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHÂTEAU LAFAURIE-PEYRAGUEY Sauturnes,  France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2005",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "26",
+    "bbox": [
+      "338.46",
+      "689.33",
+      "346.95",
+      "699.33"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "26",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BEER",
+    "bbox": [
+      "476.61",
+      "692.19",
+      "515.91",
+      "714.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FELSINA VIN SANTO",
+    "bbox": [
+      "58.95",
+      "706.83",
+      "124.62",
+      "716.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FELSINA VIN SANTO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "28",
+    "bbox": [
+      "338.42",
+      "706.83",
+      "346.95",
+      "716.83"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "28",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tuscany, Italy  2008",
+    "bbox": [
+      "124.62",
+      "709.87",
+      "201.87",
+      "719.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tuscany, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2008",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "· 11 ·",
+    "bbox": [
+      "485.99",
+      "715.80",
+      "506.73",
+      "729.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DOW’S VINTAGE PORT",
+    "bbox": [
+      "58.95",
+      "724.33",
+      "130.12",
+      "734.33"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DOW’S VINTAGE PORT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "34",
+    "bbox": [
+      "338.81",
+      "724.33",
+      "346.95",
+      "734.33"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "34",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Portugal  1994",
+    "bbox": [
+      "130.12",
+      "727.37",
+      "187.95",
+      "737.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Portugal",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "1994",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MENABREA",
+    "bbox": [
+      "478.87",
+      "734.49",
+      "513.85",
+      "744.49"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

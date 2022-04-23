@@ -2149,6 +2149,12 @@
             "text": "2019",
             "answer_start": 0
           }
+        ],
+        "W": [
+          {
+            "text": "Domaine Albert Mann Des 3 Terres \"Mouton Bleu\" Alsace, France",
+            "answer_start": 5
+          }
         ]
       }
     ]
@@ -2209,6 +2215,12 @@
             "text": "2020",
             "answer_start": 0
           }
+        ],
+        "W": [
+          {
+            "text": "Fabbri \"Casole Bianco\" Tuscany, Italy",
+            "answer_start": 7
+          }
         ]
       }
     ]
@@ -2264,6 +2276,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Domaine Désire Petit \"Le Grapiot\" Arbois, France",
+            "answer_start": 5
+          }
+        ],
         "V": [
           {
             "text": "2018",
@@ -2328,6 +2346,12 @@
           {
             "text": "2017",
             "answer_start": 0
+          }
+        ],
+        "W": [
+          {
+            "text": "Mas D'Espanet \"Eolienne\" Languedoc- Rousillon France",
+            "answer_start": 5
           }
         ]
       }
@@ -2476,6 +2500,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "ARPEPE Rosso di Valtellina Lombardy, Italy",
+            "answer_start": 5
+          }
+        ],
         "V": [
           {
             "text": "2019",
@@ -2536,6 +2566,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Le Masse \"Santa Goccia\" Chianti Tuscany, Italy",
+            "answer_start": 5
+          }
+        ],
         "V": [
           {
             "text": "2019",

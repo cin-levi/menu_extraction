@@ -1,0 +1,7043 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/16/22, 11:54 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menus | SIWA THAI RESTAURANT",
+    "bbox": [
+      "290.02",
+      "15.70",
+      "417.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SIWA THAI RESTAURANT",
+    "bbox": [
+      "40.33",
+      "54.26",
+      "189.86",
+      "66.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HomeMenus",
+    "bbox": [
+      "40.33",
+      "89.03",
+      "98.44",
+      "96.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menu",
+    "bbox": [
+      "279.31",
+      "243.64",
+      "333.68",
+      "266.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Served daily",
+    "bbox": [
+      "278.94",
+      "283.04",
+      "334.06",
+      "293.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "APPETIZERS",
+    "bbox": [
+      "258.92",
+      "333.91",
+      "354.08",
+      "349.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "This is a section of your menu, customize it any way you want.",
+    "bbox": [
+      "161.58",
+      "363.13",
+      "451.42",
+      "373.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FRIED CALAMARI",
+    "bbox": [
+      "140.09",
+      "429.39",
+      "232.22",
+      "440.72"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "FRIED CALAMARI",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "THAI SPRING ROLLS",
+    "bbox": [
+      "364.67",
+      "429.39",
+      "473.15",
+      "440.72"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "THAI SPRING ROLLS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Lightly breaded fried calamari with sweet chili",
+    "bbox": [
+      "101.58",
+      "454.87",
+      "270.73",
+      "463.36"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Lightly breaded fried calamari with sweet chili",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Fried spring rolls stuffed with glass noodle",
+    "bbox": [
+      "340.51",
+      "454.87",
+      "497.31",
+      "463.36"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Fried spring rolls stuffed with glass noodle",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "sauce",
+    "bbox": [
+      "175.11",
+      "468.46",
+      "197.21",
+      "476.96"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "sauce",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "and mixed vegetables served with sweet",
+    "bbox": [
+      "343.10",
+      "468.46",
+      "494.72",
+      "476.96"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "and mixed vegetables served with sweet",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "peach sauce",
+    "bbox": [
+      "395.26",
+      "482.05",
+      "442.56",
+      "490.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "peach sauce",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$9.95",
+    "bbox": [
+      "172.93",
+      "495.98",
+      "199.38",
+      "506.18"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$9.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$7.95",
+    "bbox": [
+      "406.08",
+      "509.57",
+      "431.75",
+      "519.77"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$7.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "STEAMED DUMPLING",
+    "bbox": [
+      "128.13",
+      "563.05",
+      "244.17",
+      "574.37"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "STEAMED DUMPLING",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROTI THAI STYLE",
+    "bbox": [
+      "373.17",
+      "563.05",
+      "464.65",
+      "574.37"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "ROTI THAI STYLE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Steamed ravioli stuffed with shrimp and",
+    "bbox": [
+      "112.99",
+      "588.52",
+      "259.31",
+      "597.02"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Steamed ravioli stuffed with shrimp and",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Thai puff bread served with Thai chicken",
+    "bbox": [
+      "343.56",
+      "588.52",
+      "494.27",
+      "597.02"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Thai puff bread served with Thai chicken",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "herbs, served with house dipping sauce.",
+    "bbox": [
+      "111.29",
+      "602.11",
+      "261.01",
+      "610.61"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "herbs, served with house dipping sauce.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Massaman curry for dipping",
+    "bbox": [
+      "367.41",
+      "602.11",
+      "470.43",
+      "610.61"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Massaman curry for dipping",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$7.95",
+    "bbox": [
+      "173.32",
+      "629.64",
+      "198.99",
+      "639.83"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$7.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$9.95",
+    "bbox": [
+      "405.69",
+      "629.64",
+      "432.14",
+      "639.83"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$9.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SHRIMP FILO",
+    "bbox": [
+      "151.36",
+      "683.11",
+      "220.93",
+      "694.43"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "SHRIMP FILO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHICKEN SATAY",
+    "bbox": [
+      "375.71",
+      "683.11",
+      "462.11",
+      "694.43"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "CHICKEN SATAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Shrimp wrapped in filo noodles served with",
+    "bbox": [
+      "105.92",
+      "708.58",
+      "266.38",
+      "717.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Shrimp wrapped in filo noodles served with",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Grilled marinated chicken on a skewer,",
+    "bbox": [
+      "346.75",
+      "708.58",
+      "491.08",
+      "717.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grilled marinated chicken on a skewer,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "sweet chili sauce.",
+    "bbox": [
+      "153.50",
+      "722.18",
+      "218.81",
+      "730.67"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "sweet chili sauce.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "served with peanut sauce and cucumber",
+    "bbox": [
+      "343.48",
+      "722.18",
+      "494.36",
+      "730.67"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "served with peanut sauce and cucumber",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "salad.",
+    "bbox": [
+      "408.08",
+      "735.77",
+      "429.74",
+      "744.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Widget Didn’t Load",
+    "bbox": [
+      "463.37",
+      "732.93",
+      "530.36",
+      "740.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Check your internet and refresh",
+    "bbox": [
+      "463.37",
+      "744.25",
+      "574.43",
+      "752.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$9.95",
+    "bbox": [
+      "172.93",
+      "749.70",
+      "199.38",
+      "759.89"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$9.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "this page.",
+    "bbox": [
+      "463.37",
+      "755.58",
+      "497.75",
+      "763.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.siwathai.com/menus",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "142.05",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/16/22, 11:54 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menus | SIWA THAI RESTAURANT",
+    "bbox": [
+      "290.02",
+      "15.70",
+      "417.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$7.95",
+    "bbox": [
+      "406.08",
+      "28.76",
+      "431.75",
+      "38.96"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$7.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GOLDEN CURRY PUFF",
+    "bbox": [
+      "126.23",
+      "82.23",
+      "246.07",
+      "93.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "GOLDEN CURRY PUFF",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TOFU TOD",
+    "bbox": [
+      "390.67",
+      "82.23",
+      "447.15",
+      "93.56"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "TOFU TOD",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Baked puff pastry stuffed with ground",
+    "bbox": [
+      "116.34",
+      "107.71",
+      "255.97",
+      "116.21"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Baked puff pastry stuffed with ground",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Fried soft tofu, served with sweet chili sauce",
+    "bbox": [
+      "336.83",
+      "107.71",
+      "501.01",
+      "116.21"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Fried soft tofu, served with sweet chili sauce",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "chicken, sweet potato, carrot, red onion and",
+    "bbox": [
+      "104.51",
+      "121.30",
+      "267.80",
+      "129.80"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "chicken, sweet potato, carrot, red onion and",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "and ground peanut",
+    "bbox": [
+      "383.33",
+      "121.30",
+      "454.51",
+      "129.80"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "and ground peanut",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "curry powder",
+    "bbox": [
+      "161.52",
+      "134.89",
+      "210.79",
+      "143.39"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "curry powder",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$7.95",
+    "bbox": [
+      "406.08",
+      "148.82",
+      "431.75",
+      "159.02"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$7.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$8.95",
+    "bbox": [
+      "172.98",
+      "162.42",
+      "199.33",
+      "172.61"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$8.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CRAB RANGOON",
+    "bbox": [
+      "140.73",
+      "215.89",
+      "231.57",
+      "227.21"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "CRAB RANGOON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHICKEN WING",
+    "bbox": [
+      "376.90",
+      "215.89",
+      "460.93",
+      "227.21"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "CHICKEN WING",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Wontons stuffed with a mixture of crab meat,",
+    "bbox": [
+      "103.33",
+      "241.36",
+      "268.99",
+      "249.86"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Wontons stuffed with a mixture of crab meat,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Fried Wing chicken Thai style, served with",
+    "bbox": [
+      "340.98",
+      "241.36",
+      "496.86",
+      "249.86"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Fried Wing chicken Thai style, served with",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "cream cheese, celery, spring onion, served",
+    "bbox": [
+      "106.54",
+      "254.96",
+      "265.77",
+      "263.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "cream cheese, celery, spring onion, served",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "sweet chili sauce",
+    "bbox": [
+      "387.24",
+      "254.96",
+      "450.59",
+      "263.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "sweet chili sauce",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "with sweet chili sauce",
+    "bbox": [
+      "145.72",
+      "268.55",
+      "226.60",
+      "277.04"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "with sweet chili sauce",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$9.95",
+    "bbox": [
+      "405.69",
+      "282.48",
+      "432.14",
+      "292.67"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$9.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$9.95",
+    "bbox": [
+      "172.93",
+      "296.07",
+      "199.38",
+      "306.26"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$9.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPARE RIBS THAI STYLE",
+    "bbox": [
+      "121.67",
+      "349.54",
+      "250.64",
+      "360.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SPARE RIBS THAI STYLE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SIWA APPETIZERS SAMPLE",
+    "bbox": [
+      "346.01",
+      "349.54",
+      "491.81",
+      "360.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SIWA APPETIZERS SAMPLE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Lean, meaty pork ribs covered with gourmet",
+    "bbox": [
+      "104.27",
+      "375.02",
+      "268.04",
+      "383.51"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Lean, meaty pork ribs covered with gourmet",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Combination of appetizers: Chicken satay,",
+    "bbox": [
+      "340.82",
+      "375.02",
+      "497.00",
+      "383.51"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Combination of appetizers: Chicken satay,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Thai barbeque sauce",
+    "bbox": [
+      "146.88",
+      "388.61",
+      "225.43",
+      "397.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Thai barbeque sauce",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Thai spring rolls, and curry puff",
+    "bbox": [
+      "361.72",
+      "388.61",
+      "476.11",
+      "397.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Thai spring rolls, and curry puff",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$12.95",
+    "bbox": [
+      "171.22",
+      "416.13",
+      "201.10",
+      "426.32"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$12.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$15.95",
+    "bbox": [
+      "403.97",
+      "416.13",
+      "433.87",
+      "426.32"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$15.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SALADS",
+    "bbox": [
+      "277.95",
+      "485.12",
+      "335.05",
+      "500.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tell people more about the items in this section, e.g., all main courses can be made",
+    "bbox": [
+      "111.60",
+      "514.34",
+      "501.39",
+      "524.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "gluten free.",
+    "bbox": [
+      "279.67",
+      "524.54",
+      "333.32",
+      "534.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CRISPY DUCK SALAD",
+    "bbox": [
+      "129.50",
+      "590.80",
+      "242.81",
+      "602.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CRISPY DUCK SALAD",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SIWA HOUSE SALAD",
+    "bbox": [
+      "363.81",
+      "590.80",
+      "474.02",
+      "602.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SIWA HOUSE SALAD",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sliced crispy duck tossed with julienned",
+    "bbox": [
+      "112.08",
+      "616.27",
+      "260.22",
+      "624.77"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sliced crispy duck tossed with julienned",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "With romaine heart, tomato, cucumber, bean",
+    "bbox": [
+      "336.40",
+      "616.27",
+      "501.43",
+      "624.77"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "With romaine heart, tomato, cucumber, bean",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "apple, carrots, mushrooms, red onion, Thai",
+    "bbox": [
+      "107.07",
+      "629.86",
+      "265.23",
+      "638.36"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "apple, carrots, mushrooms, red onion, Thai",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "curd, red onion, and bean sprout, With",
+    "bbox": [
+      "347.83",
+      "629.86",
+      "490.00",
+      "638.36"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "curd, red onion, and bean sprout, With",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "chili paste, lime juice, ground peanut and",
+    "bbox": [
+      "110.14",
+      "643.46",
+      "262.16",
+      "651.95"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "chili paste, lime juice, ground peanut and",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "peanut dressing",
+    "bbox": [
+      "388.91",
+      "643.46",
+      "448.92",
+      "651.95"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "peanut dressing",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Thai condiments.",
+    "bbox": [
+      "154.47",
+      "657.05",
+      "217.85",
+      "665.54"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Thai condiments.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$7",
+    "bbox": [
+      "413.27",
+      "670.98",
+      "424.57",
+      "681.17"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$7",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$12.95",
+    "bbox": [
+      "171.22",
+      "684.57",
+      "201.10",
+      "694.76"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$12.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Widget Didn’t Load",
+    "bbox": [
+      "463.37",
+      "732.92",
+      "530.36",
+      "740.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Check your internet and refresh",
+    "bbox": [
+      "463.37",
+      "744.25",
+      "574.43",
+      "752.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PAPAYASALAD",
+    "bbox": [
+      "145.58",
+      "755.60",
+      "226.73",
+      "766.92"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "PAPAYASALAD",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SOFTSHELLCRABSAthLisA pDage.",
+    "bbox": [
+      "348.89",
+      "755.58",
+      "497.75",
+      "766.92"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "SHELL",
+            "answer_start": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.siwathai.com/menus",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "142.05",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/16/22, 11:54 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Menus | SIWA THAI RESTAURANT",
+    "bbox": [
+      "290.02",
+      "15.70",
+      "417.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PAPAYA SALAD",
+    "bbox": [
+      "145.58",
+      "21.07",
+      "226.73",
+      "32.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SOFT SHELL CRAB SALAD",
+    "bbox": [
+      "348.89",
+      "21.07",
+      "488.93",
+      "32.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Tossed with shrimp, garlic, tomato, green",
+    "bbox": [
+      "109.83",
+      "46.55",
+      "262.49",
+      "55.04"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tossed with shrimp, garlic, tomato, green",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Lightly battered soft shell crab stopped with",
+    "bbox": [
+      "337.67",
+      "46.55",
+      "500.16",
+      "55.04"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Lightly battered soft shell crab stopped with",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "beans and lime juice",
+    "bbox": [
+      "147.98",
+      "60.14",
+      "224.33",
+      "68.63"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "beans and lime juice",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "mango tangy sauce",
+    "bbox": [
+      "382.45",
+      "60.14",
+      "455.38",
+      "68.63"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "mango tangy sauce",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$9.95",
+    "bbox": [
+      "172.93",
+      "87.66",
+      "199.38",
+      "97.86"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$9.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$12.95",
+    "bbox": [
+      "403.98",
+      "87.66",
+      "433.86",
+      "97.86"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$12.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SOUPS",
+    "bbox": [
+      "282.71",
+      "156.65",
+      "330.29",
+      "172.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "This is a section of your menu, customize it any way you want.",
+    "bbox": [
+      "161.58",
+      "185.87",
+      "451.42",
+      "196.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WILD MUSHROOM SOUP",
+    "bbox": [
+      "119.06",
+      "252.13",
+      "253.24",
+      "263.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "WILD MUSHROOM SOUP",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TOM YUM KOONG",
+    "bbox": [
+      "370.21",
+      "252.13",
+      "467.62",
+      "263.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "TOM YUM KOONG",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Combination of Trio mushrooms in double",
+    "bbox": [
+      "108.10",
+      "277.61",
+      "264.22",
+      "286.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Combination of Trio mushrooms in double",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Spicy sweet and sour soup with lemon grass",
+    "bbox": [
+      "336.48",
+      "277.61",
+      "501.36",
+      "286.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Spicy sweet and sour soup with lemon grass",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "clarified broth",
+    "bbox": [
+      "160.55",
+      "291.20",
+      "211.76",
+      "299.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "clarified broth",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "and mushroom",
+    "bbox": [
+      "391.02",
+      "291.20",
+      "446.82",
+      "299.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "and mushroom",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$6.95",
+    "bbox": [
+      "172.93",
+      "318.72",
+      "199.38",
+      "328.92"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$6.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$6.95",
+    "bbox": [
+      "405.69",
+      "318.72",
+      "432.14",
+      "328.92"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$6.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TOM KA KAI",
+    "bbox": [
+      "154.39",
+      "372.19",
+      "217.92",
+      "383.52"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "TOM KA KAI",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TOFU SOUP",
+    "bbox": [
+      "386.80",
+      "372.19",
+      "451.03",
+      "383.52"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "TOFU",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "A combination of coconut milk, lemongrass,",
+    "bbox": [
+      "105.29",
+      "397.67",
+      "267.03",
+      "406.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "A combination of coconut milk, lemongrass,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Soft tofu and mixed vegetables in a clear",
+    "bbox": [
+      "343.17",
+      "397.67",
+      "494.66",
+      "406.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Soft tofu and mixed vegetables in a clear",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "galangal and chicken with mushroom",
+    "bbox": [
+      "117.04",
+      "411.26",
+      "255.27",
+      "419.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "galangal and chicken with mushroom",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "broth soup",
+    "bbox": [
+      "398.78",
+      "411.26",
+      "439.05",
+      "419.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "broth soup",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$6.95",
+    "bbox": [
+      "172.93",
+      "438.78",
+      "199.38",
+      "448.98"
+    ],
+    "annots": [
+      {
+        "PW": [
+          {
+            "text": "$6.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$6.95",
+    "bbox": [
+      "405.69",
+      "438.78",
+      "432.14",
+      "448.98"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$6.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "NOODLES",
+    "bbox": [
+      "273.19",
+      "507.78",
+      "339.80",
+      "523.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHOICE OF : CHICKEN, TOFU, VEGETABLES (BEEF, SHRIMP, OR CALAMARI EXTRA $2)",
+    "bbox": [
+      "104.48",
+      "537.00",
+      "508.52",
+      "547.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PAD THAI",
+    "bbox": [
+      "160.72",
+      "603.26",
+      "211.59",
+      "614.58"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "PAD THAI",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PAD SEE EW",
+    "bbox": [
+      "385.19",
+      "603.26",
+      "452.63",
+      "614.58"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "PAD SEE EW",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sautéed rice noodles with egg, bean curd,",
+    "bbox": [
+      "107.64",
+      "628.73",
+      "264.68",
+      "637.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sautéed flat rice noodles with egg and Asian",
+    "bbox": [
+      "335.98",
+      "628.73",
+      "501.85",
+      "637.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "spring onion, bean sprout and ground",
+    "bbox": [
+      "116.01",
+      "642.32",
+      "256.30",
+      "650.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "broccoli in sweet brown sauce",
+    "bbox": [
+      "362.51",
+      "642.32",
+      "475.32",
+      "650.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "peanuts",
+    "bbox": [
+      "171.19",
+      "655.92",
+      "201.12",
+      "664.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$13.95",
+    "bbox": [
+      "404.14",
+      "669.85",
+      "433.70",
+      "680.04"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$13.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$13.95",
+    "bbox": [
+      "171.38",
+      "683.44",
+      "200.94",
+      "693.63"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$13.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Widget Didn’t Load",
+    "bbox": [
+      "463.37",
+      "732.93",
+      "530.36",
+      "740.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PAD KEE MAO",
+    "bbox": [
+      "148.71",
+      "736.91",
+      "223.61",
+      "748.23"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "PAD KEE MAO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "KUA KAI",
+    "bbox": [
+      "403.24",
+      "736.91",
+      "447.04",
+      "748.23"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "KUA K",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Check your internet and refresh",
+    "bbox": [
+      "463.37",
+      "744.25",
+      "574.43",
+      "752.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "this page.",
+    "bbox": [
+      "463.37",
+      "755.58",
+      "497.75",
+      "763.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sédfl",
+    "bbox": [
+      "110.31",
+      "762.38",
+      "147.90",
+      "770.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "dl",
+    "bbox": [
+      "187.36",
+      "762.38",
+      "194.16",
+      "770.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "h",
+    "bbox": [
+      "215.73",
+      "762.38",
+      "220.41",
+      "770.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sfdfh",
+    "bbox": [
+      "334.95",
+      "762.38",
+      "387.29",
+      "770.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "dl",
+    "bbox": [
+      "403.89",
+      "762.38",
+      "410.68",
+      "770.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "hhk",
+    "bbox": [
+      "432.25",
+      "762.38",
+      "458.51",
+      "770.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "d",
+    "bbox": [
+      "498.00",
+      "762.38",
+      "502.88",
+      "770.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.siwathai.com/menus",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "142.05",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/16/22, 11:54 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Menus | SIWA THAI RESTAURANT",
+    "bbox": [
+      "290.02",
+      "15.70",
+      "417.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sautéed flat rice noodles with egg, string",
+    "bbox": [
+      "110.31",
+      "27.86",
+      "262.01",
+      "36.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Stir-fried fresh noodles with chicken, egg and",
+    "bbox": [
+      "334.95",
+      "27.86",
+      "502.88",
+      "36.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "bean, onion, bell pepper, Thai basil,",
+    "bbox": [
+      "120.12",
+      "41.45",
+      "252.20",
+      "49.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "preserved cabbage serve with Thai Sriracha",
+    "bbox": [
+      "337.20",
+      "41.45",
+      "500.63",
+      "49.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "mushrooms",
+    "bbox": [
+      "164.40",
+      "55.04",
+      "207.92",
+      "63.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$14.95",
+    "bbox": [
+      "404.13",
+      "68.97",
+      "433.70",
+      "79.17"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$14.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$13.95",
+    "bbox": [
+      "171.38",
+      "82.56",
+      "200.94",
+      "92.76"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "$13.95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SAMUI NOODLES",
+    "bbox": [
+      "146.01",
+      "153.59",
+      "238.75",
+      "164.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "LARD NAR Noodle",
+    "bbox": [
+      "369.80",
+      "153.59",
+      "468.03",
+      "164.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Stir-fried fresh rice noodles with Thai curry",
+    "bbox": [
+      "107.74",
+      "179.07",
+      "264.58",
+      "187.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pan fried noodles topped with Asian Broccoli",
+    "bbox": [
+      "335.52",
+      "179.07",
+      "502.31",
+      "187.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Powder and chicken",
+    "bbox": [
+      "148.25",
+      "192.66",
+      "224.06",
+      "201.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "in brown gravy sauce",
+    "bbox": [
+      "379.31",
+      "192.66",
+      "458.51",
+      "201.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$15.95",
+    "bbox": [
+      "171.21",
+      "220.18",
+      "201.11",
+      "230.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$14.95",
+    "bbox": [
+      "404.13",
+      "220.18",
+      "433.70",
+      "230.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "FRIED RICE",
+    "bbox": [
+      "258.92",
+      "289.18",
+      "354.08",
+      "305.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CHOICE OF : CHICKEN, TOFU, VEGETABLES (BEEF, SHRIMP, OR CALAMARI EXTRA $2)",
+    "bbox": [
+      "104.48",
+      "318.39",
+      "508.52",
+      "328.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "THAI FRIED RICE",
+    "bbox": [
+      "142.03",
+      "384.65",
+      "230.28",
+      "395.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "DRUNKEN FRIED RICE",
+    "bbox": [
+      "359.80",
+      "384.65",
+      "478.03",
+      "395.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sautéed with tomato, onion, egg and scallion",
+    "bbox": [
+      "102.66",
+      "410.13",
+      "269.66",
+      "418.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sautéed with egg, fresh Thai basil, onion,",
+    "bbox": [
+      "342.59",
+      "410.13",
+      "495.23",
+      "418.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "mushrooms, string bean and bell pepper",
+    "bbox": [
+      "343.69",
+      "423.72",
+      "494.14",
+      "432.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$13.95",
+    "bbox": [
+      "171.38",
+      "437.65",
+      "200.94",
+      "447.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$13.95",
+    "bbox": [
+      "404.14",
+      "451.24",
+      "433.70",
+      "461.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PINEAPPLE FRIED RICE",
+    "bbox": [
+      "124.52",
+      "522.27",
+      "247.79",
+      "533.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SIWA FRIED RICE",
+    "bbox": [
+      "379.63",
+      "522.27",
+      "470.66",
+      "533.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sautéed with egg, cashew nut, pineapple,",
+    "bbox": [
+      "108.61",
+      "547.75",
+      "263.70",
+      "556.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chili paste, lemongrass, Kaffir lime leaves,",
+    "bbox": [
+      "341.24",
+      "547.75",
+      "496.59",
+      "556.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "onion and tomatoes",
+    "bbox": [
+      "149.05",
+      "561.34",
+      "223.26",
+      "569.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "bell pepper, mushrooms and fried egg mixed",
+    "bbox": [
+      "335.42",
+      "561.34",
+      "502.41",
+      "569.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "with rice",
+    "bbox": [
+      "403.31",
+      "574.93",
+      "434.53",
+      "583.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$13.95",
+    "bbox": [
+      "171.38",
+      "588.86",
+      "200.94",
+      "599.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$13.95",
+    "bbox": [
+      "404.14",
+      "602.45",
+      "433.70",
+      "612.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "DUCK",
+    "bbox": [
+      "287.47",
+      "689.00",
+      "325.53",
+      "704.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Widget Didn’t Load",
+    "bbox": [
+      "463.37",
+      "732.93",
+      "530.36",
+      "740.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Check your internet and refresh",
+    "bbox": [
+      "463.37",
+      "744.25",
+      "574.43",
+      "752.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "this page.",
+    "bbox": [
+      "463.37",
+      "755.58",
+      "497.75",
+      "763.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.siwathai.com/menus",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "142.05",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/16/22, 11:54 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Menus | SIWA THAI RESTAURANT",
+    "bbox": [
+      "290.02",
+      "15.70",
+      "417.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "HONEY DUCK",
+    "bbox": [
+      "148.92",
+      "29.00",
+      "223.39",
+      "40.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BANGKOK DUCK",
+    "bbox": [
+      "374.36",
+      "29.00",
+      "463.46",
+      "40.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Roasted boneless half-duck with honey",
+    "bbox": [
+      "113.22",
+      "54.48",
+      "259.08",
+      "62.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Crispy boneless half-duck topped with",
+    "bbox": [
+      "347.80",
+      "54.48",
+      "490.04",
+      "62.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ginger sauce with baby bok choy",
+    "bbox": [
+      "124.78",
+      "68.07",
+      "247.53",
+      "76.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "panang curry, fresh pineapple, asparagus and",
+    "bbox": [
+      "333.97",
+      "68.07",
+      "503.88",
+      "76.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "tomato",
+    "bbox": [
+      "405.89",
+      "81.66",
+      "431.94",
+      "90.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$23.95",
+    "bbox": [
+      "170.10",
+      "95.59",
+      "202.20",
+      "105.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$23.95",
+    "bbox": [
+      "402.86",
+      "109.18",
+      "434.96",
+      "119.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BASIL DUCK",
+    "bbox": [
+      "153.26",
+      "180.21",
+      "219.05",
+      "191.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "TAMARIND DUCK",
+    "bbox": [
+      "372.40",
+      "180.21",
+      "465.42",
+      "191.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Crispy boneless half-duck topped with Thai",
+    "bbox": [
+      "105.99",
+      "205.69",
+      "266.33",
+      "214.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Roasted boneless half-duck served with",
+    "bbox": [
+      "344.90",
+      "205.69",
+      "492.94",
+      "214.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "basil, chili, garlic, mushroom, string bean,",
+    "bbox": [
+      "110.26",
+      "219.28",
+      "262.05",
+      "227.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "tamarind sauce and baby bok choy",
+    "bbox": [
+      "353.85",
+      "219.28",
+      "483.97",
+      "227.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "onion and bell pepper",
+    "bbox": [
+      "145.13",
+      "232.87",
+      "227.18",
+      "241.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$23.95",
+    "bbox": [
+      "402.86",
+      "246.80",
+      "434.96",
+      "256.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$23.95",
+    "bbox": [
+      "170.10",
+      "260.39",
+      "202.20",
+      "270.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "GREEN CURRY DUCK",
+    "bbox": [
+      "129.31",
+      "331.42",
+      "243.00",
+      "342.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cashew DUCK",
+    "bbox": [
+      "380.76",
+      "331.42",
+      "457.07",
+      "342.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Crispy boneless half-duck topped with",
+    "bbox": [
+      "115.04",
+      "356.89",
+      "257.28",
+      "365.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Crispy boneless half-duck topped with",
+    "bbox": [
+      "347.80",
+      "356.89",
+      "490.04",
+      "365.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "coconut milk, bamboo shoot, Thai eggplant,",
+    "bbox": [
+      "104.94",
+      "370.49",
+      "267.36",
+      "378.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "cashew nut, bell pepper, onion, scallion,",
+    "bbox": [
+      "344.76",
+      "370.49",
+      "493.07",
+      "378.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "bell pepper and Thai basil",
+    "bbox": [
+      "138.01",
+      "384.08",
+      "234.31",
+      "392.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "asparagus and carrot",
+    "bbox": [
+      "379.61",
+      "384.08",
+      "458.23",
+      "392.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$23.95",
+    "bbox": [
+      "170.10",
+      "411.60",
+      "202.20",
+      "421.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$23.95",
+    "bbox": [
+      "402.86",
+      "411.60",
+      "434.96",
+      "421.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "FISH (“PLA”)",
+    "bbox": [
+      "249.41",
+      "498.15",
+      "363.60",
+      "514.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CHOICE OF ; FRIED WHOLE SNAPPER $29.95 FRIED BASA FILLETS OR GRILLED",
+    "bbox": [
+      "118.13",
+      "527.37",
+      "494.86",
+      "537.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "SALMON $24.95",
+    "bbox": [
+      "268.21",
+      "537.56",
+      "344.80",
+      "547.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "PLA BASIL",
+    "bbox": [
+      "158.45",
+      "603.82",
+      "213.84",
+      "615.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "PLA GREEN CURRY",
+    "bbox": [
+      "367.27",
+      "603.82",
+      "470.56",
+      "615.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Choice of fish topped with Thai basil, chili,",
+    "bbox": [
+      "108.44",
+      "629.30",
+      "263.86",
+      "637.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Choice of fish topped with coconut milk,",
+    "bbox": [
+      "344.60",
+      "629.30",
+      "493.23",
+      "637.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "garlic, onion, mushroom, bell pepper and",
+    "bbox": [
+      "110.14",
+      "642.89",
+      "262.18",
+      "651.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "bamboo shoot, Thai eggplant, bell pepper",
+    "bbox": [
+      "340.98",
+      "642.89",
+      "496.85",
+      "651.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "string bean",
+    "bbox": [
+      "165.29",
+      "656.48",
+      "207.03",
+      "664.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "and Thai basil",
+    "bbox": [
+      "393.17",
+      "656.48",
+      "444.65",
+      "664.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$24.95",
+    "bbox": [
+      "170.10",
+      "684.00",
+      "202.21",
+      "694.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$24.95",
+    "bbox": [
+      "402.86",
+      "684.00",
+      "434.97",
+      "694.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Widget Didn’t Load",
+    "bbox": [
+      "463.37",
+      "732.93",
+      "530.36",
+      "740.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Check your internet and refresh",
+    "bbox": [
+      "463.37",
+      "744.25",
+      "574.43",
+      "752.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "PLASAMROD",
+    "bbox": [
+      "148.45",
+      "755.03",
+      "223.85",
+      "766.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "PLAGARLICthis page.",
+    "bbox": [
+      "386.64",
+      "755.03",
+      "497.75",
+      "766.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.siwathai.com/menus",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "142.05",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/16/22, 11:54 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Menus | SIWA THAI RESTAURANT",
+    "bbox": [
+      "290.02",
+      "15.70",
+      "417.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "PLA SAM ROD",
+    "bbox": [
+      "148.45",
+      "20.51",
+      "223.85",
+      "31.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "PLA GARLIC",
+    "bbox": [
+      "386.64",
+      "20.51",
+      "451.18",
+      "31.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Choice of fish topped with sweet chili sauce",
+    "bbox": [
+      "104.76",
+      "45.98",
+      "267.55",
+      "54.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Choice of fish topped with garlic and",
+    "bbox": [
+      "350.98",
+      "45.98",
+      "486.84",
+      "54.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "and broccoli",
+    "bbox": [
+      "163.22",
+      "59.57",
+      "209.09",
+      "68.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "mushroom soy sauce served with broccoli",
+    "bbox": [
+      "340.95",
+      "59.57",
+      "496.88",
+      "68.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$24.95",
+    "bbox": [
+      "170.10",
+      "87.10",
+      "202.21",
+      "97.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$24.95",
+    "bbox": [
+      "402.86",
+      "87.10",
+      "434.97",
+      "97.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "PLA TAMARIND",
+    "bbox": [
+      "265.18",
+      "158.12",
+      "347.81",
+      "169.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Choice of fish topped with sweet and sour",
+    "bbox": [
+      "228.29",
+      "183.60",
+      "384.70",
+      "192.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "tamarind sauce",
+    "bbox": [
+      "278.06",
+      "197.19",
+      "334.94",
+      "205.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$24.95",
+    "bbox": [
+      "290.45",
+      "224.71",
+      "322.56",
+      "234.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ENTREES (SAUTEED)",
+    "bbox": [
+      "225.61",
+      "293.71",
+      "387.38",
+      "309.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CHOICE OF : CHICKEN, TOFU, VEGETABLES (BEEF, SHRIMP, OR CALAMARI EXTRA $2)",
+    "bbox": [
+      "104.48",
+      "322.92",
+      "508.52",
+      "333.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "PAD KRA PAO",
+    "bbox": [
+      "149.81",
+      "389.18",
+      "222.49",
+      "400.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "PAD GINGER",
+    "bbox": [
+      "385.32",
+      "389.18",
+      "452.51",
+      "400.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sautéed with chili pepper, mushrooms, onion,",
+    "bbox": [
+      "101.50",
+      "414.66",
+      "270.82",
+      "423.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sautéed with fresh ginger, mushroom, onion,",
+    "bbox": [
+      "335.74",
+      "414.66",
+      "502.09",
+      "423.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "bell pepper, string bean and fresh Thai basil",
+    "bbox": [
+      "104.66",
+      "428.25",
+      "267.66",
+      "436.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "bell pepper, baby corn, scallion, carrot and",
+    "bbox": [
+      "339.91",
+      "428.25",
+      "497.91",
+      "436.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "celery",
+    "bbox": [
+      "407.59",
+      "441.84",
+      "430.24",
+      "450.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$14.95",
+    "bbox": [
+      "171.37",
+      "455.77",
+      "200.94",
+      "465.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$14.95",
+    "bbox": [
+      "404.13",
+      "469.37",
+      "433.70",
+      "479.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "PAD CASHEW",
+    "bbox": [
+      "149.00",
+      "526.80",
+      "223.31",
+      "538.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "PAD GARLIC",
+    "bbox": [
+      "386.18",
+      "526.80",
+      "451.65",
+      "538.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Stir-fried with cashew nut, bell pepper, onion,",
+    "bbox": [
+      "102.41",
+      "552.28",
+      "269.90",
+      "560.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sautéed with garlic and black pepper served",
+    "bbox": [
+      "335.94",
+      "552.28",
+      "501.89",
+      "560.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "scallion, asparagus and carrot",
+    "bbox": [
+      "130.82",
+      "565.87",
+      "241.50",
+      "574.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "over broccoli",
+    "bbox": [
+      "394.70",
+      "565.87",
+      "443.13",
+      "574.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$14.95",
+    "bbox": [
+      "171.37",
+      "593.39",
+      "200.94",
+      "603.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$14.95",
+    "bbox": [
+      "404.13",
+      "593.39",
+      "433.70",
+      "603.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "PAD PHRIK KHING",
+    "bbox": [
+      "138.04",
+      "664.42",
+      "234.26",
+      "675.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "PAD PREAW WAN",
+    "bbox": [
+      "371.03",
+      "664.42",
+      "466.80",
+      "675.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sautéed with string beans, onion, bell",
+    "bbox": [
+      "116.52",
+      "689.89",
+      "255.78",
+      "698.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Thai-style sweet & sour with tomato,",
+    "bbox": [
+      "351.89",
+      "689.89",
+      "485.94",
+      "698.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "pepper, Phrik khing curry paste",
+    "bbox": [
+      "128.07",
+      "703.49",
+      "244.24",
+      "711.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "pineapple, onion, bell pepper and green",
+    "bbox": [
+      "344.22",
+      "703.49",
+      "493.61",
+      "711.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "onion in tomato-tamarind sauce",
+    "bbox": [
+      "360.19",
+      "717.08",
+      "477.65",
+      "725.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$14.95",
+    "bbox": [
+      "171.37",
+      "731.01",
+      "200.94",
+      "741.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Widget Didn’t Load",
+    "bbox": [
+      "463.37",
+      "732.93",
+      "530.36",
+      "740.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$14.95",
+    "bbox": [
+      "404.13",
+      "744.60",
+      "433.70",
+      "754.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Check your internet and refresh",
+    "bbox": [
+      "463.37",
+      "744.25",
+      "574.43",
+      "752.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "this page.",
+    "bbox": [
+      "463.37",
+      "755.58",
+      "497.75",
+      "763.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://www.siwathai.com/menus",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "142.05",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/16/22, 11:54 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Menus | SIWA THAI RESTAURANT",
+    "bbox": [
+      "290.02",
+      "15.70",
+      "417.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ENTREES SPECIALS",
+    "bbox": [
+      "230.37",
+      "83.03",
+      "382.63",
+      "98.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SHRIMP PRA RAM",
+    "bbox": [
+      "138.55",
+      "157.56",
+      "233.75",
+      "168.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CHU CHEE JUMBO SHRIMP",
+    "bbox": [
+      "346.07",
+      "157.56",
+      "491.74",
+      "168.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Grilled jumbo shrimps served with broccoli",
+    "bbox": [
+      "107.26",
+      "183.03",
+      "265.04",
+      "191.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Fried Jumbo Shrimp with Chu Chee Red",
+    "bbox": [
+      "344.46",
+      "183.03",
+      "493.37",
+      "191.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "topped fried shallots and peanut sauce",
+    "bbox": [
+      "113.74",
+      "196.62",
+      "258.58",
+      "205.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Curry",
+    "bbox": [
+      "408.82",
+      "196.62",
+      "429.01",
+      "205.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$21.95",
+    "bbox": [
+      "171.22",
+      "224.15",
+      "201.10",
+      "234.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$22.95",
+    "bbox": [
+      "402.70",
+      "224.15",
+      "435.12",
+      "234.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SOFT SHELL CRAB GARLIC",
+    "bbox": [
+      "114.33",
+      "277.62",
+      "257.97",
+      "288.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SOFT SHELL CRAB BASIL",
+    "bbox": [
+      "351.66",
+      "277.62",
+      "486.16",
+      "288.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Two lightly battered soft shell crab with garlic",
+    "bbox": [
+      "102.31",
+      "303.09",
+      "270.00",
+      "311.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Two lightly battered soft shell crab with chili",
+    "bbox": [
+      "337.85",
+      "303.09",
+      "499.98",
+      "311.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "and black pepper served over broccoli",
+    "bbox": [
+      "114.45",
+      "316.69",
+      "257.86",
+      "325.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "pepper, mushrooms, onion, bell pepper,",
+    "bbox": [
+      "344.68",
+      "316.69",
+      "493.16",
+      "325.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "string bean and fresh Thai basil",
+    "bbox": [
+      "360.81",
+      "330.28",
+      "477.03",
+      "338.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$22.95",
+    "bbox": [
+      "169.94",
+      "344.21",
+      "202.36",
+      "354.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$22.95",
+    "bbox": [
+      "402.70",
+      "357.80",
+      "435.12",
+      "367.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "THAI CURRY",
+    "bbox": [
+      "258.92",
+      "444.35",
+      "354.08",
+      "460.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CHOICE OF : CHICKEN, TOFU, VEGETABLES (BEEF, SHRIMP, OR CALAMARI EXTRA $2)",
+    "bbox": [
+      "104.48",
+      "473.57",
+      "508.52",
+      "483.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "GREEN CURRY (MOST SPICY)",
+    "bbox": [
+      "108.74",
+      "539.83",
+      "263.57",
+      "551.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RED CURRY",
+    "bbox": [
+      "387.19",
+      "539.83",
+      "450.64",
+      "551.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "With coconut milk, bamboo shoot, string,",
+    "bbox": [
+      "110.73",
+      "565.30",
+      "261.59",
+      "573.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "With coconut milk, bamboo shoot, string, bell",
+    "bbox": [
+      "335.65",
+      "565.30",
+      "502.19",
+      "573.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "eggplant, bell pepper and Thai basil",
+    "bbox": [
+      "119.45",
+      "578.89",
+      "252.86",
+      "587.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "pepper and Thai basil",
+    "bbox": [
+      "378.61",
+      "578.89",
+      "459.23",
+      "587.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$14.95",
+    "bbox": [
+      "171.37",
+      "606.42",
+      "200.94",
+      "616.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$14.95",
+    "bbox": [
+      "404.13",
+      "606.42",
+      "433.70",
+      "616.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "PANANG CURRY",
+    "bbox": [
+      "141.93",
+      "677.44",
+      "230.38",
+      "688.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MASSAMAN CURRY",
+    "bbox": [
+      "365.86",
+      "677.44",
+      "471.97",
+      "688.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "With coconut milk, kaffir lime leaves, bell",
+    "bbox": [
+      "111.11",
+      "702.92",
+      "261.20",
+      "711.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "With coconut milk, peanut, onion and potato",
+    "bbox": [
+      "337.04",
+      "702.92",
+      "500.79",
+      "711.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "pepper, carrot and onion",
+    "bbox": [
+      "140.08",
+      "716.51",
+      "232.23",
+      "725.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$14.95",
+    "bbox": [
+      "404.13",
+      "730.44",
+      "433.70",
+      "740.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Widget Didn’t Load",
+    "bbox": [
+      "463.37",
+      "732.93",
+      "530.36",
+      "740.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$14.95",
+    "bbox": [
+      "171.37",
+      "744.03",
+      "200.94",
+      "754.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Check your internet and refresh",
+    "bbox": [
+      "463.37",
+      "744.25",
+      "574.43",
+      "752.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "this page.",
+    "bbox": [
+      "463.37",
+      "755.58",
+      "497.75",
+      "763.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://www.siwathai.com/menus",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "142.05",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/16/22, 11:54 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Menus | SIWA THAI RESTAURANT",
+    "bbox": [
+      "290.02",
+      "15.70",
+      "417.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "GRILL",
+    "bbox": [
+      "282.71",
+      "96.06",
+      "330.29",
+      "111.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "SERVED WITH GRILLED MIXED VEGETABLES AND BLCK STICKY RICE WRAPPED IN",
+    "bbox": [
+      "108.79",
+      "125.28",
+      "504.22",
+      "135.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BANANA LEAF",
+    "bbox": [
+      "271.15",
+      "135.47",
+      "341.84",
+      "145.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "GRILLED BEEF",
+    "bbox": [
+      "147.44",
+      "201.73",
+      "224.86",
+      "213.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "GRILLED JUMBO SHRIMP",
+    "bbox": [
+      "351.57",
+      "201.73",
+      "486.26",
+      "213.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$17.95",
+    "bbox": [
+      "171.59",
+      "226.98",
+      "200.72",
+      "237.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$21.95",
+    "bbox": [
+      "403.98",
+      "226.98",
+      "433.86",
+      "237.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "GRILLED SALMON",
+    "bbox": [
+      "137.36",
+      "280.45",
+      "234.94",
+      "291.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "GRILLED SQUID",
+    "bbox": [
+      "376.80",
+      "280.45",
+      "461.02",
+      "291.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$24.95",
+    "bbox": [
+      "170.10",
+      "305.70",
+      "202.21",
+      "315.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$21.95",
+    "bbox": [
+      "403.98",
+      "305.70",
+      "433.86",
+      "315.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "GRILLED SEAFOOD",
+    "bbox": [
+      "255.27",
+      "359.17",
+      "357.73",
+      "370.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "COMBINAYION",
+    "bbox": [
+      "266.80",
+      "376.16",
+      "346.20",
+      "387.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "(Shrimp, squid and salmon)",
+    "bbox": [
+      "256.54",
+      "401.63",
+      "356.46",
+      "410.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$34.95",
+    "bbox": [
+      "290.60",
+      "429.16",
+      "322.39",
+      "439.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "KIDS (FOR OUR GUEST 11 OR YOUNGER)",
+    "bbox": [
+      "144.73",
+      "498.15",
+      "468.27",
+      "514.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CHICKEN FINGERS WITH",
+    "bbox": [
+      "119.74",
+      "572.67",
+      "252.57",
+      "584.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "HOT DOGS WITH FRIES",
+    "bbox": [
+      "356.78",
+      "572.67",
+      "481.05",
+      "584.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "FRENCH FRIES",
+    "bbox": [
+      "146.50",
+      "589.66",
+      "225.82",
+      "600.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$7",
+    "bbox": [
+      "413.27",
+      "597.92",
+      "424.57",
+      "608.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$8",
+    "bbox": [
+      "180.17",
+      "614.91",
+      "192.14",
+      "625.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "FRIES",
+    "bbox": [
+      "170.85",
+      "668.38",
+      "201.45",
+      "679.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CHICKEN NOODLE SOUP",
+    "bbox": [
+      "352.04",
+      "668.38",
+      "485.78",
+      "679.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$5",
+    "bbox": [
+      "180.13",
+      "693.63",
+      "192.19",
+      "703.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$5",
+    "bbox": [
+      "412.89",
+      "693.63",
+      "424.95",
+      "703.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Widget Didn’t Load",
+    "bbox": [
+      "463.37",
+      "732.93",
+      "530.36",
+      "740.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Check your internet and refresh",
+    "bbox": [
+      "463.37",
+      "744.25",
+      "574.43",
+      "752.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "this page.",
+    "bbox": [
+      "463.37",
+      "755.58",
+      "497.75",
+      "763.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://www.siwathai.com/menus",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "142.05",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "4/16/22, 11:54 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Menus | SIWA THAI RESTAURANT",
+    "bbox": [
+      "290.02",
+      "15.70",
+      "417.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "DESSERTS",
+    "bbox": [
+      "268.43",
+      "28.10",
+      "344.56",
+      "43.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "SWEET STICKY RICE WITH",
+    "bbox": [
+      "115.30",
+      "102.62",
+      "257.01",
+      "113.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "FRIED BANANA",
+    "bbox": [
+      "377.62",
+      "102.62",
+      "460.21",
+      "113.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "MANGO",
+    "bbox": [
+      "164.68",
+      "119.61",
+      "207.63",
+      "130.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$6.50",
+    "bbox": [
+      "405.58",
+      "127.87",
+      "432.25",
+      "138.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$6.50",
+    "bbox": [
+      "172.82",
+      "144.86",
+      "199.49",
+      "155.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "FRIED ICE CREAM",
+    "bbox": [
+      "138.76",
+      "198.33",
+      "233.54",
+      "209.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "CRÈME BRULEE CHEESECAKE",
+    "bbox": [
+      "338.14",
+      "198.33",
+      "499.69",
+      "209.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$6.50",
+    "bbox": [
+      "172.82",
+      "223.58",
+      "199.49",
+      "233.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$6.50",
+    "bbox": [
+      "405.58",
+      "223.58",
+      "432.25",
+      "233.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "CRÈME BRULEE",
+    "bbox": [
+      "143.32",
+      "277.05",
+      "228.99",
+      "288.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "ICE CREAM WITH STICKY RICE",
+    "bbox": [
+      "337.67",
+      "277.05",
+      "500.15",
+      "288.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$6.50",
+    "bbox": [
+      "172.82",
+      "302.30",
+      "199.49",
+      "312.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$6.50",
+    "bbox": [
+      "405.58",
+      "302.30",
+      "432.25",
+      "312.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "DRINK",
+    "bbox": [
+      "282.71",
+      "371.29",
+      "330.29",
+      "387.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "THAI ICE TEA",
+    "bbox": [
+      "150.93",
+      "445.82",
+      "221.38",
+      "457.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "THAI ICE COFFEE",
+    "bbox": [
+      "372.75",
+      "445.82",
+      "465.07",
+      "457.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(S)3.00/(L)5.00",
+    "bbox": [
+      "158.80",
+      "471.29",
+      "213.50",
+      "479.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(S)3.00/(L)5.00",
+    "bbox": [
+      "391.56",
+      "471.29",
+      "446.26",
+      "479.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$3",
+    "bbox": [
+      "180.30",
+      "498.81",
+      "192.02",
+      "509.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$3",
+    "bbox": [
+      "413.06",
+      "498.81",
+      "424.78",
+      "509.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "SODA",
+    "bbox": [
+      "170.72",
+      "552.29",
+      "201.58",
+      "563.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "HOT TEA",
+    "bbox": [
+      "395.00",
+      "552.29",
+      "442.84",
+      "563.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Coke, Diet coke, Sprite, Ginger Ale, Club",
+    "bbox": [
+      "110.90",
+      "577.76",
+      "261.41",
+      "586.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "green tea, jasmine tea, chamomile tea",
+    "bbox": [
+      "348.31",
+      "577.76",
+      "489.51",
+      "586.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "soda",
+    "bbox": [
+      "177.07",
+      "591.35",
+      "195.24",
+      "599.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$3",
+    "bbox": [
+      "413.06",
+      "605.28",
+      "424.78",
+      "615.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$2.50",
+    "bbox": [
+      "172.84",
+      "618.88",
+      "199.47",
+      "629.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "ICE TEA",
+    "bbox": [
+      "165.24",
+      "672.35",
+      "207.07",
+      "683.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "UNSWEET ICE TEA",
+    "bbox": [
+      "368.28",
+      "672.35",
+      "469.54",
+      "683.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "green tea, jasmine tea, chamomile tea",
+    "bbox": [
+      "115.55",
+      "697.82",
+      "256.75",
+      "706.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$3",
+    "bbox": [
+      "413.06",
+      "697.59",
+      "424.78",
+      "707.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$3",
+    "bbox": [
+      "180.30",
+      "725.34",
+      "192.02",
+      "735.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Widget Didn’t Load",
+    "bbox": [
+      "463.37",
+      "732.93",
+      "530.36",
+      "740.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Check your internet and refresh",
+    "bbox": [
+      "463.37",
+      "744.25",
+      "574.43",
+      "752.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "this page.",
+    "bbox": [
+      "463.37",
+      "755.58",
+      "497.75",
+      "763.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "https://www.siwathai.com/menus",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "142.05",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "9/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "4/16/22, 11:54 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Menus | SIWA THAI RESTAURANT",
+    "bbox": [
+      "290.02",
+      "15.70",
+      "417.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "SPARKLING WATER",
+    "bbox": [
+      "134.10",
+      "44.29",
+      "238.21",
+      "55.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "BOTTLED WATER",
+    "bbox": [
+      "372.25",
+      "44.29",
+      "465.58",
+      "55.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$5",
+    "bbox": [
+      "180.13",
+      "69.54",
+      "192.19",
+      "79.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$2",
+    "bbox": [
+      "412.90",
+      "69.54",
+      "424.94",
+      "79.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "SIWA THAI LUNCH SPECIALS",
+    "bbox": [
+      "192.31",
+      "138.53",
+      "420.69",
+      "154.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Served Tues-Fri: 11.30am – 3.00pm All lunch specials include side-salad with Thai",
+    "bbox": [
+      "115.95",
+      "167.75",
+      "497.06",
+      "177.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "peanut sauce Choice of: Chicken, Tofu/Vegetables (Beef, Shrimp or Calamari extra $2)",
+    "bbox": [
+      "104.79",
+      "177.94",
+      "508.21",
+      "188.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "*Indicates dish is spicy",
+    "bbox": [
+      "254.26",
+      "188.14",
+      "358.75",
+      "198.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "LARD NAR",
+    "bbox": [
+      "157.94",
+      "254.40",
+      "214.38",
+      "265.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "THAI FRIED RICE",
+    "bbox": [
+      "374.79",
+      "254.40",
+      "463.04",
+      "265.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Pan fried noodles topped with Asian Broccoli",
+    "bbox": [
+      "102.76",
+      "279.87",
+      "269.55",
+      "288.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Sautéed with tomato, onion, egg and scallion",
+    "bbox": [
+      "335.42",
+      "279.87",
+      "502.42",
+      "288.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "in brown gravy sauce",
+    "bbox": [
+      "146.55",
+      "293.47",
+      "225.75",
+      "301.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$10.99",
+    "bbox": [
+      "403.85",
+      "307.40",
+      "433.98",
+      "317.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$10.99",
+    "bbox": [
+      "171.09",
+      "320.99",
+      "201.22",
+      "331.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "DRUNKEN FRIED RICE",
+    "bbox": [
+      "127.04",
+      "374.46",
+      "245.27",
+      "385.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "PINEAPPLE FRIED RICE",
+    "bbox": [
+      "357.28",
+      "374.46",
+      "480.55",
+      "385.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Sautéed with egg, fresh Thai basil, onion,",
+    "bbox": [
+      "109.83",
+      "399.94",
+      "262.47",
+      "408.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Sautéed with egg, cashew nut, pineapple,",
+    "bbox": [
+      "341.37",
+      "399.94",
+      "496.46",
+      "408.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "mushrooms, string bean and bell pepper",
+    "bbox": [
+      "110.93",
+      "413.53",
+      "261.38",
+      "422.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "onion and tomatoes",
+    "bbox": [
+      "381.81",
+      "413.53",
+      "456.02",
+      "422.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$10.99",
+    "bbox": [
+      "171.09",
+      "441.05",
+      "201.22",
+      "451.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$10.99",
+    "bbox": [
+      "403.85",
+      "441.05",
+      "433.98",
+      "451.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "PAD KRA PAO",
+    "bbox": [
+      "149.81",
+      "512.08",
+      "222.49",
+      "523.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "PAD GINGER",
+    "bbox": [
+      "385.32",
+      "512.08",
+      "452.51",
+      "523.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Sautéed with chili pepper, mushrooms, onion,",
+    "bbox": [
+      "101.50",
+      "537.55",
+      "270.82",
+      "546.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Sautéed with fresh ginger, mushroom, onion,",
+    "bbox": [
+      "335.74",
+      "537.55",
+      "502.09",
+      "546.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "bell pepper, string bean and fresh Thai basil",
+    "bbox": [
+      "104.66",
+      "551.14",
+      "267.66",
+      "559.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "bell pepper, baby corn, scallion, carrot and",
+    "bbox": [
+      "339.91",
+      "551.14",
+      "497.91",
+      "559.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "celery",
+    "bbox": [
+      "407.59",
+      "564.74",
+      "430.24",
+      "573.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$10.99",
+    "bbox": [
+      "171.09",
+      "578.67",
+      "201.22",
+      "588.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$10.99",
+    "bbox": [
+      "403.85",
+      "592.26",
+      "433.98",
+      "602.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "PAD CASHEW",
+    "bbox": [
+      "149.00",
+      "649.69",
+      "223.31",
+      "661.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "PAD GARLIC",
+    "bbox": [
+      "386.18",
+      "649.69",
+      "451.65",
+      "661.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Stir-fried with cashew nut, bell pepper, onion,",
+    "bbox": [
+      "102.41",
+      "675.17",
+      "269.90",
+      "683.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Sautéed with garlic and black pepper served",
+    "bbox": [
+      "335.94",
+      "675.17",
+      "501.89",
+      "683.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "scallion, asparagus and carrot",
+    "bbox": [
+      "130.82",
+      "688.76",
+      "241.50",
+      "697.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "over broccoli",
+    "bbox": [
+      "394.70",
+      "688.76",
+      "443.13",
+      "697.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$10.99",
+    "bbox": [
+      "171.09",
+      "716.28",
+      "201.22",
+      "726.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$10.99",
+    "bbox": [
+      "403.85",
+      "716.28",
+      "433.98",
+      "726.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Widget Didn’t Load",
+    "bbox": [
+      "463.37",
+      "732.93",
+      "530.36",
+      "740.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Check your internet and refresh",
+    "bbox": [
+      "463.37",
+      "744.25",
+      "574.43",
+      "752.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "this page.",
+    "bbox": [
+      "463.37",
+      "755.58",
+      "497.75",
+      "763.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "https://www.siwathai.com/menus",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "142.05",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "10/12",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "4/16/22, 11:54 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Menus | SIWA THAI RESTAURANT",
+    "bbox": [
+      "290.02",
+      "15.70",
+      "417.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "PAD PHRIK KHING",
+    "bbox": [
+      "138.04",
+      "52.79",
+      "234.26",
+      "64.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "PAD PREAW WAN",
+    "bbox": [
+      "371.03",
+      "52.79",
+      "466.80",
+      "64.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Sautéed with string beans, onion, bell",
+    "bbox": [
+      "116.52",
+      "78.26",
+      "255.78",
+      "86.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Thai-style sweet & sour with tomato,",
+    "bbox": [
+      "351.89",
+      "78.26",
+      "485.94",
+      "86.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "pepper, Phrik khing curry paste",
+    "bbox": [
+      "128.07",
+      "91.85",
+      "244.24",
+      "100.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "pineapple, onion, bell pepper and green",
+    "bbox": [
+      "344.22",
+      "91.85",
+      "493.61",
+      "100.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "onion in tomato-tamarind sauce",
+    "bbox": [
+      "360.19",
+      "105.45",
+      "477.65",
+      "113.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "$10.99",
+    "bbox": [
+      "171.09",
+      "119.38",
+      "201.22",
+      "129.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "$10.99",
+    "bbox": [
+      "403.85",
+      "132.97",
+      "433.98",
+      "143.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "GREEN CURRY (MOST SPICY)",
+    "bbox": [
+      "108.74",
+      "190.40",
+      "263.57",
+      "201.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "RED CURRY",
+    "bbox": [
+      "387.19",
+      "190.40",
+      "450.64",
+      "201.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "With coconut milk, bamboo shoot, string,",
+    "bbox": [
+      "110.73",
+      "215.88",
+      "261.59",
+      "224.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "With coconut milk, bamboo shoot, string, bell",
+    "bbox": [
+      "335.65",
+      "215.88",
+      "502.19",
+      "224.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "eggplant, bell pepper and Thai basil",
+    "bbox": [
+      "119.45",
+      "229.47",
+      "252.86",
+      "237.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "pepper and Thai basil",
+    "bbox": [
+      "378.61",
+      "229.47",
+      "459.23",
+      "237.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "$10.99",
+    "bbox": [
+      "171.09",
+      "256.99",
+      "201.22",
+      "267.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "$10.99",
+    "bbox": [
+      "403.85",
+      "256.99",
+      "433.98",
+      "267.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "PANANG CURRY",
+    "bbox": [
+      "141.93",
+      "328.02",
+      "230.38",
+      "339.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "MASSAMAN CURRY",
+    "bbox": [
+      "365.86",
+      "328.02",
+      "471.97",
+      "339.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "With coconut milk, kaffir lime leaves, bell",
+    "bbox": [
+      "111.11",
+      "353.50",
+      "261.20",
+      "361.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "With coconut milk, peanut, onion and potato",
+    "bbox": [
+      "337.04",
+      "353.50",
+      "500.79",
+      "361.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "pepper, carrot and onion",
+    "bbox": [
+      "140.08",
+      "367.09",
+      "232.23",
+      "375.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "$10.99",
+    "bbox": [
+      "403.85",
+      "381.02",
+      "433.98",
+      "391.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "$10.99",
+    "bbox": [
+      "171.09",
+      "394.61",
+      "201.22",
+      "404.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "PAD THAI",
+    "bbox": [
+      "160.72",
+      "465.64",
+      "211.59",
+      "476.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "PAD SEE EW",
+    "bbox": [
+      "385.19",
+      "465.64",
+      "452.63",
+      "476.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Sautéed rice noodles with egg, bean curd,",
+    "bbox": [
+      "107.64",
+      "491.11",
+      "264.68",
+      "499.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Sautéed flat rice noodles with egg and Asian",
+    "bbox": [
+      "335.98",
+      "491.11",
+      "501.85",
+      "499.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "spring onion, bean sprout and ground",
+    "bbox": [
+      "116.01",
+      "504.71",
+      "256.30",
+      "513.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "broccoli in sweet brown sauce",
+    "bbox": [
+      "362.51",
+      "504.71",
+      "475.32",
+      "513.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "peanuts",
+    "bbox": [
+      "171.19",
+      "518.30",
+      "201.12",
+      "526.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "$10.99",
+    "bbox": [
+      "403.85",
+      "532.23",
+      "433.98",
+      "542.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "$10.99",
+    "bbox": [
+      "171.09",
+      "545.82",
+      "201.22",
+      "556.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "PAD KEE MAO",
+    "bbox": [
+      "269.05",
+      "599.29",
+      "343.95",
+      "610.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Sautéed flat rice noodles with egg, string",
+    "bbox": [
+      "230.66",
+      "624.77",
+      "382.35",
+      "633.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "bean, onion, bell pepper, Thai basil,",
+    "bbox": [
+      "240.46",
+      "638.36",
+      "372.54",
+      "646.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "mushrooms",
+    "bbox": [
+      "284.74",
+      "651.95",
+      "328.26",
+      "660.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "$10.99",
+    "bbox": [
+      "291.43",
+      "679.47",
+      "321.56",
+      "689.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Widget Didn’t Load",
+    "bbox": [
+      "463.37",
+      "732.93",
+      "530.36",
+      "740.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Check your internet and refresh",
+    "bbox": [
+      "463.37",
+      "744.25",
+      "574.43",
+      "752.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "this page.",
+    "bbox": [
+      "463.37",
+      "755.58",
+      "497.75",
+      "763.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "https://www.siwathai.com/menus",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "142.05",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "11/12",
+    "bbox": [
+      "566.09",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "4/16/22, 11:54 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Menus | SIWA THAI RESTAURANT",
+    "bbox": [
+      "290.02",
+      "15.70",
+      "417.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "©2021 by SIWA THAI RESTAURANT. Proudly created with Wix.com",
+    "bbox": [
+      "187.84",
+      "97.53",
+      "430.26",
+      "105.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Widget Didn’t Load",
+    "bbox": [
+      "463.37",
+      "732.93",
+      "530.36",
+      "740.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Check your internet and refresh",
+    "bbox": [
+      "463.37",
+      "744.25",
+      "574.43",
+      "752.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "this page.",
+    "bbox": [
+      "463.37",
+      "755.58",
+      "497.75",
+      "763.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "https://www.siwathai.com/menus",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "142.05",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "12/12",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

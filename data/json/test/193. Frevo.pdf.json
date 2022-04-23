@@ -232,7 +232,14 @@
       "157.13"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Chenin Blanc",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -364,7 +371,14 @@
       "184.01"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Pinot Noir",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -952,7 +966,14 @@
       "349.11"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Chardonnay",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1038,7 +1059,14 @@
       "376.95"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Savagnin",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1170,7 +1198,14 @@
       "405.03"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Chardonnay",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1374,7 +1409,14 @@
       "487.61"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Cinsault and Mourvèdre",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2843,6 +2885,12 @@
           {
             "text": "2020)",
             "answer_start": 26
+          }
+        ],
+        "W": [
+          {
+            "text": "Extra-Brut (Disgorged May",
+            "answer_start": 0
           }
         ]
       }

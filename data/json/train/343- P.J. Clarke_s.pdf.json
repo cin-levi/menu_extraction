@@ -841,7 +841,14 @@
       "649.48"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Provence",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

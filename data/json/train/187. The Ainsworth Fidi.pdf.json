@@ -368,6 +368,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "New Zealand.",
+            "answer_start": 0
+          }
+        ],
         "P": [
           {
             "text": "13/50",
@@ -478,6 +484,12 @@
           {
             "text": "12/45",
             "answer_start": 8
+          }
+        ],
+        "W": [
+          {
+            "text": "France.",
+            "answer_start": 0
           }
         ]
       }

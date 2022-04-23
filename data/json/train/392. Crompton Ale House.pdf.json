@@ -1,0 +1,1138 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/21/22, 9:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Crompton Ale House - Drink Menu",
+    "bbox": [
+      "290.44",
+      "15.70",
+      "412.71",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "OUR DRINKS",
+    "bbox": [
+      "249.83",
+      "79.68",
+      "363.18",
+      "97.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BEER",
+    "bbox": [
+      "296.56",
+      "116.03",
+      "316.43",
+      "124.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(16186)",
+    "bbox": [
+      "292.14",
+      "127.85",
+      "320.86",
+      "136.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE",
+    "bbox": [
+      "295.48",
+      "150.46",
+      "317.53",
+      "158.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(16187)",
+    "bbox": [
+      "292.32",
+      "162.28",
+      "320.68",
+      "170.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "COCKTAILS",
+    "bbox": [
+      "283.56",
+      "185.41",
+      "329.43",
+      "193.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(16188)",
+    "bbox": [
+      "292.11",
+      "197.23",
+      "320.89",
+      "205.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BRUNCH DRINK SPECIALS",
+    "bbox": [
+      "255.36",
+      "220.35",
+      "357.64",
+      "228.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(16192)",
+    "bbox": [
+      "292.18",
+      "232.17",
+      "320.83",
+      "240.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GIN LIST",
+    "bbox": [
+      "287.61",
+      "254.78",
+      "323.85",
+      "263.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(16191)",
+    "bbox": [
+      "292.37",
+      "266.60",
+      "320.64",
+      "274.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHISKEY",
+    "bbox": [
+      "288.07",
+      "289.73",
+      "324.93",
+      "297.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(45756)",
+    "bbox": [
+      "291.85",
+      "301.55",
+      "321.16",
+      "309.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TEQUILA",
+    "bbox": [
+      "288.64",
+      "324.67",
+      "324.36",
+      "332.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(45758)",
+    "bbox": [
+      "291.81",
+      "336.49",
+      "321.19",
+      "344.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SCOTCH",
+    "bbox": [
+      "289.32",
+      "359.10",
+      "323.67",
+      "367.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(45760)",
+    "bbox": [
+      "291.78",
+      "370.92",
+      "321.21",
+      "379.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BRANDY",
+    "bbox": [
+      "289.96",
+      "394.05",
+      "323.03",
+      "402.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(45761)",
+    "bbox": [
+      "292.09",
+      "405.87",
+      "320.90",
+      "414.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BOURBON",
+    "bbox": [
+      "285.99",
+      "428.99",
+      "327.00",
+      "437.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(45763)",
+    "bbox": [
+      "292.01",
+      "440.81",
+      "320.99",
+      "449.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE",
+    "bbox": [
+      "286.69",
+      "499.08",
+      "326.30",
+      "510.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RED",
+    "bbox": [
+      "564.35",
+      "499.08",
+      "588.23",
+      "510.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "By the bottle, ask server about by the glass prices",
+    "bbox": [
+      "222.62",
+      "518.14",
+      "390.38",
+      "526.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "By the bottle, ask server ab",
+    "bbox": [
+      "492.42",
+      "518.14",
+      "584.56",
+      "526.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RUFFINO LUMINA",
+    "bbox": [
+      "57.78",
+      "547.48",
+      "119.13",
+      "554.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CANYON ROAD",
+    "bbox": [
+      "327.57",
+      "547.48",
+      "380.89",
+      "554.68"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CANYON ROAD",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$32.00/bottle$9.00/glass",
+    "bbox": [
+      "466.17",
+      "547.48",
+      "558.30",
+      "554.68"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$32.00/bottle$9.00/glass",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "pinot grigio | Italy",
+    "bbox": [
+      "57.78",
+      "561.00",
+      "115.98",
+      "568.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "cabernet sauvignon | California",
+    "bbox": [
+      "327.57",
+      "561.00",
+      "431.32",
+      "568.92"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "cabernet sauvignon | California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MATUA",
+    "bbox": [
+      "57.78",
+      "587.57",
+      "83.69",
+      "594.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "JOSH",
+    "bbox": [
+      "327.57",
+      "587.57",
+      "346.67",
+      "594.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "JOSH",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$44.00/glass$12.00/glass",
+    "bbox": [
+      "464.90",
+      "587.57",
+      "558.30",
+      "594.76"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$44.00/glass$12.00/glass",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "sauvignon blanc | New Zealand",
+    "bbox": [
+      "57.78",
+      "601.09",
+      "165.04",
+      "609.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "cabernet sauvignon | California",
+    "bbox": [
+      "327.57",
+      "601.09",
+      "431.32",
+      "609.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "cabernet sauvignon | California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "KENDALL-JACKSON",
+    "bbox": [
+      "57.78",
+      "627.65",
+      "126.60",
+      "634.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LA CREMA",
+    "bbox": [
+      "327.57",
+      "627.65",
+      "363.29",
+      "634.84"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LA CREMA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$52.00/bottle$14.00/glass",
+    "bbox": [
+      "461.93",
+      "627.65",
+      "558.30",
+      "634.84"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$52.00/bottle$14.00/glass",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chardonnay | California",
+    "bbox": [
+      "57.78",
+      "641.17",
+      "138.39",
+      "649.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pinot Noir | California",
+    "bbox": [
+      "327.57",
+      "641.17",
+      "400.23",
+      "649.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir | California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MURPHY GOODE",
+    "bbox": [
+      "327.57",
+      "667.73",
+      "386.01",
+      "674.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MURPHY GOODE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pinot Noir | California",
+    "bbox": [
+      "327.57",
+      "681.25",
+      "400.23",
+      "689.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir | California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSE",
+    "bbox": [
+      "291.43",
+      "698.47",
+      "321.58",
+      "709.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ESTIMULO",
+    "bbox": [
+      "327.57",
+      "707.82",
+      "364.15",
+      "715.01"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ESTIMULO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "By the glass",
+    "bbox": [
+      "286.23",
+      "717.52",
+      "326.77",
+      "725.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Malbec | Argentina",
+    "bbox": [
+      "327.57",
+      "721.34",
+      "391.72",
+      "729.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Malbec | Argentina",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ARTICLE)GERPAARRDT BIEETSR (AHNTDT PCSO:T//EC DREOSM RPOTSEOSNALEHOUSE.COM/-PARTY)CALL (TEJLO:+S1H2 R12ES6E5R8V0E0 B8A9)RREDL IARGEECDTIONS (H$T4T4P.0S0:///bMotAtlPeS.G$O12O.0G0L/gEl.aCsOsM?DAD",
+    "bbox": [
+      "24.82",
+      "746.87",
+      "587.94",
+      "756.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://cromptonalehouse.com/new-york-chelsea-crompton-ale-house-drink-menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "315.03",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/2",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/21/22, 9:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Crompton Ale House - Drink Menu",
+    "bbox": [
+      "290.44",
+      "15.70",
+      "412.71",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "rosè | France",
+    "bbox": [
+      "57.78",
+      "34.27",
+      "99.97",
+      "42.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "cabernet sauvignon | California",
+    "bbox": [
+      "327.57",
+      "34.27",
+      "431.32",
+      "42.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RUFFINO",
+    "bbox": [
+      "57.78",
+      "60.83",
+      "88.93",
+      "68.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$12.00",
+    "bbox": [
+      "535.61",
+      "60.83",
+      "558.30",
+      "68.02"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$12.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPARKL",
+    "bbox": [
+      "543.72",
+      "68.45",
+      "587.44",
+      "79.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "sparkling rosè | Italy",
+    "bbox": [
+      "57.78",
+      "74.35",
+      "123.23",
+      "82.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CUPCAKE VINEYARDS",
+    "bbox": [
+      "327.57",
+      "99.89",
+      "402.64",
+      "107.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CUPCAKE VINEYARDS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "prosecco | California",
+    "bbox": [
+      "327.57",
+      "113.41",
+      "396.89",
+      "121.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "prosecco | California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPRITZ",
+    "bbox": [
+      "286.19",
+      "128.06",
+      "326.81",
+      "139.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MIONETTO BRUT",
+    "bbox": [
+      "327.57",
+      "139.97",
+      "387.78",
+      "147.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MIONETTO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Prosecco | Italy (bottle only)",
+    "bbox": [
+      "327.57",
+      "153.49",
+      "416.42",
+      "161.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MIL SPRITZ ROSA",
+    "bbox": [
+      "57.78",
+      "159.50",
+      "117.61",
+      "166.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$8.00",
+    "bbox": [
+      "539.44",
+      "159.50",
+      "558.30",
+      "166.69"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$8.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "G.H. MUMM GRAND CORDON BRUT",
+    "bbox": [
+      "327.57",
+      "180.05",
+      "450.30",
+      "187.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "G.H. MUMM GRAND CORDON BRUT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MIL SPRITZ ORIGINAL",
+    "bbox": [
+      "57.78",
+      "188.27",
+      "133.48",
+      "195.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$8.00",
+    "bbox": [
+      "539.44",
+      "188.27",
+      "558.30",
+      "195.47"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$8.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "brut | France (bottle only)",
+    "bbox": [
+      "327.57",
+      "193.57",
+      "408.21",
+      "201.49"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "brut | France (bottle only)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DOM PERGINON",
+    "bbox": [
+      "327.57",
+      "220.14",
+      "384.24",
+      "227.33"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DOM PERGINON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "(bottle only)",
+    "bbox": [
+      "327.57",
+      "233.66",
+      "364.94",
+      "241.57"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(bottle only)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ARTICLE)PARTIES (HTTPS://CROMPTONALEHOUSE.COM/-PARTY)CALL (TEL:+12126580089)DIRECTIONS (HTTPS://MAPS.GOOGLE.COM?DAD",
+    "bbox": [
+      "24.82",
+      "748.36",
+      "587.94",
+      "756.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://cromptonalehouse.com/new-york-chelsea-crompton-ale-house-drink-menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "315.03",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/2",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

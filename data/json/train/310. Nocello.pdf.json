@@ -153,7 +153,14 @@
       "382.25"
     ],
     "annots": [
-      null
+      {
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 18
+          }
+        ]
+      }
     ]
   },
   {
@@ -166,7 +173,14 @@
       "435.50"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Champagne, Moet&Chandon",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -212,7 +226,14 @@
       "510.50"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Dom Perignon",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -245,7 +266,14 @@
       "569.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Prosecco",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

@@ -1870,6 +1870,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Adelaide Hills, Australia",
+            "answer_start": 18
+          },
+          {
+            "text": "Chardonnay,",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2018",
@@ -1956,6 +1966,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Chardonnay,",
+            "answer_start": 0
+          },
+          {
+            "text": "Russian River Valley",
+            "answer_start": 18
+          }
+        ],
         "V": [
           {
             "text": "2020,",
@@ -2047,6 +2067,12 @@
             "text": "2017,",
             "answer_start": 18
           }
+        ],
+        "W": [
+          {
+            "text": "Tokaj, Hungary",
+            "answer_start": 24
+          }
         ]
       }
     ]
@@ -2120,7 +2146,14 @@
       "315.17"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "24/95",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2134,6 +2167,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Chablis",
+            "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 15
+          }
+        ],
         "V": [
           {
             "text": "2020,",
@@ -2212,7 +2255,14 @@
       "388.13"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "21/85",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2226,6 +2276,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Sancerre, “French Blonde",
+            "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 33
+          }
+        ],
         "V": [
           {
             "text": "2020,",
@@ -2312,6 +2372,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Estate Sauvignon Blanc",
+            "answer_start": 0
+          },
+          {
+            "text": "Sta. Rita Hills, CA, USA",
+            "answer_start": 30
+          }
+        ],
         "V": [
           {
             "text": "2018",
@@ -2400,8 +2470,16 @@
       {
         "W": [
           {
+            "text": "Pinot Grigio,",
+            "answer_start": 0
+          },
+          {
             "text": "2020,",
             "answer_start": 14
+          },
+          {
+            "text": "Veneto, Italy",
+            "answer_start": 20
           }
         ]
       }
@@ -2502,6 +2580,12 @@
             "text": "2017",
             "answer_start": 0
           }
+        ],
+        "W": [
+          {
+            "text": "Sonoma County, USA",
+            "answer_start": 6
+          }
         ]
       }
     ]
@@ -2580,6 +2664,12 @@
           {
             "text": "2020,",
             "answer_start": 0
+          }
+        ],
+        "W": [
+          {
+            "text": "Château d’esclans, France",
+            "answer_start": 6
           }
         ]
       }
@@ -2721,6 +2811,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Red Blend",
+            "answer_start": 0
+          },
+          {
+            "text": "Paso Robles, USA",
+            "answer_start": 17
+          }
+        ],
         "V": [
           {
             "text": "2019",
@@ -2832,6 +2932,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon,",
+            "answer_start": 0
+          },
+          {
+            "text": "Dry Creek Valley, USA",
+            "answer_start": 26
+          }
+        ],
         "V": [
           {
             "text": "2018",
@@ -2918,6 +3028,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Estate Pinot Noir",
+            "answer_start": 0
+          },
+          {
+            "text": "Sta. Rita Hills, CA, USA",
+            "answer_start": 25
+          }
+        ],
         "V": [
           {
             "text": "2016",
@@ -3004,6 +3124,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Haut-Médoc,",
+            "answer_start": 0
+          },
+          {
+            "text": "Cru Bourgeois, France",
+            "answer_start": 18
+          }
+        ],
         "V": [
           {
             "text": "2016",
@@ -3103,6 +3233,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Syrah",
+            "answer_start": 0
+          },
+          {
+            "text": "Adelaide Hills, South Australia",
+            "answer_start": 13
+          }
+        ],
         "V": [
           {
             "text": "2020,",
@@ -3202,6 +3342,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Malbec",
+            "answer_start": 0
+          },
+          {
+            "text": "Mendoza, Argentina",
+            "answer_start": 14
+          }
+        ],
         "V": [
           {
             "text": "2018",
@@ -3301,6 +3451,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Sauternes",
+            "answer_start": 0
+          },
+          {
+            "text": "Bordeaux, France",
+            "answer_start": 17
+          }
+        ],
         "V": [
           {
             "text": "2015,",

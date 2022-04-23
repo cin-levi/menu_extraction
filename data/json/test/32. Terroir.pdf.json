@@ -458,16 +458,16 @@
     ],
     "annots": [
       {
-        "P": [
-          {
-            "text": "2.00",
-            "answer_start": 20
-          }
-        ],
         "W": [
           {
             "text": "Happy Hour Pricing",
             "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$2.00",
+            "answer_start": 19
           }
         ]
       }
@@ -484,16 +484,16 @@
     ],
     "annots": [
       {
-        "P": [
-          {
-            "text": "$3.00",
-            "answer_start": 34
-          }
-        ],
         "W": [
           {
             "text": "Moonstone OYSTER (Rhode Island)",
             "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "$3.00",
+            "answer_start": 34
           }
         ]
       }
@@ -1200,6 +1200,12 @@
             "text": "Breads & Spreads",
             "answer_start": 0
           }
+        ],
+        "P": [
+          {
+            "text": "$14.00",
+            "answer_start": 19
+          }
         ]
       }
     ]
@@ -1214,7 +1220,14 @@
       "530.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Toasted Crostini, Tzatziki, Baba Ghanoush, Taramasalata",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1259,6 +1272,12 @@
             "text": "2021",
             "answer_start": 55
           }
+        ],
+        "W": [
+          {
+            "text": "Obatza Cheese Sauce, Mustard *in honour of Oktoberfest",
+            "answer_start": 0
+          }
         ]
       }
     ]
@@ -1274,16 +1293,16 @@
     ],
     "annots": [
       {
-        "W": [
-          {
-            "text": "aesar Wedge Salad",
-            "answer_start": 1
-          }
-        ],
         "P": [
           {
             "text": "$14.00",
             "answer_start": 21
+          }
+        ],
+        "W": [
+          {
+            "text": "Caesar Wedge Salad",
+            "answer_start": 0
           }
         ]
       }
@@ -1299,7 +1318,14 @@
       "686.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Pane Brutto Croutons, Caesar's Mom's Dressing",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1442,7 +1468,14 @@
       "120.50"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Black Maitake, Butter, Shallots",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1481,7 +1514,14 @@
       "199.25"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Whole Ball of Moist Cheese, Romesco, Red Pearl Onions",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1520,7 +1560,14 @@
       "277.25"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Gooey Mozzarella, Jazmin's Heart & Soul",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1559,7 +1606,14 @@
       "355.25"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Paprika, Garlic Butter, Fregola Sarda, Parmesan, Lemon",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1598,7 +1652,14 @@
       "433.25"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Pork Sausage, Puff Pastry, Mustard",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1637,7 +1698,14 @@
       "512.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Toasted Sesame, Scallions, Sambal",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1676,7 +1744,14 @@
       "590.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "One Pound of Maine Mussels, Guanciale",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1715,7 +1790,14 @@
       "668.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Truffle Butter, Wild Mushrooms",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1897,7 +1979,14 @@
       "146.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Carmelized Onions, Cheddar, Bacon, Pickle, House-Cut Fries",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1936,7 +2025,14 @@
       "224.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Pomme Puree, Braised Cipollini",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2040,7 +2136,14 @@
       "380.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "crafted in Corleone, where you always leave the gun and take the...",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2079,7 +2182,14 @@
       "458.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Vanilla Cake, Strawberries, a Frosting made by Angels",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

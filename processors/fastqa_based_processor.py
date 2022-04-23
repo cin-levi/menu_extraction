@@ -155,7 +155,7 @@ class CustomProcessor(Processor):
             char_to_word_offset.append(len(doc_tokens) - 1)
 
         if 'position' in paragraph:
-            assert len(paragraph['position']) == len(doc_tokens), f"{len(paragraph['position'])}  {len(doc_tokens)}"
+            assert len(paragraph['position']) == len(doc_tokens), f"{len(paragraph['position'])}  {len(doc_tokens)} {doc_tokens}"
         else:
             paragraph['position'] = [[0, 0, 0, 0]] * len(doc_tokens)
 
@@ -214,7 +214,7 @@ class CustomProcessor(Processor):
                 answer_text = ner_answer["text"]
 
                 assert context_text[ner_answer["answer_start"]:].strip().startswith(
-                    answer_text), f"{context_text[ner_answer['answer_start']:ner_answer['answer_start'] + len(answer_text)]}, {answer_text}"
+                    answer_text.strip()), f"{context_text[ner_answer['answer_start']:ner_answer['answer_start'] + len(answer_text)]}|{answer_text}"
                 ner_start_position_character = ner_answer["answer_start"]
 
                 # print("start_position_character: ", start_position_character)
@@ -737,14 +737,14 @@ class CustomProcessor(Processor):
 if __name__ == '__main__':
     from processors import prj_path
 
-    data_file = prj_path + '/data/Cord/test.json'
+    data_file = prj_path + '/data/train.json'
     from transformers import AutoTokenizer
 
-    question_list_file = prj_path + '/data/Cord/question_list.json'
+    question_list_file = prj_path + '/data/question_list.json'
 
     all_labels = json.load(open(question_list_file, 'r', encoding='utf-8'))
 
-    tokenizer = AutoTokenizer.from_pretrained('microsoft/layoutlm-base-uncased')
+    tokenizer = AutoTokenizer.from_pretrained('microsoft/layoutlm-base-uncased', use_fast=False)
     print("tokenize: ", tokenizer)
     processor = CustomProcessor(tokenizer=tokenizer,
                                 max_seq_len=384,

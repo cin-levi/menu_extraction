@@ -1,0 +1,6791 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "The Bar Room at The Beekman",
+    "bbox": [
+      "135.48",
+      "164.65",
+      "477.51",
+      "191.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BREAKFAST",
+    "bbox": [
+      "120.05",
+      "260.61",
+      "180.62",
+      "271.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LUNCH",
+    "bbox": [
+      "220.80",
+      "260.61",
+      "259.58",
+      "271.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DINNER",
+    "bbox": [
+      "299.77",
+      "260.61",
+      "343.06",
+      "271.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WEEKEND BRUNCH",
+    "bbox": [
+      "383.25",
+      "260.61",
+      "492.18",
+      "271.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "EASTER BRUNCH",
+    "bbox": [
+      "131.26",
+      "305.61",
+      "223.29",
+      "316.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MOTHER'S DAY BRUNCH",
+    "bbox": [
+      "263.48",
+      "305.61",
+      "399.65",
+      "316.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DRINKS",
+    "bbox": [
+      "439.84",
+      "305.61",
+      "480.99",
+      "316.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE & SPIRITS LIST",
+    "bbox": [
+      "250.48",
+      "350.61",
+      "361.76",
+      "361.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "For a copy of our full Wine & Spirits List, please inquire with your server.",
+    "bbox": [
+      "105.68",
+      "415.58",
+      "507.31",
+      "429.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cheers!",
+    "bbox": [
+      "282.82",
+      "435.83",
+      "330.17",
+      "449.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sparkling & Champagne",
+    "bbox": [
+      "167.14",
+      "502.90",
+      "445.86",
+      "529.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CAVA BRUT",
+    "bbox": [
+      "258.57",
+      "553.46",
+      "351.42",
+      "566.96"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CAVA BRUT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Naveran, Crafted Bubbles, NV, Penedès, Spain",
+    "bbox": [
+      "172.66",
+      "573.83",
+      "440.34",
+      "587.33"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Naveran, Crafted Bubbles, NV,",
+            "answer_start": 0
+          },
+          {
+            "text": "Penedès, Spain",
+            "answer_start": 30
+          }
+        ],
+        "V": [
+          {
+            "text": "NV,",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "50",
+    "bbox": [
+      "298.13",
+      "594.08",
+      "314.87",
+      "607.58"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BRUT",
+    "bbox": [
+      "285.21",
+      "634.46",
+      "324.78",
+      "647.96"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BRUT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Charles Ellner, Carte Blanche, NV, Epernay, Champagne, France",
+    "bbox": [
+      "123.56",
+      "654.83",
+      "489.45",
+      "668.33"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Charles Ellner, Carte Blanche, NV, E",
+            "answer_start": 0
+          },
+          {
+            "text": "Epernay, Champagne, France",
+            "answer_start": 35
+          }
+        ],
+        "V": [
+          {
+            "text": "NV,",
+            "answer_start": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "115",
+    "bbox": [
+      "293.95",
+      "675.08",
+      "319.06",
+      "688.58"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "115",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RESEBRRVAUTITONS",
+    "bbox": [
+      "265.25",
+      "712.86",
+      "347.00",
+      "728.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Krug, Grande Cuvée 167ème Édition, Reims, Champagne, France",
+    "bbox": [
+      "119.00",
+      "735.83",
+      "494.00",
+      "749.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "265.87",
+      "744.36",
+      "346.38",
+      "755.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/19",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "329",
+    "bbox": [
+      "293.95",
+      "34.58",
+      "319.06",
+      "48.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BRUT ROSÉ",
+    "bbox": [
+      "258.78",
+      "74.96",
+      "351.23",
+      "88.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rosé de Saignée, R. Geoffroy, NV, Aÿ, half bottle",
+    "bbox": [
+      "167.29",
+      "95.33",
+      "445.72",
+      "108.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "72",
+    "bbox": [
+      "298.13",
+      "115.58",
+      "314.87",
+      "129.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "W",
+    "bbox": [
+      "272.11",
+      "202.90",
+      "301.94",
+      "229.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "hite",
+    "bbox": [
+      "301.94",
+      "202.90",
+      "340.90",
+      "229.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "218.89",
+      "253.46",
+      "391.10",
+      "266.96"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "François Chidaine, Closde la Grange, 2020, Touraine, Loire, France",
+    "bbox": [
+      "113.60",
+      "273.83",
+      "499.40",
+      "287.33"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "François Chidaine, Closde la Grange, 2020, Tou",
+            "answer_start": 0
+          },
+          {
+            "text": "Touraine, Loire, France",
+            "answer_start": 43
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 37
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "66",
+    "bbox": [
+      "298.13",
+      "294.08",
+      "314.87",
+      "307.58"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "66",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PINOT GRIGIO",
+    "bbox": [
+      "243.22",
+      "334.46",
+      "366.78",
+      "347.96"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT GRIGIO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Elena Walch, 2020, Alto Adige, Italy",
+    "bbox": [
+      "200.22",
+      "354.83",
+      "412.78",
+      "368.33"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Elena Walch, 2020, Alto Adi",
+            "answer_start": 0
+          },
+          {
+            "text": "Alto Adige, Italy",
+            "answer_start": 19
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "49",
+    "bbox": [
+      "298.13",
+      "375.08",
+      "314.87",
+      "388.58"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "49",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "FALANGHINA",
+    "bbox": [
+      "248.97",
+      "415.46",
+      "361.04",
+      "428.96"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FALANGHINA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "La Rivolta, 2019, Campania, Italy",
+    "bbox": [
+      "210.15",
+      "435.83",
+      "402.85",
+      "449.33"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "La Rivolta, 2019, Campan",
+            "answer_start": 0
+          },
+          {
+            "text": "Campania, Italy",
+            "answer_start": 18
+          }
+        ],
+        "V": [
+          {
+            "text": "2019,",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "50",
+    "bbox": [
+      "298.13",
+      "456.08",
+      "314.87",
+      "469.58"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "243.77",
+      "496.46",
+      "366.24",
+      "509.96"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Au Bon Climat, 2019, Santa Barbara County, CA",
+    "bbox": [
+      "165.11",
+      "516.83",
+      "447.90",
+      "530.33"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Au Bon Climat, 2019, Santa Barba",
+            "answer_start": 0
+          },
+          {
+            "text": "Santa Barbara County, CA",
+            "answer_start": 21
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "74",
+    "bbox": [
+      "298.13",
+      "537.08",
+      "314.87",
+      "550.58"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "74",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rosé",
+    "bbox": [
+      "280.74",
+      "624.40",
+      "332.26",
+      "651.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "253.27",
+      "674.21",
+      "356.72",
+      "687.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "McCall, Pinot Noir Rosé, 2020, North Fork, Long Island, NY",
+    "bbox": [
+      "135.04",
+      "694.58",
+      "477.96",
+      "708.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RESER4VA9TIONS",
+    "bbox": [
+      "265.25",
+      "712.86",
+      "347.00",
+      "728.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "265.87",
+      "744.36",
+      "346.38",
+      "755.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/19",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "GRENACHE/SYRAH",
+    "bbox": [
+      "224.52",
+      "34.46",
+      "385.49",
+      "47.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Domaine de la Réaltière, Pastel, 2020, Provence, France",
+    "bbox": [
+      "147.44",
+      "54.83",
+      "465.56",
+      "68.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "59",
+    "bbox": [
+      "298.13",
+      "75.08",
+      "314.87",
+      "88.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Red",
+    "bbox": [
+      "285.63",
+      "162.40",
+      "327.37",
+      "189.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "253.27",
+      "212.96",
+      "356.72",
+      "226.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT NOIR",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "LIOCO, 2020, Mendocino, CA",
+    "bbox": [
+      "216.20",
+      "233.33",
+      "396.80",
+      "246.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LIOCO, 2020, Mendocin",
+            "answer_start": 0
+          },
+          {
+            "text": "Mendocino, CA",
+            "answer_start": 13
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "74",
+    "bbox": [
+      "298.13",
+      "253.58",
+      "314.87",
+      "267.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "74",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BARBERA D'ASTI",
+    "bbox": [
+      "235.71",
+      "293.96",
+      "374.28",
+      "307.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BARBERA D'ASTI",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Vietti, Tre Vigne, 2019, Piedmont",
+    "bbox": [
+      "213.39",
+      "314.33",
+      "399.61",
+      "327.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Vietti, Tre Vigne, 2019, Piedm",
+            "answer_start": 0
+          },
+          {
+            "text": "Piedmont",
+            "answer_start": 25
+          }
+        ],
+        "V": [
+          {
+            "text": "2019,",
+            "answer_start": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "55",
+    "bbox": [
+      "298.13",
+      "334.58",
+      "314.87",
+      "348.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "55",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "FRAPPATO",
+    "bbox": [
+      "263.68",
+      "374.96",
+      "346.32",
+      "388.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FRAPPATO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Occhipinti, Terre Siciliane, 2019, Sicily, Italy",
+    "bbox": [
+      "180.31",
+      "395.33",
+      "432.69",
+      "408.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Occhipinti, Terre Siciliane, 20",
+            "answer_start": 0
+          },
+          {
+            "text": "Sicily, Italy",
+            "answer_start": 35
+          }
+        ],
+        "V": [
+          {
+            "text": "2019,",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "99",
+    "bbox": [
+      "298.13",
+      "415.58",
+      "314.87",
+      "429.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "99",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SANGIOVESE",
+    "bbox": [
+      "249.30",
+      "455.96",
+      "360.70",
+      "469.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SANGIOVESE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Rosso di Montepulciano, Poderi Sanguineto, 2019, Tuscany, Italy",
+    "bbox": [
+      "123.05",
+      "476.33",
+      "489.94",
+      "489.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rosso di Montepulciano, Poderi Sanguineto,",
+            "answer_start": 0
+          },
+          {
+            "text": "Tuscany, Italy",
+            "answer_start": 49
+          }
+        ],
+        "V": [
+          {
+            "text": "2019,",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "66",
+    "bbox": [
+      "298.13",
+      "496.58",
+      "314.87",
+      "510.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "66",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CABERNET/MERLOT",
+    "bbox": [
+      "222.70",
+      "536.96",
+      "387.29",
+      "550.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET/MERLOT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Margaux, Chateau d’Arsac, Le Kid d’Arsac, 2018, Bordeaux France",
+    "bbox": [
+      "114.02",
+      "557.33",
+      "498.97",
+      "570.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Margaux, Chateau d’Arsac, Le Kid d’Arsac, 201",
+            "answer_start": 0
+          },
+          {
+            "text": "Bordeaux Fran",
+            "answer_start": 48
+          }
+        ],
+        "V": [
+          {
+            "text": "2018,",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "78",
+    "bbox": [
+      "298.13",
+      "577.58",
+      "314.87",
+      "591.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "78",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Spirits",
+    "bbox": [
+      "273.64",
+      "664.90",
+      "339.36",
+      "691.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.25",
+      "712.86",
+      "347.00",
+      "723.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "265.87",
+      "744.36",
+      "346.38",
+      "755.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/19",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Vermouth & Aperitif",
+    "bbox": [
+      "200.07",
+      "67.90",
+      "412.94",
+      "94.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PUNT E MES CHINA",
+    "bbox": [
+      "220.79",
+      "118.46",
+      "389.21",
+      "131.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "12",
+    "bbox": [
+      "298.13",
+      "138.83",
+      "314.87",
+      "152.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CONTRATTO BITTER",
+    "bbox": [
+      "222.15",
+      "179.21",
+      "387.85",
+      "192.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "12",
+    "bbox": [
+      "298.13",
+      "199.58",
+      "314.87",
+      "213.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PIMM’S NO.1",
+    "bbox": [
+      "247.65",
+      "239.96",
+      "362.35",
+      "253.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "14",
+    "bbox": [
+      "298.13",
+      "260.33",
+      "314.87",
+      "273.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Vodka",
+    "bbox": [
+      "271.88",
+      "347.65",
+      "341.11",
+      "374.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SIMPLE",
+    "bbox": [
+      "276.54",
+      "397.46",
+      "333.47",
+      "410.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "14",
+    "bbox": [
+      "298.13",
+      "417.83",
+      "314.87",
+      "431.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "TITO’S",
+    "bbox": [
+      "278.20",
+      "458.21",
+      "331.80",
+      "471.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "17",
+    "bbox": [
+      "298.13",
+      "478.58",
+      "314.87",
+      "492.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "KETEL ONE",
+    "bbox": [
+      "258.83",
+      "518.96",
+      "351.17",
+      "532.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "17",
+    "bbox": [
+      "298.13",
+      "539.33",
+      "314.87",
+      "552.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BELVEDERE",
+    "bbox": [
+      "260.04",
+      "579.71",
+      "349.96",
+      "593.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "600.08",
+      "314.87",
+      "613.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "GREY GOOSE",
+    "bbox": [
+      "248.07",
+      "640.46",
+      "361.93",
+      "653.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "660.83",
+      "314.87",
+      "674.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ABSOLUT ELYX",
+    "bbox": [
+      "244.36",
+      "701.21",
+      "365.65",
+      "714.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.25",
+      "712.86",
+      "347.00",
+      "723.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "20",
+    "bbox": [
+      "298.13",
+      "721.58",
+      "314.87",
+      "735.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "265.87",
+      "744.36",
+      "346.38",
+      "755.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/19",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "STOLICHNAYA ELIT",
+    "bbox": [
+      "225.54",
+      "34.46",
+      "384.46",
+      "47.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "19",
+    "bbox": [
+      "298.13",
+      "54.83",
+      "314.87",
+      "68.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "G",
+    "bbox": [
+      "220.58",
+      "142.15",
+      "242.83",
+      "169.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "in & G",
+    "bbox": [
+      "242.83",
+      "142.15",
+      "318.70",
+      "169.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "enever",
+    "bbox": [
+      "318.70",
+      "142.15",
+      "392.43",
+      "169.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "FORDS",
+    "bbox": [
+      "277.94",
+      "192.71",
+      "332.05",
+      "206.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "15",
+    "bbox": [
+      "298.13",
+      "213.08",
+      "314.87",
+      "226.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "OLD DUFF GENEVER",
+    "bbox": [
+      "219.91",
+      "253.46",
+      "390.08",
+      "266.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "16",
+    "bbox": [
+      "298.13",
+      "273.83",
+      "314.87",
+      "287.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "COTSWOLDS",
+    "bbox": [
+      "251.66",
+      "314.21",
+      "358.34",
+      "327.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "16",
+    "bbox": [
+      "298.13",
+      "334.58",
+      "314.87",
+      "348.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "GREENHOOK AMERICAN DRY",
+    "bbox": [
+      "179.88",
+      "374.96",
+      "430.12",
+      "388.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "16",
+    "bbox": [
+      "298.13",
+      "395.33",
+      "314.87",
+      "408.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "HENDRICK’S",
+    "bbox": [
+      "252.91",
+      "435.71",
+      "357.09",
+      "449.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "456.08",
+      "314.87",
+      "469.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "OLD DUFF SINGLE MALT GENEVER",
+    "bbox": [
+      "158.80",
+      "496.46",
+      "451.19",
+      "509.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "516.83",
+      "314.87",
+      "530.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "TANQUERAY NO. TEN",
+    "bbox": [
+      "212.42",
+      "557.21",
+      "397.58",
+      "570.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "19",
+    "bbox": [
+      "298.13",
+      "577.58",
+      "314.87",
+      "591.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "NOLET’S SILVER",
+    "bbox": [
+      "237.82",
+      "617.96",
+      "372.18",
+      "631.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "19",
+    "bbox": [
+      "298.13",
+      "638.33",
+      "314.87",
+      "651.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.25",
+      "712.86",
+      "347.00",
+      "723.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cachaça & Pisco",
+    "bbox": [
+      "209.22",
+      "725.65",
+      "403.78",
+      "752.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "265.87",
+      "744.36",
+      "346.38",
+      "755.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/19",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MACCHU PISCO",
+    "bbox": [
+      "237.25",
+      "34.46",
+      "372.75",
+      "47.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "14",
+    "bbox": [
+      "298.13",
+      "54.83",
+      "314.87",
+      "68.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "AVUA CACHAÇA PRATA",
+    "bbox": [
+      "206.07",
+      "95.21",
+      "403.92",
+      "108.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "16",
+    "bbox": [
+      "298.13",
+      "115.58",
+      "314.87",
+      "129.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "AVUA CACHAÇA AMBURANA",
+    "bbox": [
+      "182.21",
+      "155.96",
+      "427.80",
+      "169.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "22",
+    "bbox": [
+      "298.13",
+      "176.33",
+      "314.87",
+      "189.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Tequila",
+    "bbox": [
+      "267.55",
+      "263.65",
+      "345.44",
+      "290.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "VOLCAN BLANCO",
+    "bbox": [
+      "230.16",
+      "314.21",
+      "379.83",
+      "327.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "334.58",
+      "314.87",
+      "348.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "DON JULIO BLANCO",
+    "bbox": [
+      "218.28",
+      "374.96",
+      "391.72",
+      "388.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "24",
+    "bbox": [
+      "298.13",
+      "395.33",
+      "314.87",
+      "408.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CASAMIGOS REPOSADO",
+    "bbox": [
+      "201.30",
+      "435.71",
+      "408.70",
+      "449.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "26",
+    "bbox": [
+      "298.13",
+      "456.08",
+      "314.87",
+      "469.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "VOLCAN CRISTALINO",
+    "bbox": [
+      "214.79",
+      "496.46",
+      "395.21",
+      "509.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "26",
+    "bbox": [
+      "298.13",
+      "516.83",
+      "314.87",
+      "530.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CASAMIGOS AÑEJO",
+    "bbox": [
+      "219.28",
+      "557.21",
+      "390.72",
+      "570.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "30",
+    "bbox": [
+      "298.13",
+      "577.58",
+      "314.87",
+      "591.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CLASE AZUL REPOSADO",
+    "bbox": [
+      "203.19",
+      "617.96",
+      "406.82",
+      "631.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "35",
+    "bbox": [
+      "298.13",
+      "638.33",
+      "314.87",
+      "651.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CINCORO REPOSADO",
+    "bbox": [
+      "212.88",
+      "678.71",
+      "397.12",
+      "692.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "45",
+    "bbox": [
+      "298.13",
+      "699.08",
+      "314.87",
+      "712.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.25",
+      "712.86",
+      "347.00",
+      "723.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "TAPATIO EXCELENCIA",
+    "bbox": [
+      "213.76",
+      "739.46",
+      "396.23",
+      "752.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "265.87",
+      "744.36",
+      "346.38",
+      "755.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/19",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "48",
+    "bbox": [
+      "298.13",
+      "34.58",
+      "314.87",
+      "48.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "PATRON EXTRA AÑEJO PIEDRA",
+    "bbox": [
+      "175.04",
+      "74.96",
+      "434.97",
+      "88.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "65",
+    "bbox": [
+      "298.13",
+      "95.33",
+      "314.87",
+      "108.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "M",
+    "bbox": [
+      "264.34",
+      "182.65",
+      "288.55",
+      "209.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ezcal",
+    "bbox": [
+      "288.55",
+      "182.65",
+      "348.66",
+      "209.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "400 CONEJOS",
+    "bbox": [
+      "243.89",
+      "233.21",
+      "366.12",
+      "246.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "15",
+    "bbox": [
+      "298.13",
+      "253.58",
+      "314.87",
+      "267.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DEL MAGUEY VIDA",
+    "bbox": [
+      "225.72",
+      "293.96",
+      "384.28",
+      "307.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "16",
+    "bbox": [
+      "298.13",
+      "314.33",
+      "314.87",
+      "327.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "REAL MATATL PECHUGA",
+    "bbox": [
+      "205.05",
+      "354.71",
+      "404.95",
+      "368.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "36",
+    "bbox": [
+      "298.13",
+      "375.08",
+      "314.87",
+      "388.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Amaro",
+    "bbox": [
+      "269.61",
+      "462.40",
+      "343.40",
+      "489.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "FERNET BRANCA",
+    "bbox": [
+      "234.71",
+      "512.21",
+      "375.30",
+      "525.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "11",
+    "bbox": [
+      "298.13",
+      "532.58",
+      "314.87",
+      "546.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CYNAR",
+    "bbox": [
+      "276.23",
+      "572.96",
+      "333.77",
+      "586.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "12",
+    "bbox": [
+      "298.13",
+      "593.33",
+      "314.87",
+      "606.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BRAULIO",
+    "bbox": [
+      "269.28",
+      "633.71",
+      "340.71",
+      "647.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "14",
+    "bbox": [
+      "298.13",
+      "654.08",
+      "314.87",
+      "667.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CAPPELLETTI ELISIR NOVASALUS",
+    "bbox": [
+      "168.09",
+      "694.46",
+      "441.91",
+      "707.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RESER1VA4TIONS",
+    "bbox": [
+      "265.25",
+      "712.86",
+      "347.00",
+      "728.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "265.87",
+      "744.36",
+      "346.38",
+      "755.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/19",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CAPPELLETTI SFUMATO RABARBARO",
+    "bbox": [
+      "153.09",
+      "34.46",
+      "456.91",
+      "47.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "14",
+    "bbox": [
+      "298.13",
+      "54.83",
+      "314.87",
+      "68.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "AMARO MONTENEGRO",
+    "bbox": [
+      "206.94",
+      "95.21",
+      "403.06",
+      "108.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "15",
+    "bbox": [
+      "298.13",
+      "115.58",
+      "314.87",
+      "129.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BIGALLET CHINA-CHINA",
+    "bbox": [
+      "202.24",
+      "155.96",
+      "407.77",
+      "169.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "15",
+    "bbox": [
+      "298.13",
+      "176.33",
+      "314.87",
+      "189.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "ST. AGRESTIS",
+    "bbox": [
+      "248.55",
+      "216.71",
+      "361.46",
+      "230.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "16",
+    "bbox": [
+      "298.13",
+      "237.08",
+      "314.87",
+      "250.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "NONINO QUINTESSA",
+    "bbox": [
+      "213.56",
+      "277.46",
+      "396.45",
+      "290.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "297.83",
+      "314.87",
+      "311.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Rum & Rhum",
+    "bbox": [
+      "237.43",
+      "385.15",
+      "375.56",
+      "412.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "EL BRUGAL EXTRA DRY",
+    "bbox": [
+      "209.67",
+      "435.71",
+      "400.34",
+      "449.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "14",
+    "bbox": [
+      "298.13",
+      "456.08",
+      "314.87",
+      "469.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "MOUNT GAY, BLACK BARREL",
+    "bbox": [
+      "183.51",
+      "496.46",
+      "426.48",
+      "509.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "14",
+    "bbox": [
+      "298.13",
+      "516.83",
+      "314.87",
+      "530.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "PLANTATION, STIGGINS FANCY",
+    "bbox": [
+      "169.70",
+      "557.21",
+      "440.31",
+      "570.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "15",
+    "bbox": [
+      "298.13",
+      "577.58",
+      "314.87",
+      "591.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "STARR",
+    "bbox": [
+      "280.68",
+      "617.96",
+      "329.32",
+      "631.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "15",
+    "bbox": [
+      "298.13",
+      "638.33",
+      "314.87",
+      "651.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "DON PAPA",
+    "bbox": [
+      "261.25",
+      "678.71",
+      "348.75",
+      "692.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "15",
+    "bbox": [
+      "298.13",
+      "699.08",
+      "314.87",
+      "712.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.25",
+      "712.86",
+      "347.00",
+      "723.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "RHUM J.M. BLANC",
+    "bbox": [
+      "226.81",
+      "739.46",
+      "383.18",
+      "752.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "265.87",
+      "744.36",
+      "346.38",
+      "755.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/19",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "16",
+    "bbox": [
+      "298.13",
+      "34.58",
+      "314.87",
+      "48.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "SANTA TERESA 1796",
+    "bbox": [
+      "216.21",
+      "74.96",
+      "393.79",
+      "88.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "17",
+    "bbox": [
+      "298.13",
+      "95.33",
+      "314.87",
+      "108.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "RHUM J.M. VSOP",
+    "bbox": [
+      "232.67",
+      "135.71",
+      "377.34",
+      "149.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "156.08",
+      "314.87",
+      "169.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "COCONUT CARTEL",
+    "bbox": [
+      "226.45",
+      "196.46",
+      "383.55",
+      "209.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "216.83",
+      "314.87",
+      "230.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "APPLETON 12YR",
+    "bbox": [
+      "236.88",
+      "257.21",
+      "373.12",
+      "270.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "277.58",
+      "314.87",
+      "291.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "FOURSQUARE PREMISE",
+    "bbox": [
+      "208.29",
+      "317.96",
+      "401.72",
+      "331.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "19",
+    "bbox": [
+      "298.13",
+      "338.33",
+      "314.87",
+      "351.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "FOURSQUARE 2005",
+    "bbox": [
+      "221.84",
+      "378.71",
+      "388.15",
+      "392.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "29",
+    "bbox": [
+      "298.13",
+      "399.08",
+      "314.87",
+      "412.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "RENEGADE GRENADA 1999",
+    "bbox": [
+      "187.00",
+      "439.46",
+      "423.00",
+      "452.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "30",
+    "bbox": [
+      "298.13",
+      "459.83",
+      "314.87",
+      "473.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "RON ZACAPA XO",
+    "bbox": [
+      "232.59",
+      "500.21",
+      "377.41",
+      "513.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "36",
+    "bbox": [
+      "298.13",
+      "520.58",
+      "314.87",
+      "534.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "NAVAJOS PALAZZI RON OLOROSO CASK",
+    "bbox": [
+      "130.64",
+      "560.96",
+      "479.35",
+      "574.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "44",
+    "bbox": [
+      "298.13",
+      "581.33",
+      "314.87",
+      "594.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Bourbon",
+    "bbox": [
+      "259.80",
+      "668.65",
+      "353.19",
+      "695.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.25",
+      "712.86",
+      "347.00",
+      "723.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "ELIJAH CRAIG SMALL BATCH",
+    "bbox": [
+      "184.33",
+      "719.21",
+      "425.67",
+      "732.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "16",
+    "bbox": [
+      "298.13",
+      "739.58",
+      "314.87",
+      "753.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "265.87",
+      "744.36",
+      "346.38",
+      "755.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "9/19",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "BUFFALO TRACE",
+    "bbox": [
+      "237.80",
+      "34.46",
+      "372.21",
+      "47.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "17",
+    "bbox": [
+      "298.13",
+      "54.83",
+      "314.87",
+      "68.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "EAGLE RARE",
+    "bbox": [
+      "253.87",
+      "95.21",
+      "356.13",
+      "108.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "17",
+    "bbox": [
+      "298.13",
+      "115.58",
+      "314.87",
+      "129.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "BASIL HAYDEN’S",
+    "bbox": [
+      "234.55",
+      "155.96",
+      "375.44",
+      "169.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "176.33",
+      "314.87",
+      "189.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "MICHTER’S U.S.1",
+    "bbox": [
+      "231.89",
+      "216.71",
+      "378.11",
+      "230.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "237.08",
+      "314.87",
+      "250.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "MAKER’S MARK 46",
+    "bbox": [
+      "225.10",
+      "277.46",
+      "384.90",
+      "290.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "19",
+    "bbox": [
+      "298.13",
+      "297.83",
+      "314.87",
+      "311.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "WOODFORD RESERVE",
+    "bbox": [
+      "213.61",
+      "338.21",
+      "396.39",
+      "351.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "20",
+    "bbox": [
+      "298.13",
+      "358.58",
+      "314.87",
+      "372.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "HEAVEN’S DOOR TENNESSEE BOURBON",
+    "bbox": [
+      "132.64",
+      "398.96",
+      "477.36",
+      "412.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "23",
+    "bbox": [
+      "298.13",
+      "419.33",
+      "314.87",
+      "432.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "HIGH WIRE DISTILLING SOUTHERN REVIVAL MADEIRA",
+    "bbox": [
+      "75.20",
+      "459.71",
+      "534.80",
+      "473.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "AGED",
+    "bbox": [
+      "282.15",
+      "479.96",
+      "327.85",
+      "493.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "24",
+    "bbox": [
+      "298.13",
+      "500.33",
+      "314.87",
+      "513.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "WELLER ANTIQUE 107",
+    "bbox": [
+      "210.39",
+      "540.71",
+      "399.61",
+      "554.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "27",
+    "bbox": [
+      "298.13",
+      "561.08",
+      "314.87",
+      "574.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "1792 FULL PROOF",
+    "bbox": [
+      "228.38",
+      "601.46",
+      "381.62",
+      "614.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "32",
+    "bbox": [
+      "298.13",
+      "621.83",
+      "314.87",
+      "635.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "I.W. HARPER 15 YR.",
+    "bbox": [
+      "219.12",
+      "662.21",
+      "390.88",
+      "675.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "42",
+    "bbox": [
+      "298.13",
+      "682.58",
+      "314.87",
+      "696.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.25",
+      "712.86",
+      "347.00",
+      "723.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "MICHTER’S 20 YR.",
+    "bbox": [
+      "226.80",
+      "722.96",
+      "383.19",
+      "736.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "EMAI1L 0SI5GNUP",
+    "bbox": [
+      "265.87",
+      "743.33",
+      "346.38",
+      "756.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "10/19",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Irish W",
+    "bbox": [
+      "232.52",
+      "67.90",
+      "313.57",
+      "94.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "hiskey",
+    "bbox": [
+      "313.57",
+      "67.90",
+      "380.48",
+      "94.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "BUSHMILLS",
+    "bbox": [
+      "259.45",
+      "118.46",
+      "350.54",
+      "131.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "14",
+    "bbox": [
+      "298.13",
+      "138.83",
+      "314.87",
+      "152.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "BUSHMILLS 10 YR.",
+    "bbox": [
+      "226.74",
+      "179.21",
+      "383.27",
+      "192.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "20",
+    "bbox": [
+      "298.13",
+      "199.58",
+      "314.87",
+      "213.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "BUSHMILLS 16 YR.",
+    "bbox": [
+      "226.74",
+      "239.96",
+      "383.27",
+      "253.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "45",
+    "bbox": [
+      "298.13",
+      "260.33",
+      "314.87",
+      "273.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Rye",
+    "bbox": [
+      "286.89",
+      "347.65",
+      "326.10",
+      "374.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "NEW YORK DISTILLING RAGTIME",
+    "bbox": [
+      "165.15",
+      "397.46",
+      "444.85",
+      "410.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "15",
+    "bbox": [
+      "298.13",
+      "417.83",
+      "314.87",
+      "431.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "SAZERAC",
+    "bbox": [
+      "266.81",
+      "458.21",
+      "343.18",
+      "471.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "16",
+    "bbox": [
+      "298.13",
+      "478.58",
+      "314.87",
+      "492.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "MICHTER’S, U.S.1",
+    "bbox": [
+      "228.31",
+      "518.96",
+      "381.69",
+      "532.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "539.33",
+      "314.87",
+      "552.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "HIGH WIRE DISTILLING SOUTHERN REVIVAL",
+    "bbox": [
+      "118.21",
+      "579.71",
+      "491.79",
+      "593.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "600.08",
+      "314.87",
+      "613.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "KENTUCKY OWL 10 YR.",
+    "bbox": [
+      "204.00",
+      "640.46",
+      "406.01",
+      "653.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "50",
+    "bbox": [
+      "298.13",
+      "660.83",
+      "314.87",
+      "674.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.25",
+      "712.86",
+      "347.00",
+      "723.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "265.87",
+      "744.36",
+      "346.38",
+      "755.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "11/19",
+    "bbox": [
+      "566.09",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "O",
+    "bbox": [
+      "222.32",
+      "67.90",
+      "245.38",
+      "94.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "ther W",
+    "bbox": [
+      "245.38",
+      "67.90",
+      "323.76",
+      "94.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "hiskey",
+    "bbox": [
+      "323.76",
+      "67.90",
+      "390.67",
+      "94.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "J. RIEGER KANSAS CITY WHISKEY",
+    "bbox": [
+      "159.23",
+      "118.46",
+      "450.78",
+      "131.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "16",
+    "bbox": [
+      "298.13",
+      "138.83",
+      "314.87",
+      "152.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "AKASHI BLENDED",
+    "bbox": [
+      "231.38",
+      "179.21",
+      "378.63",
+      "192.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "17",
+    "bbox": [
+      "298.13",
+      "199.58",
+      "314.87",
+      "213.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "MICHTER’S SOUR MASH",
+    "bbox": [
+      "203.13",
+      "239.96",
+      "406.87",
+      "253.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "260.33",
+      "314.87",
+      "273.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "LITTLE BOOK BLENDED",
+    "bbox": [
+      "209.27",
+      "300.71",
+      "400.74",
+      "314.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "35",
+    "bbox": [
+      "298.13",
+      "321.08",
+      "314.87",
+      "334.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Japanese W",
+    "bbox": [
+      "202.87",
+      "408.40",
+      "343.22",
+      "435.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "hiskey",
+    "bbox": [
+      "343.22",
+      "408.40",
+      "410.12",
+      "435.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "SUNTORY TOKI",
+    "bbox": [
+      "241.55",
+      "458.21",
+      "368.45",
+      "471.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "478.58",
+      "314.87",
+      "492.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "AKASHI WHITE OAK SINGLE MALT",
+    "bbox": [
+      "158.39",
+      "518.96",
+      "451.61",
+      "532.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "30",
+    "bbox": [
+      "298.13",
+      "539.33",
+      "314.87",
+      "552.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "NIKKA FROM THE BARREL",
+    "bbox": [
+      "196.29",
+      "579.71",
+      "413.72",
+      "593.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "36",
+    "bbox": [
+      "298.13",
+      "600.08",
+      "314.87",
+      "613.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "NIKKA TAKETSURU PURE MALT",
+    "bbox": [
+      "176.15",
+      "640.46",
+      "433.84",
+      "653.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "39",
+    "bbox": [
+      "298.13",
+      "660.83",
+      "314.87",
+      "674.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "NIKKA YOICHI SINGLE MALT",
+    "bbox": [
+      "182.63",
+      "701.21",
+      "427.36",
+      "714.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.25",
+      "712.86",
+      "347.00",
+      "723.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "39",
+    "bbox": [
+      "298.13",
+      "721.58",
+      "314.87",
+      "735.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "265.87",
+      "744.36",
+      "346.38",
+      "755.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "12/19",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "CHICHIBU SINGLE CASK",
+    "bbox": [
+      "201.28",
+      "34.46",
+      "408.72",
+      "47.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "39",
+    "bbox": [
+      "298.13",
+      "54.83",
+      "314.87",
+      "68.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "NIKKA MIYAGIKYO",
+    "bbox": [
+      "225.28",
+      "95.21",
+      "384.73",
+      "108.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "40",
+    "bbox": [
+      "298.13",
+      "115.58",
+      "314.87",
+      "129.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "SUNTORY HAKUSHU 12 YR.",
+    "bbox": [
+      "187.45",
+      "155.96",
+      "422.56",
+      "169.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "46",
+    "bbox": [
+      "298.13",
+      "176.33",
+      "314.87",
+      "189.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "MARS SHINSHU DOUBLE CELLARS KOMAGATAKE",
+    "bbox": [
+      "98.04",
+      "216.71",
+      "511.97",
+      "230.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "48",
+    "bbox": [
+      "298.13",
+      "237.08",
+      "314.87",
+      "250.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "CHICHIBU ICHIRO'S MALT & GRAIN",
+    "bbox": [
+      "151.98",
+      "277.46",
+      "458.01",
+      "290.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "68",
+    "bbox": [
+      "298.13",
+      "297.83",
+      "314.87",
+      "311.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Scottish Single M",
+    "bbox": [
+      "197.08",
+      "385.15",
+      "389.75",
+      "412.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "alt",
+    "bbox": [
+      "389.75",
+      "385.15",
+      "415.92",
+      "412.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "HIGHLAND PARK MAGNUS ORKNEY",
+    "bbox": [
+      "153.08",
+      "435.71",
+      "456.92",
+      "449.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "456.08",
+      "314.87",
+      "469.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "LAPHROAIG 10 YR. ISLAY",
+    "bbox": [
+      "196.52",
+      "496.46",
+      "413.49",
+      "509.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "516.83",
+      "314.87",
+      "530.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "GLENMORANGIE 10 YR. HIGHLANDS",
+    "bbox": [
+      "146.76",
+      "557.21",
+      "463.23",
+      "570.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "23",
+    "bbox": [
+      "298.13",
+      "577.58",
+      "314.87",
+      "591.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "SPRINGBANK 10 YR. CAMPBELTOWN",
+    "bbox": [
+      "146.41",
+      "617.96",
+      "463.60",
+      "631.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "25",
+    "bbox": [
+      "298.13",
+      "638.33",
+      "314.87",
+      "651.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "ARDBEG 10 YR. ISLAY",
+    "bbox": [
+      "211.81",
+      "678.71",
+      "398.18",
+      "692.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "26",
+    "bbox": [
+      "298.13",
+      "699.08",
+      "314.87",
+      "712.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.25",
+      "712.86",
+      "347.00",
+      "723.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "TALISKER STORM, ISLE OF SKYE",
+    "bbox": [
+      "169.27",
+      "739.46",
+      "440.73",
+      "752.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "265.87",
+      "744.36",
+      "346.38",
+      "755.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "13/19",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "29",
+    "bbox": [
+      "298.13",
+      "34.58",
+      "314.87",
+      "48.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "GLENMORANGIE NECTAR D’OR SAUTERNES CASK",
+    "bbox": [
+      "90.95",
+      "74.96",
+      "519.06",
+      "88.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "HIGHLANDS",
+    "bbox": [
+      "254.98",
+      "95.21",
+      "355.02",
+      "108.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "29",
+    "bbox": [
+      "298.13",
+      "115.58",
+      "314.87",
+      "129.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "GLENMORANGIE 12 YR. LA SANTA SHERRY CASK",
+    "bbox": [
+      "92.56",
+      "155.96",
+      "517.43",
+      "169.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "HIGHLANDS",
+    "bbox": [
+      "254.98",
+      "176.21",
+      "355.02",
+      "189.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "30",
+    "bbox": [
+      "298.13",
+      "196.58",
+      "314.87",
+      "210.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "GLENMORANGIE 14 YR. LA QUINTA RUBAN PORT CASK",
+    "bbox": [
+      "64.43",
+      "236.96",
+      "545.56",
+      "250.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "HIGHLANDS",
+    "bbox": [
+      "254.98",
+      "257.21",
+      "355.02",
+      "270.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "32",
+    "bbox": [
+      "298.13",
+      "277.58",
+      "314.87",
+      "291.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "DALMORE 12 YR. HIGHLAND",
+    "bbox": [
+      "182.67",
+      "317.96",
+      "427.33",
+      "331.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "33",
+    "bbox": [
+      "298.13",
+      "338.33",
+      "314.87",
+      "351.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "GLENFIDDICH 18 YR. SPEYSIDE",
+    "bbox": [
+      "170.80",
+      "378.71",
+      "439.20",
+      "392.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "38",
+    "bbox": [
+      "298.13",
+      "399.08",
+      "314.87",
+      "412.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "OBAN 18 YR. HIGHLANDS",
+    "bbox": [
+      "192.69",
+      "439.46",
+      "417.31",
+      "452.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "45",
+    "bbox": [
+      "298.13",
+      "459.83",
+      "314.87",
+      "473.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "BALVENIE 17 YR. DOUBLEWOOD SPEYSIDE",
+    "bbox": [
+      "121.32",
+      "500.21",
+      "488.68",
+      "513.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "48",
+    "bbox": [
+      "298.13",
+      "520.58",
+      "314.87",
+      "534.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "HIGHLAND PARK 18 YR. ORKNEY",
+    "bbox": [
+      "163.19",
+      "560.96",
+      "446.81",
+      "574.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "48",
+    "bbox": [
+      "298.13",
+      "581.33",
+      "314.87",
+      "594.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "MACALLAN 18 YR, SPEYSIDE",
+    "bbox": [
+      "182.29",
+      "621.71",
+      "427.71",
+      "635.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "55",
+    "bbox": [
+      "298.13",
+      "642.08",
+      "314.87",
+      "655.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "SPRINGBANK 18 YR. CAMPBELTOWN",
+    "bbox": [
+      "146.41",
+      "682.46",
+      "463.60",
+      "695.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "56",
+    "bbox": [
+      "298.13",
+      "702.83",
+      "314.87",
+      "716.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.25",
+      "712.86",
+      "347.00",
+      "723.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "TALISKER 1E8M AYILR S.IG NISULPE OF SKYE",
+    "bbox": [
+      "173.36",
+      "743.21",
+      "436.64",
+      "756.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "14/19",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "65",
+    "bbox": [
+      "298.13",
+      "34.58",
+      "314.87",
+      "48.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "GLENFIDDICH 21 YR, SPEYSIDE",
+    "bbox": [
+      "170.80",
+      "74.96",
+      "439.20",
+      "88.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "67",
+    "bbox": [
+      "298.13",
+      "95.33",
+      "314.87",
+      "108.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "GLENMORANGIE SIGNET HIGHLANDS",
+    "bbox": [
+      "143.57",
+      "135.71",
+      "466.43",
+      "149.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "67",
+    "bbox": [
+      "298.13",
+      "156.08",
+      "314.87",
+      "169.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Blended Scotch",
+    "bbox": [
+      "219.62",
+      "243.40",
+      "393.39",
+      "270.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "MONKEY SHOULDER",
+    "bbox": [
+      "219.29",
+      "293.96",
+      "390.71",
+      "307.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "14",
+    "bbox": [
+      "298.13",
+      "314.33",
+      "314.87",
+      "327.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "JOHNNIE WALKER BLACK",
+    "bbox": [
+      "197.82",
+      "354.71",
+      "412.19",
+      "368.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "19",
+    "bbox": [
+      "298.13",
+      "375.08",
+      "314.87",
+      "388.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "JANE WALKER BLACK",
+    "bbox": [
+      "215.56",
+      "415.46",
+      "394.44",
+      "428.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "19",
+    "bbox": [
+      "298.13",
+      "435.83",
+      "314.87",
+      "449.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "COMPASS BOX HEDONISM",
+    "bbox": [
+      "191.34",
+      "476.21",
+      "418.67",
+      "489.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "35",
+    "bbox": [
+      "298.13",
+      "496.58",
+      "314.87",
+      "510.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "Cognac",
+    "bbox": [
+      "261.03",
+      "583.90",
+      "351.97",
+      "610.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "REMY MARTIN VSOP",
+    "bbox": [
+      "219.12",
+      "633.71",
+      "390.88",
+      "647.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "654.08",
+      "314.87",
+      "667.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "REMY MARTIN 1738 ACCORD",
+    "bbox": [
+      "178.82",
+      "694.46",
+      "431.18",
+      "707.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "RESER3VA5TIONS",
+    "bbox": [
+      "265.25",
+      "712.86",
+      "347.00",
+      "728.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "265.87",
+      "744.36",
+      "346.38",
+      "755.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "15/19",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "HENNESSY PARADIS",
+    "bbox": [
+      "219.83",
+      "34.46",
+      "390.16",
+      "47.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "199",
+    "bbox": [
+      "293.95",
+      "54.83",
+      "319.06",
+      "68.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "REMY MARTIN LOUIS XIII (1 OZ. POUR)",
+    "bbox": [
+      "135.45",
+      "95.21",
+      "474.56",
+      "108.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "225",
+    "bbox": [
+      "293.95",
+      "115.58",
+      "319.06",
+      "129.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Armagnac",
+    "bbox": [
+      "248.36",
+      "202.90",
+      "364.63",
+      "229.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "DELORD 25 YR.",
+    "bbox": [
+      "240.18",
+      "253.46",
+      "369.82",
+      "266.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "40",
+    "bbox": [
+      "298.13",
+      "273.83",
+      "314.87",
+      "287.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "JEAN CAVÉ, VIEIL, 1945",
+    "bbox": [
+      "200.21",
+      "314.21",
+      "409.79",
+      "327.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "190",
+    "bbox": [
+      "293.95",
+      "334.58",
+      "319.06",
+      "348.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "O",
+    "bbox": [
+      "100.32",
+      "421.90",
+      "123.38",
+      "448.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "ther Brandy, G",
+    "bbox": [
+      "123.38",
+      "421.90",
+      "289.24",
+      "448.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "rappa & Eau de Vie",
+    "bbox": [
+      "289.24",
+      "421.90",
+      "512.69",
+      "448.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "LAIRD’S, APPLEJACK",
+    "bbox": [
+      "219.23",
+      "471.71",
+      "390.76",
+      "485.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "15",
+    "bbox": [
+      "298.13",
+      "492.08",
+      "314.87",
+      "505.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "SCHLADERER KIRSCHWASSER",
+    "bbox": [
+      "181.09",
+      "532.46",
+      "428.90",
+      "545.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "16",
+    "bbox": [
+      "298.13",
+      "552.83",
+      "314.87",
+      "566.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "BERTOUX AMERICAN BRANDY",
+    "bbox": [
+      "178.70",
+      "593.21",
+      "431.31",
+      "606.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "17",
+    "bbox": [
+      "298.13",
+      "613.58",
+      "314.87",
+      "627.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "NARDINI BASSANO GRAPPA",
+    "bbox": [
+      "184.75",
+      "653.96",
+      "425.24",
+      "667.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "18",
+    "bbox": [
+      "298.13",
+      "674.33",
+      "314.87",
+      "687.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "COQUERERLE SVERSVAOTIPO NCSALVADOS",
+    "bbox": [
+      "183.52",
+      "712.86",
+      "426.48",
+      "728.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "20",
+    "bbox": [
+      "298.13",
+      "735.08",
+      "314.87",
+      "748.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "265.87",
+      "744.36",
+      "346.38",
+      "755.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "16/19",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "MEUZARD MARC DE BOURGOGNE",
+    "bbox": [
+      "160.07",
+      "34.46",
+      "449.92",
+      "47.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "24",
+    "bbox": [
+      "298.13",
+      "54.83",
+      "314.87",
+      "68.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "MAROLO BRUNELLO DI MONTALCINO GRAPPA",
+    "bbox": [
+      "107.49",
+      "95.21",
+      "502.50",
+      "108.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "26",
+    "bbox": [
+      "298.13",
+      "115.58",
+      "314.87",
+      "129.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "CAMUT 12 YR. CALVADOS",
+    "bbox": [
+      "193.23",
+      "155.96",
+      "416.78",
+      "169.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "32",
+    "bbox": [
+      "298.13",
+      "176.33",
+      "314.87",
+      "189.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "CAPOVILLA MOSCATO FIOR D’ARANCIO GRAPPA",
+    "bbox": [
+      "95.70",
+      "216.71",
+      "514.29",
+      "230.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "40",
+    "bbox": [
+      "298.13",
+      "237.08",
+      "314.87",
+      "250.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "GRAND MARNIER CUVEE DU CENTENAIRE",
+    "bbox": [
+      "125.48",
+      "277.46",
+      "484.53",
+      "290.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "40",
+    "bbox": [
+      "298.13",
+      "297.83",
+      "314.87",
+      "311.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "MAROLO 12 YR. BAROLO GRAPPA",
+    "bbox": [
+      "160.10",
+      "338.21",
+      "449.90",
+      "351.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "45",
+    "bbox": [
+      "298.13",
+      "358.58",
+      "314.87",
+      "372.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "CAPOVILLA MELE GOLDEN LEGNO",
+    "bbox": [
+      "158.95",
+      "398.96",
+      "451.06",
+      "412.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "55",
+    "bbox": [
+      "298.13",
+      "419.33",
+      "314.87",
+      "432.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "CAPOVILLA ALBICOCCA",
+    "bbox": [
+      "204.11",
+      "459.71",
+      "405.88",
+      "473.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "52",
+    "bbox": [
+      "298.13",
+      "480.08",
+      "314.87",
+      "493.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "NAVAZOS-PALAZZI SINGLE CASK MONTILLA BRANDY",
+    "bbox": [
+      "78.28",
+      "520.46",
+      "531.72",
+      "533.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "54",
+    "bbox": [
+      "298.13",
+      "540.83",
+      "314.87",
+      "554.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Digestif & Liqueurs",
+    "bbox": [
+      "205.09",
+      "628.15",
+      "407.91",
+      "655.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "KLEOS MASTIHA",
+    "bbox": [
+      "236.33",
+      "678.71",
+      "373.67",
+      "692.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "15",
+    "bbox": [
+      "298.13",
+      "699.08",
+      "314.87",
+      "712.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.25",
+      "712.86",
+      "347.00",
+      "723.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "MR. BLACK COLD BREW COFFEE",
+    "bbox": [
+      "166.96",
+      "739.46",
+      "443.03",
+      "752.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "265.87",
+      "744.36",
+      "346.38",
+      "755.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "17/19",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "16",
+    "bbox": [
+      "298.13",
+      "34.58",
+      "314.87",
+      "48.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "CHARTREUSE VERTE",
+    "bbox": [
+      "221.96",
+      "74.96",
+      "388.03",
+      "88.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "17",
+    "bbox": [
+      "298.13",
+      "95.33",
+      "314.87",
+      "108.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "CHARTREUSE JAUNE",
+    "bbox": [
+      "219.55",
+      "135.71",
+      "390.45",
+      "149.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "17",
+    "bbox": [
+      "298.13",
+      "156.08",
+      "314.87",
+      "169.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "STREGA",
+    "bbox": [
+      "273.16",
+      "196.46",
+      "336.84",
+      "209.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "17",
+    "bbox": [
+      "298.13",
+      "216.83",
+      "314.87",
+      "230.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "GRAND MARNIER CORDON ROUGE",
+    "bbox": [
+      "154.67",
+      "257.21",
+      "455.32",
+      "270.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "19",
+    "bbox": [
+      "298.13",
+      "277.58",
+      "314.87",
+      "291.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "CHARTREUSE VERTE VEP",
+    "bbox": [
+      "202.67",
+      "317.96",
+      "407.32",
+      "331.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "38",
+    "bbox": [
+      "298.13",
+      "338.33",
+      "314.87",
+      "351.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "CHARTREUSE JAUNE VEP",
+    "bbox": [
+      "200.26",
+      "378.71",
+      "409.74",
+      "392.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "39",
+    "bbox": [
+      "298.13",
+      "399.08",
+      "314.87",
+      "412.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Vintage Libations",
+    "bbox": [
+      "212.64",
+      "486.40",
+      "400.35",
+      "513.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "AMARO OTTOZ OF AOSTE, PIEDMONT, 1960’S",
+    "bbox": [
+      "103.14",
+      "536.96",
+      "506.85",
+      "550.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "42",
+    "bbox": [
+      "298.13",
+      "557.33",
+      "314.87",
+      "570.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "BARBIERI’S CHINA OF PADOVA, VENETO, 1970’S",
+    "bbox": [
+      "92.01",
+      "597.71",
+      "517.99",
+      "611.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "36",
+    "bbox": [
+      "298.13",
+      "618.08",
+      "314.87",
+      "631.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "CINZANO’S AMARO SAVOIA OF TORNIO, PIEDMONT,",
+    "bbox": [
+      "73.05",
+      "658.46",
+      "536.96",
+      "671.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "1960’S",
+    "bbox": [
+      "275.14",
+      "678.71",
+      "334.85",
+      "692.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "45",
+    "bbox": [
+      "298.13",
+      "699.08",
+      "314.87",
+      "712.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.25",
+      "712.86",
+      "347.00",
+      "723.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "265.87",
+      "744.36",
+      "346.38",
+      "755.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "18/19",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "4/17/22, 10:53 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "The Bar Room at the Beekman | Menus | Dinner | Breakfast | Brunch",
+    "bbox": [
+      "232.27",
+      "15.70",
+      "475.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.25",
+      "712.86",
+      "347.00",
+      "723.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "265.87",
+      "744.36",
+      "346.38",
+      "755.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "https://www.templecourtnyc.com/menus-the-bar-room/#wine-spirits-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "275.42",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 19,
+    "text": "19/19",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

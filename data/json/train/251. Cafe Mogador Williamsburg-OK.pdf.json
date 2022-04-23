@@ -1964,6 +1964,10 @@
           {
             "text": "Sauvignon Blanc-Vermentino, LA FERME ROUGE La Petite,",
             "answer_start": 0
+          },
+          {
+            "text": "Zaër, Morocco)",
+            "answer_start": 60
           }
         ],
         "V": [
@@ -1996,6 +2000,10 @@
           {
             "text": "Sémillon-Moscatel, A Los Viñateros Bravos,",
             "answer_start": 0
+          },
+          {
+            "text": "(Sur, Chile)",
+            "answer_start": 48
           }
         ],
         "V": [
@@ -2060,6 +2068,10 @@
           {
             "text": "Sauvignon Blanc, Frenzy",
             "answer_start": 0
+          },
+          {
+            "text": "(Marlborough, New Zealand)",
+            "answer_start": 30
           }
         ],
         "V": [
@@ -2106,6 +2118,10 @@
           {
             "text": "Hondarribi Zuri, Txakoli de Getaria, Rezabal",
             "answer_start": 0
+          },
+          {
+            "text": "(Basque Country, Spain)",
+            "answer_start": 50
           }
         ],
         "V": [
@@ -2138,6 +2154,10 @@
           {
             "text": "Pedro Ximénez, Alvear, “Tres Miradas”",
             "answer_start": 0
+          },
+          {
+            "text": "(Montilla-Morales, Spain)",
+            "answer_start": 44
           }
         ],
         "V": [
@@ -2170,6 +2190,10 @@
           {
             "text": "Chardonnay, Domaine de l'Enclos, Chablis",
             "answer_start": 0
+          },
+          {
+            "text": "(Burgundy, France)",
+            "answer_start": 47
           }
         ],
         "V": [

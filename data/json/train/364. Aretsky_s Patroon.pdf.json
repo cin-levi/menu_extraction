@@ -4427,7 +4427,14 @@
       "329.75"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "\"Les Cloux,\" Domaine Rollin, Burgundy, France,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4873,7 +4880,14 @@
       "64.25"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "“Sybille,” Gerard Boulay, Loire Valley, France,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

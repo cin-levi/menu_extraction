@@ -199,6 +199,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Plymouth Sloe Gin, Hayman's Gin, Mint-Infused Simple Syrup & Fresh Lime juice",
+            "answer_start": 6
+          }
+        ],
         "P": [
           {
             "text": "$17",
@@ -239,6 +245,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Sotol, Aperol, Green Chartruse, Fresh Lime Juice & Bitters",
+            "answer_start": 6
+          }
+        ],
         "P": [
           {
             "text": "$18",
@@ -279,6 +291,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "$18 · Chamomile Infused Bourbon, Fresh Cucumber Juice, Fresh Lemon Juice &",
+            "answer_start": 0
+          }
+        ],
         "P": [
           {
             "text": "$18",
@@ -298,7 +316,14 @@
       "424.61"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Honey Syrup",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -336,6 +361,12 @@
           {
             "text": "$18",
             "answer_start": 0
+          }
+        ],
+        "W": [
+          {
+            "text": "Barrel Aged bourbon, Dry Vermouth & Campari",
+            "answer_start": 6
           }
         ]
       }
@@ -429,6 +460,12 @@
             "text": "$18",
             "answer_start": 0
           }
+        ],
+        "W": [
+          {
+            "text": "Aged Apple Brandy, Green Chartruese, Sweet Vermouth, Bitters",
+            "answer_start": 6
+          }
         ]
       }
     ]
@@ -481,6 +518,12 @@
           {
             "text": "$17 ·",
             "answer_start": 0
+          }
+        ],
+        "W": [
+          {
+            "text": "Pisco, Fresh Lime Juice & Mint Syrup",
+            "answer_start": 6
           }
         ]
       }
@@ -573,6 +616,12 @@
           {
             "text": "$18",
             "answer_start": 0
+          }
+        ],
+        "W": [
+          {
+            "text": "Hendrick's Gin, Tequila & Fresh Cucumber Juice",
+            "answer_start": 6
           }
         ]
       }
@@ -808,6 +857,12 @@
           {
             "text": "$17 ·",
             "answer_start": 0
+          }
+        ],
+        "W": [
+          {
+            "text": "Vodka, aperol, fresh lime juice & honey syrup",
+            "answer_start": 6
           }
         ]
       }
@@ -1117,6 +1172,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "· Albet i Noya, \"A Petite Albet,\" Brut, Penedes, Spain, 201",
+            "answer_start": 4
+          }
+        ],
         "P": [
           {
             "text": "$16",
@@ -1163,6 +1224,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "· Scharffenberger, Brut Rose, Mendocino County, CA, N",
+            "answer_start": 4
+          }
+        ],
         "P": [
           {
             "text": "$2",
@@ -1300,6 +1367,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "· Erste & Neue, Suditirol - Alto Adige, Italy, 2019",
+            "answer_start": 4
+          }
+        ],
         "P": [
           {
             "text": "$17",
@@ -1404,6 +1477,12 @@
             "answer_start": 0
           }
         ],
+        "W": [
+          {
+            "text": "Domaine LaFarge, \"Raisins Dores,\" Burgundy, France,",
+            "answer_start": 6
+          }
+        ],
         "V": [
           {
             "text": "2018",
@@ -1448,6 +1527,12 @@
           {
             "text": "2019",
             "answer_start": 70
+          }
+        ],
+        "W": [
+          {
+            "text": "Domaine de Reuilly, \"Les Pierres Plates,\" Loire Valley, France,",
+            "answer_start": 6
           }
         ],
         "P": [

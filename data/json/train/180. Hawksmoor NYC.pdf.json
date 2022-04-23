@@ -263,7 +263,14 @@
       "222.50"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Veneto, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -322,7 +329,14 @@
       "256.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Napa Valley, California",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -375,7 +389,14 @@
       "289.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Champagne, France",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -460,7 +481,14 @@
       "355.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Alto Adige, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -545,7 +573,14 @@
       "388.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Santa Barbara, California",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -617,7 +652,14 @@
       "421.50"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Swartland, South Africa",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -728,7 +770,14 @@
       "487.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Willamette, Oregon",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -800,7 +849,14 @@
       "553.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Rhone, France",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -859,7 +915,14 @@
       "586.50"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Beaujolais, France",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -918,7 +981,14 @@
       "619.50"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "California, USA",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

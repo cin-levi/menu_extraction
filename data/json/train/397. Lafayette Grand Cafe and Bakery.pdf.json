@@ -1,0 +1,5303 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/21/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menus | Lafayette in New York, NY",
+    "bbox": [
+      "289.77",
+      "15.70",
+      "413.39",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DINNER\tBREAKFAST\tLUNCH",
+    "bbox": [
+      "74.20",
+      "167.00",
+      "285.64",
+      "177.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BRUNCH",
+    "bbox": [
+      "299.52",
+      "167.00",
+      "365.64",
+      "177.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DRINKS\tWINE LIST",
+    "bbox": [
+      "379.52",
+      "167.00",
+      "535.02",
+      "177.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "VINS\tBLANC",
+    "bbox": [
+      "256.23",
+      "278.37",
+      "353.76",
+      "296.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHAMPAGNE\t&\tMÉTHODES\tTRADITIONNELLE",
+    "bbox": [
+      "122.05",
+      "351.12",
+      "487.95",
+      "369.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "7109\t|\tLambert\tCremant\tde\tLoire\tBrezé\tBrut",
+    "bbox": [
+      "167.19",
+      "403.41",
+      "445.07",
+      "416.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "7109\t|\tLambert\tCremant\tde\tLoire\tBrezé\tBrut",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "66",
+    "bbox": [
+      "299.55",
+      "425.00",
+      "312.68",
+      "435.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "66",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9004\t|\tRH\tCoutier\tBrut\tTradition\tGrand\tCru",
+    "bbox": [
+      "168.22",
+      "461.16",
+      "444.02",
+      "473.75"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "9004\t|\tRH\tCoutier\tBrut\tTradition\tGrand\tCru",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "110",
+    "bbox": [
+      "296.08",
+      "482.75",
+      "316.16",
+      "493.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "110",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "7203\t|\tDoyard\t'Vendemiaire'\tBlanc\tde\tBlancs\t1er\tCru\tBrut",
+    "bbox": [
+      "124.38",
+      "518.16",
+      "487.87",
+      "530.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "7203\t|\tDoyard\t'Vendemiaire'\tBlanc\tde\tBlancs\t1er\tCru\tBrut",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "140",
+    "bbox": [
+      "296.08",
+      "539.75",
+      "316.16",
+      "550.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "140",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "7106\t|\tGaston\tChiquet\tBlanc\tde\tBlancs\tD’Ay\tBrut",
+    "bbox": [
+      "151.20",
+      "575.16",
+      "461.04",
+      "587.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "7106\t|\tGaston\tChiquet\tBlanc\tde\tBlancs\tD’Ay\tBrut",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "160",
+    "bbox": [
+      "296.08",
+      "597.50",
+      "316.16",
+      "608.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "160",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "7105\t|\tBérêche\tBrut\tRéserve",
+    "bbox": [
+      "217.64",
+      "632.91",
+      "394.60",
+      "645.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "7105\t|\tBérêche\tBrut\tRéserve",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "170",
+    "bbox": [
+      "296.08",
+      "654.50",
+      "316.16",
+      "665.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "170",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "7210\t|\tP.\tGimonnet\tet\tFils\t‘Special\tClub’\tBrut",
+    "bbox": [
+      "163.00",
+      "689.91",
+      "449.24",
+      "702.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "7210\t|\tP.\tGimonnet\tet\tFils\t‘Special\tClub’\tBrut",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "295",
+    "bbox": [
+      "296.08",
+      "711.50",
+      "316.16",
+      "722.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "262.03",
+      "715.25",
+      "349.47",
+      "725.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "260.04",
+      "743.00",
+      "351.47",
+      "753.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.lafayetteny.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.81",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/14",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/21/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menus | Lafayette in New York, NY",
+    "bbox": [
+      "289.77",
+      "15.70",
+      "413.39",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "9032\t|\tDirler\tCade\tCremant\tD'Alsace\tBrut\tRosé",
+    "bbox": [
+      "157.54",
+      "31.41",
+      "454.70",
+      "44.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "72",
+    "bbox": [
+      "299.55",
+      "53.00",
+      "312.68",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "7107\t|\tRene\tGeoffrey\tBrut\tNV\t‘Rosé\tde\tSaignee’",
+    "bbox": [
+      "154.66",
+      "88.41",
+      "457.58",
+      "101.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "186",
+    "bbox": [
+      "296.08",
+      "110.75",
+      "316.16",
+      "121.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "186",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "7041\t|\tLarmandier\tBernier\t'Rosé\tde\tSaignee'\tBrut",
+    "bbox": [
+      "152.16",
+      "146.16",
+      "460.09",
+      "158.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "7041\t|\tLarmandier\tBernier\t'Rosé\tde\tSaignee'\tBrut",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "162",
+    "bbox": [
+      "296.08",
+      "167.75",
+      "316.16",
+      "178.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "162",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "7135\t|\tPehu\tSimmonet\t'Face\tNord'\tBrut\tRosé",
+    "bbox": [
+      "166.40",
+      "203.16",
+      "445.84",
+      "215.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "7135\t|\tPehu\tSimmonet\t'Face\tNord'\tBrut\tRosé",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "186",
+    "bbox": [
+      "296.08",
+      "225.50",
+      "316.16",
+      "236.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "186",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "7031\t|\tBillecart\tSalmon\tBrut\tRosé",
+    "bbox": [
+      "200.89",
+      "260.91",
+      "411.36",
+      "273.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "7031\t|\tBillecart\tSalmon\tBrut\tRosé",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "190",
+    "bbox": [
+      "296.08",
+      "282.50",
+      "316.16",
+      "293.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "190",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROSÉ",
+    "bbox": [
+      "284.93",
+      "348.87",
+      "325.06",
+      "367.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3003\t|\tChateau\tPigoudet\t‘Classique’\tCd’Aix\tProvence\t2020",
+    "bbox": [
+      "119.13",
+      "401.16",
+      "493.11",
+      "413.75"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 52
+          }
+        ],
+        "W": [
+          {
+            "text": "3003\t|\tChateau\tPigoudet\t‘Classique’\tCd’Aix\tProvence",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "75",
+    "bbox": [
+      "299.55",
+      "422.75",
+      "312.68",
+      "433.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "75",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3277\t|\tChateau\tLa\tBastide\tBlanche\tBandol\t2020",
+    "bbox": [
+      "153.03",
+      "458.91",
+      "459.21",
+      "471.50"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 41
+          }
+        ],
+        "W": [
+          {
+            "text": "3277\t|\tChateau\tLa\tBastide\tBlanche\tBandol",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "80",
+    "bbox": [
+      "299.55",
+      "480.50",
+      "312.68",
+      "491.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "80",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3299\t|\tChavignol\tP.\tCotat\t2020",
+    "bbox": [
+      "204.85",
+      "515.91",
+      "407.40",
+      "528.50"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 26
+          }
+        ],
+        "W": [
+          {
+            "text": "3299\t|\tChavignol\tP.\tCotat",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "120",
+    "bbox": [
+      "296.08",
+      "537.50",
+      "316.16",
+      "548.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "120",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "9052\t|\tChateau\tMinuty\tCdProvence\t'Rosé\tet\tOr'\t2020",
+    "bbox": [
+      "138.36",
+      "572.91",
+      "473.88",
+      "585.50"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 46
+          }
+        ],
+        "W": [
+          {
+            "text": "9052\t|\tChateau\tMinuty\tCdProvence\t'Rosé\tet\tOr'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "112",
+    "bbox": [
+      "296.08",
+      "595.25",
+      "316.16",
+      "605.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "112",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LOIRE\t&\tBORDEAUX",
+    "bbox": [
+      "224.06",
+      "661.62",
+      "385.93",
+      "680.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3158\t|\tMelon\t|\tDomaRinEeSE\tERcVuA\tTSIeOvrNeS\t&\tMaine\t‘Granite’\t‘19",
+    "bbox": [
+      "124.61",
+      "713.91",
+      "487.64",
+      "726.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "64",
+    "bbox": [
+      "299.55",
+      "735.50",
+      "312.68",
+      "746.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "260.04",
+      "743.00",
+      "351.47",
+      "753.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.lafayetteny.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.81",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/14",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/21/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Menus | Lafayette in New York, NY",
+    "bbox": [
+      "289.77",
+      "15.70",
+      "413.39",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3092\t|\tMelon\t|\tLandron\tSevre\t&\tMaine\t'Fief\tBreil'\t2017",
+    "bbox": [
+      "131.91",
+      "31.41",
+      "480.34",
+      "44.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "80",
+    "bbox": [
+      "299.55",
+      "53.00",
+      "312.68",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "9005\t|\tSauvignon\tBlanc\t|\tRaimbault-Pineau\tCdGiennois\t‘19",
+    "bbox": [
+      "117.15",
+      "88.41",
+      "495.10",
+      "101.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "60",
+    "bbox": [
+      "299.55",
+      "110.75",
+      "312.68",
+      "121.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3273\t|\tSauvignon\tBlanc\t|\tDaniel\tCrochet\tSancerre\t2019",
+    "bbox": [
+      "128.42",
+      "146.16",
+      "483.82",
+      "158.75"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 49
+          }
+        ],
+        "W": [
+          {
+            "text": "3273\t|\tSauvignon\tBlanc\t|\tDaniel\tCrochet\tSancerre",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "70",
+    "bbox": [
+      "299.55",
+      "167.75",
+      "312.68",
+      "178.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "70",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3208\t|\tChenin\t|\tLambert\tSaumur\tBreze\t‘Clos\tMidi’\t2020",
+    "bbox": [
+      "127.52",
+      "203.16",
+      "484.73",
+      "215.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "3208\t|\tChenin\t|\tLambert\tSaumur\tBreze\t‘Clos\tMidi’",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "68",
+    "bbox": [
+      "299.55",
+      "225.50",
+      "312.68",
+      "236.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "68",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3344\t|\tChenin\t|\tTaille\taux\tLoups\tMontlouis\t‘Remus’\t2019",
+    "bbox": [
+      "124.61",
+      "260.91",
+      "487.64",
+      "273.50"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 51
+          }
+        ],
+        "W": [
+          {
+            "text": "3344\t|\tChenin\t|\tTaille\taux\tLoups\tMontlouis\t‘Remus’",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "85",
+    "bbox": [
+      "299.55",
+      "282.50",
+      "312.68",
+      "293.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3410\t|\tChenin\t|\tMahe\tSavennieres\t‘Sables\tet\tSchistes’\t2016",
+    "bbox": [
+      "116.48",
+      "317.91",
+      "495.76",
+      "330.50"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 54
+          }
+        ],
+        "W": [
+          {
+            "text": "3410\t|\tChenin\t|\tMahe\tSavennieres\t‘Sables\tet\tSchistes’",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "96",
+    "bbox": [
+      "299.55",
+      "339.50",
+      "312.68",
+      "350.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "96",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3334\t|\tChenin\t|\tStater\tWest\tSaumur\t‘Chapaudaises’\t2017",
+    "bbox": [
+      "122.52",
+      "375.66",
+      "489.74",
+      "388.25"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 50
+          }
+        ],
+        "W": [
+          {
+            "text": "3334\t|\tChenin\t|\tStater\tWest\tSaumur\t‘Chapaudaises’",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "105",
+    "bbox": [
+      "296.08",
+      "397.25",
+      "316.16",
+      "407.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "105",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3345\t|\tChenin\t|\tGrange\tTiphaine\t‘Epinays’\t2018",
+    "bbox": [
+      "150.92",
+      "432.66",
+      "461.33",
+      "445.25"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 42
+          }
+        ],
+        "W": [
+          {
+            "text": "3345\t|\tChenin\t|\tGrange\tTiphaine\t‘Epinays’",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "108",
+    "bbox": [
+      "296.08",
+      "454.25",
+      "316.16",
+      "464.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "108",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3223\t|\tChenin\t|\tAnne-Claude\tLeflaive\tClau\tde\tNell\t2014",
+    "bbox": [
+      "125.49",
+      "489.66",
+      "486.76",
+      "502.25"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 50
+          }
+        ],
+        "W": [
+          {
+            "text": "3223\t|\tChenin\t|\tAnne-Claude\tLeflaive\tClau\tde\tNell",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "120",
+    "bbox": [
+      "296.08",
+      "512.00",
+      "316.16",
+      "522.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "120",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3341\t|\tChenin\t|\tClos\tde\tL'Elu\tAnjou\t‘Ephata’\t2013",
+    "bbox": [
+      "145.54",
+      "547.41",
+      "466.71",
+      "560.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 45
+          }
+        ],
+        "W": [
+          {
+            "text": "3341\t|\tChenin\t|\tClos\tde\tL'Elu\tAnjou\t‘Ephata’",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "120",
+    "bbox": [
+      "296.08",
+      "569.00",
+      "316.16",
+      "579.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "120",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3431\t|\tChenin\t|\tChâteau\tYvonne\tSaumur\tBlanc\t2015",
+    "bbox": [
+      "137.74",
+      "604.41",
+      "474.50",
+      "617.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 44
+          }
+        ],
+        "W": [
+          {
+            "text": "3431\t|\tChenin\t|\tChâteau\tYvonne\tSaumur\tBlanc",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "132",
+    "bbox": [
+      "296.08",
+      "626.00",
+      "316.16",
+      "636.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "132",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3027\t|\tChenin\t|\tChâteau\tYvonne\tSaumur\tBlanc\t2016",
+    "bbox": [
+      "137.74",
+      "662.16",
+      "474.50",
+      "674.75"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 44
+          }
+        ],
+        "W": [
+          {
+            "text": "3027\t|\tChenin\t|\tChâteau\tYvonne\tSaumur\tBlanc",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "136",
+    "bbox": [
+      "296.08",
+      "683.75",
+      "316.16",
+      "694.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "136",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "262.03",
+      "715.25",
+      "349.47",
+      "725.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3032\t|\tChenin\t|\tDomaine\tL’Ecu\t‘Matris’\tVdF\t2018",
+    "bbox": [
+      "147.61",
+      "719.16",
+      "464.65",
+      "731.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ORDER1 3O6NLINE",
+    "bbox": [
+      "260.04",
+      "740.75",
+      "351.47",
+      "753.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.lafayetteny.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.81",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/14",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/21/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Menus | Lafayette in New York, NY",
+    "bbox": [
+      "289.77",
+      "15.70",
+      "413.39",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3200\t|\tChenin\t|\tThibault\tBoudignon\tSavennieres\t2014",
+    "bbox": [
+      "133.96",
+      "31.41",
+      "478.29",
+      "44.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "150",
+    "bbox": [
+      "296.08",
+      "53.00",
+      "316.16",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BURGUNDY",
+    "bbox": [
+      "260.33",
+      "119.38",
+      "349.66",
+      "137.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3261\t|\tDomaine\tJuillot\tBourgogne\tBlanc\t2018",
+    "bbox": [
+      "160.10",
+      "171.66",
+      "452.14",
+      "184.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "64",
+    "bbox": [
+      "299.55",
+      "194.00",
+      "312.68",
+      "204.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3042\t|\tServin\tChablis\t‘Pargues\tVV\t-\tSelection\tMassale'\t2018",
+    "bbox": [
+      "116.52",
+      "229.41",
+      "495.72",
+      "242.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "70",
+    "bbox": [
+      "299.55",
+      "251.00",
+      "312.68",
+      "261.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3043\t|\tPierre\tMorey\tBourgogne\tAligote\t2018",
+    "bbox": [
+      "164.74",
+      "286.41",
+      "447.50",
+      "299.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "76",
+    "bbox": [
+      "299.55",
+      "308.75",
+      "312.68",
+      "319.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3262\t|\tDomaine\tCorsin\tSt.Véran\tVieilles\tVignes\t2018",
+    "bbox": [
+      "138.44",
+      "344.16",
+      "473.80",
+      "356.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "80",
+    "bbox": [
+      "299.55",
+      "365.75",
+      "312.68",
+      "376.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3271\t|\tJP\tBenoit\tDroin\tChablis\t2020",
+    "bbox": [
+      "190.46",
+      "401.16",
+      "421.78",
+      "413.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "88",
+    "bbox": [
+      "299.55",
+      "422.75",
+      "312.68",
+      "433.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "9015\t|\tServin\tChablis\t1er\tCru\t'Montée\tde\tTonnerre'\t2018",
+    "bbox": [
+      "125.64",
+      "458.91",
+      "486.60",
+      "471.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "98",
+    "bbox": [
+      "299.55",
+      "480.50",
+      "312.68",
+      "491.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3439\t|\tA&P\tVillaine\tBourgogne\t‘Les\tClous’\t2016",
+    "bbox": [
+      "153.62",
+      "515.91",
+      "458.63",
+      "528.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "106",
+    "bbox": [
+      "296.08",
+      "537.50",
+      "316.16",
+      "548.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3280\t|\tOliver\tMerlin\tPouilly\tFuisse\t2018",
+    "bbox": [
+      "179.33",
+      "572.91",
+      "432.93",
+      "585.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "120",
+    "bbox": [
+      "296.08",
+      "595.25",
+      "316.16",
+      "605.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3203\t|\tMoreau-Naudet\tChablis\t‘Pargues\tV.Vignes’\t2019",
+    "bbox": [
+      "129.00",
+      "630.66",
+      "483.25",
+      "643.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "120",
+    "bbox": [
+      "296.08",
+      "652.25",
+      "316.16",
+      "662.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "3206\t|\tAnne\tGros\tHautes\tCotes\tde\tNuits\t'Marine'\t2017",
+    "bbox": [
+      "133.09",
+      "687.66",
+      "479.15",
+      "700.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "144",
+    "bbox": [
+      "296.08",
+      "709.25",
+      "316.16",
+      "719.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "262.03",
+      "715.25",
+      "349.47",
+      "725.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "260.04",
+      "743.00",
+      "351.47",
+      "753.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.lafayetteny.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.81",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/14",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/21/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Menus | Lafayette in New York, NY",
+    "bbox": [
+      "289.77",
+      "15.70",
+      "413.39",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "3275\t|\tDomaine\tServin\tChablis\tGran\tCru\t'Les\tClos'\t2018",
+    "bbox": [
+      "126.50",
+      "31.41",
+      "485.75",
+      "44.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "186",
+    "bbox": [
+      "296.08",
+      "53.00",
+      "316.16",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "3326\t|\tBachelet\tMonnot\tChassagne\tMontrachet\t2019",
+    "bbox": [
+      "138.64",
+      "88.41",
+      "473.61",
+      "101.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "195",
+    "bbox": [
+      "296.08",
+      "110.75",
+      "316.16",
+      "121.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "3461\t|\tP.Y.\tColin\tMorey\tSt.\tAubin\t‘Marguerite’\t2017",
+    "bbox": [
+      "140.97",
+      "146.16",
+      "471.26",
+      "158.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "198",
+    "bbox": [
+      "296.08",
+      "167.75",
+      "316.16",
+      "178.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "3233\t|\tMoreau-Naudet\tChablis\t‘Pargues\tV\tV’\tMagnum\t‘19",
+    "bbox": [
+      "122.02",
+      "203.16",
+      "490.23",
+      "215.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "218",
+    "bbox": [
+      "296.08",
+      "225.50",
+      "316.16",
+      "236.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "3045\t|\tMoreau-Naudet\tChablis\t1er\tCru\tMagnum\t‘19",
+    "bbox": [
+      "139.59",
+      "260.91",
+      "472.65",
+      "273.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "275",
+    "bbox": [
+      "296.08",
+      "282.50",
+      "316.16",
+      "293.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "3279\t|\tPierre\tMorey\tMeursault\t‘Les\tTessons’\t2019",
+    "bbox": [
+      "149.45",
+      "317.91",
+      "462.80",
+      "330.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "290",
+    "bbox": [
+      "296.08",
+      "339.50",
+      "316.16",
+      "350.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "3472\t|\tCarillon\tPuligny\tMontrachet\t1er\tCru\t‘Perrieres’\t2013",
+    "bbox": [
+      "117.36",
+      "375.66",
+      "494.88",
+      "388.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "318",
+    "bbox": [
+      "296.08",
+      "397.25",
+      "316.16",
+      "407.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "3340\t|\tDomaine\tRaveneau\tChablis\t2018",
+    "bbox": [
+      "177.86",
+      "432.66",
+      "434.38",
+      "445.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "345",
+    "bbox": [
+      "296.08",
+      "454.25",
+      "316.16",
+      "464.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "3425\t|\tDomaine\tRoulot\tMeursault\t2019",
+    "bbox": [
+      "181.47",
+      "489.66",
+      "430.76",
+      "502.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "348",
+    "bbox": [
+      "296.08",
+      "512.00",
+      "316.16",
+      "522.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "3480\t|\tDomaine\tRaveneau\tChablis\t1er\tCru\t‘Forêt’\t2018",
+    "bbox": [
+      "129.35",
+      "547.41",
+      "482.90",
+      "560.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "540",
+    "bbox": [
+      "296.08",
+      "569.00",
+      "316.16",
+      "579.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RHÔNE,\tPROVENCE,\tSOUTHWEST\t&\tCORSICA",
+    "bbox": [
+      "122.81",
+      "635.37",
+      "487.20",
+      "653.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "3020\t|\tCarignane\t|\tPromises\tSt.\tBaume\t‘Analepse’\t2019",
+    "bbox": [
+      "127.46",
+      "687.66",
+      "484.77",
+      "700.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "78",
+    "bbox": [
+      "299.55",
+      "709.25",
+      "312.68",
+      "719.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "262.03",
+      "715.25",
+      "349.47",
+      "725.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "260.04",
+      "743.00",
+      "351.47",
+      "753.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.lafayetteny.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.81",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/14",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/21/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Menus | Lafayette in New York, NY",
+    "bbox": [
+      "289.77",
+      "15.70",
+      "413.39",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "3255\t|\tGrenache\tGris+\t|\tRoc\tDes\tAnges\t‘Llum’\t2017",
+    "bbox": [
+      "137.62",
+      "31.41",
+      "474.62",
+      "44.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "84",
+    "bbox": [
+      "299.55",
+      "53.00",
+      "312.68",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "3160\t|\tMarsanne\t|\tDomaine\tBernard\tGripa\tSt.\tJoseph\t‘16",
+    "bbox": [
+      "122.71",
+      "88.41",
+      "489.53",
+      "101.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "140",
+    "bbox": [
+      "296.08",
+      "110.75",
+      "316.16",
+      "121.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "3358\t|\tClairette\t+Ugni\tBlanc\t|\tDomaine\tTempier\t2020",
+    "bbox": [
+      "132.30",
+      "146.16",
+      "479.94",
+      "158.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "109",
+    "bbox": [
+      "296.08",
+      "167.75",
+      "316.16",
+      "178.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "3388\t|\tMarsanne\t+\t|\tDelas\tFreres\thermitage\t'tourettes'",
+    "bbox": [
+      "132.51",
+      "203.16",
+      "479.74",
+      "215.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "180",
+    "bbox": [
+      "296.08",
+      "225.50",
+      "316.16",
+      "236.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ALSACE",
+    "bbox": [
+      "275.39",
+      "291.87",
+      "334.60",
+      "310.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "9010\t|\tRiesling\t|\tPaul\tBlanck\t‘Classique’\t2019",
+    "bbox": [
+      "159.24",
+      "344.16",
+      "453.00",
+      "356.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "60",
+    "bbox": [
+      "299.55",
+      "365.75",
+      "312.68",
+      "376.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "3210\t|\tPinot\tBlanc\t|\tPaul\tBlanck\tAlsace\t2019",
+    "bbox": [
+      "163.21",
+      "401.16",
+      "449.04",
+      "413.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "60",
+    "bbox": [
+      "299.55",
+      "422.75",
+      "312.68",
+      "433.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "3506\t|\tRiesling\t|\tAlbert\tBoxler\t‘Reserve’\t2012",
+    "bbox": [
+      "162.04",
+      "458.91",
+      "450.20",
+      "471.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "101",
+    "bbox": [
+      "296.08",
+      "480.50",
+      "316.16",
+      "491.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "3130\t|\tRiesling\t|\tValentin\tZusslin\t‘Clos\tLiebenberg’\t2014",
+    "bbox": [
+      "125.98",
+      "515.91",
+      "486.25",
+      "528.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "115",
+    "bbox": [
+      "296.08",
+      "537.50",
+      "316.16",
+      "548.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "JURA\t&\tSAVOIE",
+    "bbox": [
+      "241.94",
+      "603.87",
+      "368.04",
+      "622.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "3163\t|\tChardonnay\t|\tDomaine\tPelican\tArbois\t2019",
+    "bbox": [
+      "143.30",
+      "656.16",
+      "468.95",
+      "668.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "128",
+    "bbox": [
+      "296.08",
+      "678.50",
+      "316.16",
+      "689.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "3325\t|\tChardonnay\t|\tPReElSicEaRVnA\tATrIbOoNisS\t'Grand\tCuroulet'\t2019",
+    "bbox": [
+      "119.87",
+      "713.91",
+      "492.37",
+      "726.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "155",
+    "bbox": [
+      "296.08",
+      "735.50",
+      "316.16",
+      "746.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "260.04",
+      "743.00",
+      "351.47",
+      "753.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://www.lafayetteny.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.81",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/14",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/21/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Menus | Lafayette in New York, NY",
+    "bbox": [
+      "289.77",
+      "15.70",
+      "413.39",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "VINS\tROUGE",
+    "bbox": [
+      "254.71",
+      "25.63",
+      "355.29",
+      "44.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BORDEAUX",
+    "bbox": [
+      "261.85",
+      "98.38",
+      "348.16",
+      "116.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "5443\tMerlot+\t|\tChateau\tLa\tFleur\tPlaisance\t‘20\t|\tSt.\tEmilon",
+    "bbox": [
+      "118.40",
+      "150.66",
+      "493.84",
+      "163.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "60",
+    "bbox": [
+      "299.55",
+      "172.25",
+      "312.68",
+      "182.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "9110\t|\tCabernet+\t|\tChavrignac\t2019\t|\tBordeaux",
+    "bbox": [
+      "149.01",
+      "207.66",
+      "463.24",
+      "220.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "65",
+    "bbox": [
+      "299.55",
+      "230.00",
+      "312.68",
+      "240.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "6010\t|\tCabernet+\t|\tRauzan\tGassies\t'Orme'\t2015\t|\tMargaux",
+    "bbox": [
+      "115.29",
+      "265.41",
+      "496.97",
+      "278.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "72",
+    "bbox": [
+      "299.55",
+      "287.00",
+      "312.68",
+      "297.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "5391\tMerlot+\t|\tChateau\tHaut-Brisson\t2016\t|\tSt.\tEmilion",
+    "bbox": [
+      "127.13",
+      "322.41",
+      "485.12",
+      "335.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "101",
+    "bbox": [
+      "296.08",
+      "344.75",
+      "316.16",
+      "355.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "5461\tMerlot+\t|\tChateau\tDalem\t2018|\tFronsac",
+    "bbox": [
+      "157.64",
+      "380.16",
+      "454.61",
+      "392.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "108",
+    "bbox": [
+      "296.08",
+      "401.75",
+      "316.16",
+      "412.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "6025\t|\tCabernet+\t|\tBranaire\tDucru\t'Duluc'\t2017\t|\tSt.\tJulien",
+    "bbox": [
+      "115.87",
+      "437.16",
+      "496.37",
+      "449.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "104",
+    "bbox": [
+      "296.08",
+      "458.75",
+      "316.16",
+      "469.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "6100\t|\tCabernet+\t|\tDomaine\tChevalier\t'Esprit'\t‘16|\tPessac",
+    "bbox": [
+      "119.66",
+      "494.91",
+      "492.59",
+      "507.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "112",
+    "bbox": [
+      "296.08",
+      "516.50",
+      "316.16",
+      "527.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "6125\t|\tCabernet+\t|\tMalarctic\tLagraviere\t'Rsv'\t‘15\t|\tPessac",
+    "bbox": [
+      "121.17",
+      "551.91",
+      "491.08",
+      "564.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "120",
+    "bbox": [
+      "296.08",
+      "573.50",
+      "316.16",
+      "584.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "6128\tMerlot+\t|\tLe\tCarillon\tde\tRouget\t2018\t|\tPommerol",
+    "bbox": [
+      "129.75",
+      "608.91",
+      "482.51",
+      "621.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "122",
+    "bbox": [
+      "296.08",
+      "631.25",
+      "316.16",
+      "641.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "6000\t|\tCabernet+\t|\tPape\tClement\t'Clementin'\t’16\t|\tPessac",
+    "bbox": [
+      "119.81",
+      "666.66",
+      "492.44",
+      "679.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "135",
+    "bbox": [
+      "296.08",
+      "688.25",
+      "316.16",
+      "698.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "262.03",
+      "715.25",
+      "349.47",
+      "725.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "6015\t|\tCabernet+\t|\tChateau\tFieuzal\t‘11\t|\tPessac\tLeognan",
+    "bbox": [
+      "120.15",
+      "723.66",
+      "492.10",
+      "736.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ORDER1 4O0NLINE",
+    "bbox": [
+      "260.04",
+      "743.00",
+      "351.47",
+      "755.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://www.lafayetteny.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.81",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/14",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/21/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Menus | Lafayette in New York, NY",
+    "bbox": [
+      "289.77",
+      "15.70",
+      "413.39",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "6005\t|\tCabernet+\t|\tCalon\tSegur\t'Marquis'\t’15\t|\tSt.\tEstephe",
+    "bbox": [
+      "117.44",
+      "31.41",
+      "494.80",
+      "44.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "140",
+    "bbox": [
+      "296.08",
+      "53.00",
+      "316.16",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "6122\tMerlot+\t|\tChateau\tVray\tCroix\tde\tGay\t’15\t|\tPomerol",
+    "bbox": [
+      "123.18",
+      "88.41",
+      "489.06",
+      "101.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "160",
+    "bbox": [
+      "296.08",
+      "110.75",
+      "316.16",
+      "121.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "6026\t|\tCabernet+\t|\tChateau\tKirwan\t2016\t|\tMargaux",
+    "bbox": [
+      "136.81",
+      "146.16",
+      "475.43",
+      "158.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "272",
+    "bbox": [
+      "296.08",
+      "167.75",
+      "316.16",
+      "178.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "6105\t|\tCabernet+\t|\tChateau\tPape\tClement\t2015\t|\tPessac",
+    "bbox": [
+      "121.77",
+      "203.16",
+      "490.48",
+      "215.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "290",
+    "bbox": [
+      "296.08",
+      "225.50",
+      "316.16",
+      "236.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "6120\t|\tCabernet+\t|\tChateau\tPape\tClement\t2012\t|\tPessac",
+    "bbox": [
+      "121.77",
+      "260.91",
+      "490.48",
+      "273.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "310",
+    "bbox": [
+      "296.08",
+      "282.50",
+      "316.16",
+      "293.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BURGUNDY",
+    "bbox": [
+      "260.33",
+      "348.88",
+      "349.66",
+      "367.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "9100\t|\tDomaine\tCoillot\tBourgogne\tRouge\t2018",
+    "bbox": [
+      "155.59",
+      "401.16",
+      "456.65",
+      "413.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "72",
+    "bbox": [
+      "299.55",
+      "422.75",
+      "312.68",
+      "433.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "5348\t|\tDidier\tFornerol\tBourgogne\tRouge\t2019",
+    "bbox": [
+      "159.15",
+      "458.91",
+      "453.09",
+      "471.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "102",
+    "bbox": [
+      "296.08",
+      "480.50",
+      "316.16",
+      "491.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "5492\t|\tPierre\tMorey\tBourgogne\tRouge\t2019",
+    "bbox": [
+      "167.29",
+      "515.91",
+      "444.95",
+      "528.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "104",
+    "bbox": [
+      "296.08",
+      "537.50",
+      "316.16",
+      "548.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "5493\t|\tJuillot\tMercurey\t1er\tCru\t'Champs\tMartin'\t2019",
+    "bbox": [
+      "136.26",
+      "572.91",
+      "475.98",
+      "585.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "109",
+    "bbox": [
+      "296.08",
+      "595.25",
+      "316.16",
+      "605.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "5490\t|\tCoillot\tMarsannay\t'Charme\taux\tPretres'\t2019",
+    "bbox": [
+      "141.02",
+      "630.66",
+      "471.22",
+      "643.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "112",
+    "bbox": [
+      "296.08",
+      "652.25",
+      "316.16",
+      "662.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "5276\t|\tJadot\tSavigny\tles\tBeaune\t1er\tCru\t‘Dominodes’\t2019",
+    "bbox": [
+      "117.58",
+      "687.66",
+      "494.66",
+      "700.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "128",
+    "bbox": [
+      "296.08",
+      "709.25",
+      "316.16",
+      "719.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "262.03",
+      "715.25",
+      "349.47",
+      "725.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "260.04",
+      "743.00",
+      "351.47",
+      "753.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://www.lafayetteny.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.81",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/14",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "4/21/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Menus | Lafayette in New York, NY",
+    "bbox": [
+      "289.77",
+      "15.70",
+      "413.39",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "5072\t|\tClos\tDu\tMoulin\taux\tMoines\tAuxey-Duresses\t2019",
+    "bbox": [
+      "127.94",
+      "31.41",
+      "484.31",
+      "44.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "156",
+    "bbox": [
+      "296.08",
+      "53.00",
+      "316.16",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "5392\t|\tDomaine\tBenoit\tChevalier\t'En\tLuterniere'\t2019",
+    "bbox": [
+      "136.79",
+      "88.41",
+      "475.45",
+      "101.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "160",
+    "bbox": [
+      "296.08",
+      "110.75",
+      "316.16",
+      "121.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "5343\t|\tPierre\tMorey\tMonthelie\t2019",
+    "bbox": [
+      "191.89",
+      "146.16",
+      "420.36",
+      "158.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "168",
+    "bbox": [
+      "296.08",
+      "167.75",
+      "316.16",
+      "178.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "6110\t|\tDomaine\tCoillot\tGevrey\tChambertin\tVV\t2018",
+    "bbox": [
+      "139.95",
+      "203.16",
+      "472.29",
+      "215.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "175",
+    "bbox": [
+      "296.08",
+      "225.50",
+      "316.16",
+      "236.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "5485\t|\tLignier\tGevrey\tChambertin\t1er\tCru\t‘Seuvrees’\t2018",
+    "bbox": [
+      "120.11",
+      "260.91",
+      "492.13",
+      "273.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "244",
+    "bbox": [
+      "296.08",
+      "282.50",
+      "316.16",
+      "293.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "5370\tLouis\tJadot\tVosne-Romanée\t2019",
+    "bbox": [
+      "182.71",
+      "317.91",
+      "429.53",
+      "330.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "246",
+    "bbox": [
+      "296.08",
+      "339.50",
+      "316.16",
+      "350.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "5560\t|\tGaleyrand\tGevrey\tChambertin\t‘VV’\tCroisette\t2016",
+    "bbox": [
+      "123.95",
+      "375.66",
+      "488.30",
+      "388.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "261",
+    "bbox": [
+      "296.08",
+      "397.25",
+      "316.16",
+      "407.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "BEAUJOLAIS",
+    "bbox": [
+      "255.02",
+      "463.62",
+      "354.99",
+      "482.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "5403\t|\tDamien\tCoquelet\tChiroubles\t2019",
+    "bbox": [
+      "173.77",
+      "515.91",
+      "438.48",
+      "528.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "64",
+    "bbox": [
+      "299.55",
+      "537.50",
+      "312.68",
+      "548.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "5456\t|\tDaniel\tBouland\tMorgon\t'Bellevue'\t2019",
+    "bbox": [
+      "159.08",
+      "572.91",
+      "453.16",
+      "585.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "88",
+    "bbox": [
+      "299.55",
+      "595.25",
+      "312.68",
+      "605.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "5377\t|\tDaniel\tBouland\tMorgon\t'Les\tDelys\t-\t1926’\t2019",
+    "bbox": [
+      "131.67",
+      "630.66",
+      "480.58",
+      "643.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "96",
+    "bbox": [
+      "299.55",
+      "652.25",
+      "312.68",
+      "662.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "5032\t|\tYvon\tMetras\tFleurie\t‘Madame\tPlacard’\t2017",
+    "bbox": [
+      "143.40",
+      "687.66",
+      "468.84",
+      "700.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "101",
+    "bbox": [
+      "296.08",
+      "709.25",
+      "316.16",
+      "719.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "262.03",
+      "715.25",
+      "349.47",
+      "725.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "260.04",
+      "743.00",
+      "351.47",
+      "753.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "https://www.lafayetteny.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.81",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "9/14",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "4/21/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Menus | Lafayette in New York, NY",
+    "bbox": [
+      "289.77",
+      "15.70",
+      "413.39",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "5240\t|\tMarcel\tLapierre\tMorgon\t2020",
+    "bbox": [
+      "188.73",
+      "31.41",
+      "423.52",
+      "44.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "107",
+    "bbox": [
+      "296.08",
+      "53.00",
+      "316.16",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "5540\t|\tDutraive\tFleurie\t‘Clos\tde\tla\tGrand\tCoeur’\t‘2020",
+    "bbox": [
+      "130.47",
+      "88.41",
+      "481.77",
+      "101.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "112",
+    "bbox": [
+      "296.08",
+      "110.75",
+      "316.16",
+      "121.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "5347\t|\tFoillard\tCru\tMorgon\t‘Cote\tdu\tPy’\t2017",
+    "bbox": [
+      "159.84",
+      "146.16",
+      "452.41",
+      "158.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "120",
+    "bbox": [
+      "296.08",
+      "167.75",
+      "316.16",
+      "178.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "5253\t|\tFoillard\tMorgon\t'Corcelette\t'\t2016",
+    "bbox": [
+      "175.07",
+      "203.16",
+      "437.16",
+      "215.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "122",
+    "bbox": [
+      "296.08",
+      "225.50",
+      "316.16",
+      "236.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "5042\t|\tYvon\tMetras\tFleurie\t‘\t2017",
+    "bbox": [
+      "197.88",
+      "260.91",
+      "414.36",
+      "273.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "131",
+    "bbox": [
+      "296.08",
+      "282.50",
+      "316.16",
+      "293.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "JURA\t&\tSAVOIE",
+    "bbox": [
+      "241.94",
+      "348.87",
+      "368.04",
+      "367.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "5109\t|\tTrousseau\t|\tDomaine\tPignier\t2019",
+    "bbox": [
+      "172.78",
+      "401.16",
+      "439.47",
+      "413.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "120",
+    "bbox": [
+      "296.08",
+      "422.75",
+      "316.16",
+      "433.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "5278\t|\tPoulsard\t|\tDomaine\tPelican\tArbois\t2019",
+    "bbox": [
+      "154.77",
+      "458.91",
+      "457.49",
+      "471.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "140",
+    "bbox": [
+      "296.08",
+      "480.50",
+      "316.16",
+      "491.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "RHÔNE",
+    "bbox": [
+      "277.89",
+      "546.87",
+      "332.10",
+      "565.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "5207\t|\tSyrah\t|\tAphillantes\tCdRhone\t'Les\tCros'\t2019",
+    "bbox": [
+      "142.60",
+      "599.16",
+      "469.64",
+      "611.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "56",
+    "bbox": [
+      "299.55",
+      "620.75",
+      "312.68",
+      "631.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "9044\t|\tGrenache+\t|\tAphillantes\tCdRhone\t'Les\tGalets'\t2019",
+    "bbox": [
+      "118.44",
+      "656.16",
+      "493.80",
+      "668.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "60",
+    "bbox": [
+      "299.55",
+      "678.50",
+      "312.68",
+      "689.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "5165\t|\tGrenache+\t|R\tEASpEhRiVllAaTnItOheNsS\tRasteau\t'1921'\t2019",
+    "bbox": [
+      "134.11",
+      "713.91",
+      "478.14",
+      "726.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "64",
+    "bbox": [
+      "299.55",
+      "735.50",
+      "312.68",
+      "746.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "260.04",
+      "743.00",
+      "351.47",
+      "753.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "https://www.lafayetteny.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.81",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "10/14",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "4/21/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Menus | Lafayette in New York, NY",
+    "bbox": [
+      "289.77",
+      "15.70",
+      "413.39",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "5206\t|\tGrenache+\t|\tRene\tBalthazar\tCotes\tdu\tRhone\t2020",
+    "bbox": [
+      "122.37",
+      "31.41",
+      "489.86",
+      "44.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "65",
+    "bbox": [
+      "299.55",
+      "53.00",
+      "312.68",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "5486\tSyrah\t|\tVincent\tParis\tCroze\tHermitage\t2020",
+    "bbox": [
+      "149.54",
+      "88.41",
+      "462.72",
+      "101.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "70",
+    "bbox": [
+      "299.55",
+      "110.75",
+      "312.68",
+      "121.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "9105\t|\tSyrah\t|\tMatthieu\tBarret\t'Vilain\"\tVin\tde\tFrance\t2019",
+    "bbox": [
+      "122.48",
+      "146.16",
+      "489.76",
+      "158.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "72",
+    "bbox": [
+      "299.55",
+      "167.75",
+      "312.68",
+      "178.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "5104\t|\tSyrah\t|\tDomaine\tClusel\tRoch\t‘Serine’\t2020",
+    "bbox": [
+      "146.18",
+      "203.16",
+      "466.07",
+      "215.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "76",
+    "bbox": [
+      "299.55",
+      "225.50",
+      "312.68",
+      "236.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "5130\t|\tSyrah\t|\tHerve\tSouhaut\t2018",
+    "bbox": [
+      "193.18",
+      "260.91",
+      "419.05",
+      "273.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "88",
+    "bbox": [
+      "299.55",
+      "282.50",
+      "312.68",
+      "293.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "5523\tSyrah\t|\tVincent\tParis\tSaint\tJoseph\t'Les\tCotes'\t2020",
+    "bbox": [
+      "129.12",
+      "317.91",
+      "483.12",
+      "330.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "95",
+    "bbox": [
+      "299.55",
+      "339.50",
+      "312.68",
+      "350.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "5346\t|\tSyrah\t|\tGramenon\tCdRhône\t‘Sierra\tdu\tSud’\t2019",
+    "bbox": [
+      "126.48",
+      "375.66",
+      "485.78",
+      "388.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "98",
+    "bbox": [
+      "299.55",
+      "397.25",
+      "312.68",
+      "407.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "5361\t|\tGrenache\t|\tGramenon\tCdRhône\t‘La\tSagesse’\t2019",
+    "bbox": [
+      "121.26",
+      "432.66",
+      "490.99",
+      "445.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "129",
+    "bbox": [
+      "296.08",
+      "454.25",
+      "316.16",
+      "464.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "5073\tSyrah\t|\tVincent\tParis\tCornas\t‘Granit\t30’\t2020",
+    "bbox": [
+      "143.04",
+      "489.66",
+      "469.22",
+      "502.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "132",
+    "bbox": [
+      "296.08",
+      "512.00",
+      "316.16",
+      "522.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "5483\t|\tGrenache+\t|\tDomaine\tSt.\tPrefert\tCNDPape\t2019",
+    "bbox": [
+      "126.80",
+      "547.41",
+      "485.45",
+      "560.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "136",
+    "bbox": [
+      "296.08",
+      "569.00",
+      "316.16",
+      "579.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "5069\t|\tGrenache+\t|\tDomaine\tCharbonniere\tCNDPape",
+    "bbox": [
+      "132.86",
+      "604.41",
+      "479.38",
+      "617.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "150",
+    "bbox": [
+      "296.08",
+      "626.00",
+      "316.16",
+      "636.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "5460\t|\tGrenache+\t|\tDomaine\tCharvin\tCNDPape\t2019",
+    "bbox": [
+      "132.70",
+      "662.16",
+      "479.55",
+      "674.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "168",
+    "bbox": [
+      "296.08",
+      "683.75",
+      "316.16",
+      "694.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "262.03",
+      "715.25",
+      "349.47",
+      "725.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "6027\t|\tGrenache+\t|\tDomaine\tCharvin\tCNDPape\t2016",
+    "bbox": [
+      "132.70",
+      "719.16",
+      "479.55",
+      "731.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "ORDER2 2O1NLINE",
+    "bbox": [
+      "260.04",
+      "740.75",
+      "351.47",
+      "753.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "https://www.lafayetteny.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.81",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "11/14",
+    "bbox": [
+      "566.09",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "4/21/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Menus | Lafayette in New York, NY",
+    "bbox": [
+      "289.77",
+      "15.70",
+      "413.39",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "5017\t|\tSyrah\t|\tDomaine\tFaury\tCote\tRotie\t2019",
+    "bbox": [
+      "156.95",
+      "31.41",
+      "455.31",
+      "44.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "188",
+    "bbox": [
+      "296.08",
+      "53.00",
+      "316.16",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "6011\t|\tSyrah\t|\tRene\tBalthazar\tCornas\t‘Casimir\t2019",
+    "bbox": [
+      "139.18",
+      "88.41",
+      "473.07",
+      "101.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "199",
+    "bbox": [
+      "296.08",
+      "110.75",
+      "316.16",
+      "121.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "5043\t|\tSyrah\t|\tClusel\tRoch\tCote\tRotie\t‘Les\tSchiste’19",
+    "bbox": [
+      "138.61",
+      "146.16",
+      "473.64",
+      "158.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "204",
+    "bbox": [
+      "296.08",
+      "167.75",
+      "316.16",
+      "178.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "6001\t|\tSyrah\t|\tRene\tBalthazar\tCornas\t‘Sans\tSoufre’\t2019",
+    "bbox": [
+      "124.48",
+      "203.16",
+      "487.77",
+      "215.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "240",
+    "bbox": [
+      "296.08",
+      "225.50",
+      "316.16",
+      "236.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "6030\t|\tSyrah\t|\tRene\tBalthazar\tCornas\t‘Chaillots’\t2019",
+    "bbox": [
+      "133.51",
+      "260.91",
+      "478.74",
+      "273.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "313",
+    "bbox": [
+      "296.08",
+      "282.50",
+      "316.16",
+      "293.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "PROVENCE,\tSOUTHWEST\t&\tCORSICA",
+    "bbox": [
+      "157.95",
+      "348.88",
+      "452.04",
+      "367.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "5482\t|\tMourvedre+\t|\tDomaine\tTempier\tBandol\t2014",
+    "bbox": [
+      "137.98",
+      "401.16",
+      "474.26",
+      "413.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "136",
+    "bbox": [
+      "296.08",
+      "422.75",
+      "316.16",
+      "433.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "5552\t|\tMourvedre+\t|\tDomaine\tTempier\tBandol\t2016",
+    "bbox": [
+      "137.98",
+      "458.91",
+      "474.26",
+      "471.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "148",
+    "bbox": [
+      "296.08",
+      "480.50",
+      "316.16",
+      "491.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "5146\t|\tCabernet+\t|\tMas\tde\tDaumas\tGassac\t2017",
+    "bbox": [
+      "146.75",
+      "515.91",
+      "465.51",
+      "528.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "144",
+    "bbox": [
+      "296.08",
+      "537.50",
+      "316.16",
+      "548.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "5447\t|\tMourvedre+\t|\tDomaine\tTempier\tBandol\t2019",
+    "bbox": [
+      "137.98",
+      "572.91",
+      "474.26",
+      "585.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "160",
+    "bbox": [
+      "296.08",
+      "595.25",
+      "316.16",
+      "605.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "5375\t|\tMourvedre+\t|\tDomaine\tTempier\t‘La\tTourtine’\t2014",
+    "bbox": [
+      "120.35",
+      "630.66",
+      "491.90",
+      "643.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "184",
+    "bbox": [
+      "296.08",
+      "652.25",
+      "316.16",
+      "662.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "5291\t|\tMourvedre+\t|\tDomaine\tTempier\t‘La\tMigoua’\t2016",
+    "bbox": [
+      "122.42",
+      "687.66",
+      "489.82",
+      "700.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "184",
+    "bbox": [
+      "296.08",
+      "709.25",
+      "316.16",
+      "719.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "262.03",
+      "715.25",
+      "349.47",
+      "725.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "260.04",
+      "743.00",
+      "351.47",
+      "753.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "https://www.lafayetteny.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.81",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "12/14",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "4/21/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Menus | Lafayette in New York, NY",
+    "bbox": [
+      "289.77",
+      "15.70",
+      "413.39",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "LOIRE",
+    "bbox": [
+      "281.43",
+      "41.38",
+      "328.56",
+      "59.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "5335\t|\tCab\tFranc\t|\tChateau\tde\tCoulaine\tChinon\t2020",
+    "bbox": [
+      "132.42",
+      "93.66",
+      "479.83",
+      "106.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "58",
+    "bbox": [
+      "299.55",
+      "115.25",
+      "312.68",
+      "125.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "9115\t|\tCab\tFranc\t|\tVilleneuve\tSaumur\tChampigny\t2019",
+    "bbox": [
+      "128.48",
+      "150.66",
+      "483.76",
+      "163.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "60",
+    "bbox": [
+      "299.55",
+      "172.25",
+      "312.68",
+      "182.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "5349\t|\tMalbec\t+\t|\tGrange\tTiphaine\t‘Ad\tLibitum’\t2020",
+    "bbox": [
+      "133.25",
+      "207.66",
+      "479.00",
+      "220.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "60",
+    "bbox": [
+      "299.55",
+      "230.00",
+      "312.68",
+      "240.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "5360\t|\tCab\tFranc\t|\tFabrice\tGasnier\tChinon\tVV\t2019",
+    "bbox": [
+      "138.91",
+      "265.41",
+      "473.33",
+      "278.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "62",
+    "bbox": [
+      "299.55",
+      "287.00",
+      "312.68",
+      "297.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "9039\t|\tCab\tFranc\t|\tJour\tde\tSoif\tBourgueil\t2020",
+    "bbox": [
+      "154.70",
+      "322.41",
+      "457.56",
+      "335.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "64",
+    "bbox": [
+      "299.55",
+      "344.75",
+      "312.68",
+      "355.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "5128\t|\tCab\tFranc\t|\tLambert\tSaumur\t'Mazurique'\t2020",
+    "bbox": [
+      "135.18",
+      "380.16",
+      "477.05",
+      "392.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "70",
+    "bbox": [
+      "299.55",
+      "401.75",
+      "312.68",
+      "412.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "5359\t|\tCab\tFranc\t|\tLambert\tSaumur\t‘Clos\tTue-Loup’\t2016",
+    "bbox": [
+      "121.11",
+      "437.16",
+      "491.13",
+      "449.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "70",
+    "bbox": [
+      "299.55",
+      "458.75",
+      "312.68",
+      "469.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "5238\t|\tMalbec\t|\tGrange\tTiphaine\t(Cot)\t‘Vieilles\tVignes’\t19",
+    "bbox": [
+      "120.49",
+      "494.91",
+      "491.75",
+      "507.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "99",
+    "bbox": [
+      "299.55",
+      "516.50",
+      "312.68",
+      "527.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "5018\t|\tCab\tFranc\t|\tGrosbois\tChinon\t‘Gabare’\t2018",
+    "bbox": [
+      "140.57",
+      "551.91",
+      "471.67",
+      "564.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "105",
+    "bbox": [
+      "296.08",
+      "573.50",
+      "316.16",
+      "584.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "5404\t|\tCab\tFranc\t|\tDomaine\tL’Ecu\t‘Mephisto’\tVdF\t2018",
+    "bbox": [
+      "128.52",
+      "608.91",
+      "483.73",
+      "621.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "109",
+    "bbox": [
+      "296.08",
+      "631.25",
+      "316.16",
+      "641.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "5108\t|\tCab\tFranc\t|\tGermain\tS\tChampigny\t‘Francs\tPied’\t17",
+    "bbox": [
+      "118.74",
+      "666.66",
+      "493.49",
+      "679.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "115",
+    "bbox": [
+      "296.08",
+      "688.25",
+      "316.16",
+      "698.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "262.03",
+      "715.25",
+      "349.47",
+      "725.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "5495\t|\tCab\tFranc\t|\tGrosbois\tChinon\t‘Clos\tdu\tNoyer’\t2018",
+    "bbox": [
+      "119.61",
+      "723.66",
+      "492.63",
+      "736.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "260.04",
+      "743.00",
+      "351.47",
+      "753.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "125",
+    "bbox": [
+      "296.08",
+      "746.00",
+      "316.16",
+      "756.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "https://www.lafayetteny.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.81",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "13/14",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "4/21/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Menus | Lafayette in New York, NY",
+    "bbox": [
+      "289.77",
+      "15.70",
+      "413.39",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "262.03",
+      "715.25",
+      "349.47",
+      "725.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "260.04",
+      "743.00",
+      "351.47",
+      "753.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "https://www.lafayetteny.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "186.81",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "14/14",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

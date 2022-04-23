@@ -262,6 +262,10 @@
           {
             "text": "Friuli Isonzo 202",
             "answer_start": 0
+          },
+          {
+            "text": "Italy",
+            "answer_start": 19
           }
         ],
         "V": [
@@ -328,6 +332,10 @@
           {
             "text": "Bordeaux 2021 Franc",
             "answer_start": 0
+          },
+          {
+            "text": "France (organic)",
+            "answer_start": 14
           }
         ],
         "V": [
@@ -446,6 +454,10 @@
           {
             "text": "Loire 2020",
             "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 11
           }
         ],
         "V": [
@@ -512,6 +524,10 @@
           {
             "text": "Bourgogne 2020",
             "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 15
           }
         ],
         "V": [
@@ -604,6 +620,10 @@
           {
             "text": "Bourgogne 20",
             "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 15
           }
         ],
         "V": [
@@ -670,6 +690,10 @@
           {
             "text": "“June 21st” Château de L’escarelle, Provence",
             "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 50
           }
         ],
         "V": [
@@ -736,6 +760,10 @@
           {
             "text": "Rioja 2",
             "answer_start": 0
+          },
+          {
+            "text": "Spain",
+            "answer_start": 11
           }
         ],
         "V": [
@@ -802,6 +830,10 @@
           {
             "text": "Bordeaux",
             "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 14
           }
         ],
         "V": [
@@ -868,6 +900,10 @@
           {
             "text": "Napa 2020 California",
             "answer_start": 0
+          },
+          {
+            "text": "California",
+            "answer_start": 10
           }
         ],
         "V": [
@@ -999,6 +1035,10 @@
           {
             "text": "Provence 2020 France",
             "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 14
           }
         ],
         "V": [
@@ -1065,6 +1105,10 @@
           {
             "text": "Loire 2020",
             "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 11
           }
         ],
         "V": [
@@ -1144,6 +1188,10 @@
           {
             "text": "Blanc de Blancs Brut",
             "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 24
           }
         ],
         "V": [
@@ -1210,6 +1258,10 @@
           {
             "text": "Brut NV United",
             "answer_start": 0
+          },
+          {
+            "text": "United States (organic)",
+            "answer_start": 8
           }
         ],
         "V": [
@@ -1277,6 +1329,12 @@
             "text": "NV",
             "answer_start": 0
           }
+        ],
+        "W": [
+          {
+            "text": "Italy",
+            "answer_start": 3
+          }
         ]
       }
     ]
@@ -1336,6 +1394,10 @@
           {
             "text": "Brut NV Fr",
             "answer_start": 0
+          },
+          {
+            "text": "France (organic)",
+            "answer_start": 8
           }
         ],
         "V": [

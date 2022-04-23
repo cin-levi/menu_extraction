@@ -2663,6 +2663,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Gotham Project, 'Ponchera' Rose, California, United States",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "NV",
@@ -2736,6 +2742,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Steinschaden, Selektion, Kamptal, Niederösterreich, Austria",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2020",
@@ -2796,6 +2808,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Millbrook Estate 'Local Juice' Hudson River Region - NY, United State",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2018",
@@ -2869,6 +2887,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Anassa, Peloponnese, Greece",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2017",
@@ -2934,6 +2958,12 @@
             "text": "2015",
             "answer_start": 72
           }
+        ],
+        "W": [
+          {
+            "text": "Château du Cayrou, 'Le Sang du Cayrou' Cahors, Southwest France, France",
+            "answer_start": 0
+          }
         ]
       }
     ]
@@ -2989,6 +3019,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Lieb Cellars — Bridge Lane, New York, United States",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "NV",
@@ -3049,6 +3085,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Finca Parera, Penedès La Vivi Dora",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "NV",

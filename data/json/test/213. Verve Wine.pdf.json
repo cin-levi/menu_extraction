@@ -1211,6 +1211,12 @@
             "text": "Chasselas 2018",
             "answer_start": 0
           }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 10
+          }
         ]
       }
     ]
@@ -1251,6 +1257,12 @@
             "text": "Gewurztraminer 2018",
             "answer_start": 0
           }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 15
+          }
         ]
       }
     ]
@@ -1270,6 +1282,12 @@
           {
             "text": "Muscat 2017",
             "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 7
           }
         ]
       }
@@ -1298,7 +1316,14 @@
       "341.42"
     ],
     "annots": [
-      null
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

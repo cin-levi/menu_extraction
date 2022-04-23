@@ -1,0 +1,1352 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/16/22, 10:59 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menus | The Tyger in New York, NY",
+    "bbox": [
+      "290.44",
+      "15.70",
+      "417.16",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "M",
+    "bbox": [
+      "263.25",
+      "117.88",
+      "283.52",
+      "141.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "EN",
+    "bbox": [
+      "283.52",
+      "117.88",
+      "317.99",
+      "141.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "US",
+    "bbox": [
+      "317.99",
+      "117.88",
+      "349.76",
+      "141.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "COCKTAILS FOOD THE FEAST WINE AND SAKE CANS SPIRITS",
+    "bbox": [
+      "87.36",
+      "173.75",
+      "524.89",
+      "187.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ALLERGIES/DIETARIES",
+    "bbox": [
+      "243.58",
+      "204.88",
+      "368.66",
+      "215.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPARKLING",
+    "bbox": [
+      "54.31",
+      "254.00",
+      "171.24",
+      "274.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PLANET OREGON ROŚE",
+    "bbox": [
+      "54.31",
+      "287.00",
+      "207.08",
+      "303.42"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PLANET OREGON ROŚE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2019 Willamette Valley , Oregon",
+    "bbox": [
+      "54.31",
+      "304.85",
+      "199.94",
+      "317.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 0
+          }
+        ],
+        "W": [
+          {
+            "text": "Willamette Valley , Oregon",
+            "answer_start": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$17 / $80",
+    "bbox": [
+      "54.31",
+      "322.85",
+      "94.93",
+      "335.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17 / $80",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ONABAY BLANC DE BLANC CHARDONNAY",
+    "bbox": [
+      "54.31",
+      "348.50",
+      "331.63",
+      "362.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ONABAY BLANC DE BLANC CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2018 Long Island, New York",
+    "bbox": [
+      "54.31",
+      "366.35",
+      "182.08",
+      "378.50"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$14 / $60",
+    "bbox": [
+      "54.31",
+      "384.35",
+      "94.93",
+      "396.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14 / $60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MACARI VINEYARDS, HORSES PET-NAT ROSÉ",
+    "bbox": [
+      "54.31",
+      "410.00",
+      "345.76",
+      "423.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MACARI VINEYARDS, HORSES PET-NAT ROSÉ",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2020 Long Island, New York",
+    "bbox": [
+      "54.31",
+      "427.85",
+      "182.08",
+      "440.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$15 / $65",
+    "bbox": [
+      "54.31",
+      "445.85",
+      "94.93",
+      "458.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15 / $65",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "W",
+    "bbox": [
+      "54.31",
+      "527.75",
+      "76.45",
+      "548.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HITE",
+    "bbox": [
+      "76.45",
+      "527.75",
+      "124.38",
+      "548.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MAISON NOIR ‘O.P.P.’ PINOT GRIS",
+    "bbox": [
+      "54.31",
+      "561.50",
+      "268.37",
+      "575.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MAISON NOIR ‘O.P.P.’ PINOT GRIS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2020 Willamette Valley, Oregon",
+    "bbox": [
+      "54.31",
+      "578.60",
+      "197.59",
+      "590.75"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$13 / $55",
+    "bbox": [
+      "54.31",
+      "597.35",
+      "94.93",
+      "609.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BOUNDARY BREAKS ‘NO. 239’ RIESLING",
+    "bbox": [
+      "54.31",
+      "622.25",
+      "305.24",
+      "635.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BOUNDARY BREAKS ‘NO. 239’ RIESLING",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2019 Finger Lakes, New York",
+    "bbox": [
+      "54.31",
+      "640.10",
+      "185.25",
+      "652.25"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$14 / $60",
+    "bbox": [
+      "54.31",
+      "658.85",
+      "94.93",
+      "671.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14 / $60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LIEU DIT CHENIN BLANC",
+    "bbox": [
+      "54.31",
+      "683.75",
+      "218.45",
+      "697.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CALL (646) 476-7566",
+    "bbox": [
+      "243.70",
+      "690.50",
+      "368.56",
+      "704.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2019 Santa Ynez, California",
+    "bbox": [
+      "54.31",
+      "701.60",
+      "176.19",
+      "713.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$17 / $85",
+    "bbox": [
+      "54.31",
+      "719.60",
+      "94.93",
+      "731.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "250.19",
+      "733.25",
+      "362.05",
+      "746.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SWICK WINES \"WYD\" CHARDONNAY",
+    "bbox": [
+      "54.31",
+      "745.25",
+      "297.23",
+      "758.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.thetygernyc.com/dinnermenu/#wine-by-the-bottle",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "243.00",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/3",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/16/22, 10:59 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menus | The Tyger in New York, NY",
+    "bbox": [
+      "290.44",
+      "15.70",
+      "417.16",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2020 Willamette Valley, Oregon",
+    "bbox": [
+      "54.31",
+      "29.60",
+      "197.59",
+      "41.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$18 / $85",
+    "bbox": [
+      "54.31",
+      "47.60",
+      "94.93",
+      "59.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GRGICH HILL ESTATE SAUVIGNON BLANC",
+    "bbox": [
+      "54.31",
+      "73.25",
+      "330.08",
+      "86.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2018 Napa Valley, California",
+    "bbox": [
+      "54.31",
+      "91.10",
+      "182.26",
+      "103.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$21/ $95",
+    "bbox": [
+      "54.31",
+      "109.10",
+      "93.06",
+      "121.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "EN CAVALE SAUVIGNON BLANC",
+    "bbox": [
+      "54.31",
+      "134.75",
+      "267.42",
+      "148.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "EN CAVALE SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2020 Contra Costa, California",
+    "bbox": [
+      "54.31",
+      "152.60",
+      "188.70",
+      "164.75"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$19 / $95",
+    "bbox": [
+      "54.31",
+      "170.60",
+      "94.93",
+      "182.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$19 / $95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RED",
+    "bbox": [
+      "54.31",
+      "252.50",
+      "95.14",
+      "272.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RAVINES CABERNET FRANC",
+    "bbox": [
+      "54.31",
+      "285.50",
+      "238.01",
+      "299.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RAVINES CABERNET FRANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2019 Finger Lakes, New York",
+    "bbox": [
+      "54.31",
+      "303.35",
+      "185.25",
+      "315.50"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$14 / $60",
+    "bbox": [
+      "54.31",
+      "322.10",
+      "94.93",
+      "334.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14 / $60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HAMACHER H PINOT NOIR",
+    "bbox": [
+      "54.31",
+      "347.00",
+      "228.18",
+      "360.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "HAMACHER H PINOT NOIR",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Willamette Valley, Oregon",
+    "bbox": [
+      "54.31",
+      "364.85",
+      "174.91",
+      "377.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Willamette Valley, Oregon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$16/$73",
+    "bbox": [
+      "54.31",
+      "382.85",
+      "91.19",
+      "395.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16/$73",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CRUSE WINE CO. MONKEY JACKET 'FIELD BLEND'",
+    "bbox": [
+      "54.31",
+      "408.50",
+      "373.26",
+      "422.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CRUSE WINE CO. MONKEY JACKET 'FIELD BLEND'",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2019 North Coast, California",
+    "bbox": [
+      "54.31",
+      "426.35",
+      "185.88",
+      "438.50"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16",
+    "bbox": [
+      "54.31",
+      "444.35",
+      "64.71",
+      "456.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GRAMERCY CELLARS LOWER EAST SYRAH VINTAGE",
+    "bbox": [
+      "54.31",
+      "470.00",
+      "389.10",
+      "483.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "GRAMERCY CELLARS LOWER EAST SYRAH VINTAGE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Walla Walla Valley, Washington",
+    "bbox": [
+      "54.31",
+      "487.85",
+      "201.57",
+      "500.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Walla Walla Valley, Washington",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$17 / $75",
+    "bbox": [
+      "54.31",
+      "505.85",
+      "94.93",
+      "518.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17 / $75",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DOMAINE EDEN CABERNET SAUVIGNON",
+    "bbox": [
+      "54.31",
+      "531.50",
+      "323.76",
+      "545.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DOMAINE EDEN CABERNET SAUVIGNON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2017 Santa Cruz Mountains, California",
+    "bbox": [
+      "54.31",
+      "549.35",
+      "228.99",
+      "561.50"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$22 / $100",
+    "bbox": [
+      "54.31",
+      "567.35",
+      "100.13",
+      "579.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$22 / $100",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROSE",
+    "bbox": [
+      "54.31",
+      "615.50",
+      "106.68",
+      "635.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MAISON NOIR WINES, LOVE DRUNK ROSÉ",
+    "bbox": [
+      "54.31",
+      "648.50",
+      "330.10",
+      "662.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MAISON NOIR WINES, LOVE DRUNK ROSÉ",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2020 McMinnville, Oregon",
+    "bbox": [
+      "54.31",
+      "666.35",
+      "175.16",
+      "678.50"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$15 / $68",
+    "bbox": [
+      "54.31",
+      "685.10",
+      "94.93",
+      "697.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CALL (646) 476-7566",
+    "bbox": [
+      "243.70",
+      "690.50",
+      "368.56",
+      "704.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MONTE RIO CELLARS, WHITE ZINFANDEL DRY",
+    "bbox": [
+      "54.31",
+      "710.00",
+      "357.67",
+      "723.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2019 North Coast, California Valley",
+    "bbox": [
+      "54.31",
+      "727.85",
+      "215.52",
+      "740.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "250.19",
+      "733.25",
+      "362.05",
+      "746.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$99",
+    "bbox": [
+      "54.31",
+      "745.85",
+      "69.91",
+      "758.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.thetygernyc.com/dinnermenu/#wine-by-the-bottle",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "243.00",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/3",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/16/22, 10:59 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Menus | The Tyger in New York, NY",
+    "bbox": [
+      "290.44",
+      "15.70",
+      "417.16",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ORANGE",
+    "bbox": [
+      "54.31",
+      "59.75",
+      "142.02",
+      "80.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "OLD WORLD WINERY ‘L AUREATE’ CHARDONNAY",
+    "bbox": [
+      "54.31",
+      "92.75",
+      "380.55",
+      "106.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2020 Russian River Valley, California",
+    "bbox": [
+      "54.31",
+      "110.60",
+      "218.68",
+      "122.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$14 / $65",
+    "bbox": [
+      "54.31",
+      "128.60",
+      "94.93",
+      "140.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SAKE",
+    "bbox": [
+      "54.31",
+      "211.25",
+      "106.46",
+      "231.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BROOKLYN KURA,' #14 ' JUNMAI GINJO",
+    "bbox": [
+      "54.31",
+      "244.25",
+      "303.56",
+      "257.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BROOKLYN KURA,' #14 ' JUNMAI GINJO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Brooklyn, New York",
+    "bbox": [
+      "54.31",
+      "262.10",
+      "147.39",
+      "274.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$13 / $75",
+    "bbox": [
+      "54.31",
+      "280.10",
+      "94.93",
+      "292.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$13 / $75",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CALL (646) 476-7566",
+    "bbox": [
+      "243.70",
+      "690.50",
+      "368.56",
+      "704.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "250.19",
+      "733.25",
+      "362.05",
+      "746.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.thetygernyc.com/dinnermenu/#wine-by-the-bottle",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "243.00",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/3",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

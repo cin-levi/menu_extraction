@@ -2700,20 +2700,7 @@
       "117.26"
     ],
     "annots": [
-      {
-        "W": [
-          {
-            "text": "The Signature -",
-            "answer_start": 0
-          }
-        ],
-        "P": [
-          {
-            "text": "$14",
-            "answer_start": 16
-          }
-        ]
-      }
+      null
     ]
   },
   {
@@ -2781,6 +2768,10 @@
           {
             "text": "$12/48",
             "answer_start": 41
+          },
+          {
+            "text": "$12/48",
+            "answer_start": 86
           }
         ]
       }
@@ -2809,7 +2800,14 @@
       "130.42"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "California",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2822,7 +2820,14 @@
       "127.94"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Finger Lakes, NY",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2923,6 +2928,10 @@
           {
             "text": "Cooper Mountain, Pinot Gris",
             "answer_start": 0
+          },
+          {
+            "text": "C",
+            "answer_start": 0
           }
         ],
         "P": [
@@ -2948,7 +2957,14 @@
       "169.42"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Willamette Valley, Beaverton, OR",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2961,7 +2977,14 @@
       "172.44"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Paso Robles, CA",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2974,14 +2997,7 @@
       "185.26"
     ],
     "annots": [
-      {
-        "W": [
-          {
-            "text": "Seasonal Selection",
-            "answer_start": 0
-          }
-        ]
-      }
+      null
     ]
   },
   {
@@ -3028,7 +3044,14 @@
       "193.92"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Alto Adige, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3041,7 +3064,14 @@
       "194.44"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "North Coast, CA",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3140,7 +3170,14 @@
       "216.44"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Stags Leap District, CA",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3205,7 +3242,14 @@
       "231.92"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Monterey County, California",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3315,6 +3359,10 @@
           {
             "text": "DeGrendel",
             "answer_start": 0
+          },
+          {
+            "text": "Swartland, South Africa",
+            "answer_start": 64
           }
         ],
         "P": [
@@ -3349,7 +3397,14 @@
       "270.42"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Durbanville, South Africa",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3431,7 +3486,14 @@
       "294.92"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Marlborough, New Zeland",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3488,6 +3550,10 @@
           {
             "text": "Sancerre, Alphonse Mellot",
             "answer_start": 0
+          },
+          {
+            "text": "Columbia Valley, WA",
+            "answer_start": 52
           }
         ],
         "P": [
@@ -3522,7 +3588,14 @@
       "321.92"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Loire Valley, France",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3568,7 +3641,14 @@
       "344.78"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Chardonna",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3621,6 +3701,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Stillman Street",
+            "answer_start": 0
+          },
+          {
+            "text": "Columbia Valley, WA",
+            "answer_start": 64
+          }
+        ],
         "P": [
           {
             "text": "$14/56",
@@ -3653,7 +3743,14 @@
       "360.92"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Sonoma County, CA",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3738,7 +3835,14 @@
       "383.92"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Willamette Valley, OR",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3795,6 +3899,10 @@
           {
             "text": "Groth",
             "answer_start": 0
+          },
+          {
+            "text": "Lezignan-Corbieres, France",
+            "answer_start": 70
           }
         ],
         "P": [
@@ -3831,6 +3939,10 @@
     "annots": [
       {
         "W": [
+          {
+            "text": "Napa Valley, CA",
+            "answer_start": 0
+          },
           {
             "text": "Napa Valley, CA",
             "answer_start": 0
@@ -3888,7 +4000,14 @@
       "425.45"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "North Coast, CA",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3993,7 +4112,14 @@
       "446.44"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Mendoza, Argentina",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4058,7 +4184,14 @@
       "464.45"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Mosel, Germany",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4168,6 +4301,10 @@
           {
             "text": "Floral de Melgaco Alvarinho",
             "answer_start": 0
+          },
+          {
+            "text": "Ribera del Duero, Spain",
+            "answer_start": 51
           }
         ],
         "P": [
@@ -4335,7 +4472,14 @@
       "539.95"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Minho, Portrugal",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4461,7 +4605,14 @@
       "577.95"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Piedmont, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4474,7 +4625,14 @@
       "579.94"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Puisseguin-Saint-Emilion, Bordeaux, France",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4576,7 +4734,14 @@
       "613.45"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Umbria, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4615,7 +4780,14 @@
       "624.44"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "La Morra, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4766,7 +4938,14 @@
       "667.02"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Provence, France",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

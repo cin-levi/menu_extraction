@@ -48,7 +48,20 @@
       "105.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2018",
+            "answer_start": 30
+          }
+        ],
+        "W": [
+          {
+            "text": "J.L Chave Offerus, St Joseph,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -61,7 +74,14 @@
       "105.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "75",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -146,7 +166,24 @@
       "125.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "445",
+            "answer_start": 59
+          },
+          {
+            "text": ",2017",
+            "answer_start": 50
+          }
+        ],
+        "W": [
+          {
+            "text": "Dom Michel Gros, Clos Vougeot, Grand Cru, Burgundy,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -218,7 +255,20 @@
       "145.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2013",
+            "answer_start": 43
+          }
+        ],
+        "W": [
+          {
+            "text": "Cascina Bruciata, Barolo Cannubi Muscatel,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -231,7 +281,14 @@
       "145.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "125",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -302,7 +359,20 @@
       "165.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2015",
+            "answer_start": 35
+          }
+        ],
+        "W": [
+          {
+            "text": "La Dame De Montrose Saint Estephe",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -315,7 +385,14 @@
       "165.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "130",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -387,7 +464,20 @@
       "185.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2017",
+            "answer_start": 34
+          }
+        ],
+        "W": [
+          {
+            "text": "Bruno Rocca, Barbaresco, Peimont,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -400,7 +490,14 @@
       "185.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "135",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -485,7 +582,20 @@
       "205.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2017",
+            "answer_start": 29
+          }
+        ],
+        "W": [
+          {
+            "text": "Farella, Cabernet Sauvignon,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -498,7 +608,14 @@
       "205.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "200",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -596,7 +713,24 @@
       "225.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "245",
+            "answer_start": 68
+          },
+          {
+            "text": "2017",
+            "answer_start": 48
+          }
+        ],
+        "W": [
+          {
+            "text": "Dom. Chevillon, Nuit St George, Vieille Vignes,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -654,7 +788,20 @@
       "245.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2018",
+            "answer_start": 43
+          }
+        ],
+        "W": [
+          {
+            "text": "Dom Pierre -Jean Villa Cote Rotie Carmina,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -667,7 +814,14 @@
       "245.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "210",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -752,7 +906,20 @@
       "265.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2012",
+            "answer_start": 32
+          }
+        ],
+        "W": [
+          {
+            "text": "Chateau Brane Cantenac Margaux",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -765,7 +932,14 @@
       "265.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "220",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -837,7 +1011,20 @@
       "285.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2018",
+            "answer_start": 42
+          }
+        ],
+        "W": [
+          {
+            "text": "Arnaud Mortet Gevrey Chambertin Burgundy,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -850,7 +1037,14 @@
       "285.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "230",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -981,7 +1175,24 @@
       "305.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "135",
+            "answer_start": 57
+          },
+          {
+            "text": "2018",
+            "answer_start": 52
+          }
+        ],
+        "W": [
+          {
+            "text": "Dom Tollot-Beaut & ﬁls, Chorey Les Beaune Burgundy,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1053,7 +1264,20 @@
       "325.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2015",
+            "answer_start": 51
+          }
+        ],
+        "W": [
+          {
+            "text": "Siro Pacenti Brunello Di Montalcino Vecchie Vigne,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1066,7 +1290,14 @@
       "325.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "260",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1145,7 +1376,20 @@
       "345.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2018",
+            "answer_start": 40
+          }
+        ],
+        "W": [
+          {
+            "text": "Far Niente Oakville, Cabernet Sauvignon",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1158,7 +1402,14 @@
       "345.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "270",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1230,7 +1481,20 @@
       "365.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2015",
+            "answer_start": 31
+          }
+        ],
+        "W": [
+          {
+            "text": "The Mascot Cabernet Sauvignon,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1243,7 +1507,14 @@
       "365.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "350",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1288,7 +1559,20 @@
       "385.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2017",
+            "answer_start": 40
+          }
+        ],
+        "W": [
+          {
+            "text": "Dom de Beaurenard, C.N.D.P. Boisrenard,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1301,7 +1585,14 @@
       "385.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "385",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1360,7 +1651,20 @@
       "405.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2015",
+            "answer_start": 31
+          }
+        ],
+        "W": [
+          {
+            "text": "Chateau Figeac, Saint Emilion,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1373,7 +1677,14 @@
       "405.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "450",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1445,7 +1756,20 @@
       "425.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2016",
+            "answer_start": 46
+          }
+        ],
+        "W": [
+          {
+            "text": "Rudd Oakville Estate Cabernet Sauvignon Napa,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1458,7 +1782,14 @@
       "425.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "500",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1516,7 +1847,20 @@
       "445.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2016",
+            "answer_start": 48
+          }
+        ],
+        "W": [
+          {
+            "text": "Xavier Monnot, Volnay 1er Cru, Clos Des Chênes,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1529,7 +1873,14 @@
       "445.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "190",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1634,7 +1985,20 @@
       "465.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2012",
+            "answer_start": 46
+          }
+        ],
+        "W": [
+          {
+            "text": "Futo Wine Oakville Estate, Cabernet Sauvignon",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1647,7 +2011,14 @@
       "465.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "600",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1738,7 +2109,24 @@
       "485.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "900",
+            "answer_start": 57
+          },
+          {
+            "text": "2017",
+            "answer_start": 52
+          }
+        ],
+        "W": [
+          {
+            "text": "Peter Michael “Les Pavots” Cabernet Sauvignon Napa,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1797,7 +2185,20 @@
       "505.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2011",
+            "answer_start": 41
+          }
+        ],
+        "W": [
+          {
+            "text": "Dominus, Napa Valley Cabernet Sauvignon,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1810,7 +2211,14 @@
       "505.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "550",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1882,7 +2290,20 @@
       "525.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2015",
+            "answer_start": 49
+          }
+        ],
+        "W": [
+          {
+            "text": "Casteglion Del Bosco, Brunello Di Montalcino iT,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1895,7 +2316,14 @@
       "525.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "140",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1974,7 +2402,24 @@
       "545.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "75",
+            "answer_start": 65
+          },
+          {
+            "text": "2015",
+            "answer_start": 57
+          }
+        ],
+        "W": [
+          {
+            "text": "Familia Torres, Altos Ibericos Reserva,Tempranillo,Spain",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2059,7 +2504,20 @@
       "565.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2018",
+            "answer_start": 40
+          }
+        ],
+        "W": [
+          {
+            "text": "Pride, Mountain Vineyards, Napa, Sonoma",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2072,7 +2530,14 @@
       "565.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "195",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2150,7 +2615,24 @@
       "585.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "220",
+            "answer_start": 60
+          },
+          {
+            "text": "2017",
+            "answer_start": 51
+          }
+        ],
+        "W": [
+          {
+            "text": "Marchand.Tawse, Morey St Denis, Clos des Ormes,FR",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2235,7 +2717,24 @@
       "605.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "1500",
+            "answer_start": 59
+          },
+          {
+            "text": "2015",
+            "answer_start": 50
+          }
+        ],
+        "W": [
+          {
+            "text": "Bryant Family Vineyards, Cabernet Sauvignon, Nap",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2320,7 +2819,24 @@
       "625.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "930",
+            "answer_start": 58
+          },
+          {
+            "text": "2016",
+            "answer_start": 49
+          }
+        ],
+        "W": [
+          {
+            "text": "Domaine Laurent, Gevrey Chambertin, Bonnes Mare",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2391,7 +2907,24 @@
       "645.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "1030",
+            "answer_start": 62
+          },
+          {
+            "text": "2018",
+            "answer_start": 49
+          }
+        ],
+        "W": [
+          {
+            "text": "Ghost Block, Estate, Cabernet Sauvignon Oakvill",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2456,7 +2989,20 @@
       "665.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2017",
+            "answer_start": 36
+          }
+        ],
+        "W": [
+          {
+            "text": "Miner, Cabernet Sauvignon, Oakville",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2469,7 +3015,14 @@
       "665.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "210",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2508,7 +3061,20 @@
       "685.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": ",2018",
+            "answer_start": 44
+          }
+        ],
+        "W": [
+          {
+            "text": "Dom Gachot-Monot, Nuit St Georges, Aux Crots,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2521,7 +3087,14 @@
       "685.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "230",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2560,7 +3133,20 @@
       "705.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2018",
+            "answer_start": 48
+          }
+        ],
+        "W": [
+          {
+            "text": "Turnbull Reserve, Cabernet Sauvignon, Oakville,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2573,7 +3159,14 @@
       "705.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "230",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2658,7 +3251,20 @@
       "725.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "2017",
+            "answer_start": 52
+          }
+        ],
+        "W": [
+          {
+            "text": "L’ecole 41, Cabernet sauvignon, Wallla Walla Valley",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2671,7 +3277,14 @@
       "725.62"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "110",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3110,7 +3723,14 @@
       "391.48"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3149,7 +3769,14 @@
       "409.48"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "21",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3201,7 +3828,14 @@
       "478.48"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3225,6 +3859,12 @@
           {
             "text": "2017",
             "answer_start": 50
+          }
+        ],
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 55
           }
         ]
       }
@@ -3266,7 +3906,14 @@
       "514.48"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3305,7 +3952,14 @@
       "532.48"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "20",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3329,6 +3983,12 @@
           {
             "text": "2019",
             "answer_start": 39
+          }
+        ],
+        "P": [
+          {
+            "text": "22",
+            "answer_start": 73
           }
         ]
       }
@@ -3370,7 +4030,14 @@
       "568.48"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "23",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3416,7 +4083,14 @@
       "648.57"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3449,7 +4123,14 @@
       "666.57"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3482,7 +4163,14 @@
       "684.57"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3515,7 +4203,14 @@
       "702.57"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3548,7 +4243,14 @@
       "720.57"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   }
 ]

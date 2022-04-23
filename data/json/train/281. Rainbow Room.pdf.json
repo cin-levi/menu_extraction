@@ -1859,6 +1859,12 @@
     ],
     "annots": [
       {
+        "P": [
+          {
+            "text": "65 / 325",
+            "answer_start": 85
+          }
+        ],
         "W": [
           {
             "text": "Champagne, 2005....................................",
@@ -1885,6 +1891,12 @@
     ],
     "annots": [
       {
+        "P": [
+          {
+            "text": "85 / 425",
+            "answer_start": 81
+          }
+        ],
         "W": [
           {
             "text": "Piper-Heidsieck, Rare,",

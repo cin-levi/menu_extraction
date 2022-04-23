@@ -13,6 +13,7 @@ import json
 from tqdm import tqdm
 from uuid import uuid4
 from unidecode import unidecode
+from utils.qa_utils import is_whitespace
 
 "Convert sroie dataset to Levi's format"
 
@@ -86,7 +87,7 @@ def normalize_boxes(boxes):
                         if label.strip() not in ['w', 'v', 'p']:
                             if label in ['d', 'e', 'q', '6']:
                                 label = 'w'
-                            elif label == 'pp':
+                            elif label in ['pp', 'pw']:
                                 label = 'p'
                             else:
                                 print('Label: ', label)
@@ -111,7 +112,7 @@ def normalize_boxes(boxes):
         word_starts = []
         word_ends = []
         for i, char in enumerate(text):
-            if char == ' ':
+            if is_whitespace(char):
                 if len(_word) > 0:
                     word_starts.append(_start)
                     word_ends.append(i)
@@ -197,12 +198,12 @@ def read_data(files):
     # with open(prj_path + '/data/question_list.json', 'w', encoding='utf-8') as f:
     #     json.dump(sorted(list(set(all_keys))), f, ensure_ascii=False)
 
-    with open(prj_path + '/data/test.json', 'w', encoding='utf-8') as f:
+    with open(prj_path + '/data/train.json', 'w', encoding='utf-8') as f:
         json.dump(full_data, f, ensure_ascii=False)
 
 
 if __name__ == '__main__':
-    files = glob(prj_path + '/data/json/test/*.json')
-    # files = ['D:\\menu_extraction\\data\\json\\test\\32. Terroir.pdf.json']
+    files = glob(prj_path + '/data/json/train/*.json')
+    # files = ['D:\\menu_extraction\\data\\json\\train\\397. Lafayette Grand Cafe and Bakery.pdf.json']
     read_data(files)
     pass

@@ -471,7 +471,14 @@
       "186.47"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Penedès, Spain",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -544,7 +551,14 @@
       "309.47"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Veneto, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -675,7 +689,14 @@
       "540.47"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Alsace, France",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -754,7 +775,14 @@
       "663.47"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Sonoma Coast, California",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -994,6 +1022,10 @@
           {
             "text": "PINOT NOIR",
             "answer_start": 0
+          },
+          {
+            "text": "GOTHIC TELLTALE ROSÉ",
+            "answer_start": 18
           }
         ],
         "V": [
@@ -1015,7 +1047,14 @@
       "316.97"
     ],
     "annots": [
-      null
+      {
+        "w": [
+          {
+            "text": "Willamette Valley, Oregon",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1112,6 +1151,10 @@
           {
             "text": "CABERNET",
             "answer_start": 0
+          },
+          {
+            "text": "SMITH & HOOK",
+            "answer_start": 16
           }
         ]
       }
@@ -1127,7 +1170,14 @@
       "547.97"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Central Coast, CA",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1185,6 +1235,10 @@
           {
             "text": "PINOT NOIR",
             "answer_start": 0
+          },
+          {
+            "text": "GOTHIC NEVERMORE",
+            "answer_start": 18
           }
         ],
         "V": [
@@ -1206,7 +1260,14 @@
       "670.97"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Willamette Valley, Oregon",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1636,7 +1697,14 @@
       "308.48"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "LASSAIGNE COLLINE INSPIRÉE BLANC DE",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1649,7 +1717,14 @@
       "326.48"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "BLANCS EXTRA BRUT CHAMPAGNE",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1662,7 +1737,14 @@
       "349.97"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Montgeux, France",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1787,7 +1869,14 @@
       "546.47"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Côtes des Blancs",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

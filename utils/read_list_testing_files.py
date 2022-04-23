@@ -16,7 +16,15 @@ def get_testing_list():
 
 def split_training_testing_files(testing_list, pdf_folder, training_folder, testing_folder):
     files = glob(pdf_folder + '/*.pdf')
-    testing_files = [file for file in files if os.path.basename(file) in testing_list]
+    testing_files = []
+    for file in files:
+        if os.path.basename(file) in testing_list or os.path.basename(file).replace('-.pdf', '.pdf') in testing_list:
+            testing_files.append(file)
+    print(len(testing_files))
+    missing = [x for x in testing_list if x not in [os.path.basename(f).replace('-.pdf', '.pdf') for f in testing_files]
+               and x not in [os.path.basename(f) for f in testing_files]]
+    for x in missing:
+        print(x)
     assert len(testing_files) == len(testing_list)
     training_files = [f for f in files if f not in testing_files]
     for f in tqdm(testing_files):

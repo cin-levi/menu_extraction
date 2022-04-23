@@ -1171,6 +1171,12 @@
             "text": "14",
             "answer_start": 53
           }
+        ],
+        "W": [
+          {
+            "text": "(minho, portugal)",
+            "answer_start": 35
+          }
         ]
       }
     ]
@@ -1196,6 +1202,14 @@
           {
             "text": "domaine d",
             "answer_start": 0
+          },
+          {
+            "text": "l’ec uus, cgaradneitte   24",
+            "answer_start": 12
+          },
+          {
+            "text": "(loire, france)",
+            "answer_start": 46
           }
         ],
         "P": [
@@ -1222,6 +1236,14 @@
           {
             "text": "karines  a lanuc",
             "answer_start": 0
+          },
+          {
+            "text": "errjarte 2 r0o18u",
+            "answer_start": 18
+          },
+          {
+            "text": "o  i4re4, f rance)",
+            "answer_start": 41
           }
         ],
         "V": [
@@ -1254,6 +1276,14 @@
           {
             "text": "höple rp 2a0n2n",
             "answer_start": 0
+          },
+          {
+            "text": "(nbiuc",
+            "answer_start": 18
+          },
+          {
+            "text": "rnloasnéd ,4 a2ustria )",
+            "answer_start": 29
           }
         ],
         "V": [
@@ -1286,6 +1316,10 @@
           {
             "text": "sauvignon blanc  barker’s arona",
             "answer_start": 0
+          },
+          {
+            "text": "(marlborough, new zealand)",
+            "answer_start": 37
           }
         ],
         "V": [
@@ -1370,6 +1404,10 @@
           {
             "text": "provence rosé",
             "answer_start": 0
+          },
+          {
+            "text": "proven",
+            "answer_start": 0
           }
         ],
         "P": [
@@ -1396,6 +1434,10 @@
           {
             "text": "sancerre  domaine michel thomas et fils",
             "answer_start": 0
+          },
+          {
+            "text": "(loire, france)",
+            "answer_start": 46
           }
         ],
         "V": [
@@ -1429,6 +1471,16 @@
             "text": "2019",
             "answer_start": 15
           }
+        ],
+        "W": [
+          {
+            "text": "alain graillot",
+            "answer_start": 0
+          },
+          {
+            "text": "(rhône, france)",
+            "answer_start": 20
+          }
         ]
       }
     ]
@@ -1444,6 +1496,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "domaine devaux, hautes-côtes de beaune",
+            "answer_start": 0
+          },
+          {
+            "text": "(burgundy, france)",
+            "answer_start": 44
+          }
+        ],
         "V": [
           {
             "text": "2019",
@@ -1469,6 +1531,16 @@
             "text": "2020",
             "answer_start": 23
           }
+        ],
+        "W": [
+          {
+            "text": "(provence, france)",
+            "answer_start": 28
+          },
+          {
+            "text": "château de la deidière",
+            "answer_start": 0
+          }
         ]
       }
     ]
@@ -1488,6 +1560,10 @@
           {
             "text": "petit chablis domaine alain geoffroy",
             "answer_start": 0
+          },
+          {
+            "text": "(burgund  y, franc e  )",
+            "answer_start": 42
           }
         ],
         "V": [
@@ -1598,6 +1674,10 @@
           {
             "text": "domaine marcel langoux 20",
             "answer_start": 0
+          },
+          {
+            "text": "(loire, france)",
+            "answer_start": 28
           }
         ],
         "V": [
@@ -1620,6 +1700,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "chateau haut-brisson",
+            "answer_start": 0
+          },
+          {
+            "text": "(saint émillion, france)",
+            "answer_start": 26
+          }
+        ],
         "V": [
           {
             "text": "2016",
@@ -1644,6 +1734,16 @@
           {
             "text": "2020",
             "answer_start": 18
+          }
+        ],
+        "W": [
+          {
+            "text": "domaine sautereau",
+            "answer_start": 0
+          },
+          {
+            "text": "(loire, france)",
+            "answer_start": 23
           }
         ]
       }
@@ -1703,6 +1803,10 @@
           {
             "text": "barbera d’asti vietti",
             "answer_start": 0
+          },
+          {
+            "text": "(piedmont, italy)",
+            "answer_start": 28
           }
         ],
         "V": [
@@ -1762,6 +1866,16 @@
             "text": "2020",
             "answer_start": 29
           }
+        ],
+        "W": [
+          {
+            "text": "marine dubard, coeur du mont",
+            "answer_start": 0
+          },
+          {
+            "text": "(loire, france)",
+            "answer_start": 34
+          }
         ]
       }
     ]
@@ -1777,6 +1891,24 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "ccaasstteelllloo  ddii  vveerr",
+            "answer_start": 0
+          },
+          {
+            "text": "oonnee  22001199  ((ppiieeddmm",
+            "answer_start": 52
+          },
+          {
+            "text": "nnoo,,  bbaassaadd",
+            "answer_start": 34
+          },
+          {
+            "text": "tt,,  iittaallyy))",
+            "answer_start": 86
+          }
+        ],
         "V": [
           {
             "text": "dduu",
@@ -1805,6 +1937,10 @@
           {
             "text": "pinot noir   planet oregon",
             "answer_start": 0
+          },
+          {
+            "text": "(willamette valley, oregon)",
+            "answer_start": 32
           }
         ],
         "V": [
@@ -1857,6 +1993,10 @@
           {
             "text": "cabernet sauvignon  nelms road",
             "answer_start": 0
+          },
+          {
+            "text": "(walla walla, washington)",
+            "answer_start": 36
           }
         ],
         "V": [
@@ -1916,6 +2056,16 @@
             "text": "2019",
             "answer_start": 18
           }
+        ],
+        "W": [
+          {
+            "text": "domaine du chalet",
+            "answer_start": 0
+          },
+          {
+            "text": "(burgundy, france)",
+            "answer_start": 23
+          }
         ]
       }
     ]
@@ -1931,6 +2081,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "oddero",
+            "answer_start": 0
+          },
+          {
+            "text": "(piedmont, italy)",
+            "answer_start": 12
+          }
+        ],
         "V": [
           {
             "text": "2018",
@@ -2073,6 +2233,16 @@
             "text": "2019",
             "answer_start": 21
           }
+        ],
+        "W": [
+          {
+            "text": "abazzia di novacella",
+            "answer_start": 0
+          },
+          {
+            "text": "(alto adige,italy)",
+            "answer_start": 26
+          }
         ]
       }
     ]
@@ -2088,6 +2258,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "valle del’acate",
+            "answer_start": 0
+          },
+          {
+            "text": "(sicily, italy)",
+            "answer_start": 21
+          }
+        ],
         "V": [
           {
             "text": "2019",
@@ -2247,6 +2427,16 @@
             "text": "2019",
             "answer_start": 24
           }
+        ],
+        "W": [
+          {
+            "text": "terenzuola, vinge basse",
+            "answer_start": 0
+          },
+          {
+            "text": "(liguria, italy)",
+            "answer_start": 29
+          }
         ]
       }
     ]
@@ -2262,6 +2452,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "castell’in villa",
+            "answer_start": 0
+          },
+          {
+            "text": "(tuscany, italy)",
+            "answer_start": 22
+          }
+        ],
         "V": [
           {
             "text": "2017",
@@ -2377,6 +2577,16 @@
           {
             "text": "cabernet franc kiwi cuvée",
             "answer_start": 0
+          },
+          {
+            "text": "(loire, france)",
+            "answer_start": 32
+          }
+        ],
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 51
           }
         ]
       }
@@ -2398,6 +2608,12 @@
             "text": "2019",
             "answer_start": 18
           }
+        ],
+        "W": [
+          {
+            "text": "(canary islands, spain)",
+            "answer_start": 23
+          }
         ]
       }
     ]
@@ -2413,6 +2629,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "tenuta mara, guiry,",
+            "answer_start": 0
+          },
+          {
+            "text": "(emilia-romagna, italy)",
+            "answer_start": 25
+          }
+        ],
         "V": [
           {
             "text": "2019",
@@ -2463,6 +2689,22 @@
           {
             "text": "provence blend  château peyrassol",
             "answer_start": 0
+          },
+          {
+            "text": "(provence, france)",
+            "answer_start": 40
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 35
+          }
+        ],
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 62
           }
         ]
       }
@@ -2531,6 +2773,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "bodegas la caña navia",
+            "answer_start": 0
+          },
+          {
+            "text": "(galicia, spain)",
+            "answer_start": 27
+          }
+        ],
         "V": [
           {
             "text": "2018",
@@ -2551,6 +2803,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "traslapiedra, paraje altamira",
+            "answer_start": 0
+          },
+          {
+            "text": "(mendoza, argentina)",
+            "answer_start": 35
+          }
+        ],
         "V": [
           {
             "text": "2018",
@@ -2628,6 +2890,16 @@
             "text": "2018",
             "answer_start": 12
           }
+        ],
+        "W": [
+          {
+            "text": "ghostwriter 20",
+            "answer_start": 0
+          },
+          {
+            "text": "(santa cruz, california)",
+            "answer_start": 17
+          }
         ]
       }
     ]
@@ -2643,6 +2915,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "sierra de toloño",
+            "answer_start": 0
+          },
+          {
+            "text": "(rioja, spain)",
+            "answer_start": 22
+          }
+        ],
         "V": [
           {
             "text": "2019",
@@ -2759,6 +3041,16 @@
             "text": "2019",
             "answer_start": 16
           }
+        ],
+        "W": [
+          {
+            "text": "husch vineyards",
+            "answer_start": 0
+          },
+          {
+            "text": "(mendocino, california)",
+            "answer_start": 21
+          }
         ]
       }
     ]
@@ -2774,6 +3066,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "hardin",
+            "answer_start": 0
+          },
+          {
+            "text": "(napa valley, california)",
+            "answer_start": 12
+          }
+        ],
         "V": [
           {
             "text": "2019",
@@ -2916,6 +3218,16 @@
             "text": "2018",
             "answer_start": 21
           }
+        ],
+        "W": [
+          {
+            "text": "tatomer, meeresboden",
+            "answer_start": 0
+          },
+          {
+            "text": "(santa barbara, california)",
+            "answer_start": 26
+          }
         ]
       }
     ]
@@ -2931,6 +3243,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "pennrose",
+            "answer_start": 0
+          },
+          {
+            "text": "(amador county, california)",
+            "answer_start": 14
+          }
+        ],
         "V": [
           {
             "text": "2018",

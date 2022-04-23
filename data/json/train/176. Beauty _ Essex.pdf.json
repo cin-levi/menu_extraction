@@ -1730,7 +1730,14 @@
       "360.98"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "68",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1982,8 +1989,8 @@
         ],
         "V": [
           {
-            "text": "017",
-            "answer_start": 36
+            "text": "2017",
+            "answer_start": 35
           }
         ]
       }

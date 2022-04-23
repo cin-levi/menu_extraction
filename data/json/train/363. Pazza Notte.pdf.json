@@ -366,7 +366,14 @@
       "326.50"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "12-5pm ‘Happy Hour’ 2 Glasses of Wine",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

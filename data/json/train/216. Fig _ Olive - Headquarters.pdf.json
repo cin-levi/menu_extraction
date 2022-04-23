@@ -154,6 +154,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Languedoc-Roussillon, FR",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "R 2018.",
@@ -213,6 +219,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Côtes de Provence, France",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2019.",
@@ -317,6 +329,12 @@
             "text": "NV.",
             "answer_start": 11
           }
+        ],
+        "W": [
+          {
+            "text": "Friuli, IT",
+            "answer_start": 0
+          }
         ]
       }
     ]
@@ -349,6 +367,10 @@
           {
             "text": "Champagne – Moët & Chandon, Rosé Impérial",
             "answer_start": 0
+          },
+          {
+            "text": "Champagne",
+            "answer_start": 0
           }
         ],
         "V": [
@@ -377,6 +399,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Épernay, FR",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "NV.",
@@ -413,6 +441,10 @@
         "W": [
           {
             "text": "Dom Pérignon, Champagne – Rosé,",
+            "answer_start": 0
+          },
+          {
+            "text": "Dom Périgno",
             "answer_start": 0
           }
         ],
@@ -456,6 +488,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Épernay, FR",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2004",
@@ -711,6 +749,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Alexander Valley,",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2015",
@@ -784,6 +828,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Napa Valley, California,",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2016",
@@ -870,6 +920,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Treviso, Italy",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "NV.",
@@ -943,6 +999,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Friuli, IT",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "NV.",
@@ -1016,6 +1078,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Reims, FR",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "NV.",
@@ -1052,6 +1120,10 @@
         "W": [
           {
             "text": "Champagne – Moët & Chandon, Rosé Impérial,",
+            "answer_start": 0
+          },
+          {
+            "text": "Champagne",
             "answer_start": 0
           }
         ],
@@ -1095,6 +1167,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Épernay, FR",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "NV.",
@@ -1194,6 +1272,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Languedoc-Roussillon, FR",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2018.",
@@ -1267,6 +1351,12 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "Côtes de Provence, France",
+            "answer_start": 0
+          }
+        ],
         "V": [
           {
             "text": "2019.",

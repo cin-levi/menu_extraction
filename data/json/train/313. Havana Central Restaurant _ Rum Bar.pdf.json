@@ -408,7 +408,14 @@
       "203.75"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Santa Rita",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -461,7 +468,14 @@
       "275.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Anne de Joy",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -514,7 +528,14 @@
       "346.25"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Senorio",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -620,7 +641,14 @@
       "488.75"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Dibon",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -673,7 +701,14 @@
       "560.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Saurus",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -726,7 +761,14 @@
       "631.25"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Alpataco",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -779,7 +821,14 @@
       "702.50"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Alpataco",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -897,7 +946,14 @@
       "97.25"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "GRENACHE/TEMPRANILLO",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -930,7 +986,14 @@
       "111.50"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Tinto Pinuaga",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

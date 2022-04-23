@@ -375,7 +375,14 @@
       "176.25"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "60",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -808,7 +815,14 @@
       "299.25"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Crocizia  'Mossca' Emilia-Romagna",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

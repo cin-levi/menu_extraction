@@ -814,8 +814,8 @@
         ],
         "p": [
           {
-            "text": "$1",
-            "answer_start": 34
+            "text": "$12",
+            "answer_start": 35
           }
         ]
       }
@@ -1086,8 +1086,8 @@
         ],
         "p": [
           {
-            "text": "$13",
-            "answer_start": 37
+            "text": "$135",
+            "answer_start": 38
           }
         ]
       }
@@ -1524,8 +1524,8 @@
         ],
         "p": [
           {
-            "text": "$4",
-            "answer_start": 45
+            "text": "$46",
+            "answer_start": 46
           }
         ]
       }
@@ -1849,8 +1849,8 @@
         ],
         "p": [
           {
-            "text": "$4",
-            "answer_start": 4
+            "text": "$41",
+            "answer_start": 6
           }
         ]
       }

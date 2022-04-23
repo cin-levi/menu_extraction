@@ -1341,6 +1341,12 @@
             "text": "2009 -",
             "answer_start": 23
           }
+        ],
+        "P": [
+          {
+            "text": "Cote-Rotie Saint Cosme 2009 - Bottle",
+            "answer_start": 0
+          }
         ]
       }
     ]
@@ -1694,6 +1700,12 @@
             "text": "Bottle $300.00",
             "answer_start": 11
           }
+        ],
+        "W": [
+          {
+            "text": "(France)",
+            "answer_start": 0
+          }
         ]
       }
     ]
@@ -1725,6 +1737,10 @@
         "W": [
           {
             "text": "Imperial Cuve Gran Reserva",
+            "answer_start": 0
+          },
+          {
+            "text": "Imperial Cuve Gran Reserva 2004 (Spain)",
             "answer_start": 0
           }
         ],
@@ -1766,6 +1782,12 @@
             "text": "Bottle $340.00",
             "answer_start": 17
           }
+        ],
+        "W": [
+          {
+            "text": "(W.A. 92 Pts.) - Bottle $340.00",
+            "answer_start": 0
+          }
         ]
       }
     ]
@@ -1798,6 +1820,10 @@
           {
             "text": "La Fleur Morange",
             "answer_start": 0
+          },
+          {
+            "text": "(France)",
+            "answer_start": 22
           }
         ],
         "V": [
@@ -1876,6 +1902,10 @@
           {
             "text": "Bruno Giacosa Barolo",
             "answer_start": 0
+          },
+          {
+            "text": "Bruno Giacosa Barolo 1999 (Italy) (W.A. 96",
+            "answer_start": 0
           }
         ],
         "V": [
@@ -1915,6 +1945,12 @@
           {
             "text": "Bottle $600.00",
             "answer_start": 8
+          }
+        ],
+        "W": [
+          {
+            "text": "Pts.) - Bottle $600.00",
+            "answer_start": 0
           }
         ]
       }
@@ -1981,6 +2017,10 @@
           {
             "text": "Romano 2008 (Italy) - Bottle $800.00",
             "answer_start": 0
+          },
+          {
+            "text": "(Italy) -",
+            "answer_start": 12
           }
         ],
         "V": [
@@ -2039,6 +2079,14 @@
           {
             "text": "Vega-Sicilia Unico",
             "answer_start": 0
+          },
+          {
+            "text": "(Spain)",
+            "answer_start": 30
+          },
+          {
+            "text": "Blend",
+            "answer_start": 24
           }
         ],
         "V": [
@@ -2117,6 +2165,10 @@
           {
             "text": "Vega-Sicilia Unico",
             "answer_start": 0
+          },
+          {
+            "text": "Vega-Sicilia Unico 2004 Blend (Spain)(W.A.",
+            "answer_start": 0
           }
         ],
         "V": [
@@ -2143,6 +2195,12 @@
           {
             "text": "Bottle $900",
             "answer_start": 11
+          }
+        ],
+        "W": [
+          {
+            "text": "97 Pts.) - Bottle $900",
+            "answer_start": 0
           }
         ]
       }

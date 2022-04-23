@@ -316,6 +316,7 @@ class Trainer(object):
             print(f"training epoch {i} ...")
             now = datetime.datetime.now()
             train_loss = self.train_epoch(train_dataloader, training_mode)
+            # train_loss = None
             epoch_time = datetime.datetime.now() - now
             if training_time == 0:
                 training_time = epoch_time

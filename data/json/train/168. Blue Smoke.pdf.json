@@ -1285,7 +1285,7 @@
     ],
     "annots": [
       {
-        "W": [
+        "P": [
           {
             "text": "GLASS 14",
             "answer_start": 0
@@ -1347,14 +1347,8 @@
       {
         "W": [
           {
-            "text": "CHANDON, NAPA VALLEY,",
+            "text": "CHANDON, NAPA VALLEY, CA",
             "answer_start": 0
-          }
-        ],
-        "V": [
-          {
-            "text": "CA",
-            "answer_start": 22
           }
         ]
       }

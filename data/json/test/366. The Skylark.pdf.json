@@ -204,7 +204,14 @@
       "477.47"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc | France",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -243,7 +250,14 @@
       "535.22"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Fiano | Australia",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -282,7 +296,14 @@
       "592.97"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Albarino  |  Rias Baixas, Spain",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -516,7 +537,14 @@
       "140.72"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "viognier | france",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -568,7 +596,14 @@
       "234.47"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Gamay | Beaujolais, France",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -607,7 +642,14 @@
       "292.22"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Malbec/Mendoza Argentina",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -646,7 +688,14 @@
       "349.22"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon Blend | California",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -685,7 +734,14 @@
       "406.97"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Grenache | Borja, Spain",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -724,7 +780,14 @@
       "464.72"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Syrah | Northern Rhone, France",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -763,7 +826,14 @@
       "522.47"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Pinot Noir/Oregon",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -802,7 +872,14 @@
       "579.47"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Pinot Noir/Sonoma County, CA",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1036,7 +1113,14 @@
       "112.22"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Rosé (Glass/Bottle)",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1069,7 +1153,14 @@
       "157.22"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Bordeaux | France",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

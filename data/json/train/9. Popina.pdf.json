@@ -207,14 +207,14 @@
       {
         "W": [
           {
-            "text": "glera bisol prosecco (it",
+            "text": "glera bisol prosecco (it)",
             "answer_start": 0
           }
         ],
         "P": [
           {
-            "text": ") 1",
-            "answer_start": 24
+            "text": "14",
+            "answer_start": 26
           }
         ]
       }
@@ -774,14 +774,14 @@
         ],
         "V": [
           {
-            "text": "n",
-            "answer_start": 38
+            "text": "nv",
+            "answer_start": 39
           }
         ],
         "P": [
           {
-            "text": "v 7",
-            "answer_start": 40
+            "text": "75",
+            "answer_start": 42
           }
         ]
       }
@@ -1097,20 +1097,20 @@
       {
         "W": [
           {
-            "text": "chardonnay picq chabli",
+            "text": "chardonnay picq chablis",
             "answer_start": 0
           }
         ],
         "V": [
           {
-            "text": "s 202",
-            "answer_start": 22
+            "text": "2020",
+            "answer_start": 24
           }
         ],
         "P": [
           {
-            "text": "0 6",
-            "answer_start": 27
+            "text": "60",
+            "answer_start": 29
           }
         ]
       }
@@ -1439,19 +1439,19 @@
       {
         "P": [
           {
-            "text": "0 7",
-            "answer_start": 44
+            "text": "75",
+            "answer_start": 46
           }
         ],
         "V": [
           {
-            "text": "a 202",
-            "answer_start": 39
+            "text": "2020",
+            "answer_start": 41
           }
         ],
         "W": [
           {
-            "text": "listan blanco suertes de marques vidoni",
+            "text": "listan blanco suertes de marques vidonia",
             "answer_start": 0
           }
         ]
@@ -1772,20 +1772,20 @@
       {
         "W": [
           {
-            "text": "montepulciano colle florido lalena rosat",
+            "text": "montepulciano colle florido lalena rosato",
             "answer_start": 0
           }
         ],
         "V": [
           {
-            "text": "o 202",
-            "answer_start": 40
+            "text": "2020",
+            "answer_start": 42
           }
         ],
         "P": [
           {
-            "text": "0 6",
-            "answer_start": 45
+            "text": "65",
+            "answer_start": 47
           }
         ]
       }
@@ -1817,20 +1817,20 @@
       {
         "W": [
           {
-            "text": "cabernet franc terrasse",
+            "text": "cabernet franc terrassen",
             "answer_start": 0
           }
         ],
         "V": [
           {
-            "text": "n 201",
-            "answer_start": 23
+            "text": "2018",
+            "answer_start": 25
           }
         ],
         "P": [
           {
-            "text": "8 5",
-            "answer_start": 28
+            "text": "55",
+            "answer_start": 30
           }
         ]
       }

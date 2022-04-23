@@ -4065,7 +4065,14 @@
       "88.95"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "Gl      Btl",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4109,6 +4116,10 @@
           {
             "text": "La Luca       Prosecco         Brut",
             "answer_start": 0
+          },
+          {
+            "text": "Veneto, Italy",
+            "answer_start": 51
           }
         ],
         "V": [
@@ -4194,6 +4205,10 @@
           {
             "text": "Paul Laurent      Cuvée du Fondateur     Brut",
             "answer_start": 0
+          },
+          {
+            "text": "Bethon, France",
+            "answer_start": 57
           }
         ],
         "V": [
@@ -4318,6 +4333,10 @@
           {
             "text": "Assyrtiko           Feredini",
             "answer_start": 0
+          },
+          {
+            "text": "Santorini, Greece",
+            "answer_start": 44
           }
         ],
         "V": [
@@ -4428,6 +4447,10 @@
           {
             "text": "Moschofilero      Boutari",
             "answer_start": 0
+          },
+          {
+            "text": "Mantinia, Greece",
+            "answer_start": 41
           }
         ],
         "V": [
@@ -4513,6 +4536,10 @@
           {
             "text": "Pinot Grigio     Zenato",
             "answer_start": 0
+          },
+          {
+            "text": "Veneto, Italy",
+            "answer_start": 38
           }
         ],
         "V": [
@@ -4598,6 +4625,10 @@
           {
             "text": "Sauvignon Blanc      Giesen Estate",
             "answer_start": 0
+          },
+          {
+            "text": "Marlborough, New Zealand",
+            "answer_start": 50
           }
         ],
         "V": [
@@ -4676,6 +4707,10 @@
           {
             "text": "Falanghina      Vinosia",
             "answer_start": 0
+          },
+          {
+            "text": "Campania, Italy",
+            "answer_start": 38
           }
         ],
         "V": [
@@ -4761,6 +4796,10 @@
           {
             "text": "Sancerre      Patrice Moreaux",
             "answer_start": 0
+          },
+          {
+            "text": "Loire, France",
+            "answer_start": 45
           }
         ],
         "V": [
@@ -4846,6 +4885,10 @@
           {
             "text": "Chardonnay   Stags Leap",
             "answer_start": 0
+          },
+          {
+            "text": "Napa Valley, CA",
+            "answer_start": 40
           }
         ],
         "V": [
@@ -4956,6 +4999,10 @@
           {
             "text": "Grenache            Notorious Pink",
             "answer_start": 0
+          },
+          {
+            "text": "Vignerons, France",
+            "answer_start": 57
           }
         ],
         "V": [
@@ -5080,6 +5127,12 @@
             "text": "2016",
             "answer_start": 31
           }
+        ],
+        "W": [
+          {
+            "text": "Nemea, Greece",
+            "answer_start": 41
+          }
         ]
       }
     ]
@@ -5158,6 +5211,10 @@
           {
             "text": "Pinot Noir        Cline",
             "answer_start": 0
+          },
+          {
+            "text": "Sonoma, California",
+            "answer_start": 43
           }
         ],
         "V": [
@@ -5282,6 +5339,10 @@
           {
             "text": "Garnacha      El Rincón",
             "answer_start": 0
+          },
+          {
+            "text": "Madrid, Spain",
+            "answer_start": 39
           }
         ],
         "V": [
@@ -5340,6 +5401,10 @@
           {
             "text": "Saint Emilion     Chateau  Tour du Pas Saint Georges",
             "answer_start": 0
+          },
+          {
+            "text": "Bordeaux, France",
+            "answer_start": 66
           }
         ],
         "V": [
@@ -5425,6 +5490,10 @@
           {
             "text": "Cabernet     Uppercut",
             "answer_start": 0
+          },
+          {
+            "text": "Napa   Valley , CA",
+            "answer_start": 34
           }
         ],
         "V": [
@@ -5496,6 +5565,10 @@
           {
             "text": "Malbec      Las Hormigas",
             "answer_start": 0
+          },
+          {
+            "text": "Mendoza, Argentina",
+            "answer_start": 40
           }
         ],
         "V": [
@@ -5730,6 +5803,10 @@
           {
             "text": "Albariño    La Cana",
             "answer_start": 0
+          },
+          {
+            "text": "Rias Baixas, Spain",
+            "answer_start": 31
           }
         ],
         "V": [
@@ -5835,6 +5912,10 @@
           {
             "text": "Chardonnay    Talley",
             "answer_start": 0
+          },
+          {
+            "text": "Arroyo Grande Valley, California",
+            "answer_start": 32
           }
         ],
         "V": [
@@ -5920,6 +6001,10 @@
           {
             "text": "61         Pouilly – Fume   Domaine Cailbourdin",
             "answer_start": 0
+          },
+          {
+            "text": "Loire, France",
+            "answer_start": 62
           }
         ],
         "V": [
@@ -5978,6 +6063,10 @@
           {
             "text": "60         Sauvignon Blanc     Frog’s Leap",
             "answer_start": 0
+          },
+          {
+            "text": "Napa, California",
+            "answer_start": 54
           }
         ],
         "V": [
@@ -6108,6 +6197,10 @@
           {
             "text": "Pinot Noir     Estate Bethel Heights",
             "answer_start": 0
+          },
+          {
+            "text": "Eola-Amity Hills, Oregon",
+            "answer_start": 48
           }
         ],
         "V": [
@@ -6213,6 +6306,10 @@
           {
             "text": "Barolo     Azelia",
             "answer_start": 0
+          },
+          {
+            "text": "Piedmont, Italy",
+            "answer_start": 34
           }
         ],
         "V": [
@@ -6318,6 +6415,10 @@
           {
             "text": "Cabernet Sauvignon       Kenwood",
             "answer_start": 0
+          },
+          {
+            "text": "Sonoma, California",
+            "answer_start": 47
           }
         ],
         "V": [
@@ -6488,6 +6589,10 @@
           {
             "text": "Dolce    “Liquid Gold”    Late Harvest Wine",
             "answer_start": 0
+          },
+          {
+            "text": "Napa       (375 ml)",
+            "answer_start": 55
           }
         ],
         "V": [
@@ -6580,6 +6685,10 @@
           {
             "text": "Chateau d’Yquem    Sauternes",
             "answer_start": 0
+          },
+          {
+            "text": "Bordeaux",
+            "answer_start": 40
           }
         ],
         "V": [

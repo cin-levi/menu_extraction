@@ -157,6 +157,10 @@
           {
             "text": "Raymond “Reserve” Chardonnay",
             "answer_start": 0
+          },
+          {
+            "text": "(Napa) ...",
+            "answer_start": 33
           }
         ],
         "V": [
@@ -202,6 +206,10 @@
           {
             "text": "J. Lohr, Riverstone Chardonnay",
             "answer_start": 0
+          },
+          {
+            "text": "(Monterey County) ...",
+            "answer_start": 35
           }
         ],
         "V": [
@@ -260,6 +268,10 @@
           {
             "text": "La Cote Blanche, Macon Villages",
             "answer_start": 0
+          },
+          {
+            "text": "(France) ...",
+            "answer_start": 36
           }
         ],
         "V": [
@@ -318,6 +330,10 @@
           {
             "text": "Murphy Goode, Chardonnay",
             "answer_start": 0
+          },
+          {
+            "text": "(Sonoma County) ...",
+            "answer_start": 29
           }
         ],
         "V": [
@@ -376,6 +392,10 @@
           {
             "text": "Jordan, Chardonnay",
             "answer_start": 0
+          },
+          {
+            "text": "(Russian River Valley) ...",
+            "answer_start": 23
           }
         ],
         "V": [
@@ -421,6 +441,10 @@
           {
             "text": "Bortoluzzi, Pinot Grigio",
             "answer_start": 0
+          },
+          {
+            "text": "(Italy) ...",
+            "answer_start": 29
           }
         ],
         "V": [
@@ -453,6 +477,10 @@
           {
             "text": "Roero Arneis, Bruno Giacosa",
             "answer_start": 0
+          },
+          {
+            "text": "(Italy)",
+            "answer_start": 32
           }
         ],
         "V": [
@@ -485,6 +513,10 @@
           {
             "text": "St. Supery, Sauvignon Blanc",
             "answer_start": 0
+          },
+          {
+            "text": "(Napa) ...",
+            "answer_start": 32
           }
         ],
         "V": [
@@ -517,6 +549,10 @@
           {
             "text": "Cloudy Bay, Sauvignon Blanc",
             "answer_start": 0
+          },
+          {
+            "text": "(New Zealand) ...",
+            "answer_start": 32
           }
         ],
         "V": [
@@ -549,6 +585,10 @@
           {
             "text": "Pouilly-Fuisse, Bouchard Pere & Fils",
             "answer_start": 0
+          },
+          {
+            "text": "(France) ...",
+            "answer_start": 41
           }
         ],
         "V": [
@@ -581,6 +621,10 @@
           {
             "text": "Chablis Champs Royaux, William Fevre",
             "answer_start": 0
+          },
+          {
+            "text": "(France) ...",
+            "answer_start": 41
           }
         ],
         "V": [
@@ -613,6 +657,10 @@
           {
             "text": "Puligny Montrachet, Olivier Leflaive",
             "answer_start": 0
+          },
+          {
+            "text": "(France) ..",
+            "answer_start": 41
           }
         ],
         "V": [
@@ -645,6 +693,10 @@
           {
             "text": "Meursault-Blagny Premier Cru, Louis Latour",
             "answer_start": 0
+          },
+          {
+            "text": "(France) ...",
+            "answer_start": 47
           }
         ],
         "V": [
@@ -677,6 +729,10 @@
           {
             "text": "Dry Creek, Fume Blanc",
             "answer_start": 0
+          },
+          {
+            "text": "(Sonoma) ...",
+            "answer_start": 26
           }
         ],
         "V": [
@@ -709,6 +765,10 @@
           {
             "text": "Robert Mondavi, Fume Blanc",
             "answer_start": 0
+          },
+          {
+            "text": "(Napa) ...",
+            "answer_start": 31
           }
         ],
         "V": [
@@ -741,6 +801,10 @@
           {
             "text": "A to Z, Pinot Gris '1",
             "answer_start": 0
+          },
+          {
+            "text": "(Oregon) ...",
+            "answer_start": 23
           }
         ],
         "V": [
@@ -773,6 +837,10 @@
           {
             "text": "Chateau Fage, Graves De Vayres",
             "answer_start": 0
+          },
+          {
+            "text": "(France) ...",
+            "answer_start": 35
           }
         ],
         "V": [
@@ -805,6 +873,10 @@
           {
             "text": "Pinot Blanc, Alsace Willm",
             "answer_start": 0
+          },
+          {
+            "text": "(France) ...",
+            "answer_start": 30
           }
         ],
         "V": [
@@ -837,6 +909,10 @@
           {
             "text": "Sancerre, Jean Dmont",
             "answer_start": 0
+          },
+          {
+            "text": "(France) ...",
+            "answer_start": 25
           }
         ],
         "V": [
@@ -869,6 +945,10 @@
           {
             "text": "Cotes De Provence, Chateau Saint Baillon Rose",
             "answer_start": 0
+          },
+          {
+            "text": "(France) ...",
+            "answer_start": 50
           }
         ],
         "V": [
@@ -901,6 +981,10 @@
           {
             "text": "Urban Riesling, St. Urbans-Hof",
             "answer_start": 0
+          },
+          {
+            "text": "(Germany) ...",
+            "answer_start": 35
           }
         ],
         "V": [
@@ -946,6 +1030,10 @@
           {
             "text": "Chateau Tour Marcillanet, Haut Medoc",
             "answer_start": 0
+          },
+          {
+            "text": "(France) ..",
+            "answer_start": 41
           }
         ],
         "V": [
@@ -1030,6 +1118,10 @@
           {
             "text": "Chateau La Couronne, Saint-Emilion Grand Cru",
             "answer_start": 0
+          },
+          {
+            "text": "(France) ...",
+            "answer_start": 49
           }
         ],
         "V": [
@@ -1062,6 +1154,10 @@
           {
             "text": "L'Eclat De Tour De Pez, Saint Estephe",
             "answer_start": 0
+          },
+          {
+            "text": "(France) ...",
+            "answer_start": 42
           }
         ],
         "V": [
@@ -1094,6 +1190,10 @@
           {
             "text": "Schroder & Schyler, Margaux Private Reserve",
             "answer_start": 0
+          },
+          {
+            "text": "(France) ...",
+            "answer_start": 48
           }
         ],
         "V": [
@@ -1154,7 +1254,26 @@
       "120.73"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "$79.00",
+            "answer_start": 17
+          }
+        ],
+        "W": [
+          {
+            "text": "(France) ...",
+            "answer_start": 4
+          }
+        ],
+        "V": [
+          {
+            "text": "'15",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1185,6 +1304,10 @@
           {
             "text": "Amiral De Beychevelle, St. Julien",
             "answer_start": 0
+          },
+          {
+            "text": "(France) ...",
+            "answer_start": 38
           }
         ],
         "V": [
@@ -1230,6 +1353,10 @@
           {
             "text": "La Tour Chambert, Cahors",
             "answer_start": 0
+          },
+          {
+            "text": "(France) .",
+            "answer_start": 29
           }
         ],
         "V": [
@@ -1275,6 +1402,10 @@
           {
             "text": "Borgo Scopeto, Chianti Classico",
             "answer_start": 0
+          },
+          {
+            "text": "(Tuscany) ...",
+            "answer_start": 36
           }
         ],
         "V": [
@@ -1320,6 +1451,10 @@
           {
             "text": "Antinori Santa Cristina, Sangiovese",
             "answer_start": 0
+          },
+          {
+            "text": "(Tuscany) ...",
+            "answer_start": 40
           }
         ],
         "V": [
@@ -1365,6 +1500,10 @@
           {
             "text": "Barolo Falletto, Bruno Giacosa",
             "answer_start": 0
+          },
+          {
+            "text": "(Italy) ...",
+            "answer_start": 35
           }
         ],
         "V": [
@@ -1436,6 +1575,10 @@
           {
             "text": "Barbera D’Alba, Bruno Giacosa",
             "answer_start": 0
+          },
+          {
+            "text": "(Italy) ...",
+            "answer_start": 34
           }
         ],
         "V": [
@@ -1494,6 +1637,10 @@
           {
             "text": "Chateau Ste. Michelle, Cabernet Sauvignon",
             "answer_start": 0
+          },
+          {
+            "text": "(Columbia Valley) ...",
+            "answer_start": 46
           }
         ],
         "V": [
@@ -1566,6 +1713,10 @@
           {
             "text": "Sebastiani, Cabernet Sauvignon",
             "answer_start": 0
+          },
+          {
+            "text": "(’ Sonoma) ...",
+            "answer_start": 35
           }
         ],
         "V": [
@@ -1598,6 +1749,10 @@
           {
             "text": "Annabella, Cabernet Sauvignon",
             "answer_start": 0
+          },
+          {
+            "text": "(Napa) ...",
+            "answer_start": 34
           }
         ],
         "V": [
@@ -1630,6 +1785,10 @@
           {
             "text": "Faust, Cabernet Sauvignon",
             "answer_start": 0
+          },
+          {
+            "text": "(Napa) ...",
+            "answer_start": 30
           }
         ],
         "V": [
@@ -1662,6 +1821,10 @@
           {
             "text": "Grgich Hills, Cabernet Sauvignon",
             "answer_start": 0
+          },
+          {
+            "text": "(Napa) ..",
+            "answer_start": 38
           }
         ],
         "V": [
@@ -1694,6 +1857,10 @@
           {
             "text": "Mulderbosch- “Faithful Hound” (Meritage) - Stellenbosch",
             "answer_start": 0
+          },
+          {
+            "text": "Mulderbosch- “Faithful Hound” (Meritage) - Stellenbosch '17 (South",
+            "answer_start": 0
           }
         ],
         "V": [
@@ -1721,6 +1888,12 @@
             "text": "$48.00",
             "answer_start": 12
           }
+        ],
+        "W": [
+          {
+            "text": "Africa) ... $48.00",
+            "answer_start": 0
+          }
         ]
       }
     ]
@@ -1740,6 +1913,10 @@
           {
             "text": "Francois Labet Bourgogne, Pinot Noir",
             "answer_start": 0
+          },
+          {
+            "text": "(France) ...",
+            "answer_start": 41
           }
         ],
         "V": [
@@ -1772,6 +1949,10 @@
           {
             "text": "Beaujolais Village, Henry Fessy",
             "answer_start": 0
+          },
+          {
+            "text": "( France) ..",
+            "answer_start": 36
           }
         ],
         "V": [
@@ -1804,6 +1985,10 @@
           {
             "text": "Albert Bichot,Vosne-Romanee",
             "answer_start": 0
+          },
+          {
+            "text": "(France)",
+            "answer_start": 32
           }
         ],
         "V": [
@@ -1836,6 +2021,10 @@
           {
             "text": "Gevrey Chambertin, Joseph Drouhin",
             "answer_start": 0
+          },
+          {
+            "text": "(France) ...",
+            "answer_start": 38
           }
         ],
         "V": [
@@ -1868,6 +2057,10 @@
           {
             "text": "Koonunga Hill, Shiraz",
             "answer_start": 0
+          },
+          {
+            "text": "(Australia) ..",
+            "answer_start": 26
           }
         ],
         "V": [
@@ -1900,6 +2093,10 @@
           {
             "text": "Alexander Valley Vineyards, Syrah",
             "answer_start": 0
+          },
+          {
+            "text": "(Sonoma) ...",
+            "answer_start": 38
           }
         ],
         "V": [
@@ -1932,6 +2129,10 @@
           {
             "text": "Tavola Pinot Noir, Ponzi Vineyards",
             "answer_start": 0
+          },
+          {
+            "text": "(Oregon) ...",
+            "answer_start": 39
           }
         ],
         "V": [
@@ -1964,6 +2165,10 @@
           {
             "text": "Pinot Noir, Maison De La Villette",
             "answer_start": 0
+          },
+          {
+            "text": "(France) ...",
+            "answer_start": 38
           }
         ],
         "V": [
@@ -1996,6 +2201,10 @@
           {
             "text": "Bouchard Pere & Fils Reserve Bourgogne, Pinot Noir",
             "answer_start": 0
+          },
+          {
+            "text": "(France)",
+            "answer_start": 56
           }
         ],
         "V": [
@@ -2042,6 +2251,10 @@
           {
             "text": "Souverain, Merlot",
             "answer_start": 0
+          },
+          {
+            "text": "(North Coast) ...",
+            "answer_start": 22
           }
         ],
         "V": [
@@ -2074,6 +2287,10 @@
           {
             "text": "Columbia Crest, Merlot",
             "answer_start": 0
+          },
+          {
+            "text": "(Columbia Valley) ...",
+            "answer_start": 27
           }
         ],
         "V": [
@@ -2106,6 +2323,10 @@
           {
             "text": "Firestone, Merlot",
             "answer_start": 0
+          },
+          {
+            "text": "(Santa Ynez Valley) ...",
+            "answer_start": 22
           }
         ],
         "V": [
@@ -2138,6 +2359,10 @@
           {
             "text": "Cotes Du Rhone, E. Guigal",
             "answer_start": 0
+          },
+          {
+            "text": "( France) ...",
+            "answer_start": 30
           }
         ],
         "V": [
@@ -2170,6 +2395,10 @@
           {
             "text": "Famille Perrin, Chateauneuef du Pape Les Sinards",
             "answer_start": 0
+          },
+          {
+            "text": "(France)",
+            "answer_start": 53
           }
         ],
         "V": [
@@ -2280,6 +2509,10 @@
           {
             "text": "Decoy, Zinfandel",
             "answer_start": 0
+          },
+          {
+            "text": "(Sonoma) ...",
+            "answer_start": 21
           }
         ]
       }

@@ -1256,8 +1256,8 @@
         ],
         "P": [
           {
-            "text": "n Healdsb",
-            "answer_start": 8
+            "text": "Sauvignon Healdsb",
+            "answer_start": 0
           }
         ]
       }
@@ -1274,16 +1274,10 @@
     ],
     "annots": [
       {
-        "W": [
+        "P": [
           {
             "text": "375ml btl na/22",
             "answer_start": 0
-          }
-        ],
-        "P": [
-          {
-            "text": "na/22",
-            "answer_start": 10
           }
         ]
       }
@@ -1764,8 +1758,8 @@
         ],
         "P": [
           {
-            "text": "ve Clicquo",
-            "answer_start": 3
+            "text": "Veuve Clicquo",
+            "answer_start": 0
           }
         ]
       }
@@ -1782,16 +1776,10 @@
     ],
     "annots": [
       {
-        "W": [
+        "P": [
           {
             "text": "(btl) na/110",
             "answer_start": 0
-          }
-        ],
-        "P": [
-          {
-            "text": "na/110",
-            "answer_start": 6
           }
         ]
       }

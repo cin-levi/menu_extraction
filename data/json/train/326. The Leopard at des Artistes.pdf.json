@@ -1366,6 +1366,10 @@
           {
             "text": "ROSATO DELLE PALAIE",
             "answer_start": 0
+          },
+          {
+            "text": "TOSCANA LE PALAIE",
+            "answer_start": 25
           }
         ],
         "V": [
@@ -1775,6 +1779,12 @@
             "text": "2018",
             "answer_start": 17
           }
+        ],
+        "w ": [
+          {
+            "text": "VIO GIOBATTA",
+            "answer_start": 22
+          }
         ]
       }
     ]
@@ -1821,6 +1831,12 @@
             "text": "2020",
             "answer_start": 13
           }
+        ],
+        "w": [
+          {
+            "text": "LA RAIA",
+            "answer_start": 18
+          }
         ]
       }
     ]
@@ -1860,6 +1876,10 @@
           {
             "text": "PINOT GRIGIO",
             "answer_start": 0
+          },
+          {
+            "text": "SCHIOPETTO",
+            "answer_start": 18
           }
         ],
         "v": [
@@ -1906,6 +1926,10 @@
           {
             "text": "GAVI DI GAVI “MINAIA”",
             "answer_start": 0
+          },
+          {
+            "text": "F.MARTINETTI",
+            "answer_start": 27
           }
         ],
         "V": [
@@ -1953,6 +1977,12 @@
             "text": "2018",
             "answer_start": 11
           }
+        ],
+        "W": [
+          {
+            "text": "CHARDONNAY 2018 MEROI",
+            "answer_start": 0
+          }
         ]
       }
     ]
@@ -1967,7 +1997,14 @@
       "395.18"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Organic",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2005,6 +2042,10 @@
           {
             "text": "CHARDONNAY “BUSSIADOR”",
             "answer_start": 0
+          },
+          {
+            "text": "A. CONTERNO",
+            "answer_start": 28
           }
         ],
         "V": [
@@ -2143,6 +2184,10 @@
           {
             "text": "CHARDONNAY",
             "answer_start": 0
+          },
+          {
+            "text": "“GAJA AND REY” GAJA",
+            "answer_start": 16
           }
         ],
         "V": [
@@ -2306,6 +2351,10 @@
           {
             "text": "INSOLIA",
             "answer_start": 0
+          },
+          {
+            "text": "MAGGIOVINI",
+            "answer_start": 13
           }
         ],
         "V": [
@@ -2352,6 +2401,10 @@
           {
             "text": "MINUTOLO BIANCO “ALTURE”",
             "answer_start": 0
+          },
+          {
+            "text": "PAOLO LEO",
+            "answer_start": 30
           }
         ],
         "V": [
@@ -2398,6 +2451,10 @@
           {
             "text": "FALANGHINA",
             "answer_start": 0
+          },
+          {
+            "text": "DONNACHIARA",
+            "answer_start": 16
           }
         ],
         "V": [
@@ -2444,6 +2501,10 @@
           {
             "text": "VERMENTINO “GROPPOLO”",
             "answer_start": 0
+          },
+          {
+            "text": "COLLI DI LUNI",
+            "answer_start": 27
           }
         ],
         "V": [
@@ -2490,6 +2551,10 @@
           {
             "text": "PECORINO",
             "answer_start": 0
+          },
+          {
+            "text": "CONTESA",
+            "answer_start": 14
           }
         ],
         "V": [
@@ -2536,6 +2601,10 @@
           {
             "text": "MOSCATO DI NOTO “MUSCATEDDA",
             "answer_start": 0
+          },
+          {
+            "text": "MARABINO",
+            "answer_start": 34
           }
         ],
         "V": [
@@ -2582,6 +2651,10 @@
           {
             "text": "FIANO DI AVELLINO",
             "answer_start": 0
+          },
+          {
+            "text": "DONNACHIARA",
+            "answer_start": 23
           }
         ],
         "V": [
@@ -2628,6 +2701,10 @@
           {
             "text": "VERNACCIA DI SAN GIMIGNANO",
             "answer_start": 0
+          },
+          {
+            "text": "PANIZZI",
+            "answer_start": 32
           }
         ],
         "V": [
@@ -2674,6 +2751,10 @@
           {
             "text": "ROSATO DELLE PALAIE",
             "answer_start": 0
+          },
+          {
+            "text": "TOSCANA LE PALAIE",
+            "answer_start": 25
           }
         ],
         "V": [

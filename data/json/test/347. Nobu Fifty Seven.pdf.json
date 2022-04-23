@@ -231,7 +231,20 @@
       "1031.64"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "BIN#105: Syltbar 'Il Concerto' Prosecco",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 40
+          }
+        ]
+      }
     ]
   },
   {
@@ -1124,6 +1137,10 @@
           {
             "text": "BIN#140: Ferrari Rose 'Metodo Classico'",
             "answer_start": 0
+          },
+          {
+            "text": "Brut, Trento, IT",
+            "answer_start": 44
           }
         ],
         "V": [

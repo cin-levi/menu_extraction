@@ -53,6 +53,16 @@
             "text": "2018",
             "answer_start": 22
           }
+        ],
+        "W": [
+          {
+            "text": "chardo",
+            "answer_start": 0
+          },
+          {
+            "text": "018",
+            "answer_start": 23
+          }
         ]
       }
     ]
@@ -99,6 +109,16 @@
             "text": "/ 12 (gl) / 46 (btl)",
             "answer_start": 14
           }
+        ],
+        "W": [
+          {
+            "text": "tzora, israel",
+            "answer_start": 0
+          },
+          {
+            "text": "(kosher)",
+            "answer_start": 35
+          }
         ]
       }
     ]
@@ -114,9 +134,15 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "fiesole, italy",
+            "answer_start": 0
+          }
+        ],
         "P": [
           {
-            "text": "11 (gl) 44",
+            "text": "11 (gl) 44 (btl)",
             "answer_start": 17
           }
         ]
@@ -145,6 +171,12 @@
             "text": "2017",
             "answer_start": 29
           }
+        ],
+        "W": [
+          {
+            "text": "t gris, red newt cellars",
+            "answer_start": 4
+          }
         ]
       }
     ]
@@ -163,6 +195,10 @@
         "W": [
           {
             "text": "pinot noir, vitkin",
+            "answer_start": 0
+          },
+          {
+            "text": "pinot noir, vitkin 2017 (kosher)",
             "answer_start": 0
           }
         ],
@@ -197,6 +233,12 @@
             "text": "ger lakes, new yo",
             "answer_start": 3
           }
+        ],
+        "W": [
+          {
+            "text": "finger lakes, new york",
+            "answer_start": 0
+          }
         ]
       }
     ]
@@ -216,6 +258,12 @@
           {
             "text": "13 (gl) 52 (btl)",
             "answer_start": 22
+          }
+        ],
+        "W": [
+          {
+            "text": "ella valley, israel / 13 (gl) 52 (bt",
+            "answer_start": 0
           }
         ]
       }
@@ -256,6 +304,10 @@
           {
             "text": "riesling (dry), sybille kuntz",
             "answer_start": 0
+          },
+          {
+            "text": "riesling (dry), sy",
+            "answer_start": 0
           }
         ],
         "V": [
@@ -287,6 +339,14 @@
         "W": [
           {
             "text": "syrah blend, alfa, jezreel winery",
+            "answer_start": 0
+          },
+          {
+            "text": "ery 2017",
+            "answer_start": 30
+          },
+          {
+            "text": "syrah blend,",
             "answer_start": 0
           }
         ],
@@ -321,6 +381,12 @@
             "text": "13 (gl) / 50 (btl)",
             "answer_start": 18
           }
+        ],
+        "W": [
+          {
+            "text": "lieser, germany /",
+            "answer_start": 0
+          }
         ]
       }
     ]
@@ -340,6 +406,16 @@
           {
             "text": "14 (gl) 54 (btl)",
             "answer_start": 18
+          }
+        ],
+        "W": [
+          {
+            "text": "(kosher)",
+            "answer_start": 35
+          },
+          {
+            "text": "galilee, israel",
+            "answer_start": 0
           }
         ]
       }
@@ -379,6 +455,12 @@
           {
             "text": "2018",
             "answer_start": 27
+          }
+        ],
+        "W": [
+          {
+            "text": "vignon blanc, goose bay 2",
+            "answer_start": 3
           }
         ]
       }
@@ -426,6 +508,16 @@
             "text": "south island, new",
             "answer_start": 0
           }
+        ],
+        "W": [
+          {
+            "text": "outh island, new zealand",
+            "answer_start": 1
+          },
+          {
+            "text": "zealand",
+            "answer_start": 18
+          }
         ]
       }
     ]
@@ -443,8 +535,14 @@
       {
         "P": [
           {
-            "text": "/ 14 (gl) 54",
-            "answer_start": 27
+            "text": "14 (gl) 54 (btl)",
+            "answer_start": 29
+          }
+        ],
+        "W": [
+          {
+            "text": "cafayate valley, argentina /",
+            "answer_start": 0
           }
         ]
       }
@@ -479,6 +577,12 @@
             "text": "14 (gl) / 54 (btl)",
             "answer_start": 0
           }
+        ],
+        "W": [
+          {
+            "text": "(kosher)",
+            "answer_start": 19
+          }
         ]
       }
     ]
@@ -510,6 +614,10 @@
         "W": [
           {
             "text": "cab. sauv., \"fundamental\", joey tensley",
+            "answer_start": 0
+          },
+          {
+            "text": "cab. sauv., \"fundamental",
             "answer_start": 0
           }
         ],
@@ -569,6 +677,12 @@
             "text": "& farmer 2018",
             "answer_start": 16
           }
+        ],
+        "W": [
+          {
+            "text": "verdejo, friend",
+            "answer_start": 0
+          }
         ]
       }
     ]
@@ -587,6 +701,10 @@
         "W": [
           {
             "text": "central coast, california / 14 (gl) 54 (",
+            "answer_start": 0
+          },
+          {
+            "text": "central coast, california",
             "answer_start": 0
           }
         ],
@@ -620,6 +738,12 @@
           {
             "text": "14(gl) / 54 (btl)",
             "answer_start": 19
+          }
+        ],
+        "W": [
+          {
+            "text": "la mancha, spain",
+            "answer_start": 0
           }
         ]
       }
@@ -709,7 +833,7 @@
         ],
         "P": [
           {
-            "text": "ura (kosher",
+            "text": "ura (kosher)",
             "answer_start": 16
           }
         ]
@@ -738,6 +862,12 @@
             "text": "2018",
             "answer_start": 24
           }
+        ],
+        "W": [
+          {
+            "text": "che/cinsault/syrah",
+            "answer_start": 5
+          }
         ]
       }
     ]
@@ -757,6 +887,16 @@
           {
             "text": "rieur",
             "answer_start": 13
+          }
+        ],
+        "W": [
+          {
+            "text": "la croix du prieur",
+            "answer_start": 0
+          },
+          {
+            "text": "la croix du p",
+            "answer_start": 0
           }
         ]
       }
@@ -781,7 +921,7 @@
         ],
         "P": [
           {
-            "text": "12 (gl) / 46",
+            "text": "12 (gl) / 46 (btl)",
             "answer_start": 23
           }
         ]
@@ -816,6 +956,12 @@
           {
             "text": "12 (gl) / 46 (btl)",
             "answer_start": 28
+          }
+        ],
+        "W": [
+          {
+            "text": "cotes de provence, france",
+            "answer_start": 0
           }
         ]
       }
@@ -927,6 +1073,10 @@
           {
             "text": "sauvignon blanc, domaine des emois",
             "answer_start": 0
+          },
+          {
+            "text": "n blanc, domaine",
+            "answer_start": 8
           }
         ],
         "V": [
@@ -972,6 +1122,12 @@
           {
             "text": "58",
             "answer_start": 19
+          }
+        ],
+        "W": [
+          {
+            "text": "sancerre, france",
+            "answer_start": 0
           }
         ]
       }
@@ -1031,12 +1187,22 @@
           {
             "text": "pinot grigio, simon di brazzan",
             "answer_start": 0
+          },
+          {
+            "text": "not grigio, simon di brazz",
+            "answer_start": 2
           }
         ],
         "V": [
           {
             "text": "2018",
             "answer_start": 31
+          }
+        ],
+        "P": [
+          {
+            "text": "n 20",
+            "answer_start": 29
           }
         ]
       }
@@ -1056,6 +1222,10 @@
         "W": [
           {
             "text": "moscato d'asti",
+            "answer_start": 0
+          },
+          {
+            "text": "moscato d'asti 20",
             "answer_start": 0
           }
         ],
@@ -1084,7 +1254,20 @@
       "432.94"
     ],
     "annots": [
-      null
+      {
+        "P": [
+          {
+            "text": "50",
+            "answer_start": 31
+          }
+        ],
+        "W": [
+          {
+            "text": "friuli-venezia giulia, italy",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1102,6 +1285,12 @@
           {
             "text": "24",
             "answer_start": 25
+          }
+        ],
+        "W": [
+          {
+            "text": "bricco del sole, Italy",
+            "answer_start": 0
           }
         ]
       }
@@ -1148,6 +1337,10 @@
           {
             "text": "chardonnay, dampt & fils",
             "answer_start": 0
+          },
+          {
+            "text": "hardonnay, dampt & fils",
+            "answer_start": 1
           }
         ],
         "V": [
@@ -1220,6 +1413,12 @@
             "text": "32",
             "answer_start": 28
           }
+        ],
+        "W": [
+          {
+            "text": "chablis, burgundy, france",
+            "answer_start": 0
+          }
         ]
       }
     ]
@@ -1239,6 +1438,12 @@
           {
             "text": "55",
             "answer_start": 20
+          }
+        ],
+        "W": [
+          {
+            "text": "bourgogne, france",
+            "answer_start": 0
           }
         ]
       }
@@ -1337,6 +1542,10 @@
           {
             "text": "tempranillo, crianza, arzuaga",
             "answer_start": 0
+          },
+          {
+            "text": "anillo, crianza, ar",
+            "answer_start": 5
           }
         ],
         "V": [
@@ -1383,6 +1592,12 @@
             "text": "38",
             "answer_start": 20
           }
+        ],
+        "W": [
+          {
+            "text": "valladolid, spain",
+            "answer_start": 0
+          }
         ]
       }
     ]
@@ -1428,6 +1643,10 @@
           {
             "text": "merlot / cab franc, chateau la croix",
             "answer_start": 0
+          },
+          {
+            "text": "ot / cab franc, chateau la",
+            "answer_start": 4
           }
         ],
         "V": [
@@ -1486,6 +1705,12 @@
           {
             "text": "/ 50",
             "answer_start": 26
+          }
+        ],
+        "W": [
+          {
+            "text": "pomerol, bordeaux, france",
+            "answer_start": 0
           }
         ]
       }
@@ -1611,6 +1836,16 @@
             "text": "50",
             "answer_start": 18
           }
+        ],
+        "W": [
+          {
+            "text": "galilee, israel",
+            "answer_start": 0
+          },
+          {
+            "text": "(kosher)",
+            "answer_start": 21
+          }
         ]
       }
     ]
@@ -1669,6 +1904,14 @@
           {
             "text": "grenache / marselan, vitkin",
             "answer_start": 0
+          },
+          {
+            "text": "enache / mars",
+            "answer_start": 2
+          },
+          {
+            "text": "vitkin 20",
+            "answer_start": 21
           }
         ],
         "V": [
@@ -1728,6 +1971,16 @@
             "text": "58",
             "answer_start": 17
           }
+        ],
+        "W": [
+          {
+            "text": "sharon, israel",
+            "answer_start": 0
+          },
+          {
+            "text": "(kosher)",
+            "answer_start": 20
+          }
         ]
       }
     ]
@@ -1773,6 +2026,14 @@
           {
             "text": "carignan, jezreel",
             "answer_start": 0
+          },
+          {
+            "text": "an, jezreel 20",
+            "answer_start": 6
+          },
+          {
+            "text": "(kosher)",
+            "answer_start": 23
           }
         ],
         "V": [
@@ -1819,6 +2080,12 @@
             "text": "80",
             "answer_start": 18
           }
+        ],
+        "W": [
+          {
+            "text": "galilee, israel",
+            "answer_start": 0
+          }
         ]
       }
     ]
@@ -1864,6 +2131,10 @@
           {
             "text": "syrah, jezreel",
             "answer_start": 0
+          },
+          {
+            "text": "(kosher)",
+            "answer_start": 20
           }
         ],
         "V": [
@@ -1917,6 +2188,12 @@
             "text": "/ 80",
             "answer_start": 16
           }
+        ],
+        "W": [
+          {
+            "text": "galilee, israel",
+            "answer_start": 0
+          }
         ]
       }
     ]
@@ -1962,6 +2239,10 @@
           {
             "text": "pinot noir, dierberg",
             "answer_start": 0
+          },
+          {
+            "text": "pinot noir, dierberg 201",
+            "answer_start": 0
           }
         ],
         "V": [
@@ -2001,6 +2282,12 @@
           {
             "text": "100",
             "answer_start": 33
+          }
+        ],
+        "W": [
+          {
+            "text": "santa maria valley, california",
+            "answer_start": 0
           }
         ]
       }
@@ -2060,6 +2347,14 @@
           {
             "text": "cabernet franc, teperberg",
             "answer_start": 0
+          },
+          {
+            "text": "bernet franc, teperberg 2014 (k",
+            "answer_start": 2
+          },
+          {
+            "text": "(kosher)",
+            "answer_start": 31
           }
         ],
         "V": [
@@ -2105,6 +2400,12 @@
           {
             "text": "110",
             "answer_start": 28
+          }
+        ],
+        "W": [
+          {
+            "text": "ephraim mountains, israel /",
+            "answer_start": 0
           }
         ]
       }
@@ -2199,6 +2500,16 @@
     ],
     "annots": [
       {
+        "W": [
+          {
+            "text": "judean hills, israel",
+            "answer_start": 0
+          },
+          {
+            "text": "(kosher)",
+            "answer_start": 27
+          }
+        ],
         "P": [
           {
             "text": "120",

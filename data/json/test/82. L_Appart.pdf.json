@@ -316,16 +316,16 @@
     ],
     "annots": [
       {
-        "V": [
-          {
-            "text": "NV",
-            "answer_start": 31
-          }
-        ],
         "W": [
           {
             "text": "Delamotte Blanc de Blancs Brut",
             "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 31
           }
         ]
       }
@@ -362,16 +362,16 @@
     ],
     "annots": [
       {
-        "V": [
-          {
-            "text": "NV",
-            "answer_start": 40
-          }
-        ],
         "W": [
           {
             "text": "Drappier “Brut Nature” Zero Dosage Brut",
             "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 40
           }
         ]
       }
@@ -454,16 +454,16 @@
     ],
     "annots": [
       {
-        "V": [
-          {
-            "text": "2002",
-            "answer_start": 46
-          }
-        ],
         "W": [
           {
             "text": "Béreche & Fils “Montagne” Grand Cru Millésime",
             "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2002",
+            "answer_start": 46
           }
         ]
       }
@@ -664,13 +664,13 @@
     ],
     "annots": [
       {
-        "V": [
+        "W": [
           {
             "text": "2002",
             "answer_start": 0
           }
         ],
-        "W": [
+        "V": [
           {
             "text": "2002",
             "answer_start": 0
@@ -690,16 +690,16 @@
     ],
     "annots": [
       {
-        "V": [
-          {
-            "text": "2002",
-            "answer_start": 50
-          }
-        ],
         "W": [
           {
             "text": "Krug Blanc de Blancs, ’Clos du Mesnil’Reims, Brut",
             "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2002",
+            "answer_start": 50
           }
         ]
       }
@@ -736,16 +736,16 @@
     ],
     "annots": [
       {
-        "V": [
-          {
-            "text": "2010",
-            "answer_start": 34
-          }
-        ],
         "W": [
           {
             "text": "Laherte Fréres “Empreintes”, Brut",
             "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2010",
+            "answer_start": 34
           }
         ]
       }
@@ -874,16 +874,16 @@
     ],
     "annots": [
       {
-        "V": [
-          {
-            "text": "1998",
-            "answer_start": 55
-          }
-        ],
         "W": [
           {
             "text": "Taittinger Blanc de Blancs, “Comtes de Champagne” Brut",
             "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "1998",
+            "answer_start": 55
           }
         ]
       }

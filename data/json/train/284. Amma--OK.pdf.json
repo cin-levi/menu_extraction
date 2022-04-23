@@ -431,6 +431,12 @@
             "text": "POLOGUE SAFFRON SPICED SPRITZ",
             "answer_start": 4
           }
+        ],
+        "V": [
+          {
+            "text": "NV A",
+            "answer_start": 0
+          }
         ]
       }
     ]
@@ -470,6 +476,10 @@
           }
         ],
         "V": [
+          {
+            "text": "2016",
+            "answer_start": 0
+          },
           {
             "text": "2016",
             "answer_start": 0

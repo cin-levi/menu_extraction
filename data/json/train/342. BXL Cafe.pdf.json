@@ -3694,7 +3694,14 @@
       "578.65"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Homemade bottled negroni made with bar hill raw honey gin from",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -3707,7 +3714,14 @@
       "600.40"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "vermont",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

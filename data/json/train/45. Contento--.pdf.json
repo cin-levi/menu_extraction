@@ -1,0 +1,1405 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/16/22, 3:15 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Home | Contento",
+    "bbox": [
+      "436.91",
+      "15.70",
+      "497.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "W",
+    "bbox": [
+      "38.38",
+      "116.24",
+      "59.51",
+      "153.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "INES BY THE GLASS",
+    "bbox": [
+      "59.51",
+      "116.24",
+      "266.68",
+      "153.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINES BY THE GLASS",
+    "bbox": [
+      "51.51",
+      "189.00",
+      "234.15",
+      "219.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPARKLING",
+    "bbox": [
+      "51.51",
+      "230.88",
+      "104.06",
+      "245.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ALTA ALELLA, CAVA BRUT",
+    "bbox": [
+      "51.51",
+      "255.72",
+      "155.44",
+      "270.73"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ALTA ALELLA, CAVA BRUT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$15 /$24",
+    "bbox": [
+      "742.12",
+      "266.98",
+      "791.49",
+      "281.99"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15 /$24",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Nature Mirgin Gran Reserva – 2017",
+    "bbox": [
+      "51.51",
+      "278.23",
+      "207.46",
+      "293.24"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Nature Mirgin Gran Reserva",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FLEURY CHAMPAGNE",
+    "bbox": [
+      "51.51",
+      "315.76",
+      "140.12",
+      "330.77"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FLEURY CHAMPAGNE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$22/$39",
+    "bbox": [
+      "742.55",
+      "327.01",
+      "791.49",
+      "342.02"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$22/$39",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Brut Blanc de Noirs – NV",
+    "bbox": [
+      "51.51",
+      "338.27",
+      "160.54",
+      "353.28"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Brut Blanc de Noirs –",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ELIO PERRONE",
+    "bbox": [
+      "51.51",
+      "375.80",
+      "113.50",
+      "390.81"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ELIO PERRONE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$12/$20",
+    "bbox": [
+      "744.37",
+      "387.05",
+      "791.49",
+      "402.06"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$12/$20",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sourgal Moscato d’Asti, Piedmont – 2020",
+    "bbox": [
+      "51.51",
+      "398.31",
+      "235.44",
+      "413.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sourgal Moscato d’Asti, Piedmont",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE",
+    "bbox": [
+      "51.51",
+      "433.51",
+      "80.69",
+      "448.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "VERNACCIA, MONTENIDOLI",
+    "bbox": [
+      "51.51",
+      "459.10",
+      "165.39",
+      "474.11"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VERNACCIA, MONTENIDOLI",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$16/$64",
+    "bbox": [
+      "744.37",
+      "470.36",
+      "791.49",
+      "485.37"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16/$64",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Vernaccia di San Gimignano Tradizionale, Tuscany, Italy – 2019",
+    "bbox": [
+      "51.51",
+      "481.61",
+      "325.75",
+      "496.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Vernaccia di San Gimignano Tradizionale, Tuscany, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ALBARIÑO",
+    "bbox": [
+      "51.51",
+      "519.14",
+      "95.57",
+      "534.15"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ALBARIÑO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$13/$43",
+    "bbox": [
+      "744.37",
+      "530.39",
+      "791.49",
+      "545.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$13/$43",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Columna, Rías Baixas, Spain – 2020",
+    "bbox": [
+      "51.51",
+      "541.65",
+      "210.95",
+      "556.66"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Columna, Rías Baixas, Spain",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "51.51",
+      "579.18",
+      "111.93",
+      "594.18"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$20/$80",
+    "bbox": [
+      "742.55",
+      "590.43",
+      "791.49",
+      "605.44"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$20/$80",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Silent Way, Macedon Ranges, Victoria, Australia – 2018",
+    "bbox": [
+      "51.51",
+      "601.69",
+      "291.91",
+      "616.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Silent Way, Macedon Ranges, Victoria, Australia",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "51.51",
+      "639.21",
+      "111.93",
+      "654.22"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$18/$65",
+    "bbox": [
+      "744.37",
+      "650.47",
+      "791.49",
+      "665.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$18/$65",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "De Westhof Estate, Lesca, Western Cape, South Africa – 2020",
+    "bbox": [
+      "51.51",
+      "661.73",
+      "319.37",
+      "676.74"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "De Westhof Estate, Lesca, Western Cape, South Africa",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PETIT MANSENG",
+    "bbox": [
+      "51.51",
+      "699.25",
+      "120.99",
+      "714.26"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PETIT MANSENG",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$18/$72",
+    "bbox": [
+      "744.37",
+      "710.51",
+      "791.49",
+      "725.52"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$18/$72",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Glen Manor Vineyards, Virginia, USA – 2019",
+    "bbox": [
+      "51.51",
+      "721.77",
+      "239.54",
+      "736.78"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Glen Manor Vineyards, Virginia, USA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RIESLING",
+    "bbox": [
+      "51.51",
+      "759.29",
+      "91.98",
+      "774.30"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RIESLING",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$14/$40",
+    "bbox": [
+      "744.37",
+      "770.55",
+      "791.49",
+      "785.56"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14/$40",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Forge Classique, Finger Lakes NY – 2019",
+    "bbox": [
+      "51.51",
+      "781.80",
+      "227.86",
+      "796.81"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Forge Classique, Finger Lakes NY",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSE",
+    "bbox": [
+      "51.51",
+      "817.00",
+      "75.77",
+      "832.01"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ROSE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MENCÍA Liquid Geography, Bierzo, Spain – 2019",
+    "bbox": [
+      "51.51",
+      "842.59",
+      "257.70",
+      "857.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MENCÍA Liquid Geography, Bierzo, Spain",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$10/$40",
+    "bbox": [
+      "744.37",
+      "842.59",
+      "791.49",
+      "857.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$10/$40",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ORANGE (SKIN CONTACT)",
+    "bbox": [
+      "51.51",
+      "877.79",
+      "164.99",
+      "892.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RKATSITELI",
+    "bbox": [
+      "51.51",
+      "902.63",
+      "99.18",
+      "917.64"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RKATSITELI",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$16/$60",
+    "bbox": [
+      "744.37",
+      "913.89",
+      "791.49",
+      "928.90"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16/$60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Stori, Kakheti, Georgia – 2014",
+    "bbox": [
+      "51.51",
+      "925.15",
+      "180.21",
+      "940.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Stori, Kakheti, Georgia",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RED",
+    "bbox": [
+      "51.51",
+      "960.34",
+      "69.90",
+      "975.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CINSAULT / PAIS",
+    "bbox": [
+      "51.51",
+      "985.93",
+      "123.02",
+      "1000.94"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CINSAULT / PAIS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$15/$54",
+    "bbox": [
+      "744.37",
+      "997.19",
+      "791.49",
+      "1012.20"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15/$54",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pedro Parra y Familia Pencopolitano, Itata, Chile – 2019",
+    "bbox": [
+      "51.51",
+      "1008.45",
+      "292.94",
+      "1023.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pedro Parra y Familia Pencopolitano, Itata, Chile",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GAMAY",
+    "bbox": [
+      "51.51",
+      "1045.97",
+      "81.62",
+      "1060.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Château du Moulin-à-Vent,",
+    "bbox": [
+      "51.51",
+      "1068.49",
+      "171.07",
+      "1083.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Château du Moulin-à-Vent,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$20/$80",
+    "bbox": [
+      "742.55",
+      "1068.49",
+      "791.49",
+      "1083.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$20/$80",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Moulin-à-Vent Couvent des Thorins, Beaujolais, France – 2018",
+    "bbox": [
+      "51.51",
+      "1091.00",
+      "323.82",
+      "1106.01"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Moulin-à-Vent Couvent des Thorins, Beaujolais, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MERLOT",
+    "bbox": [
+      "51.51",
+      "1128.53",
+      "86.07",
+      "1143.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MERLOT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$18/$60",
+    "bbox": [
+      "744.37",
+      "1139.78",
+      "791.49",
+      "1154.79"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$18/$60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Château Godard, Francs-Côtes de Bordeaux, Bordeaux, France – 2018",
+    "bbox": [
+      "51.51",
+      "1151.04",
+      "355.56",
+      "1166.05"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Château Godard, Francs-Côtes de Bordeaux, Bordeaux, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 61
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.contentonyc.com/wines-by-the-glass",
+    "bbox": [
+      "26.45",
+      "1168.70",
+      "198.97",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/2",
+    "bbox": [
+      "805.41",
+      "1168.70",
+      "816.51",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/16/22C, h3:â1t5e PaMu Godard, FrancsCôtes de Bordeaux, Bordeaux, France  2018",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "355.56",
+      "32.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Home | Contento",
+    "bbox": [
+      "436.91",
+      "15.70",
+      "497.24",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SYRAH/GRENACHE",
+    "bbox": [
+      "51.51",
+      "54.59",
+      "132.61",
+      "69.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SYRAH/GRENACHE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$17/$60",
+    "bbox": [
+      "744.37",
+      "79.36",
+      "791.49",
+      "94.37"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17/$60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Côtes du Rhône, Jean-Louis Chave ‘Mon Coeur’ Rhône, France – 2019",
+    "bbox": [
+      "51.51",
+      "87.61",
+      "356.57",
+      "102.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Côtes du Rhône, Jean-Louis Chave ‘Mon Coeur’ Rhône, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 61
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TEMPRANILLO",
+    "bbox": [
+      "51.51",
+      "125.14",
+      "111.82",
+      "140.15"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "TEMPRANILLO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$15/$45",
+    "bbox": [
+      "744.37",
+      "136.39",
+      "791.49",
+      "151.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15/$45",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bodegas Ostatu, Crianza, Rioja, Spain – 2018",
+    "bbox": [
+      "51.51",
+      "147.65",
+      "247.00",
+      "162.66"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bodegas Ostatu, Crianza, Rioja, Spain",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SWEET",
+    "bbox": [
+      "51.51",
+      "182.85",
+      "81.74",
+      "197.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GRENACHE, Shiraz; Mourvèdre",
+    "bbox": [
+      "51.51",
+      "207.69",
+      "181.56",
+      "222.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "GRENACHE, Shiraz; Mourvèdre",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$20/$80",
+    "bbox": [
+      "742.55",
+      "218.95",
+      "791.49",
+      "233.96"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$20/$80",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Seppeltsﬁeld Winery Para Grand Tawny South Australia",
+    "bbox": [
+      "51.51",
+      "230.20",
+      "293.05",
+      "245.21"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Seppeltsﬁeld Winery Para Grand Tawny South Australia",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SÉMILLON, Château du Cros",
+    "bbox": [
+      "51.51",
+      "267.73",
+      "171.71",
+      "282.74"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SÉMILLON, Château du Cros",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$25/$125",
+    "bbox": [
+      "738.35",
+      "278.98",
+      "791.49",
+      "293.99"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$25/$125",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "“La Tradition-100yr Old Vines”, Loupiac, Bordeaux – 2011",
+    "bbox": [
+      "51.51",
+      "290.24",
+      "294.94",
+      "305.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "“La Tradition-100yr Old Vines”, Loupiac, Bordeaux",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2011",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.contentonyc.com/wines-by-the-glass",
+    "bbox": [
+      "26.45",
+      "1168.70",
+      "198.97",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/2",
+    "bbox": [
+      "805.41",
+      "1168.70",
+      "816.51",
+      "1176.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

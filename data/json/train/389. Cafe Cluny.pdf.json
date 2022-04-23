@@ -1,0 +1,2189 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/21/22, 9:12 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cafe Cluny Menu — Cafe Cluny",
+    "bbox": [
+      "294.66",
+      "15.70",
+      "408.48",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "284 W 12th Street, NYC",
+    "bbox": [
+      "218.47",
+      "333.65",
+      "393.77",
+      "349.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "284 W 12th Street, NYC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Charming The West Village Since 2006",
+    "bbox": [
+      "149.88",
+      "365.00",
+      "460.87",
+      "378.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Charming The West Village Since",
+            "answer_start": 0
+          },
+          {
+            "text": "2006",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Home",
+    "bbox": [
+      "114.50",
+      "409.29",
+      "157.09",
+      "424.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Hours",
+    "bbox": [
+      "180.87",
+      "409.29",
+      "225.14",
+      "424.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menus",
+    "bbox": [
+      "248.93",
+      "409.29",
+      "295.95",
+      "424.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Safety Protocols",
+    "bbox": [
+      "319.74",
+      "409.29",
+      "440.53",
+      "424.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Gifts",
+    "bbox": [
+      "137.00",
+      "434.79",
+      "173.04",
+      "449.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Directions",
+    "bbox": [
+      "196.84",
+      "434.79",
+      "273.81",
+      "449.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sister Restaurants",
+    "bbox": [
+      "297.59",
+      "434.79",
+      "433.88",
+      "449.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Press",
+    "bbox": [
+      "457.66",
+      "434.79",
+      "495.37",
+      "449.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Contact",
+    "bbox": [
+      "137.00",
+      "460.29",
+      "195.24",
+      "475.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Delivery and Pick-Up are available from our kitchen through the",
+    "bbox": [
+      "108.75",
+      "511.54",
+      "503.50",
+      "523.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "website: OdeonDelivery.com",
+    "bbox": [
+      "220.82",
+      "525.79",
+      "391.41",
+      "537.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dinner Lunch Brunch Dessert Wine & Cocktails",
+    "bbox": [
+      "144.78",
+      "682.71",
+      "468.21",
+      "695.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cocktails",
+    "bbox": [
+      "271.51",
+      "729.10",
+      "345.69",
+      "747.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.cafecluny.com/cafe-cluny-menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "181.48",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/21/22, 9:12 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cafe Cluny Menu — Cafe Cluny",
+    "bbox": [
+      "294.66",
+      "15.70",
+      "408.48",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "The Cluny",
+    "bbox": [
+      "92.00",
+      "31.71",
+      "152.05",
+      "44.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "The Cluny",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$16",
+    "bbox": [
+      "503.77",
+      "31.74",
+      "520.99",
+      "43.74"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Ketel  One Citroen, Fresh Lemon Juice & Ginger",
+    "bbox": [
+      "92.00",
+      "51.24",
+      "335.52",
+      "63.24"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Ketel  One Citroen, Fresh Lemon Juice & Ginger",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Filthy Martini",
+    "bbox": [
+      "92.00",
+      "90.96",
+      "172.32",
+      "104.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Filthy Martini",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$16",
+    "bbox": [
+      "503.77",
+      "90.99",
+      "520.99",
+      "102.99"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Garlic Infused Vodka, Tomato Water, Olives",
+    "bbox": [
+      "92.00",
+      "110.49",
+      "314.67",
+      "122.49"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Garlic Infused Vodka, Tomato Water, Olives",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sleepy Hollow",
+    "bbox": [
+      "92.00",
+      "150.21",
+      "174.09",
+      "163.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sleepy Hollow",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$16",
+    "bbox": [
+      "503.77",
+      "150.24",
+      "520.99",
+      "162.24"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bulleit Bourbon, Cinnamon, Maple, Bitters",
+    "bbox": [
+      "92.00",
+      "169.74",
+      "310.27",
+      "181.74"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bulleit Bourbon, Cinnamon, Maple, Bitters",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pera y Romero",
+    "bbox": [
+      "92.00",
+      "209.46",
+      "177.31",
+      "222.66"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pera y Romero",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$16",
+    "bbox": [
+      "503.77",
+      "209.49",
+      "520.99",
+      "221.49"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rosemary Infused Tequila, Pear, St. Germain",
+    "bbox": [
+      "92.00",
+      "228.99",
+      "319.48",
+      "240.99"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rosemary Infused Tequila, Pear, St. Germain",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dark Roast Disco",
+    "bbox": [
+      "92.00",
+      "268.71",
+      "191.40",
+      "281.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Dark Roast Disco",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$16",
+    "bbox": [
+      "503.77",
+      "268.74",
+      "520.99",
+      "280.74"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Espresso, Vodka, Cloves, Frangelico, Kahlua",
+    "bbox": [
+      "92.00",
+      "288.24",
+      "314.19",
+      "300.24"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Espresso, Vodka, Cloves, Frangelico, Kahlua",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Haddonfield",
+    "bbox": [
+      "92.00",
+      "327.96",
+      "166.00",
+      "341.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Haddonfield",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$16",
+    "bbox": [
+      "503.77",
+      "327.99",
+      "520.99",
+      "339.99"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Myers's Dark Rum, Apple Cider, Orange Bitters",
+    "bbox": [
+      "92.00",
+      "347.49",
+      "330.60",
+      "359.49"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Myers's Dark Rum, Apple Cider, Orange Bitters",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Beer",
+    "bbox": [
+      "288.59",
+      "442.60",
+      "324.41",
+      "460.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Allagash White",
+    "bbox": [
+      "92.00",
+      "493.71",
+      "180.65",
+      "506.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Allagash White",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$10",
+    "bbox": [
+      "503.77",
+      "493.74",
+      "520.99",
+      "505.74"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$10",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Heineken",
+    "bbox": [
+      "92.00",
+      "533.46",
+      "147.70",
+      "546.66"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Heineken",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$10",
+    "bbox": [
+      "503.77",
+      "533.49",
+      "520.99",
+      "545.49"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$10",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sierra Nevada",
+    "bbox": [
+      "92.00",
+      "573.21",
+      "173.59",
+      "586.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sierra Nevada",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$10",
+    "bbox": [
+      "503.77",
+      "573.24",
+      "520.99",
+      "585.24"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$10",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Stella Artois",
+    "bbox": [
+      "92.00",
+      "612.96",
+      "162.59",
+      "626.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Stella Artois",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$10",
+    "bbox": [
+      "503.77",
+      "612.99",
+      "520.99",
+      "624.99"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$10",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Duvel",
+    "bbox": [
+      "92.00",
+      "652.71",
+      "125.83",
+      "665.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Duvel",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$14",
+    "bbox": [
+      "503.79",
+      "652.74",
+      "520.99",
+      "664.74"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Whites",
+    "bbox": [
+      "279.49",
+      "748.60",
+      "333.51",
+      "766.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.cafecluny.com/cafe-cluny-menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "181.48",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/21/22, 9:12 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cafe Cluny Menu — Cafe Cluny",
+    "bbox": [
+      "294.66",
+      "15.70",
+      "408.48",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Grigio",
+    "bbox": [
+      "92.00",
+      "64.71",
+      "164.56",
+      "77.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Grigio",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$15 / $58",
+    "bbox": [
+      "471.50",
+      "64.74",
+      "520.97",
+      "76.74"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15 / $58",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Vigneti del Sole, Veneto 2020 Italy",
+    "bbox": [
+      "92.00",
+      "84.24",
+      "265.65",
+      "96.24"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Vigneti del Sole, Veneto",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 25
+          }
+        ],
+        "w": [
+          {
+            "text": "Italy",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sancerre",
+    "bbox": [
+      "92.00",
+      "123.96",
+      "143.44",
+      "137.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sancerre",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$17 / $67",
+    "bbox": [
+      "471.59",
+      "123.99",
+      "520.95",
+      "135.99"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17 / $67",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Domaine des Coltabards, Loire Valley 2020 France",
+    "bbox": [
+      "92.00",
+      "143.49",
+      "346.74",
+      "155.49"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine des Coltabards, Loire Valley",
+            "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 42
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 37
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bordeaux Blanc",
+    "bbox": [
+      "92.00",
+      "183.21",
+      "184.68",
+      "196.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bordeaux Blanc",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$16 / $63",
+    "bbox": [
+      "471.23",
+      "183.24",
+      "520.96",
+      "195.24"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16 / $63",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chateau Gillet, Bordeaux 2020 France",
+    "bbox": [
+      "92.00",
+      "202.74",
+      "285.49",
+      "214.74"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chateau Gillet, Bordeaux",
+            "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 30
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bourgogne Chardonnay",
+    "bbox": [
+      "92.00",
+      "241.71",
+      "232.00",
+      "254.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bourgogne Chardonnay",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$17 / $67",
+    "bbox": [
+      "471.59",
+      "241.74",
+      "520.95",
+      "253.74"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17 / $67",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Famille Paquet, Burgundy, France 2020",
+    "bbox": [
+      "92.00",
+      "261.99",
+      "290.24",
+      "273.99"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Famille Paquet, Burgundy, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chardonnay",
+    "bbox": [
+      "92.00",
+      "300.96",
+      "163.79",
+      "314.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$15 / $58",
+    "bbox": [
+      "471.50",
+      "300.99",
+      "520.97",
+      "312.99"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15 / $58",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sand Point Family Vineyards, Lodi 2019 California",
+    "bbox": [
+      "92.00",
+      "321.24",
+      "344.67",
+      "333.24"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sand Point Family Vineyards, Lodi",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 34
+          }
+        ],
+        "w": [
+          {
+            "text": "California",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chablis Premier Cru",
+    "bbox": [
+      "92.00",
+      "360.21",
+      "211.83",
+      "373.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chablis Premier Cru",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$96",
+    "bbox": [
+      "501.98",
+      "360.24",
+      "520.98",
+      "372.24"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$96",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Beauroy, Burgundy 2018 France",
+    "bbox": [
+      "92.00",
+      "379.74",
+      "251.83",
+      "391.74"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Beauroy, Burgundy 2018",
+            "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 23
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Reds",
+    "bbox": [
+      "288.31",
+      "475.60",
+      "324.69",
+      "493.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Noir",
+    "bbox": [
+      "92.00",
+      "526.71",
+      "153.34",
+      "539.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$17 / $67",
+    "bbox": [
+      "471.59",
+      "526.74",
+      "520.95",
+      "538.74"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17 / $67",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Ashlyn, Willamette 2019 Oregon",
+    "bbox": [
+      "92.00",
+      "546.24",
+      "256.27",
+      "558.24"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Ashlyn, Willamette",
+            "answer_start": 0
+          },
+          {
+            "text": "Oregon",
+            "answer_start": 24
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Côtes du Rhône",
+    "bbox": [
+      "92.00",
+      "585.96",
+      "184.85",
+      "599.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Côtes du Rhône",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$15 / $59",
+    "bbox": [
+      "471.52",
+      "585.99",
+      "520.96",
+      "597.99"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15 / $59",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Xavier Vignon, Rhone 2020 France",
+    "bbox": [
+      "92.00",
+      "605.49",
+      "269.20",
+      "617.49"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Xavier Vignon, Rhone",
+            "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 26
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Malbec",
+    "bbox": [
+      "92.00",
+      "644.46",
+      "134.03",
+      "657.66"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Malbec",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$16 / $63",
+    "bbox": [
+      "471.23",
+      "644.49",
+      "520.96",
+      "656.49"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16 / $63",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Fabre Montmayou, Mendoza 2020 Argentina",
+    "bbox": [
+      "92.00",
+      "664.74",
+      "317.64",
+      "676.74"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Fabre Montmayou, Mendoza",
+            "answer_start": 0
+          },
+          {
+            "text": "Argentina",
+            "answer_start": 30
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bourdeaux",
+    "bbox": [
+      "92.00",
+      "703.71",
+      "156.51",
+      "716.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$16 / $63",
+    "bbox": [
+      "471.23",
+      "703.74",
+      "520.96",
+      "715.74"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16 / $63",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Tellus Vinea, Bourdeaux, France 2020",
+    "bbox": [
+      "92.00",
+      "723.24",
+      "283.84",
+      "735.24"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.cafecluny.com/cafe-cluny-menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "181.48",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/21/22, 9:12 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cafe Cluny Menu — Cafe Cluny",
+    "bbox": [
+      "294.66",
+      "15.70",
+      "408.48",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cabernet Sauvignon",
+    "bbox": [
+      "92.00",
+      "31.71",
+      "210.11",
+      "44.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$16 / $63",
+    "bbox": [
+      "471.23",
+      "31.74",
+      "520.96",
+      "43.74"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16 / $63",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Anahata, Columbia Valley 2017 Oregon (Organic)",
+    "bbox": [
+      "92.00",
+      "51.24",
+      "344.50",
+      "63.24"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Anahata, Columbia Valley",
+            "answer_start": 0
+          },
+          {
+            "text": "Oregon (Organic)",
+            "answer_start": 30
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Nuits-Saint-Georges",
+    "bbox": [
+      "92.00",
+      "90.96",
+      "208.49",
+      "104.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Nuits-Saint-Georges",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$140",
+    "bbox": [
+      "497.62",
+      "90.99",
+      "520.99",
+      "102.99"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$140",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Domaine Julien Gérard et Fils, Burgundy 2018 France",
+    "bbox": [
+      "92.00",
+      "110.49",
+      "361.95",
+      "122.49"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Julien Gérard et Fils, Burgundy",
+            "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 45
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Barolo",
+    "bbox": [
+      "92.00",
+      "150.21",
+      "131.11",
+      "163.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Barolo",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$130",
+    "bbox": [
+      "497.97",
+      "150.24",
+      "520.98",
+      "162.24"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$130",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Eraldo Vibert, La Morra 2017 Italy",
+    "bbox": [
+      "92.00",
+      "169.74",
+      "263.96",
+      "181.74"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Eraldo Vibert, La Morra",
+            "answer_start": 0
+          },
+          {
+            "text": "Italy",
+            "answer_start": 29
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Rosé",
+    "bbox": [
+      "288.34",
+      "265.60",
+      "324.66",
+      "283.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Rosé",
+    "bbox": [
+      "92.00",
+      "315.96",
+      "119.77",
+      "329.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rosé",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$16 / $62",
+    "bbox": [
+      "471.11",
+      "315.99",
+      "520.97",
+      "327.99"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16 / $62",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Récital Gavoty, Provence, 2020 France",
+    "bbox": [
+      "92.00",
+      "335.49",
+      "283.96",
+      "347.49"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 26
+          }
+        ],
+        "W": [
+          {
+            "text": "France",
+            "answer_start": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Bubbly",
+    "bbox": [
+      "280.18",
+      "431.35",
+      "332.83",
+      "449.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "De Perrier Brut",
+    "bbox": [
+      "92.00",
+      "481.71",
+      "182.25",
+      "494.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$15 / $58",
+    "bbox": [
+      "471.50",
+      "481.74",
+      "520.97",
+      "493.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Maconnais, France",
+    "bbox": [
+      "92.00",
+      "501.99",
+      "186.57",
+      "513.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chapuy",
+    "bbox": [
+      "92.00",
+      "540.96",
+      "136.35",
+      "554.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$18 / $70",
+    "bbox": [
+      "471.32",
+      "540.99",
+      "520.96",
+      "552.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Brut, Champagne, France",
+    "bbox": [
+      "92.00",
+      "560.49",
+      "222.87",
+      "572.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Prices subject to change for special events & holidays",
+    "bbox": [
+      "106.17",
+      "656.35",
+      "506.83",
+      "674.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.cafecluny.com/cafe-cluny-menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "181.48",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/21/22, 9:12 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cafe Cluny Menu — Cafe Cluny",
+    "bbox": [
+      "294.66",
+      "15.70",
+      "408.48",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "If you do not find your desired reservation via OpenTable, please call",
+    "bbox": [
+      "129.77",
+      "42.24",
+      "483.24",
+      "54.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(212) 255-6900",
+    "bbox": [
+      "243.61",
+      "69.85",
+      "369.25",
+      "87.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "and we will do our best to accommodate you.",
+    "bbox": [
+      "192.32",
+      "88.74",
+      "420.68",
+      "100.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.cafecluny.com/cafe-cluny-menu",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "181.48",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

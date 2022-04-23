@@ -129,14 +129,14 @@
       {
         "w": [
           {
-            "text": "MARQUIS DE LA TOUR -",
-            "answer_start": 4
+            "text": "MARQUIS DE LA TOUR - BRUT,",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "B",
-            "answer_start": 25
+            "text": "NV",
+            "answer_start": 32
           }
         ]
       }
@@ -175,14 +175,14 @@
       {
         "w": [
           {
-            "text": "MARQUIS DE LA TOUR - ROS",
-            "answer_start": 4
+            "text": "MARQUIS DE LA TOUR - ROSÉ BRUT,",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "É",
-            "answer_start": 29
+            "text": "NV",
+            "answer_start": 37
           }
         ]
       }
@@ -221,14 +221,14 @@
       {
         "w": [
           {
-            "text": "DOMAINE CAMILLE BRAUN - CRÉMANT D'ALSAC",
-            "answer_start": 4
+            "text": "DOMAINE CAMILLE BRAUN - CRÉMANT D'ALSACE BRUT,",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "E",
-            "answer_start": 44
+            "text": "NV",
+            "answer_start": 52
           }
         ]
       }
@@ -267,14 +267,14 @@
       {
         "w": [
           {
-            "text": "DOMAINE CAMILLE BRAUN - CRÉMANT D'ALSA",
-            "answer_start": 4
+            "text": "DOMAINE CAMILLE BRAUN - CRÉMANT D'ALSACE ROSÉ",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "E",
-            "answer_start": 44
+            "text": "NV",
+            "answer_start": 52
           }
         ]
       }
@@ -313,14 +313,14 @@
       {
         "w": [
           {
-            "text": "VOLLEREAUX - BR",
-            "answer_start": 4
+            "text": "VOLLEREAUX - BRUT,",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "UT",
-            "answer_start": 20
+            "text": "NV",
+            "answer_start": 24
           }
         ]
       }
@@ -359,14 +359,14 @@
       {
         "w": [
           {
-            "text": "POL ROGER - BRUT RESERVE \"WHIT",
-            "answer_start": 4
+            "text": "POL ROGER - BRUT RESERVE \"WHITE FOIL\"",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "F",
-            "answer_start": 36
+            "text": "NV",
+            "answer_start": 44
           }
         ]
       }
@@ -405,14 +405,14 @@
       {
         "w": [
           {
-            "text": "TAITTINGER 'LA FRANCAISE' -",
-            "answer_start": 4
+            "text": "TAITTINGER 'LA FRANCAISE' - BRUT,",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "BR",
-            "answer_start": 33
+            "text": "NV",
+            "answer_start": 39
           }
         ]
       }
@@ -451,14 +451,14 @@
       {
         "w": [
           {
-            "text": "MOËT & CHANDON \"IMPÉRIAL\" -",
-            "answer_start": 4
+            "text": "MOËT & CHANDON \"IMPÉRIAL\" - BRUT,",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "B",
-            "answer_start": 32
+            "text": "NV",
+            "answer_start": 39
           }
         ]
       }
@@ -497,14 +497,14 @@
       {
         "w": [
           {
-            "text": "VEUVE CLICQUOT \"YELLOW LABEL\" -",
-            "answer_start": 4
+            "text": "VEUVE CLICQUOT \"YELLOW LABEL\" - BRUT,",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "B",
-            "answer_start": 36
+            "text": "NV",
+            "answer_start": 43
           }
         ]
       }
@@ -543,14 +543,14 @@
       {
         "w": [
           {
-            "text": "TAITTINGER \"PRESTIGE\" - BRUT",
-            "answer_start": 4
+            "text": "TAITTINGER \"PRESTIGE\" - BRUT ROSE",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "RO",
-            "answer_start": 34
+            "text": "NV",
+            "answer_start": 40
           }
         ]
       }
@@ -641,14 +641,14 @@
       {
         "w": [
           {
-            "text": "BOLLINGER \"SPECIAL CUVÉE\" -",
-            "answer_start": 4
+            "text": "BOLLINGER \"SPECIAL CUVÉE\" - BRUT,",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "BR",
-            "answer_start": 33
+            "text": "NV",
+            "answer_start": 39
           }
         ]
       }
@@ -687,14 +687,14 @@
       {
         "w": [
           {
-            "text": "POL ROGER - BRUT",
-            "answer_start": 4
+            "text": "POL ROGER - BRUT ROSÉ",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "RO",
-            "answer_start": 22
+            "text": "09",
+            "answer_start": 28
           }
         ]
       }
@@ -733,14 +733,14 @@
       {
         "w": [
           {
-            "text": "PERRIER-JOUËT \"FLEUR DE CHAMPAGNE\" -",
-            "answer_start": 4
+            "text": "PERRIER-JOUËT \"FLEUR DE CHAMPAGNE\" - BRUT,",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "B",
-            "answer_start": 41
+            "text": "12",
+            "answer_start": 48
           }
         ]
       }
@@ -779,14 +779,14 @@
       {
         "w": [
           {
-            "text": "DOM PÉRIGNON - B",
-            "answer_start": 4
+            "text": "DOM PÉRIGNON - BRUT,",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "RU",
-            "answer_start": 21
+            "text": "10",
+            "answer_start": 26
           }
         ]
       }
@@ -851,14 +851,14 @@
       {
         "w": [
           {
-            "text": "MÂCON-VILLAGES - JOSEPH DROU",
-            "answer_start": 4
+            "text": "MÂCON-VILLAGES - JOSEPH DROUHIN,",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "HI",
-            "answer_start": 33
+            "text": "19",
+            "answer_start": 38
           }
         ]
       }
@@ -897,14 +897,14 @@
       {
         "w": [
           {
-            "text": "CHARDONNAY - LES VIGNERONS RÉ",
-            "answer_start": 4
+            "text": "CHARDONNAY - LES VIGNERONS RÉUNIS,",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "UNIS,",
-            "answer_start": 34
+            "text": "16/18",
+            "answer_start": 40
           }
         ]
       }
@@ -943,14 +943,14 @@
       {
         "w": [
           {
-            "text": "MÂCON-LUGNY- ALBERT BICHOT \"LES CHA",
-            "answer_start": 4
+            "text": "MÂCON-LUGNY- ALBERT BICHOT \"LES CHARMES\"",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "ME",
-            "answer_start": 41
+            "text": "18",
+            "answer_start": 47
           }
         ]
       }
@@ -989,14 +989,14 @@
       {
         "w": [
           {
-            "text": "ST. VÉRAN - JOSEPH DRO",
-            "answer_start": 4
+            "text": "ST. VÉRAN - JOSEPH DROUHIN,",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "UH",
-            "answer_start": 27
+            "text": "19",
+            "answer_start": 33
           }
         ]
       }
@@ -1035,14 +1035,14 @@
       {
         "w": [
           {
-            "text": "CHABLIS - MAISON SIMMONET-FE",
-            "answer_start": 4
+            "text": "CHABLIS - MAISON SIMMONET-FEBVRE",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "VR",
-            "answer_start": 34
+            "text": "19",
+            "answer_start": 39
           }
         ]
       }
@@ -1081,14 +1081,14 @@
       {
         "w": [
           {
-            "text": "MARSANNAY - LOUIS LAT",
-            "answer_start": 4
+            "text": "MARSANNAY - LOUIS LATOUR,",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "OU",
-            "answer_start": 26
+            "text": "15",
+            "answer_start": 31
           }
         ]
       }
@@ -1127,14 +1127,14 @@
       {
         "w": [
           {
-            "text": "POUILLY-FUISSÉ - J.J. VINCENT \"MARIE ANTOIN",
-            "answer_start": 4
+            "text": "POUILLY-FUISSÉ - J.J. VINCENT \"MARIE ANTOINETTE\",",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "ET",
-            "answer_start": 48
+            "text": "19",
+            "answer_start": 55
           }
         ]
       }
@@ -1173,14 +1173,14 @@
       {
         "w": [
           {
-            "text": "CHABLIS - SIMMONET-FEBVRE 1ER CRU VAI",
-            "answer_start": 4
+            "text": "CHABLIS - SIMMONET-FEBVRE 1ER CRU VAILLONS,",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "LL",
-            "answer_start": 42
+            "text": "18",
+            "answer_start": 49
           }
         ]
       }
@@ -1219,14 +1219,14 @@
       {
         "w": [
           {
-            "text": "CHABLIS 1ER CRU - ALBERT BICHOT \"LES VA",
-            "answer_start": 4
+            "text": "CHABLIS 1ER CRU - ALBERT BICHOT \"LES VAILLONS\",",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "ILLON",
-            "answer_start": 44
+            "text": "16/19",
+            "answer_start": 53
           }
         ]
       }
@@ -1265,19 +1265,19 @@
       {
         "w": [
           {
-            "text": "LY-FUISSÉ - CHÂTEAU-FUISSÉ \"TÊTE DE CUVÉE\",",
-            "answer_start": 10
+            "text": "Y-FUISSÉ - CHÂTEAU-FUISSÉ \"TÊTE DE CUVÉE\", 18/191",
+            "answer_start": 11
           }
         ],
         "v": [
           {
-            "text": "18/1",
-            "answer_start": 53
+            "text": "29.00",
+            "answer_start": 60
           }
         ],
         "p": [
           {
-            "text": "2210 P",
+            "text": "2210 PO",
             "answer_start": 0
           }
         ]
@@ -1297,14 +1297,14 @@
       {
         "w": [
           {
-            "text": "MEURSAULT - ALBERT BIC",
-            "answer_start": 4
+            "text": "MEURSAULT - ALBERT BICHOT,",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "HO",
-            "answer_start": 27
+            "text": "19",
+            "answer_start": 32
           }
         ]
       }
@@ -1343,14 +1343,14 @@
       {
         "w": [
           {
-            "text": "CHASSAGNE-MONTRACHET - ALBERT BIC",
-            "answer_start": 4
+            "text": "CHASSAGNE-MONTRACHET - ALBERT BICHOT,",
+            "answer_start": 5
           }
         ],
         "v": [
           {
-            "text": "HO",
-            "answer_start": 38
+            "text": "19",
+            "answer_start": 43
           }
         ]
       }

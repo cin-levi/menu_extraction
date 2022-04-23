@@ -4645,7 +4645,14 @@
       "170.75"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Lambrusco",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4658,7 +4665,14 @@
       "170.75"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Emilia Romagna",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4744,7 +4758,14 @@
       "200.27"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Veneto",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4817,7 +4838,14 @@
       "229.55"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Glera, Pinot Noir",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4830,7 +4858,14 @@
       "229.55"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Veneto",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4903,7 +4938,14 @@
       "258.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Cortese",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -4916,7 +4958,14 @@
       "258.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Piemonte",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5002,7 +5051,14 @@
       "319.79"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Aglianico",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5015,7 +5071,14 @@
       "319.79"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Campania",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5101,7 +5164,14 @@
       "380.75"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Pinot Bianco",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5114,7 +5184,14 @@
       "380.75"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Alto Adige",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5200,7 +5277,14 @@
       "410.03"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Friuli Venezia Giulia",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5286,7 +5370,14 @@
       "439.31"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Piemonte",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5359,7 +5450,14 @@
       "468.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Catarratto",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5372,7 +5470,14 @@
       "468.83"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Sicilia",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5445,7 +5550,14 @@
       "498.11"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Vermentino",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5458,7 +5570,14 @@
       "498.11"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Toscana",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5531,7 +5650,14 @@
       "527.39"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Garganega",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5544,7 +5670,14 @@
       "527.39"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Veneto",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5630,7 +5763,14 @@
       "588.35"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Dolcetto",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5643,7 +5783,14 @@
       "588.35"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Piemonte",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5716,7 +5863,14 @@
       "617.63"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Nebbiolo",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5729,7 +5883,14 @@
       "617.63"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Piemonte",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5802,7 +5963,14 @@
       "646.91"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Cannonau",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5815,7 +5983,14 @@
       "646.91"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Sardegna",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5888,7 +6063,14 @@
       "676.19"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Nerello Mascalese",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5901,7 +6083,14 @@
       "676.19"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Sicilia",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5974,7 +6163,14 @@
       "705.47"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon, Merlot, Cabernet Franc",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -5987,7 +6183,14 @@
       "705.47"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Toscana",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6099,7 +6302,14 @@
       "190.19"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Lambrusco",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6112,7 +6322,14 @@
       "190.19"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Emilia Romagna",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6185,7 +6402,14 @@
       "234.11"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Lambrusco",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6198,7 +6422,14 @@
       "234.11"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Emilia Romagna",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6271,7 +6502,14 @@
       "278.03"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Glera, Pinot Bianco, Chardonnay",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6284,7 +6522,14 @@
       "278.03"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Veneto",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6357,7 +6602,14 @@
       "321.95"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Glera",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6370,7 +6622,14 @@
       "321.95"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Veneto",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6443,7 +6702,14 @@
       "365.87"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Glera, Pinot Noir",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6456,7 +6722,14 @@
       "365.87"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Veneto",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6542,7 +6815,14 @@
       "473.39"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Chardonnay, Pinot Nero",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6555,7 +6835,14 @@
       "473.39"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Alto Adige",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6628,7 +6915,14 @@
       "517.31"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Chardonnay",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6641,7 +6935,14 @@
       "517.31"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Alto Adige",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6714,7 +7015,14 @@
       "546.59"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Pinot Nero",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6727,7 +7035,14 @@
       "546.59"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Alto Adige",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6800,7 +7115,14 @@
       "575.87"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Chardonnay",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6813,7 +7135,14 @@
       "575.87"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Alto Adige",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6886,7 +7215,14 @@
       "619.79"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Cortese",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6899,7 +7235,14 @@
       "619.79"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Piemonte",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6972,7 +7315,14 @@
       "649.07"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Pinot Nero, Chardonnay",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -6985,7 +7335,14 @@
       "649.07"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Piemonte",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -7058,7 +7415,14 @@
       "678.35"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Nebbiolo",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -7071,7 +7435,14 @@
       "678.35"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Piemonte",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

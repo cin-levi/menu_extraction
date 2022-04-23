@@ -2384,6 +2384,12 @@
             "text": "2017",
             "answer_start": 36
           }
+        ],
+        "W": [
+          {
+            "text": "Sicilia",
+            "answer_start": 42
+          }
         ]
       }
     ]
@@ -2423,6 +2429,10 @@
           {
             "text": "Brunello di Montalcino, La Togata",
             "answer_start": 0
+          },
+          {
+            "text": "Toscana",
+            "answer_start": 40
           }
         ],
         "V": [
@@ -2469,6 +2479,10 @@
           {
             "text": "Barolo, Vigna Villero, Pugnane",
             "answer_start": 0
+          },
+          {
+            "text": "Piemonte",
+            "answer_start": 37
           }
         ],
         "V": [
@@ -2515,6 +2529,10 @@
           {
             "text": "Guidalberto, Tenuta San Guido",
             "answer_start": 0
+          },
+          {
+            "text": "Toscana",
+            "answer_start": 36
           }
         ],
         "V": [

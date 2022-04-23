@@ -407,7 +407,14 @@
       "113.00"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "MINUTOLO BLANCO",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -425,6 +432,12 @@
           {
             "text": "2018",
             "answer_start": 45
+          }
+        ],
+        "W": [
+          {
+            "text": "Alture, Cantine Paolo Leo, Valle D’Itria, IT",
+            "answer_start": 0
           }
         ]
       }

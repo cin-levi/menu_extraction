@@ -946,6 +946,10 @@
           {
             "text": "20",
             "answer_start": 50
+          },
+          {
+            "text": "20",
+            "answer_start": 50
           }
         ]
       }
@@ -1080,16 +1084,20 @@
     ],
     "annots": [
       {
-        "W": [
-          {
-            "text": "ILVER PEAK, CABERNET SAUVIGNON , CALIFORNIA",
-            "answer_start": 1
-          }
-        ],
         "V": [
           {
             "text": "‘19",
             "answer_start": 45
+          },
+          {
+            "text": "‘19",
+            "answer_start": 45
+          }
+        ],
+        "W": [
+          {
+            "text": "SILVER PEAK, CABERNET SAUVIGNON , CALIFORNIA",
+            "answer_start": 0
           }
         ]
       }
@@ -1146,6 +1154,10 @@
           }
         ],
         "V": [
+          {
+            "text": "'19",
+            "answer_start": 27
+          },
           {
             "text": "'19",
             "answer_start": 27
@@ -1261,6 +1273,12 @@
           {
             "text": "MERLOT DELOACH, CA",
             "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "'19",
+            "answer_start": 19
           }
         ]
       }

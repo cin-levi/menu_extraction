@@ -443,15 +443,15 @@
     ],
     "annots": [
       {
-        "W": [
-          {
-            "text": "NVVazart-Coquart Champagne Grand Cru Blanc de Blancs Demi Sec",
-            "answer_start": 0
-          }
-        ],
         "V": [
           {
             "text": "NV",
+            "answer_start": 0
+          }
+        ],
+        "W": [
+          {
+            "text": "NVVazart-Coquart Champagne Grand Cru Blanc de Blancs Demi Sec",
             "answer_start": 0
           }
         ]

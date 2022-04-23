@@ -1345,6 +1345,10 @@
       {
         "W": [
           {
+            "text": "MIRAVAL ROSÉ",
+            "answer_start": 0
+          },
+          {
             "text": "MIRAVAL",
             "answer_start": 0
           }
@@ -1362,7 +1366,14 @@
       "530.76"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "cotes de provence, france",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {

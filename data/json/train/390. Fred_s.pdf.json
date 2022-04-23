@@ -1,0 +1,1719 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/21/22, 9:13 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menus | Fred's Restaurant",
+    "bbox": [
+      "304.64",
+      "15.70",
+      "398.51",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "M",
+    "bbox": [
+      "254.71",
+      "418.25",
+      "277.36",
+      "448.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "EN",
+    "bbox": [
+      "278.86",
+      "418.25",
+      "316.87",
+      "448.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "U",
+    "bbox": [
+      "318.37",
+      "418.25",
+      "337.54",
+      "448.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "S",
+    "bbox": [
+      "339.04",
+      "418.25",
+      "356.77",
+      "448.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "65.76",
+      "429.61",
+      "79.15",
+      "467.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "533.80",
+      "429.61",
+      "547.19",
+      "467.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CALL (212) 579-3076",
+    "bbox": [
+      "250.24",
+      "708.95",
+      "362.01",
+      "719.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "294.44",
+      "719.86",
+      "318.55",
+      "757.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "267.91",
+      "740.45",
+      "344.33",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.fredsnyc.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "178.95",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/21/22, 9:13 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menus | Fred's Restaurant",
+    "bbox": [
+      "304.64",
+      "15.70",
+      "398.51",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "89.25",
+      "100.70",
+      "157.88",
+      "111.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DINNER",
+    "bbox": [
+      "195.09",
+      "100.70",
+      "235.21",
+      "111.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BRUNCH",
+    "bbox": [
+      "272.42",
+      "100.70",
+      "316.49",
+      "111.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "COCKTAILS",
+    "bbox": [
+      "353.70",
+      "100.70",
+      "411.81",
+      "111.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BEER & CIDER",
+    "bbox": [
+      "449.02",
+      "100.70",
+      "523.00",
+      "111.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WINE",
+    "bbox": [
+      "146.97",
+      "143.45",
+      "174.03",
+      "154.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "KID'S DINNER MENU",
+    "bbox": [
+      "213.49",
+      "143.45",
+      "319.92",
+      "154.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "KID'S BRUNCH MENU",
+    "bbox": [
+      "357.14",
+      "143.45",
+      "467.51",
+      "154.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BUBBLES",
+    "bbox": [
+      "263.96",
+      "242.75",
+      "347.53",
+      "260.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PROSECCO",
+    "bbox": [
+      "268.02",
+      "302.00",
+      "344.23",
+      "317.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PROSECCO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bottega, Italy",
+    "bbox": [
+      "266.29",
+      "326.32",
+      "345.97",
+      "338.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bottega, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1/4 Bottle 10",
+    "bbox": [
+      "269.34",
+      "344.32",
+      "342.91",
+      "356.32"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "1/4 Bottle 10",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROSÉ",
+    "bbox": [
+      "287.09",
+      "390.50",
+      "325.16",
+      "405.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ROSÉ",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Domaine Chandon, California, NV",
+    "bbox": [
+      "205.21",
+      "414.82",
+      "407.04",
+      "426.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Chandon, California,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1/4 Bottle 10",
+    "bbox": [
+      "269.34",
+      "432.82",
+      "342.91",
+      "444.82"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "1/4 Bottle 10",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "VEUVE CLICQUOT",
+    "bbox": [
+      "245.22",
+      "479.00",
+      "367.02",
+      "494.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VEUVE CLICQUOT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Champagne, France",
+    "bbox": [
+      "247.03",
+      "503.32",
+      "365.23",
+      "515.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1/2 Bottle 36",
+    "bbox": [
+      "269.34",
+      "521.32",
+      "342.91",
+      "533.32"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "1/2 Bottle 36",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROSÉ",
+    "bbox": [
+      "282.01",
+      "599.75",
+      "329.49",
+      "617.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "JOSH CELLARS, CALIFORNIA, 2020",
+    "bbox": [
+      "182.70",
+      "659.75",
+      "429.56",
+      "674.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "JOSH CELLARS, CALIFORNIA,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Glass 10",
+    "bbox": [
+      "282.39",
+      "684.07",
+      "329.86",
+      "696.07"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "Glass 10",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bottle 38",
+    "bbox": [
+      "280.21",
+      "702.07",
+      "332.03",
+      "714.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CALL (212) 579-3076",
+    "bbox": [
+      "250.24",
+      "708.95",
+      "362.01",
+      "719.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "267.91",
+      "740.45",
+      "344.33",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.fredsnyc.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "178.95",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/21/22, 9:13 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Menus | Fred's Restaurant",
+    "bbox": [
+      "304.64",
+      "15.70",
+      "398.51",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WHITE",
+    "bbox": [
+      "277.25",
+      "45.50",
+      "334.24",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PINOT GRIGIO",
+    "bbox": [
+      "257.84",
+      "104.75",
+      "354.40",
+      "119.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT GRIGIO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Imperiale, Italy",
+    "bbox": [
+      "259.41",
+      "129.07",
+      "352.84",
+      "141.07"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Imperiale, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "9",
+    "bbox": [
+      "303.17",
+      "147.07",
+      "309.09",
+      "159.07"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "9",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "34",
+    "bbox": [
+      "299.83",
+      "165.07",
+      "312.41",
+      "177.07"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "34",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MUSCADET",
+    "bbox": [
+      "266.89",
+      "211.25",
+      "345.36",
+      "226.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MUSCADET",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Hautes Noelles \"Les Granges,\" France",
+    "bbox": [
+      "193.32",
+      "235.57",
+      "418.93",
+      "247.57"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Hautes Noelles \"Les Granges,\" France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "14",
+    "bbox": [
+      "299.83",
+      "253.57",
+      "312.41",
+      "265.57"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "54",
+    "bbox": [
+      "299.83",
+      "271.57",
+      "312.41",
+      "283.57"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "54",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "237.96",
+      "317.75",
+      "374.29",
+      "332.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Murphy Goode, California",
+    "bbox": [
+      "228.89",
+      "342.07",
+      "383.37",
+      "354.07"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Murphy Goode, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "10",
+    "bbox": [
+      "299.83",
+      "360.07",
+      "312.41",
+      "372.07"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "10",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "38",
+    "bbox": [
+      "299.83",
+      "378.07",
+      "312.41",
+      "390.07"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "38",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "237.96",
+      "424.25",
+      "374.29",
+      "439.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "The Crossings, Marlbourough New Zealand",
+    "bbox": [
+      "177.70",
+      "448.57",
+      "434.55",
+      "460.57"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "The Crossings, Marlbourough New Zealand",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "12",
+    "bbox": [
+      "299.83",
+      "466.57",
+      "312.41",
+      "478.57"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "46",
+    "bbox": [
+      "299.83",
+      "484.57",
+      "312.41",
+      "496.57"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "46",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "257.25",
+      "530.75",
+      "355.00",
+      "545.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          },
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bliss, California",
+    "bbox": [
+      "258.45",
+      "555.07",
+      "353.81",
+      "567.07"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bliss, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "12",
+    "bbox": [
+      "299.83",
+      "573.07",
+      "312.41",
+      "585.07"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "46",
+    "bbox": [
+      "299.83",
+      "591.07",
+      "312.41",
+      "603.07"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "46",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RED",
+    "bbox": [
+      "288.02",
+      "669.50",
+      "323.47",
+      "687.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CALL (212) 579-3076",
+    "bbox": [
+      "250.24",
+      "708.95",
+      "362.01",
+      "719.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "223.77",
+      "728.75",
+      "388.48",
+      "743.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "267.91",
+      "740.45",
+      "344.33",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.fredsnyc.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "178.95",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/21/22, 9:13 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Menus | Fred's Restaurant",
+    "bbox": [
+      "304.64",
+      "15.70",
+      "398.51",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Gnarly Head, California",
+    "bbox": [
+      "235.43",
+      "32.32",
+      "376.82",
+      "44.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "10",
+    "bbox": [
+      "299.83",
+      "50.32",
+      "312.41",
+      "62.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "38",
+    "bbox": [
+      "299.83",
+      "68.32",
+      "312.41",
+      "80.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RIOJA",
+    "bbox": [
+      "285.30",
+      "114.50",
+      "326.94",
+      "129.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RIOJA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Marques de Caceres Reserva, Spain",
+    "bbox": [
+      "200.50",
+      "138.82",
+      "411.75",
+      "150.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Marques de Caceres Reserva, Spain",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "16",
+    "bbox": [
+      "299.83",
+      "156.82",
+      "312.41",
+      "168.82"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "60",
+    "bbox": [
+      "299.83",
+      "174.82",
+      "312.41",
+      "186.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "GARNACHA",
+    "bbox": [
+      "266.82",
+      "221.00",
+      "345.42",
+      "236.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "GARNACHA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Castillo Monjardin, Spain",
+    "bbox": [
+      "230.39",
+      "245.32",
+      "381.87",
+      "257.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Castillo Monjardin, Spain",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "8",
+    "bbox": [
+      "303.17",
+      "263.32",
+      "309.09",
+      "275.32"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "8",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "34",
+    "bbox": [
+      "299.83",
+      "281.32",
+      "312.41",
+      "293.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "264.91",
+      "327.50",
+      "347.35",
+      "342.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT NOIR",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Noble Vines 667",
+    "bbox": [
+      "258.71",
+      "351.82",
+      "353.55",
+      "363.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Noble Vines 667",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "12",
+    "bbox": [
+      "299.83",
+      "369.82",
+      "312.41",
+      "381.82"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "46",
+    "bbox": [
+      "299.83",
+      "387.82",
+      "312.41",
+      "399.82"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "46",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RIOJA",
+    "bbox": [
+      "285.30",
+      "434.00",
+      "326.94",
+      "449.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RIOJA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Marques de Caceres, Spain",
+    "bbox": [
+      "226.03",
+      "458.32",
+      "386.23",
+      "470.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Marques de Caceres, Spain",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "12",
+    "bbox": [
+      "299.83",
+      "476.32",
+      "312.41",
+      "488.32"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "46",
+    "bbox": [
+      "299.83",
+      "494.32",
+      "312.41",
+      "506.32"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "46",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MALBEC",
+    "bbox": [
+      "277.00",
+      "540.50",
+      "335.25",
+      "555.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MALBEC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Elevation 624, Argentina",
+    "bbox": [
+      "232.95",
+      "564.82",
+      "379.29",
+      "576.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Elevation 624, Argentina",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "10",
+    "bbox": [
+      "299.83",
+      "582.82",
+      "312.41",
+      "594.82"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "10",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "38",
+    "bbox": [
+      "299.83",
+      "600.82",
+      "312.41",
+      "612.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CALL (212) 579-3076",
+    "bbox": [
+      "250.24",
+      "708.95",
+      "362.01",
+      "719.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "267.91",
+      "740.45",
+      "344.33",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.fredsnyc.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "178.95",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/21/22, 9:13 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Menus | Fred's Restaurant",
+    "bbox": [
+      "304.64",
+      "15.70",
+      "398.51",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CALL (212) 579-3076",
+    "bbox": [
+      "250.24",
+      "708.95",
+      "362.01",
+      "719.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "267.91",
+      "740.45",
+      "344.33",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.fredsnyc.com/menus/#wine-list",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "178.95",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

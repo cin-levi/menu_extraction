@@ -1,0 +1,2685 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/17/22, 10:44 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menus | Amali",
+    "bbox": [
+      "328.53",
+      "15.70",
+      "379.07",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "M",
+    "bbox": [
+      "250.02",
+      "618.81",
+      "281.01",
+      "672.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "EN",
+    "bbox": [
+      "281.01",
+      "618.81",
+      "321.03",
+      "672.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "U",
+    "bbox": [
+      "321.03",
+      "618.81",
+      "343.00",
+      "672.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "S",
+    "bbox": [
+      "343.00",
+      "618.81",
+      "362.98",
+      "672.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "259.03",
+      "740.45",
+      "353.22",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.amalinyc.com/menus/#wines-by-the-glass-beer",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "236.75",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/17/22, 10:44 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menus | Amali",
+    "bbox": [
+      "328.53",
+      "15.70",
+      "379.07",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DINNER",
+    "bbox": [
+      "99.85",
+      "36.95",
+      "148.50",
+      "47.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LUNCH MENU",
+    "bbox": [
+      "187.98",
+      "36.95",
+      "272.67",
+      "47.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BRUNCH",
+    "bbox": [
+      "312.15",
+      "36.95",
+      "365.82",
+      "47.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LUNCH PRIX FIXE",
+    "bbox": [
+      "405.29",
+      "36.95",
+      "512.40",
+      "47.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DESSERT",
+    "bbox": [
+      "129.77",
+      "81.95",
+      "185.16",
+      "92.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "COCKTAILS, WINES BY THE GLASS & BEER",
+    "bbox": [
+      "224.63",
+      "81.95",
+      "482.46",
+      "92.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WINES BY THE BOTTLE",
+    "bbox": [
+      "235.52",
+      "126.20",
+      "376.72",
+      "137.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPARKLING",
+    "bbox": [
+      "54.31",
+      "194.53",
+      "147.82",
+      "221.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PINOT NOIR/CHARD",
+    "bbox": [
+      "54.31",
+      "278.37",
+      "229.15",
+      "295.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT NOIR/CHARD",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Veuve clicquot 'yellow label' nv",
+    "bbox": [
+      "54.31",
+      "303.50",
+      "257.72",
+      "317.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Veuve clicquot 'yellow label'",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "nv",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "28",
+    "bbox": [
+      "54.31",
+      "323.75",
+      "71.19",
+      "337.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "28",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "XINOMAVRO",
+    "bbox": [
+      "54.31",
+      "364.62",
+      "164.44",
+      "381.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "XINOMAVRO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rosé, kir-yianni, 'akakies', macedonia",
+    "bbox": [
+      "54.31",
+      "389.75",
+      "296.88",
+      "403.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rosé, kir-yianni, 'akakies', macedonia",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "17",
+    "bbox": [
+      "54.31",
+      "410.00",
+      "67.97",
+      "423.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WHITE WINES",
+    "bbox": [
+      "54.31",
+      "501.28",
+      "170.97",
+      "528.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ASSYRTIKO",
+    "bbox": [
+      "54.31",
+      "585.12",
+      "151.20",
+      "602.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ASSYRTIKO",
+            "answer_start": 0
+          },
+          {
+            "text": "ASSYRTIKO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Koutsoyiannopolous, santorini 2019",
+    "bbox": [
+      "54.31",
+      "610.25",
+      "287.99",
+      "623.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Koutsoyiannopolous, santorini",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "22",
+    "bbox": [
+      "54.31",
+      "630.50",
+      "70.24",
+      "644.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "22",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "54.31",
+      "671.37",
+      "227.43",
+      "688.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Domaine lucien reymond, sancerre 2020",
+    "bbox": [
+      "54.31",
+      "696.50",
+      "325.14",
+      "710.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine lucien reymond, sancerre",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "22",
+    "bbox": [
+      "54.31",
+      "716.75",
+      "70.24",
+      "730.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "22",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "259.03",
+      "740.45",
+      "353.22",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.amalinyc.com/menus/#wines-by-the-glass-beer",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "236.75",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/17/22, 10:44 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Menus | Amali",
+    "bbox": [
+      "328.53",
+      "15.70",
+      "379.07",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "54.31",
+      "30.13",
+      "182.92",
+      "47.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Domaine sébastien dampt, chablis 2019",
+    "bbox": [
+      "54.31",
+      "55.25",
+      "319.52",
+      "68.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "23",
+    "bbox": [
+      "54.31",
+      "75.50",
+      "70.27",
+      "89.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "VIVIANO",
+    "bbox": [
+      "54.31",
+      "116.38",
+      "128.42",
+      "133.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Silva daskalaki, crete 2020",
+    "bbox": [
+      "54.31",
+      "141.50",
+      "226.18",
+      "155.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "16",
+    "bbox": [
+      "54.31",
+      "161.75",
+      "68.20",
+      "175.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "54.31",
+      "202.63",
+      "182.92",
+      "219.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Oliver le\u0000aive, les setilles, burgundy, 2020",
+    "bbox": [
+      "54.31",
+      "227.00",
+      "326.60",
+      "240.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Oliver le\u0000aive, les setilles, burgundy,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "24",
+    "bbox": [
+      "54.31",
+      "247.25",
+      "71.44",
+      "260.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "24",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "GRILLO/CHARDONNAY",
+    "bbox": [
+      "54.31",
+      "288.13",
+      "252.71",
+      "305.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "GRILLO/CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Di giovanna, helios, etna, sicily 2018",
+    "bbox": [
+      "54.31",
+      "313.25",
+      "286.83",
+      "326.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Di giovanna, helios, etna, sicily",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "16",
+    "bbox": [
+      "54.31",
+      "333.50",
+      "68.20",
+      "347.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ROSÉ & ORANGE WINES",
+    "bbox": [
+      "54.31",
+      "424.78",
+      "250.98",
+      "451.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MOURVÈDRE",
+    "bbox": [
+      "54.31",
+      "509.38",
+      "170.80",
+      "526.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MOURVÈDRE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chateau pradeaux, vespree, bandol 2018",
+    "bbox": [
+      "54.31",
+      "533.75",
+      "321.20",
+      "547.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chateau pradeaux, vespree, bandol",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "25",
+    "bbox": [
+      "54.31",
+      "554.00",
+      "70.31",
+      "567.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "25",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ASSYRTIKO (ORANGE)",
+    "bbox": [
+      "54.31",
+      "594.88",
+      "243.96",
+      "611.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ASSYRTIKO (ORANGE)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Halkia,amber, corinthia, peloponnese 2019",
+    "bbox": [
+      "54.31",
+      "620.00",
+      "335.28",
+      "633.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Halkia,amber, corinthia, peloponnese",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 37
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "15",
+    "bbox": [
+      "54.31",
+      "640.25",
+      "67.64",
+      "653.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RED WINES",
+    "bbox": [
+      "54.31",
+      "731.53",
+      "147.87",
+      "758.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "259.03",
+      "740.45",
+      "353.22",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.amalinyc.com/menus/#wines-by-the-glass-beer",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "236.75",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/17/22, 10:44 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Menus | Amali",
+    "bbox": [
+      "328.53",
+      "15.70",
+      "379.07",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "54.31",
+      "65.37",
+      "159.09",
+      "82.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Edmond cornu, les barrigards, burgundy 2018",
+    "bbox": [
+      "54.31",
+      "90.50",
+      "358.35",
+      "104.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "21",
+    "bbox": [
+      "54.31",
+      "110.75",
+      "67.57",
+      "124.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SYRAH",
+    "bbox": [
+      "54.31",
+      "151.62",
+      "113.57",
+      "168.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Alain voge, les peyrousses, rhone valley 2019",
+    "bbox": [
+      "54.31",
+      "176.75",
+      "344.79",
+      "190.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Alain voge, les peyrousses, rhone valley",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "18",
+    "bbox": [
+      "54.31",
+      "197.00",
+      "68.51",
+      "210.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CABERNET FRANC",
+    "bbox": [
+      "54.31",
+      "237.87",
+      "215.63",
+      "254.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET FRANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Baron de la truf\u0000e, ‘les truf\u0000eres’, chinon 2018",
+    "bbox": [
+      "54.31",
+      "262.25",
+      "352.63",
+      "275.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Baron de la truf\u0000e, ‘les truf\u0000eres’, chinon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "15",
+    "bbox": [
+      "54.31",
+      "282.50",
+      "67.64",
+      "296.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "NEBBIOLO",
+    "bbox": [
+      "54.31",
+      "323.37",
+      "148.25",
+      "340.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "NEBBIOLO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cascina luisin, langhe, piedmont 2018",
+    "bbox": [
+      "54.31",
+      "348.50",
+      "304.03",
+      "362.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cascina luisin, langhe, piedmont",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "22",
+    "bbox": [
+      "54.31",
+      "368.75",
+      "70.24",
+      "382.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "22",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "54.31",
+      "409.62",
+      "261.92",
+      "426.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET SAUVIGNON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Jax vineyards, y3, taureau, napa, 2019",
+    "bbox": [
+      "54.31",
+      "434.75",
+      "297.10",
+      "448.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Jax vineyards, y3, taureau, napa,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "19",
+    "bbox": [
+      "54.31",
+      "455.00",
+      "68.20",
+      "468.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "19",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CAB FRAC/ MERLOT",
+    "bbox": [
+      "54.31",
+      "495.87",
+      "227.15",
+      "512.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CAB FRAC/ MERLOT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Tenuta di carleone, ‘randagio,’ chianti 2020",
+    "bbox": [
+      "54.31",
+      "521.00",
+      "337.41",
+      "534.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tenuta di carleone, ‘randagio,’ chianti",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "19",
+    "bbox": [
+      "54.31",
+      "541.25",
+      "68.20",
+      "554.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "19",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "AGIORGITIKO",
+    "bbox": [
+      "54.31",
+      "582.12",
+      "170.48",
+      "599.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "AGIORGITIKO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Domaine tselepos, driopi, nemea 2017",
+    "bbox": [
+      "54.31",
+      "606.50",
+      "306.55",
+      "620.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine tselepos, driopi, nemea",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "17",
+    "bbox": [
+      "54.31",
+      "626.75",
+      "67.97",
+      "640.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MAS AMIEL, MAURY, MILLÉSIME ‘69",
+    "bbox": [
+      "54.31",
+      "667.62",
+      "359.06",
+      "684.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "This rare forti\u0000ed wine from the Maury region of southern France was made",
+    "bbox": [
+      "54.31",
+      "692.75",
+      "557.56",
+      "706.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "in 1969 but was bottled and released to the market this year. Just a few",
+    "bbox": [
+      "54.31",
+      "713.00",
+      "523.49",
+      "726.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "cases were released to the American market. Similar to an oloroso sherry,",
+    "bbox": [
+      "54.31",
+      "733.25",
+      "539.10",
+      "746.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "259.03",
+      "740.45",
+      "353.22",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.amalinyc.com/menus/#wines-by-the-glass-beer",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "236.75",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/17/22, 10:44 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Menus | Amali",
+    "bbox": [
+      "328.53",
+      "15.70",
+      "379.07",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "the wine makes a perfect aperitif or digestif.",
+    "bbox": [
+      "54.31",
+      "29.75",
+      "346.52",
+      "43.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "45 per 3 oz.",
+    "bbox": [
+      "54.31",
+      "50.00",
+      "129.81",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "DESSERT WINES",
+    "bbox": [
+      "54.31",
+      "141.28",
+      "187.86",
+      "168.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "MUSCAT, BODEGAS JORGE ORDONEZ",
+    "bbox": [
+      "54.31",
+      "225.87",
+      "382.88",
+      "242.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Andalucia, spain",
+    "bbox": [
+      "54.31",
+      "250.25",
+      "163.41",
+      "263.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "14",
+    "bbox": [
+      "54.31",
+      "270.50",
+      "68.91",
+      "284.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "GRENACHE, DOMAINE DE LA TOUR VIEILLE",
+    "bbox": [
+      "54.31",
+      "311.37",
+      "429.56",
+      "328.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Banyuls reserva, france",
+    "bbox": [
+      "54.31",
+      "336.50",
+      "206.55",
+      "350.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "15",
+    "bbox": [
+      "54.31",
+      "356.75",
+      "67.64",
+      "370.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BEER & CIDER",
+    "bbox": [
+      "54.31",
+      "414.28",
+      "165.65",
+      "441.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "FIX",
+    "bbox": [
+      "54.31",
+      "498.87",
+      "81.62",
+      "515.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Lager, greece",
+    "bbox": [
+      "54.31",
+      "523.25",
+      "144.59",
+      "536.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "12",
+    "bbox": [
+      "54.31",
+      "543.50",
+      "67.57",
+      "557.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "DUVEL",
+    "bbox": [
+      "54.31",
+      "584.37",
+      "114.69",
+      "601.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Blonde ale, belgium",
+    "bbox": [
+      "54.31",
+      "609.50",
+      "188.53",
+      "623.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "16",
+    "bbox": [
+      "54.31",
+      "629.75",
+      "68.20",
+      "643.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BELL’S",
+    "bbox": [
+      "54.31",
+      "670.62",
+      "112.13",
+      "687.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Two hearted ale, michigan",
+    "bbox": [
+      "54.31",
+      "695.75",
+      "230.47",
+      "709.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "12",
+    "bbox": [
+      "54.31",
+      "716.00",
+      "67.57",
+      "729.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "259.03",
+      "740.45",
+      "353.22",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.amalinyc.com/menus/#wines-by-the-glass-beer",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "236.75",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/17/22, 10:44 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Menus | Amali",
+    "bbox": [
+      "328.53",
+      "15.70",
+      "379.07",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "WOLFFER ESTATE",
+    "bbox": [
+      "54.31",
+      "30.12",
+      "210.60",
+      "47.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Dry rosé cider, bridgehampton, ny",
+    "bbox": [
+      "54.31",
+      "55.25",
+      "281.96",
+      "68.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "12",
+    "bbox": [
+      "54.31",
+      "75.50",
+      "67.57",
+      "89.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "SANTORINI BREWING COMPANY, WHITE DONKEY",
+    "bbox": [
+      "54.31",
+      "116.37",
+      "485.01",
+      "133.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Wheat beer",
+    "bbox": [
+      "54.31",
+      "141.50",
+      "133.34",
+      "155.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "14",
+    "bbox": [
+      "54.31",
+      "161.75",
+      "68.91",
+      "175.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "SANTORINI BREWING COMPANY, CRAZY DONKEY",
+    "bbox": [
+      "54.31",
+      "202.62",
+      "484.95",
+      "219.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "India Pale Ale",
+    "bbox": [
+      "54.31",
+      "227.00",
+      "144.83",
+      "240.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "14",
+    "bbox": [
+      "54.31",
+      "247.25",
+      "68.91",
+      "260.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "SANTORINI BREWING COMPANY, YELLOW DONKEY",
+    "bbox": [
+      "54.31",
+      "288.12",
+      "500.77",
+      "305.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Blonde ale",
+    "bbox": [
+      "54.31",
+      "313.25",
+      "125.54",
+      "326.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "14",
+    "bbox": [
+      "54.31",
+      "333.50",
+      "68.91",
+      "347.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "DOC’S",
+    "bbox": [
+      "54.31",
+      "374.37",
+      "109.34",
+      "391.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Semi-dry cider, hudson valley ny",
+    "bbox": [
+      "54.31",
+      "399.50",
+      "269.46",
+      "413.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "12",
+    "bbox": [
+      "54.31",
+      "419.75",
+      "67.57",
+      "433.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "SANTORINI BREWING COMPANY RED DONKEY",
+    "bbox": [
+      "54.31",
+      "460.62",
+      "460.42",
+      "477.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Red ale",
+    "bbox": [
+      "54.31",
+      "485.75",
+      "104.13",
+      "499.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "14",
+    "bbox": [
+      "54.31",
+      "506.00",
+      "68.91",
+      "519.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "SPRING COCKTAILS",
+    "bbox": [
+      "54.31",
+      "597.28",
+      "212.01",
+      "624.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "EASY VIRTUE",
+    "bbox": [
+      "54.31",
+      "681.12",
+      "167.08",
+      "698.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Bombay sapphire, persimmon, grapefruit, cinnamon, tonic",
+    "bbox": [
+      "54.31",
+      "706.25",
+      "445.32",
+      "719.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "18",
+    "bbox": [
+      "54.31",
+      "726.50",
+      "68.51",
+      "740.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "259.03",
+      "740.45",
+      "353.22",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://www.amalinyc.com/menus/#wines-by-the-glass-beer",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "236.75",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/17/22, 10:44 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Menus | Amali",
+    "bbox": [
+      "328.53",
+      "15.70",
+      "379.07",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "THE EDGE OF NIGHT",
+    "bbox": [
+      "54.31",
+      "30.13",
+      "232.88",
+      "47.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Grey goose, espresso, mr. black, lillet blanc, maple syrup, vanilla",
+    "bbox": [
+      "54.31",
+      "55.25",
+      "472.99",
+      "68.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "20",
+    "bbox": [
+      "54.31",
+      "75.50",
+      "71.44",
+      "89.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "THE EDGE OF NIGHT",
+    "bbox": [
+      "54.31",
+      "116.38",
+      "232.88",
+      "133.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Grey goose, lillet, espresso, mr.black, maple, vanilla",
+    "bbox": [
+      "54.31",
+      "141.50",
+      "388.68",
+      "155.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "20",
+    "bbox": [
+      "54.31",
+      "161.75",
+      "71.44",
+      "175.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "FOUR WAYS OUT",
+    "bbox": [
+      "54.31",
+      "202.63",
+      "202.14",
+      "219.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Hibiscus and fennel infused mezcal, averna, aperol",
+    "bbox": [
+      "54.31",
+      "227.00",
+      "389.84",
+      "240.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "19",
+    "bbox": [
+      "54.31",
+      "247.25",
+      "68.20",
+      "260.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "LA DOLCE VITA",
+    "bbox": [
+      "54.31",
+      "288.13",
+      "185.85",
+      "305.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Bacardi, \u0000g jam, sage, orange bitters, lemon",
+    "bbox": [
+      "54.31",
+      "313.25",
+      "345.03",
+      "326.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "17",
+    "bbox": [
+      "54.31",
+      "333.50",
+      "67.97",
+      "347.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "LOVE UNDER THE OLIVE TREE",
+    "bbox": [
+      "54.31",
+      "374.38",
+      "315.80",
+      "391.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Grey goose essences, strawberry, olive oil, rosemary, lime",
+    "bbox": [
+      "54.31",
+      "399.50",
+      "428.62",
+      "413.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "21",
+    "bbox": [
+      "54.31",
+      "419.75",
+      "67.57",
+      "433.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CALYPSO’S SECRET",
+    "bbox": [
+      "54.31",
+      "460.63",
+      "221.14",
+      "477.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Espolon blanco, spring tea, lemon, \u0000rewater bitters",
+    "bbox": [
+      "54.31",
+      "485.75",
+      "390.49",
+      "499.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "17",
+    "bbox": [
+      "54.31",
+      "506.00",
+      "67.97",
+      "519.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "PROMISE AT DAWN",
+    "bbox": [
+      "54.31",
+      "546.88",
+      "224.60",
+      "563.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Aviation gin, yuzu, lavender, egg white, edible \u0000owers",
+    "bbox": [
+      "54.31",
+      "571.25",
+      "407.55",
+      "584.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "21",
+    "bbox": [
+      "54.31",
+      "591.50",
+      "67.57",
+      "605.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "IF THE KEYS FITS",
+    "bbox": [
+      "54.31",
+      "632.38",
+      "199.41",
+      "649.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Sombra mezcal, braulio, creme de cassis, orange",
+    "bbox": [
+      "54.31",
+      "657.50",
+      "375.40",
+      "671.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "18",
+    "bbox": [
+      "54.31",
+      "677.75",
+      "68.51",
+      "691.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "TEARS OF CHIOS",
+    "bbox": [
+      "54.31",
+      "718.63",
+      "200.38",
+      "735.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "259.03",
+      "740.45",
+      "353.22",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Belvedere, mastiha, olive oil, chandon garden spritz",
+    "bbox": [
+      "54.31",
+      "743.75",
+      "395.58",
+      "757.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://www.amalinyc.com/menus/#wines-by-the-glass-beer",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "236.75",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/17/22, 10:44 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Menus | Amali",
+    "bbox": [
+      "328.53",
+      "15.70",
+      "379.07",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "21",
+    "bbox": [
+      "54.31",
+      "29.75",
+      "67.57",
+      "43.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "259.03",
+      "740.45",
+      "353.22",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://www.amalinyc.com/menus/#wines-by-the-glass-beer",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "236.75",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/8",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

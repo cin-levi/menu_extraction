@@ -1626,7 +1626,14 @@
       "262.16"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Montlouis sur Loire Pétillant Triple Zéro bin 1012",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1985,8 +1992,18 @@
       {
         "W": [
           {
-            "text": "Crémant du Jura Zero Dosage Rosé July 2019 bin 1013",
+            "text": "Crémant du Jura Zero Dosage Rosé July",
             "answer_start": 0
+          },
+          {
+            "text": "bin 1013",
+            "answer_start": 43
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 38
           }
         ]
       }
@@ -2042,7 +2059,24 @@
       "410.96"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Crémant du Jura Zero Dosage Blanc de Noirs March",
+            "answer_start": 0
+          },
+          {
+            "text": "bin 1007",
+            "answer_start": 54
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 49
+          }
+        ]
+      }
     ]
   },
   {

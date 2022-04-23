@@ -70,7 +70,7 @@
         ],
         "W": [
           {
-            "text": "large format, serves",
+            "text": "large format, serves 6",
             "answer_start": 2
           }
         ]
@@ -287,7 +287,14 @@
       "136.56"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "vodka, watermelon, pineapple,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -300,7 +307,14 @@
       "150.96"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "lemon juice",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -519,7 +533,14 @@
       "188.12"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "gin, cucumber, lime,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -572,7 +593,14 @@
       "202.52"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "simple syrup",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -745,7 +773,14 @@
       "239.68"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "mezcal, orange bitters,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -818,7 +853,14 @@
       "254.08"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "simple syrup",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -910,7 +952,14 @@
       "291.24"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "tequila blanco, patron mango,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -923,7 +972,14 @@
       "305.64"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "habanero, lime",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1055,7 +1111,14 @@
       "342.80"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "rum, lemon juice, passionfruit,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1088,7 +1151,14 @@
       "346.97"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "france",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1101,7 +1171,14 @@
       "357.20"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "pomegranate, ginger beer",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1194,7 +1271,14 @@
       "369.51"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "california",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1247,7 +1331,14 @@
       "378.73"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "california",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1280,7 +1371,14 @@
       "394.36"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "whiskey, apricot liqueur,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1343,7 +1441,14 @@
       "408.76"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "lemon juice, mint syrup",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1356,7 +1461,14 @@
       "413.27"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "italy",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1369,7 +1481,14 @@
       "410.49"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "california",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1442,7 +1561,14 @@
       "445.92"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "mezcal, pomp & whimsy,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1508,7 +1634,14 @@
       "457.03"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "france",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1521,7 +1654,14 @@
       "460.32"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "simple syrup, grapefruit juice",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1594,7 +1734,14 @@
       "480.01"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "napa valley",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1660,7 +1807,14 @@
       "500.79"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "italy",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1713,7 +1867,14 @@
       "511.77"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "oregon",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1836,7 +1997,14 @@
       "544.55"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "france",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1862,7 +2030,14 @@
       "559.73"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "rosé, vodka, peach liqueur,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1888,7 +2063,14 @@
       "574.13"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "simple syrup, lemon juice,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1914,7 +2096,14 @@
       "588.53"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "orange juice, strawberry",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1980,7 +2169,14 @@
       "624.69"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "aperol, agave, orange juice,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2006,7 +2202,14 @@
       "639.09"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "lemon juice, sparkling rosé",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2111,7 +2314,14 @@
       "675.25"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "rosé, orange juice,",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2124,7 +2334,14 @@
       "689.65"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "orange liqueur, apples, oranges",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -2229,7 +2446,14 @@
       "725.81"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "belle glos rosé, serves 8-10",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   }
 ]

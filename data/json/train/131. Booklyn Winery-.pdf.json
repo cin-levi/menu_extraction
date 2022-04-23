@@ -1,0 +1,2375 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/17/22, 2:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Wine List - Brooklyn Winery in Williamsburg, Brooklyn",
+    "bbox": [
+      "256.44",
+      "15.70",
+      "446.71",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(https://www.facebook.com/brooklynwinery)",
+    "bbox": [
+      "253.10",
+      "63.50",
+      "471.99",
+      "74.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(https://bkwinery.com)",
+    "bbox": [
+      "40.25",
+      "87.50",
+      "149.57",
+      "98.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(https://www.twitter.com/brooklynwinery)",
+    "bbox": [
+      "268.50",
+      "101.00",
+      "472.00",
+      "111.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(https://www.pinterest.com/brooklynwinery/)",
+    "bbox": [
+      "249.84",
+      "138.50",
+      "471.99",
+      "149.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(https://instagram.com/brooklynwinery/)",
+    "bbox": [
+      "270.99",
+      "176.00",
+      "472.00",
+      "186.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "> Brooklyn Winery Wine Bar (https://bkwinery.com/brooklyn-wine-bar)",
+    "bbox": [
+      "134.18",
+      "231.50",
+      "478.68",
+      "242.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "> Brooklyn Winery Wine Bar Specials (https://bkwinery.com/brooklyn-winery-wine-",
+    "bbox": [
+      "103.38",
+      "261.50",
+      "509.34",
+      "272.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "bar-specials)",
+    "bbox": [
+      "275.41",
+      "276.50",
+      "337.57",
+      "287.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "> Wine Bar Food (https://bkwinery.com/brooklyn-williamsburg-restaurant-dinner)",
+    "bbox": [
+      "106.06",
+      "306.50",
+      "506.77",
+      "317.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "> WineList (https://bkwinery.com/wine-list/)",
+    "bbox": [
+      "192.48",
+      "336.50",
+      "420.51",
+      "347.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "> Location (https://bkwinery.com/Location)",
+    "bbox": [
+      "201.44",
+      "366.50",
+      "411.53",
+      "377.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "> Wine Bar Hours (https://bkwinery.com/hours)",
+    "bbox": [
+      "189.29",
+      "396.50",
+      "423.70",
+      "407.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "> Recipes and Wine Pairing Blog (https://bkwinery.com/visit-us/recipes-and-",
+    "bbox": [
+      "116.49",
+      "426.50",
+      "496.48",
+      "437.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "wine-pairing-blog/)",
+    "bbox": [
+      "258.35",
+      "441.50",
+      "354.62",
+      "452.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Brooklyn W",
+    "bbox": [
+      "51.50",
+      "480.50",
+      "173.05",
+      "503.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "inery W",
+    "bbox": [
+      "173.05",
+      "480.50",
+      "253.65",
+      "503.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ine List",
+    "bbox": [
+      "253.65",
+      "480.50",
+      "329.29",
+      "503.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sparkling",
+    "bbox": [
+      "51.50",
+      "542.75",
+      "149.17",
+      "565.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BLANC DE BLANCS",
+    "bbox": [
+      "51.50",
+      "584.75",
+      "168.72",
+      "597.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BLANC DE BLANCS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16/64",
+    "bbox": [
+      "518.09",
+      "585.50",
+      "561.50",
+      "600.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16/64",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "\u0000nger lakes, ny 2016  |  complex creamy texture, bright acidity",
+    "bbox": [
+      "51.50",
+      "608.75",
+      "327.19",
+      "618.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "\u0000nger lakes, ny 2016  |  com",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "W",
+    "bbox": [
+      "51.50",
+      "658.25",
+      "75.03",
+      "680.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "hite",
+    "bbox": [
+      "75.03",
+      "658.25",
+      "113.61",
+      "680.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RIESLING",
+    "bbox": [
+      "51.50",
+      "700.25",
+      "108.73",
+      "713.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RIESLING",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "12/24/48",
+    "bbox": [
+      "493.77",
+      "701.00",
+      "561.51",
+      "716.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12/24/48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "\u0000nger lakes, ny  2016  |  tropical aromatics, bright acidity",
+    "bbox": [
+      "51.50",
+      "724.25",
+      "300.41",
+      "734.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "\u0000nger lakes, ny",
+            "answer_start": 0
+          },
+          {
+            "text": "tropical aromatics, bright acidity",
+            "answer_start": 26
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://bkwinery.com/wine-list/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "132.11",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/17/22, 2:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Wine List - Brooklyn Winery in Williamsburg, Brooklyn",
+    "bbox": [
+      "256.44",
+      "15.70",
+      "446.71",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ALBARIÑO",
+    "bbox": [
+      "51.50",
+      "29.00",
+      "115.83",
+      "41.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ALBARIÑO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13/26/52",
+    "bbox": [
+      "493.38",
+      "44.75",
+      "561.51",
+      "59.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13/26/52",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "san joaquin valley, ca  2018  |  nectarine, salty, bright",
+    "bbox": [
+      "51.50",
+      "53.00",
+      "283.06",
+      "62.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "san joaquin valley, ca",
+            "answer_start": 0
+          },
+          {
+            "text": "nectarine, salty, bright",
+            "answer_start": 33
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "51.50",
+      "89.75",
+      "173.66",
+      "102.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13/26/52",
+    "bbox": [
+      "493.38",
+      "90.50",
+      "561.51",
+      "105.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13/26/52",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "suisun valley, ca  2018  |  fresh, crisp, melon, bright acidity",
+    "bbox": [
+      "51.50",
+      "113.75",
+      "307.72",
+      "123.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "suisun valley, ca  2018  |  fre",
+            "answer_start": 0
+          },
+          {
+            "text": "fresh, crisp, melon, bright acidity",
+            "answer_start": 28
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "UNOAKED CHARDONNAY",
+    "bbox": [
+      "51.50",
+      "150.50",
+      "206.61",
+      "163.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "UNOAKED CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "12/24/48",
+    "bbox": [
+      "493.77",
+      "151.25",
+      "561.51",
+      "166.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12/24/48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "\u0000nger lakes, ny  2017  | stone fruit aromatics, vibrant",
+    "bbox": [
+      "51.50",
+      "174.50",
+      "281.27",
+      "184.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "\u0000nger lakes, ny  2017  | stone fruit a",
+            "answer_start": 0
+          },
+          {
+            "text": "stone fruit aromatics, vibrant",
+            "answer_start": 25
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BARREL FERMENTED CHARDONNAY",
+    "bbox": [
+      "51.50",
+      "211.25",
+      "273.04",
+      "224.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BARREL FERMENTED CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13/26/52",
+    "bbox": [
+      "493.38",
+      "212.00",
+      "561.51",
+      "227.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13/26/52",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "suisun valley, ca  2017  | pear, butterscotch, honey butter",
+    "bbox": [
+      "51.50",
+      "235.25",
+      "303.19",
+      "245.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "suisun valley, ca  2017  | pear, butterscotch, honey",
+            "answer_start": 0
+          },
+          {
+            "text": "| pear, butterscotch, honey butter",
+            "answer_start": 25
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MUSCAT",
+    "bbox": [
+      "51.50",
+      "272.00",
+      "104.17",
+      "284.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MUSCAT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "12/24/48",
+    "bbox": [
+      "493.77",
+      "272.75",
+      "561.51",
+      "287.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12/24/48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "suisun, ca 2019 | apricot, honeysuckle, full body",
+    "bbox": [
+      "51.50",
+      "296.00",
+      "264.10",
+      "305.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "suisun, ca 20",
+            "answer_start": 0
+          },
+          {
+            "text": "apricot, honeysuckle, full body",
+            "answer_start": 18
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Red",
+    "bbox": [
+      "51.50",
+      "345.50",
+      "93.03",
+      "368.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "51.50",
+      "387.50",
+      "124.29",
+      "400.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT NOIR",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15/30/60",
+    "bbox": [
+      "491.35",
+      "388.25",
+      "561.51",
+      "403.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15/30/60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "suisun valley, ca  2017  |  burgundian style, complex, elegant",
+    "bbox": [
+      "51.50",
+      "411.50",
+      "320.29",
+      "421.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "suisun valley, ca",
+            "answer_start": 0
+          },
+          {
+            "text": "burgundian style, complex, elegant",
+            "answer_start": 28
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CUVÉE NOIR",
+    "bbox": [
+      "51.50",
+      "448.25",
+      "128.24",
+      "461.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CUVÉE NOIR",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "12/24/48",
+    "bbox": [
+      "493.77",
+      "449.00",
+      "561.51",
+      "464.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12/24/48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "madera and lodi, ca  2019  |  easy drinking, smooth, notes of ruby red fruit",
+    "bbox": [
+      "51.50",
+      "472.25",
+      "378.74",
+      "482.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "madera and lodi, ca",
+            "answer_start": 0
+          },
+          {
+            "text": "easy drinking, smooth, notes of ruby red fruit",
+            "answer_start": 30
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MALBEC",
+    "bbox": [
+      "51.50",
+      "509.00",
+      "103.49",
+      "521.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MALBEC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14/28/56",
+    "bbox": [
+      "492.37",
+      "509.75",
+      "561.50",
+      "524.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14/28/56",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "suisun valley, ca  2017  |  ripe berries, smoky, with subtle \u0000avors",
+    "bbox": [
+      "51.50",
+      "533.00",
+      "332.82",
+      "542.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "suisun valley, ca",
+            "answer_start": 0
+          },
+          {
+            "text": "ripe berries, smoky, with subtle \u0000avors",
+            "answer_start": 28
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "51.50",
+      "569.75",
+      "197.75",
+      "582.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET SAUVIGNON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15/30/60",
+    "bbox": [
+      "491.35",
+      "570.50",
+      "561.51",
+      "585.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15/30/60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "suisun valley, ca  2017  |  bold, luscious fruit, clove, chocolate",
+    "bbox": [
+      "51.50",
+      "593.75",
+      "322.47",
+      "603.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "suisun valley, ca  2017  |  bold, lus",
+            "answer_start": 0
+          },
+          {
+            "text": "bold, luscious fruit, clove, chocolate",
+            "answer_start": 28
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "OLD VINE ZINFANDEL",
+    "bbox": [
+      "51.50",
+      "630.50",
+      "184.16",
+      "643.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "OLD VINE ZINFANDEL",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13/26/52",
+    "bbox": [
+      "493.38",
+      "631.25",
+      "561.51",
+      "646.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13/26/52",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "lodi, ca  2016  |  dark fruit aromatics, velvety texture",
+    "bbox": [
+      "51.50",
+      "654.50",
+      "279.91",
+      "664.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "lodi, ca  2016  |  dark fruit arom",
+            "answer_start": 0
+          },
+          {
+            "text": "dark fruit aromatics, velvety texture",
+            "answer_start": 19
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RESERVE MERLOT",
+    "bbox": [
+      "51.50",
+      "691.25",
+      "162.33",
+      "704.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RESERVE MERLOT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14/28/56",
+    "bbox": [
+      "492.37",
+      "692.00",
+      "561.50",
+      "707.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14/28/56",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "north fork of long island, ny 2013  |  earthy, robust with hints of dried fruit",
+    "bbox": [
+      "51.50",
+      "715.25",
+      "373.43",
+      "725.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "north fork of long island, ny",
+            "answer_start": 0
+          },
+          {
+            "text": "earthy, robust with hints of dried fruit",
+            "answer_start": 39
+          }
+        ],
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://bkwinery.com/wine-list/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "132.11",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/17/22, 2:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Wine List - Brooklyn Winery in Williamsburg, Brooklyn",
+    "bbox": [
+      "256.44",
+      "15.70",
+      "446.71",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BARBERA",
+    "bbox": [
+      "51.50",
+      "29.00",
+      "110.27",
+      "41.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BARBERA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "13/26/52",
+    "bbox": [
+      "493.38",
+      "44.75",
+      "561.51",
+      "59.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13/26/52",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "suisun valley, ca, 2017  |  full bodied, savory, notes of dark fruits and spice",
+    "bbox": [
+      "51.50",
+      "53.00",
+      "377.65",
+      "62.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "suisun valley, ca,",
+            "answer_start": 0
+          },
+          {
+            "text": "full bodied, savory, notes of dark fruits and spice",
+            "answer_start": 28
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MERLOT",
+    "bbox": [
+      "51.50",
+      "89.75",
+      "103.10",
+      "102.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MERLOT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "13/26/52",
+    "bbox": [
+      "493.38",
+      "90.50",
+      "561.51",
+      "105.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13/26/52",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "suisun, ca 2017  |  spiced fruit, wild strawberry, full bodied",
+    "bbox": [
+      "51.50",
+      "113.75",
+      "307.77",
+      "123.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "suisun, ca 2",
+            "answer_start": 0
+          },
+          {
+            "text": "spiced fruit, wild strawberry, full bodied",
+            "answer_start": 20
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Rosé",
+    "bbox": [
+      "51.50",
+      "163.25",
+      "103.29",
+      "185.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "DRY ROSÉ",
+    "bbox": [
+      "51.50",
+      "205.25",
+      "113.61",
+      "218.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DRY ROSÉ",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "12/24/48",
+    "bbox": [
+      "493.77",
+      "206.00",
+      "561.51",
+      "221.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12/24/48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2019  | bright, crisp, Provençal style",
+    "bbox": [
+      "51.50",
+      "229.25",
+      "208.44",
+      "239.00"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 0
+          }
+        ],
+        "W": [
+          {
+            "text": "bright, crisp, Provençal style",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Orange",
+    "bbox": [
+      "51.50",
+      "278.75",
+      "128.66",
+      "301.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PINOT GRIGIO RAMATO",
+    "bbox": [
+      "51.50",
+      "320.75",
+      "192.55",
+      "333.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "13/26/52",
+    "bbox": [
+      "493.38",
+      "321.50",
+      "561.51",
+      "336.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "lodi, ca 2018  |  lofty acidity, supple texture",
+    "bbox": [
+      "51.50",
+      "344.75",
+      "240.33",
+      "354.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Guest Appearances",
+    "bbox": [
+      "51.50",
+      "394.25",
+      "256.32",
+      "416.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PINOT GRIS",
+    "bbox": [
+      "51.50",
+      "436.25",
+      "121.88",
+      "449.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "13/26/52",
+    "bbox": [
+      "493.38",
+      "437.00",
+      "561.51",
+      "452.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "north fork of long island, ny 2017 | melon, minerality, punctuated acidity",
+    "bbox": [
+      "51.50",
+      "460.25",
+      "370.18",
+      "470.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TEROLDEGO",
+    "bbox": [
+      "51.50",
+      "497.00",
+      "127.88",
+      "509.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "13/26/52",
+    "bbox": [
+      "493.38",
+      "497.75",
+      "561.51",
+      "512.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "san joaquin, ca 2018 | medium body, cranberry, black cherry, \u0000oral violet",
+    "bbox": [
+      "51.50",
+      "521.00",
+      "373.33",
+      "530.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Dessert",
+    "bbox": [
+      "51.50",
+      "570.50",
+      "131.17",
+      "593.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "FORTITUDE",
+    "bbox": [
+      "51.50",
+      "612.50",
+      "122.24",
+      "625.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "8/45",
+    "bbox": [
+      "527.08",
+      "613.25",
+      "561.50",
+      "628.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "lodi, ca  2012  |  slightly sweet, forti\u0000ed zinfandel",
+    "bbox": [
+      "51.50",
+      "636.50",
+      "265.39",
+      "646.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Flights",
+    "bbox": [
+      "51.50",
+      "686.00",
+      "121.09",
+      "708.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "THE LAKE EFFECT - WINES OF THE FINGER LAKES, NY",
+    "bbox": [
+      "51.50",
+      "728.00",
+      "379.87",
+      "740.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "20",
+    "bbox": [
+      "544.06",
+      "728.75",
+      "561.51",
+      "743.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://bkwinery.com/wine-list/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "132.11",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/17/22, 2:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Wine List - Brooklyn Winery in Williamsburg, Brooklyn",
+    "bbox": [
+      "256.44",
+      "15.70",
+      "446.71",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "three 2 oz. pours  |  blanc de blancs, riesling, unoaked chardonnay",
+    "bbox": [
+      "51.50",
+      "29.00",
+      "346.39",
+      "38.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "WINTER SUISUN? - WINES OF THE SUISUN VALLEY, CA",
+    "bbox": [
+      "51.50",
+      "65.75",
+      "385.39",
+      "78.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "20",
+    "bbox": [
+      "544.06",
+      "66.50",
+      "561.51",
+      "81.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "three 2 oz. pours  |  pinot noir, barbera, malbec",
+    "bbox": [
+      "51.50",
+      "89.75",
+      "257.94",
+      "99.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "OFF THE BEATEN PATH",
+    "bbox": [
+      "51.50",
+      "126.50",
+      "192.06",
+      "139.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "20",
+    "bbox": [
+      "544.06",
+      "127.25",
+      "561.51",
+      "142.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "three 2 oz. pours  |  muscat, pinot grigio ramato, reserve merlot",
+    "bbox": [
+      "51.50",
+      "150.50",
+      "331.56",
+      "160.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MAKE YOUR OWN",
+    "bbox": [
+      "51.50",
+      "187.25",
+      "161.41",
+      "200.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "20",
+    "bbox": [
+      "544.06",
+      "188.00",
+      "561.51",
+      "203.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "choose any three wines",
+    "bbox": [
+      "51.50",
+      "211.25",
+      "158.04",
+      "221.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "take brooklyn winery home?| most bottles to-go are $25 o\u0000 restaurant prices",
+    "bbox": [
+      "51.50",
+      "254.00",
+      "536.29",
+      "267.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Make a Reservation",
+    "bbox": [
+      "249.34",
+      "327.39",
+      "363.67",
+      "340.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "dApr 17, 2022",
+    "bbox": [
+      "244.25",
+      "362.00",
+      "327.49",
+      "375.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "m",
+    "bbox": [
+      "362.75",
+      "365.28",
+      "368.75",
+      "369.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "t7:00 PM",
+    "bbox": [
+      "244.25",
+      "398.75",
+      "307.23",
+      "412.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "m",
+    "bbox": [
+      "362.75",
+      "402.03",
+      "368.75",
+      "406.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "p2 people",
+    "bbox": [
+      "244.25",
+      "435.50",
+      "307.06",
+      "449.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "m",
+    "bbox": [
+      "362.75",
+      "438.78",
+      "368.75",
+      "443.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Find a Table",
+    "bbox": [
+      "275.60",
+      "474.65",
+      "337.40",
+      "486.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "For parties of 7-10 people, email us at reservations@bkwinery.com",
+    "bbox": [
+      "62.75",
+      "539.75",
+      "381.98",
+      "550.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "(mailto:reservations@bkwinery.com) to request a reservation.",
+    "bbox": [
+      "62.75",
+      "554.75",
+      "354.59",
+      "565.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Please note: On all parties of 6 or more people, 20% gratuity will be automatically included.",
+    "bbox": [
+      "62.75",
+      "569.75",
+      "503.42",
+      "580.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Subscribe To Our Newsletter",
+    "bbox": [
+      "152.75",
+      "654.50",
+      "396.78",
+      "672.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Email",
+    "bbox": [
+      "84.50",
+      "744.63",
+      "112.63",
+      "755.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "",
+    "bbox": [
+      "515.00",
+      "744.08",
+      "526.25",
+      "755.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://bkwinery.com/wine-list/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "132.11",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/17/22, 2:40 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Wine List - Brooklyn Winery in Williamsburg, Brooklyn",
+    "bbox": [
+      "256.44",
+      "15.70",
+      "446.71",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "First Name",
+    "bbox": [
+      "84.50",
+      "38.88",
+      "139.50",
+      "50.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "",
+    "bbox": [
+      "515.00",
+      "38.33",
+      "526.25",
+      "49.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Last Name",
+    "bbox": [
+      "84.50",
+      "79.38",
+      "138.90",
+      "90.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "",
+    "bbox": [
+      "515.00",
+      "78.83",
+      "526.25",
+      "90.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Submit",
+    "bbox": [
+      "288.45",
+      "142.25",
+      "324.53",
+      "152.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Brooklyn Winery | 213 N 8th St., Brooklyn, NY 11211 U.S.A | Phone: 347-763-1506 | Fax: 347-763-1507 |",
+    "bbox": [
+      "40.25",
+      "206.75",
+      "381.56",
+      "214.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "© 2022 Brooklyn Winery – All Rights Reserved",
+    "bbox": [
+      "40.25",
+      "221.00",
+      "199.69",
+      "228.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(https://www.facebook.com/brooklynwinery)",
+    "bbox": [
+      "399.00",
+      "231.50",
+      "555.35",
+      "239.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(https://www.yelp.com/biz/brooklyn-",
+    "bbox": [
+      "399.00",
+      "270.50",
+      "529.93",
+      "278.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "winery-brooklyn)",
+    "bbox": [
+      "399.00",
+      "289.25",
+      "457.67",
+      "296.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(https://www.twitter.com/brooklynwinery)",
+    "bbox": [
+      "399.00",
+      "309.50",
+      "544.36",
+      "317.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(https://www.pinterest.com/brooklynwinery/)",
+    "bbox": [
+      "399.00",
+      "348.50",
+      "557.68",
+      "356.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://bkwinery.com/wine-list/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "132.11",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

@@ -911,6 +911,10 @@
           {
             "text": "409 PINOT NOIR",
             "answer_start": 0
+          },
+          {
+            "text": "PINOT NOIR, 2017 Riserva Terlaner (Trentino Alto Adige) IT",
+            "answer_start": 4
           }
         ],
         "V": [
@@ -938,7 +942,14 @@
       "138.51"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Medium bodied, with fruity aromas of wild strawberries.",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1015,6 +1026,10 @@
           {
             "text": "515 BRUNELLO DI MONTALCINO,",
             "answer_start": 0
+          },
+          {
+            "text": "Gaja (Toscana) IT",
+            "answer_start": 33
           }
         ],
         "V": [
@@ -1056,7 +1071,14 @@
       "209.65"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Full bodied, with fresh notes of roses and mint.",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1080,6 +1102,10 @@
           {
             "text": "533 CABERNET SAUVIGNON,",
             "answer_start": 0
+          },
+          {
+            "text": "CABERNET SAUVIGNON, 2017 Caymus (Napa) CA",
+            "answer_start": 4
           }
         ],
         "V": [
@@ -1101,7 +1127,14 @@
       "245.15"
     ],
     "annots": [
-      null
+      {
+        "W": [
+          {
+            "text": "Velvety full bodied, with aromas of cassis and vanilla",
+            "answer_start": 0
+          }
+        ]
+      }
     ]
   },
   {
@@ -1190,6 +1223,10 @@
           {
             "text": "002 PROSECCO DI CONEGLIANO,",
             "answer_start": 0
+          },
+          {
+            "text": "Col di Rocca (Veneto) IT",
+            "answer_start": 31
           }
         ],
         "V": [
@@ -1222,6 +1259,10 @@
           {
             "text": "011 ROSE BRUT,",
             "answer_start": 0
+          },
+          {
+            "text": "Nino Franco (Veneto) IT.",
+            "answer_start": 20
           }
         ],
         "V": [
@@ -1254,6 +1295,10 @@
           {
             "text": "005 FRANCIACORTA BRUT,",
             "answer_start": 0
+          },
+          {
+            "text": "Barone Pizzini (Lombardia) IT",
+            "answer_start": 26
           }
         ],
         "V": [
@@ -1286,6 +1331,10 @@
           {
             "text": "009 CHAMPAGNE BRUT LA CUVEE,",
             "answer_start": 0
+          },
+          {
+            "text": "Laurent Perrier (Reimes) FR.  .",
+            "answer_start": 32
           }
         ],
         "V": [
@@ -1331,6 +1380,10 @@
           {
             "text": "1030 MOSCATO D’ASTI,",
             "answer_start": 0
+          },
+          {
+            "text": "Bera (Piemonte) IT, 375ml  .",
+            "answer_start": 26
           }
         ],
         "V": [
@@ -1363,6 +1416,10 @@
           {
             "text": "1031 ORANGE MUSCAT",
             "answer_start": 0
+          },
+          {
+            "text": "A.Quady (Madera) CA, 375ml",
+            "answer_start": 25
           }
         ],
         "V": [
@@ -1460,6 +1517,10 @@
           {
             "text": "129 PINOT GRIGIO,",
             "answer_start": 0
+          },
+          {
+            "text": "Elena Walch (Alto Adige) IT.",
+            "answer_start": 23
           }
         ],
         "V": [
@@ -1505,6 +1566,10 @@
           {
             "text": "109 GAVI DI GAVI",
             "answer_start": 0
+          },
+          {
+            "text": "Tenuta San Giacomo (Piemonte) IT.",
+            "answer_start": 23
           }
         ],
         "V": [
@@ -1537,6 +1602,10 @@
           {
             "text": "200 RIESLING",
             "answer_start": 0
+          },
+          {
+            "text": "Trimbach (Alsace) FR .",
+            "answer_start": 19
           }
         ],
         "V": [
@@ -1569,6 +1638,10 @@
           {
             "text": "221 CHARDONNAY,",
             "answer_start": 0
+          },
+          {
+            "text": "Sonoma-Cutrer (Sonoma) CA",
+            "answer_start": 21
           }
         ],
         "V": [
@@ -1601,6 +1674,10 @@
           {
             "text": "17 CHARDONNAY,",
             "answer_start": 1
+          },
+          {
+            "text": "Les Cretes (Valle d’Aosta) IT.",
+            "answer_start": 21
           }
         ],
         "V": [
@@ -1633,6 +1710,10 @@
           {
             "text": "201  SAUVIGNON BLANC",
             "answer_start": 0
+          },
+          {
+            "text": "Vie Di Romans (Friuli) IT.  .  .",
+            "answer_start": 27
           }
         ],
         "V": [
@@ -1665,6 +1746,10 @@
           {
             "text": "130  SANCERRE,",
             "answer_start": 0
+          },
+          {
+            "text": "Pascal Jolivet (Loire Valley) FR.",
+            "answer_start": 20
           }
         ],
         "V": [
@@ -1697,6 +1782,10 @@
           {
             "text": "115 CHABLIS,",
             "answer_start": 0
+          },
+          {
+            "text": "1ERCRU Defraix Freres (Burgundy) FR.",
+            "answer_start": 18
           }
         ],
         "V": [
@@ -1729,6 +1818,10 @@
           {
             "text": "102 TREBBIANO D’ABRUZZO,",
             "answer_start": 0
+          },
+          {
+            "text": "Castello di Semivicoli (Abruzzo) IT.",
+            "answer_start": 30
           }
         ],
         "V": [
@@ -1774,6 +1867,10 @@
           {
             "text": "116 PROVENCE BLEND,",
             "answer_start": 0
+          },
+          {
+            "text": "By Ott (Provence) FR.",
+            "answer_start": 25
           }
         ],
         "V": [
@@ -1819,6 +1916,10 @@
           {
             "text": "553 CHIANTI CLASSICO RISERVA,",
             "answer_start": 0
+          },
+          {
+            "text": "Brolio (Toscana) IT.",
+            "answer_start": 35
           }
         ],
         "V": [
@@ -1851,6 +1952,10 @@
           {
             "text": "350  MERLOT,",
             "answer_start": 0
+          },
+          {
+            "text": "Tellus (Umbria) IT.",
+            "answer_start": 18
           }
         ],
         "V": [
@@ -1883,6 +1988,10 @@
           {
             "text": "504 SUPER TUSCAN VILLA ANTINORI,",
             "answer_start": 0
+          },
+          {
+            "text": "Antinori (Toscana) IT.",
+            "answer_start": 38
           }
         ],
         "V": [
@@ -1915,6 +2024,10 @@
           {
             "text": "514 NOBILE DI MONTEPULCIANO,",
             "answer_start": 0
+          },
+          {
+            "text": "La Braccesca (Toscana) IT.",
+            "answer_start": 34
           }
         ],
         "V": [
@@ -1954,6 +2067,12 @@
             "text": "2017",
             "answer_start": 16
           }
+        ],
+        "W": [
+          {
+            "text": "Sonoma Cutrer (Sonoma) CA.",
+            "answer_start": 21
+          }
         ]
       }
     ]
@@ -1985,6 +2104,12 @@
           {
             "text": "2017",
             "answer_start": 24
+          }
+        ],
+        "W": [
+          {
+            "text": "Iconoclast (Napa) CA",
+            "answer_start": 29
           }
         ]
       }
@@ -2018,6 +2143,12 @@
             "text": "2016",
             "answer_start": 20
           }
+        ],
+        "W": [
+          {
+            "text": "Bruno Giacosa (Piemonte) IT.",
+            "answer_start": 25
+          }
         ]
       }
     ]
@@ -2050,6 +2181,12 @@
             "text": "2013",
             "answer_start": 28
           }
+        ],
+        "W": [
+          {
+            "text": "Tenuta Di Sesta (Toscana) IT.  .",
+            "answer_start": 33
+          }
         ]
       }
     ]
@@ -2075,6 +2212,10 @@
           {
             "text": "312 BAROLO,",
             "answer_start": 0
+          },
+          {
+            "text": "Altenasso La Morra (Piemonte) IT .  .  .  .",
+            "answer_start": 17
           }
         ],
         "V": [
@@ -2107,6 +2248,10 @@
           {
             "text": "554 SYRAH,",
             "answer_start": 0
+          },
+          {
+            "text": "Tenimenti Luigi D’Alessandro (Toscana) IT.",
+            "answer_start": 16
           }
         ],
         "V": [
@@ -2178,6 +2323,10 @@
           {
             "text": "002 PROSECCO DI CONEGLIANO",
             "answer_start": 0
+          },
+          {
+            "text": "Col di Rocca (Veneto) IT.",
+            "answer_start": 31
           }
         ],
         "V": [
@@ -2210,6 +2359,10 @@
           {
             "text": "005 FRANCIACORTA BRUT ANIMANTE,",
             "answer_start": 0
+          },
+          {
+            "text": "Barone Pizzini (Lombardia) IT.",
+            "answer_start": 35
           }
         ],
         "V": [
@@ -2242,6 +2395,10 @@
           {
             "text": "011 ROSE BRUT FAIVE,",
             "answer_start": 0
+          },
+          {
+            "text": "Nino Franco (Veneto) IT. . .",
+            "answer_start": 26
           }
         ],
         "V": [
@@ -2274,6 +2431,10 @@
           {
             "text": "009 CHAMPAGNE BRUT LA CUVEE,",
             "answer_start": 0
+          },
+          {
+            "text": "Laurent Perrier (Reims) FR.",
+            "answer_start": 32
           }
         ],
         "V": [
@@ -2306,6 +2467,10 @@
           {
             "text": "003 CHAMPAGNE BRUT RESERVE CUVEE,",
             "answer_start": 0
+          },
+          {
+            "text": "Veuve Clicquot (Reims) FR.",
+            "answer_start": 37
           }
         ],
         "V": [
@@ -2338,6 +2503,10 @@
           {
             "text": "006 CHAMPAGNE BRUT ROSE,",
             "answer_start": 0
+          },
+          {
+            "text": "Bollinger (Ay) FR",
+            "answer_start": 28
           }
         ],
         "V": [
@@ -2370,6 +2539,10 @@
           {
             "text": "008 CHAMPANGE EXTRA BRUT RD,",
             "answer_start": 0
+          },
+          {
+            "text": "Bollinger (Ay) FR",
+            "answer_start": 34
           }
         ],
         "V": [
@@ -2398,16 +2571,20 @@
             "answer_start": 85
           }
         ],
-        "W": [
-          {
-            "text": "04 CHAMPANGE BRUT GRAN CUVEE",
-            "answer_start": 1
-          }
-        ],
         "V": [
           {
             "text": "NV",
             "answer_start": 31
+          }
+        ],
+        "W": [
+          {
+            "text": "Krug (Reims) FR",
+            "answer_start": 34
+          },
+          {
+            "text": "004 CHAMPANGE BRUT GRAN CUVEE",
+            "answer_start": 0
           }
         ]
       }
@@ -2434,6 +2611,10 @@
           {
             "text": "001 CHAMPAGNE BRUT CRISTAL,",
             "answer_start": 0
+          },
+          {
+            "text": "Louis Roederer (Reims) FR. . .",
+            "answer_start": 33
           }
         ],
         "V": [

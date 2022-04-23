@@ -125,6 +125,10 @@
           {
             "text": "112 - Chandon Garden Spritz / Argentina",
             "answer_start": 0
+          },
+          {
+            "text": "(served over ice)",
+            "answer_start": 45
           }
         ]
       }
@@ -355,6 +359,10 @@
           {
             "text": "156 - Henri Giraud Champagne Brut ‘Espirt Nature’ / Champagne, France",
             "answer_start": 0
+          },
+          {
+            "text": "Half (375ml)",
+            "answer_start": 79
           }
         ]
       }
@@ -756,6 +764,10 @@
           {
             "text": "154 - Moet & Chandon ‘Grand Vintage’ / Champagne, France /",
             "answer_start": 0
+          },
+          {
+            "text": "Magnum (1.5L)",
+            "answer_start": 68
           }
         ]
       }
@@ -802,6 +814,10 @@
           {
             "text": "153 - Krug ‘Grand Cuvée’ / Champagne, France",
             "answer_start": 0
+          },
+          {
+            "text": "Magnum (1.5L)",
+            "answer_start": 54
           }
         ]
       }
@@ -2833,6 +2849,12 @@
             "text": "253 - Chateau Cap de Merle, Lussac Saint Emilion / Bordeaux",
             "answer_start": 0
           }
+        ],
+        "P": [
+          {
+            "text": "Half (375ml)",
+            "answer_start": 71
+          }
         ]
       }
     ]
@@ -3437,6 +3459,10 @@
           {
             "text": "348 - Frank Cornelissen ‘Munjebel’ PA Rosso / Terre Siciliane",
             "answer_start": 0
+          },
+          {
+            "text": "Magnum (1.5L)",
+            "answer_start": 72
           }
         ]
       }
@@ -4048,6 +4074,10 @@
           {
             "text": "234 - The Prisoner Red Blend / Napa Valley, California",
             "answer_start": 0
+          },
+          {
+            "text": "Magnum",
+            "answer_start": 66
           }
         ]
       }
@@ -5211,6 +5241,10 @@
           {
             "text": "329 - Sixty Vinakoper/ Primorje, Slovenia",
             "answer_start": 0
+          },
+          {
+            "text": "Magnum (1.5L)",
+            "answer_start": 52
           }
         ]
       }
