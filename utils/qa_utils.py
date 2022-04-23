@@ -1239,7 +1239,6 @@ def ner_evaluate_by_char(ner_predictions, examples, question_list):
                                                                                                    0, len(pred['text']))
                         match_len = match.size
                         tp = match_len / len(pred['text'])
-                        assert tp > 0
                         fp = 1 - tp
                         confusion_matrix[question]['tp'] += tp
                         confusion_matrix[question]['fp'] += fp
