@@ -1,0 +1,4609 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/20/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "The Bar - Ruth's Chris Steak House",
+    "bbox": [
+      "288.13",
+      "15.70",
+      "415.04",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DINNER",
+    "bbox": [
+      "264.41",
+      "39.25",
+      "349.35",
+      "67.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LUNBARCH",
+    "bbox": [
+      "268.00",
+      "71.72",
+      "345.74",
+      "102.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BAR",
+    "bbox": [
+      "283.86",
+      "105.25",
+      "329.90",
+      "133.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "232.62",
+      "136.75",
+      "381.11",
+      "165.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TAKEOUT",
+    "bbox": [
+      "255.80",
+      "171.25",
+      "357.95",
+      "199.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "W",
+    "bbox": [
+      "198.99",
+      "328.75",
+      "222.73",
+      "357.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "INE & COCKTAILS",
+    "bbox": [
+      "221.98",
+      "328.75",
+      "417.01",
+      "357.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Enjoy a selection of \u0000ne beverages, from our award-winning wine list to hand-crafted, vintage-inspired",
+    "bbox": [
+      "64.30",
+      "370.33",
+      "548.69",
+      "380.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "cocktails.",
+    "bbox": [
+      "285.29",
+      "386.08",
+      "327.71",
+      "396.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "j",
+    "bbox": [
+      "295.25",
+      "529.25",
+      "317.75",
+      "551.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LET THE GOOD TIM",
+    "bbox": [
+      "158.33",
+      "572.50",
+      "365.64",
+      "601.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ES ROLL",
+    "bbox": [
+      "364.89",
+      "572.50",
+      "455.41",
+      "601.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "At Ruth's Chris, our bar features drinks steepedD iInN NNewE ORrleans heritage along with new classic cocktails,",
+    "bbox": [
+      "62.25",
+      "617.83",
+      "550.75",
+      "639.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "each hand crafted with \u0000ne spirits and the freshest ingredients. Enjoy the relaxed, casual elegance of our",
+    "bbox": [
+      "61.32",
+      "633.58",
+      "551.67",
+      "644.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LUNCH",
+    "bbox": [
+      "281.82",
+      "643.03",
+      "331.94",
+      "661.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "bar area for your everyday celebrations and laissez les bon temps rouler!",
+    "bbox": [
+      "135.72",
+      "649.33",
+      "477.28",
+      "659.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BAR",
+    "bbox": [
+      "291.99",
+      "672.28",
+      "321.77",
+      "691.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "259.18",
+      "694.03",
+      "354.56",
+      "712.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TAKEOUT",
+    "bbox": [
+      "274.04",
+      "716.53",
+      "339.70",
+      "735.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.ruthschris.com/menu/bar/#red-wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "194.96",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/16",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/20/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "The Bar - Ruth's Chris Steak House",
+    "bbox": [
+      "288.13",
+      "15.70",
+      "415.04",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "b",
+    "bbox": [
+      "297.87",
+      "30.50",
+      "315.12",
+      "47.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Vintage & Classic Cocktails",
+    "bbox": [
+      "248.09",
+      "56.83",
+      "364.91",
+      "67.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BAR",
+    "bbox": [
+      "298.14",
+      "71.72",
+      "314.71",
+      "81.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DINNER",
+    "bbox": [
+      "279.57",
+      "620.53",
+      "334.17",
+      "639.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LUNCH",
+    "bbox": [
+      "281.82",
+      "643.03",
+      "331.94",
+      "661.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BAR",
+    "bbox": [
+      "291.99",
+      "672.28",
+      "321.77",
+      "691.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "259.18",
+      "694.03",
+      "354.56",
+      "712.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TAKEOUT",
+    "bbox": [
+      "274.04",
+      "716.53",
+      "339.70",
+      "735.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.ruthschris.com/menu/bar/#red-wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "194.96",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/16",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/20/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "The Bar - Ruth's Chris Steak House",
+    "bbox": [
+      "288.13",
+      "15.70",
+      "415.04",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BAR",
+    "bbox": [
+      "298.14",
+      "71.72",
+      "314.71",
+      "81.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "DINNER",
+    "bbox": [
+      "279.57",
+      "620.53",
+      "334.17",
+      "639.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "LUNCH",
+    "bbox": [
+      "281.82",
+      "643.03",
+      "331.94",
+      "661.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BAR",
+    "bbox": [
+      "291.99",
+      "672.28",
+      "321.77",
+      "691.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "259.18",
+      "694.03",
+      "354.56",
+      "712.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TAKEOUT",
+    "bbox": [
+      "274.04",
+      "716.53",
+      "339.70",
+      "735.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.ruthschris.com/menu/bar/#red-wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "194.96",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/16",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/20/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "The Bar - Ruth's Chris Steak House",
+    "bbox": [
+      "288.13",
+      "15.70",
+      "415.04",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Refreshing",
+    "bbox": [
+      "56.75",
+      "32.83",
+      "102.47",
+      "43.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "POMEGRANATE MARTINI",
+    "bbox": [
+      "56.75",
+      "49.67",
+      "193.32",
+      "64.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "tito’s handmade, cointreau, pomegranate, cranberryBAR",
+    "bbox": [
+      "56.75",
+      "71.72",
+      "314.71",
+      "82.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Timeless",
+    "bbox": [
+      "56.75",
+      "105.58",
+      "93.64",
+      "116.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "DIRTY GOOSE MARTINI",
+    "bbox": [
+      "56.75",
+      "122.42",
+      "182.49",
+      "137.42"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DIRTY GOOSE MARTINI",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "grey goose, dolin vermouth, bleu cheese olives",
+    "bbox": [
+      "56.75",
+      "144.58",
+      "275.47",
+      "155.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "grey goose, dolin vermouth, bleu cheese olives",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "A Fruity Finish",
+    "bbox": [
+      "56.75",
+      "178.33",
+      "118.55",
+      "188.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BLUEBERRY MOJITO",
+    "bbox": [
+      "56.75",
+      "195.17",
+      "166.94",
+      "210.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BLUEBERRY MOJITO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "bacardi superior, blueberries, fresh mint & lime",
+    "bbox": [
+      "56.75",
+      "217.33",
+      "278.57",
+      "227.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "bacardi superior, blueberries, fresh mint & lime",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "DINNER",
+    "bbox": [
+      "279.57",
+      "620.53",
+      "334.17",
+      "639.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "LUNCH",
+    "bbox": [
+      "281.82",
+      "643.03",
+      "331.94",
+      "661.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "BAR",
+    "bbox": [
+      "291.99",
+      "672.28",
+      "321.77",
+      "691.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "259.18",
+      "694.03",
+      "354.56",
+      "712.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "TAKEOUT",
+    "bbox": [
+      "274.04",
+      "716.53",
+      "339.70",
+      "735.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.ruthschris.com/menu/bar/#red-wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "194.96",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/16",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/20/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "The Bar - Ruth's Chris Steak House",
+    "bbox": [
+      "288.13",
+      "15.70",
+      "415.04",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BAR",
+    "bbox": [
+      "298.14",
+      "71.72",
+      "314.71",
+      "81.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "DINNER",
+    "bbox": [
+      "279.57",
+      "620.52",
+      "334.17",
+      "639.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "LUNCH",
+    "bbox": [
+      "281.82",
+      "643.02",
+      "331.94",
+      "661.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "BAR",
+    "bbox": [
+      "291.99",
+      "672.27",
+      "321.77",
+      "691.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "259.18",
+      "694.02",
+      "354.56",
+      "712.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "TAKEOUT",
+    "bbox": [
+      "274.04",
+      "716.52",
+      "339.70",
+      "735.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.ruthschris.com/menu/bar/#red-wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "194.96",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/16",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/20/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "The Bar - Ruth's Chris Steak House",
+    "bbox": [
+      "288.13",
+      "15.70",
+      "415.04",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Fresh & Fruity",
+    "bbox": [
+      "56.75",
+      "32.83",
+      "117.62",
+      "43.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RASPBERRY COSMO",
+    "bbox": [
+      "56.75",
+      "49.67",
+      "169.40",
+      "64.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "e\u0000en raspberry, cointreau, cranberry, fresh lime",
+    "bbox": [
+      "56.75",
+      "71.83",
+      "279.81",
+      "82.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BAR",
+    "bbox": [
+      "298.14",
+      "71.72",
+      "314.71",
+      "81.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "A Classic",
+    "bbox": [
+      "56.75",
+      "105.58",
+      "94.61",
+      "116.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "NOLA MULE",
+    "bbox": [
+      "56.75",
+      "122.42",
+      "122.42",
+      "137.42"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "NOLA MULE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ketel one, q ginger beer, fresh lime",
+    "bbox": [
+      "56.75",
+      "144.58",
+      "219.18",
+      "155.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ketel one, q ginger beer, fresh lime",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Ruth’s Favorite",
+    "bbox": [
+      "56.75",
+      "178.33",
+      "121.29",
+      "188.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "GAMBLER’S OLD FASHIONED",
+    "bbox": [
+      "56.75",
+      "195.17",
+      "212.25",
+      "210.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "GAMBLER’S OLD FASHIONED",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "knob creek, demerara, bitter truth aromatic bitters",
+    "bbox": [
+      "56.75",
+      "217.33",
+      "293.41",
+      "227.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "knob creek, demerara, bitter truth aromatic bitters",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "DINNER",
+    "bbox": [
+      "279.57",
+      "620.52",
+      "334.17",
+      "639.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "LUNCH",
+    "bbox": [
+      "281.82",
+      "643.02",
+      "331.94",
+      "661.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "BAR",
+    "bbox": [
+      "291.99",
+      "672.27",
+      "321.77",
+      "691.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "259.18",
+      "694.02",
+      "354.56",
+      "712.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "TAKEOUT",
+    "bbox": [
+      "274.04",
+      "716.52",
+      "339.70",
+      "735.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://www.ruthschris.com/menu/bar/#red-wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "194.96",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/16",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/20/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "The Bar - Ruth's Chris Steak House",
+    "bbox": [
+      "288.13",
+      "15.70",
+      "415.04",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BAR",
+    "bbox": [
+      "298.14",
+      "71.72",
+      "314.71",
+      "81.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "DINNER",
+    "bbox": [
+      "279.57",
+      "620.53",
+      "334.17",
+      "639.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "LUNCH",
+    "bbox": [
+      "281.82",
+      "643.03",
+      "331.94",
+      "661.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BAR",
+    "bbox": [
+      "291.99",
+      "672.28",
+      "321.77",
+      "691.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "259.18",
+      "694.03",
+      "354.56",
+      "712.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "TAKEOUT",
+    "bbox": [
+      "274.04",
+      "716.53",
+      "339.70",
+      "735.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://www.ruthschris.com/menu/bar/#red-wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "194.96",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/16",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/20/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "The Bar - Ruth's Chris Steak House",
+    "bbox": [
+      "288.13",
+      "15.70",
+      "415.04",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Tart",
+    "bbox": [
+      "56.75",
+      "32.83",
+      "73.78",
+      "43.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "ROCKS RITA",
+    "bbox": [
+      "56.75",
+      "49.67",
+      "123.66",
+      "64.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "herradura reposado, cointreau, fresh juices",
+    "bbox": [
+      "56.75",
+      "71.83",
+      "259.51",
+      "82.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BAR",
+    "bbox": [
+      "298.14",
+      "71.72",
+      "314.71",
+      "81.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Herbal Undertones",
+    "bbox": [
+      "56.75",
+      "105.58",
+      "140.32",
+      "116.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "RUTH'S MANHATTAN",
+    "bbox": [
+      "56.75",
+      "122.42",
+      "173.31",
+      "137.42"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RUTH'S MANHATTAN",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "woodford reserve, southern comfort, black cherry",
+    "bbox": [
+      "56.75",
+      "144.58",
+      "289.93",
+      "155.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "woodford reserve, southern comfort, black cherry",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Light & Refreshing",
+    "bbox": [
+      "56.75",
+      "178.33",
+      "136.35",
+      "188.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CLASSIC LEMON DROP",
+    "bbox": [
+      "56.75",
+      "195.17",
+      "181.56",
+      "210.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CLASSIC LEMON DROP",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "hangar 1, ketel one citroen, fresh lemon, sugar rim",
+    "bbox": [
+      "56.75",
+      "217.33",
+      "293.26",
+      "227.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "hangar 1, ketel one citroen, fresh lemon, sugar rim",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Classically Fruity",
+    "bbox": [
+      "56.75",
+      "251.08",
+      "129.63",
+      "261.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BLACKBERRY SIDECAR",
+    "bbox": [
+      "56.75",
+      "267.92",
+      "182.15",
+      "282.92"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BLACKBERRY SIDECAR",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "rémy martin vsop, cointreau, blackberries, plum bitters",
+    "bbox": [
+      "56.75",
+      "290.08",
+      "313.30",
+      "300.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "rémy martin vsop, cointreau, blackberries, plum bitters",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "b",
+    "bbox": [
+      "297.87",
+      "347.75",
+      "315.12",
+      "365.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Dessert Cocktails",
+    "bbox": [
+      "269.56",
+      "374.08",
+      "343.44",
+      "384.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "A Dessert Classic",
+    "bbox": [
+      "56.75",
+      "407.08",
+      "129.27",
+      "417.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "ESPRESSO MARTINI",
+    "bbox": [
+      "56.75",
+      "423.92",
+      "168.06",
+      "438.92"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ESPRESSO MARTINI",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "tito's handmade vodka, kahlúa co\u0000ee liqueur, fresh brewed espresso",
+    "bbox": [
+      "56.75",
+      "446.08",
+      "378.84",
+      "456.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "tito's handmade vodka, kahlúa co\u0000ee liqueur, fresh brewed espresso",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "A Perfect Finish",
+    "bbox": [
+      "56.75",
+      "479.83",
+      "123.41",
+      "490.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "IRISH COFFEE",
+    "bbox": [
+      "56.75",
+      "496.67",
+      "131.85",
+      "511.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "jameson irish whiskey, fresh brewed co\u0000ee, whipped cream",
+    "bbox": [
+      "56.75",
+      "518.83",
+      "334.61",
+      "529.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "The Way Ruth Liked It",
+    "bbox": [
+      "56.75",
+      "552.58",
+      "151.30",
+      "563.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "RUTH’S COFFEE",
+    "bbox": [
+      "56.75",
+      "569.42",
+      "142.76",
+      "584.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "frangelico, baileys irish cream, brandy, fresh brewed co\u0000ee, whipped cream, drizzled chocolate",
+    "bbox": [
+      "56.75",
+      "591.58",
+      "498.41",
+      "602.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "DINNER",
+    "bbox": [
+      "279.57",
+      "620.53",
+      "334.17",
+      "639.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Creamy & Decadent",
+    "bbox": [
+      "56.75",
+      "625.33",
+      "144.55",
+      "635.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CHOCOLATE LOVER’S DELIGHT COFFEE",
+    "bbox": [
+      "56.75",
+      "642.17",
+      "265.23",
+      "657.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "LUNCH",
+    "bbox": [
+      "281.82",
+      "643.03",
+      "331.94",
+      "661.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "godiva milk chocolate liqueur, dark crème de cacao, fresh brewed co\u0000ee, whipped cream",
+    "bbox": [
+      "56.75",
+      "664.33",
+      "473.08",
+      "674.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BAR",
+    "bbox": [
+      "291.99",
+      "672.28",
+      "321.77",
+      "691.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "259.18",
+      "694.03",
+      "354.56",
+      "712.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "TAKEOUT",
+    "bbox": [
+      "274.04",
+      "716.53",
+      "339.70",
+      "735.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://www.ruthschris.com/menu/bar/#red-wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "194.96",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/16",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "4/20/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "The Bar - Ruth's Chris Steak House",
+    "bbox": [
+      "288.13",
+      "15.70",
+      "415.04",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "BAR",
+    "bbox": [
+      "298.14",
+      "71.72",
+      "314.71",
+      "81.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "j",
+    "bbox": [
+      "295.25",
+      "104.75",
+      "317.75",
+      "127.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "ENJOY OUR W",
+    "bbox": [
+      "120.23",
+      "148.00",
+      "274.27",
+      "176.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "ORLD CLASS W",
+    "bbox": [
+      "273.52",
+      "148.00",
+      "441.08",
+      "176.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "INES",
+    "bbox": [
+      "440.33",
+      "148.00",
+      "493.52",
+      "176.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "winelist",
+    "bbox": [
+      "315.14",
+      "198.34",
+      "397.53",
+      "220.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Whether by the bottle or the glass our award-winning",
+    "bbox": [
+      "59.57",
+      "206.83",
+      "312.90",
+      "217.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "features over 150 labels from all",
+    "bbox": [
+      "399.78",
+      "206.83",
+      "553.42",
+      "217.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "over the world, with something to suit every mood and taste.",
+    "bbox": [
+      "164.07",
+      "238.33",
+      "448.92",
+      "248.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "RED W",
+    "bbox": [
+      "248.66",
+      "355.75",
+      "325.51",
+      "384.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "INE",
+    "bbox": [
+      "324.76",
+      "355.75",
+      "362.84",
+      "384.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Enjoyed by the bottle or by the glass, choose a red wine from our extensive selection of red wine.",
+    "bbox": [
+      "74.87",
+      "397.33",
+      "538.12",
+      "407.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Featuring wines by some of the \u0000nest wineries and vineyards in the world.",
+    "bbox": [
+      "133.52",
+      "413.08",
+      "479.48",
+      "423.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "b",
+    "bbox": [
+      "297.87",
+      "443.75",
+      "315.12",
+      "461.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "By the Glass",
+    "bbox": [
+      "279.56",
+      "470.08",
+      "333.44",
+      "480.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "california",
+    "bbox": [
+      "56.75",
+      "503.08",
+      "98.66",
+      "513.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "SEA SUN",
+    "bbox": [
+      "56.75",
+      "519.92",
+      "107.27",
+      "534.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "56.75",
+      "539.55",
+      "99.77",
+      "548.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "oregon",
+    "bbox": [
+      "56.75",
+      "571.33",
+      "87.87",
+      "581.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "BENTON LANE",
+    "bbox": [
+      "56.75",
+      "588.17",
+      "135.09",
+      "603.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "56.75",
+      "607.80",
+      "99.77",
+      "616.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "DINNER",
+    "bbox": [
+      "279.57",
+      "620.52",
+      "334.17",
+      "639.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "california",
+    "bbox": [
+      "56.75",
+      "639.58",
+      "98.66",
+      "650.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "LUNCH",
+    "bbox": [
+      "281.82",
+      "643.02",
+      "331.94",
+      "661.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "BELLE GLOS \"CLARK AND TELEPHONE\"",
+    "bbox": [
+      "56.75",
+      "656.42",
+      "266.04",
+      "671.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "BAR",
+    "bbox": [
+      "291.99",
+      "672.27",
+      "321.77",
+      "691.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "56.75",
+      "676.05",
+      "99.77",
+      "685.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "259.18",
+      "694.02",
+      "354.56",
+      "712.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "washington",
+    "bbox": [
+      "56.75",
+      "707.83",
+      "108.21",
+      "718.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "TAKEOUT",
+    "bbox": [
+      "274.04",
+      "716.52",
+      "339.70",
+      "735.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "65 & BROAD",
+    "bbox": [
+      "56.75",
+      "724.67",
+      "126.72",
+      "739.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "56.75",
+      "744.30",
+      "142.29",
+      "753.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "https://www.ruthschris.com/menu/bar/#red-wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "194.96",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "9/16",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "4/20/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "The Bar - Ruth's Chris Steak House",
+    "bbox": [
+      "288.13",
+      "15.70",
+      "415.04",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "california",
+    "bbox": [
+      "56.75",
+      "32.83",
+      "98.66",
+      "43.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "DAOU",
+    "bbox": [
+      "56.75",
+      "49.67",
+      "88.68",
+      "64.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "56.75",
+      "69.30",
+      "142.29",
+      "78.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "BAR",
+    "bbox": [
+      "298.14",
+      "71.72",
+      "314.71",
+      "81.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "california",
+    "bbox": [
+      "56.75",
+      "101.08",
+      "98.66",
+      "111.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "FAUST",
+    "bbox": [
+      "56.75",
+      "117.92",
+      "93.20",
+      "132.92"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FAUST",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "56.75",
+      "137.55",
+      "142.29",
+      "146.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET SAUVIGNON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "california",
+    "bbox": [
+      "56.75",
+      "169.33",
+      "98.66",
+      "179.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "ORIN SWIFT, \"8 YEARS IN THE DESERT\"",
+    "bbox": [
+      "56.75",
+      "186.17",
+      "272.72",
+      "201.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ORIN SWIFT, \"8 YEARS IN THE DESERT\"",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "ZINFANDEL BLEND",
+    "bbox": [
+      "56.75",
+      "205.80",
+      "123.42",
+      "214.80"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ZINFANDEL BLEND",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "argentina",
+    "bbox": [
+      "56.75",
+      "237.58",
+      "99.52",
+      "248.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "VIÑA COBOS",
+    "bbox": [
+      "56.75",
+      "254.42",
+      "125.88",
+      "269.42"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VIÑA COBOS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "MALBEC",
+    "bbox": [
+      "56.75",
+      "274.05",
+      "87.26",
+      "283.05"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MALBEC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "california",
+    "bbox": [
+      "56.75",
+      "305.83",
+      "98.66",
+      "316.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "CAYMUS-SUISUN",
+    "bbox": [
+      "56.75",
+      "322.67",
+      "154.46",
+      "337.67"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CAYMUS-SUISUN",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "GRAND DURIF",
+    "bbox": [
+      "56.75",
+      "342.30",
+      "106.77",
+      "351.30"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "GRAND DURIF",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "DINNER",
+    "bbox": [
+      "279.57",
+      "620.53",
+      "334.17",
+      "639.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "LUNCH",
+    "bbox": [
+      "281.82",
+      "643.03",
+      "331.94",
+      "661.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "BAR",
+    "bbox": [
+      "291.99",
+      "672.28",
+      "321.77",
+      "691.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "259.18",
+      "694.03",
+      "354.56",
+      "712.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "TAKEOUT",
+    "bbox": [
+      "274.04",
+      "716.53",
+      "339.70",
+      "735.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "https://www.ruthschris.com/menu/bar/#red-wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "194.96",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "10/16",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "4/20/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "The Bar - Ruth's Chris Steak House",
+    "bbox": [
+      "288.13",
+      "15.70",
+      "415.04",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "BAR",
+    "bbox": [
+      "298.14",
+      "71.72",
+      "314.71",
+      "81.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "DINNER",
+    "bbox": [
+      "279.57",
+      "620.53",
+      "334.17",
+      "639.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "LUNCH",
+    "bbox": [
+      "281.82",
+      "643.03",
+      "331.94",
+      "661.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "BAR",
+    "bbox": [
+      "291.99",
+      "672.28",
+      "321.77",
+      "691.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "259.18",
+      "694.03",
+      "354.56",
+      "712.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "TAKEOUT",
+    "bbox": [
+      "274.04",
+      "716.53",
+      "339.70",
+      "735.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "b",
+    "bbox": [
+      "300.50",
+      "758.75",
+      "312.50",
+      "770.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "https://www.ruthschris.com/menu/bar/#red-wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "194.96",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "11/16",
+    "bbox": [
+      "566.09",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "4/20/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "The Bar - Ruth's Chris Steak House",
+    "bbox": [
+      "288.13",
+      "15.70",
+      "415.04",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "b",
+    "bbox": [
+      "300.50",
+      "23.75",
+      "312.50",
+      "35.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "W",
+    "bbox": [
+      "233.60",
+      "71.50",
+      "257.34",
+      "100.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "HITEBA RW",
+    "bbox": [
+      "256.59",
+      "71.50",
+      "340.58",
+      "100.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "INE",
+    "bbox": [
+      "339.83",
+      "71.50",
+      "377.91",
+      "100.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "From bright and fresh to crisp and dry, select a white wine from our award winning wine list, or let us",
+    "bbox": [
+      "64.37",
+      "113.08",
+      "548.64",
+      "123.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "suggest something to suit your personal taste.",
+    "bbox": [
+      "196.45",
+      "128.83",
+      "416.54",
+      "139.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "b",
+    "bbox": [
+      "297.87",
+      "159.50",
+      "315.12",
+      "176.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "By the Glass",
+    "bbox": [
+      "279.56",
+      "185.83",
+      "333.44",
+      "196.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "DINNER",
+    "bbox": [
+      "279.57",
+      "620.53",
+      "334.17",
+      "639.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "LUNCH",
+    "bbox": [
+      "281.82",
+      "643.03",
+      "331.94",
+      "661.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "BAR",
+    "bbox": [
+      "291.99",
+      "672.28",
+      "321.77",
+      "691.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "259.18",
+      "694.03",
+      "354.56",
+      "712.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "TAKEOUT",
+    "bbox": [
+      "274.04",
+      "716.53",
+      "339.70",
+      "735.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "https://www.ruthschris.com/menu/bar/#red-wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "194.96",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "12/16",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "4/20/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "The Bar - Ruth's Chris Steak House",
+    "bbox": [
+      "288.13",
+      "15.70",
+      "415.04",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "BAR",
+    "bbox": [
+      "298.14",
+      "71.72",
+      "314.71",
+      "81.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "DINNER",
+    "bbox": [
+      "279.57",
+      "620.52",
+      "334.17",
+      "639.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "LUNCH",
+    "bbox": [
+      "281.82",
+      "643.02",
+      "331.94",
+      "661.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "BAR",
+    "bbox": [
+      "291.99",
+      "672.27",
+      "321.77",
+      "691.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "259.18",
+      "694.02",
+      "354.56",
+      "712.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "TAKEOUT",
+    "bbox": [
+      "274.04",
+      "716.52",
+      "339.70",
+      "735.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "https://www.ruthschris.com/menu/bar/#red-wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "194.96",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "13/16",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "4/20/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "The Bar - Ruth's Chris Steak House",
+    "bbox": [
+      "288.13",
+      "15.70",
+      "415.04",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "washington",
+    "bbox": [
+      "56.75",
+      "32.83",
+      "108.21",
+      "43.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "65 & BROAD",
+    "bbox": [
+      "56.75",
+      "49.67",
+      "126.72",
+      "64.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "56.75",
+      "69.30",
+      "107.78",
+      "78.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "BAR",
+    "bbox": [
+      "298.14",
+      "71.72",
+      "314.71",
+      "81.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "california",
+    "bbox": [
+      "56.75",
+      "101.08",
+      "98.66",
+      "111.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "MER SOLEIL",
+    "bbox": [
+      "56.75",
+      "117.92",
+      "123.35",
+      "132.92"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MER SOLEIL",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "56.75",
+      "137.55",
+      "107.78",
+      "146.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "italy",
+    "bbox": [
+      "56.75",
+      "169.33",
+      "75.30",
+      "179.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "SANTA CRISTINA",
+    "bbox": [
+      "56.75",
+      "186.17",
+      "150.66",
+      "201.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SANTA CRISTINA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "PINOT GRIGIO",
+    "bbox": [
+      "56.75",
+      "205.80",
+      "106.78",
+      "214.80"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT GRIGIO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "california",
+    "bbox": [
+      "56.75",
+      "237.58",
+      "98.66",
+      "248.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "DRY CREEK VINEYARDS",
+    "bbox": [
+      "56.75",
+      "254.42",
+      "186.68",
+      "269.42"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DRY CREEK VINEYARDS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "56.75",
+      "274.05",
+      "127.78",
+      "283.05"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "france",
+    "bbox": [
+      "56.75",
+      "305.83",
+      "84.33",
+      "316.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "WHISPERING ANGEL",
+    "bbox": [
+      "56.75",
+      "322.67",
+      "169.70",
+      "337.67"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "WHISPERING ANGEL",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "ROSÉ",
+    "bbox": [
+      "56.75",
+      "342.30",
+      "76.26",
+      "351.30"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ROSÉ",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "california",
+    "bbox": [
+      "56.75",
+      "374.08",
+      "98.66",
+      "384.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "EOS",
+    "bbox": [
+      "56.75",
+      "390.92",
+      "79.43",
+      "405.92"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "EOS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "MOSCATO",
+    "bbox": [
+      "56.75",
+      "410.55",
+      "92.78",
+      "419.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MOSCATO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "germany",
+    "bbox": [
+      "56.75",
+      "442.33",
+      "96.06",
+      "452.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "R. PRÜM, “ESSENCE\"",
+    "bbox": [
+      "56.75",
+      "459.17",
+      "174.87",
+      "474.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "R. PRÜM, “ESSENCE\"",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "RIESLING",
+    "bbox": [
+      "56.75",
+      "478.80",
+      "90.76",
+      "487.80"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RIESLING",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "b",
+    "bbox": [
+      "300.50",
+      "516.50",
+      "312.50",
+      "528.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "SPARKLING W",
+    "bbox": [
+      "120.23",
+      "564.25",
+      "278.65",
+      "592.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "INE & CHAM",
+    "bbox": [
+      "277.90",
+      "564.25",
+      "419.11",
+      "592.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "PAGNE",
+    "bbox": [
+      "418.36",
+      "564.25",
+      "493.51",
+      "592.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "You don't need a special occasion to celebrate with our selection of \u0000ne champagnes and sparkling wines.",
+    "bbox": [
+      "58.36",
+      "605.83",
+      "554.63",
+      "616.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "DINNER",
+    "bbox": [
+      "279.57",
+      "620.52",
+      "334.17",
+      "639.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "LUNCH",
+    "bbox": [
+      "281.82",
+      "643.02",
+      "331.94",
+      "661.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "italy",
+    "bbox": [
+      "56.75",
+      "657.58",
+      "75.30",
+      "668.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "BENVOLIO",
+    "bbox": [
+      "56.75",
+      "674.42",
+      "112.35",
+      "689.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "BAR",
+    "bbox": [
+      "291.99",
+      "672.27",
+      "321.77",
+      "691.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "PROSECCO",
+    "bbox": [
+      "56.75",
+      "694.05",
+      "96.28",
+      "703.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "259.18",
+      "694.02",
+      "354.56",
+      "712.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "TAKEOUT",
+    "bbox": [
+      "274.04",
+      "716.52",
+      "339.70",
+      "735.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "france",
+    "bbox": [
+      "56.75",
+      "725.83",
+      "84.33",
+      "736.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "VEUVE CLICQOUT",
+    "bbox": [
+      "56.75",
+      "742.67",
+      "152.87",
+      "757.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "https://www.ruthschris.com/menu/bar/#red-wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "194.96",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "14/16",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "4/20/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "The Bar - Ruth's Chris Steak House",
+    "bbox": [
+      "288.13",
+      "15.70",
+      "415.04",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "BRUT",
+    "bbox": [
+      "56.75",
+      "31.05",
+      "76.76",
+      "40.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "BbAR",
+    "bbox": [
+      "298.14",
+      "68.75",
+      "314.71",
+      "81.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "RUTH'S CELLAR",
+    "bbox": [
+      "220.32",
+      "116.50",
+      "393.44",
+      "145.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "We have a variety of wines available by the bottle. For a more complete list of wines by the bottle, please",
+    "bbox": [
+      "60.39",
+      "158.08",
+      "552.59",
+      "168.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "contact your local Ruth's Chris as product and availability can vary.",
+    "bbox": [
+      "151.82",
+      "173.83",
+      "461.18",
+      "184.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "france",
+    "bbox": [
+      "56.75",
+      "225.58",
+      "84.33",
+      "236.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "NICOLAS FEUILLATTE",
+    "bbox": [
+      "56.75",
+      "242.42",
+      "172.35",
+      "257.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "BRUT",
+    "bbox": [
+      "56.75",
+      "262.05",
+      "76.76",
+      "271.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "new zealand",
+    "bbox": [
+      "56.75",
+      "293.83",
+      "112.05",
+      "304.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "LOVEBLOCK BY KIM CRAWFORD",
+    "bbox": [
+      "56.75",
+      "310.67",
+      "231.62",
+      "325.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "56.75",
+      "330.30",
+      "127.78",
+      "339.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "california",
+    "bbox": [
+      "56.75",
+      "362.08",
+      "98.66",
+      "372.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "FREEMARK ABBEY",
+    "bbox": [
+      "56.75",
+      "378.92",
+      "158.72",
+      "393.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "56.75",
+      "398.55",
+      "127.78",
+      "407.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "italy",
+    "bbox": [
+      "56.75",
+      "430.33",
+      "75.30",
+      "440.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "SANTA MARGHERITA",
+    "bbox": [
+      "56.75",
+      "447.17",
+      "171.95",
+      "462.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "PINOT GRIGIO",
+    "bbox": [
+      "56.75",
+      "466.80",
+      "106.78",
+      "475.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "california",
+    "bbox": [
+      "56.75",
+      "498.58",
+      "98.66",
+      "509.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "ROMBAUER",
+    "bbox": [
+      "56.75",
+      "515.42",
+      "121.53",
+      "530.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "56.75",
+      "535.05",
+      "107.78",
+      "544.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "california",
+    "bbox": [
+      "56.75",
+      "566.83",
+      "98.66",
+      "577.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "CAKEBREAD",
+    "bbox": [
+      "56.75",
+      "583.67",
+      "124.13",
+      "598.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "56.75",
+      "603.30",
+      "107.78",
+      "612.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "DINNER",
+    "bbox": [
+      "279.57",
+      "620.53",
+      "334.17",
+      "639.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "oregon",
+    "bbox": [
+      "56.75",
+      "635.08",
+      "87.87",
+      "645.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "LUNCH",
+    "bbox": [
+      "281.82",
+      "643.03",
+      "331.94",
+      "661.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "SIDURI",
+    "bbox": [
+      "56.75",
+      "651.92",
+      "95.52",
+      "666.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "56.75",
+      "671.55",
+      "99.77",
+      "680.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "BAR",
+    "bbox": [
+      "291.99",
+      "672.28",
+      "321.77",
+      "691.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "259.18",
+      "694.03",
+      "354.56",
+      "712.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "california",
+    "bbox": [
+      "56.75",
+      "703.33",
+      "98.66",
+      "713.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "TAKEOUT",
+    "bbox": [
+      "274.04",
+      "716.53",
+      "339.70",
+      "735.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "FLOWERS",
+    "bbox": [
+      "56.75",
+      "720.17",
+      "110.58",
+      "735.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "56.75",
+      "739.80",
+      "99.77",
+      "748.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "https://www.ruthschris.com/menu/bar/#red-wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "194.96",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "15/16",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "4/20/22, 9:31 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "The Bar - Ruth's Chris Steak House",
+    "bbox": [
+      "288.13",
+      "15.70",
+      "415.04",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "california",
+    "bbox": [
+      "56.75",
+      "32.83",
+      "98.66",
+      "43.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "FERRARI-CARANO",
+    "bbox": [
+      "56.75",
+      "49.67",
+      "154.55",
+      "64.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "MERLOT",
+    "bbox": [
+      "56.75",
+      "69.30",
+      "86.76",
+      "78.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "BAR",
+    "bbox": [
+      "298.14",
+      "71.72",
+      "314.71",
+      "81.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "california",
+    "bbox": [
+      "56.75",
+      "101.08",
+      "98.66",
+      "111.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "THE PRISONER",
+    "bbox": [
+      "56.75",
+      "117.92",
+      "139.37",
+      "132.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "RED BLEND",
+    "bbox": [
+      "56.75",
+      "137.55",
+      "97.76",
+      "146.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "california",
+    "bbox": [
+      "56.75",
+      "169.33",
+      "98.66",
+      "179.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "CAYMUS",
+    "bbox": [
+      "56.75",
+      "186.17",
+      "106.37",
+      "201.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "56.75",
+      "205.80",
+      "142.29",
+      "214.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "california",
+    "bbox": [
+      "56.75",
+      "237.58",
+      "98.66",
+      "248.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "SILVER OAK",
+    "bbox": [
+      "56.75",
+      "254.42",
+      "121.71",
+      "269.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "56.75",
+      "274.05",
+      "142.29",
+      "283.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "The above options vary by location. Please check with your local Ruth's Chris to con\u0000rm pricing",
+    "bbox": [
+      "67.20",
+      "332.52",
+      "545.80",
+      "344.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "and availability .",
+    "bbox": [
+      "263.00",
+      "349.02",
+      "349.99",
+      "361.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "https://www.ruthschris.com/menu/bar/#red-wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "194.96",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "16/16",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

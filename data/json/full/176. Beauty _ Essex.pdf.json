@@ -1,0 +1,4065 @@
+[
+  {
+    "page_number": 1,
+    "text": "W",
+    "bbox": [
+      "300.68",
+      "55.07",
+      "320.78",
+      "81.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ines by the glass",
+    "bbox": [
+      "320.78",
+      "55.07",
+      "436.58",
+      "81.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sparkling",
+    "bbox": [
+      "169.57",
+      "96.90",
+      "233.98",
+      "116.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "N.V. Prosecco,  Della Scala, Italy",
+    "bbox": [
+      "234.00",
+      "123.82",
+      "366.60",
+      "134.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "N.V. Prosecco,  Della Scala, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "14",
+    "bbox": [
+      "544.12",
+      "123.82",
+      "554.39",
+      "134.82"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "N.V. Brut Classic, Chandon, California",
+    "bbox": [
+      "234.00",
+      "142.82",
+      "391.79",
+      "153.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "N.V. Brut Classic, Chandon, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15",
+    "bbox": [
+      "544.12",
+      "142.82",
+      "554.39",
+      "153.82"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "N.V. Cava Rosé, Vilarnau",
+    "bbox": [
+      "234.00",
+      "161.82",
+      "338.78",
+      "172.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "N.V. Cava Rosé, Vilarnau",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16",
+    "bbox": [
+      "544.12",
+      "161.82",
+      "554.39",
+      "172.82"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "N.V. Brut Champagne “Yellow Label”, Veuve Clicquot",
+    "bbox": [
+      "234.00",
+      "180.82",
+      "456.24",
+      "191.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "N.V. Brut Champagne “Yellow Label”, Veuve Clicquot",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "25",
+    "bbox": [
+      "544.12",
+      "180.82",
+      "554.39",
+      "191.82"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "25",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "White",
+    "bbox": [
+      "198.17",
+      "199.04",
+      "233.99",
+      "219.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Riesling, Selbach, Mosel, Germany 2019",
+    "bbox": [
+      "234.33",
+      "227.36",
+      "412.28",
+      "240.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Riesling, Selbach, Mosel, Germany",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "14",
+    "bbox": [
+      "543.52",
+      "228.71",
+      "554.78",
+      "240.71"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pinot Grigio, Zuccolo, Friuli, Italy 2018",
+    "bbox": [
+      "234.24",
+      "249.36",
+      "411.90",
+      "262.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Grigio, Zuccolo, Friuli, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 37
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16",
+    "bbox": [
+      "543.43",
+      "250.71",
+      "554.69",
+      "262.71"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Viognier, Côtes du Rhone, Gaillard, ‘Les Gendrines’ 2014",
+    "bbox": [
+      "234.13",
+      "274.37",
+      "475.86",
+      "287.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Viognier, Côtes du Rhone, Gaillard, ‘Les Gendrines’",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "20",
+    "bbox": [
+      "543.31",
+      "275.70",
+      "554.57",
+      "287.70"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "20",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chardonnay, Joe Dobb, Willamette Valley, Oregon 2017",
+    "bbox": [
+      "234.03",
+      "296.36",
+      "482.50",
+      "309.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay, Joe Dobb, Willamette Valley, Oregon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "543.22",
+      "297.71",
+      "554.48",
+      "309.71"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sauvignon Blanc, Prisma, Casablanca Vally, California 2020",
+    "bbox": [
+      "233.94",
+      "318.35",
+      "494.99",
+      "331.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc, Prisma, Casablanca Vally, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "543.12",
+      "319.70",
+      "554.39",
+      "331.70"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "R",
+    "bbox": [
+      "199.45",
+      "344.44",
+      "220.13",
+      "364.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ose´",
+    "bbox": [
+      "220.13",
+      "344.44",
+      "234.41",
+      "364.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bosman Family, ‘47 Varietal, Western Cape, S. Africa 2018",
+    "bbox": [
+      "233.35",
+      "370.70",
+      "491.17",
+      "382.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bosman Family, ‘47 Varietal, Western Cape, S. Africa",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15",
+    "bbox": [
+      "543.14",
+      "370.70",
+      "554.35",
+      "382.70"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Whispering Angel ‘The Palm’, Provence 2018                                             16",
+    "bbox": [
+      "233.35",
+      "392.70",
+      "554.35",
+      "404.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Whispering Angel ‘The Palm’, Provence",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 38
+          }
+        ],
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 87
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Fleur de Mer, Cote de Provence 2018                                                                       14",
+    "bbox": [
+      "233.35",
+      "414.70",
+      "553.63",
+      "426.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Fleur de Mer, Cote de Provence",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 31
+          }
+        ],
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 106
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "R",
+    "bbox": [
+      "201.37",
+      "445.44",
+      "222.05",
+      "465.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ed",
+    "bbox": [
+      "222.05",
+      "445.44",
+      "233.33",
+      "465.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pinot Noir, Bacchus “Ginger’s Cuvée”, California 2018",
+    "bbox": [
+      "234.00",
+      "470.99",
+      "475.05",
+      "482.99"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir, Bacchus “Ginger’s Cuvée”, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16",
+    "bbox": [
+      "543.19",
+      "470.99",
+      "554.39",
+      "482.99"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Malbec, Terrazas de los Andes, Mendoza, Argentina 2017",
+    "bbox": [
+      "234.00",
+      "494.99",
+      "488.31",
+      "506.99"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Malbec, Terrazas de los Andes, Mendoza, Argentina",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "16",
+    "bbox": [
+      "543.19",
+      "494.99",
+      "554.40",
+      "506.99"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cabernet Sauvignon, Banshee, Paso Robles, California 2019",
+    "bbox": [
+      "234.00",
+      "518.99",
+      "510.95",
+      "530.99"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon, Banshee, Paso Robles, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "543.19",
+      "518.99",
+      "556.80",
+      "530.99"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rioja, CVNE Viña REal Crianza, Spain, 2016",
+    "bbox": [
+      "234.00",
+      "542.99",
+      "435.36",
+      "554.99"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rioja, CVNE Viña REal Crianza, Spain,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "14",
+    "bbox": [
+      "543.19",
+      "542.99",
+      "554.40",
+      "554.99"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sparkling",
+    "bbox": [
+      "366.66",
+      "68.45",
+      "450.39",
+      "94.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Non-Vintage Champagne",
+    "bbox": [
+      "349.49",
+      "134.17",
+      "467.59",
+      "149.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Eric Rodez",
+    "bbox": [
+      "231.08",
+      "158.70",
+      "449.37",
+      "170.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "102",
+    "bbox": [
+      "564.39",
+      "158.70",
+      "586.00",
+      "170.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pierre Peters, ‘Cuvée Reserve’",
+    "bbox": [
+      "231.08",
+      "179.70",
+      "362.83",
+      "191.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "135",
+    "bbox": [
+      "569.19",
+      "179.70",
+      "586.00",
+      "191.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Moët & Chandon, Imperial",
+    "bbox": [
+      "231.08",
+      "200.70",
+      "352.96",
+      "212.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "154",
+    "bbox": [
+      "569.19",
+      "200.70",
+      "586.00",
+      "212.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Ruinart, Blanc de Blancs",
+    "bbox": [
+      "231.08",
+      "221.70",
+      "339.31",
+      "233.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "165",
+    "bbox": [
+      "569.19",
+      "221.70",
+      "586.00",
+      "233.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Perrier Jouet, Grand Brut",
+    "bbox": [
+      "231.08",
+      "242.70",
+      "344.10",
+      "254.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "185",
+    "bbox": [
+      "569.19",
+      "242.70",
+      "586.00",
+      "254.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cheurlin Thomas , ‘Le Champion’,  Blanc de Noir",
+    "bbox": [
+      "231.08",
+      "263.70",
+      "449.42",
+      "275.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "215",
+    "bbox": [
+      "569.19",
+      "263.70",
+      "586.00",
+      "275.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rosé Champagne",
+    "bbox": [
+      "369.05",
+      "302.17",
+      "448.03",
+      "317.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Veuve Clicquot",
+    "bbox": [
+      "231.08",
+      "326.70",
+      "307.35",
+      "338.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "172",
+    "bbox": [
+      "465.99",
+      "326.70",
+      "586.00",
+      "338.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Moët & Chandon, Rosé Imperial",
+    "bbox": [
+      "231.08",
+      "347.70",
+      "375.91",
+      "359.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "165",
+    "bbox": [
+      "569.19",
+      "347.70",
+      "586.00",
+      "359.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Billecart-Salmon",
+    "bbox": [
+      "231.08",
+      "368.70",
+      "306.99",
+      "380.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "194",
+    "bbox": [
+      "569.19",
+      "368.70",
+      "586.00",
+      "380.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Veuve Clicquot 1.5L",
+    "bbox": [
+      "231.08",
+      "389.70",
+      "326.86",
+      "401.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "368",
+    "bbox": [
+      "569.19",
+      "389.70",
+      "586.00",
+      "401.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dom Pérignon 2004",
+    "bbox": [
+      "231.08",
+      "410.70",
+      "321.86",
+      "422.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "875",
+    "bbox": [
+      "569.19",
+      "410.70",
+      "586.00",
+      "422.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Vintage Sparkling and Champagne",
+    "bbox": [
+      "324.98",
+      "449.17",
+      "492.11",
+      "464.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cava, Terrers Brut Nature Gran Reserva, Recaredo 2013",
+    "bbox": [
+      "231.08",
+      "473.70",
+      "478.97",
+      "485.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "75",
+    "bbox": [
+      "574.80",
+      "473.70",
+      "586.00",
+      "485.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dom Pérignon 2010",
+    "bbox": [
+      "231.08",
+      "494.70",
+      "321.86",
+      "506.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "346",
+    "bbox": [
+      "569.19",
+      "494.70",
+      "586.00",
+      "506.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dom Pérignon 2005 1.5L",
+    "bbox": [
+      "231.08",
+      "515.70",
+      "343.77",
+      "527.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "1,100",
+    "bbox": [
+      "558.79",
+      "515.70",
+      "586.00",
+      "527.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Veuve Cliquot, ‘La Grande Dame’ 2008",
+    "bbox": [
+      "231.08",
+      "536.70",
+      "417.86",
+      "548.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "550",
+    "bbox": [
+      "518.79",
+      "536.70",
+      "586.00",
+      "548.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "W",
+    "bbox": [
+      "342.63",
+      "55.07",
+      "362.73",
+      "81.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "hite W",
+    "bbox": [
+      "362.73",
+      "55.07",
+      "413.80",
+      "81.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ines",
+    "bbox": [
+      "413.80",
+      "55.07",
+      "442.14",
+      "81.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "206.93",
+      "96.24",
+      "273.21",
+      "111.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chablis Premier Cru, Dauvissat, Burgundy, France 2015",
+    "bbox": [
+      "220.34",
+      "117.59",
+      "453.62",
+      "129.59"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chablis Premier Cru, Dauvissat, Burgundy, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "85",
+    "bbox": [
+      "580.49",
+      "117.59",
+      "591.14",
+      "129.59"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "85",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chassagne-Montrachet 1er Cru, J. M. Morey, Les Chenevottes, Burgundy, France  2013",
+    "bbox": [
+      "220.34",
+      "140.59",
+      "542.86",
+      "152.59"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chassagne-Montrachet 1er Cru, J. M. Morey, Les Chenevottes, Burgundy, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 78
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "175",
+    "bbox": [
+      "575.58",
+      "140.59",
+      "590.71",
+      "152.59"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "175",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Hanzell “Sebella” Chardonnay, Sonoma, California 2018",
+    "bbox": [
+      "220.34",
+      "163.59",
+      "455.92",
+      "175.59"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Hanzell “Sebella” Chardonnay, Sonoma, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "72",
+    "bbox": [
+      "580.49",
+      "163.59",
+      "591.14",
+      "175.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Lioco, Russian River, California 2016",
+    "bbox": [
+      "220.34",
+      "186.59",
+      "376.42",
+      "198.59"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Lioco, Russian River, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "86",
+    "bbox": [
+      "580.49",
+      "186.59",
+      "591.14",
+      "198.59"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "86",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Jordan Chardonnay, Russian River Valley, 2017",
+    "bbox": [
+      "220.34",
+      "209.59",
+      "418.24",
+      "221.59"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Jordan Chardonnay, Russian River Valley,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "92",
+    "bbox": [
+      "580.49",
+      "209.59",
+      "591.14",
+      "221.59"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "92",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Jayson by Pahlmeyer, North Coast 2016",
+    "bbox": [
+      "220.34",
+      "232.59",
+      "387.83",
+      "244.59"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Jayson by Pahlmeyer, North Coast",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "125",
+    "bbox": [
+      "575.16",
+      "232.59",
+      "591.14",
+      "244.59"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "125",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Torchiana, TOR, Kenward Family Vineyards 2012",
+    "bbox": [
+      "220.34",
+      "255.59",
+      "498.67",
+      "267.59"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Torchiana, TOR, Kenward Family Vineyards",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2012",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "150",
+    "bbox": [
+      "575.16",
+      "255.59",
+      "591.14",
+      "267.59"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "150",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Paul Hobbs, Russian River Valley 2016",
+    "bbox": [
+      "220.34",
+      "278.59",
+      "389.08",
+      "290.59"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Paul Hobbs, Russian River Valley",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "195",
+    "bbox": [
+      "575.16",
+      "278.59",
+      "591.14",
+      "290.59"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "195",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "206.93",
+      "304.96",
+      "302.07",
+      "319.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Loveblock, Marlborough, New Zealand 2019",
+    "bbox": [
+      "220.34",
+      "325.98",
+      "410.64",
+      "337.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Loveblock, Marlborough, New Zealand",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "64",
+    "bbox": [
+      "565.94",
+      "325.98",
+      "591.15",
+      "337.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pouilly Fumé, Dechamps, Loire Valley, France 2018",
+    "bbox": [
+      "220.34",
+      "348.98",
+      "435.84",
+      "360.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pouilly Fumé, Dechamps, Loire Valley, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "68",
+    "bbox": [
+      "580.49",
+      "348.98",
+      "591.14",
+      "360.98"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "68",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Decoy Duckhorn, Napa Valley, California 2018",
+    "bbox": [
+      "220.34",
+      "371.98",
+      "419.44",
+      "383.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Decoy Duckhorn, Napa Valley, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "78",
+    "bbox": [
+      "580.49",
+      "371.98",
+      "591.14",
+      "383.98"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "78",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sancerre, Crochet “Croix du Roy”, Loire Vally, France 2019",
+    "bbox": [
+      "220.34",
+      "394.98",
+      "470.36",
+      "406.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sancerre, Crochet “Croix du Roy”, Loire Vally, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "72",
+    "bbox": [
+      "580.49",
+      "394.98",
+      "591.14",
+      "406.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Illumination, Quintessa, Napa Vally, California 2018",
+    "bbox": [
+      "220.34",
+      "417.98",
+      "441.32",
+      "429.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Illumination, Quintessa, Napa Vally, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "98",
+    "bbox": [
+      "565.94",
+      "417.98",
+      "590.99",
+      "429.98"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "98",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RIESLING",
+    "bbox": [
+      "206.93",
+      "446.36",
+      "253.27",
+      "461.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Selbach-Oster, Spätlese Wehlener-Sonnenuhr, Germany 2015",
+    "bbox": [
+      "220.34",
+      "466.72",
+      "555.38",
+      "478.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Selbach-Oster, Spätlese Wehlener-Sonnenuhr, Germany",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "70",
+    "bbox": [
+      "575.13",
+      "466.72",
+      "591.14",
+      "478.72"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "70",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Domaine Mittnacht, ‘Terres d’etoiles’, Alsace 2018",
+    "bbox": [
+      "220.34",
+      "489.72",
+      "443.78",
+      "501.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Mittnacht, ‘Terres d’etoiles’, Alsace",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "55",
+    "bbox": [
+      "579.93",
+      "489.72",
+      "591.14",
+      "501.72"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "55",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Carl Loewen Estate, Mosel, Germany 2017",
+    "bbox": [
+      "220.34",
+      "512.72",
+      "408.37",
+      "524.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Carl Loewen Estate, Mosel, Germany",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "62",
+    "bbox": [
+      "579.93",
+      "512.72",
+      "591.14",
+      "524.72"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "62",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Kamptal, Loimer, Austria 2014",
+    "bbox": [
+      "220.34",
+      "535.72",
+      "358.37",
+      "547.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Kamptal, Loimer, Austria",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "68",
+    "bbox": [
+      "579.93",
+      "535.72",
+      "591.14",
+      "547.72"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "68",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "OTHER INTERESTING WHITES",
+    "bbox": [
+      "217.36",
+      "49.27",
+      "362.92",
+      "64.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Listan Blanco, Tajinaste, Canary Islands 2018",
+    "bbox": [
+      "231.64",
+      "73.98",
+      "430.24",
+      "85.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "56",
+    "bbox": [
+      "571.43",
+      "73.98",
+      "582.64",
+      "85.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Condrieu, Yves Cuilleron, La Petite Côte, France 2016",
+    "bbox": [
+      "231.64",
+      "98.98",
+      "470.57",
+      "110.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "100",
+    "bbox": [
+      "565.83",
+      "98.98",
+      "582.64",
+      "110.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pinot Blanc, Kreydenweiss, Kritt, Alsace 2015",
+    "bbox": [
+      "231.64",
+      "123.98",
+      "436.35",
+      "135.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "62",
+    "bbox": [
+      "571.43",
+      "123.98",
+      "582.64",
+      "135.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Gewurztraminer, Domaine Bechtold, ‘Engelberg’, Alsace France 2012",
+    "bbox": [
+      "231.64",
+      "148.98",
+      "518.39",
+      "160.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "72",
+    "bbox": [
+      "571.43",
+      "148.98",
+      "582.64",
+      "160.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Vouvray Sec, Foreau,  ‘Clos Naudin’ France 2013",
+    "bbox": [
+      "231.64",
+      "173.98",
+      "447.58",
+      "185.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "75",
+    "bbox": [
+      "571.43",
+      "173.98",
+      "582.64",
+      "185.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Grüner Veltliner, Nigl, ‘Freiheit’, Kremstal, Austria 2018",
+    "bbox": [
+      "231.64",
+      "198.98",
+      "484.71",
+      "210.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "50",
+    "bbox": [
+      "571.43",
+      "198.98",
+      "582.64",
+      "210.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Albariño, Tricó, Rías Baixas, Spain 2016",
+    "bbox": [
+      "231.64",
+      "223.98",
+      "408.31",
+      "235.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "60",
+    "bbox": [
+      "571.43",
+      "223.98",
+      "582.64",
+      "235.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Las Islas, Forastera Blanca, Canary Islands 2014",
+    "bbox": [
+      "231.64",
+      "248.98",
+      "439.72",
+      "260.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "72",
+    "bbox": [
+      "571.43",
+      "248.98",
+      "582.64",
+      "260.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Vermentino, Terenzuola Tuscany, Italy 2018",
+    "bbox": [
+      "231.64",
+      "273.98",
+      "428.57",
+      "285.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "65",
+    "bbox": [
+      "571.43",
+      "273.98",
+      "582.64",
+      "285.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Gaja, Ca’ Marcanda Vistamare, Tuscany 2016",
+    "bbox": [
+      "231.64",
+      "298.98",
+      "431.32",
+      "310.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "156",
+    "bbox": [
+      "565.83",
+      "298.98",
+      "582.64",
+      "310.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pinot Grigio, Oltrepo Pavese, Bruno Verdi, Italy 2019",
+    "bbox": [
+      "231.64",
+      "323.98",
+      "468.95",
+      "335.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "52",
+    "bbox": [
+      "571.43",
+      "323.98",
+      "582.64",
+      "335.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Altesse, Vens Le Haut, France 2011",
+    "bbox": [
+      "231.64",
+      "348.98",
+      "389.80",
+      "360.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "86",
+    "bbox": [
+      "571.43",
+      "348.98",
+      "582.64",
+      "360.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chateau de Pibarnon, Bandol Blanc 2015",
+    "bbox": [
+      "231.64",
+      "373.98",
+      "414.89",
+      "385.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "82",
+    "bbox": [
+      "566.63",
+      "373.98",
+      "582.64",
+      "385.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chateau Carbonnieux, Grand Cru, Pessac-Leognan 2014",
+    "bbox": [
+      "231.64",
+      "398.98",
+      "482.67",
+      "410.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "96",
+    "bbox": [
+      "571.43",
+      "398.98",
+      "582.64",
+      "410.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "R",
+    "bbox": [
+      "364.47",
+      "438.12",
+      "391.36",
+      "464.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "osé",
+    "bbox": [
+      "391.36",
+      "438.12",
+      "409.92",
+      "464.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Bodegas Los Bermejos, Listán Rosado, Canary Islands 2018",
+    "bbox": [
+      "231.64",
+      "488.44",
+      "469.72",
+      "500.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "68",
+    "bbox": [
+      "572.22",
+      "488.44",
+      "582.64",
+      "500.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sancerre, Le Roi Pierres, Loire Valley 2019",
+    "bbox": [
+      "231.64",
+      "513.44",
+      "407.58",
+      "525.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "78",
+    "bbox": [
+      "572.22",
+      "513.44",
+      "582.64",
+      "525.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Diving into Hampton Water, Languedoc-Roussillon 2018",
+    "bbox": [
+      "231.64",
+      "538.44",
+      "468.26",
+      "550.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "87",
+    "bbox": [
+      "572.22",
+      "538.44",
+      "582.64",
+      "550.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "R",
+    "bbox": [
+      "348.74",
+      "51.13",
+      "375.63",
+      "77.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ed W",
+    "bbox": [
+      "375.63",
+      "51.13",
+      "414.89",
+      "77.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ines",
+    "bbox": [
+      "414.89",
+      "51.13",
+      "443.23",
+      "77.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "213.40",
+      "94.16",
+      "272.54",
+      "109.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bosmen Family Vineyards, South Africa, 2019",
+    "bbox": [
+      "236.29",
+      "110.98",
+      "439.81",
+      "122.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bosmen Family Vineyards, South Africa,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "68",
+    "bbox": [
+      "575.36",
+      "110.98",
+      "586.57",
+      "122.98"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "68",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Smoke Tree, Sonoma Coast 2017",
+    "bbox": [
+      "236.29",
+      "137.98",
+      "381.04",
+      "149.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Smoke Tree, Sonoma Coast",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "72",
+    "bbox": [
+      "575.36",
+      "137.98",
+      "586.57",
+      "149.98"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "72",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Hirsch Vineyards, San Andreas Fault, Sonoma 2017",
+    "bbox": [
+      "236.29",
+      "164.98",
+      "464.35",
+      "176.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Hirsch Vineyards, San Andreas Fault, Sonoma",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "173",
+    "bbox": [
+      "569.76",
+      "164.98",
+      "586.57",
+      "176.98"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "173",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Hanzell, Sebella, Sonoma Coast 2017",
+    "bbox": [
+      "236.29",
+      "191.98",
+      "400.40",
+      "203.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Hanzell, Sebella, Sonoma Coast",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "160",
+    "bbox": [
+      "569.76",
+      "191.98",
+      "586.57",
+      "203.98"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "160",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sonoma Cutrer, Sonoma Coast 2017",
+    "bbox": [
+      "236.29",
+      "218.98",
+      "396.15",
+      "230.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sonoma Cutrer, Sonoma Coast",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "80",
+    "bbox": [
+      "575.36",
+      "218.98",
+      "586.57",
+      "230.98"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "80",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Ken Wright, Willamette Valley, Oregon 2017",
+    "bbox": [
+      "236.29",
+      "245.98",
+      "441.36",
+      "257.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Ken Wright, Willamette Valley, Oregon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "90",
+    "bbox": [
+      "575.36",
+      "245.98",
+      "586.57",
+      "257.98"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "90",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cristom, Eola-Amity Hills, Wilamentte Vally, Oregon 2018",
+    "bbox": [
+      "236.29",
+      "272.98",
+      "500.84",
+      "284.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cristom, Eola-Amity Hills, Wilamentte Vally, Oregon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "88",
+    "bbox": [
+      "575.36",
+      "272.98",
+      "586.57",
+      "284.98"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "88",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Anthill Farms, Anderson Valley, California 2016",
+    "bbox": [
+      "236.29",
+      "299.98",
+      "451.22",
+      "311.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Anthill Farms, Anderson Valley, California",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "108",
+    "bbox": [
+      "569.76",
+      "299.98",
+      "586.57",
+      "311.98"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "108",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Shea Cellars Estate, Wilamentte Vally, Oregon 2016",
+    "bbox": [
+      "236.29",
+      "326.98",
+      "466.80",
+      "338.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Shea Cellars Estate, Wilamentte Vally, Oregon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "118",
+    "bbox": [
+      "569.76",
+      "326.98",
+      "586.57",
+      "338.98"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "118",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "NEBBIOLO/SANGIOVESE/TEMPRANILLO",
+    "bbox": [
+      "213.05",
+      "356.17",
+      "411.54",
+      "371.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Barolo, Seghesio, Piedmont 2015",
+    "bbox": [
+      "236.60",
+      "375.86",
+      "381.65",
+      "387.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "94",
+    "bbox": [
+      "575.67",
+      "375.86",
+      "586.88",
+      "387.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Barolo, “Campe”, La Spinetta 2006",
+    "bbox": [
+      "236.60",
+      "400.86",
+      "390.83",
+      "412.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "362",
+    "bbox": [
+      "570.07",
+      "400.86",
+      "586.88",
+      "412.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Podere le Boncie “Le Trame”, Rossi di Toscana 2014",
+    "bbox": [
+      "236.60",
+      "425.86",
+      "464.40",
+      "437.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "115",
+    "bbox": [
+      "570.07",
+      "425.86",
+      "586.88",
+      "437.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Rosso di Montalcino, Podere Brizio 2016",
+    "bbox": [
+      "236.60",
+      "450.86",
+      "417.02",
+      "462.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "86",
+    "bbox": [
+      "575.67",
+      "450.86",
+      "586.88",
+      "462.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Brunello di Montalcino, Azienda Agricola La Torre 2014",
+    "bbox": [
+      "236.60",
+      "475.86",
+      "487.79",
+      "487.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "148",
+    "bbox": [
+      "570.07",
+      "475.86",
+      "586.88",
+      "487.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Rioja Reserva,Viña Alberdi, La Rioja Alta Spain 2014",
+    "bbox": [
+      "236.60",
+      "500.86",
+      "471.75",
+      "512.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "72",
+    "bbox": [
+      "575.67",
+      "500.86",
+      "586.88",
+      "512.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Conti, Spanna Colline Novaresi, Piedmont, Italy 2016",
+    "bbox": [
+      "236.60",
+      "525.86",
+      "510.30",
+      "537.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "78",
+    "bbox": [
+      "539.67",
+      "525.86",
+      "586.88",
+      "537.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Toro, Bodegas Numanthia,  ‘Numanthia’, Spain 2011",
+    "bbox": [
+      "236.60",
+      "550.86",
+      "505.74",
+      "562.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "126",
+    "bbox": [
+      "534.07",
+      "550.86",
+      "586.88",
+      "562.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CABERNET, MERLOT AND BLENDS",
+    "bbox": [
+      "214.38",
+      "49.27",
+      "378.82",
+      "64.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Domaine Eden, Santa Cruz 2015",
+    "bbox": [
+      "224.62",
+      "70.92",
+      "369.32",
+      "82.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "72",
+    "bbox": [
+      "563.69",
+      "70.92",
+      "574.90",
+      "82.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Star Lane, Happy Canyon, Santa Barbara  2015",
+    "bbox": [
+      "224.62",
+      "101.92",
+      "435.84",
+      "113.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "145",
+    "bbox": [
+      "531.69",
+      "101.92",
+      "574.90",
+      "113.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Corison, St. Helena Napa Valley 2014",
+    "bbox": [
+      "224.62",
+      "132.92",
+      "393.18",
+      "144.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "280",
+    "bbox": [
+      "558.09",
+      "132.92",
+      "574.90",
+      "144.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Orin Swift, Mercury Head, Napa Valley 2014",
+    "bbox": [
+      "224.62",
+      "163.92",
+      "427.50",
+      "175.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "325",
+    "bbox": [
+      "558.09",
+      "163.92",
+      "574.90",
+      "175.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Rubicon, Inglenook, Napa Valley 2013",
+    "bbox": [
+      "224.62",
+      "194.92",
+      "396.79",
+      "206.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "395",
+    "bbox": [
+      "558.09",
+      "194.92",
+      "574.90",
+      "206.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Araujo, Eisele Vineyard, Napa Valley 2013",
+    "bbox": [
+      "224.62",
+      "225.92",
+      "414.29",
+      "237.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "630",
+    "bbox": [
+      "558.09",
+      "225.92",
+      "574.90",
+      "237.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Insignia, Joseph Phelps, Napa Valley 2013",
+    "bbox": [
+      "224.62",
+      "256.92",
+      "409.71",
+      "268.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "425",
+    "bbox": [
+      "558.09",
+      "256.92",
+      "574.90",
+      "268.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Bordeaux, Chateau Haut Segottes, St. Emilion Grand Cuve, France 2014",
+    "bbox": [
+      "224.62",
+      "287.92",
+      "542.10",
+      "299.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "98",
+    "bbox": [
+      "563.69",
+      "287.92",
+      "574.90",
+      "299.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Bordeaux Blend, “Continuum”, Mondavi Estate, Napa 2016",
+    "bbox": [
+      "224.62",
+      "318.92",
+      "487.34",
+      "330.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "425",
+    "bbox": [
+      "558.09",
+      "318.92",
+      "574.90",
+      "330.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Bordeaux, Chateau Le Puy, St. Emilion, France 2015",
+    "bbox": [
+      "224.62",
+      "349.92",
+      "454.07",
+      "361.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "125",
+    "bbox": [
+      "558.09",
+      "349.92",
+      "574.90",
+      "361.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Bordeaux Blend, Opus One, Napa Vally 2014",
+    "bbox": [
+      "224.62",
+      "380.92",
+      "425.65",
+      "392.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "475",
+    "bbox": [
+      "558.09",
+      "380.92",
+      "574.90",
+      "392.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pomerol, Château de Valois 2015",
+    "bbox": [
+      "224.62",
+      "411.92",
+      "371.62",
+      "423.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "146",
+    "bbox": [
+      "558.09",
+      "411.92",
+      "574.90",
+      "423.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Margaux, Moulin de Tricot 2015",
+    "bbox": [
+      "224.62",
+      "442.92",
+      "370.93",
+      "454.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "98",
+    "bbox": [
+      "563.69",
+      "442.92",
+      "574.90",
+      "454.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Merlot, Calluna Winery, ‘Aux Raynauds’, Chalk Hill 2015",
+    "bbox": [
+      "224.62",
+      "473.92",
+      "482.17",
+      "485.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "124",
+    "bbox": [
+      "558.09",
+      "473.92",
+      "574.90",
+      "485.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Merlot, Barlow Vineyards, Napa 2016",
+    "bbox": [
+      "224.62",
+      "504.92",
+      "393.42",
+      "516.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "88",
+    "bbox": [
+      "563.69",
+      "504.92",
+      "574.90",
+      "516.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "OTHER INTERESTING REDS",
+    "bbox": [
+      "210.87",
+      "53.27",
+      "342.52",
+      "68.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MEDIUM BODIED",
+    "bbox": [
+      "230.85",
+      "80.87",
+      "290.29",
+      "91.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Barbera d’Asti, ‘Ca di Pian’, La Spinetta, Piedmont, Italy 2015",
+    "bbox": [
+      "230.85",
+      "98.46",
+      "500.74",
+      "110.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "76",
+    "bbox": [
+      "569.92",
+      "98.46",
+      "581.13",
+      "110.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Teroldego, Nusserhof , “T........”,   Alto Adige, Italy 2014",
+    "bbox": [
+      "230.85",
+      "124.46",
+      "476.92",
+      "136.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "98",
+    "bbox": [
+      "569.92",
+      "124.46",
+      "581.13",
+      "136.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Baboso Negro, Ignios Baboso, Tenerife, Canary Islands Spain  2016",
+    "bbox": [
+      "230.85",
+      "150.46",
+      "522.37",
+      "162.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "86",
+    "bbox": [
+      "569.92",
+      "150.46",
+      "581.13",
+      "162.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Fronton de Oro, Gran Canaria, Canary Islands 2017",
+    "bbox": [
+      "230.85",
+      "176.46",
+      "459.78",
+      "188.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "56",
+    "bbox": [
+      "569.92",
+      "176.46",
+      "581.13",
+      "188.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Dolcetto Ovada, Casa Wallace 2015",
+    "bbox": [
+      "230.85",
+      "202.46",
+      "390.48",
+      "214.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "62",
+    "bbox": [
+      "569.92",
+      "202.46",
+      "581.13",
+      "214.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Luigi Pira, Dolcetto d’Alba 2016",
+    "bbox": [
+      "230.85",
+      "228.46",
+      "375.03",
+      "240.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "76",
+    "bbox": [
+      "569.92",
+      "228.46",
+      "581.13",
+      "240.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "FULL BODIED",
+    "bbox": [
+      "230.85",
+      "288.39",
+      "278.52",
+      "299.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Zinfandel, Sky Vineyards, Napa 2014",
+    "bbox": [
+      "230.85",
+      "309.46",
+      "401.66",
+      "321.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "88",
+    "bbox": [
+      "569.80",
+      "309.46",
+      "581.13",
+      "321.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Zinfandel Blend, Orin Swift, ‘The Prisoner’, Napa 2017",
+    "bbox": [
+      "230.85",
+      "336.46",
+      "481.77",
+      "348.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "140",
+    "bbox": [
+      "564.08",
+      "336.46",
+      "581.13",
+      "348.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Shiraz, Henschke , ‘Henry’s Seven’, Australia 2016",
+    "bbox": [
+      "230.85",
+      "363.46",
+      "459.50",
+      "375.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "120",
+    "bbox": [
+      "564.08",
+      "363.46",
+      "581.13",
+      "375.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Amarone, “Punta di Villa”, Mazzi 2014",
+    "bbox": [
+      "230.85",
+      "390.46",
+      "410.87",
+      "402.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "175",
+    "bbox": [
+      "564.08",
+      "390.46",
+      "581.13",
+      "402.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Malbec, Forever Young, Argentina 2017",
+    "bbox": [
+      "230.85",
+      "417.46",
+      "413.93",
+      "429.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "60",
+    "bbox": [
+      "569.80",
+      "417.46",
+      "581.13",
+      "429.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Le Boncie, Le Trame, Toscana 2014",
+    "bbox": [
+      "230.85",
+      "444.46",
+      "389.87",
+      "456.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "`116",
+    "bbox": [
+      "558.10",
+      "444.46",
+      "581.13",
+      "456.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Montevertine, Pergole Torte, Tuscany, Italy 2013",
+    "bbox": [
+      "230.85",
+      "471.46",
+      "452.14",
+      "483.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "259",
+    "bbox": [
+      "564.08",
+      "471.46",
+      "581.13",
+      "483.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Châteauneuf-du-Pape, Domaine Bois de Boursan 2015",
+    "bbox": [
+      "230.85",
+      "498.46",
+      "456.80",
+      "510.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "115",
+    "bbox": [
+      "566.64",
+      "498.46",
+      "581.13",
+      "510.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Côte-Rôtie, ‘La Chavaroche’, Bernard Levet, Rhone Valley, France 2015",
+    "bbox": [
+      "230.85",
+      "525.46",
+      "535.88",
+      "537.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "165",
+    "bbox": [
+      "566.13",
+      "525.46",
+      "581.13",
+      "537.46"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

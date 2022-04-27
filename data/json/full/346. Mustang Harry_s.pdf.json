@@ -1,0 +1,4803 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/20/22, 9:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Mustang Harry's | Cocktails, Wine & Beer Menu | Near MSG",
+    "bbox": [
+      "245.14",
+      "15.70",
+      "458.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MAKE RESERVATIONS",
+    "bbox": [
+      "251.97",
+      "56.96",
+      "361.00",
+      "67.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "aa",
+    "bbox": [
+      "504.50",
+      "104.00",
+      "528.50",
+      "128.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "485.00",
+      "109.25",
+      "497.00",
+      "121.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "H",
+    "bbox": [
+      "84.50",
+      "342.17",
+      "117.06",
+      "382.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A",
+    "bbox": [
+      "117.06",
+      "342.17",
+      "149.70",
+      "382.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "P",
+    "bbox": [
+      "149.70",
+      "342.17",
+      "179.80",
+      "382.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "P",
+    "bbox": [
+      "179.39",
+      "342.17",
+      "209.48",
+      "382.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Y",
+    "bbox": [
+      "209.08",
+      "342.17",
+      "237.83",
+      "382.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "H",
+    "bbox": [
+      "237.83",
+      "342.17",
+      "282.54",
+      "382.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "O",
+    "bbox": [
+      "282.54",
+      "342.17",
+      "316.89",
+      "382.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "U",
+    "bbox": [
+      "316.89",
+      "342.17",
+      "348.64",
+      "382.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "R",
+    "bbox": [
+      "348.64",
+      "342.17",
+      "378.81",
+      "382.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": ",",
+    "bbox": [
+      "378.81",
+      "342.17",
+      "391.13",
+      "382.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "H",
+    "bbox": [
+      "87.74",
+      "345.41",
+      "120.30",
+      "385.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A",
+    "bbox": [
+      "120.30",
+      "345.41",
+      "152.94",
+      "385.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "P",
+    "bbox": [
+      "152.94",
+      "345.41",
+      "183.04",
+      "385.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "P",
+    "bbox": [
+      "182.63",
+      "345.41",
+      "212.72",
+      "385.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Y",
+    "bbox": [
+      "212.32",
+      "345.41",
+      "241.07",
+      "385.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "H",
+    "bbox": [
+      "241.07",
+      "345.41",
+      "285.78",
+      "385.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "O",
+    "bbox": [
+      "285.78",
+      "345.41",
+      "320.13",
+      "385.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "U",
+    "bbox": [
+      "320.13",
+      "345.41",
+      "351.88",
+      "385.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "R",
+    "bbox": [
+      "351.88",
+      "345.41",
+      "382.05",
+      "385.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": ",",
+    "bbox": [
+      "382.05",
+      "345.41",
+      "394.37",
+      "385.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "C",
+    "bbox": [
+      "84.50",
+      "399.17",
+      "114.63",
+      "439.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "O",
+    "bbox": [
+      "114.02",
+      "399.17",
+      "148.37",
+      "439.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "C",
+    "bbox": [
+      "148.37",
+      "399.17",
+      "178.50",
+      "439.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "K",
+    "bbox": [
+      "178.50",
+      "399.17",
+      "209.48",
+      "439.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "T",
+    "bbox": [
+      "207.26",
+      "399.17",
+      "233.74",
+      "439.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A",
+    "bbox": [
+      "232.32",
+      "399.17",
+      "264.97",
+      "439.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "IL",
+    "bbox": [
+      "264.97",
+      "399.17",
+      "304.13",
+      "439.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "S",
+    "bbox": [
+      "304.13",
+      "399.17",
+      "330.74",
+      "439.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": ", W",
+    "bbox": [
+      "331.55",
+      "399.17",
+      "407.10",
+      "439.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "IN",
+    "bbox": [
+      "406.50",
+      "399.17",
+      "453.23",
+      "439.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "453.23",
+      "399.17",
+      "480.49",
+      "439.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "&",
+    "bbox": [
+      "482.74",
+      "399.17",
+      "526.36",
+      "439.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "C",
+    "bbox": [
+      "87.74",
+      "402.41",
+      "117.87",
+      "442.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "O",
+    "bbox": [
+      "117.26",
+      "402.41",
+      "151.61",
+      "442.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "C",
+    "bbox": [
+      "151.61",
+      "402.41",
+      "181.74",
+      "442.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "K",
+    "bbox": [
+      "181.74",
+      "402.41",
+      "212.72",
+      "442.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "T",
+    "bbox": [
+      "210.50",
+      "402.41",
+      "236.98",
+      "442.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A",
+    "bbox": [
+      "235.56",
+      "402.41",
+      "268.21",
+      "442.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "IL",
+    "bbox": [
+      "268.21",
+      "402.41",
+      "307.37",
+      "442.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "S",
+    "bbox": [
+      "307.37",
+      "402.41",
+      "333.98",
+      "442.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": ", W",
+    "bbox": [
+      "334.79",
+      "402.41",
+      "410.34",
+      "442.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "IN",
+    "bbox": [
+      "409.74",
+      "402.41",
+      "456.47",
+      "442.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "456.47",
+      "402.41",
+      "483.73",
+      "442.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "&",
+    "bbox": [
+      "485.98",
+      "402.41",
+      "529.60",
+      "442.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "B",
+    "bbox": [
+      "84.50",
+      "456.17",
+      "115.81",
+      "496.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "115.81",
+      "456.17",
+      "143.06",
+      "496.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "143.06",
+      "456.17",
+      "170.32",
+      "496.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "R",
+    "bbox": [
+      "170.32",
+      "456.17",
+      "200.49",
+      "496.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "M",
+    "bbox": [
+      "200.49",
+      "456.17",
+      "251.28",
+      "496.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "251.28",
+      "456.17",
+      "278.54",
+      "496.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "N",
+    "bbox": [
+      "278.54",
+      "456.17",
+      "311.10",
+      "496.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "U",
+    "bbox": [
+      "311.10",
+      "456.17",
+      "342.85",
+      "496.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "B",
+    "bbox": [
+      "87.74",
+      "459.41",
+      "119.05",
+      "499.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "119.05",
+      "459.41",
+      "146.30",
+      "499.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "146.30",
+      "459.41",
+      "173.56",
+      "499.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "R",
+    "bbox": [
+      "173.56",
+      "459.41",
+      "203.73",
+      "499.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "M",
+    "bbox": [
+      "203.73",
+      "459.41",
+      "254.52",
+      "499.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "254.52",
+      "459.41",
+      "281.78",
+      "499.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "N",
+    "bbox": [
+      "281.78",
+      "459.41",
+      "314.34",
+      "499.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "U",
+    "bbox": [
+      "314.34",
+      "459.41",
+      "346.09",
+      "499.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2",
+    "bbox": [
+      "557.75",
+      "643.91",
+      "580.25",
+      "666.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HAPPY HO",
+    "bbox": [
+      "122.70",
+      "662.77",
+      "260.42",
+      "686.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "UR BEER, W",
+    "bbox": [
+      "260.42",
+      "662.77",
+      "418.73",
+      "686.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "INE &",
+    "bbox": [
+      "418.37",
+      "662.77",
+      "490.31",
+      "686.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CO",
+    "bbox": [
+      "191.36",
+      "701.02",
+      "229.21",
+      "725.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CKTAILS M",
+    "bbox": [
+      "229.21",
+      "701.02",
+      "367.38",
+      "725.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ENU",
+    "bbox": [
+      "367.38",
+      "701.02",
+      "428.84",
+      "725.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Privacy - Terms",
+    "bbox": [
+      "536.57",
+      "745.25",
+      "578.91",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.mustangharrys.com/happy-hour-cocktails-wine-beer-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "278.55",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/13",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/20/22, 9:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Mustang Harry's | Cocktails, Wine & Beer Menu | Near MSG",
+    "bbox": [
+      "245.14",
+      "15.70",
+      "458.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "3 P.M",
+    "bbox": [
+      "179.35",
+      "38.77",
+      "248.71",
+      "62.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": ". – 6 P.M",
+    "bbox": [
+      "248.71",
+      "38.77",
+      "352.90",
+      "62.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": ". Daily",
+    "bbox": [
+      "352.90",
+      "38.77",
+      "433.66",
+      "62.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BEER/WINE",
+    "bbox": [
+      "84.50",
+      "110.91",
+      "167.10",
+      "124.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BUD LIGHT (DRAFT or BOTTLE)  5",
+    "bbox": [
+      "84.50",
+      "142.41",
+      "297.08",
+      "155.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BUDWEISER BOTTLE 5",
+    "bbox": [
+      "84.50",
+      "173.91",
+      "230.59",
+      "187.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PBR 16oz  4",
+    "bbox": [
+      "84.50",
+      "205.41",
+      "158.24",
+      "218.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cabernet Sauvignon, Josh Cellars, CA, ’16 Glass 12",
+    "bbox": [
+      "84.50",
+      "236.16",
+      "400.79",
+      "249.66"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon, Josh Cellars, CA,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "16",
+            "answer_start": 39
+          }
+        ],
+        "P": [
+          {
+            "text": "Glass 12",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chardonnay, Josh Cellars, CA, ’17 Glass 12",
+    "bbox": [
+      "84.50",
+      "267.66",
+      "346.55",
+      "281.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay, Josh Cellars, CA,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "’17",
+            "answer_start": 30
+          }
+        ],
+        "P": [
+          {
+            "text": "Glass 12",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pinot Grigio, Zioba\u0000a, Italy, ’18 Glass 12",
+    "bbox": [
+      "84.50",
+      "299.16",
+      "326.35",
+      "312.66"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Grigio, Zioba\u0000a, Italy,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "18",
+            "answer_start": 31
+          }
+        ],
+        "P": [
+          {
+            "text": "Glass 12",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sauvignon Blanc, Domaine de la Chaise, Touraine, ’18 Glass 12",
+    "bbox": [
+      "84.50",
+      "330.66",
+      "474.42",
+      "344.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc, Domaine de la Chaise, Touraine,",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "Glass 12",
+            "answer_start": 53
+          }
+        ],
+        "V": [
+          {
+            "text": "18",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rosé, Domaine Belambrée, Provence France, ’18 Glass 12",
+    "bbox": [
+      "84.50",
+      "362.16",
+      "442.08",
+      "375.66"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rosé, Domaine Belambrée, Provence France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "’18",
+            "answer_start": 42
+          }
+        ],
+        "P": [
+          {
+            "text": "Glass 12",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "COMBO SHOTS",
+    "bbox": [
+      "84.50",
+      "401.91",
+      "183.09",
+      "415.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HARRY’S COSMO 14",
+    "bbox": [
+      "84.50",
+      "433.41",
+      "210.37",
+      "446.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HARRY’S SHOT OF THE DAY 9",
+    "bbox": [
+      "84.50",
+      "464.91",
+      "272.56",
+      "478.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PBR 16oz CAN & BUSHMILLS IRISH WHISKEY  14",
+    "bbox": [
+      "84.50",
+      "496.41",
+      "393.35",
+      "509.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BUD LIGHT & MAKER’S MARK BOURBON 16",
+    "bbox": [
+      "84.50",
+      "527.91",
+      "361.34",
+      "541.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HOUSE BELLINI 11",
+    "bbox": [
+      "84.50",
+      "558.66",
+      "201.16",
+      "572.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HARRY’S FAMOUS BOOZY BRUNCH 35",
+    "bbox": [
+      "84.50",
+      "599.16",
+      "329.71",
+      "612.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SATURDAYS & SUNDAYS",
+    "bbox": [
+      "84.50",
+      "630.66",
+      "248.10",
+      "644.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2",
+    "bbox": [
+      "557.75",
+      "643.91",
+      "580.25",
+      "666.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11:00am-3:00pm",
+    "bbox": [
+      "84.50",
+      "648.66",
+      "195.89",
+      "662.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BOTTOMLESS MIMOSAS,",
+    "bbox": [
+      "84.50",
+      "666.66",
+      "249.60",
+      "680.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BLOODY MARYS or SCREWDRIVERS (MUST PURCHASE ENTREE)",
+    "bbox": [
+      "84.50",
+      "683.91",
+      "494.21",
+      "697.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Privacy - Terms",
+    "bbox": [
+      "536.57",
+      "745.25",
+      "578.91",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.mustangharrys.com/happy-hour-cocktails-wine-beer-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "278.55",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/13",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/20/22, 9:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Mustang Harry's | Cocktails, Wine & Beer Menu | Near MSG",
+    "bbox": [
+      "245.14",
+      "15.70",
+      "458.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CREATIVE CO",
+    "bbox": [
+      "84.50",
+      "92.02",
+      "258.69",
+      "116.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CKTAILS",
+    "bbox": [
+      "258.69",
+      "92.02",
+      "366.76",
+      "116.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RED BULL TROPICAL TEQUILA 16",
+    "bbox": [
+      "84.50",
+      "156.31",
+      "276.41",
+      "168.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Tequila Blanco, Red Bull Yellow Edition (Mango/Passionfruit), Orange Juice and",
+    "bbox": [
+      "84.50",
+      "174.31",
+      "527.84",
+      "186.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Lime.",
+    "bbox": [
+      "84.50",
+      "192.31",
+      "114.87",
+      "204.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BOULEVARDIER (BARREL AGED) 16",
+    "bbox": [
+      "84.50",
+      "222.31",
+      "285.81",
+      "234.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Michter’s Bourbon, Campari, Sweet Vermouth, Vanilla Tincture and Orange",
+    "bbox": [
+      "84.50",
+      "239.56",
+      "499.26",
+      "251.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Essence. American Oak Barrel Conditioned for 4 Weeks. Spirit Forward, Bitter",
+    "bbox": [
+      "84.50",
+      "257.56",
+      "513.63",
+      "269.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sweet, Aromatic and Complex.",
+    "bbox": [
+      "84.50",
+      "275.56",
+      "256.16",
+      "287.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SPICY JALAPENO MARGARITA 16",
+    "bbox": [
+      "84.50",
+      "305.56",
+      "274.17",
+      "317.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Blanco Tequila, Orange Liqueur, Jalapeno Infused Simple Syrup, Fresh Lime",
+    "bbox": [
+      "84.50",
+      "323.56",
+      "506.30",
+      "335.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Juice and Aztec Chocolate Bitters. Craft Margarita with a Twist!",
+    "bbox": [
+      "84.50",
+      "340.81",
+      "434.52",
+      "352.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "DARK & STORMY  16",
+    "bbox": [
+      "84.50",
+      "370.81",
+      "202.86",
+      "382.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Gosling’s Black Seal Rum and Gosling’s Ginger Beer. Classic and Smooth.",
+    "bbox": [
+      "84.50",
+      "388.81",
+      "488.46",
+      "400.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "THE TIPPERARY (BARREL- AGED)  16",
+    "bbox": [
+      "84.50",
+      "418.81",
+      "293.33",
+      "430.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "West Cork Irish Whiskey, Green Chartreuse, Sweet Vermouth, Angostura Bitters",
+    "bbox": [
+      "84.50",
+      "436.06",
+      "526.10",
+      "448.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "and Lemon Essence. Strong, Aromatic and Herbaceous.",
+    "bbox": [
+      "84.50",
+      "454.06",
+      "395.36",
+      "466.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "THE ELDER LEMON  16",
+    "bbox": [
+      "84.50",
+      "484.06",
+      "216.44",
+      "496.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Gunpowder Gin, Lemon Juice, and Pamplemousse Liqueur",
+    "bbox": [
+      "84.50",
+      "502.06",
+      "412.72",
+      "514.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "OLD FASHIONED  16",
+    "bbox": [
+      "84.50",
+      "532.06",
+      "201.82",
+      "544.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Mitchers Bourbon, Orange Bitters, Angostura Bitters, Demerara Simple Syrup.",
+    "bbox": [
+      "84.50",
+      "549.31",
+      "516.21",
+      "561.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WHITE SANGRIA  16",
+    "bbox": [
+      "84.50",
+      "579.31",
+      "201.36",
+      "591.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "White Wine, Original Marti Rum, Peach Nectar and Fresh Lemon Juice.",
+    "bbox": [
+      "84.50",
+      "597.31",
+      "481.71",
+      "609.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ROSE SANGRIA  16",
+    "bbox": [
+      "84.50",
+      "627.31",
+      "193.24",
+      "639.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Rose, Original Marti Rum, Fresh Seasonal Berry Juice and Fresh Lime Juice.",
+    "bbox": [
+      "84.50",
+      "645.31",
+      "502.35",
+      "657.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2",
+    "bbox": [
+      "557.75",
+      "643.91",
+      "580.25",
+      "666.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BUSH FIRE  16",
+    "bbox": [
+      "84.50",
+      "674.56",
+      "168.11",
+      "686.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bushmills Irish Whiskey, Demerara, Belle de Brillet and Angostura Bitters",
+    "bbox": [
+      "84.50",
+      "692.56",
+      "490.69",
+      "704.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Privacy - Terms",
+    "bbox": [
+      "536.57",
+      "745.25",
+      "578.91",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.mustangharrys.com/happy-hour-cocktails-wine-beer-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "278.55",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/13",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/20/22, 9:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Mustang Harry's | Cocktails, Wine & Beer Menu | Near MSG",
+    "bbox": [
+      "245.14",
+      "15.70",
+      "458.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "OLD GINGERY 16",
+    "bbox": [
+      "84.50",
+      "32.56",
+      "183.45",
+      "44.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Michter’s Rye. Barrows Intense Ginger Liqueur, Aromatic Bitters and Lemon",
+    "bbox": [
+      "84.50",
+      "50.56",
+      "501.92",
+      "62.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Essence. Earthy and Peppery with a Pleasant Bitter Finish.",
+    "bbox": [
+      "84.50",
+      "68.56",
+      "407.20",
+      "80.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PINEAPPLE PULLEY 16",
+    "bbox": [
+      "84.50",
+      "97.81",
+      "216.25",
+      "109.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "El Tesoro Silver Tequila. Lime Juice, Pineapple, Mint and Angostura Bitters.",
+    "bbox": [
+      "84.50",
+      "115.81",
+      "498.94",
+      "127.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Fresh and Tropical.",
+    "bbox": [
+      "84.50",
+      "133.81",
+      "189.81",
+      "145.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "IRISH COFFEE 16",
+    "bbox": [
+      "84.50",
+      "163.81",
+      "182.65",
+      "175.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Mustang Harry’s Home Brewed Co\u0000ee, Bushmills Irish Whiskey, Demerara",
+    "bbox": [
+      "84.50",
+      "181.81",
+      "495.49",
+      "193.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sugar and Whiskey Infused Créme Fraiche. Our Signature Classic Served",
+    "bbox": [
+      "84.50",
+      "199.06",
+      "490.72",
+      "211.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Piping Hot.",
+    "bbox": [
+      "84.50",
+      "217.06",
+      "145.10",
+      "229.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ABSOLUT MOSCOW MULE 16",
+    "bbox": [
+      "84.50",
+      "247.06",
+      "254.72",
+      "259.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Absolut Vodka, Gosling’s Ginger Beer and Lime Served in a Copper Mug.",
+    "bbox": [
+      "84.50",
+      "265.06",
+      "486.99",
+      "277.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MUSTANG HARRY’S SPICY BLOODY MARY 16",
+    "bbox": [
+      "84.50",
+      "295.06",
+      "341.32",
+      "307.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Crop Cucumber Vodka and Our Signature Bloody Mary Mix. Yes, it is Spicy!!!",
+    "bbox": [
+      "84.50",
+      "312.31",
+      "505.90",
+      "324.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RUM FOR OFFICE 16",
+    "bbox": [
+      "84.50",
+      "342.31",
+      "201.85",
+      "354.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pyrat Aged Rum, Pineapple-Passion Fruit Rum, Fresh Lime and Mint",
+    "bbox": [
+      "84.50",
+      "360.31",
+      "462.32",
+      "372.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "HARRY’S GAME 16",
+    "bbox": [
+      "84.50",
+      "390.31",
+      "190.53",
+      "402.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "St. George Chili Vodka, Spiced Pear, Fresh Lime and Blood Orange",
+    "bbox": [
+      "84.50",
+      "408.31",
+      "452.79",
+      "420.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PRICKLY PEAR PASSION 16",
+    "bbox": [
+      "84.50",
+      "437.56",
+      "239.76",
+      "449.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Prickly Pear Vodka, Passion Fruit Liqueur, Fig Vodka, Fresh Lime and Pear",
+    "bbox": [
+      "84.50",
+      "455.56",
+      "491.22",
+      "467.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Nectar",
+    "bbox": [
+      "84.50",
+      "473.56",
+      "122.60",
+      "485.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "THE EMPRESS 16",
+    "bbox": [
+      "84.50",
+      "503.56",
+      "184.66",
+      "515.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Empress Butter\u0000y Pea Blossom Infused Gin, Belle de Brillet and Fresh Lime",
+    "bbox": [
+      "84.50",
+      "521.56",
+      "505.03",
+      "533.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "LADY LAVENDER 16",
+    "bbox": [
+      "84.50",
+      "550.81",
+      "199.81",
+      "562.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Crop Organic Vodka, Pamplemousse, Fresh Lemon, Lavender Syrup and",
+    "bbox": [
+      "84.50",
+      "568.81",
+      "486.85",
+      "580.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Hibiscus Bitters",
+    "bbox": [
+      "84.50",
+      "586.81",
+      "171.48",
+      "598.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2",
+    "bbox": [
+      "557.75",
+      "643.91",
+      "580.25",
+      "666.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RED W",
+    "bbox": [
+      "84.50",
+      "708.52",
+      "176.75",
+      "732.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "INE",
+    "bbox": [
+      "176.39",
+      "708.52",
+      "220.24",
+      "732.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Privacy - Terms",
+    "bbox": [
+      "536.57",
+      "745.25",
+      "578.91",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.mustangharrys.com/happy-hour-cocktails-wine-beer-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "278.55",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/13",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/20/22, 9:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Mustang Harry's | Cocktails, Wine & Beer Menu | Near MSG",
+    "bbox": [
+      "245.14",
+      "15.70",
+      "458.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Barolo, Rocca Giovanni, Italy, ’08 X / 115",
+    "bbox": [
+      "84.50",
+      "32.56",
+      "306.59",
+      "44.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bordeaux Proprietor’s Blend,",
+    "bbox": [
+      "84.50",
+      "62.56",
+      "251.27",
+      "74.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chappellet Mountain Cuvee, CA, ’16 X / 90",
+    "bbox": [
+      "84.50",
+      "80.56",
+      "322.17",
+      "92.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet Sauvignon, Josh Cellars, CA, ’16 14 / 52",
+    "bbox": [
+      "84.50",
+      "109.81",
+      "359.20",
+      "121.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet Sauvignon, Cade, CA, ’16 X / 200",
+    "bbox": [
+      "84.50",
+      "139.81",
+      "324.51",
+      "151.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet Sauvignon, Charles Krug Estate, CA, ’12 X / 95",
+    "bbox": [
+      "84.50",
+      "169.81",
+      "397.45",
+      "181.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet Sauvignon, Davo, CA, ’18 X / 43",
+    "bbox": [
+      "84.50",
+      "199.81",
+      "315.14",
+      "211.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet Sauvignon, Liberty School, CA, ’19 X / 54",
+    "bbox": [
+      "84.50",
+      "229.81",
+      "368.29",
+      "241.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet Sauvignon, Director’s Coppola, CA, ’16 X / 49",
+    "bbox": [
+      "84.50",
+      "259.06",
+      "390.26",
+      "271.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet Sauvignon, Grgich Hills Estate, CA, ’10 X / 195",
+    "bbox": [
+      "84.50",
+      "289.06",
+      "395.43",
+      "301.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet Sauvignon, Jordan, CA, ’16 X / 125",
+    "bbox": [
+      "84.50",
+      "319.06",
+      "330.70",
+      "331.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet Sauvignon, Long Meadow Ranch, CA, ’14 X / 120",
+    "bbox": [
+      "84.50",
+      "349.06",
+      "410.98",
+      "361.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet Sauvignon, Ramey, CA, ’14 X / 130",
+    "bbox": [
+      "84.50",
+      "379.06",
+      "330.68",
+      "391.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet Sauvignon, Raymond R Collection, CA, ’19 X / 39",
+    "bbox": [
+      "84.50",
+      "408.31",
+      "412.09",
+      "420.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet Sauvignon, Rodney Strong, CA, ’18 19 / 70",
+    "bbox": [
+      "84.50",
+      "438.31",
+      "375.76",
+      "450.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet Sauvignon, Stags Leap Artemis, CA, ’17 X / 175",
+    "bbox": [
+      "84.50",
+      "468.31",
+      "400.29",
+      "480.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet Sauvignon, St. Supery, CA, ’14 X / 80",
+    "bbox": [
+      "84.50",
+      "498.31",
+      "343.85",
+      "510.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet Sauvignon, Snowden, CA, ’16 X / 155",
+    "bbox": [
+      "84.50",
+      "528.31",
+      "345.16",
+      "540.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet Sauvignon, Odette, CA, ‘1 X / 285",
+    "bbox": [
+      "84.50",
+      "557.56",
+      "325.88",
+      "569.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Malbec-Cabernet,",
+    "bbox": [
+      "84.50",
+      "587.56",
+      "191.19",
+      "599.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Diam Andes De Uco Grand Reserve, Argentina, ’13 X / 65",
+    "bbox": [
+      "84.50",
+      "605.56",
+      "400.78",
+      "617.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Malbec-Syrah,",
+    "bbox": [
+      "84.50",
+      "635.56",
+      "170.14",
+      "647.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "2",
+    "bbox": [
+      "557.75",
+      "643.91",
+      "580.25",
+      "666.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bodegas Diamandes “Perlita”, Argentina, ’16 16 / 58",
+    "bbox": [
+      "84.50",
+      "653.56",
+      "370.45",
+      "665.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Meritage, Dry Creek Vineyards, CA, ’11 X / 95",
+    "bbox": [
+      "84.50",
+      "682.81",
+      "334.22",
+      "694.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Montepuliano, Boscrelli, Italy, ’12 X / 69",
+    "bbox": [
+      "84.50",
+      "712.81",
+      "305.34",
+      "724.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Petite Syrah, Ridge Vineyard Lytton Estate, CA, ’16 X / 95",
+    "bbox": [
+      "84.50",
+      "742.81",
+      "401.64",
+      "754.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Privacy - Terms",
+    "bbox": [
+      "536.57",
+      "745.25",
+      "578.91",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.mustangharrys.com/happy-hour-cocktails-wine-beer-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "278.55",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/13",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/20/22, 9:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Mustang Harry's | Cocktails, Wine & Beer Menu | Near MSG",
+    "bbox": [
+      "245.14",
+      "15.70",
+      "458.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pinot Noir, Contour, CA, ’18 14 / 52",
+    "bbox": [
+      "84.50",
+      "37.81",
+      "274.64",
+      "49.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Syrah, Qupe, CA, ’14 14 / 52",
+    "bbox": [
+      "84.50",
+      "67.81",
+      "237.54",
+      "79.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Tempranillo, La Rioja Alta “Vina Alberdi Reserva”, Spain, ’12 14 / 52",
+    "bbox": [
+      "84.50",
+      "97.06",
+      "453.07",
+      "109.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "W",
+    "bbox": [
+      "84.50",
+      "136.27",
+      "113.44",
+      "160.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "HITE W",
+    "bbox": [
+      "113.08",
+      "136.27",
+      "211.01",
+      "160.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "INE",
+    "bbox": [
+      "210.65",
+      "136.27",
+      "254.50",
+      "160.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chablis, Domaine De La Muliere, France, ’14   gls 16 / btl 66",
+    "bbox": [
+      "84.50",
+      "191.56",
+      "415.83",
+      "203.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chardonnay, Josh Cellars, CA, ’17   gls 14 / btl 52",
+    "bbox": [
+      "84.50",
+      "221.56",
+      "354.94",
+      "233.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chardonnay, Darioush, CA, ’18   gls X / btl 110",
+    "bbox": [
+      "84.50",
+      "251.56",
+      "338.17",
+      "263.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chardonnay, Director’s Coppola, CA, ’17   gls X / btl 45",
+    "bbox": [
+      "84.50",
+      "281.56",
+      "385.50",
+      "293.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Gruner Veltliner, Landhous Mayer, Austria, ’17  gls 14 / btl 52",
+    "bbox": [
+      "84.50",
+      "310.81",
+      "420.68",
+      "322.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pinot Grigio, Zioba\u0000a, Italy, ’18   gls 13 / blt 49",
+    "bbox": [
+      "84.50",
+      "340.81",
+      "337.62",
+      "352.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pinot Grigio, La Ron Caia, Italy, ’16   gls X / btl 58",
+    "bbox": [
+      "84.50",
+      "370.81",
+      "353.83",
+      "382.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Riesling, Kruger-Rumpf “Estate”, Germany, ’16   gls 15 / btl 56",
+    "bbox": [
+      "84.50",
+      "400.81",
+      "424.58",
+      "412.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sauvignon Blanc, Domaine de la Chaise, Touraine, ’18  gls 14 / btl 52",
+    "bbox": [
+      "84.50",
+      "430.06",
+      "465.55",
+      "442.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sauvignon Blanc, Long Meadow Ranch, CA, ’18   gls X / btl 50",
+    "bbox": [
+      "84.50",
+      "460.06",
+      "429.49",
+      "472.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sauvignon Blanc, Middle Earth, NZ, ’19   gls 15 / btl 56",
+    "bbox": [
+      "84.50",
+      "490.06",
+      "387.23",
+      "502.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Moscato, Bartenura, Italy, ’18 12 / 44",
+    "bbox": [
+      "84.50",
+      "520.06",
+      "285.34",
+      "532.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Vermentino, Calasole, ’15   gls X / btl 42",
+    "bbox": [
+      "84.50",
+      "550.06",
+      "306.79",
+      "562.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Vinho Verde, Aveleda, Portugal, ’18   gls X / btl 38",
+    "bbox": [
+      "84.50",
+      "579.31",
+      "361.64",
+      "591.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RO",
+    "bbox": [
+      "84.50",
+      "618.52",
+      "122.73",
+      "642.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "SE | SPARKLING W",
+    "bbox": [
+      "122.73",
+      "618.52",
+      "364.18",
+      "642.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "INE",
+    "bbox": [
+      "363.82",
+      "618.52",
+      "407.67",
+      "642.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "2",
+    "bbox": [
+      "557.75",
+      "643.91",
+      "580.25",
+      "666.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Rose, Domaine Belambree, Provence France, ’18 14 / 52",
+    "bbox": [
+      "84.50",
+      "673.81",
+      "395.90",
+      "685.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Rose, Hampton Water, New York, ’19 15 / 56",
+    "bbox": [
+      "84.50",
+      "703.81",
+      "328.72",
+      "715.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Champagne, Deutz Brut Classic, France (375ml) X / 50",
+    "bbox": [
+      "84.50",
+      "733.81",
+      "388.30",
+      "745.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Privacy - Terms",
+    "bbox": [
+      "536.57",
+      "745.25",
+      "578.91",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://www.mustangharrys.com/happy-hour-cocktails-wine-beer-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "278.55",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/13",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/20/22, 9:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Mustang Harry's | Cocktails, Wine & Beer Menu | Near MSG",
+    "bbox": [
+      "245.14",
+      "15.70",
+      "458.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Prosecco, LeContesse, Italy (187ml) X / 16",
+    "bbox": [
+      "84.50",
+      "32.56",
+      "319.21",
+      "44.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Rose Brut,",
+    "bbox": [
+      "84.50",
+      "62.56",
+      "145.90",
+      "74.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Le Grand Courtage Grande Cuvee, France (187ml) X / 18",
+    "bbox": [
+      "84.50",
+      "80.56",
+      "398.52",
+      "92.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Rose Brut, So\u0000a Copploa, CA X / 48",
+    "bbox": [
+      "84.50",
+      "109.81",
+      "283.84",
+      "121.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BEER: BO",
+    "bbox": [
+      "84.50",
+      "234.52",
+      "206.64",
+      "258.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "TTLES & CANS",
+    "bbox": [
+      "206.40",
+      "234.52",
+      "389.83",
+      "258.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Ace Pear Cider 8",
+    "bbox": [
+      "84.50",
+      "312.31",
+      "179.16",
+      "324.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Ace Pineapple Cider 8",
+    "bbox": [
+      "84.50",
+      "342.31",
+      "211.16",
+      "354.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Anchor Steam Fog Breaker IPA 8",
+    "bbox": [
+      "84.50",
+      "372.31",
+      "269.20",
+      "384.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Anchor Steam Galaxy Hop Pale Ale 8",
+    "bbox": [
+      "84.50",
+      "402.31",
+      "294.59",
+      "414.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Amstel Light 8",
+    "bbox": [
+      "84.50",
+      "431.56",
+      "167.73",
+      "443.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Bud Light 6",
+    "bbox": [
+      "84.50",
+      "461.56",
+      "150.47",
+      "473.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Budweiser 6",
+    "bbox": [
+      "84.50",
+      "491.56",
+      "155.93",
+      "503.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Coors Light 6",
+    "bbox": [
+      "84.50",
+      "521.56",
+      "160.50",
+      "533.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Corona 8",
+    "bbox": [
+      "84.50",
+      "551.56",
+      "136.15",
+      "563.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Dog\u0000sh Head (90 Minute) 10",
+    "bbox": [
+      "84.50",
+      "580.81",
+      "243.15",
+      "592.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Delirium Tremens 13",
+    "bbox": [
+      "84.50",
+      "610.81",
+      "201.33",
+      "622.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "2",
+    "bbox": [
+      "557.75",
+      "643.91",
+      "580.25",
+      "666.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Heineken 8",
+    "bbox": [
+      "84.50",
+      "651.31",
+      "149.03",
+      "663.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Heineken Lite 8",
+    "bbox": [
+      "84.50",
+      "681.31",
+      "173.68",
+      "693.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Heineken 00 Alcohol Free 7",
+    "bbox": [
+      "84.50",
+      "711.31",
+      "241.30",
+      "723.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Kona Big Wave Golden Ale Can 6",
+    "bbox": [
+      "84.50",
+      "740.56",
+      "272.57",
+      "752.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Privacy - Terms",
+    "bbox": [
+      "536.57",
+      "745.25",
+      "578.91",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://www.mustangharrys.com/happy-hour-cocktails-wine-beer-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "278.55",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/13",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/20/22, 9:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Mustang Harry's | Cocktails, Wine & Beer Menu | Near MSG",
+    "bbox": [
+      "245.14",
+      "15.70",
+      "458.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Labatt Blue 6",
+    "bbox": [
+      "84.50",
+      "35.56",
+      "161.77",
+      "47.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Magners Irish Cider 8",
+    "bbox": [
+      "84.50",
+      "65.56",
+      "205.45",
+      "77.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Michelob Ultra 7",
+    "bbox": [
+      "84.50",
+      "95.56",
+      "178.94",
+      "107.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "PBR 16 oz Can 6",
+    "bbox": [
+      "84.50",
+      "125.56",
+      "175.71",
+      "137.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Bud Lite, Mamitas or High Noon Hard Seltzers (Assorted Flavors) 7",
+    "bbox": [
+      "84.50",
+      "154.81",
+      "458.42",
+      "166.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "BEER: DRAFT",
+    "bbox": [
+      "84.50",
+      "214.27",
+      "256.05",
+      "238.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Bayside IPA 8",
+    "bbox": [
+      "84.50",
+      "269.56",
+      "161.11",
+      "281.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Bud Light 6",
+    "bbox": [
+      "84.50",
+      "299.56",
+      "150.47",
+      "311.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Estrella Galicia Pale Lager 8",
+    "bbox": [
+      "84.50",
+      "329.56",
+      "245.05",
+      "341.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Goose Island IPA 8",
+    "bbox": [
+      "84.50",
+      "359.56",
+      "190.15",
+      "371.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Goose Island Next Coast IPA 9",
+    "bbox": [
+      "84.50",
+      "388.81",
+      "255.65",
+      "400.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Guinness Irish Stout 9",
+    "bbox": [
+      "84.50",
+      "418.81",
+      "208.39",
+      "430.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Harry’s Lager 8",
+    "bbox": [
+      "84.50",
+      "448.81",
+      "170.05",
+      "460.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Hoegarden Belgian Wheat 8",
+    "bbox": [
+      "84.50",
+      "478.81",
+      "247.48",
+      "490.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Kona Big Wave Golden Ale 8",
+    "bbox": [
+      "84.50",
+      "508.81",
+      "247.23",
+      "520.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Montauk Wave Chaser IPA 8",
+    "bbox": [
+      "84.50",
+      "538.06",
+      "244.37",
+      "550.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Lagunitas IPA 8",
+    "bbox": [
+      "84.50",
+      "568.06",
+      "172.59",
+      "580.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Stella Belgian Lager 8",
+    "bbox": [
+      "84.50",
+      "598.06",
+      "211.17",
+      "610.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Veltins Pilsner 8",
+    "bbox": [
+      "84.50",
+      "628.06",
+      "175.99",
+      "640.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "2",
+    "bbox": [
+      "557.75",
+      "643.91",
+      "580.25",
+      "666.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Yuengling Lager 8",
+    "bbox": [
+      "84.50",
+      "657.31",
+      "189.31",
+      "669.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Privacy - Terms",
+    "bbox": [
+      "536.57",
+      "745.25",
+      "578.91",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://www.mustangharrys.com/happy-hour-cocktails-wine-beer-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "278.55",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/13",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "4/20/22, 9:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Mustang Harry's | Cocktails, Wine & Beer Menu | Near MSG",
+    "bbox": [
+      "245.14",
+      "15.70",
+      "458.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "GROW",
+    "bbox": [
+      "185.30",
+      "636.82",
+      "271.25",
+      "663.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "LERS TO",
+    "bbox": [
+      "271.25",
+      "636.82",
+      "381.11",
+      "663.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "GO",
+    "bbox": [
+      "381.11",
+      "636.82",
+      "427.68",
+      "663.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "2",
+    "bbox": [
+      "557.75",
+      "643.91",
+      "580.25",
+      "666.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Choose from our selection of",
+    "bbox": [
+      "184.51",
+      "669.96",
+      "428.50",
+      "687.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "20+ draft beers",
+    "bbox": [
+      "243.83",
+      "705.96",
+      "369.18",
+      "723.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "32oz. $17  |  re\u0000ll $14",
+    "bbox": [
+      "219.07",
+      "741.96",
+      "393.94",
+      "759.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Privacy - Terms",
+    "bbox": [
+      "536.57",
+      "745.25",
+      "578.91",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "https://www.mustangharrys.com/happy-hour-cocktails-wine-beer-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "278.55",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "9/13",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "4/20/22, 9:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Mustang Harry's | Cocktails, Wine & Beer Menu | Near MSG",
+    "bbox": [
+      "245.14",
+      "15.70",
+      "458.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "64oz. $29  |  re\u0000ll $26",
+    "bbox": [
+      "216.72",
+      "42.21",
+      "396.27",
+      "60.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "M",
+    "bbox": [
+      "119.23",
+      "186.91",
+      "152.15",
+      "221.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "a",
+    "bbox": [
+      "152.15",
+      "186.91",
+      "174.19",
+      "221.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "k",
+    "bbox": [
+      "174.19",
+      "186.91",
+      "198.79",
+      "221.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "e",
+    "bbox": [
+      "197.93",
+      "186.91",
+      "220.46",
+      "221.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "A",
+    "bbox": [
+      "220.46",
+      "186.91",
+      "258.61",
+      "221.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "R",
+    "bbox": [
+      "258.61",
+      "186.91",
+      "294.67",
+      "221.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "e",
+    "bbox": [
+      "294.67",
+      "186.91",
+      "317.20",
+      "221.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "se",
+    "bbox": [
+      "317.20",
+      "186.91",
+      "359.22",
+      "221.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "rv",
+    "bbox": [
+      "359.22",
+      "186.91",
+      "397.68",
+      "221.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "a",
+    "bbox": [
+      "396.99",
+      "186.91",
+      "419.04",
+      "221.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "tio",
+    "bbox": [
+      "419.04",
+      "186.91",
+      "469.55",
+      "221.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "n",
+    "bbox": [
+      "469.55",
+      "186.91",
+      "493.77",
+      "221.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Book your table with our easy to use online form and",
+    "bbox": [
+      "103.09",
+      "245.86",
+      "509.91",
+      "262.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "always have guaranteed seating.",
+    "bbox": [
+      "180.71",
+      "263.11",
+      "432.29",
+      "279.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "SCHEDULE RESERVATION NOW!",
+    "bbox": [
+      "191.75",
+      "314.51",
+      "421.23",
+      "329.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "2",
+    "bbox": [
+      "557.75",
+      "643.91",
+      "580.25",
+      "666.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Privacy - Terms",
+    "bbox": [
+      "536.57",
+      "745.25",
+      "578.91",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "https://www.mustangharrys.com/happy-hour-cocktails-wine-beer-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "278.55",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "10/13",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "4/20/22, 9:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Mustang Harry's | Cocktails, Wine & Beer Menu | Near MSG",
+    "bbox": [
+      "245.14",
+      "15.70",
+      "458.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "2",
+    "bbox": [
+      "557.75",
+      "643.91",
+      "580.25",
+      "666.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Privacy - Terms",
+    "bbox": [
+      "536.57",
+      "745.25",
+      "578.91",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "https://www.mustangharrys.com/happy-hour-cocktails-wine-beer-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "278.55",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "11/13",
+    "bbox": [
+      "566.09",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "4/20/22, 9:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Mustang Harry's | Cocktails, Wine & Beer Menu | Near MSG",
+    "bbox": [
+      "245.14",
+      "15.70",
+      "458.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "MENUS",
+    "bbox": [
+      "318.70",
+      "433.76",
+      "372.89",
+      "448.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Food Menu",
+    "bbox": [
+      "318.70",
+      "467.21",
+      "376.77",
+      "477.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Online Ordering Menu",
+    "bbox": [
+      "318.70",
+      "485.21",
+      "429.58",
+      "495.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Kids Menu",
+    "bbox": [
+      "318.70",
+      "502.46",
+      "372.79",
+      "512.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Cocktails, Beer, Wine, Growlers Menu",
+    "bbox": [
+      "318.70",
+      "520.46",
+      "507.92",
+      "530.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Fine Spirits Menu",
+    "bbox": [
+      "318.70",
+      "538.46",
+      "403.14",
+      "548.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "CONTACT / HOURS",
+    "bbox": [
+      "84.50",
+      "622.76",
+      "224.52",
+      "637.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "JOIN NEWSLETTER",
+    "bbox": [
+      "318.70",
+      "622.76",
+      "456.85",
+      "637.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "2",
+    "bbox": [
+      "557.75",
+      "643.91",
+      "580.25",
+      "666.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "352 7th Ave, NY NY 10001",
+    "bbox": [
+      "84.50",
+      "656.21",
+      "212.35",
+      "666.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Tel. 212-268-8930",
+    "bbox": [
+      "84.50",
+      "673.46",
+      "174.10",
+      "683.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Name *",
+    "bbox": [
+      "318.70",
+      "681.31",
+      "359.57",
+      "693.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Email: info@mustangharrys.com",
+    "bbox": [
+      "84.50",
+      "691.46",
+      "241.04",
+      "701.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Hours: Open Mon - Sun, 11:30am - 12:00am",
+    "bbox": [
+      "84.50",
+      "719.96",
+      "293.88",
+      "730.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Email *",
+    "bbox": [
+      "318.70",
+      "742.81",
+      "357.33",
+      "754.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Privacy - Terms",
+    "bbox": [
+      "536.57",
+      "745.25",
+      "578.91",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "https://www.mustangharrys.com/happy-hour-cocktails-wine-beer-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "278.55",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "12/13",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "4/20/22, 9:20 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Mustang Harry's | Cocktails, Wine & Beer Menu | Near MSG",
+    "bbox": [
+      "245.14",
+      "15.70",
+      "458.00",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Submit",
+    "bbox": [
+      "330.70",
+      "82.49",
+      "361.86",
+      "91.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "",
+    "bbox": [
+      "245.53",
+      "189.13",
+      "263.53",
+      "207.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "",
+    "bbox": [
+      "281.18",
+      "189.13",
+      "299.18",
+      "207.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "",
+    "bbox": [
+      "316.82",
+      "186.84",
+      "337.82",
+      "210.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "",
+    "bbox": [
+      "355.47",
+      "186.84",
+      "382.46",
+      "210.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Copyright 2021 Mustang Harry's | Photo credit Brogan and Braddock | Powered By",
+    "bbox": [
+      "106.52",
+      "219.71",
+      "506.49",
+      "230.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Synergist Digital Media",
+    "bbox": [
+      "248.55",
+      "237.71",
+      "367.09",
+      "248.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Privacy Policy / Terms of Service | Blog | Covid Safety Protocols",
+    "bbox": [
+      "147.52",
+      "254.96",
+      "465.48",
+      "265.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "2",
+    "bbox": [
+      "557.75",
+      "643.91",
+      "580.25",
+      "666.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Privacy - Terms",
+    "bbox": [
+      "536.57",
+      "745.25",
+      "578.91",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "https://www.mustangharrys.com/happy-hour-cocktails-wine-beer-menu/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "278.55",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "13/13",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

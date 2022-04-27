@@ -1,0 +1,9754 @@
+[
+  {
+    "page_number": 1,
+    "text": "O",
+    "bbox": [
+      "75.61",
+      "87.47",
+      "87.73",
+      "117.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "r",
+    "bbox": [
+      "107.07",
+      "87.47",
+      "126.54",
+      "117.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "s",
+    "bbox": [
+      "152.33",
+      "87.47",
+      "170.30",
+      "117.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ur",
+    "bbox": [
+      "88.83",
+      "94.22",
+      "105.87",
+      "115.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Osé",
+    "bbox": [
+      "127.15",
+      "94.22",
+      "151.13",
+      "115.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "electiOn",
+    "bbox": [
+      "171.54",
+      "94.22",
+      "230.38",
+      "115.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROsé WInE",
+    "bbox": [
+      "33.75",
+      "255.10",
+      "95.19",
+      "267.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GLass / BOttLE",
+    "bbox": [
+      "218.98",
+      "258.34",
+      "272.25",
+      "266.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Carignan – VillaViva,",
+    "bbox": [
+      "33.75",
+      "269.85",
+      "122.62",
+      "278.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Carignan – VillaViva",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "12 / 48",
+    "bbox": [
+      "248.22",
+      "269.85",
+      "274.64",
+      "278.85"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12 / 48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Languedoc-Roussillon, FR 2018.",
+    "bbox": [
+      "33.75",
+      "279.85",
+      "165.65",
+      "288.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Languedoc-Roussillon, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "R 2018.",
+            "answer_start": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Raspberry, Strawberry, Fresh",
+    "bbox": [
+      "33.75",
+      "289.28",
+      "146.01",
+      "298.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Grenache Blend – FIG & OLIVE, Coeur de Rosé, 17 / 68",
+    "bbox": [
+      "33.75",
+      "311.23",
+      "274.64",
+      "320.23"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grenache Blend – FIG & OLIVE, Coeur de Rosé",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "17 / 68",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Côtes de Provence, France 2019.",
+    "bbox": [
+      "33.75",
+      "321.23",
+      "169.70",
+      "330.23"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Côtes de Provence, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019.",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Notes of Lychee, Citrus with an Elegant, Balanced Finish",
+    "bbox": [
+      "33.75",
+      "330.65",
+      "248.10",
+      "339.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "spaRkLInG ROsé",
+    "bbox": [
+      "33.75",
+      "351.85",
+      "120.07",
+      "364.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GLass / BOttLE",
+    "bbox": [
+      "218.98",
+      "355.09",
+      "272.25",
+      "363.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sparkling Wine – Syltbar, Rosé,",
+    "bbox": [
+      "33.75",
+      "366.60",
+      "164.12",
+      "375.60"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sparkling Wine – Syltbar, Rosé,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "17 / 68",
+    "bbox": [
+      "248.52",
+      "366.60",
+      "274.64",
+      "375.60"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17 / 68",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Friuli, IT NV.",
+    "bbox": [
+      "33.75",
+      "376.60",
+      "87.48",
+      "385.60"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "NV.",
+            "answer_start": 11
+          }
+        ],
+        "W": [
+          {
+            "text": "Friuli, IT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Lychees, Citrus, Elegant",
+    "bbox": [
+      "33.75",
+      "386.03",
+      "126.12",
+      "394.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne – Moët & Chandon, Rosé Impérial, 28 / 106",
+    "bbox": [
+      "33.75",
+      "407.98",
+      "274.64",
+      "416.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne – Moët & Chandon, Rosé Impérial",
+            "answer_start": 0
+          },
+          {
+            "text": "Champagne",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "– M",
+            "answer_start": 10
+          }
+        ],
+        "P": [
+          {
+            "text": "28 / 106",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Épernay, FR NV.",
+    "bbox": [
+      "33.75",
+      "417.98",
+      "102.36",
+      "426.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Épernay, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV.",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Raspberry, Cherry, Floral",
+    "bbox": [
+      "33.75",
+      "427.40",
+      "131.36",
+      "436.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dom Pérignon, Champagne – Rosé,",
+    "bbox": [
+      "33.75",
+      "449.35",
+      "183.75",
+      "458.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Dom Pérignon, Champagne – Rosé,",
+            "answer_start": 0
+          },
+          {
+            "text": "Dom Périgno",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "on, Ch",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "630",
+    "bbox": [
+      "257.53",
+      "449.35",
+      "274.64",
+      "458.35"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "630",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Épernay, FR 2004.",
+    "bbox": [
+      "33.75",
+      "459.35",
+      "109.99",
+      "468.35"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Épernay, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2004",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Elegant, Smoke, Black Cherry",
+    "bbox": [
+      "33.75",
+      "468.78",
+      "146.90",
+      "477.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FIG & OLIVE R",
+    "bbox": [
+      "83.71",
+      "516.09",
+      "196.57",
+      "533.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Osé",
+    "bbox": [
+      "197.19",
+      "519.98",
+      "221.30",
+      "531.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FIG & OLIVE proudly introduces our very own rosé from",
+    "bbox": [
+      "38.00",
+      "535.76",
+      "269.65",
+      "545.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "the heart of Côtes de Provence near the town of St. Tropez.",
+    "bbox": [
+      "38.00",
+      "545.01",
+      "266.97",
+      "554.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Created to pair with the Provencal & Mediterranean",
+    "bbox": [
+      "48.58",
+      "558.76",
+      "259.08",
+      "568.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "cuisine, our rosé is a balance between freshness &",
+    "bbox": [
+      "52.06",
+      "568.01",
+      "255.60",
+      "577.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "richness. It offers a highly aromatic nose with notes of",
+    "bbox": [
+      "44.67",
+      "577.26",
+      "263.00",
+      "586.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "lychees and citrus.",
+    "bbox": [
+      "115.66",
+      "586.51",
+      "189.34",
+      "595.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1",
+    "bbox": [
+      "273.10",
+      "756.60",
+      "279.00",
+      "766.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "W",
+    "bbox": [
+      "74.21",
+      "57.12",
+      "92.47",
+      "77.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "G",
+    "bbox": [
+      "174.81",
+      "57.12",
+      "197.79",
+      "77.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "InEBythE",
+    "bbox": [
+      "92.80",
+      "61.70",
+      "174.01",
+      "75.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Lass",
+    "bbox": [
+      "198.80",
+      "61.70",
+      "231.80",
+      "75.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "OuR CORaVIn/pERLaGE sELECtIOn",
+    "bbox": [
+      "29.25",
+      "102.46",
+      "207.89",
+      "115.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cabernet Blend – Jordan,",
+    "bbox": [
+      "29.25",
+      "117.21",
+      "133.90",
+      "126.21"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Blend – Jordan",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "30",
+    "bbox": [
+      "267.00",
+      "117.21",
+      "279.14",
+      "126.21"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "30",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Alexander Valley, 2015.",
+    "bbox": [
+      "29.25",
+      "127.21",
+      "126.92",
+      "136.21"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Alexander Valley,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Black Currants, Floral, Long Finish",
+    "bbox": [
+      "29.25",
+      "136.64",
+      "160.81",
+      "145.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chardonnay – Newton Vineyards, Unfiltered,",
+    "bbox": [
+      "29.25",
+      "158.59",
+      "214.37",
+      "167.59"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay – Newton Vineyards, Unfiltered",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "28",
+    "bbox": [
+      "266.97",
+      "158.59",
+      "279.14",
+      "167.59"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "28",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Napa Valley, California, 2016.",
+    "bbox": [
+      "29.25",
+      "168.59",
+      "150.73",
+      "177.59"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Napa Valley, California,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pear, Vanilla, Structured",
+    "bbox": [
+      "29.25",
+      "178.01",
+      "121.26",
+      "186.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ChampaGnE & spaRkLInG WInE",
+    "bbox": [
+      "29.25",
+      "229.77",
+      "193.12",
+      "242.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Prosecco – Luca Paretti, LØVO Doc Brut,",
+    "bbox": [
+      "29.25",
+      "244.52",
+      "196.72",
+      "253.52"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Prosecco – Luca Paretti, LØVO Doc Brut",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "267.80",
+      "244.52",
+      "279.14",
+      "253.52"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Treviso, Italy NV.",
+    "bbox": [
+      "29.25",
+      "254.52",
+      "101.29",
+      "263.52"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Treviso, Italy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV.",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Understated Aromas of Green Apple & Peach with Floral Notes",
+    "bbox": [
+      "29.25",
+      "263.95",
+      "267.97",
+      "272.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sparkling Wine – Syltbar, Rosé,",
+    "bbox": [
+      "29.25",
+      "285.90",
+      "159.62",
+      "294.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sparkling Wine – Syltbar, Rosé",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "17",
+    "bbox": [
+      "267.79",
+      "285.90",
+      "279.14",
+      "294.90"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Friuli, IT NV.",
+    "bbox": [
+      "29.25",
+      "295.90",
+      "82.98",
+      "304.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Friuli, IT",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV.",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Lychees, Citrus, Elegant",
+    "bbox": [
+      "29.25",
+      "305.33",
+      "121.62",
+      "314.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Champagne – Veuve Clicquot, Yellow Label,",
+    "bbox": [
+      "29.25",
+      "327.28",
+      "213.03",
+      "336.28"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne – Veuve Clicquot, Yellow Label",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "24",
+    "bbox": [
+      "267.12",
+      "327.28",
+      "279.14",
+      "336.28"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "24",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Reims, FR NV.",
+    "bbox": [
+      "29.25",
+      "337.28",
+      "88.88",
+      "346.28"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Reims, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV.",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Baked Apple, Pear, Peach",
+    "bbox": [
+      "29.25",
+      "346.70",
+      "126.56",
+      "355.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Champagne – Moët & Chandon, Rosé Impérial,",
+    "bbox": [
+      "29.25",
+      "368.65",
+      "224.18",
+      "377.65"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne – Moët & Chandon, Rosé Impérial,",
+            "answer_start": 0
+          },
+          {
+            "text": "Champagne",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "– M",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "28",
+    "bbox": [
+      "266.97",
+      "368.65",
+      "279.14",
+      "377.65"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "28",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Épernay, FR NV.",
+    "bbox": [
+      "29.25",
+      "378.65",
+      "97.86",
+      "387.65"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Épernay, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV.",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Raspberry, Cherry, Floral",
+    "bbox": [
+      "29.25",
+      "388.08",
+      "126.86",
+      "396.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROsé",
+    "bbox": [
+      "29.25",
+      "439.83",
+      "58.93",
+      "452.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GLass / BOttLE",
+    "bbox": [
+      "223.48",
+      "443.08",
+      "276.75",
+      "451.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Carignan – VillaViva,",
+    "bbox": [
+      "29.25",
+      "454.59",
+      "118.12",
+      "463.59"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Carignan – VillaViva",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "12 / 48",
+    "bbox": [
+      "252.72",
+      "454.59",
+      "279.14",
+      "463.59"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12 / 48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Languedoc-Roussillon, FR 2018.",
+    "bbox": [
+      "29.25",
+      "464.59",
+      "161.15",
+      "473.59"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Languedoc-Roussillon, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018.",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Raspberry, Strawberry, Fresh",
+    "bbox": [
+      "29.25",
+      "474.01",
+      "141.51",
+      "482.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Grenache Blend – FIG & OLIVE, Coeur de Rosé,",
+    "bbox": [
+      "29.25",
+      "495.96",
+      "228.03",
+      "504.96"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grenache Blend – FIG & OLIVE, Coeur de Rosé,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "17 / 68",
+    "bbox": [
+      "253.02",
+      "495.96",
+      "279.14",
+      "504.96"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17 / 68",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Côtes de Provence, France 2019.",
+    "bbox": [
+      "29.25",
+      "505.96",
+      "165.20",
+      "514.96"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Côtes de Provence, France",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019.",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Notes of Lychee, Citrus with an Elegant, Balanced Finish",
+    "bbox": [
+      "29.25",
+      "515.39",
+      "243.60",
+      "524.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4",
+    "bbox": [
+      "27.00",
+      "756.60",
+      "32.90",
+      "766.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "W",
+    "bbox": [
+      "74.21",
+      "57.12",
+      "92.47",
+      "77.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "G",
+    "bbox": [
+      "174.81",
+      "57.12",
+      "197.79",
+      "77.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "InEBythE",
+    "bbox": [
+      "92.80",
+      "61.70",
+      "174.01",
+      "75.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Lass",
+    "bbox": [
+      "198.80",
+      "61.70",
+      "231.80",
+      "75.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WhItE",
+    "bbox": [
+      "29.25",
+      "102.46",
+      "60.77",
+      "115.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sauvignon Blanc – Biscaye Baie,",
+    "bbox": [
+      "29.25",
+      "117.21",
+      "161.56",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "12",
+    "bbox": [
+      "267.44",
+      "117.21",
+      "279.14",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Côtes de Gascogne, France 2018.",
+    "bbox": [
+      "29.25",
+      "127.21",
+      "168.83",
+      "136.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Fresh & Crisp in the Mouth, White Flowers Nose",
+    "bbox": [
+      "29.25",
+      "136.64",
+      "213.03",
+      "145.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Riesling – Willm,",
+    "bbox": [
+      "29.25",
+      "154.22",
+      "100.49",
+      "163.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "15",
+    "bbox": [
+      "267.62",
+      "154.22",
+      "279.14",
+      "163.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Alsace, France 2018.",
+    "bbox": [
+      "29.25",
+      "164.22",
+      "115.73",
+      "173.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Hints of Lemon, Fresh Fruits & Citrus",
+    "bbox": [
+      "29.25",
+      "173.64",
+      "169.27",
+      "182.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Grigio – Barone Fini,",
+    "bbox": [
+      "29.25",
+      "191.22",
+      "138.92",
+      "200.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "16",
+    "bbox": [
+      "267.63",
+      "191.22",
+      "279.14",
+      "200.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Valdadige, Italy 2018.",
+    "bbox": [
+      "29.25",
+      "201.22",
+      "118.40",
+      "210.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Floral, Crisp, Fresh",
+    "bbox": [
+      "29.25",
+      "210.65",
+      "102.83",
+      "219.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chardonnay – Laguna,",
+    "bbox": [
+      "29.25",
+      "228.22",
+      "124.36",
+      "237.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "17",
+    "bbox": [
+      "267.79",
+      "228.22",
+      "279.14",
+      "237.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Russian River Valley, CA 2016.",
+    "bbox": [
+      "29.25",
+      "238.22",
+      "154.69",
+      "247.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Stone Fruit, Tangerine, Creamy",
+    "bbox": [
+      "29.25",
+      "247.65",
+      "149.41",
+      "256.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sauvignon Blanc – Domaine de Tonnellerie,",
+    "bbox": [
+      "29.25",
+      "265.23",
+      "208.90",
+      "274.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "18",
+    "bbox": [
+      "267.56",
+      "265.23",
+      "279.14",
+      "274.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sancerre, France 2018.",
+    "bbox": [
+      "29.25",
+      "275.23",
+      "125.37",
+      "284.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Peach, Minerality, Elegant",
+    "bbox": [
+      "29.25",
+      "284.65",
+      "127.97",
+      "293.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chardonnay – Simonnet-Febvre, Chablis,",
+    "bbox": [
+      "29.25",
+      "302.23",
+      "200.57",
+      "311.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "20",
+    "bbox": [
+      "266.97",
+      "302.23",
+      "279.14",
+      "311.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Burgundy, France, 2018.",
+    "bbox": [
+      "29.25",
+      "312.23",
+      "130.19",
+      "321.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Fine Citrus Notes with Hints of Green & Yellow Apples",
+    "bbox": [
+      "29.25",
+      "321.66",
+      "235.02",
+      "330.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chardonnay – Newton Vineyards, Unfiltered,",
+    "bbox": [
+      "29.25",
+      "339.23",
+      "214.37",
+      "348.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "28",
+    "bbox": [
+      "266.97",
+      "339.23",
+      "279.14",
+      "348.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Napa Valley, California, 2016.",
+    "bbox": [
+      "29.25",
+      "349.23",
+      "150.73",
+      "358.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pear, Vanilla, Structured",
+    "bbox": [
+      "29.25",
+      "358.66",
+      "121.26",
+      "367.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "REd",
+    "bbox": [
+      "29.25",
+      "395.53",
+      "48.57",
+      "408.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sangiovese Blend – Florentia Chianti,",
+    "bbox": [
+      "29.25",
+      "410.28",
+      "183.36",
+      "419.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "14",
+    "bbox": [
+      "267.80",
+      "410.28",
+      "279.14",
+      "419.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Tuscany, IT 2016.",
+    "bbox": [
+      "29.25",
+      "420.28",
+      "101.63",
+      "429.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Black Cherry, Dark Chocolate, Bright",
+    "bbox": [
+      "29.25",
+      "429.71",
+      "169.56",
+      "438.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Tempranillo – Valserrano, Crianza,",
+    "bbox": [
+      "29.25",
+      "447.29",
+      "174.55",
+      "456.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "16",
+    "bbox": [
+      "267.63",
+      "447.29",
+      "279.14",
+      "456.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Rioja, SP 2017.",
+    "bbox": [
+      "29.25",
+      "457.29",
+      "88.91",
+      "466.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Perfect Balance of Red Fruit, Fine Tannin",
+    "bbox": [
+      "29.25",
+      "466.71",
+      "184.32",
+      "475.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Malbec – Château du Caillau,",
+    "bbox": [
+      "29.25",
+      "484.29",
+      "154.50",
+      "493.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "16",
+    "bbox": [
+      "267.63",
+      "484.29",
+      "279.14",
+      "493.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cahors, FR 2017.",
+    "bbox": [
+      "29.25",
+      "494.29",
+      "99.08",
+      "503.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Tannins, Rich, Cherry",
+    "bbox": [
+      "29.25",
+      "503.72",
+      "112.53",
+      "512.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Noir – Andre Montessuy, Bourgogne,",
+    "bbox": [
+      "29.25",
+      "521.29",
+      "204.79",
+      "530.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "17",
+    "bbox": [
+      "267.79",
+      "521.29",
+      "279.14",
+      "530.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Burgundy, FR 2017.",
+    "bbox": [
+      "29.25",
+      "531.29",
+      "109.22",
+      "540.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Notes of raspberries and strawberries highlighted by a subtle",
+    "bbox": [
+      "29.25",
+      "540.72",
+      "266.37",
+      "549.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "spicy background",
+    "bbox": [
+      "29.25",
+      "549.97",
+      "98.04",
+      "558.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cabernet Sauvignon – Château Lalande, Cru Bourgeois, 17",
+    "bbox": [
+      "29.25",
+      "567.55",
+      "279.14",
+      "576.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bordeaux, FR 2016.",
+    "bbox": [
+      "29.25",
+      "577.55",
+      "109.30",
+      "586.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Tobacco, Cedar, Ripe Fruit",
+    "bbox": [
+      "29.25",
+      "586.97",
+      "132.17",
+      "595.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Noir – Hahn, Estate Pinot Noir,",
+    "bbox": [
+      "29.25",
+      "604.55",
+      "176.76",
+      "613.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "18",
+    "bbox": [
+      "267.56",
+      "604.55",
+      "279.14",
+      "613.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Arroyo Seco, Monterey, CA 2017.",
+    "bbox": [
+      "29.25",
+      "614.55",
+      "165.43",
+      "623.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Dried Cherry Notes Mixed with Raspberry & Baking Spices",
+    "bbox": [
+      "29.25",
+      "623.98",
+      "255.12",
+      "632.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cabernet Sauvignon – The Vice, The House,",
+    "bbox": [
+      "29.25",
+      "641.55",
+      "211.84",
+      "650.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "19",
+    "bbox": [
+      "267.59",
+      "641.55",
+      "279.14",
+      "650.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Napa Valley, CA 2017.",
+    "bbox": [
+      "29.25",
+      "651.55",
+      "119.96",
+      "660.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Black Fruit, Dried Violet, Mocha, Black Tea & Cigar",
+    "bbox": [
+      "29.25",
+      "660.98",
+      "222.31",
+      "669.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "5",
+    "bbox": [
+      "273.10",
+      "756.60",
+      "279.00",
+      "766.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "W",
+    "bbox": [
+      "107.15",
+      "421.25",
+      "125.41",
+      "441.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "B",
+    "bbox": [
+      "207.75",
+      "421.25",
+      "225.69",
+      "441.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "InEBythE",
+    "bbox": [
+      "125.74",
+      "425.83",
+      "206.95",
+      "439.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "OttLE",
+    "bbox": [
+      "226.64",
+      "425.83",
+      "270.01",
+      "439.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "C",
+    "bbox": [
+      "57.13",
+      "47.12",
+      "71.63",
+      "67.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": ", s",
+    "bbox": [
+      "154.48",
+      "47.12",
+      "178.16",
+      "67.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "hampaGnE",
+    "bbox": [
+      "72.42",
+      "51.70",
+      "154.31",
+      "65.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "paRkLInG",
+    "bbox": [
+      "179.30",
+      "51.70",
+      "248.86",
+      "65.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "W",
+    "bbox": [
+      "98.57",
+      "67.12",
+      "116.83",
+      "87.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "& R",
+    "bbox": [
+      "141.54",
+      "67.12",
+      "178.40",
+      "87.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "InE",
+    "bbox": [
+      "117.16",
+      "71.70",
+      "140.74",
+      "85.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Osé",
+    "bbox": [
+      "179.11",
+      "71.70",
+      "207.42",
+      "85.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ChampaGnE",
+    "bbox": [
+      "29.25",
+      "102.46",
+      "91.42",
+      "115.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Moët & Chandon, Rosé Impérial, Épernay, NV.",
+    "bbox": [
+      "29.25",
+      "117.21",
+      "219.96",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "63",
+    "bbox": [
+      "267.00",
+      "117.21",
+      "279.14",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Raspberry, Cherry, Floral 375 ml",
+    "bbox": [
+      "29.25",
+      "127.21",
+      "162.68",
+      "136.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Moët & Chandon, Rosé Impérial, Épernay, NV.",
+    "bbox": [
+      "29.25",
+      "149.34",
+      "219.96",
+      "158.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "106",
+    "bbox": [
+      "262.52",
+      "149.34",
+      "279.14",
+      "158.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Raspberry, Cherry, Floral",
+    "bbox": [
+      "29.25",
+      "158.76",
+      "126.86",
+      "167.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Veuve Clicquot, Yellow Label, Reims, NV.",
+    "bbox": [
+      "29.25",
+      "180.71",
+      "199.86",
+      "189.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "106",
+    "bbox": [
+      "262.88",
+      "180.71",
+      "279.14",
+      "189.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Baked Apple, Pear, Peach",
+    "bbox": [
+      "29.25",
+      "190.14",
+      "126.56",
+      "198.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Perrier-Jouët, Grand Brut, Épernay, NV.",
+    "bbox": [
+      "29.25",
+      "212.09",
+      "191.02",
+      "221.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "153",
+    "bbox": [
+      "262.65",
+      "212.09",
+      "279.14",
+      "221.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Delicate, Elegant, Yellow Fruits & Fresh Fruit",
+    "bbox": [
+      "29.25",
+      "221.51",
+      "198.97",
+      "230.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Ruinart, Blanc de Blancs, Reims, NV.",
+    "bbox": [
+      "29.25",
+      "243.46",
+      "178.72",
+      "252.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "159",
+    "bbox": [
+      "262.66",
+      "243.46",
+      "279.14",
+      "252.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Stone Fruit, Toast, Crisp Minerality",
+    "bbox": [
+      "29.25",
+      "252.89",
+      "162.09",
+      "261.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Krug, Grande Cuvée, Reims, NV.",
+    "bbox": [
+      "29.25",
+      "274.84",
+      "165.87",
+      "283.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "405",
+    "bbox": [
+      "261.99",
+      "274.84",
+      "279.14",
+      "283.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Brioche, Minerality, Complex",
+    "bbox": [
+      "29.25",
+      "284.26",
+      "140.52",
+      "293.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Dom Pérignon, Rosé, Épernay, 2004.",
+    "bbox": [
+      "29.25",
+      "306.21",
+      "180.23",
+      "315.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "630",
+    "bbox": [
+      "262.03",
+      "306.21",
+      "279.14",
+      "315.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Elegant, Smoke, Black Cherry",
+    "bbox": [
+      "29.25",
+      "315.64",
+      "142.40",
+      "324.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "spaRkLInG WInE",
+    "bbox": [
+      "29.25",
+      "380.16",
+      "112.86",
+      "392.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Prosecco – Luca Paretti, LØVO Doc Brut,",
+    "bbox": [
+      "29.25",
+      "394.92",
+      "196.72",
+      "403.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "49",
+    "bbox": [
+      "267.11",
+      "394.92",
+      "279.14",
+      "403.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Treviso, IT NV.",
+    "bbox": [
+      "29.25",
+      "404.92",
+      "92.30",
+      "413.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Understated Aromas of Green Apple & Peach with Floral Notes",
+    "bbox": [
+      "29.25",
+      "414.34",
+      "267.97",
+      "423.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sparkling Wine – Syltbar, Rosé,",
+    "bbox": [
+      "29.25",
+      "436.29",
+      "162.05",
+      "445.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "68",
+    "bbox": [
+      "266.94",
+      "436.29",
+      "279.14",
+      "445.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Friuli, IT NV.",
+    "bbox": [
+      "29.25",
+      "446.29",
+      "82.98",
+      "455.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Lychees, Citrus, Elegant",
+    "bbox": [
+      "29.25",
+      "455.72",
+      "121.62",
+      "464.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ROsé By thE BOttLE",
+    "bbox": [
+      "29.25",
+      "520.24",
+      "131.82",
+      "532.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Carignan – VillaViva,",
+    "bbox": [
+      "29.25",
+      "534.99",
+      "118.13",
+      "543.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "48",
+    "bbox": [
+      "266.98",
+      "534.99",
+      "279.14",
+      "543.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Languedoc-Roussillon, FR 2018.",
+    "bbox": [
+      "29.25",
+      "544.99",
+      "161.15",
+      "553.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Raspberry, Strawberry, Fresh",
+    "bbox": [
+      "29.25",
+      "554.42",
+      "141.51",
+      "563.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Grenache Blend – FIG & OLIVE, Coeur de Rosé,",
+    "bbox": [
+      "29.25",
+      "576.37",
+      "228.03",
+      "585.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "68",
+    "bbox": [
+      "266.94",
+      "576.37",
+      "279.14",
+      "585.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Côtes de Provence, France 2019.",
+    "bbox": [
+      "29.25",
+      "586.37",
+      "165.20",
+      "595.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Notes of Lychee, Citrus with an Elegant, Balanced Finish",
+    "bbox": [
+      "29.25",
+      "595.79",
+      "243.60",
+      "604.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "7",
+    "bbox": [
+      "273.10",
+      "756.60",
+      "279.00",
+      "766.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "W",
+    "bbox": [
+      "103.53",
+      "47.62",
+      "121.79",
+      "67.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "W",
+    "bbox": [
+      "153.60",
+      "47.62",
+      "178.56",
+      "67.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "hItE",
+    "bbox": [
+      "122.14",
+      "52.20",
+      "152.80",
+      "66.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "InE",
+    "bbox": [
+      "178.89",
+      "52.20",
+      "202.46",
+      "66.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "s",
+    "bbox": [
+      "88.16",
+      "68.91",
+      "96.90",
+      "85.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "B",
+    "bbox": [
+      "168.11",
+      "68.91",
+      "183.36",
+      "85.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "auVIGnOn",
+    "bbox": [
+      "97.69",
+      "72.81",
+      "167.43",
+      "84.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "LanC",
+    "bbox": [
+      "184.27",
+      "72.81",
+      "217.84",
+      "84.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "LOIRE–tOuRaInE, sanCERRE & pOuILLy-Fumé (FR)",
+    "bbox": [
+      "29.25",
+      "102.46",
+      "276.75",
+      "115.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Domaine de Tonnellerie, Sancerre, 2018.",
+    "bbox": [
+      "29.25",
+      "117.21",
+      "197.74",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "68",
+    "bbox": [
+      "266.94",
+      "117.21",
+      "279.14",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Peach, Minerality, Elegant",
+    "bbox": [
+      "29.25",
+      "126.64",
+      "127.97",
+      "135.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CôtEs dE GasCOGnE (FR)",
+    "bbox": [
+      "29.25",
+      "147.83",
+      "161.74",
+      "160.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Biscaye Baie, 2018.",
+    "bbox": [
+      "29.25",
+      "162.59",
+      "108.55",
+      "171.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "48",
+    "bbox": [
+      "266.77",
+      "162.59",
+      "279.14",
+      "171.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Fresh & Crisp in the Mouth, White Flowers Nose",
+    "bbox": [
+      "29.25",
+      "172.01",
+      "213.03",
+      "180.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "dOmEstIC (usa)",
+    "bbox": [
+      "29.25",
+      "193.21",
+      "109.89",
+      "205.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Grgich Hills Estate, Fumé Blanc, Napa Valley, CA 2017. 88",
+    "bbox": [
+      "29.25",
+      "207.96",
+      "279.14",
+      "216.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Tropical Fruit, Melon & Citrus Notes with a Crisp, Balanced",
+    "bbox": [
+      "29.25",
+      "217.39",
+      "256.96",
+      "226.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Acidity",
+    "bbox": [
+      "29.25",
+      "226.64",
+      "56.20",
+      "235.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "s",
+    "bbox": [
+      "98.69",
+      "673.77",
+      "107.43",
+      "690.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "p",
+    "bbox": [
+      "171.99",
+      "673.77",
+      "186.32",
+      "690.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "OmmELIER",
+    "bbox": [
+      "108.30",
+      "677.66",
+      "171.31",
+      "689.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ICk",
+    "bbox": [
+      "187.05",
+      "677.66",
+      "207.30",
+      "689.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Grgich Hills Estate, Fumé Blanc,",
+    "bbox": [
+      "42.50",
+      "691.77",
+      "177.92",
+      "700.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "88",
+    "bbox": [
+      "253.65",
+      "691.77",
+      "265.89",
+      "700.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Napa Valley, CA 2017.",
+    "bbox": [
+      "42.50",
+      "701.77",
+      "133.21",
+      "710.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Tropical Fruit, Melon & Citrus Notes with a Crisp,",
+    "bbox": [
+      "42.50",
+      "711.20",
+      "232.59",
+      "719.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Balanced Acidity",
+    "bbox": [
+      "42.50",
+      "720.45",
+      "107.07",
+      "729.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "8",
+    "bbox": [
+      "27.00",
+      "756.60",
+      "32.90",
+      "766.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "W",
+    "bbox": [
+      "103.53",
+      "47.62",
+      "121.79",
+      "67.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "W",
+    "bbox": [
+      "153.60",
+      "47.62",
+      "178.56",
+      "67.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "hItE",
+    "bbox": [
+      "122.14",
+      "52.20",
+      "152.80",
+      "66.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "InE",
+    "bbox": [
+      "178.89",
+      "52.20",
+      "202.46",
+      "66.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "C",
+    "bbox": [
+      "106.65",
+      "68.91",
+      "118.98",
+      "85.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "haRdOnnay",
+    "bbox": [
+      "119.67",
+      "72.81",
+      "199.36",
+      "84.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BuRGundy (FR)",
+    "bbox": [
+      "29.25",
+      "102.46",
+      "104.98",
+      "115.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Simonnet-Febvre, Chablis, Burgundy, 2018.",
+    "bbox": [
+      "29.25",
+      "117.21",
+      "208.39",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "71",
+    "bbox": [
+      "267.54",
+      "117.21",
+      "279.14",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Fine Citrus Notes with Hints of Green & Yellow Apples",
+    "bbox": [
+      "29.25",
+      "126.64",
+      "235.02",
+      "135.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Louis Latour, Beaune Blanc, Beaune, 2016.",
+    "bbox": [
+      "29.25",
+      "148.59",
+      "201.17",
+      "157.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "91",
+    "bbox": [
+      "267.65",
+      "148.59",
+      "279.14",
+      "157.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Floral Nose & Vanilla Notes, Beautiful Saline Finish",
+    "bbox": [
+      "29.25",
+      "158.01",
+      "220.79",
+      "166.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "dOmEstIC (usa)",
+    "bbox": [
+      "29.25",
+      "179.21",
+      "109.89",
+      "191.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Laguna, Russian River Valley, CA 2016.",
+    "bbox": [
+      "29.25",
+      "193.96",
+      "189.81",
+      "202.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "62",
+    "bbox": [
+      "267.10",
+      "193.96",
+      "279.14",
+      "202.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Stone fruit, Tangerine, Creamy",
+    "bbox": [
+      "29.25",
+      "203.39",
+      "146.87",
+      "212.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Matthiasson, Linda Vista Vineyard, Napa Valley, CA 2018. 81",
+    "bbox": [
+      "29.25",
+      "225.34",
+      "279.14",
+      "234.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Yellow Peaches, Musk Melon & Honey on the Nose & Palate",
+    "bbox": [
+      "29.25",
+      "234.76",
+      "252.53",
+      "243.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Au Contraire, Mighty Mouse, Russian River Valley, 2014. 113",
+    "bbox": [
+      "29.25",
+      "256.71",
+      "279.14",
+      "265.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Pear Compote, Salty Lemon & Limestone, Lifted Acidity",
+    "bbox": [
+      "29.25",
+      "266.14",
+      "242.30",
+      "274.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Providing Refreshing Feel",
+    "bbox": [
+      "29.25",
+      "275.39",
+      "127.73",
+      "284.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Newton Vineyards, Unfiltered, Napa Valley, CA 2016. 134",
+    "bbox": [
+      "29.25",
+      "297.34",
+      "279.14",
+      "306.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Pear, Vanilla, Structured",
+    "bbox": [
+      "29.25",
+      "306.76",
+      "121.26",
+      "315.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "sOuthERn ItaLy",
+    "bbox": [
+      "29.25",
+      "327.96",
+      "109.90",
+      "340.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Tormaresca, Puglia, 2018.",
+    "bbox": [
+      "29.25",
+      "342.71",
+      "136.54",
+      "351.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "58",
+    "bbox": [
+      "266.96",
+      "342.71",
+      "279.14",
+      "351.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Bright, Minerality, Tangerine Acidity",
+    "bbox": [
+      "29.25",
+      "352.14",
+      "167.54",
+      "360.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "s",
+    "bbox": [
+      "98.69",
+      "673.77",
+      "107.43",
+      "690.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "p",
+    "bbox": [
+      "171.99",
+      "673.77",
+      "186.32",
+      "690.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "OmmELIER",
+    "bbox": [
+      "108.30",
+      "677.66",
+      "171.31",
+      "689.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ICk",
+    "bbox": [
+      "187.05",
+      "677.66",
+      "207.30",
+      "689.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Au Contraire, Mighty Mouse, 2014.",
+    "bbox": [
+      "42.50",
+      "691.77",
+      "185.73",
+      "700.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "113",
+    "bbox": [
+      "250.22",
+      "691.77",
+      "265.89",
+      "700.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Russian River Valley, CA 2014.",
+    "bbox": [
+      "42.50",
+      "701.77",
+      "167.69",
+      "710.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Pear Compote, Salty Lemon & Limestone, Lifted Acidity",
+    "bbox": [
+      "42.50",
+      "711.20",
+      "255.55",
+      "719.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Providing Refreshing Feel",
+    "bbox": [
+      "42.50",
+      "720.45",
+      "140.98",
+      "729.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "9",
+    "bbox": [
+      "273.10",
+      "756.60",
+      "279.00",
+      "766.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "W",
+    "bbox": [
+      "103.53",
+      "57.12",
+      "121.79",
+      "77.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "W",
+    "bbox": [
+      "153.60",
+      "57.12",
+      "178.56",
+      "77.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "hItE",
+    "bbox": [
+      "122.14",
+      "61.70",
+      "152.80",
+      "75.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "InE",
+    "bbox": [
+      "178.89",
+      "61.70",
+      "202.46",
+      "75.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "F",
+    "bbox": [
+      "29.25",
+      "100.73",
+      "37.87",
+      "117.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "RanCE",
+    "bbox": [
+      "38.39",
+      "104.62",
+      "80.04",
+      "116.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "aLsaCE",
+    "bbox": [
+      "29.25",
+      "119.98",
+      "65.60",
+      "132.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Riesling – Willm, Alsace, 2018.",
+    "bbox": [
+      "29.25",
+      "134.73",
+      "156.22",
+      "143.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "49",
+    "bbox": [
+      "267.11",
+      "134.73",
+      "279.14",
+      "143.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Hints of Lemon, Fresh Fruits & Citrus",
+    "bbox": [
+      "29.25",
+      "144.16",
+      "169.27",
+      "152.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "I",
+    "bbox": [
+      "29.25",
+      "169.35",
+      "33.65",
+      "186.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "taLy",
+    "bbox": [
+      "34.27",
+      "173.25",
+      "60.68",
+      "185.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "VEnEtO & nORth-East",
+    "bbox": [
+      "29.25",
+      "188.60",
+      "150.66",
+      "201.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Pinot Grigio – Barone Fini, Valdadige, 2018.",
+    "bbox": [
+      "29.25",
+      "203.36",
+      "208.60",
+      "212.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "59",
+    "bbox": [
+      "267.00",
+      "203.36",
+      "279.14",
+      "212.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Floral, Crisp, Fresh",
+    "bbox": [
+      "29.25",
+      "212.78",
+      "102.83",
+      "221.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CampanIa",
+    "bbox": [
+      "29.25",
+      "233.98",
+      "80.73",
+      "246.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Falanghina - Mastroberardino, Falanghina del Sannio, 2017. 59",
+    "bbox": [
+      "29.25",
+      "248.73",
+      "279.14",
+      "257.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Aromas of Ripe Pineapples Complemented by Undernotes of",
+    "bbox": [
+      "29.25",
+      "258.16",
+      "262.93",
+      "266.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "White Flowers",
+    "bbox": [
+      "29.25",
+      "267.41",
+      "84.50",
+      "276.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "10",
+    "bbox": [
+      "27.00",
+      "756.60",
+      "38.33",
+      "766.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "R",
+    "bbox": [
+      "113.06",
+      "47.62",
+      "123.76",
+      "67.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "W",
+    "bbox": [
+      "144.07",
+      "47.62",
+      "169.03",
+      "67.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Ed",
+    "bbox": [
+      "124.95",
+      "52.20",
+      "143.28",
+      "66.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "InE",
+    "bbox": [
+      "169.36",
+      "52.20",
+      "192.94",
+      "66.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "C",
+    "bbox": [
+      "77.03",
+      "68.91",
+      "89.36",
+      "85.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "s",
+    "bbox": [
+      "144.01",
+      "68.91",
+      "158.44",
+      "85.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "aBERnEt",
+    "bbox": [
+      "90.21",
+      "72.81",
+      "143.33",
+      "84.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "auVIGnOn",
+    "bbox": [
+      "159.23",
+      "72.81",
+      "228.97",
+      "84.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "dOmEstIC (usa)",
+    "bbox": [
+      "29.25",
+      "102.46",
+      "109.89",
+      "115.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "The Vice, The House, Napa Valley, 2017.",
+    "bbox": [
+      "29.25",
+      "117.21",
+      "194.07",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "79",
+    "bbox": [
+      "267.33",
+      "117.21",
+      "279.14",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Black Fruit, Dried Violet, Mocha, Black Tea & Cigar",
+    "bbox": [
+      "29.25",
+      "126.64",
+      "222.31",
+      "135.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Marietta, Armé, Cabernet Blend, Sonoma/Mendocino, 2016. 89",
+    "bbox": [
+      "29.25",
+      "148.59",
+      "279.14",
+      "157.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Plums, Blueberries, Spice Followed by Mint & Leather",
+    "bbox": [
+      "29.25",
+      "158.01",
+      "232.82",
+      "166.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Paul Hobbs, CrossBarn, Sonoma County, 2016.",
+    "bbox": [
+      "29.25",
+      "179.96",
+      "220.09",
+      "188.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "112",
+    "bbox": [
+      "263.30",
+      "179.96",
+      "279.14",
+      "188.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Black Currant, Clove & Cherry",
+    "bbox": [
+      "29.25",
+      "189.39",
+      "145.84",
+      "198.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Newton Vineyards, Unfiltered, Napa Valley, 2016.",
+    "bbox": [
+      "29.25",
+      "211.34",
+      "230.56",
+      "220.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "127",
+    "bbox": [
+      "262.67",
+      "211.34",
+      "279.14",
+      "220.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Dark Cherry, Bramble, Firm, Fine Tannins",
+    "bbox": [
+      "29.25",
+      "220.76",
+      "189.89",
+      "229.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Jordan, Alexander Valley, 2015.",
+    "bbox": [
+      "29.25",
+      "242.71",
+      "158.14",
+      "251.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "167",
+    "bbox": [
+      "262.82",
+      "242.71",
+      "279.14",
+      "251.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Black Currants, Floral, Long Finish",
+    "bbox": [
+      "29.25",
+      "252.14",
+      "160.81",
+      "260.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Silver Oak, Alexander Valley, 2015.",
+    "bbox": [
+      "29.25",
+      "274.09",
+      "174.40",
+      "283.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "192",
+    "bbox": [
+      "262.75",
+      "274.09",
+      "279.14",
+      "283.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Ripe Berries, Dried Herbs with a Silky Finish",
+    "bbox": [
+      "29.25",
+      "283.51",
+      "198.47",
+      "292.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Caymus Vineyards, Napa Valley, 2017.",
+    "bbox": [
+      "29.25",
+      "305.46",
+      "187.55",
+      "314.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "230",
+    "bbox": [
+      "262.07",
+      "305.46",
+      "279.14",
+      "314.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Blackberry, Vanilla, Well Balanced",
+    "bbox": [
+      "29.25",
+      "314.89",
+      "160.71",
+      "323.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Joseph Phelps “Insignia”, Napa Valley, 2016.",
+    "bbox": [
+      "29.25",
+      "336.84",
+      "209.78",
+      "345.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "330",
+    "bbox": [
+      "262.04",
+      "336.84",
+      "279.14",
+      "345.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Dark Berries, Spice Box, Elegant",
+    "bbox": [
+      "29.25",
+      "346.26",
+      "152.19",
+      "355.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "s",
+    "bbox": [
+      "98.69",
+      "683.39",
+      "107.43",
+      "700.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "p",
+    "bbox": [
+      "171.99",
+      "683.39",
+      "186.32",
+      "700.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "OmmELIER",
+    "bbox": [
+      "108.30",
+      "687.28",
+      "171.31",
+      "699.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "ICk",
+    "bbox": [
+      "187.05",
+      "687.28",
+      "207.30",
+      "699.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Paul Hobbs, CrossBarn, Sonoma County, 2016. 112",
+    "bbox": [
+      "42.50",
+      "701.39",
+      "265.89",
+      "710.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Black Currant, Clove & Cherry",
+    "bbox": [
+      "42.50",
+      "710.82",
+      "159.09",
+      "719.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "11",
+    "bbox": [
+      "268.34",
+      "756.60",
+      "279.00",
+      "766.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "R",
+    "bbox": [
+      "113.06",
+      "47.62",
+      "123.76",
+      "67.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "W",
+    "bbox": [
+      "144.07",
+      "47.62",
+      "169.03",
+      "67.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Ed",
+    "bbox": [
+      "124.95",
+      "52.20",
+      "143.28",
+      "66.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "InE",
+    "bbox": [
+      "169.36",
+      "52.20",
+      "192.94",
+      "66.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "p",
+    "bbox": [
+      "112.26",
+      "68.91",
+      "120.90",
+      "85.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "n",
+    "bbox": [
+      "152.81",
+      "68.91",
+      "171.68",
+      "85.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "InOt",
+    "bbox": [
+      "121.62",
+      "72.81",
+      "152.14",
+      "84.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "OIR",
+    "bbox": [
+      "172.43",
+      "72.81",
+      "193.74",
+      "84.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "BuRGundy (FR)",
+    "bbox": [
+      "29.25",
+      "102.46",
+      "104.98",
+      "115.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Andre Montessuy, Bourgogne Pinot Noir, 2017.",
+    "bbox": [
+      "29.25",
+      "117.21",
+      "219.97",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "58",
+    "bbox": [
+      "266.96",
+      "117.21",
+      "279.14",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Notes of raspberries and strawberries highlighted by a subtle",
+    "bbox": [
+      "29.25",
+      "126.64",
+      "266.37",
+      "135.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "spicy background",
+    "bbox": [
+      "29.25",
+      "135.89",
+      "98.04",
+      "144.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Louis Latour, Mercurey Rouge, Mercurey, 2016.",
+    "bbox": [
+      "29.25",
+      "157.84",
+      "223.49",
+      "166.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "69",
+    "bbox": [
+      "266.99",
+      "157.84",
+      "279.14",
+      "166.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Black Currant, Strawberry, Smooth",
+    "bbox": [
+      "29.25",
+      "167.26",
+      "161.40",
+      "176.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Harmand-Geoffroy, Gevrey-Chambertin En Jouise, 2013. 147",
+    "bbox": [
+      "29.25",
+      "189.21",
+      "279.14",
+      "198.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Dried Rose on the Nose, Wild Berries & Black Mushroom",
+    "bbox": [
+      "29.25",
+      "198.64",
+      "244.53",
+      "207.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "dOmEstIC (usa)",
+    "bbox": [
+      "29.25",
+      "219.83",
+      "109.89",
+      "232.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Hahn, Estate Pinot Noir,",
+    "bbox": [
+      "29.25",
+      "234.59",
+      "126.94",
+      "243.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "58",
+    "bbox": [
+      "266.96",
+      "234.59",
+      "279.14",
+      "243.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Arroyo Seco, Monterey, CA 2017.",
+    "bbox": [
+      "29.25",
+      "244.59",
+      "165.43",
+      "253.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Dried Cherry Notes Mixed with Raspberry & Baking Spices",
+    "bbox": [
+      "29.25",
+      "254.01",
+      "255.12",
+      "262.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Smoke Tree, Sonoma County, 2016.",
+    "bbox": [
+      "29.25",
+      "275.96",
+      "175.01",
+      "284.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "68",
+    "bbox": [
+      "266.94",
+      "275.96",
+      "279.14",
+      "284.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Raspberry, Cherry, Bright",
+    "bbox": [
+      "29.25",
+      "285.39",
+      "127.57",
+      "294.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Hirsch Vineyards ‘San Andreas Fault’, Sonoma Coast, 2016. 126",
+    "bbox": [
+      "29.25",
+      "307.34",
+      "279.14",
+      "316.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Raspberry, Vanilla, Complex",
+    "bbox": [
+      "29.25",
+      "316.76",
+      "138.92",
+      "325.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "s",
+    "bbox": [
+      "98.69",
+      "678.39",
+      "107.43",
+      "695.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "p",
+    "bbox": [
+      "171.99",
+      "678.39",
+      "186.32",
+      "695.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "OmmELIER",
+    "bbox": [
+      "108.30",
+      "682.29",
+      "171.31",
+      "694.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "ICk",
+    "bbox": [
+      "187.05",
+      "682.29",
+      "207.30",
+      "694.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Hirsch Vineyards ‘San Andreas Fault’,",
+    "bbox": [
+      "42.50",
+      "696.39",
+      "201.15",
+      "705.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "126",
+    "bbox": [
+      "249.27",
+      "696.39",
+      "265.89",
+      "705.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Sonoma Coast, California 2016.",
+    "bbox": [
+      "42.50",
+      "706.39",
+      "171.79",
+      "715.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Raspberry, Vanilla, Complex",
+    "bbox": [
+      "42.50",
+      "715.82",
+      "152.17",
+      "724.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "12",
+    "bbox": [
+      "27.00",
+      "756.60",
+      "38.10",
+      "766.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "R",
+    "bbox": [
+      "113.06",
+      "57.12",
+      "123.76",
+      "77.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "W",
+    "bbox": [
+      "144.07",
+      "57.12",
+      "169.03",
+      "77.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Ed",
+    "bbox": [
+      "124.95",
+      "61.70",
+      "143.28",
+      "75.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "InE",
+    "bbox": [
+      "169.36",
+      "61.70",
+      "192.94",
+      "75.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "F",
+    "bbox": [
+      "29.25",
+      "100.73",
+      "37.87",
+      "117.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "RanCE",
+    "bbox": [
+      "38.39",
+      "104.62",
+      "80.04",
+      "116.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "BORdEaux",
+    "bbox": [
+      "29.25",
+      "119.98",
+      "81.01",
+      "132.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Château Lalande, Cru Bourgeois, Listrac-Médoc, 2016. 59",
+    "bbox": [
+      "29.25",
+      "134.73",
+      "279.14",
+      "143.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Tobacco, Cedar, Ripe Fruit",
+    "bbox": [
+      "29.25",
+      "144.16",
+      "132.17",
+      "152.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Merlot – Château Saint-André Corbin, St-Émilion, 2013. 92",
+    "bbox": [
+      "29.25",
+      "166.11",
+      "279.14",
+      "175.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Ripe Black Fruits with Velvety Tannins & a Toasted Vanilla Finish",
+    "bbox": [
+      "29.25",
+      "175.53",
+      "274.40",
+      "184.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Château Ormes de Pez, Saint-Estèphe, 2012.",
+    "bbox": [
+      "29.25",
+      "197.48",
+      "212.14",
+      "206.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "119",
+    "bbox": [
+      "263.45",
+      "197.48",
+      "279.14",
+      "206.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Bordeaux Blend, Dense Fruits, Profile of Black Currant, Full-",
+    "bbox": [
+      "29.25",
+      "206.91",
+      "257.45",
+      "215.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Bodied & Complex Wine",
+    "bbox": [
+      "29.25",
+      "216.16",
+      "123.85",
+      "224.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Petit Figeac, Merlot Blend, St. Émilion, 2013.",
+    "bbox": [
+      "29.25",
+      "238.11",
+      "208.63",
+      "247.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "125",
+    "bbox": [
+      "262.49",
+      "238.11",
+      "279.14",
+      "247.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Juicy Fruit Character, Notes of Wood & Chocolate with a Savory",
+    "bbox": [
+      "29.25",
+      "247.53",
+      "272.88",
+      "256.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Finish",
+    "bbox": [
+      "29.25",
+      "256.78",
+      "52.12",
+      "265.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "CahORs",
+    "bbox": [
+      "29.25",
+      "277.98",
+      "70.70",
+      "290.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Malbec – Château du Caillau, Cahors, 2017.",
+    "bbox": [
+      "29.25",
+      "292.73",
+      "208.99",
+      "301.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "67",
+    "bbox": [
+      "267.16",
+      "292.73",
+      "279.14",
+      "301.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Tannins, Rich, Cherry",
+    "bbox": [
+      "29.25",
+      "302.16",
+      "112.53",
+      "310.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "RhônE, pROVEnCE & CORsICa",
+    "bbox": [
+      "29.25",
+      "323.35",
+      "186.13",
+      "336.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Nielluccio/ Sciacarellu – Maestracci E Prove,",
+    "bbox": [
+      "29.25",
+      "338.11",
+      "214.97",
+      "347.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "49",
+    "bbox": [
+      "267.11",
+      "338.11",
+      "279.14",
+      "347.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Corsica, 2015.",
+    "bbox": [
+      "29.25",
+      "348.11",
+      "88.80",
+      "357.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Notes of Tobacco, Black Cherry, Cranberry & Pepper",
+    "bbox": [
+      "29.25",
+      "357.53",
+      "231.88",
+      "366.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Grenache Blend – Clos Bellane, Urgonien 1.14 hectare, 115",
+    "bbox": [
+      "29.25",
+      "379.48",
+      "279.14",
+      "388.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Châteauneuf-du-Pape, 2016.",
+    "bbox": [
+      "29.25",
+      "389.48",
+      "146.35",
+      "398.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Raspberry, Blackberry & Boysenberry Fruit Followed By Licorice",
+    "bbox": [
+      "29.25",
+      "398.91",
+      "278.93",
+      "407.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "& Sweet Tobacco",
+    "bbox": [
+      "29.25",
+      "408.16",
+      "94.55",
+      "416.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "13",
+    "bbox": [
+      "267.81",
+      "756.60",
+      "279.01",
+      "766.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "R",
+    "bbox": [
+      "113.06",
+      "57.12",
+      "123.76",
+      "77.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "W",
+    "bbox": [
+      "144.07",
+      "57.12",
+      "169.03",
+      "77.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Ed",
+    "bbox": [
+      "124.95",
+      "61.70",
+      "143.28",
+      "75.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "InE",
+    "bbox": [
+      "169.36",
+      "61.70",
+      "192.94",
+      "75.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "dOmEstIC (usa)",
+    "bbox": [
+      "29.25",
+      "102.46",
+      "109.89",
+      "115.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Syrah – Copain, Tous Ensemble, Mendocino, CA 2016. 74",
+    "bbox": [
+      "29.25",
+      "117.21",
+      "279.14",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Juicy Red Raspberry & Boysenberry Fruit with Plum Blossom,",
+    "bbox": [
+      "29.25",
+      "126.64",
+      "264.46",
+      "135.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Graphite & Spice Make up the Rich Palate",
+    "bbox": [
+      "29.25",
+      "135.89",
+      "186.63",
+      "144.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Merlot – Duckhorn, Napa Valley, 2016.",
+    "bbox": [
+      "29.25",
+      "157.84",
+      "185.98",
+      "166.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "122",
+    "bbox": [
+      "262.57",
+      "157.84",
+      "279.14",
+      "166.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Black Cherry, Plum & Spice",
+    "bbox": [
+      "29.25",
+      "167.26",
+      "132.17",
+      "176.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "I",
+    "bbox": [
+      "29.25",
+      "190.21",
+      "33.65",
+      "207.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "taLy",
+    "bbox": [
+      "34.27",
+      "194.10",
+      "60.68",
+      "206.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "pIEdmOnt",
+    "bbox": [
+      "29.25",
+      "207.46",
+      "79.75",
+      "220.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Nebbiolo – Seghesio, Barolo, 2014.",
+    "bbox": [
+      "29.25",
+      "222.21",
+      "171.25",
+      "231.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "95",
+    "bbox": [
+      "267.05",
+      "222.21",
+      "279.14",
+      "231.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Elegant, Black Cherry, Balanced",
+    "bbox": [
+      "29.25",
+      "231.64",
+      "151.75",
+      "240.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Nebbiolo – Castello Di Neive, Barbaresco, 2016.",
+    "bbox": [
+      "29.25",
+      "253.59",
+      "225.96",
+      "262.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "99",
+    "bbox": [
+      "267.00",
+      "253.59",
+      "279.14",
+      "262.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Floral, Intense, Spice",
+    "bbox": [
+      "29.25",
+      "263.01",
+      "108.28",
+      "271.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "tusCany",
+    "bbox": [
+      "29.25",
+      "284.21",
+      "73.69",
+      "296.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Sangiovese Blend – Florentia, Chianti Classico, 2016.",
+    "bbox": [
+      "29.25",
+      "298.96",
+      "246.04",
+      "307.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "52",
+    "bbox": [
+      "267.11",
+      "298.96",
+      "279.14",
+      "307.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Red Cherry, Spice, Smooth",
+    "bbox": [
+      "29.25",
+      "308.39",
+      "131.55",
+      "317.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Sangiovese – Castello di Volpaia, Chianti Classico, 2017. 64",
+    "bbox": [
+      "29.25",
+      "330.34",
+      "279.14",
+      "339.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Elegant & Intense, Has Scents of Fruits & Spices",
+    "bbox": [
+      "29.25",
+      "339.76",
+      "207.92",
+      "348.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Sangiovese – Albatreti Brunello di Montalcino, 2013.",
+    "bbox": [
+      "29.25",
+      "361.71",
+      "243.54",
+      "370.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "140",
+    "bbox": [
+      "262.84",
+      "361.71",
+      "279.14",
+      "370.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Dried Black Cherry, Hazelnut, Anise & Vanilla with a Toasty",
+    "bbox": [
+      "29.25",
+      "371.14",
+      "257.10",
+      "379.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Finish",
+    "bbox": [
+      "29.25",
+      "380.39",
+      "52.12",
+      "389.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "sICILy",
+    "bbox": [
+      "29.25",
+      "401.58",
+      "58.45",
+      "414.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Cannonau – Argiolas, Costera, Sardinia 2019.",
+    "bbox": [
+      "29.25",
+      "416.34",
+      "215.84",
+      "425.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "54",
+    "bbox": [
+      "267.01",
+      "416.34",
+      "279.14",
+      "425.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Ripe Strawberry, Black Cherry, Herbs & Vanilla",
+    "bbox": [
+      "29.25",
+      "425.76",
+      "207.96",
+      "434.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Nero d’Avola – Morgante, Sicily, 2016.",
+    "bbox": [
+      "29.25",
+      "447.71",
+      "183.63",
+      "456.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "59",
+    "bbox": [
+      "267.00",
+      "447.71",
+      "279.14",
+      "456.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Floral, Salty Notes, Fresh & Persistent",
+    "bbox": [
+      "29.25",
+      "457.14",
+      "170.17",
+      "465.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "s",
+    "bbox": [
+      "98.69",
+      "678.77",
+      "107.43",
+      "695.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "p",
+    "bbox": [
+      "171.99",
+      "678.77",
+      "186.32",
+      "695.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "OmmELIER",
+    "bbox": [
+      "108.30",
+      "682.66",
+      "171.31",
+      "694.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "ICk",
+    "bbox": [
+      "187.05",
+      "682.66",
+      "207.30",
+      "694.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Nebbiolo – Castello Di Neive,",
+    "bbox": [
+      "42.50",
+      "696.77",
+      "166.75",
+      "705.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "99",
+    "bbox": [
+      "253.76",
+      "696.77",
+      "265.89",
+      "705.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Barbaresco, Piedmont, IT 2016.",
+    "bbox": [
+      "42.50",
+      "706.77",
+      "171.13",
+      "715.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Floral, Intense, Spice",
+    "bbox": [
+      "42.50",
+      "716.20",
+      "121.53",
+      "724.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "14",
+    "bbox": [
+      "27.00",
+      "756.60",
+      "38.17",
+      "766.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "R",
+    "bbox": [
+      "113.06",
+      "57.12",
+      "123.76",
+      "77.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "W",
+    "bbox": [
+      "144.07",
+      "57.12",
+      "169.03",
+      "77.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Ed",
+    "bbox": [
+      "124.95",
+      "61.70",
+      "143.28",
+      "75.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "InE",
+    "bbox": [
+      "169.36",
+      "61.70",
+      "192.94",
+      "75.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "s",
+    "bbox": [
+      "29.25",
+      "100.73",
+      "37.99",
+      "117.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "paIn",
+    "bbox": [
+      "38.98",
+      "104.62",
+      "66.56",
+      "116.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "CampO dE BORja",
+    "bbox": [
+      "29.25",
+      "119.98",
+      "119.39",
+      "132.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Garnacha – Alto Moncayo, Bodegas Alto Moncayo,",
+    "bbox": [
+      "29.25",
+      "134.73",
+      "236.81",
+      "143.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "129",
+    "bbox": [
+      "262.48",
+      "134.73",
+      "279.14",
+      "143.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Campo de Borja, 2016.",
+    "bbox": [
+      "29.25",
+      "144.73",
+      "123.68",
+      "153.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Cigar Box, Dark Fruit, Smooth",
+    "bbox": [
+      "29.25",
+      "154.16",
+      "143.37",
+      "162.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "RIOja",
+    "bbox": [
+      "29.25",
+      "175.35",
+      "57.30",
+      "188.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Tempranillo – Valserrano, Crianza, Rioja Alavesa, 2017. 58",
+    "bbox": [
+      "29.25",
+      "190.11",
+      "279.14",
+      "199.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Perfect Balance of Red Fruit, Fine Tannin",
+    "bbox": [
+      "29.25",
+      "199.53",
+      "184.32",
+      "208.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "RIBERa dEL duERO & tORO",
+    "bbox": [
+      "29.25",
+      "220.73",
+      "168.92",
+      "233.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Tinta de Toro – Bodega Numanthia, Termes, Toro, 2016. 77",
+    "bbox": [
+      "29.25",
+      "235.48",
+      "279.14",
+      "244.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Espresso & Allspice with Ripe Black Fruit & a Touch of Oak on",
+    "bbox": [
+      "29.25",
+      "244.91",
+      "266.10",
+      "253.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "the Finish",
+    "bbox": [
+      "29.25",
+      "254.16",
+      "66.43",
+      "262.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Tempranillo – Valdubon Reserva, Ribera del Duero, 2014. 94",
+    "bbox": [
+      "29.25",
+      "276.11",
+      "279.14",
+      "285.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Rich, Bold, Dark Fruit",
+    "bbox": [
+      "29.25",
+      "285.53",
+      "110.18",
+      "294.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "maLLORCa",
+    "bbox": [
+      "29.25",
+      "306.73",
+      "82.40",
+      "319.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Callet/Mantonegre-Fogoneu/Syrah – Ànima Negra ÀN/2, 68",
+    "bbox": [
+      "29.25",
+      "321.48",
+      "279.14",
+      "330.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Mallorca, Spain 2017.",
+    "bbox": [
+      "29.25",
+      "331.48",
+      "117.45",
+      "340.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Complex Aromas of Savory Spices, Violets & Raspberries",
+    "bbox": [
+      "29.25",
+      "340.91",
+      "246.84",
+      "349.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "a",
+    "bbox": [
+      "29.25",
+      "366.10",
+      "39.88",
+      "383.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "RGEntIna",
+    "bbox": [
+      "40.89",
+      "370.00",
+      "103.45",
+      "381.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Malbec – Bramare Viña Cobos by Paul Hobbs,",
+    "bbox": [
+      "29.25",
+      "386.11",
+      "221.01",
+      "395.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "94",
+    "bbox": [
+      "267.10",
+      "386.11",
+      "279.14",
+      "395.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Mendoza, 2016.",
+    "bbox": [
+      "29.25",
+      "396.11",
+      "94.58",
+      "405.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Red Fruit, Floral, Long Finish",
+    "bbox": [
+      "29.25",
+      "405.53",
+      "139.60",
+      "414.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "s",
+    "bbox": [
+      "98.69",
+      "673.77",
+      "107.43",
+      "690.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "p",
+    "bbox": [
+      "171.99",
+      "673.77",
+      "186.32",
+      "690.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "OmmELIER",
+    "bbox": [
+      "108.30",
+      "677.66",
+      "171.31",
+      "689.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "ICk",
+    "bbox": [
+      "187.05",
+      "677.66",
+      "207.30",
+      "689.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Tinta de Toro – Bodega Numanthia, Termes,",
+    "bbox": [
+      "42.50",
+      "691.77",
+      "224.32",
+      "700.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "77",
+    "bbox": [
+      "253.94",
+      "691.77",
+      "265.89",
+      "700.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Toro, 2016.",
+    "bbox": [
+      "42.50",
+      "701.77",
+      "88.93",
+      "710.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Espresso & Allspice with Ripe Black Fruit & a Touch of",
+    "bbox": [
+      "42.50",
+      "711.20",
+      "249.75",
+      "719.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "Oak on the Finish",
+    "bbox": [
+      "42.50",
+      "720.45",
+      "109.28",
+      "729.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 13,
+    "text": "15",
+    "bbox": [
+      "267.87",
+      "756.60",
+      "279.00",
+      "766.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "a",
+    "bbox": [
+      "96.90",
+      "52.12",
+      "109.40",
+      "72.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "d",
+    "bbox": [
+      "143.17",
+      "52.12",
+      "164.37",
+      "72.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "FtER",
+    "bbox": [
+      "110.57",
+      "56.70",
+      "142.37",
+      "70.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "InnER",
+    "bbox": [
+      "165.39",
+      "56.70",
+      "209.09",
+      "70.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "FRIzzantE",
+    "bbox": [
+      "29.25",
+      "102.46",
+      "83.94",
+      "115.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "GLass",
+    "bbox": [
+      "254.84",
+      "105.70",
+      "276.75",
+      "114.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Moscatel, Reymos, Valencia, Spain.",
+    "bbox": [
+      "29.25",
+      "117.21",
+      "174.44",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "7",
+    "bbox": [
+      "271.97",
+      "117.21",
+      "279.14",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Floral, Smooth, Light",
+    "bbox": [
+      "29.25",
+      "126.64",
+      "107.84",
+      "135.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Lambrusco ‘Dolce Fiore’, Bertolani, Emilia Romagna, Italy. 8",
+    "bbox": [
+      "29.25",
+      "148.59",
+      "279.14",
+      "157.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Raspberry Jam, Balanced, Earthy",
+    "bbox": [
+      "29.25",
+      "158.01",
+      "155.92",
+      "166.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Brachetto d’Acqui, Batasiolo, Acqui DOCG, Italy.",
+    "bbox": [
+      "29.25",
+      "179.96",
+      "226.77",
+      "188.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "10",
+    "bbox": [
+      "267.56",
+      "179.96",
+      "279.14",
+      "188.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Raspberry, Rose Petals, Tannins",
+    "bbox": [
+      "29.25",
+      "189.39",
+      "150.85",
+      "198.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "pORt",
+    "bbox": [
+      "29.25",
+      "210.58",
+      "54.29",
+      "223.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Ramos de Pinto Lagrimas White",
+    "bbox": [
+      "29.25",
+      "225.34",
+      "161.89",
+      "234.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "11",
+    "bbox": [
+      "267.83",
+      "225.34",
+      "276.75",
+      "234.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Taylor Fladgate Fine Tawny",
+    "bbox": [
+      "29.25",
+      "239.59",
+      "144.00",
+      "248.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "13",
+    "bbox": [
+      "267.62",
+      "239.59",
+      "276.76",
+      "248.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Taylor Fladgate 20 Year Tawny",
+    "bbox": [
+      "29.25",
+      "253.84",
+      "157.19",
+      "262.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "21",
+    "bbox": [
+      "267.54",
+      "253.84",
+      "276.75",
+      "262.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "shERRy",
+    "bbox": [
+      "29.25",
+      "275.21",
+      "64.64",
+      "287.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Alvear Pedro Ximenez Solera",
+    "bbox": [
+      "29.25",
+      "289.96",
+      "154.58",
+      "298.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "17",
+    "bbox": [
+      "267.79",
+      "289.96",
+      "276.75",
+      "298.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "madEIRa",
+    "bbox": [
+      "29.25",
+      "311.33",
+      "73.80",
+      "324.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Blandy’s 5 Year Bual",
+    "bbox": [
+      "29.25",
+      "326.09",
+      "113.68",
+      "335.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "13",
+    "bbox": [
+      "267.62",
+      "326.09",
+      "276.76",
+      "335.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Blandy’s 10 Year Malmsey",
+    "bbox": [
+      "29.25",
+      "340.34",
+      "137.95",
+      "349.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "17",
+    "bbox": [
+      "267.79",
+      "340.34",
+      "276.75",
+      "349.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "amaRO",
+    "bbox": [
+      "29.25",
+      "361.71",
+      "65.95",
+      "374.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Fernet Branca",
+    "bbox": [
+      "29.25",
+      "376.46",
+      "88.09",
+      "385.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "12",
+    "bbox": [
+      "267.44",
+      "376.46",
+      "276.75",
+      "385.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Meletti Amaro",
+    "bbox": [
+      "29.25",
+      "390.71",
+      "89.59",
+      "399.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "11",
+    "bbox": [
+      "267.83",
+      "390.71",
+      "276.75",
+      "399.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Nonino",
+    "bbox": [
+      "29.25",
+      "404.96",
+      "60.85",
+      "413.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "15",
+    "bbox": [
+      "267.63",
+      "404.96",
+      "276.76",
+      "413.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "GRappa",
+    "bbox": [
+      "29.25",
+      "426.33",
+      "67.75",
+      "439.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Marolo",
+    "bbox": [
+      "29.25",
+      "441.09",
+      "60.13",
+      "450.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "15",
+    "bbox": [
+      "267.62",
+      "441.09",
+      "276.75",
+      "450.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "aRmaGnaC",
+    "bbox": [
+      "29.25",
+      "462.46",
+      "85.86",
+      "475.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Larressingle XO Grand Reserve",
+    "bbox": [
+      "29.25",
+      "477.21",
+      "162.43",
+      "486.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "35",
+    "bbox": [
+      "267.06",
+      "477.21",
+      "276.75",
+      "486.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "LImOnCELLO",
+    "bbox": [
+      "29.25",
+      "498.58",
+      "91.35",
+      "511.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "Meletti Limoncello",
+    "bbox": [
+      "29.25",
+      "513.34",
+      "106.71",
+      "522.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "13",
+    "bbox": [
+      "267.61",
+      "513.34",
+      "276.75",
+      "522.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 14,
+    "text": "16",
+    "bbox": [
+      "27.00",
+      "756.60",
+      "38.09",
+      "766.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "s",
+    "bbox": [
+      "113.76",
+      "421.25",
+      "124.04",
+      "441.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "& d",
+    "bbox": [
+      "166.53",
+      "421.25",
+      "208.61",
+      "441.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "pIRIts",
+    "bbox": [
+      "125.18",
+      "425.83",
+      "165.72",
+      "439.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 15,
+    "text": "IGEstIFs",
+    "bbox": [
+      "209.63",
+      "425.83",
+      "270.00",
+      "439.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "s",
+    "bbox": [
+      "74.88",
+      "52.12",
+      "85.16",
+      "72.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "& d",
+    "bbox": [
+      "127.65",
+      "52.12",
+      "169.73",
+      "72.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "pIRIts",
+    "bbox": [
+      "86.30",
+      "56.70",
+      "126.84",
+      "70.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "IGEstIFs",
+    "bbox": [
+      "170.76",
+      "56.70",
+      "231.12",
+      "70.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "VOdka",
+    "bbox": [
+      "31.50",
+      "102.46",
+      "66.20",
+      "115.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Belvedere",
+    "bbox": [
+      "31.50",
+      "117.21",
+      "75.49",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "14",
+    "bbox": [
+      "265.55",
+      "117.21",
+      "274.50",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Chopin",
+    "bbox": [
+      "31.50",
+      "131.46",
+      "63.76",
+      "140.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "13",
+    "bbox": [
+      "265.78",
+      "131.46",
+      "274.92",
+      "140.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Grey Goose",
+    "bbox": [
+      "31.50",
+      "145.71",
+      "83.56",
+      "154.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "14",
+    "bbox": [
+      "265.55",
+      "145.71",
+      "274.51",
+      "154.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Ketel One",
+    "bbox": [
+      "31.50",
+      "159.96",
+      "73.56",
+      "168.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "14",
+    "bbox": [
+      "265.55",
+      "159.96",
+      "274.51",
+      "168.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Ketel One Citroen",
+    "bbox": [
+      "31.50",
+      "174.21",
+      "106.55",
+      "183.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "14",
+    "bbox": [
+      "265.55",
+      "174.21",
+      "274.51",
+      "183.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Ketel One Oranje",
+    "bbox": [
+      "31.50",
+      "188.46",
+      "104.00",
+      "197.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "14",
+    "bbox": [
+      "265.55",
+      "188.46",
+      "274.51",
+      "197.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "New Amsterdam",
+    "bbox": [
+      "31.50",
+      "202.71",
+      "102.28",
+      "211.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "13",
+    "bbox": [
+      "265.37",
+      "202.71",
+      "274.51",
+      "211.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Tito’s",
+    "bbox": [
+      "31.50",
+      "216.96",
+      "54.95",
+      "225.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "14",
+    "bbox": [
+      "266.16",
+      "216.96",
+      "275.11",
+      "225.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "GIn",
+    "bbox": [
+      "31.50",
+      "233.96",
+      "52.39",
+      "246.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Bombay Sapphire",
+    "bbox": [
+      "31.50",
+      "248.72",
+      "106.60",
+      "257.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "13",
+    "bbox": [
+      "265.37",
+      "248.72",
+      "274.51",
+      "257.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Greenhook",
+    "bbox": [
+      "31.50",
+      "262.97",
+      "79.87",
+      "271.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "13",
+    "bbox": [
+      "265.36",
+      "262.97",
+      "274.50",
+      "271.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Hendrick’s",
+    "bbox": [
+      "31.50",
+      "277.22",
+      "77.99",
+      "286.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "15",
+    "bbox": [
+      "265.37",
+      "277.22",
+      "274.50",
+      "286.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "New Amsterdam",
+    "bbox": [
+      "31.50",
+      "291.47",
+      "102.28",
+      "300.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "13",
+    "bbox": [
+      "265.37",
+      "291.47",
+      "274.51",
+      "300.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Tanqueray",
+    "bbox": [
+      "31.50",
+      "305.72",
+      "77.85",
+      "314.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "14",
+    "bbox": [
+      "265.55",
+      "305.72",
+      "274.50",
+      "314.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Rum & CaChaça",
+    "bbox": [
+      "31.50",
+      "327.08",
+      "120.07",
+      "339.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Atlantico Reserva",
+    "bbox": [
+      "31.50",
+      "341.84",
+      "105.30",
+      "350.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "13",
+    "bbox": [
+      "265.37",
+      "341.84",
+      "274.51",
+      "350.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Bacardi",
+    "bbox": [
+      "31.50",
+      "356.09",
+      "65.04",
+      "365.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "14",
+    "bbox": [
+      "265.55",
+      "356.09",
+      "274.50",
+      "365.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Cruzan 9 Spiced",
+    "bbox": [
+      "31.50",
+      "370.34",
+      "101.84",
+      "379.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "13",
+    "bbox": [
+      "265.37",
+      "370.34",
+      "274.51",
+      "379.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "El Dorado 15yr",
+    "bbox": [
+      "31.50",
+      "384.59",
+      "94.80",
+      "393.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "17",
+    "bbox": [
+      "265.54",
+      "384.59",
+      "274.50",
+      "393.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Ron Zacapa Solera 23 yrs",
+    "bbox": [
+      "31.50",
+      "398.84",
+      "136.32",
+      "407.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "16",
+    "bbox": [
+      "265.38",
+      "398.84",
+      "274.50",
+      "407.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "tEquILa",
+    "bbox": [
+      "31.50",
+      "420.21",
+      "71.85",
+      "432.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Casamigos Añejo",
+    "bbox": [
+      "31.50",
+      "434.97",
+      "105.71",
+      "443.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "18",
+    "bbox": [
+      "265.31",
+      "434.97",
+      "274.50",
+      "443.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Casamigos Blanco",
+    "bbox": [
+      "31.50",
+      "449.22",
+      "109.28",
+      "458.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "16",
+    "bbox": [
+      "265.38",
+      "449.22",
+      "274.50",
+      "458.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Don Julio 1942 Añejo",
+    "bbox": [
+      "31.50",
+      "463.47",
+      "117.66",
+      "472.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "37",
+    "bbox": [
+      "265.04",
+      "463.47",
+      "274.50",
+      "472.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Don Julio Blanco",
+    "bbox": [
+      "31.50",
+      "477.72",
+      "99.96",
+      "486.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "18",
+    "bbox": [
+      "265.31",
+      "477.72",
+      "274.50",
+      "486.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Herradura Añejo",
+    "bbox": [
+      "31.50",
+      "491.97",
+      "102.49",
+      "500.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "17",
+    "bbox": [
+      "265.54",
+      "491.97",
+      "274.50",
+      "500.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Ilegal Mezcal Joven",
+    "bbox": [
+      "31.50",
+      "506.22",
+      "113.22",
+      "515.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "17",
+    "bbox": [
+      "265.54",
+      "506.22",
+      "274.50",
+      "515.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Patrón Reposado",
+    "bbox": [
+      "31.50",
+      "520.47",
+      "102.32",
+      "529.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "17",
+    "bbox": [
+      "265.54",
+      "520.47",
+      "274.50",
+      "529.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "Patrón Silver Blanco",
+    "bbox": [
+      "31.50",
+      "534.72",
+      "115.06",
+      "543.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "17",
+    "bbox": [
+      "265.54",
+      "534.72",
+      "274.50",
+      "543.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "aLL LIquOR pRICEs aRE FOR mIxEd COCktaILs",
+    "bbox": [
+      "78.83",
+      "742.65",
+      "227.17",
+      "751.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 16,
+    "text": "18dRInks On thE ROCks, nEat OR maRtInIs WILL haVE a suRChaRGE",
+    "bbox": [
+      "27.00",
+      "751.65",
+      "262.09",
+      "766.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "s",
+    "bbox": [
+      "74.88",
+      "52.12",
+      "85.16",
+      "72.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "& d",
+    "bbox": [
+      "127.65",
+      "52.12",
+      "169.73",
+      "72.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "pIRIts",
+    "bbox": [
+      "86.30",
+      "56.70",
+      "126.84",
+      "70.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "IGEstIFs",
+    "bbox": [
+      "170.76",
+      "56.70",
+      "231.12",
+      "70.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "BRandy & COGnaC",
+    "bbox": [
+      "31.50",
+      "102.46",
+      "134.61",
+      "115.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Barsol Pisco Quebranta",
+    "bbox": [
+      "31.50",
+      "117.21",
+      "129.21",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "11",
+    "bbox": [
+      "265.58",
+      "117.21",
+      "274.50",
+      "126.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Courvoisier VSOP",
+    "bbox": [
+      "31.50",
+      "131.46",
+      "108.42",
+      "140.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "17",
+    "bbox": [
+      "265.54",
+      "131.46",
+      "274.50",
+      "140.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Hennessy VS",
+    "bbox": [
+      "31.50",
+      "145.71",
+      "87.49",
+      "154.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "13",
+    "bbox": [
+      "265.37",
+      "145.71",
+      "274.51",
+      "154.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Hennessy VSOP",
+    "bbox": [
+      "31.50",
+      "159.96",
+      "99.77",
+      "168.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "16",
+    "bbox": [
+      "265.38",
+      "159.96",
+      "274.50",
+      "168.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Hennessy XO",
+    "bbox": [
+      "31.50",
+      "174.21",
+      "89.09",
+      "183.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "41",
+    "bbox": [
+      "265.39",
+      "174.21",
+      "274.50",
+      "183.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Laird’s Straight Apple Jack",
+    "bbox": [
+      "31.50",
+      "188.46",
+      "140.71",
+      "197.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "11",
+    "bbox": [
+      "265.58",
+      "188.46",
+      "274.50",
+      "197.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Remy Martin VSOP",
+    "bbox": [
+      "31.50",
+      "202.71",
+      "112.01",
+      "211.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "19",
+    "bbox": [
+      "265.34",
+      "202.71",
+      "274.50",
+      "211.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Remy Martin XO",
+    "bbox": [
+      "31.50",
+      "216.96",
+      "101.34",
+      "225.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "47",
+    "bbox": [
+      "265.20",
+      "216.96",
+      "274.50",
+      "225.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "WhIskEy & BOuRBOn",
+    "bbox": [
+      "31.50",
+      "238.33",
+      "142.44",
+      "251.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Barrel Bourbon, Cask Strength, 9 yr 6 mo aged",
+    "bbox": [
+      "31.50",
+      "253.09",
+      "224.86",
+      "262.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "20",
+    "bbox": [
+      "264.72",
+      "253.09",
+      "276.89",
+      "262.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Single Barrel #7B39, FIG & OLIVE Selection",
+    "bbox": [
+      "31.50",
+      "262.51",
+      "197.55",
+      "271.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Basil Hayden’s",
+    "bbox": [
+      "31.50",
+      "276.59",
+      "92.57",
+      "285.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "15",
+    "bbox": [
+      "265.37",
+      "276.59",
+      "274.50",
+      "285.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Blanton’s",
+    "bbox": [
+      "31.50",
+      "290.84",
+      "69.37",
+      "299.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "19",
+    "bbox": [
+      "265.34",
+      "290.84",
+      "274.50",
+      "299.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Buffalo Trace",
+    "bbox": [
+      "31.50",
+      "305.09",
+      "87.61",
+      "314.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "13",
+    "bbox": [
+      "265.37",
+      "305.09",
+      "274.51",
+      "314.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Bulleit",
+    "bbox": [
+      "31.50",
+      "319.34",
+      "59.00",
+      "328.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "15",
+    "bbox": [
+      "265.81",
+      "319.34",
+      "274.94",
+      "328.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Crown Royal",
+    "bbox": [
+      "31.50",
+      "333.59",
+      "86.31",
+      "342.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "14",
+    "bbox": [
+      "265.55",
+      "333.59",
+      "274.51",
+      "342.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Jack Daniel’s",
+    "bbox": [
+      "31.50",
+      "347.84",
+      "85.04",
+      "356.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "13",
+    "bbox": [
+      "265.37",
+      "347.84",
+      "274.51",
+      "356.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "IRIsh",
+    "bbox": [
+      "31.50",
+      "369.21",
+      "55.41",
+      "381.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Jameson",
+    "bbox": [
+      "31.50",
+      "383.96",
+      "68.16",
+      "392.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "12",
+    "bbox": [
+      "265.19",
+      "383.96",
+      "274.50",
+      "392.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Redbreast 15",
+    "bbox": [
+      "31.50",
+      "398.21",
+      "87.41",
+      "407.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "26",
+    "bbox": [
+      "264.79",
+      "398.21",
+      "274.50",
+      "407.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "RyE",
+    "bbox": [
+      "31.50",
+      "419.58",
+      "49.41",
+      "432.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Bulleit",
+    "bbox": [
+      "31.50",
+      "434.34",
+      "59.00",
+      "443.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "16",
+    "bbox": [
+      "265.39",
+      "434.34",
+      "274.51",
+      "443.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Hudson",
+    "bbox": [
+      "31.50",
+      "448.59",
+      "64.77",
+      "457.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "23",
+    "bbox": [
+      "264.79",
+      "448.59",
+      "274.50",
+      "457.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Michter’s Single Barrel Straight",
+    "bbox": [
+      "31.50",
+      "462.84",
+      "159.88",
+      "471.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "19",
+    "bbox": [
+      "265.34",
+      "462.84",
+      "274.50",
+      "471.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "sCOtCh – sInGLE maLts & BLEnds",
+    "bbox": [
+      "31.50",
+      "484.21",
+      "209.67",
+      "496.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Balvenie 15",
+    "bbox": [
+      "31.50",
+      "498.96",
+      "80.33",
+      "507.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "25",
+    "bbox": [
+      "264.76",
+      "498.96",
+      "274.50",
+      "507.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Chivas 12",
+    "bbox": [
+      "31.50",
+      "513.21",
+      "74.08",
+      "522.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "15",
+    "bbox": [
+      "265.37",
+      "513.21",
+      "274.50",
+      "522.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Glenlivet 12",
+    "bbox": [
+      "31.50",
+      "527.46",
+      "82.50",
+      "536.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "18",
+    "bbox": [
+      "265.31",
+      "527.46",
+      "274.50",
+      "536.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Glenmorangie “Nectar d’Or”",
+    "bbox": [
+      "31.50",
+      "541.71",
+      "151.44",
+      "550.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "25",
+    "bbox": [
+      "264.76",
+      "541.71",
+      "274.50",
+      "550.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Johnnie Walker “Black Label”",
+    "bbox": [
+      "31.50",
+      "555.96",
+      "153.11",
+      "564.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "17",
+    "bbox": [
+      "265.53",
+      "555.96",
+      "274.50",
+      "564.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Johnnie Walker “Blue Label”",
+    "bbox": [
+      "31.50",
+      "570.21",
+      "149.45",
+      "579.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "52",
+    "bbox": [
+      "264.78",
+      "570.21",
+      "274.42",
+      "579.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Lagavulin 16",
+    "bbox": [
+      "31.50",
+      "584.46",
+      "85.71",
+      "593.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "32",
+    "bbox": [
+      "264.89",
+      "584.46",
+      "274.50",
+      "593.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Laphroaig 10",
+    "bbox": [
+      "31.50",
+      "598.71",
+      "86.96",
+      "607.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "17",
+    "bbox": [
+      "265.54",
+      "598.71",
+      "274.50",
+      "607.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Macallan 12",
+    "bbox": [
+      "31.50",
+      "612.96",
+      "82.62",
+      "621.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "19",
+    "bbox": [
+      "265.34",
+      "612.96",
+      "274.50",
+      "621.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Macallan 18",
+    "bbox": [
+      "31.50",
+      "627.21",
+      "82.50",
+      "636.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "49",
+    "bbox": [
+      "264.86",
+      "627.21",
+      "274.50",
+      "636.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "Oban 14",
+    "bbox": [
+      "31.50",
+      "641.46",
+      "67.80",
+      "650.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "20",
+    "bbox": [
+      "264.72",
+      "641.46",
+      "274.50",
+      "650.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "aLL LIquOR pRICEs aRE FOR mIxEd COCktaILs",
+    "bbox": [
+      "78.83",
+      "742.65",
+      "227.17",
+      "751.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 17,
+    "text": "dRInks On thE ROCks, nEat OR maRtInIs WILL haVE a suRChaRGE19",
+    "bbox": [
+      "43.91",
+      "751.65",
+      "279.01",
+      "766.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "s",
+    "bbox": [
+      "74.88",
+      "52.12",
+      "85.16",
+      "72.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "& d",
+    "bbox": [
+      "127.65",
+      "52.12",
+      "169.73",
+      "72.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "pIRIts",
+    "bbox": [
+      "86.30",
+      "56.70",
+      "126.84",
+      "70.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "IGEstIFs",
+    "bbox": [
+      "170.76",
+      "56.70",
+      "231.12",
+      "70.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "CORdIaLs & LIquEuRs",
+    "bbox": [
+      "29.25",
+      "91.57",
+      "143.21",
+      "104.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Amaretto Disaronno",
+    "bbox": [
+      "29.25",
+      "106.33",
+      "113.81",
+      "115.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "13",
+    "bbox": [
+      "267.61",
+      "106.33",
+      "276.75",
+      "115.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Aperol",
+    "bbox": [
+      "29.25",
+      "120.58",
+      "59.08",
+      "129.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "11",
+    "bbox": [
+      "267.83",
+      "120.58",
+      "276.75",
+      "129.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Baileys",
+    "bbox": [
+      "29.25",
+      "134.83",
+      "60.75",
+      "143.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "13",
+    "bbox": [
+      "268.03",
+      "134.83",
+      "277.17",
+      "143.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "B&B",
+    "bbox": [
+      "29.25",
+      "149.08",
+      "48.65",
+      "158.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "13",
+    "bbox": [
+      "268.03",
+      "149.08",
+      "277.17",
+      "158.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Campari",
+    "bbox": [
+      "29.25",
+      "163.33",
+      "67.75",
+      "172.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "11",
+    "bbox": [
+      "268.46",
+      "163.33",
+      "277.38",
+      "172.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Chartreuse Green",
+    "bbox": [
+      "29.25",
+      "177.58",
+      "106.44",
+      "186.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "15",
+    "bbox": [
+      "267.62",
+      "177.58",
+      "276.75",
+      "186.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Chartreuse Yellow",
+    "bbox": [
+      "29.25",
+      "191.83",
+      "107.21",
+      "200.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "15",
+    "bbox": [
+      "267.62",
+      "191.83",
+      "276.75",
+      "200.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Drambuie",
+    "bbox": [
+      "29.25",
+      "206.08",
+      "72.95",
+      "215.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "14",
+    "bbox": [
+      "267.79",
+      "206.08",
+      "276.75",
+      "215.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Frangelico",
+    "bbox": [
+      "29.25",
+      "220.33",
+      "75.40",
+      "229.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "13",
+    "bbox": [
+      "268.03",
+      "220.33",
+      "277.17",
+      "229.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Grand Marnier",
+    "bbox": [
+      "29.25",
+      "234.58",
+      "93.07",
+      "243.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "16",
+    "bbox": [
+      "267.63",
+      "234.58",
+      "276.75",
+      "243.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Jägermeister",
+    "bbox": [
+      "29.25",
+      "248.83",
+      "83.66",
+      "257.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "13",
+    "bbox": [
+      "267.52",
+      "248.83",
+      "276.66",
+      "257.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Kahlúa",
+    "bbox": [
+      "29.25",
+      "263.08",
+      "59.38",
+      "272.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "13",
+    "bbox": [
+      "267.61",
+      "263.08",
+      "276.75",
+      "272.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Lillet Blanc",
+    "bbox": [
+      "29.25",
+      "277.33",
+      "75.98",
+      "286.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "11",
+    "bbox": [
+      "267.83",
+      "277.33",
+      "276.75",
+      "286.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Lillet Rouge",
+    "bbox": [
+      "29.25",
+      "291.58",
+      "79.61",
+      "300.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "11",
+    "bbox": [
+      "267.83",
+      "291.58",
+      "276.75",
+      "300.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Martini Rossi Dry",
+    "bbox": [
+      "29.25",
+      "305.83",
+      "102.64",
+      "314.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "11",
+    "bbox": [
+      "267.83",
+      "305.83",
+      "276.75",
+      "314.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Martini Rossi Sweet",
+    "bbox": [
+      "29.25",
+      "320.08",
+      "111.60",
+      "329.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "11",
+    "bbox": [
+      "267.83",
+      "320.08",
+      "276.75",
+      "329.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Pimm’s",
+    "bbox": [
+      "29.25",
+      "334.33",
+      "61.06",
+      "343.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "11",
+    "bbox": [
+      "267.83",
+      "334.33",
+      "276.75",
+      "343.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Ricard",
+    "bbox": [
+      "29.25",
+      "348.58",
+      "58.26",
+      "357.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "13",
+    "bbox": [
+      "268.03",
+      "348.58",
+      "277.17",
+      "357.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Sambuca Romana",
+    "bbox": [
+      "29.25",
+      "362.83",
+      "104.56",
+      "371.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "13",
+    "bbox": [
+      "267.62",
+      "362.83",
+      "276.76",
+      "371.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "B",
+    "bbox": [
+      "42.04",
+      "428.53",
+      "51.59",
+      "445.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "9",
+    "bbox": [
+      "73.48",
+      "428.53",
+      "92.69",
+      "445.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "EER",
+    "bbox": [
+      "52.51",
+      "432.42",
+      "72.80",
+      "444.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Heineken Light",
+    "bbox": [
+      "42.04",
+      "446.53",
+      "103.27",
+      "455.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Kronenbourg",
+    "bbox": [
+      "42.04",
+      "460.78",
+      "96.32",
+      "469.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Lagunitas IPA",
+    "bbox": [
+      "42.04",
+      "475.03",
+      "97.68",
+      "484.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Negra Modelo",
+    "bbox": [
+      "42.04",
+      "489.28",
+      "100.77",
+      "498.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Peroni",
+    "bbox": [
+      "42.04",
+      "503.53",
+      "68.11",
+      "512.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Stella Artois",
+    "bbox": [
+      "42.04",
+      "517.78",
+      "90.82",
+      "526.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Brooklyn Seasonal Ale",
+    "bbox": [
+      "42.04",
+      "532.03",
+      "133.41",
+      "541.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Sierra Nevada",
+    "bbox": [
+      "42.04",
+      "546.28",
+      "100.16",
+      "555.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "Clausthaler (Non-Alcoholic)",
+    "bbox": [
+      "42.04",
+      "560.53",
+      "159.37",
+      "569.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "20",
+    "bbox": [
+      "27.00",
+      "756.60",
+      "38.79",
+      "766.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 18,
+    "text": "13_COCKTAIL_WINE_21_01G",
+    "bbox": [
+      "214.74",
+      "758.60",
+      "273.24",
+      "763.60"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

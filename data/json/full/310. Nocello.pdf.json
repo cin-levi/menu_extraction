@@ -1,0 +1,4531 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/20/22, 7:54 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Nocello Restaurant | Wine list",
+    "bbox": [
+      "299.19",
+      "15.70",
+      "403.97",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(http://nocello.net/)",
+    "bbox": [
+      "136.34",
+      "41.75",
+      "225.24",
+      "52.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE LIST",
+    "bbox": [
+      "265.19",
+      "84.50",
+      "347.81",
+      "107.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HOME",
+    "bbox": [
+      "40.25",
+      "180.50",
+      "59.75",
+      "189.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MENU",
+    "bbox": [
+      "95.87",
+      "180.50",
+      "115.11",
+      "189.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE LIST",
+    "bbox": [
+      "151.21",
+      "180.50",
+      "184.26",
+      "189.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPARKLING",
+    "bbox": [
+      "260.05",
+      "242.00",
+      "352.95",
+      "264.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne, Veuve Cliquot,",
+    "bbox": [
+      "74.75",
+      "341.75",
+      "259.69",
+      "360.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne, Veuve Cliquot,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$115",
+    "bbox": [
+      "510.31",
+      "343.25",
+      "538.24",
+      "358.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$115",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Yellow label brut NV",
+    "bbox": [
+      "74.75",
+      "371.75",
+      "163.70",
+      "382.25"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne, Moet&Chandon",
+    "bbox": [
+      "74.75",
+      "416.75",
+      "269.83",
+      "435.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne, Moet&Chandon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$95",
+    "bbox": [
+      "513.10",
+      "418.25",
+      "538.24",
+      "433.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$95",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Brut Imperial",
+    "bbox": [
+      "74.75",
+      "446.75",
+      "131.75",
+      "457.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dom Perignon",
+    "bbox": [
+      "74.75",
+      "491.75",
+      "171.12",
+      "510.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Dom Perignon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$325.00",
+    "bbox": [
+      "481.53",
+      "493.25",
+      "538.25",
+      "508.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$325.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Prosecco",
+    "bbox": [
+      "74.75",
+      "550.25",
+      "131.07",
+      "569.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Prosecco",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$35/13",
+    "bbox": [
+      "494.61",
+      "551.75",
+      "538.24",
+      "566.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$35/13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE WINES",
+    "bbox": [
+      "250.57",
+      "705.50",
+      "362.44",
+      "728.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "www.nocello.net/menu-14/wine-list.html",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/11",
+    "bbox": [
+      "570.55",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/20/22, 7:54 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Nocello Restaurant | Wine list",
+    "bbox": [
+      "299.19",
+      "15.70",
+      "403.97",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "(http://nocello.net/)",
+    "bbox": [
+      "136.34",
+      "41.75",
+      "225.24",
+      "52.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chardonnay, Grand Reserve, Kenda\u0000-Jackson",
+    "bbox": [
+      "74.75",
+      "89.75",
+      "393.54",
+      "108.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay, Grand Reserve, Kenda\u0000-Jackson",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$49/18",
+    "bbox": [
+      "493.72",
+      "91.25",
+      "538.24",
+      "106.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$49/18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Vanilla, spice and toasty aromas, with notes of citrus, apple and ripe tropical fruit",
+    "bbox": [
+      "74.75",
+      "119.75",
+      "426.42",
+      "130.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chardonnay, DUSOIL Napa",
+    "bbox": [
+      "74.75",
+      "164.75",
+      "278.94",
+      "183.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay, DUSOIL Napa",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$37/14",
+    "bbox": [
+      "496.44",
+      "166.25",
+      "538.24",
+      "181.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$37/14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "The Chardonnay displays abundant floral/stone fruit aromas The mouthfeel is creamy and carries this",
+    "bbox": [
+      "74.75",
+      "194.75",
+      "517.59",
+      "205.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "velvet textured package to a long, clean finish.",
+    "bbox": [
+      "74.75",
+      "209.75",
+      "276.68",
+      "220.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chardonnay, Far Niente",
+    "bbox": [
+      "74.75",
+      "254.75",
+      "240.11",
+      "273.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay, Far Niente",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$135.00",
+    "bbox": [
+      "484.64",
+      "256.25",
+      "538.25",
+      "271.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$135.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Aromas of melon, hazelnut, citrus, fig and spice are complemented by toasty notes in the nose. The",
+    "bbox": [
+      "74.75",
+      "284.75",
+      "511.56",
+      "295.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "palate offers a full entry with floral notes that lead through layers of fruit that give structure and",
+    "bbox": [
+      "74.75",
+      "299.75",
+      "491.68",
+      "310.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "complexity",
+    "bbox": [
+      "74.75",
+      "314.75",
+      "124.07",
+      "325.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chardonnay, Davis Bynum, Russian River,",
+    "bbox": [
+      "74.75",
+      "359.75",
+      "418.27",
+      "378.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay, Davis Bynum, Russian River,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$55/19",
+    "bbox": [
+      "494.39",
+      "361.25",
+      "538.25",
+      "376.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$55/19",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sonoma",
+    "bbox": [
+      "74.75",
+      "382.25",
+      "128.90",
+      "401.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sonoma",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "The mouthfeel is soft and beguiling at first, then shows fresh acidity with lingering flavors of mineral,",
+    "bbox": [
+      "74.75",
+      "412.25",
+      "513.72",
+      "422.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "apple and hints of vanilla.",
+    "bbox": [
+      "74.75",
+      "427.25",
+      "186.68",
+      "437.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Gavi, La Scolca",
+    "bbox": [
+      "74.75",
+      "472.25",
+      "182.88",
+      "491.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Gavi, La Scolca",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$43.00",
+    "bbox": [
+      "490.59",
+      "473.75",
+      "538.24",
+      "488.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$43.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Light straw color. Typical Gavi nose; fine and pleasantly fresh. Delicate in the mouth, very dry,",
+    "bbox": [
+      "74.75",
+      "502.25",
+      "482.28",
+      "512.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "characterized by a crisp and refreshing acidity. 100% Cortese.",
+    "bbox": [
+      "74.75",
+      "517.25",
+      "344.39",
+      "527.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Gavi di Gavi",
+    "bbox": [
+      "74.75",
+      "562.25",
+      "161.39",
+      "581.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Gavi di Gavi",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$35/15",
+    "bbox": [
+      "495.04",
+      "563.75",
+      "538.24",
+      "578.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$35/15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Crisp with fruit and citrus flavor.",
+    "bbox": [
+      "74.75",
+      "592.25",
+      "213.11",
+      "602.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Greco di Tufo",
+    "bbox": [
+      "74.75",
+      "637.25",
+      "164.96",
+      "656.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Greco di Tufo",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$39.00",
+    "bbox": [
+      "489.39",
+      "638.75",
+      "538.25",
+      "653.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$39.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dry and crisp with pear and golden apple hints.",
+    "bbox": [
+      "74.75",
+      "667.25",
+      "281.27",
+      "677.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pinot Grigio, Santa Margherita",
+    "bbox": [
+      "74.75",
+      "712.25",
+      "290.25",
+      "731.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Grigio, Santa Margherita",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$59/20",
+    "bbox": [
+      "489.05",
+      "713.75",
+      "538.24",
+      "728.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$59/20",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dry, light bodied with crisp flavors",
+    "bbox": [
+      "74.75",
+      "742.25",
+      "223.51",
+      "752.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "www.nocello.net/menu-14/wine-list.html",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/11",
+    "bbox": [
+      "570.55",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/20/22, 7:54 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Nocello Restaurant | Wine list",
+    "bbox": [
+      "299.19",
+      "15.70",
+      "403.97",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "(http://nocello.net/)",
+    "bbox": [
+      "136.34",
+      "41.75",
+      "225.24",
+      "52.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Grigio , COLLIO",
+    "bbox": [
+      "74.75",
+      "89.75",
+      "237.72",
+      "108.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Grigio , COLLIO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$35 / 15",
+    "bbox": [
+      "487.25",
+      "91.25",
+      "538.25",
+      "106.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$35 / 15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Quite intense and rich, with almost a hint of butter and oak",
+    "bbox": [
+      "74.75",
+      "119.75",
+      "333.10",
+      "130.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Grigio , Caste\u0000o Ban\u0000",
+    "bbox": [
+      "74.75",
+      "164.75",
+      "268.33",
+      "183.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Grigio , Caste\u0000o Ban\u0000",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$39.00",
+    "bbox": [
+      "489.39",
+      "166.25",
+      "538.25",
+      "181.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$39.00",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Crisp & refreshing due to the southern Tuscan climate.",
+    "bbox": [
+      "74.75",
+      "194.75",
+      "311.03",
+      "205.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Riesling The S\u0000ker",
+    "bbox": [
+      "74.75",
+      "239.75",
+      "208.95",
+      "258.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Riesling The S\u0000ker",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$31 / 13",
+    "bbox": [
+      "488.62",
+      "241.25",
+      "538.24",
+      "256.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$31 / 13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Off-dry with crisp acidity and vibrant fruit, featuring citrus, peach, and pineapple finish",
+    "bbox": [
+      "74.75",
+      "269.75",
+      "451.88",
+      "280.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sauvignon Blanc",
+    "bbox": [
+      "74.75",
+      "314.75",
+      "191.60",
+      "333.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "33/13",
+    "bbox": [
+      "502.65",
+      "316.25",
+      "538.24",
+      "331.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "33/13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "The nose displays classic gooseberry, grapefruit, lemon rind and grassy characteristics",
+    "bbox": [
+      "74.75",
+      "344.75",
+      "448.47",
+      "355.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Viognier",
+    "bbox": [
+      "74.75",
+      "389.75",
+      "132.65",
+      "408.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Viognier",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "31",
+    "bbox": [
+      "524.23",
+      "391.25",
+      "538.24",
+      "406.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "31",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Rich cream and lemon character, melon and tropical fruit notes",
+    "bbox": [
+      "74.75",
+      "419.75",
+      "351.72",
+      "430.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ROSATO",
+    "bbox": [
+      "74.75",
+      "464.75",
+      "141.54",
+      "483.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ROSATO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "33/13",
+    "bbox": [
+      "502.65",
+      "466.25",
+      "538.24",
+      "481.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "33/13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Slightly sweet, fruity soft wine",
+    "bbox": [
+      "74.75",
+      "494.75",
+      "207.05",
+      "505.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RED WINES",
+    "bbox": [
+      "260.75",
+      "636.50",
+      "352.26",
+      "659.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "www.nocello.net/menu-14/wine-list.html",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/11",
+    "bbox": [
+      "570.55",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/20/22, 7:54 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Nocello Restaurant | Wine list",
+    "bbox": [
+      "299.19",
+      "15.70",
+      "403.97",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Ironstone (,h tt2p:/0/no1c3ell o.nOetl/)d Vine Reserve Zinfandel,",
+    "bbox": [
+      "74.75",
+      "41.75",
+      "418.19",
+      "63.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "2p:/0/no1c3ell o.nOetl/)d",
+            "answer_start": 16
+          },
+          {
+            "text": "ndel,",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$55/19",
+    "bbox": [
+      "494.39",
+      "46.25",
+      "538.25",
+      "61.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$55/19",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "“91points”",
+    "bbox": [
+      "74.75",
+      "67.25",
+      "144.65",
+      "86.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "The wildness and heat of Zinfandel are restrained to good effect in this elegant, supple but concentrated",
+    "bbox": [
+      "74.75",
+      "97.25",
+      "531.58",
+      "107.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "version. Aromas and flavors of raspberry and black cherry lead to cinnamon and clove on the tasty finish,",
+    "bbox": [
+      "74.75",
+      "112.25",
+      "534.04",
+      "122.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "which lasts a long time.",
+    "bbox": [
+      "74.75",
+      "127.25",
+      "176.81",
+      "137.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cabernet Sauvignon, ROUTE STOCK NAPA",
+    "bbox": [
+      "74.75",
+      "172.25",
+      "418.06",
+      "191.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon, ROUTE STOCK NAPA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "45",
+    "bbox": [
+      "522.93",
+      "173.75",
+      "538.25",
+      "188.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "45",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "VALLEY",
+    "bbox": [
+      "74.75",
+      "194.75",
+      "145.62",
+      "213.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VALLEY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "6 Blend: Cabernet Sauvignon 82%, 7% Cabernet Franc, 6% Merlot, 3% Petit Verdot and 2% Malbec The",
+    "bbox": [
+      "74.75",
+      "224.75",
+      "531.07",
+      "235.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "tannins are well integrated and create a mouthfeel that is well structured yet creamy and silky",
+    "bbox": [
+      "74.75",
+      "239.75",
+      "484.30",
+      "250.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cabernet Sauvignon, ROUTE STOCK NAPA",
+    "bbox": [
+      "74.75",
+      "284.75",
+      "418.06",
+      "303.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon, ROUTE STOCK NAPA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "45",
+    "bbox": [
+      "522.93",
+      "286.25",
+      "538.25",
+      "301.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "45",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "VALLEY",
+    "bbox": [
+      "74.75",
+      "307.25",
+      "145.62",
+      "326.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VALLEY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Blend: Cabernet Sauvignon 82%, 7% Cabernet Franc, 6% Merlot, 3% Petit Verdot and 2% Malbec The",
+    "bbox": [
+      "74.75",
+      "337.25",
+      "522.74",
+      "347.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "tannins are well integrated and create a mouthfeel that is well structured yet creamy and silky",
+    "bbox": [
+      "74.75",
+      "352.25",
+      "484.30",
+      "362.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cabernet Sauvignon, DUSOIL Napa",
+    "bbox": [
+      "74.75",
+      "397.25",
+      "331.29",
+      "416.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon, DUSOIL Napa",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "37/14",
+    "bbox": [
+      "504.91",
+      "398.75",
+      "538.24",
+      "413.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "37/14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Soft yet dense tannins and a plush mouthfeel ensue once sipped, with elderberry, bay leaf and fresh",
+    "bbox": [
+      "74.75",
+      "427.25",
+      "514.43",
+      "437.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "herbs showing a structured pal",
+    "bbox": [
+      "74.75",
+      "442.25",
+      "208.76",
+      "452.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cabernet Sauvignon, Ru\u0000erf\u0000d, Ranch Napa",
+    "bbox": [
+      "74.75",
+      "487.25",
+      "391.14",
+      "506.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon, Ru\u0000erf\u0000d, Ranch Napa",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$55",
+    "bbox": [
+      "514.38",
+      "488.75",
+      "538.24",
+      "503.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$55",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Firm and rich on the palate with notes of cedar, red cherry and black currants; a great companion to",
+    "bbox": [
+      "74.75",
+      "517.25",
+      "509.28",
+      "527.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "hearty meals.",
+    "bbox": [
+      "74.75",
+      "532.25",
+      "134.01",
+      "542.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chianti Classico, CASTELLANI Riserva",
+    "bbox": [
+      "74.75",
+      "577.25",
+      "358.92",
+      "596.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chianti Classico, CASTELLANI Riserva",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "39/14",
+    "bbox": [
+      "502.47",
+      "578.75",
+      "538.25",
+      "593.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "39/14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Robert Parker 92 points. Wine Spectator 90 points, Wine Enthusiast 91 points. Intense and characteristic",
+    "bbox": [
+      "74.75",
+      "607.25",
+      "531.49",
+      "617.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "bouquet of strawberry and violet, earthy, with wild red berries",
+    "bbox": [
+      "74.75",
+      "622.25",
+      "344.27",
+      "632.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chianti Classico, Carpineto Riserva Gold",
+    "bbox": [
+      "74.75",
+      "667.25",
+      "351.15",
+      "686.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chianti Classico, Carpineto Riserva Gold",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$45",
+    "bbox": [
+      "514.45",
+      "668.75",
+      "538.24",
+      "683.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$45",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Intense cherry & currant flavors with elegant long finish.",
+    "bbox": [
+      "74.75",
+      "697.25",
+      "318.34",
+      "707.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "www.nocello.net/menu-14/wine-list.html",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/11",
+    "bbox": [
+      "570.55",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/20/22, 7:54 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Nocello Restaurant | Wine list",
+    "bbox": [
+      "299.19",
+      "15.70",
+      "403.97",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chianti C (lhattsps://incooc,e lPlo.enpetp/)oli, Antin\u0000i",
+    "bbox": [
+      "74.75",
+      "41.75",
+      "306.78",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$55",
+    "bbox": [
+      "514.38",
+      "46.25",
+      "538.24",
+      "61.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Estate-grown Chianti Classico DOCG90% Sangiovese, 10% Merlot and Syrah Intense red fruit aromas",
+    "bbox": [
+      "74.75",
+      "74.75",
+      "522.41",
+      "85.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "with light hints of vanilla and coffee.",
+    "bbox": [
+      "74.75",
+      "89.75",
+      "233.03",
+      "100.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Dolcetto di Alba",
+    "bbox": [
+      "74.75",
+      "134.75",
+      "184.34",
+      "153.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "39/14",
+    "bbox": [
+      "502.47",
+      "136.25",
+      "538.25",
+      "151.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Fragrant and youthful on the nose. Bright ruby-red in color with purple highlights. Dry and full-bodied.",
+    "bbox": [
+      "74.75",
+      "164.75",
+      "521.03",
+      "175.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Lui Di Luiano",
+    "bbox": [
+      "74.75",
+      "209.75",
+      "173.97",
+      "228.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "55.00",
+    "bbox": [
+      "499.43",
+      "211.25",
+      "538.25",
+      "226.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "A Grand Cru of Cabernet Sauvignon, Merlot and Colorino Toscano ultimately balanced.",
+    "bbox": [
+      "74.75",
+      "239.75",
+      "454.56",
+      "250.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Montepulciano d’A\u0000uzzo, Rubesto Riserva",
+    "bbox": [
+      "74.75",
+      "284.75",
+      "359.52",
+      "303.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$39",
+    "bbox": [
+      "512.82",
+      "286.25",
+      "538.25",
+      "301.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Rich, harmonious and full-bodied to the palate, it matches well with roasts, steaks and cheeses.",
+    "bbox": [
+      "74.75",
+      "314.75",
+      "491.64",
+      "325.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Montepulciano d’A\u0000uzzo cantina, Frentana",
+    "bbox": [
+      "74.75",
+      "359.75",
+      "368.34",
+      "378.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$37",
+    "bbox": [
+      "515.06",
+      "361.25",
+      "538.25",
+      "376.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Marvelously rich, a spectacular bouquet of black fruits, balsamic and oak. Made from organic grapes.",
+    "bbox": [
+      "74.75",
+      "389.75",
+      "511.39",
+      "400.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Montepulciano d’A\u0000uzzo, Colim\u0000o",
+    "bbox": [
+      "74.75",
+      "434.75",
+      "310.16",
+      "453.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$29",
+    "bbox": [
+      "511.96",
+      "436.25",
+      "538.24",
+      "451.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Soft berry character, full and round with wheat notes on the nose.",
+    "bbox": [
+      "74.75",
+      "464.75",
+      "363.09",
+      "475.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Montepulciano d’A\u0000uzzo, Doc Masciare\u0000i 2010",
+    "bbox": [
+      "74.75",
+      "509.75",
+      "405.20",
+      "528.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$55/19",
+    "bbox": [
+      "494.39",
+      "511.25",
+      "538.25",
+      "526.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Rich and complex but also showing a gorgeous sense of balance, this 2010 Montepulciano d’Abruzzo can",
+    "bbox": [
+      "74.75",
+      "539.75",
+      "535.19",
+      "550.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "only be thought of as one of Abruzzo’s finest Montepulciano.",
+    "bbox": [
+      "74.75",
+      "554.75",
+      "340.92",
+      "565.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Merlot Barrel Select, F\u0000est Glenn",
+    "bbox": [
+      "74.75",
+      "599.75",
+      "308.46",
+      "618.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$29",
+    "bbox": [
+      "511.96",
+      "601.25",
+      "538.24",
+      "616.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Red and black cherry and sweet vanilla & oak",
+    "bbox": [
+      "74.75",
+      "629.75",
+      "271.41",
+      "640.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Nero d’Avola",
+    "bbox": [
+      "74.75",
+      "674.75",
+      "161.92",
+      "693.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$29",
+    "bbox": [
+      "511.96",
+      "676.25",
+      "538.24",
+      "691.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Warm, full and intense fruit flavor with notes of dried fruit.",
+    "bbox": [
+      "74.75",
+      "704.75",
+      "329.77",
+      "715.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "www.nocello.net/menu-14/wine-list.html",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/11",
+    "bbox": [
+      "570.55",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/20/22, 7:54 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Nocello Restaurant | Wine list",
+    "bbox": [
+      "299.19",
+      "15.70",
+      "403.97",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(http://nocello.net/)",
+    "bbox": [
+      "136.34",
+      "41.75",
+      "225.24",
+      "52.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Nebbiolo D’Alba",
+    "bbox": [
+      "74.75",
+      "44.75",
+      "182.82",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$39/14",
+    "bbox": [
+      "494.00",
+      "46.25",
+      "538.25",
+      "61.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "This is a serious wine aged in large oak casks. Fuller-bodied, dry. Roses and earth on the nose precede a",
+    "bbox": [
+      "74.75",
+      "74.75",
+      "524.73",
+      "85.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "powerful and elegant palate of rhubarb and red berries.",
+    "bbox": [
+      "74.75",
+      "89.75",
+      "316.43",
+      "100.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Gradizzolo“Naigarten” Negrettino",
+    "bbox": [
+      "74.75",
+      "134.75",
+      "300.56",
+      "153.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$37/14",
+    "bbox": [
+      "496.44",
+      "136.25",
+      "538.24",
+      "151.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "As the name suggests, this dark ruby wine has concentrated black fruity flavors that is balanced with good",
+    "bbox": [
+      "74.75",
+      "164.75",
+      "536.91",
+      "175.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "acidity. It has firm structure with chewy yet fine-grain tannins.",
+    "bbox": [
+      "74.75",
+      "179.75",
+      "345.18",
+      "190.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pinot Noir, Pepperwood Grove",
+    "bbox": [
+      "74.75",
+      "224.75",
+      "278.04",
+      "243.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$29",
+    "bbox": [
+      "511.96",
+      "226.25",
+      "538.24",
+      "241.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Burgundy in color, silky nose of fresh cranberries, roses, and a hint of cedar.",
+    "bbox": [
+      "74.75",
+      "254.75",
+      "402.53",
+      "265.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pinot Noir, Davis Bynum, Russian River Va\u0000ey",
+    "bbox": [
+      "74.75",
+      "299.75",
+      "401.86",
+      "318.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$57/21",
+    "bbox": [
+      "495.51",
+      "301.25",
+      "538.25",
+      "316.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Well-proportioned, with a tight beam of spicy cherry and berry flavors that are rich and floral",
+    "bbox": [
+      "74.75",
+      "329.75",
+      "479.96",
+      "340.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Primitivo",
+    "bbox": [
+      "74.75",
+      "374.75",
+      "137.82",
+      "393.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$29",
+    "bbox": [
+      "511.96",
+      "376.25",
+      "538.24",
+      "391.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Jammy and plumy with a spicy flavor for this ancestor of the zinfandel.",
+    "bbox": [
+      "74.75",
+      "404.75",
+      "383.95",
+      "415.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Rosso di Montalcino",
+    "bbox": [
+      "74.75",
+      "449.75",
+      "212.00",
+      "468.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$45/17",
+    "bbox": [
+      "496.81",
+      "451.25",
+      "538.24",
+      "466.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "It has an intense ruby-red colour, with a concentrated bouquet, of sour black cherry, and vanilla.",
+    "bbox": [
+      "74.75",
+      "479.75",
+      "493.08",
+      "490.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sangiovese di Romagna, Riserva, Umberto Cesari",
+    "bbox": [
+      "74.75",
+      "524.75",
+      "411.87",
+      "543.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$37/14",
+    "bbox": [
+      "496.44",
+      "526.25",
+      "538.24",
+      "541.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Oak notes and a touch of tobacco with cherry flavor.",
+    "bbox": [
+      "74.75",
+      "554.75",
+      "303.73",
+      "565.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Syrah, Cline",
+    "bbox": [
+      "74.75",
+      "599.75",
+      "160.38",
+      "618.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$35",
+    "bbox": [
+      "513.95",
+      "601.25",
+      "538.25",
+      "616.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "The deep purple color explodes with fresh blueberry and black cherry jammy fruit spiced with cracked",
+    "bbox": [
+      "74.75",
+      "629.75",
+      "519.99",
+      "640.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "black pepper aromas.",
+    "bbox": [
+      "74.75",
+      "644.75",
+      "168.68",
+      "655.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Super Tuscan Valicaia",
+    "bbox": [
+      "74.75",
+      "689.75",
+      "227.73",
+      "708.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$75",
+    "bbox": [
+      "515.49",
+      "691.25",
+      "538.25",
+      "706.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "40% Sangiovese, 30% Cabernet Sauvignon, 30% Merlot Intense red colour with garnet reflections; deep",
+    "bbox": [
+      "74.75",
+      "719.75",
+      "537.85",
+      "730.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "scent of jam, full-bodied flavour reminiscent of red fruit jam, with oak nuances. Long and persistent finish.",
+    "bbox": [
+      "74.75",
+      "734.75",
+      "538.07",
+      "745.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "www.nocello.net/menu-14/wine-list.html",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/11",
+    "bbox": [
+      "570.55",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/20/22, 7:54 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Nocello Restaurant | Wine list",
+    "bbox": [
+      "299.19",
+      "15.70",
+      "403.97",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "The Class (ihctt pF:/o/nuorce, llSo.npeat/)nn Vineyards, Sonoma",
+    "bbox": [
+      "74.75",
+      "41.75",
+      "378.44",
+      "63.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$45",
+    "bbox": [
+      "514.45",
+      "46.25",
+      "538.24",
+      "61.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "74% Cabernet Sauvignon, 9% Cabernet Franc, 9% Petit Verdot & 8% Malbec This elegant wine recreates",
+    "bbox": [
+      "74.75",
+      "74.75",
+      "534.13",
+      "85.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "the way these grape varieties were originally blended.",
+    "bbox": [
+      "74.75",
+      "89.75",
+      "309.49",
+      "100.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Valpolice\u0000a Classico Superi\u0000e, Le Pesse, Ripasso",
+    "bbox": [
+      "74.75",
+      "134.75",
+      "409.77",
+      "153.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$35",
+    "bbox": [
+      "513.95",
+      "136.25",
+      "538.25",
+      "151.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Color and flavor, tannin and structure, leading to the delicious, lush wine.",
+    "bbox": [
+      "74.75",
+      "164.75",
+      "392.46",
+      "175.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Valpolice\u0000a Superi\u0000e, Monti Garbi, Ripasso",
+    "bbox": [
+      "74.75",
+      "209.75",
+      "376.89",
+      "228.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$45",
+    "bbox": [
+      "514.45",
+      "211.25",
+      "538.24",
+      "226.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Floral notes give lift to the expressive, beautifully centered fruit in this expressive, tasty Valpolicella.",
+    "bbox": [
+      "74.75",
+      "239.75",
+      "509.04",
+      "250.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Valpolice\u0000a, Bola, Ripasso",
+    "bbox": [
+      "74.75",
+      "284.75",
+      "255.63",
+      "303.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$47",
+    "bbox": [
+      "515.56",
+      "286.25",
+      "538.24",
+      "301.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "This Valpolicella is made using the famed Ripasso method, a technique of refermenting the wine on fresh",
+    "bbox": [
+      "74.75",
+      "314.75",
+      "536.10",
+      "325.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Amarone skins delivering a complex, multi-layered texture and flavor to the wine.",
+    "bbox": [
+      "74.75",
+      "329.75",
+      "431.57",
+      "340.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Zinfandel, Old Vine, Brazin",
+    "bbox": [
+      "74.75",
+      "374.75",
+      "272.08",
+      "393.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$43/16",
+    "bbox": [
+      "494.12",
+      "376.25",
+      "538.25",
+      "391.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Big, bold aromas of rich black fruit and mocha mingle with hints of spice and soft vanilla. A core of",
+    "bbox": [
+      "74.75",
+      "404.75",
+      "502.92",
+      "415.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "intense, dark plum and cocoa rock the palate of this daring Zinfandel.",
+    "bbox": [
+      "74.75",
+      "419.75",
+      "376.78",
+      "430.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "SELECTED RED WINES",
+    "bbox": [
+      "218.28",
+      "561.50",
+      "394.73",
+      "584.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Amarone, Muse\u0000a Riserva 2007",
+    "bbox": [
+      "74.75",
+      "661.25",
+      "303.16",
+      "680.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$150",
+    "bbox": [
+      "506.29",
+      "662.75",
+      "538.24",
+      "677.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Made of 3 different grape varieties, namely Corvine, ondello and Cabernet Sauvignon, this wine is",
+    "bbox": [
+      "74.75",
+      "691.25",
+      "502.26",
+      "701.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "perfectly balanced with good acidity and a sense of sweetness . Barrel aged for 20 months",
+    "bbox": [
+      "74.75",
+      "706.25",
+      "471.63",
+      "716.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "AmaroeCesari2011",
+    "bbox": [
+      "74.75",
+      "751.25",
+      "230.04",
+      "770.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$90/33",
+    "bbox": [
+      "489.31",
+      "752.75",
+      "538.24",
+      "767.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "www.nocello.net/menu-14/wine-list.html",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/11",
+    "bbox": [
+      "570.55",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/20/22, 7:54 APMmarone, Cesari 2011",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "230.04",
+      "35.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Nocello Restaurant | Wine list",
+    "bbox": [
+      "299.19",
+      "15.70",
+      "403.97",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$90/33",
+    "bbox": [
+      "489.31",
+      "17.75",
+      "538.24",
+      "32.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "(http://nocello.net/)",
+    "bbox": [
+      "136.34",
+      "41.75",
+      "225.24",
+      "52.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Strong and persistent, ethereal and fruity bouquet with hints of black cherries, dry prunes, dry flowers",
+    "bbox": [
+      "74.75",
+      "46.25",
+      "518.95",
+      "56.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Amarone, Ca’Bertoldi 2009 92 PTS",
+    "bbox": [
+      "74.75",
+      "91.25",
+      "337.34",
+      "110.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$85/29",
+    "bbox": [
+      "490.53",
+      "92.75",
+      "538.25",
+      "107.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "The bouquet is rich, sweet, and spicy, with brown sugar mingled with berry fruit and sandalwood, and",
+    "bbox": [
+      "74.75",
+      "121.25",
+      "517.38",
+      "131.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "underlying red berry fruit.",
+    "bbox": [
+      "74.75",
+      "136.25",
+      "186.53",
+      "146.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Amarone de\u0000a Valpolice\u0000a, Luciano Arduini Docg",
+    "bbox": [
+      "74.75",
+      "181.25",
+      "418.42",
+      "200.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$75",
+    "bbox": [
+      "515.49",
+      "182.75",
+      "538.25",
+      "197.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "2013",
+    "bbox": [
+      "74.75",
+      "203.75",
+      "115.87",
+      "222.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "The palate is fine, velvety and warm. The scent of this great wine surprises for amplitude and fragrance.",
+    "bbox": [
+      "74.75",
+      "233.75",
+      "525.63",
+      "244.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "This wine is deep ruby red.",
+    "bbox": [
+      "74.75",
+      "248.75",
+      "190.85",
+      "259.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Belinero “Super Tuscan” Caste\u0000o Ban\u0000 2012",
+    "bbox": [
+      "74.75",
+      "293.75",
+      "388.40",
+      "312.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$55/20",
+    "bbox": [
+      "490.17",
+      "295.25",
+      "538.24",
+      "310.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "A refined cuvee of nobel red grapes. Fermented in french oak and aged for 14 additional months.",
+    "bbox": [
+      "74.75",
+      "323.75",
+      "497.93",
+      "334.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Barolo, Rivetto 2010 Docg",
+    "bbox": [
+      "74.75",
+      "368.75",
+      "263.34",
+      "387.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$75",
+    "bbox": [
+      "515.49",
+      "370.25",
+      "538.25",
+      "385.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Sweet and fascinating tannic taste makes the wine velvety and well-balanced, and lingers on the tongue",
+    "bbox": [
+      "74.75",
+      "398.75",
+      "532.21",
+      "409.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "with a very long balsamic aftertaste. The wine is matured in oak casks for 30 months.",
+    "bbox": [
+      "74.75",
+      "413.75",
+      "446.88",
+      "424.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Barolo, Franco Am\u0000oso 2011",
+    "bbox": [
+      "74.75",
+      "458.75",
+      "281.64",
+      "477.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$65/25",
+    "bbox": [
+      "491.19",
+      "460.25",
+      "538.24",
+      "475.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "A wine with a delicate, appealing, intense bouquet, reminiscent of violets and dry roses,vanilla, tobacco,",
+    "bbox": [
+      "74.75",
+      "488.75",
+      "528.00",
+      "499.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "truffles and pepper. The taste is full, robust, austere but velvety and harmonious",
+    "bbox": [
+      "74.75",
+      "503.75",
+      "425.22",
+      "514.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Poderi Luigi Einaudi, Barolo Cannubi 2009",
+    "bbox": [
+      "74.75",
+      "548.75",
+      "385.02",
+      "567.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$155",
+    "bbox": [
+      "508.50",
+      "550.25",
+      "538.24",
+      "565.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "A wine of great class that expresses the elegance of the territory, of a brilliant garnet red turning slightly",
+    "bbox": [
+      "74.75",
+      "578.75",
+      "526.05",
+      "589.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "amber with time, exuberant in its fragrance of fruit and spices, of great body, full and velvety with a long",
+    "bbox": [
+      "74.75",
+      "593.75",
+      "529.58",
+      "604.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "final taste of goudron and spices.",
+    "bbox": [
+      "74.75",
+      "608.75",
+      "219.57",
+      "619.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Beringer Knights Va\u0000ey Cabernet Sauvignon",
+    "bbox": [
+      "74.75",
+      "653.75",
+      "418.16",
+      "672.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$59/21",
+    "bbox": [
+      "493.07",
+      "655.25",
+      "538.24",
+      "670.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "2012",
+    "bbox": [
+      "74.75",
+      "676.25",
+      "116.94",
+      "695.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Aromas of cherry, anise and cocoa are followed by abundant flavors of dark cherry and a hint of spice.",
+    "bbox": [
+      "74.75",
+      "706.25",
+      "519.42",
+      "716.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Br",
+    "bbox": [
+      "74.75",
+      "751.25",
+      "93.74",
+      "770.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "e\u0000odiMotalcioFattoi2010",
+    "bbox": [
+      "110.88",
+      "751.25",
+      "328.53",
+      "770.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$85",
+    "bbox": [
+      "513.66",
+      "752.75",
+      "538.25",
+      "767.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "www.nocello.net/menu-14/wine-list.html",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/11",
+    "bbox": [
+      "570.55",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "4/20/22, 7:54 BPMrune\u0000o di Montalcino, Fattoi 20No1ce0llo Restaurant | Wine list",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "403.97",
+      "35.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$85",
+    "bbox": [
+      "513.66",
+      "17.75",
+      "538.25",
+      "32.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "(http://nocello.net/)",
+    "bbox": [
+      "136.34",
+      "41.75",
+      "225.24",
+      "52.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Compelling, fresh and pure, this elegant red features cherry, raspberry and wild berry aromas.",
+    "bbox": [
+      "74.75",
+      "46.25",
+      "482.19",
+      "56.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Brune\u0000o di Montalcino, Ban\u0000 2011",
+    "bbox": [
+      "74.75",
+      "91.25",
+      "324.69",
+      "110.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$105",
+    "bbox": [
+      "506.49",
+      "92.75",
+      "538.25",
+      "107.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Full- bodied, with silky tannins and a subtle fruity finish.",
+    "bbox": [
+      "74.75",
+      "121.25",
+      "318.13",
+      "131.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Brune\u0000o di Montalcino Lazzeretti Marco 2010",
+    "bbox": [
+      "74.75",
+      "166.25",
+      "418.32",
+      "185.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$85",
+    "bbox": [
+      "513.66",
+      "167.75",
+      "538.25",
+      "182.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Docg",
+    "bbox": [
+      "74.75",
+      "188.75",
+      "108.14",
+      "207.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Rich and intense aromas and flavors of red fruit with hints of tobacco leaf and tanned leather are",
+    "bbox": [
+      "74.75",
+      "218.75",
+      "497.29",
+      "229.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "balanced by soft tannins.",
+    "bbox": [
+      "74.75",
+      "233.75",
+      "185.03",
+      "244.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Farnito “Super Tuscan” Cabernet Sauvignon",
+    "bbox": [
+      "74.75",
+      "278.75",
+      "418.38",
+      "297.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$59/21",
+    "bbox": [
+      "493.07",
+      "280.25",
+      "538.24",
+      "295.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "2010",
+    "bbox": [
+      "74.75",
+      "301.25",
+      "117.84",
+      "320.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Black currants, spicy flavors, with full body and log finish, aged for 1 year in oak barrels",
+    "bbox": [
+      "74.75",
+      "331.25",
+      "449.11",
+      "341.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Chinati Classico Ruf\u0000no Riserva Ducale Gold",
+    "bbox": [
+      "74.75",
+      "376.25",
+      "417.97",
+      "395.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$91",
+    "bbox": [
+      "514.92",
+      "377.75",
+      "538.24",
+      "392.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "label 2011",
+    "bbox": [
+      "74.75",
+      "398.75",
+      "149.51",
+      "417.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Rich and complex, with soft lingering finish.",
+    "bbox": [
+      "74.75",
+      "428.75",
+      "265.11",
+      "439.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Meitage, Symmetry, Rodney Strong 2010",
+    "bbox": [
+      "74.75",
+      "473.75",
+      "363.95",
+      "492.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$97",
+    "bbox": [
+      "514.21",
+      "475.25",
+      "538.24",
+      "490.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "This mouth-filling wine is rich, silky in texture, expansive and quite long on the finish.",
+    "bbox": [
+      "74.75",
+      "503.75",
+      "445.25",
+      "514.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "2006 Sagrantino di Montefalco",
+    "bbox": [
+      "74.75",
+      "548.75",
+      "301.16",
+      "567.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$75",
+    "bbox": [
+      "515.49",
+      "550.25",
+      "538.25",
+      "565.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Sagrantino is still composed, with brambly-sweet, red tinted, earthy fruit on the nose. The palate has at",
+    "bbox": [
+      "74.75",
+      "578.75",
+      "526.24",
+      "589.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "its core a super suave kernel of strawberry, ‘frutta di bosco’ (forest fruit), tinged with baked wild herbs, and",
+    "bbox": [
+      "74.75",
+      "593.75",
+      "535.44",
+      "604.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "an all-enveloping mouthfeel.",
+    "bbox": [
+      "74.75",
+      "608.75",
+      "202.21",
+      "619.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "www.nocello.net/menu-14/wine-list.html",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "9/11",
+    "bbox": [
+      "570.55",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "4/20/22, 7:54 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Nocello Restaurant | Wine list",
+    "bbox": [
+      "299.19",
+      "15.70",
+      "403.97",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "BOOK A TABLE",
+    "bbox": [
+      "247.12",
+      "29.00",
+      "365.88",
+      "51.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "(http://nocello.net/)",
+    "bbox": [
+      "136.34",
+      "41.75",
+      "225.24",
+      "52.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "The best italian restaurant in New York City. For getting more details please visit us.",
+    "bbox": [
+      "123.38",
+      "92.56",
+      "489.61",
+      "103.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "RESERVATION (HTTPS://WWW.YELP.COM/RESERVATIONS/NOCELLO-NEW-YORK?FROM_RESERVE_NOW=1)",
+    "bbox": [
+      "55.26",
+      "137.75",
+      "568.13",
+      "151.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "PRINT PAGE  (/PRINT.PHP?KAT=2&KAT_ID=14)",
+    "bbox": [
+      "334.89",
+      "204.50",
+      "546.51",
+      "218.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "ABOUT US",
+    "bbox": [
+      "40.25",
+      "260.75",
+      "99.41",
+      "276.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "“Enduring and endearing” – not to mention “convenient” if you’re bound for Carnegie Hall or City Center – this “cozy”",
+    "bbox": [
+      "40.25",
+      "298.25",
+      "568.04",
+      "308.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Tuscan turns out “plentiful” platefuls of “fine” fare; “charming owners” who “take pride” add an “intimate” feel to the",
+    "bbox": [
+      "40.25",
+      "320.75",
+      "559.70",
+      "331.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "“unassuming” digs.",
+    "bbox": [
+      "40.25",
+      "343.25",
+      "124.70",
+      "353.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "",
+    "bbox": [
+      "102.18",
+      "385.46",
+      "108.18",
+      "395.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "",
+    "bbox": [
+      "364.99",
+      "385.46",
+      "374.74",
+      "395.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Follow us: (https://www.facebook.com/Nocello-120075488106743/)(https://twitter.com/1nocello?lang=en)",
+    "bbox": [
+      "44.76",
+      "404.00",
+      "527.52",
+      "414.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "OPEN HOURS",
+    "bbox": [
+      "40.25",
+      "436.25",
+      "116.13",
+      "452.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Monday - Saturday",
+    "bbox": [
+      "40.25",
+      "476.75",
+      "127.08",
+      "487.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "4:15pm - 9:15pm",
+    "bbox": [
+      "492.84",
+      "476.75",
+      "568.84",
+      "487.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "CONTACT US",
+    "bbox": [
+      "40.25",
+      "572.75",
+      "113.55",
+      "588.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "nocello@yahoo.com (mailto:nocello@yahoo.com)",
+    "bbox": [
+      "40.25",
+      "609.50",
+      "278.69",
+      "621.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "257 W 55th St, New York, NY 10019",
+    "bbox": [
+      "40.25",
+      "632.00",
+      "212.43",
+      "644.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "212-713-0224",
+    "bbox": [
+      "40.25",
+      "654.50",
+      "115.80",
+      "666.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "212-581-8846",
+    "bbox": [
+      "40.25",
+      "677.00",
+      "119.71",
+      "689.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "www.nocello.net/menu-14/wine-list.html",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "10/11",
+    "bbox": [
+      "566.09",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "4/20/22, 7:54 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Nocello Restaurant | Wine list",
+    "bbox": [
+      "299.19",
+      "15.70",
+      "403.97",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "(http://nocello.net/)",
+    "bbox": [
+      "136.34",
+      "41.75",
+      "225.24",
+      "52.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "PRIVATE EVENT AGREEMENT",
+    "bbox": [
+      "40.25",
+      "66.50",
+      "199.10",
+      "82.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Private Party Contract Agreement",
+    "bbox": [
+      "40.25",
+      "103.25",
+      "192.89",
+      "113.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Please FAX your finished contract to:",
+    "bbox": [
+      "40.25",
+      "133.25",
+      "206.28",
+      "143.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Nocello Restaurant",
+    "bbox": [
+      "40.25",
+      "163.25",
+      "126.47",
+      "173.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "212-581-8846",
+    "bbox": [
+      "40.25",
+      "193.25",
+      "119.71",
+      "205.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Private Event Agreement (/images/contract.pdf)",
+    "bbox": [
+      "50.01",
+      "235.25",
+      "260.55",
+      "245.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "",
+    "bbox": [
+      "311.33",
+      "272.65",
+      "325.79",
+      "295.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "2021 Nocello All rights reserved.",
+    "bbox": [
+      "231.70",
+      "314.00",
+      "381.14",
+      "324.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "www.nocello.net/menu-14/wine-list.html",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "166.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "11/11",
+    "bbox": [
+      "566.69",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

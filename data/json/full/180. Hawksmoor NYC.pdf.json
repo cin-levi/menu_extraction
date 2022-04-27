@@ -1,0 +1,1176 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/18/22, 2:25 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Wine - Hawksmoor",
+    "bbox": [
+      "317.80",
+      "15.70",
+      "385.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "JOIN OUR",
+    "bbox": [
+      "47.37",
+      "48.50",
+      "90.66",
+      "56.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "513.91",
+      "48.50",
+      "573.49",
+      "56.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MAILING LIST",
+    "bbox": [
+      "39.01",
+      "60.00",
+      "95.03",
+      "68.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MENUS",
+    "bbox": [
+      "99.86",
+      "77.50",
+      "130.65",
+      "86.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ABOUT US",
+    "bbox": [
+      "165.16",
+      "77.50",
+      "209.92",
+      "86.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "VISIT US",
+    "bbox": [
+      "244.43",
+      "77.50",
+      "279.32",
+      "86.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "THE BAR",
+    "bbox": [
+      "313.82",
+      "77.50",
+      "349.66",
+      "86.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PRIVATE DINING",
+    "bbox": [
+      "384.16",
+      "77.50",
+      "453.91",
+      "86.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SHOP",
+    "bbox": [
+      "488.41",
+      "77.50",
+      "512.63",
+      "86.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE",
+    "bbox": [
+      "183.25",
+      "110.10",
+      "210.60",
+      "120.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DOWNLOAD",
+    "bbox": [
+      "536.30",
+      "112.70",
+      "588.96",
+      "121.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "The below references wine available by the glass; please download the PDF for a list of",
+    "bbox": [
+      "181.75",
+      "135.20",
+      "506.64",
+      "144.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "bottles. These are sample menus and are subject to change.",
+    "bbox": [
+      "181.75",
+      "148.20",
+      "401.65",
+      "157.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPARKLING",
+    "bbox": [
+      "181.75",
+      "180.90",
+      "235.08",
+      "190.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Nino Franco Rustico Prosecco NV",
+    "bbox": [
+      "181.75",
+      "200.70",
+      "309.65",
+      "209.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Nino Franco Rustico Prosecco",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15",
+    "bbox": [
+      "497.02",
+      "200.70",
+      "506.75",
+      "209.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Veneto, Italy",
+    "bbox": [
+      "181.75",
+      "214.50",
+      "218.98",
+      "222.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Veneto, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Schramsberg Blanc de Noir 2017",
+    "bbox": [
+      "181.75",
+      "233.70",
+      "306.53",
+      "242.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Schramsberg Blanc de Noir",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "23",
+    "bbox": [
+      "497.02",
+      "233.70",
+      "506.75",
+      "242.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "23",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Napa Valley, California",
+    "bbox": [
+      "181.75",
+      "248.00",
+      "250.11",
+      "256.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Napa Valley, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Diebolt-Vallois, Brut Blanc de Blanc",
+    "bbox": [
+      "181.75",
+      "267.20",
+      "313.64",
+      "276.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Diebolt-Vallois, Brut Blanc de Blanc",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "29",
+    "bbox": [
+      "497.02",
+      "267.20",
+      "506.75",
+      "276.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "29",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne, France",
+    "bbox": [
+      "181.75",
+      "281.00",
+      "241.26",
+      "289.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE",
+    "bbox": [
+      "181.75",
+      "313.40",
+      "212.76",
+      "323.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Elena Walch Pinot Grigio 2020",
+    "bbox": [
+      "181.75",
+      "333.20",
+      "297.49",
+      "342.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Elena Walch Pinot Grigio",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15",
+    "bbox": [
+      "497.02",
+      "333.20",
+      "506.75",
+      "342.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DINNER",
+    "bbox": [
+      "89.77",
+      "338.00",
+      "123.23",
+      "346.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Alto Adige, Italy",
+    "bbox": [
+      "181.75",
+      "347.00",
+      "230.24",
+      "355.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Alto Adige, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DESSERTS",
+    "bbox": [
+      "86.20",
+      "358.50",
+      "126.81",
+      "367.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Ojai Chardonnay Bien Nacido 2019",
+    "bbox": [
+      "181.75",
+      "366.20",
+      "316.90",
+      "375.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Ojai Chardonnay Bien Nacido",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "23",
+    "bbox": [
+      "497.02",
+      "366.20",
+      "506.75",
+      "375.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "23",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BAR MENU",
+    "bbox": [
+      "83.57",
+      "379.00",
+      "129.43",
+      "387.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Santa Barbara, California",
+    "bbox": [
+      "181.75",
+      "380.00",
+      "256.29",
+      "388.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Santa Barbara, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "COCKTAILS",
+    "bbox": [
+      "82.42",
+      "399.00",
+      "130.58",
+      "407.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Mullineux White Blend Old Vines 2017",
+    "bbox": [
+      "181.75",
+      "399.20",
+      "328.74",
+      "408.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Mullineux White Blend Old Vines",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "25",
+    "bbox": [
+      "497.02",
+      "399.20",
+      "506.75",
+      "408.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "25",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Swartland, South Africa",
+    "bbox": [
+      "181.75",
+      "413.50",
+      "252.74",
+      "421.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Swartland, South Africa",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "•",
+    "bbox": [
+      "56.75",
+      "419.50",
+      "59.41",
+      "428.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE",
+    "bbox": [
+      "95.19",
+      "419.50",
+      "117.82",
+      "428.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "•",
+    "bbox": [
+      "153.59",
+      "419.50",
+      "156.25",
+      "428.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ORANGE",
+    "bbox": [
+      "181.75",
+      "445.40",
+      "224.31",
+      "455.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Day Wines, ‘Tears of Vulcan’, 2020",
+    "bbox": [
+      "181.75",
+      "465.20",
+      "312.79",
+      "474.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Day Wines, ‘Tears of Vulcan’,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "497.02",
+      "465.20",
+      "506.75",
+      "474.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Willamette, Oregon",
+    "bbox": [
+      "181.75",
+      "479.00",
+      "240.35",
+      "487.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Willamette, Oregon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RED",
+    "bbox": [
+      "181.75",
+      "511.40",
+      "200.57",
+      "521.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Anne-Sophie Pic & Chapoutier, Cotes-du-Rhone, 2019",
+    "bbox": [
+      "181.75",
+      "531.20",
+      "384.19",
+      "540.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Anne-Sophie Pic & Chapoutier, Cotes-du-Rhone,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "17",
+    "bbox": [
+      "497.02",
+      "531.20",
+      "506.75",
+      "540.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rhone, France",
+    "bbox": [
+      "181.75",
+      "545.00",
+      "224.93",
+      "553.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rhone, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Anne-Sophie Dubois, Fleurie, Les Cocottes’, 2015",
+    "bbox": [
+      "181.75",
+      "564.20",
+      "366.65",
+      "573.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Anne-Sophie Dubois, Fleurie, Les Cocottes’,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "20",
+    "bbox": [
+      "497.02",
+      "564.20",
+      "506.75",
+      "573.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "20",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Beaujolais, France",
+    "bbox": [
+      "181.75",
+      "578.50",
+      "235.45",
+      "586.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Beaujolais, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dumol Russian River Valley Syrah, 2015",
+    "bbox": [
+      "181.75",
+      "597.70",
+      "330.25",
+      "606.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Dumol Russian River Valley Syrah",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "27",
+    "bbox": [
+      "497.02",
+      "597.70",
+      "506.75",
+      "606.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "27",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "California, USA",
+    "bbox": [
+      "181.75",
+      "611.50",
+      "229.28",
+      "619.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "California, USA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BYO MONDAY",
+    "bbox": [
+      "81.54",
+      "663.00",
+      "154.97",
+      "673.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "JOIN OUR TEAM",
+    "bbox": [
+      "455.20",
+      "670.00",
+      "536.29",
+      "680.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE CLUB",
+    "bbox": [
+      "88.83",
+      "677.00",
+      "146.18",
+      "687.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "95.51",
+      "704.21",
+      "136.80",
+      "716.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HEALTH &",
+    "bbox": [
+      "170.20",
+      "705.50",
+      "200.48",
+      "711.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PRIVACY &",
+    "bbox": [
+      "271.49",
+      "705.50",
+      "303.28",
+      "711.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CONTACT",
+    "bbox": [
+      "348.78",
+      "705.50",
+      "377.59",
+      "711.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CAREERS",
+    "bbox": [
+      "232.59",
+      "710.00",
+      "258.99",
+      "716.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PRESSNEWS",
+    "bbox": [
+      "396.16",
+      "710.00",
+      "442.28",
+      "716.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SAFETY",
+    "bbox": [
+      "170.20",
+      "714.00",
+      "192.44",
+      "720.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DISCLAIMER",
+    "bbox": [
+      "271.49",
+      "714.00",
+      "308.57",
+      "720.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "US",
+    "bbox": [
+      "348.78",
+      "714.00",
+      "356.03",
+      "720.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.hawksmoornyc.com/wine/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "161.16",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/1",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

@@ -1,0 +1,3497 @@
+[
+  {
+    "page_number": 1,
+    "text": "SHARE PLATES",
+    "bbox": [
+      "163.44",
+      "29.71",
+      "249.18",
+      "44.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "T",
+    "bbox": [
+      "41.48",
+      "34.50",
+      "94.93",
+      "170.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "92.21",
+      "34.50",
+      "141.44",
+      "170.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BRUSCHETTA - truffled ricotta, fresh figs, local honey, aged balsamic  |  18",
+    "bbox": [
+      "163.44",
+      "51.18",
+      "483.62",
+      "65.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BLISTERED SHISHITO PEPPERS - sea salt, lemon  |  13",
+    "bbox": [
+      "163.44",
+      "72.77",
+      "402.98",
+      "86.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TESSA MEATBALLS - house ground, pomodoro, baby arugula, Parmigiano crisp  |  18",
+    "bbox": [
+      "163.44",
+      "93.46",
+      "530.55",
+      "107.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CAULIFLOWER FRITTO - basil jalapeno aioli  |  15",
+    "bbox": [
+      "163.44",
+      "114.18",
+      "380.10",
+      "128.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "S",
+    "bbox": [
+      "39.17",
+      "134.50",
+      "91.67",
+      "270.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "S",
+    "bbox": [
+      "88.95",
+      "134.50",
+      "141.44",
+      "270.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TAPAS BOARD - a selection of four, six, or eight served with crackers  |  16 / 24 / 32",
+    "bbox": [
+      "163.44",
+      "135.77",
+      "520.68",
+      "149.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SALUMI",
+    "bbox": [
+      "186.31",
+      "161.00",
+      "223.02",
+      "173.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHEESE",
+    "bbox": [
+      "280.80",
+      "166.04",
+      "317.84",
+      "178.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Prosciutto",
+    "bbox": [
+      "186.31",
+      "177.81",
+      "229.62",
+      "189.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Reading",
+    "bbox": [
+      "280.80",
+      "182.85",
+      "316.78",
+      "194.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Capicola",
+    "bbox": [
+      "186.31",
+      "193.81",
+      "225.16",
+      "205.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Toma",
+    "bbox": [
+      "280.80",
+      "198.85",
+      "305.94",
+      "210.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Picante",
+    "bbox": [
+      "186.31",
+      "209.81",
+      "218.68",
+      "221.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Three Sisters",
+    "bbox": [
+      "280.80",
+      "214.85",
+      "336.52",
+      "226.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Finocchiona",
+    "bbox": [
+      "186.31",
+      "226.81",
+      "239.11",
+      "238.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "La Tur",
+    "bbox": [
+      "280.80",
+      "230.85",
+      "310.63",
+      "242.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A",
+    "bbox": [
+      "79.83",
+      "240.50",
+      "141.44",
+      "376.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "APPETIZERS",
+    "bbox": [
+      "163.44",
+      "254.71",
+      "234.52",
+      "269.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SOUP OF THE DAY   |  14",
+    "bbox": [
+      "163.44",
+      "279.46",
+      "270.93",
+      "293.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BURRATA - cherry tomato, prosciutto, 25year aged balsamic vinegar, crostini  |  19",
+    "bbox": [
+      "163.44",
+      "300.46",
+      "516.79",
+      "314.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "OCTOPUS - fingerling potato, smoked paprika, garlic, olives, red watercress  |  25",
+    "bbox": [
+      "163.44",
+      "321.18",
+      "506.79",
+      "335.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GREEN P.E.I. MUSSELS - cilantro, tomato, garlic, coconut milk, white wine, crostini  |  18",
+    "bbox": [
+      "163.44",
+      "342.18",
+      "544.59",
+      "356.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TUNA TARTARE - mango, avocado, potato chips, ginger sesame dressing, sesame seeds  |  19",
+    "bbox": [
+      "163.44",
+      "363.46",
+      "552.62",
+      "377.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SALADS",
+    "bbox": [
+      "163.44",
+      "389.71",
+      "209.79",
+      "404.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WATERMELON SALAD - mango, dragon fruit, lime vinaigrette, feta, mint, pistachios  |  17",
+    "bbox": [
+      "163.44",
+      "417.46",
+      "543.88",
+      "431.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HEIRLOOM TOMATO SALAD - strachiatella cheese,basil,garlic, sweet peppers  |  18",
+    "bbox": [
+      "163.44",
+      "441.46",
+      "514.47",
+      "455.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BEET SALAD - goat cheese & feta whip, hazelnuts, blood orange, citrus thyme dressing  |  17",
+    "bbox": [
+      "163.44",
+      "462.46",
+      "556.54",
+      "476.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TESSA SALAD - cucumbers, cherry tomato, olives, dried cherries, sunflower seeds, crispy chickpeas  |  17",
+    "bbox": [
+      "163.44",
+      "483.18",
+      "587.79",
+      "497.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BABY KALE CAESAR - baby romaine, Parmigiano, croutons, pickled red onion  |  16",
+    "bbox": [
+      "163.44",
+      "504.18",
+      "523.02",
+      "518.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ADD CHICKEN  |  6",
+    "bbox": [
+      "163.44",
+      "528.46",
+      "232.33",
+      "538.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ADD SHRIMP  |  12                  ADD SALMON  | 15",
+    "bbox": [
+      "267.45",
+      "528.46",
+      "466.10",
+      "538.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PASTA + RISOTTO",
+    "bbox": [
+      "163.44",
+      "548.71",
+      "262.89",
+      "563.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CACIO E PEPE - linguini, Pecorino, Parmigiano, black pepper, basil crunch  |  15/25",
+    "bbox": [
+      "163.44",
+      "572.18",
+      "521.18",
+      "586.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SHRIMP SCAMPI - spaghetti, shrimp, garlic, cherry tomato, white wine, parsley  |  19/29",
+    "bbox": [
+      "163.44",
+      "593.18",
+      "545.32",
+      "607.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FETTUCCINE BOLOGNESE - beef bolognese, ricotta, Parmigiano, basil  |  18/28",
+    "bbox": [
+      "163.44",
+      "614.18",
+      "506.07",
+      "628.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SIDES",
+    "bbox": [
+      "22.08",
+      "620.83",
+      "57.33",
+      "635.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CORN RISOTTO - Parmigiano, mint, english peas  |  22/32",
+    "bbox": [
+      "163.44",
+      "635.18",
+      "413.41",
+      "649.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Grilled Asparagus | 9",
+    "bbox": [
+      "22.08",
+      "654.83",
+      "107.52",
+      "665.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "VEGETABLE RIGATONI - pesto, cherry tomato, squash, pearl onion, Parmigiano  |  18/28",
+    "bbox": [
+      "163.44",
+      "656.18",
+      "541.62",
+      "670.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Brocolli Rabe | 9",
+    "bbox": [
+      "22.08",
+      "670.33",
+      "90.19",
+      "681.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CAVATELLI - mushrooms, pancetta, cream, truffle  |  21/31",
+    "bbox": [
+      "163.44",
+      "677.18",
+      "416.69",
+      "691.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Brussel Sprouts & Bacon | 9",
+    "bbox": [
+      "22.08",
+      "685.83",
+      "136.89",
+      "696.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Creamed Spinach & Kale | 9",
+    "bbox": [
+      "22.08",
+      "701.33",
+      "137.01",
+      "712.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LOBSTER DIABLO - caserecci pasta, spicy lobster-tomato sauce, cherry tomato, lobster  |  26/36",
+    "bbox": [
+      "163.44",
+      "699.18",
+      "572.71",
+      "713.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rosemary Fries | 9",
+    "bbox": [
+      "22.08",
+      "716.83",
+      "98.14",
+      "727.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ENTREES",
+    "bbox": [
+      "163.44",
+      "722.71",
+      "215.73",
+      "737.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Parmigiano Truffle Fries | 11",
+    "bbox": [
+      "22.08",
+      "732.33",
+      "135.10",
+      "743.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Truffle Mashed Potatoes  |  11",
+    "bbox": [
+      "22.08",
+      "747.83",
+      "142.58",
+      "758.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TESSA WAGYU BURGER - caramelized onion, applewood bacon, fontina, rosemary fries  |  21",
+    "bbox": [
+      "163.44",
+      "745.68",
+      "563.16",
+      "760.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HALF CHICKEN - pan roasted vegetables, lemon couscous  |  30",
+    "bbox": [
+      "163.44",
+      "768.22",
+      "443.38",
+      "780.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SEARED SCALLOPS - asparagus, cherry tomato, confit potato, orange buerre blanc  |  38",
+    "bbox": [
+      "163.44",
+      "789.22",
+      "557.31",
+      "801.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GRILLED BRANZINO - broccoli rabe, fingerling potato, fennel, pimento coulis  |  33",
+    "bbox": [
+      "163.44",
+      "808.68",
+      "512.99",
+      "823.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ATLANTIC SALMON - grilled asparagus, marble potatoes, mustard dill sauce  |  31",
+    "bbox": [
+      "163.44",
+      "831.22",
+      "527.15",
+      "843.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HANGER STEAK FRITES - tomato chimichurri, crispy shallot, hand cut fries  |  34",
+    "bbox": [
+      "163.44",
+      "850.68",
+      "509.93",
+      "865.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LONG ISLAND DUCK BREAST-parsnip puree, chippolini onions, cherries, port reduction  |  36",
+    "bbox": [
+      "163.44",
+      "871.68",
+      "561.98",
+      "886.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BERKSHIRE PORK CHOP - gigante beans, baby kale, pork jus  |  38",
+    "bbox": [
+      "163.44",
+      "892.68",
+      "452.08",
+      "907.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "NY STRIP STEAK - truffle mashed potatoes, peppercorn cream sauce  |  55",
+    "bbox": [
+      "163.44",
+      "913.68",
+      "478.51",
+      "928.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Consuming raw or undercooked fish, shellfish, eggs or meat increases the risk of food bourne illnesses.",
+    "bbox": [
+      "163.20",
+      "945.34",
+      "520.28",
+      "953.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Prior to ordering, kindly inform your server of any and all allergies, plus their severity.",
+    "bbox": [
+      "163.20",
+      "955.34",
+      "458.24",
+      "963.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "D",
+    "bbox": [
+      "29.94",
+      "20.81",
+      "81.17",
+      "153.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "R",
+    "bbox": [
+      "82.50",
+      "20.81",
+      "136.26",
+      "153.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "COCKTAILS  |  15",
+    "bbox": [
+      "153.00",
+      "30.60",
+      "280.42",
+      "51.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CLASSICS",
+    "bbox": [
+      "153.00",
+      "62.35",
+      "211.81",
+      "77.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ANEJO OLD FASHIONED - El Jimador Anejo, Demerara, Angostura & Orange Biters",
+    "bbox": [
+      "153.00",
+      "90.60",
+      "514.04",
+      "102.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MANGO MOJITO - Angostura White Oak Rum, Mint, Mango, Lime",
+    "bbox": [
+      "153.00",
+      "109.10",
+      "443.58",
+      "121.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MEZCAL NEGRONI - El Silencio Mezcal, Campari, Carpano Sweet Vermouth",
+    "bbox": [
+      "153.00",
+      "127.60",
+      "485.94",
+      "139.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "N",
+    "bbox": [
+      "77.54",
+      "132.11",
+      "138.62",
+      "263.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROSE SPRITZ - Aperol, Moulin de Gassac Rose, Grapefruit, Pierre Ferrand, Vanilla",
+    "bbox": [
+      "153.00",
+      "146.10",
+      "512.41",
+      "158.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ESPRESSO MARTINI - Vodka 6100, Espresso, Amaretto, Mr. Black, Amarula Cream",
+    "bbox": [
+      "153.00",
+      "162.82",
+      "520.61",
+      "176.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GINGER BERRY MARGARITA - Corralejo Reposado, Combier Cassis, Lemon, Fever Tree Ginger Beer",
+    "bbox": [
+      "153.00",
+      "183.10",
+      "583.24",
+      "195.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "UWS MANHATTAN - Raisin-Infused Rittenhouse Rye, Carpano Sweet Vermouth, Cinnamon Bitters",
+    "bbox": [
+      "153.00",
+      "199.82",
+      "579.33",
+      "213.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "STANDARDS",
+    "bbox": [
+      "153.00",
+      "227.35",
+      "225.87",
+      "242.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "K",
+    "bbox": [
+      "29.94",
+      "243.18",
+      "89.12",
+      "375.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "S",
+    "bbox": [
+      "82.28",
+      "243.18",
+      "135.04",
+      "375.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "JALA BACK - Tanteo Jalapeno Tequila, Aperol, Lemon, Elderflower",
+    "bbox": [
+      "153.00",
+      "254.60",
+      "434.96",
+      "266.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GARDEN MARTINI - Vodka 6100, Cucumber, Basil, Lime",
+    "bbox": [
+      "153.00",
+      "270.55",
+      "401.18",
+      "285.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BLOOD ORANGE G&T - Brokers London Dry Gin, Blood Orange, Maraschino, Lemon, Tonic",
+    "bbox": [
+      "153.00",
+      "289.82",
+      "549.94",
+      "303.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "POMEGRANATE MARTINI - Vodka 6100, Pama, Lime, Basil, Egg White",
+    "bbox": [
+      "153.00",
+      "310.10",
+      "463.04",
+      "322.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "349 - 4 Roses Bourbon, Averna Amaro, Honey, Lemon, Ginger Beer",
+    "bbox": [
+      "153.00",
+      "328.60",
+      "440.52",
+      "340.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WATERMELON MARTINI - Pineapple-Infused Vodka 6100, Watermelon, Basil, Pierre Ferrand, Lime",
+    "bbox": [
+      "153.00",
+      "345.32",
+      "583.87",
+      "359.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SEASONALS",
+    "bbox": [
+      "153.00",
+      "372.85",
+      "226.00",
+      "387.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "#TBT AVOCADO MARGARITA - Avocado-Infused Corralejo Reposado, Pierre Ferrand, Lime, Agave",
+    "bbox": [
+      "153.00",
+      "400.10",
+      "575.88",
+      "412.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ON TAP",
+    "bbox": [
+      "31.68",
+      "417.71",
+      "75.07",
+      "433.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ENDLESS SUMMER - El Silencio Mezcal, Tanteo Jalapeno Tequila, Kiwi, Lime, Elderflower",
+    "bbox": [
+      "153.00",
+      "416.82",
+      "544.48",
+      "430.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "YAS QUEEN - Empress 1908 Gin, Choya Yuzu, Amaretto, Lemon",
+    "bbox": [
+      "153.00",
+      "435.32",
+      "437.18",
+      "449.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "EBBS BREWING",
+    "bbox": [
+      "31.68",
+      "446.21",
+      "92.38",
+      "456.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WATERMELON  |  8",
+    "bbox": [
+      "31.68",
+      "458.21",
+      "100.84",
+      "468.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TROPIC TURN UP - El Silencio Mezcal, Passion Fruit, Basil, Lime",
+    "bbox": [
+      "153.00",
+      "453.82",
+      "432.41",
+      "467.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Hard Seltzer, 5.0%",
+    "bbox": [
+      "31.68",
+      "469.89",
+      "92.52",
+      "477.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Brooklyn, New York",
+    "bbox": [
+      "31.68",
+      "479.89",
+      "93.34",
+      "487.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WINES",
+    "bbox": [
+      "153.00",
+      "480.60",
+      "204.30",
+      "500.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WOLFFER ESTATE  NO. 139 | 9",
+    "bbox": [
+      "31.68",
+      "498.21",
+      "143.79",
+      "508.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dry Rose Cider, 6.9%",
+    "bbox": [
+      "31.68",
+      "509.89",
+      "97.95",
+      "517.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPARKLING",
+    "bbox": [
+      "153.00",
+      "512.35",
+      "219.56",
+      "527.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Long Island, NY",
+    "bbox": [
+      "31.68",
+      "519.89",
+      "82.79",
+      "527.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LOGICAL CONCLUSION",
+    "bbox": [
+      "31.68",
+      "538.21",
+      "120.04",
+      "548.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PROSECCO - Della Scala, Veneto, Italy NV  |  14",
+    "bbox": [
+      "153.00",
+      "538.82",
+      "363.78",
+      "552.90"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 38
+          }
+        ],
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 45
+          }
+        ],
+        "W": [
+          {
+            "text": "PROSECCO - Della Scala, Veneto, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BY THREES BREWING |  8",
+    "bbox": [
+      "31.68",
+      "546.47",
+      "126.84",
+      "558.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "New England Pale Ale, 7.0%",
+    "bbox": [
+      "31.68",
+      "559.89",
+      "123.84",
+      "567.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CREMANT DE LOIRE ROSE - Domaine Regenier-David, Loire Valley, France NV  |  15",
+    "bbox": [
+      "153.00",
+      "556.02",
+      "520.34",
+      "570.10"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 69
+          }
+        ],
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 76
+          }
+        ],
+        "W": [
+          {
+            "text": "CREMANT DE LOIRE ROSE - Domaine Regenier-David, Loire Valley, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Brooklyn, NY",
+    "bbox": [
+      "31.68",
+      "569.89",
+      "74.02",
+      "577.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHAMPAGNE - Lanson “Le Black Label Brut,’ Champagne, France NV  |  26",
+    "bbox": [
+      "153.00",
+      "573.22",
+      "479.02",
+      "587.30"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 60
+          }
+        ],
+        "P": [
+          {
+            "text": "26",
+            "answer_start": 67
+          }
+        ],
+        "W": [
+          {
+            "text": "CHAMPAGNE - Lanson “Le Black Label Brut,’ Champagne, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CELEBRATOR",
+    "bbox": [
+      "31.68",
+      "588.21",
+      "84.29",
+      "598.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DOPPELBOCK  |  9",
+    "bbox": [
+      "31.68",
+      "597.47",
+      "100.69",
+      "609.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROSÉ",
+    "bbox": [
+      "153.00",
+      "606.96",
+      "184.39",
+      "621.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bock | Lager, 6.7%",
+    "bbox": [
+      "31.68",
+      "611.55",
+      "91.33",
+      "619.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Ayinger, Germany",
+    "bbox": [
+      "31.68",
+      "621.89",
+      "88.38",
+      "629.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GRENACHE - Moulin de Gassac ‘Guilhem’, Languedoc-Roussillon, France 2020  |  14",
+    "bbox": [
+      "153.00",
+      "632.66",
+      "520.74",
+      "647.66"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 68
+          }
+        ],
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 77
+          }
+        ],
+        "W": [
+          {
+            "text": "GRENACHE - Moulin de Gassac ‘Guilhem’, Languedoc-Roussillon, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CATSKILL GRASS WAGON | 8",
+    "bbox": [
+      "31.68",
+      "642.01",
+      "134.92",
+      "652.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Hazy Session Ale, 4.8%",
+    "bbox": [
+      "31.68",
+      "653.89",
+      "103.48",
+      "661.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Livingston Manor, NY",
+    "bbox": [
+      "31.68",
+      "663.89",
+      "96.76",
+      "671.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WHITE",
+    "bbox": [
+      "153.00",
+      "660.97",
+      "190.08",
+      "675.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DOGFISH HEAD 90 MINUTE | 8",
+    "bbox": [
+      "31.68",
+      "684.01",
+      "141.33",
+      "694.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GAVI DI GAVI - Villa Sparina, Piedmonte, Italy 2020  |  16",
+    "bbox": [
+      "153.00",
+      "687.67",
+      "406.76",
+      "702.67"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 47
+          }
+        ],
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 56
+          }
+        ],
+        "W": [
+          {
+            "text": "GAVI DI GAVI - Villa Sparina, Piedmonte, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Imperial  IPA, 9.0%",
+    "bbox": [
+      "31.68",
+      "695.89",
+      "91.67",
+      "703.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Lewes, Delaware",
+    "bbox": [
+      "31.68",
+      "705.89",
+      "80.53",
+      "713.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "VINHO VERDE - Casal Garcia, Minho, Portugal 2020  |  13",
+    "bbox": [
+      "153.00",
+      "703.87",
+      "408.35",
+      "718.87"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 44
+          }
+        ],
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 53
+          }
+        ],
+        "W": [
+          {
+            "text": "VINHO VERDE - Casal Garcia, Minho, Portugal",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "VELTINS  |  8",
+    "bbox": [
+      "31.68",
+      "726.21",
+      "77.81",
+      "736.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SAUVIGNON BLANC - Domaine Paul Buisse, Touraine, France 2020  |  18",
+    "bbox": [
+      "153.00",
+      "720.07",
+      "472.17",
+      "735.07"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 56
+          }
+        ],
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 65
+          }
+        ],
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC - Domaine Paul Buisse, Touraine, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pilsner, 4.8%",
+    "bbox": [
+      "31.68",
+      "737.89",
+      "74.66",
+      "745.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PECORINO - Camillo Montori D’Abruzzo, Colli Aprutini IGT, Italy 2019  |  15",
+    "bbox": [
+      "153.00",
+      "736.27",
+      "494.90",
+      "751.27"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 64
+          }
+        ],
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 73
+          }
+        ],
+        "W": [
+          {
+            "text": "PECORINO - Camillo Montori D’Abruzzo, Colli Aprutini IGT, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Meschede, Germany",
+    "bbox": [
+      "31.68",
+      "747.89",
+      "95.01",
+      "755.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ALBARINO - Pazo de Lusco, Rias Baixis, Spain 2020  |  16",
+    "bbox": [
+      "153.00",
+      "752.47",
+      "406.47",
+      "767.47"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "202",
+            "answer_start": 45
+          }
+        ],
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 54
+          }
+        ],
+        "W": [
+          {
+            "text": "ALBARINO - Pazo de Lusco, Rias Baixis, Spain",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ALLAGASH WHITE |  8",
+    "bbox": [
+      "31.68",
+      "764.47",
+      "113.17",
+      "776.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GRUNER VELTLINER - Landhaus Mayer, Niederosterreich, Austria 2019  |  14",
+    "bbox": [
+      "153.00",
+      "768.67",
+      "490.62",
+      "783.67"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 61
+          }
+        ],
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 70
+          }
+        ],
+        "W": [
+          {
+            "text": "GRUNER VELTLINER - Landhaus Mayer, Niederosterreich, Austria",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Wheat Ale, 5.1%",
+    "bbox": [
+      "31.68",
+      "777.89",
+      "88.10",
+      "785.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Portland, Maine",
+    "bbox": [
+      "31.68",
+      "787.89",
+      "82.18",
+      "795.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHARDONNAY - Haut-Blanville Grand Reserve, Languedoc-Roussillon, France 2018 | 17",
+    "bbox": [
+      "153.00",
+      "784.87",
+      "538.77",
+      "799.87"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 72
+          }
+        ],
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 79
+          }
+        ],
+        "W": [
+          {
+            "text": "CHARDONNAY - Haut-Blanville Grand Reserve, Languedoc-Roussillon, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ESTRELLA GALICIA  |  8",
+    "bbox": [
+      "31.68",
+      "808.01",
+      "115.63",
+      "818.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHARDONNAY - Harkin,Central Coast, California 2019   |  15",
+    "bbox": [
+      "153.00",
+      "802.07",
+      "422.99",
+      "817.07"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "201",
+            "answer_start": 46
+          }
+        ],
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 56
+          }
+        ],
+        "W": [
+          {
+            "text": "CHARDONNAY - Harkin,Central Coast, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Lager, 5.5%",
+    "bbox": [
+      "31.68",
+      "819.89",
+      "68.59",
+      "827.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Hijos de Rivera, Spain",
+    "bbox": [
+      "31.68",
+      "829.89",
+      "96.35",
+      "837.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RED",
+    "bbox": [
+      "153.00",
+      "829.57",
+      "176.76",
+      "844.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LA CHOUFFE   |  9",
+    "bbox": [
+      "31.68",
+      "846.47",
+      "92.89",
+      "858.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PINOT NOIR - Boen, Sonoma, California, 2019  |  17",
+    "bbox": [
+      "153.00",
+      "848.82",
+      "377.04",
+      "861.12"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 39
+          }
+        ],
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 48
+          }
+        ],
+        "W": [
+          {
+            "text": "PINOT NOIR - Boen, Sonoma, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Organic Blonde Ale, 8.0%",
+    "bbox": [
+      "31.68",
+      "859.89",
+      "105.99",
+      "867.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Achouffe, Belgium",
+    "bbox": [
+      "31.68",
+      "869.89",
+      "83.34",
+      "877.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TEMPRANILLO - Bodegas LAN Rioja, Spain 2017  |  16",
+    "bbox": [
+      "153.00",
+      "866.55",
+      "386.18",
+      "878.06"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 39
+          }
+        ],
+        "W": [
+          {
+            "text": "TEMPRANILLO - Bodegas LAN Rioja, Spain",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LAGUNITAS  |  8",
+    "bbox": [
+      "31.68",
+      "886.47",
+      "91.01",
+      "898.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "NEBBIOLO - Goy d’Alba, Piedmonte, Italy 2019  |  16",
+    "bbox": [
+      "153.00",
+      "883.75",
+      "376.20",
+      "895.26"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 40
+          }
+        ],
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 49
+          }
+        ],
+        "W": [
+          {
+            "text": "NEBBIOLO - Goy d’Alba, Piedmonte, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "IPA, 6.2%",
+    "bbox": [
+      "31.68",
+      "899.55",
+      "65.70",
+      "907.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BAROLO - Terre di Bo, Piedmonte, Italy 2015  |  19",
+    "bbox": [
+      "153.00",
+      "902.95",
+      "364.64",
+      "914.46"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 39
+          }
+        ],
+        "W": [
+          {
+            "text": "BAROLO - Terre di Bo, Piedmonte, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Petaluma, California",
+    "bbox": [
+      "31.68",
+      "909.89",
+      "96.20",
+      "917.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MALBEC - Baron La Rose, Bordeaux, France 2019  |  15",
+    "bbox": [
+      "153.00",
+      "920.15",
+      "387.30",
+      "931.66"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 41
+          }
+        ],
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 50
+          }
+        ],
+        "W": [
+          {
+            "text": "MALBEC - Baron La Rose, Bordeaux, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHIANTI CLASSICO RISERVA - Tenuta ‘IL Poggiolo,’ Monteriggioni, Italy 2015  |  18",
+    "bbox": [
+      "153.00",
+      "937.24",
+      "500.04",
+      "948.84"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 79
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 70
+          }
+        ],
+        "W": [
+          {
+            "text": "CHIANTI CLASSICO RISERVA - Tenuta ‘IL Poggiolo,’ Monteriggioni, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CABERNET SAUVIGNON - No Fine Print, Napa Valley, California 2019  |  17",
+    "bbox": [
+      "153.00",
+      "954.55",
+      "473.26",
+      "966.06"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 69
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 60
+          }
+        ],
+        "W": [
+          {
+            "text": "CABERNET SAUVIGNON - No Fine Print, Napa Valley, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "DESSERTS",
+    "bbox": [
+      "155.52",
+      "48.60",
+      "224.50",
+      "65.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "a",
+    "bbox": [
+      "43.99",
+      "52.89",
+      "94.27",
+      "163.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "f",
+    "bbox": [
+      "98.71",
+      "52.89",
+      "139.56",
+      "163.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHERRY JUBILEE SUNDAE - vanilla ice cream, pistachio, chocolate pearls, whip cream |  13",
+    "bbox": [
+      "155.52",
+      "85.35",
+      "548.94",
+      "97.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "COCONUT CUSTARD - vegan, sesame cream & toffee, banana, caramel, hazelnut | 13",
+    "bbox": [
+      "155.52",
+      "106.35",
+      "519.69",
+      "118.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "OLIVE OIL CAKE - fresh peaches, raspberries, zabaglione, pistachios |  14",
+    "bbox": [
+      "155.52",
+      "127.35",
+      "464.32",
+      "139.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BAKED ALASKA - vanilla nut nougat ice cream, passion fruit sauce, flourless chocolate cake |  14",
+    "bbox": [
+      "155.52",
+      "148.35",
+      "567.44",
+      "160.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "t",
+    "bbox": [
+      "45.37",
+      "156.89",
+      "92.05",
+      "267.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "e",
+    "bbox": [
+      "97.99",
+      "156.89",
+      "138.17",
+      "267.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BOMBOLONI - vanilla glazed yeast doughnuts |  15",
+    "bbox": [
+      "155.52",
+      "169.35",
+      "377.37",
+      "181.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHOCOLATE TART - chocolate ganache, hazelnut crunch, vanilla ice cream  |  15",
+    "bbox": [
+      "155.52",
+      "190.35",
+      "498.21",
+      "202.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "AFFOGATO - vanilla ice cream, espresso, biscotti  |  10",
+    "bbox": [
+      "155.52",
+      "232.35",
+      "384.01",
+      "244.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SELECTION OF THREE SCOOPS   |  10",
+    "bbox": [
+      "155.52",
+      "253.35",
+      "321.07",
+      "265.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "r",
+    "bbox": [
+      "45.65",
+      "260.89",
+      "90.61",
+      "371.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "s",
+    "bbox": [
+      "95.05",
+      "260.89",
+      "137.89",
+      "371.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sorbet -white peach, mango, coconut",
+    "bbox": [
+      "191.52",
+      "274.91",
+      "332.85",
+      "286.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Ice Cream - vanilla, dark  chocolate",
+    "bbox": [
+      "191.52",
+      "295.91",
+      "328.45",
+      "307.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "COFFEE",
+    "bbox": [
+      "155.52",
+      "335.10",
+      "202.61",
+      "350.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TEA | 6",
+    "bbox": [
+      "295.28",
+      "332.83",
+      "337.61",
+      "347.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Drip | 4",
+    "bbox": [
+      "169.02",
+      "353.85",
+      "203.82",
+      "365.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Mademoiselle Grey",
+    "bbox": [
+      "295.28",
+      "356.08",
+      "378.41",
+      "368.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Espresso | 5",
+    "bbox": [
+      "169.02",
+      "370.35",
+      "225.54",
+      "382.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Apricot Ginger",
+    "bbox": [
+      "295.28",
+      "372.58",
+      "356.50",
+      "384.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cappuccino | 6",
+    "bbox": [
+      "169.02",
+      "386.85",
+      "237.69",
+      "398.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Peppermint",
+    "bbox": [
+      "295.28",
+      "389.08",
+      "345.66",
+      "401.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Cafe Latte | 6",
+    "bbox": [
+      "169.02",
+      "403.35",
+      "230.07",
+      "415.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "English Breakfast",
+    "bbox": [
+      "295.28",
+      "405.58",
+      "370.70",
+      "417.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chocolate Chai",
+    "bbox": [
+      "295.28",
+      "422.08",
+      "363.41",
+      "434.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Passion Green",
+    "bbox": [
+      "295.28",
+      "438.58",
+      "357.92",
+      "450.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chamomile",
+    "bbox": [
+      "295.28",
+      "455.08",
+      "347.18",
+      "467.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Apple & Spice",
+    "bbox": [
+      "295.28",
+      "471.58",
+      "356.86",
+      "483.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PORTS",
+    "bbox": [
+      "155.52",
+      "503.00",
+      "186.37",
+      "515.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "VODKA",
+    "bbox": [
+      "306.00",
+      "503.00",
+      "338.04",
+      "515.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BOURBON",
+    "bbox": [
+      "445.14",
+      "503.00",
+      "492.28",
+      "515.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "NIEOPORT 20 YR | 18",
+    "bbox": [
+      "155.52",
+      "521.00",
+      "250.41",
+      "533.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BELVEDERE | 19",
+    "bbox": [
+      "306.00",
+      "524.00",
+      "379.82",
+      "536.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "FOUR ROSES | 17",
+    "bbox": [
+      "445.14",
+      "524.00",
+      "525.00",
+      "536.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "GRAPPA",
+    "bbox": [
+      "155.52",
+      "539.00",
+      "193.86",
+      "551.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "KETEL ONE | 18",
+    "bbox": [
+      "306.00",
+      "545.00",
+      "376.86",
+      "557.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WOODFORD RESERVE | 19",
+    "bbox": [
+      "445.14",
+      "545.00",
+      "563.60",
+      "557.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TOSOLINI CIVIDINA | 17",
+    "bbox": [
+      "155.52",
+      "557.00",
+      "260.30",
+      "569.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TITO’S | 17",
+    "bbox": [
+      "306.00",
+      "566.00",
+      "355.74",
+      "578.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BULLEIT | 18",
+    "bbox": [
+      "445.14",
+      "566.00",
+      "502.86",
+      "578.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BRANDY",
+    "bbox": [
+      "155.52",
+      "575.00",
+      "194.12",
+      "587.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHOPIN | 18",
+    "bbox": [
+      "306.00",
+      "587.00",
+      "363.30",
+      "599.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BLANTON’S | 21",
+    "bbox": [
+      "445.14",
+      "587.00",
+      "518.66",
+      "599.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "STRAVECCHIO BRANCA | 18",
+    "bbox": [
+      "155.52",
+      "593.00",
+      "279.63",
+      "605.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "REMY MARTIN 1738 | 21",
+    "bbox": [
+      "155.52",
+      "611.00",
+      "266.35",
+      "623.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "GREY GOOSE | 19",
+    "bbox": [
+      "306.00",
+      "608.00",
+      "386.41",
+      "620.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MAKER’S MARK | 18",
+    "bbox": [
+      "445.14",
+      "608.00",
+      "536.81",
+      "620.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ARMAGNAC DE MONTAL VS  |  17TEQUILA & MEZCAL",
+    "bbox": [
+      "155.52",
+      "629.00",
+      "396.08",
+      "641.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WIDOW JANE 10 YEAR | 23",
+    "bbox": [
+      "445.14",
+      "629.00",
+      "563.95",
+      "641.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "AMAROS",
+    "bbox": [
+      "155.52",
+      "647.00",
+      "196.37",
+      "659.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "DON JULIO 1942 | 42",
+    "bbox": [
+      "306.00",
+      "650.00",
+      "402.34",
+      "662.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RYE",
+    "bbox": [
+      "445.14",
+      "650.00",
+      "462.76",
+      "662.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MELETTI | 17",
+    "bbox": [
+      "155.52",
+      "668.00",
+      "214.89",
+      "680.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "DON JULIO ANEJO | 25",
+    "bbox": [
+      "306.00",
+      "671.00",
+      "406.43",
+      "683.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RITTENHOUSE | 17",
+    "bbox": [
+      "445.14",
+      "671.00",
+      "530.05",
+      "683.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "AVERNA 16",
+    "bbox": [
+      "155.52",
+      "689.00",
+      "205.49",
+      "701.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CASAMIGOS | 24/21/19",
+    "bbox": [
+      "306.00",
+      "692.00",
+      "418.34",
+      "704.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SAZERAC | 18",
+    "bbox": [
+      "445.14",
+      "692.00",
+      "508.93",
+      "704.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "FERNET BRANCA | 17",
+    "bbox": [
+      "155.52",
+      "710.00",
+      "251.46",
+      "722.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CLASE AZUL | 28/25",
+    "bbox": [
+      "306.00",
+      "713.00",
+      "399.90",
+      "725.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MICHTER’S | 19",
+    "bbox": [
+      "445.14",
+      "713.00",
+      "516.45",
+      "725.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MONTENEGRO | 18",
+    "bbox": [
+      "155.52",
+      "731.00",
+      "241.99",
+      "743.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "LA GRITONA REPOSADO | 18SCOTCH",
+    "bbox": [
+      "306.00",
+      "734.00",
+      "483.06",
+      "746.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CORDIALS",
+    "bbox": [
+      "155.52",
+      "752.00",
+      "203.27",
+      "764.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CINCORO BLANCO | 24",
+    "bbox": [
+      "306.00",
+      "755.00",
+      "409.33",
+      "767.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "DEWAR’S WHITE | 17",
+    "bbox": [
+      "445.14",
+      "755.00",
+      "539.18",
+      "767.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "AMARULA CREAM | 15",
+    "bbox": [
+      "155.52",
+      "773.00",
+      "256.38",
+      "785.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TANTEO JALAPENO | 17",
+    "bbox": [
+      "306.00",
+      "776.00",
+      "409.53",
+      "788.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "JOHNNY  WALKER BLACK | 21",
+    "bbox": [
+      "445.14",
+      "776.00",
+      "575.85",
+      "788.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHOYA YUZU | 14",
+    "bbox": [
+      "155.52",
+      "794.00",
+      "232.75",
+      "806.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "DAHLIA REPOSADO | 18",
+    "bbox": [
+      "306.00",
+      "797.00",
+      "412.83",
+      "809.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "JOHNNY  WALKER BLUE | 42",
+    "bbox": [
+      "445.14",
+      "797.00",
+      "569.65",
+      "809.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ANTICA SAMBVCA CLASSIC | 15EL SILENCIO MEZCAL | 17",
+    "bbox": [
+      "155.52",
+      "815.00",
+      "422.71",
+      "830.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "LAPHROIGH 10  YEAR| 19",
+    "bbox": [
+      "445.14",
+      "818.00",
+      "559.28",
+      "830.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ANTICA BLACK SAMBVCA | 15",
+    "bbox": [
+      "155.52",
+      "836.00",
+      "287.91",
+      "848.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RUM",
+    "bbox": [
+      "306.00",
+      "839.00",
+      "330.64",
+      "851.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MACALLAN 12 YEAR | 22",
+    "bbox": [
+      "445.14",
+      "839.00",
+      "555.69",
+      "851.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "GINS",
+    "bbox": [
+      "155.52",
+      "857.00",
+      "178.61",
+      "869.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "GOSLINGS BLACKSTRAP | 18LAGAVULIN 16 YEAR | 29",
+    "bbox": [
+      "306.00",
+      "860.00",
+      "556.69",
+      "872.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BROKERS LONDON DRY | 17",
+    "bbox": [
+      "155.52",
+      "878.00",
+      "281.66",
+      "890.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BACARDI SUPERIOR | 17",
+    "bbox": [
+      "306.00",
+      "881.00",
+      "415.95",
+      "893.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "OBAN 14 YEAR | 24",
+    "bbox": [
+      "445.14",
+      "881.00",
+      "532.85",
+      "893.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "HENDRICKS | 18",
+    "bbox": [
+      "155.52",
+      "899.00",
+      "230.82",
+      "911.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "LEMONHART BLACKPOOL | 18BALVENIE 15 YEAR | 31",
+    "bbox": [
+      "306.00",
+      "902.00",
+      "549.68",
+      "914.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "EMPRESS 1908 | 17",
+    "bbox": [
+      "155.52",
+      "920.00",
+      "248.39",
+      "932.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MT GAY MASTERS | 28",
+    "bbox": [
+      "306.00",
+      "923.00",
+      "405.47",
+      "935.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PLYMOUTH | 19",
+    "bbox": [
+      "155.52",
+      "941.00",
+      "225.77",
+      "953.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "IRISH WHISKEY",
+    "bbox": [
+      "306.00",
+      "944.00",
+      "377.49",
+      "956.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "JAMESON | 17",
+    "bbox": [
+      "306.00",
+      "965.00",
+      "371.40",
+      "977.00"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

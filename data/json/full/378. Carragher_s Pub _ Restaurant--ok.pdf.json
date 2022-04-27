@@ -1,0 +1,3929 @@
+[
+  {
+    "page_number": 1,
+    "text": "D",
+    "bbox": [
+      "117.20",
+      "167.07",
+      "139.49",
+      "197.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RAU",
+    "bbox": [
+      "139.49",
+      "167.07",
+      "200.30",
+      "197.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "G",
+    "bbox": [
+      "200.30",
+      "167.07",
+      "220.79",
+      "197.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "H",
+    "bbox": [
+      "220.79",
+      "167.07",
+      "243.86",
+      "197.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "T",
+    "bbox": [
+      "243.86",
+      "167.07",
+      "260.66",
+      "197.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "W",
+    "bbox": [
+      "407.51",
+      "167.07",
+      "434.90",
+      "197.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "IN",
+    "bbox": [
+      "434.90",
+      "167.07",
+      "467.78",
+      "197.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "467.78",
+      "167.07",
+      "484.01",
+      "197.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bass Pale Ale • 7 / 25",
+    "bbox": [
+      "96.00",
+      "208.80",
+      "191.60",
+      "221.40"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Bass Pale Ale •",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "7 / 25",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sparkling",
+    "bbox": [
+      "406.34",
+      "223.13",
+      "477.62",
+      "239.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Blue Moon • 8.5 / 25",
+    "bbox": [
+      "96.00",
+      "226.81",
+      "189.16",
+      "239.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Blue Moon",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "8.5 / 25",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Fabiano Prosecco DOC, Italy • 13 / 47",
+    "bbox": [
+      "361.75",
+      "240.75",
+      "524.82",
+      "253.35"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13 / 47",
+            "answer_start": 30
+          }
+        ],
+        "W": [
+          {
+            "text": "Fabiano Prosecco DOC, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Boddington’s • 8.5 / 25",
+    "bbox": [
+      "96.00",
+      "244.81",
+      "199.90",
+      "257.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Boddington’s",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "8.5 / 25",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Negri, Lambrusco Dolce, Italy • 10 / 35",
+    "bbox": [
+      "356.55",
+      "256.07",
+      "521.03",
+      "268.67"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "10 / 35",
+            "answer_start": 32
+          }
+        ],
+        "W": [
+          {
+            "text": "Negri, Lambrusco Dolce, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Budweiser • 6 / 20",
+    "bbox": [
+      "96.00",
+      "260.81",
+      "177.80",
+      "273.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Budweiser",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "6 / 20",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Piper Heidseick Brut, France • 85",
+    "bbox": [
+      "373.88",
+      "270.99",
+      "516.26",
+      "283.59"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "85",
+            "answer_start": 31
+          }
+        ],
+        "W": [
+          {
+            "text": "Piper Heidseick Brut, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Carlsberg • 8.5 / 25",
+    "bbox": [
+      "96.00",
+      "276.81",
+      "182.89",
+      "289.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Carlsberg",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "8.5 / 25",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GH Mumm, Grand Cordon • 90",
+    "bbox": [
+      "381.42",
+      "285.87",
+      "509.47",
+      "298.47"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "90",
+            "answer_start": 24
+          }
+        ],
+        "W": [
+          {
+            "text": "GH Mumm, Grand Cordon •",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Coney Island Mermaid Pilsner • 8 / 25",
+    "bbox": [
+      "96.00",
+      "293.81",
+      "262.38",
+      "306.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Coney Island Mermaid Pilsner",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "8 / 25",
+            "answer_start": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Veuve Cliquot • 130",
+    "bbox": [
+      "402.22",
+      "301.11",
+      "486.24",
+      "313.71"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "130",
+            "answer_start": 16
+          }
+        ],
+        "W": [
+          {
+            "text": "Veuve Cliquot",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Coors Light • 6 / 20",
+    "bbox": [
+      "96.00",
+      "311.82",
+      "182.46",
+      "324.42"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Coors Light",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "6 / 20",
+            "answer_start": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Founder’s All Day IPA • 8.5 / 25",
+    "bbox": [
+      "96.00",
+      "329.82",
+      "233.94",
+      "342.42"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Founder’s All Day IPA",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "8.5 / 25",
+            "answer_start": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "White",
+    "bbox": [
+      "422.36",
+      "343.51",
+      "467.44",
+      "359.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Guinness Stout • 9 / 30",
+    "bbox": [
+      "96.00",
+      "347.83",
+      "201.42",
+      "360.43"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Guinness Stout",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "9 / 30",
+            "answer_start": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dom. Pascal Balland, Sancerre, France • 15 / 55",
+    "bbox": [
+      "340.51",
+      "361.13",
+      "546.47",
+      "373.73"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15 / 55",
+            "answer_start": 40
+          }
+        ],
+        "W": [
+          {
+            "text": "Dom. Pascal Balland, Sancerre, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Harpoon IPA • 7 / 22",
+    "bbox": [
+      "96.00",
+      "365.83",
+      "185.77",
+      "378.43"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Harpoon IPA",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "7 / 22",
+            "answer_start": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dantello, Pinot Grigio, Italy • 10 / 35",
+    "bbox": [
+      "367.76",
+      "376.25",
+      "520.15",
+      "388.85"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "• 10 / 35",
+            "answer_start": 30
+          }
+        ],
+        "W": [
+          {
+            "text": "Dantello, Pinot Grigio, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Hofbrau Seasonal • 8.5 / 25",
+    "bbox": [
+      "96.00",
+      "383.84",
+      "217.27",
+      "396.44"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Hofbrau Seasonal",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "8.5 / 25",
+            "answer_start": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Middle Earth, Sauvignon Blanc, New Zealand • 13 / 47",
+    "bbox": [
+      "331.86",
+      "392.36",
+      "562.55",
+      "404.96"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13 / 47",
+            "answer_start": 45
+          }
+        ],
+        "W": [
+          {
+            "text": "Middle Earth, Sauvignon Blanc, New Zealand",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Lagunitas IPA • 8.5 / 25",
+    "bbox": [
+      "96.00",
+      "401.84",
+      "200.69",
+      "414.44"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Lagunitas IPA",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "8.5 / 25",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Lake Sonoma, Russian River, Chardonnay, California • 12 / 43",
+    "bbox": [
+      "310.58",
+      "407.48",
+      "574.53",
+      "420.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12 / 43",
+            "answer_start": 53
+          }
+        ],
+        "W": [
+          {
+            "text": "Lake Sonoma, Russian River, Chardonnay, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Montauk Wave Chaser IPA • 8 / 25",
+    "bbox": [
+      "96.00",
+      "419.85",
+      "244.64",
+      "432.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Montauk Wave Chaser IPA •",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "8 / 25",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Peroni • 8.5 / 25",
+    "bbox": [
+      "96.00",
+      "437.79",
+      "168.01",
+      "450.39"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Peroni •",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "8.5 / 25",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Radeberger • 8 / 25",
+    "bbox": [
+      "96.00",
+      "454.85",
+      "182.22",
+      "467.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Radeberger",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rose",
+    "bbox": [
+      "426.60",
+      "468.25",
+      "463.30",
+      "484.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sam Adams Boston Lager • 8 / 25",
+    "bbox": [
+      "96.00",
+      "471.85",
+      "246.46",
+      "484.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sam Adams Boston Lager",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "8 / 25",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Juliette Rose, France • 12 / 43",
+    "bbox": [
+      "380.96",
+      "485.87",
+      "510.88",
+      "498.47"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12 / 43",
+            "answer_start": 24
+          }
+        ],
+        "W": [
+          {
+            "text": "Juliette Rose, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Stella Artois • 8 / 25",
+    "bbox": [
+      "96.00",
+      "489.86",
+      "185.67",
+      "502.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Stella Artois",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "8 / 25",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Ribeauville, Sparkling Rose, France • 14 / 51",
+    "bbox": [
+      "352.44",
+      "500.42",
+      "540.07",
+      "513.02"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14 / 51",
+            "answer_start": 38
+          }
+        ],
+        "W": [
+          {
+            "text": "Ribeauville, Sparkling Rose, France •",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Strongbow Cider• 8 / 25",
+    "bbox": [
+      "96.00",
+      "507.80",
+      "200.94",
+      "520.46"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Strongbow Cider•",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Weihenstephaner Hefe-Weiss • 9.5 / 30",
+    "bbox": [
+      "96.00",
+      "524.80",
+      "265.49",
+      "537.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Weihenstephaner Hefe-Weiss",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "9.5 / 30",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Red",
+    "bbox": [
+      "431.23",
+      "551.76",
+      "459.92",
+      "567.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Eloan, Pinot Noir, Oregon • 13 / 47",
+    "bbox": [
+      "369.21",
+      "569.38",
+      "520.38",
+      "581.98"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13 / 47",
+            "answer_start": 28
+          }
+        ],
+        "W": [
+          {
+            "text": "Eloan, Pinot Noir, Oregon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Gougenheim, Malbec, Argentina • 10 / 35",
+    "bbox": [
+      "356.72",
+      "584.50",
+      "537.44",
+      "597.10"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "10 / 35",
+            "answer_start": 32
+          }
+        ],
+        "W": [
+          {
+            "text": "Gougenheim, Malbec, Argentina",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Castel di Pugna, Chianti Reserva, Italy • 12 / 43",
+    "bbox": [
+      "365.75",
+      "600.61",
+      "564.40",
+      "613.21"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12 / 43",
+            "answer_start": 42
+          }
+        ],
+        "W": [
+          {
+            "text": "Castel di Pugna, Chianti Reserva, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "The Tinker, Hawker Wine Co., Red Blend, California • 11 / 39",
+    "bbox": [
+      "319.49",
+      "615.73",
+      "571.35",
+      "628.33"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "11 / 39",
+            "answer_start": 53
+          }
+        ],
+        "W": [
+          {
+            "text": "The Tinker, Hawker Wine Co., Red Blend, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Oak Ridge, Cabernet Sauvingon, Lodi, California • 16 / 59",
+    "bbox": [
+      "328.31",
+      "631.04",
+      "568.50",
+      "643.64"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16 / 59",
+            "answer_start": 50
+          }
+        ],
+        "W": [
+          {
+            "text": "Oak Ridge, Cabernet Sauvingon, Lodi, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BO",
+    "bbox": [
+      "164.30",
+      "673.98",
+      "208.58",
+      "703.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TTLES AN",
+    "bbox": [
+      "208.58",
+      "673.98",
+      "341.81",
+      "703.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "D",
+    "bbox": [
+      "341.81",
+      "673.98",
+      "364.10",
+      "703.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "C",
+    "bbox": [
+      "364.10",
+      "673.98",
+      "393.56",
+      "703.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "AN",
+    "bbox": [
+      "393.56",
+      "673.98",
+      "434.72",
+      "703.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "S",
+    "bbox": [
+      "434.72",
+      "673.98",
+      "451.97",
+      "703.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Angry Orchard Rose Cider• 7.5",
+    "bbox": [
+      "149.01",
+      "722.38",
+      "293.70",
+      "736.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Guinness Blonde • 7",
+    "bbox": [
+      "341.01",
+      "722.38",
+      "439.53",
+      "736.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Allagash White • 7.5",
+    "bbox": [
+      "149.00",
+      "739.50",
+      "246.62",
+      "753.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Heineken • 7.5",
+    "bbox": [
+      "342.00",
+      "739.50",
+      "412.43",
+      "753.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Amstel Light • 7.5",
+    "bbox": [
+      "150.01",
+      "756.50",
+      "237.07",
+      "770.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Heineken Zero • 7",
+    "bbox": [
+      "342.00",
+      "757.50",
+      "428.56",
+      "771.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bud Light • 6.5",
+    "bbox": [
+      "150.01",
+      "774.50",
+      "224.45",
+      "788.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Kopparberg Cider • 8",
+    "bbox": [
+      "342.52",
+      "774.51",
+      "442.92",
+      "788.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Budweiser • 6.5",
+    "bbox": [
+      "150.01",
+      "792.50",
+      "227.44",
+      "806.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Magners Cider • 7.5",
+    "bbox": [
+      "342.00",
+      "793.50",
+      "438.05",
+      "807.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Brooklyn Lager • 7.5",
+    "bbox": [
+      "150.01",
+      "810.51",
+      "246.89",
+      "824.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Magners Pear Cider • 7.5",
+    "bbox": [
+      "342.00",
+      "811.50",
+      "462.43",
+      "825.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Coors Light • 6.5",
+    "bbox": [
+      "150.01",
+      "828.51",
+      "232.64",
+      "842.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Michelob Ultra • 6.5",
+    "bbox": [
+      "342.00",
+      "829.51",
+      "439.20",
+      "843.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Corona Extra • 7.5",
+    "bbox": [
+      "150.01",
+      "846.52",
+      "239.05",
+      "860.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Modelo Especial • 8",
+    "bbox": [
+      "342.00",
+      "847.51",
+      "437.73",
+      "861.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Corona Light • 7.5",
+    "bbox": [
+      "150.01",
+      "864.52",
+      "237.96",
+      "878.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Raging Bitch IPA • 7.5",
+    "bbox": [
+      "342.00",
+      "864.51",
+      "452.57",
+      "878.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Delirium Tremens • 12",
+    "bbox": [
+      "150.01",
+      "882.51",
+      "257.36",
+      "896.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Please ask about our Beer Specials",
+    "bbox": [
+      "218.88",
+      "926.46",
+      "393.04",
+      "940.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPIRITS",
+    "bbox": [
+      "273.48",
+      "130.49",
+      "339.29",
+      "148.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Single Malt",
+    "bbox": [
+      "64.50",
+      "144.67",
+      "138.70",
+      "158.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "American Wiskey",
+    "bbox": [
+      "402.00",
+      "146.67",
+      "515.29",
+      "160.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Canadian Whiskey",
+    "bbox": [
+      "232.43",
+      "156.83",
+      "354.57",
+      "170.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Ardbeg",
+    "bbox": [
+      "64.50",
+      "162.09",
+      "100.31",
+      "174.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "17",
+    "bbox": [
+      "193.07",
+      "160.07",
+      "203.99",
+      "172.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Angel’s Envy",
+    "bbox": [
+      "402.00",
+      "164.09",
+      "467.40",
+      "176.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16",
+    "bbox": [
+      "543.52",
+      "166.02",
+      "554.38",
+      "178.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Balvenie",
+    "bbox": [
+      "64.50",
+      "176.49",
+      "108.06",
+      "188.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "193.07",
+      "174.47",
+      "206.71",
+      "186.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Canadian Club",
+    "bbox": [
+      "232.43",
+      "174.24",
+      "305.39",
+      "186.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "10",
+    "bbox": [
+      "360.95",
+      "172.23",
+      "371.92",
+      "184.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Baker’s",
+    "bbox": [
+      "402.00",
+      "178.49",
+      "438.95",
+      "190.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "17",
+    "bbox": [
+      "543.46",
+      "180.42",
+      "554.38",
+      "192.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bowmore",
+    "bbox": [
+      "64.50",
+      "190.89",
+      "113.66",
+      "202.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "192.83",
+      "188.87",
+      "203.99",
+      "200.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Crown Royal",
+    "bbox": [
+      "232.43",
+      "188.64",
+      "298.36",
+      "200.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "12",
+    "bbox": [
+      "360.63",
+      "186.63",
+      "371.91",
+      "198.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Basil Hayden’s",
+    "bbox": [
+      "402.00",
+      "192.89",
+      "473.83",
+      "204.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16",
+    "bbox": [
+      "543.52",
+      "194.82",
+      "554.38",
+      "206.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dalmore",
+    "bbox": [
+      "64.50",
+      "205.29",
+      "107.10",
+      "217.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "193.07",
+      "203.27",
+      "206.71",
+      "215.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Crown Rye",
+    "bbox": [
+      "232.43",
+      "203.04",
+      "286.15",
+      "215.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "12",
+    "bbox": [
+      "360.63",
+      "201.03",
+      "371.91",
+      "213.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Blanton’s",
+    "bbox": [
+      "402.00",
+      "207.29",
+      "448.43",
+      "219.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16",
+    "bbox": [
+      "543.46",
+      "209.22",
+      "554.38",
+      "221.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dalwhinnie",
+    "bbox": [
+      "64.50",
+      "219.69",
+      "124.14",
+      "231.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "19",
+    "bbox": [
+      "192.88",
+      "217.67",
+      "203.99",
+      "229.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Fireball",
+    "bbox": [
+      "232.43",
+      "217.44",
+      "269.22",
+      "229.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "9",
+    "bbox": [
+      "366.15",
+      "215.43",
+      "371.91",
+      "227.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Booker’s",
+    "bbox": [
+      "402.00",
+      "221.69",
+      "445.49",
+      "233.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "543.46",
+      "223.62",
+      "557.10",
+      "235.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16",
+    "bbox": [
+      "193.13",
+      "232.07",
+      "203.99",
+      "244.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Seagram’s VO",
+    "bbox": [
+      "232.43",
+      "231.84",
+      "299.69",
+      "243.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "361.09",
+      "229.83",
+      "371.91",
+      "241.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13",
+    "bbox": [
+      "543.19",
+      "238.02",
+      "554.37",
+      "250.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "17",
+    "bbox": [
+      "193.07",
+      "246.47",
+      "203.99",
+      "258.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tin Cup",
+    "bbox": [
+      "232.41",
+      "245.83",
+      "273.24",
+      "257.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "361.09",
+      "244.84",
+      "371.91",
+      "256.84"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bulliet Bourbon",
+    "bbox": [
+      "402.00",
+      "250.49",
+      "481.88",
+      "262.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "543.61",
+      "252.42",
+      "554.39",
+      "264.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "193.07",
+      "260.87",
+      "203.99",
+      "272.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Irish Whiskey",
+    "bbox": [
+      "233.80",
+      "265.47",
+      "327.42",
+      "279.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bulleit Rye",
+    "bbox": [
+      "402.00",
+      "264.89",
+      "456.80",
+      "276.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "543.61",
+      "266.82",
+      "554.39",
+      "278.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "22",
+    "bbox": [
+      "192.51",
+      "275.27",
+      "203.98",
+      "287.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bushmills",
+    "bbox": [
+      "233.80",
+      "282.89",
+      "284.97",
+      "294.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "360.18",
+      "284.88",
+      "370.99",
+      "296.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Eagle Rare",
+    "bbox": [
+      "402.00",
+      "279.29",
+      "455.96",
+      "291.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "543.61",
+      "281.22",
+      "554.39",
+      "293.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Glenlivet 12",
+    "bbox": [
+      "64.50",
+      "291.69",
+      "124.86",
+      "303.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "192.83",
+      "289.67",
+      "203.99",
+      "301.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bushmills Blackbush",
+    "bbox": [
+      "233.80",
+      "297.29",
+      "337.13",
+      "309.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13",
+    "bbox": [
+      "359.81",
+      "299.28",
+      "370.99",
+      "311.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Hudson Baby Bourbon",
+    "bbox": [
+      "402.00",
+      "293.69",
+      "514.86",
+      "305.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "542.81",
+      "295.62",
+      "554.37",
+      "307.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Glenmorangie 10",
+    "bbox": [
+      "64.50",
+      "306.09",
+      "147.38",
+      "318.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "193.21",
+      "304.07",
+      "203.99",
+      "316.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bushmills Irish Honey 11",
+    "bbox": [
+      "233.80",
+      "311.69",
+      "370.99",
+      "325.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Jack Daniel’s",
+    "bbox": [
+      "402.00",
+      "308.09",
+      "466.26",
+      "320.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "543.57",
+      "310.02",
+      "554.38",
+      "322.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Highland Park 12",
+    "bbox": [
+      "64.50",
+      "320.49",
+      "152.41",
+      "332.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "193.21",
+      "318.47",
+      "203.99",
+      "330.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Green Spot",
+    "bbox": [
+      "233.77",
+      "325.48",
+      "289.05",
+      "337.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "20",
+    "bbox": [
+      "360.81",
+      "327.48",
+      "371.99",
+      "339.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Jack Daniel’s· Honey",
+    "bbox": [
+      "402.00",
+      "322.49",
+      "503.52",
+      "334.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "543.57",
+      "324.42",
+      "554.38",
+      "336.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Lagavulin 16",
+    "bbox": [
+      "64.50",
+      "334.89",
+      "129.00",
+      "346.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "19",
+    "bbox": [
+      "192.87",
+      "332.87",
+      "203.98",
+      "344.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Jameson",
+    "bbox": [
+      "233.80",
+      "338.09",
+      "277.50",
+      "350.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "360.18",
+      "340.08",
+      "373.72",
+      "352.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Jim Beam",
+    "bbox": [
+      "402.00",
+      "336.89",
+      "451.96",
+      "348.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "543.57",
+      "338.82",
+      "554.38",
+      "350.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Laphroig 10",
+    "bbox": [
+      "64.50",
+      "349.29",
+      "124.37",
+      "361.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16",
+    "bbox": [
+      "193.12",
+      "347.27",
+      "203.98",
+      "359.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Jameson Black Barrell 16",
+    "bbox": [
+      "233.77",
+      "351.46",
+      "370.98",
+      "365.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Knob Creek",
+    "bbox": [
+      "402.00",
+      "351.29",
+      "462.61",
+      "363.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13",
+    "bbox": [
+      "543.19",
+      "353.22",
+      "554.37",
+      "365.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Macallan 12",
+    "bbox": [
+      "64.50",
+      "363.69",
+      "126.22",
+      "375.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16",
+    "bbox": [
+      "193.12",
+      "361.67",
+      "203.98",
+      "373.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Jameson Cask Mates",
+    "bbox": [
+      "233.80",
+      "364.49",
+      "335.98",
+      "376.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16",
+    "bbox": [
+      "359.81",
+      "366.48",
+      "370.99",
+      "378.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Knob Creek Smoked Maple 13",
+    "bbox": [
+      "402.00",
+      "365.69",
+      "554.37",
+      "379.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Macallan 15",
+    "bbox": [
+      "64.50",
+      "378.09",
+      "123.37",
+      "390.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "26",
+    "bbox": [
+      "192.46",
+      "376.07",
+      "203.98",
+      "388.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Jameson Gold",
+    "bbox": [
+      "233.80",
+      "378.89",
+      "304.08",
+      "390.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "17",
+    "bbox": [
+      "360.07",
+      "380.88",
+      "373.72",
+      "392.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Maker’s Mark",
+    "bbox": [
+      "402.00",
+      "380.09",
+      "471.67",
+      "392.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13",
+    "bbox": [
+      "543.19",
+      "382.02",
+      "554.37",
+      "394.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Macallan 18",
+    "bbox": [
+      "64.50",
+      "392.49",
+      "125.86",
+      "404.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "49",
+    "bbox": [
+      "192.49",
+      "390.47",
+      "203.99",
+      "402.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Jameson 18",
+    "bbox": [
+      "233.80",
+      "393.29",
+      "291.15",
+      "405.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "25",
+    "bbox": [
+      "359.57",
+      "395.28",
+      "370.99",
+      "407.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Maker’s 46",
+    "bbox": [
+      "402.00",
+      "394.49",
+      "456.95",
+      "406.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "543.22",
+      "396.42",
+      "557.09",
+      "408.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Oban 14",
+    "bbox": [
+      "64.50",
+      "406.89",
+      "107.71",
+      "418.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "20",
+    "bbox": [
+      "192.41",
+      "404.87",
+      "203.95",
+      "416.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Middleton Very Rare",
+    "bbox": [
+      "233.77",
+      "407.28",
+      "327.97",
+      "419.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "47",
+    "bbox": [
+      "359.56",
+      "409.29",
+      "370.98",
+      "421.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Michter’s Bourbon",
+    "bbox": [
+      "402.00",
+      "408.89",
+      "491.58",
+      "420.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "543.61",
+      "410.82",
+      "554.39",
+      "422.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Talisker 10",
+    "bbox": [
+      "64.50",
+      "421.29",
+      "116.50",
+      "433.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "19",
+    "bbox": [
+      "192.87",
+      "419.27",
+      "203.98",
+      "431.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Paddy",
+    "bbox": [
+      "233.80",
+      "420.68",
+      "266.45",
+      "432.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "360.18",
+      "422.68",
+      "370.99",
+      "434.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Michter’ s Rye",
+    "bbox": [
+      "402.00",
+      "423.29",
+      "472.88",
+      "435.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13",
+    "bbox": [
+      "543.21",
+      "425.22",
+      "554.38",
+      "437.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Blended Scotch",
+    "bbox": [
+      "64.99",
+      "436.67",
+      "188.02",
+      "450.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Powers",
+    "bbox": [
+      "233.80",
+      "435.08",
+      "270.66",
+      "447.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "360.18",
+      "437.08",
+      "370.99",
+      "449.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Old Rip Van Winkle 10yr 60",
+    "bbox": [
+      "401.98",
+      "437.28",
+      "554.38",
+      "451.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dewar’s",
+    "bbox": [
+      "64.99",
+      "454.09",
+      "105.95",
+      "466.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "192.39",
+      "456.09",
+      "203.20",
+      "468.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Redbreast",
+    "bbox": [
+      "233.80",
+      "449.48",
+      "284.01",
+      "461.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "360.07",
+      "451.48",
+      "370.99",
+      "463.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Seagram’s 7",
+    "bbox": [
+      "402.00",
+      "450.68",
+      "459.54",
+      "462.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "542.86",
+      "452.62",
+      "554.38",
+      "464.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dewar’s 12",
+    "bbox": [
+      "64.99",
+      "468.49",
+      "119.95",
+      "480.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "192.39",
+      "470.49",
+      "203.20",
+      "482.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Redbreast 12 Years",
+    "bbox": [
+      "233.77",
+      "462.47",
+      "327.78",
+      "474.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "360.06",
+      "464.47",
+      "370.98",
+      "476.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Templeton Rye",
+    "bbox": [
+      "402.00",
+      "465.08",
+      "476.46",
+      "477.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "542.86",
+      "467.02",
+      "557.10",
+      "479.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chivas Regal",
+    "bbox": [
+      "64.99",
+      "482.89",
+      "130.04",
+      "494.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "12",
+    "bbox": [
+      "191.92",
+      "484.89",
+      "203.21",
+      "496.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Redbreast 15 Years",
+    "bbox": [
+      "233.77",
+      "475.48",
+      "325.06",
+      "487.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "22",
+    "bbox": [
+      "360.06",
+      "477.48",
+      "370.98",
+      "489.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Widow Jane",
+    "bbox": [
+      "402.00",
+      "479.48",
+      "462.76",
+      "491.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "542.86",
+      "481.42",
+      "554.38",
+      "493.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cutty Sark",
+    "bbox": [
+      "64.99",
+      "497.29",
+      "119.29",
+      "509.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "192.39",
+      "499.29",
+      "203.20",
+      "511.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tieling 12 Year",
+    "bbox": [
+      "233.77",
+      "489.46",
+      "307.36",
+      "501.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "359.80",
+      "491.46",
+      "370.98",
+      "503.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Widow Jane Rye Mash Wild 14",
+    "bbox": [
+      "402.00",
+      "493.88",
+      "554.38",
+      "507.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Famous Grouse",
+    "bbox": [
+      "64.99",
+      "511.69",
+      "143.22",
+      "523.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "192.39",
+      "513.69",
+      "205.92",
+      "525.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tullemore Dew",
+    "bbox": [
+      "233.80",
+      "503.88",
+      "310.44",
+      "515.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "12",
+    "bbox": [
+      "359.70",
+      "505.87",
+      "370.99",
+      "517.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Turkey",
+    "bbox": [
+      "402.00",
+      "508.28",
+      "438.32",
+      "520.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "542.86",
+      "510.22",
+      "554.38",
+      "522.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Johnnie Walker Black",
+    "bbox": [
+      "64.99",
+      "526.09",
+      "172.27",
+      "538.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13",
+    "bbox": [
+      "192.01",
+      "528.09",
+      "203.20",
+      "540.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tullemore Dew 12",
+    "bbox": [
+      "233.80",
+      "518.28",
+      "324.45",
+      "530.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "359.82",
+      "520.27",
+      "370.97",
+      "532.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Woodford Reserve",
+    "bbox": [
+      "402.00",
+      "522.68",
+      "494.34",
+      "534.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "542.86",
+      "524.62",
+      "554.38",
+      "536.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Johnnie Walker Blue",
+    "bbox": [
+      "64.99",
+      "540.49",
+      "167.17",
+      "552.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "70",
+    "bbox": [
+      "191.95",
+      "542.49",
+      "203.20",
+      "554.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tyrconnell",
+    "bbox": [
+      "233.80",
+      "532.68",
+      "285.60",
+      "544.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "360.22",
+      "534.67",
+      "370.98",
+      "546.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Woodford Double Oak",
+    "bbox": [
+      "402.00",
+      "537.08",
+      "512.46",
+      "549.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "542.86",
+      "539.02",
+      "554.38",
+      "551.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Yellow Spot",
+    "bbox": [
+      "233.77",
+      "547.47",
+      "292.18",
+      "559.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "359.80",
+      "549.47",
+      "370.98",
+      "561.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Johnnie Walker Red",
+    "bbox": [
+      "64.99",
+      "554.89",
+      "164.84",
+      "566.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "12",
+    "bbox": [
+      "191.91",
+      "556.89",
+      "203.20",
+      "568.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Johnnie Walker 18yr",
+    "bbox": [
+      "64.96",
+      "568.89",
+      "167.23",
+      "580.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "20",
+    "bbox": [
+      "191.88",
+      "570.89",
+      "203.17",
+      "582.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Monkey Shoulder",
+    "bbox": [
+      "64.99",
+      "582.28",
+      "150.44",
+      "594.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "12",
+    "bbox": [
+      "191.91",
+      "584.28",
+      "203.20",
+      "596.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "COCKTAILS",
+    "bbox": [
+      "257.92",
+      "591.69",
+      "356.15",
+      "609.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SIGNATURE",
+    "bbox": [
+      "136.99",
+      "608.07",
+      "213.50",
+      "622.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CLASSICS",
+    "bbox": [
+      "410.48",
+      "610.07",
+      "475.06",
+      "624.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Black Bird $14",
+    "bbox": [
+      "135.51",
+      "637.01",
+      "224.17",
+      "651.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Midtown Martini $15",
+    "bbox": [
+      "378.12",
+      "638.35",
+      "505.42",
+      "652.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "44 North Huckleberry Vodka,",
+    "bbox": [
+      "97.36",
+      "652.13",
+      "230.61",
+      "663.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Ketel One Vodka, Dry Vermouth, Olive Garnish",
+    "bbox": [
+      "342.36",
+      "653.47",
+      "556.36",
+      "664.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Blueberries & Lemon",
+    "bbox": [
+      "117.07",
+      "678.53",
+      "210.98",
+      "689.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Aperol Spritz $14",
+    "bbox": [
+      "393.12",
+      "678.32",
+      "497.43",
+      "692.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Aperol, Prosecco, Topped With Soda, Fresh Garnish",
+    "bbox": [
+      "327.36",
+      "693.44",
+      "558.76",
+      "704.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Twist & Shout $14",
+    "bbox": [
+      "122.78",
+      "701.61",
+      "229.30",
+      "715.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bulleit Bourbon, Intense Ginger Liqueur,",
+    "bbox": [
+      "74.12",
+      "716.73",
+      "253.93",
+      "727.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "The Old Fashioned $15",
+    "bbox": [
+      "378.12",
+      "721.41",
+      "513.35",
+      "735.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Muddled Mint & Lemon",
+    "bbox": [
+      "109.72",
+      "729.93",
+      "218.29",
+      "740.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bulliet Bourbon, Brown Sugar, Angostura Bitters",
+    "bbox": [
+      "326.45",
+      "736.53",
+      "542.28",
+      "747.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Topped With Ginger Beer",
+    "bbox": [
+      "108.48",
+      "743.13",
+      "222.73",
+      "754.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Orange & Lemon Zest",
+    "bbox": [
+      "385.25",
+      "749.73",
+      "483.46",
+      "760.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Penny Lane $14",
+    "bbox": [
+      "128.17",
+      "765.21",
+      "219.90",
+      "779.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "The Perfect Manhattan $16",
+    "bbox": [
+      "358.02",
+      "772.92",
+      "516.44",
+      "786.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Brooklyn Gin, St. Germain, Muddled Cucumber,",
+    "bbox": [
+      "56.74",
+      "780.33",
+      "271.35",
+      "791.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Woodford Reserve, Dry & Sweet Vermouth, Lemon Twist",
+    "bbox": [
+      "299.26",
+      "788.04",
+      "554.85",
+      "799.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Splash of Sour Mix & Soda",
+    "bbox": [
+      "105.17",
+      "793.53",
+      "222.84",
+      "804.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Spicy Margarita $14",
+    "bbox": [
+      "380.18",
+      "807.60",
+      "496.80",
+      "821.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Carraghers Moscow Mule $14",
+    "bbox": [
+      "90.98",
+      "816.81",
+      "264.77",
+      "830.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tequila Blanco, Chili Infusion, Lime & Lemon, Sugar",
+    "bbox": [
+      "317.88",
+      "822.72",
+      "548.64",
+      "833.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Ketel One Vodka, Goslings Ginger Beer, Fresh Lime",
+    "bbox": [
+      "51.67",
+      "831.93",
+      "269.44",
+      "842.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Gin Fizz $14",
+    "bbox": [
+      "400.88",
+      "846.80",
+      "476.50",
+      "860.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "The Irish American Coffee $15",
+    "bbox": [
+      "81.28",
+      "856.61",
+      "256.49",
+      "870.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tanqueray, Muddled Mint, Lime, Prosecco",
+    "bbox": [
+      "335.12",
+      "861.92",
+      "525.07",
+      "872.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Brooklyn Dark Roast, Brown Sugar, Jameson, Irish Cream",
+    "bbox": [
+      "44.34",
+      "871.93",
+      "300.75",
+      "882.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pink Gin Disco Ball $16",
+    "bbox": [
+      "373.88",
+      "886.01",
+      "513.78",
+      "900.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Garcia Sangria $13",
+    "bbox": [
+      "116.63",
+      "895.01",
+      "227.44",
+      "909.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Beefeater Pink Gin, Schweppes Slimline Tonic",
+    "bbox": [
+      "336.27",
+      "901.13",
+      "539.98",
+      "912.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Red Mixed Berry or White Peach",
+    "bbox": [
+      "100.17",
+      "910.13",
+      "245.98",
+      "921.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Served in a Disco Ball!",
+    "bbox": [
+      "388.84",
+      "914.33",
+      "487.40",
+      "925.33"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

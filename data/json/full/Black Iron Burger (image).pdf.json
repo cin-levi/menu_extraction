@@ -1,0 +1,340 @@
+[
+  {
+    "page_number": 1,
+    "text": "PARK SLOPE | Black Iron Burger | Nobody Beats Our Meat | Order O...",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "290.96",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.blackironburger.com/brooklyn-menus/#page1",
+    "bbox": [
+      "361.94",
+      "1.16",
+      "596.00",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "P",
+    "bbox": [
+      "143.99",
+      "333.07",
+      "176.93",
+      "378.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A",
+    "bbox": [
+      "175.67",
+      "333.07",
+      "210.14",
+      "378.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "R",
+    "bbox": [
+      "210.86",
+      "333.07",
+      "243.93",
+      "378.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "K",
+    "bbox": [
+      "244.70",
+      "333.07",
+      "278.00",
+      "378.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "S",
+    "bbox": [
+      "278.76",
+      "333.07",
+      "320.93",
+      "378.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "L",
+    "bbox": [
+      "321.69",
+      "333.07",
+      "348.87",
+      "378.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "O",
+    "bbox": [
+      "349.10",
+      "333.07",
+      "387.08",
+      "378.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "P",
+    "bbox": [
+      "387.80",
+      "333.07",
+      "420.74",
+      "378.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "E",
+    "bbox": [
+      "421.05",
+      "333.07",
+      "451.25",
+      "378.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "234 FLATBUSH AVENUE",
+    "bbox": [
+      "177.81",
+      "510.10",
+      "417.40",
+      "528.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BROOKLYN, NY 11217",
+    "bbox": [
+      "194.82",
+      "530.31",
+      "400.40",
+      "548.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PAGE1",
+    "bbox": [
+      "204.98",
+      "613.56",
+      "242.39",
+      "624.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PAGE2",
+    "bbox": [
+      "276.89",
+      "613.56",
+      "316.34",
+      "624.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PAGE3",
+    "bbox": [
+      "350.84",
+      "613.56",
+      "390.28",
+      "624.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "521.00",
+      "695.80",
+      "554.00",
+      "728.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "250.66",
+      "789.39",
+      "344.57",
+      "799.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1 av 2",
+    "bbox": [
+      "0.00",
+      "832.16",
+      "24.44",
+      "842.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2022-04-10 12:10",
+    "bbox": [
+      "524.08",
+      "832.16",
+      "596.01",
+      "842.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PARK SLOPE | Black Iron Burger | Nobody Beats Our Meat | Order O...",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "290.96",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.blackironburger.com/brooklyn-menus/#page1",
+    "bbox": [
+      "361.94",
+      "1.16",
+      "596.00",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "",
+    "bbox": [
+      "521.00",
+      "695.80",
+      "554.00",
+      "728.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "250.66",
+      "789.39",
+      "344.57",
+      "799.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2 av 2",
+    "bbox": [
+      "0.00",
+      "832.16",
+      "24.44",
+      "842.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2022-04-10 12:10",
+    "bbox": [
+      "524.08",
+      "832.16",
+      "596.01",
+      "842.16"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

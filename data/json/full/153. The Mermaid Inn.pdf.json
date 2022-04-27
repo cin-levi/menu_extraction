@@ -1,0 +1,3512 @@
+[
+  {
+    "page_number": 1,
+    "text": "roasted atlantic salmon   29",
+    "bbox": [
+      "567.68",
+      "61.39",
+      "705.31",
+      "73.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "hush puppies corn & chile remoula  de7",
+    "bbox": [
+      "798.76",
+      "60.79",
+      "967.45",
+      "73.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "new england clam chowder   12",
+    "bbox": [
+      "309.98",
+      "65.58",
+      "461.09",
+      "77.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "½ dozen littleneck clams  12",
+    "bbox": [
+      "65.20",
+      "69.77",
+      "206.97",
+      "81.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "bacon & fingerling potatoes",
+    "bbox": [
+      "332.59",
+      "79.13",
+      "434.38",
+      "91.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "swiss chard hummus, lemon-sumac cabbage & crispy shallots",
+    "bbox": [
+      "515.05",
+      "79.14",
+      "737.89",
+      "91.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "buttered hot rolls old bay & sea salt 7",
+    "bbox": [
+      "798.19",
+      "80.62",
+      "967.18",
+      "93.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "chilled jumbo shrimp4.50 ea.",
+    "bbox": [
+      "57.19",
+      "97.02",
+      "211.08",
+      "109.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "seared yellowfin tuna  29",
+    "bbox": [
+      "575.69",
+      "102.55",
+      "698.74",
+      "114.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "old bay fries  8",
+    "bbox": [
+      "839.69",
+      "100.48",
+      "920.93",
+      "114.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "mermaid wedge 15",
+    "bbox": [
+      "338.79",
+      "111.28",
+      "428.85",
+      "123.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "cauliflower “fried rice,” lemongrass caramel,",
+    "bbox": [
+      "550.94",
+      "116.97",
+      "716.09",
+      "128.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "smoked gouda mac & cheese  10",
+    "bbox": [
+      "809.25",
+      "118.79",
+      "971.66",
+      "130.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "tuna crudo  16",
+    "bbox": [
+      "101.04",
+      "125.79",
+      "172.55",
+      "137.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "cherry tomato, red onion, maytag blue cheese,",
+    "bbox": [
+      "301.82",
+      "125.33",
+      "468.74",
+      "137.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "jalapeño, avocado & lime",
+    "bbox": [
+      "88.10",
+      "135.17",
+      "179.88",
+      "146.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "togarashi peanuts & basil oil",
+    "bbox": [
+      "579.76",
+      "130.94",
+      "687.15",
+      "142.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "+ veggies 3 , +bacon4 , + lobster 7",
+    "bbox": [
+      "825.18",
+      "132.57",
+      "951.62",
+      "144.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "apple~smoked bacon, buttermilk dressing & chives",
+    "bbox": [
+      "293.55",
+      "138.53",
+      "475.47",
+      "150.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "baby grand platter  35",
+    "bbox": [
+      "82.97",
+      "157.36",
+      "190.33",
+      "169.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "fire roasted hanger steak   28",
+    "bbox": [
+      "563.55",
+      "156.68",
+      "708.94",
+      "168.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "shishito peppers  candied lemon & sea salt  9",
+    "bbox": [
+      "790.56",
+      "153.37",
+      "971.67",
+      "167.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "six clams, six oysters & tuna crudo",
+    "bbox": [
+      "74.35",
+      "170.16",
+      "191.63",
+      "181.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "lobster knuckles “escargot style”  16",
+    "bbox": [
+      "299.46",
+      "170.20",
+      "473.53",
+      "182.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "heirloom tomato salad, charred scallion & sea salt",
+    "bbox": [
+      "544.40",
+      "170.67",
+      "728.08",
+      "182.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "asparagusfried garlic, celery heart & l emon 9",
+    "bbox": [
+      "793.96",
+      "173.75",
+      "971.46",
+      "189.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "parsley garlic butter & grilled country bread",
+    "bbox": [
+      "309.25",
+      "182.99",
+      "467.07",
+      "194.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "grand platter 75",
+    "bbox": [
+      "89.59",
+      "197.96",
+      "177.34",
+      "209.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "mermaid fish tacos   26",
+    "bbox": [
+      "578.82",
+      "195.46",
+      "694.89",
+      "207.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "sauteed broccoli ra be  chili flake & olive oil8",
+    "bbox": [
+      "782.15",
+      "194.91",
+      "980.92",
+      "207.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "twelve oysters, six clams,tuna crudo",
+    "bbox": [
+      "72.36",
+      "208.60",
+      "197.28",
+      "220.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "yellowtail ceviche  16",
+    "bbox": [
+      "326.14",
+      "216.98",
+      "435.94",
+      "228.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "beer batter, red cabbage, pickled jalapeño & pico de gallo",
+    "bbox": [
+      "531.29",
+      "210.45",
+      "738.97",
+      "222.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "house salad   parmesan, red onion, carrot, radish",
+    "bbox": [
+      "786.54",
+      "213.22",
+      "981.68",
+      "226.92"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "shrimp cocktail & salmon tartare",
+    "bbox": [
+      "74.35",
+      "220.09",
+      "190.88",
+      "231.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "& lemon citronette 13",
+    "bbox": [
+      "848.45",
+      "224.17",
+      "933.00",
+      "236.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "yuzu, pink grapefruit, ancho chili, toasted garlic",
+    "bbox": [
+      "297.13",
+      "231.94",
+      "471.27",
+      "243.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "pan-roasted chatham cod  29",
+    "bbox": [
+      "563.13",
+      "238.12",
+      "707.11",
+      "250.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "chorizo crust, broccoli rabe & lemon pepper aioli",
+    "bbox": [
+      "544.40",
+      "254.08",
+      "723.51",
+      "266.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "shaved kale salad  14",
+    "bbox": [
+      "318.11",
+      "265.06",
+      "436.47",
+      "277.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "house ceasar, parmesan, garlic croutons & old bay chickpeas",
+    "bbox": [
+      "275.80",
+      "279.94",
+      "496.82",
+      "291.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "“nearly famous” lobster roll   32",
+    "bbox": [
+      "554.44",
+      "283.05",
+      "715.60",
+      "295.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "4:30 pm  t o    6:30 pm",
+    "bbox": [
+      "838.87",
+      "284.11",
+      "922.40",
+      "295.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "griddled brioche bun & old bay fries",
+    "bbox": [
+      "566.08",
+      "297.59",
+      "695.21",
+      "309.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "chef’s choice oyster •  l ittleneck clams",
+    "bbox": [
+      "790.38",
+      "299.34",
+      "974.88",
+      "311.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "oysters are beautiful & they taste good, too",
+    "bbox": [
+      "52.96",
+      "310.56",
+      "213.89",
+      "322.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1.25 /minimum of 6",
+    "bbox": [
+      "835.04",
+      "311.39",
+      "919.65",
+      "323.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "portuguese octopus 18",
+    "bbox": [
+      "296.76",
+      "319.60",
+      "438.81",
+      "331.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "linguine & clams  27",
+    "bbox": [
+      "582.80",
+      "322.27",
+      "685.72",
+      "334.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "yukon potato salad, summer corn & oregano vinaigrette",
+    "bbox": [
+      "283.70",
+      "330.59",
+      "486.06",
+      "342.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "salmon tartare 8.00",
+    "bbox": [
+      "828.98",
+      "329.66",
+      "932.20",
+      "341.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "arugula, meyer lemon & aleppo pepper",
+    "bbox": [
+      "560.62",
+      "336.43",
+      "704.65",
+      "348.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "mini mermaid fish taco 3.00  ea.",
+    "bbox": [
+      "803.58",
+      "345.16",
+      "968.88",
+      "357.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "point judith calamari salad    16",
+    "bbox": [
+      "284.45",
+      "363.85",
+      "464.46",
+      "375.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "simply grilled fish",
+    "bbox": [
+      "583.53",
+      "361.05",
+      "673.96",
+      "373.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "crab & spinach dip 8.00",
+    "bbox": [
+      "824.21",
+      "361.05",
+      "946.86",
+      "373.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "olive oil, parsley & charred lemon",
+    "bbox": [
+      "569.52",
+      "372.37",
+      "692.20",
+      "384.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "frisée, feta, cremini, shiitake",
+    "bbox": [
+      "328.37",
+      "377.59",
+      "431.48",
+      "389.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "fried calamari 8.75",
+    "bbox": [
+      "834.98",
+      "378.70",
+      "934.32",
+      "390.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "salmon 26 cod 26tuna 26",
+    "bbox": [
+      "550.94",
+      "388.89",
+      "699.77",
+      "400.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "chunu (eastern shore, va)  3.00",
+    "bbox": [
+      "59.29",
+      "393.01",
+      "220.19",
+      "405.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "grilled shrimp & avocado slider 7.50 ea.",
+    "bbox": [
+      "789.25",
+      "395.02",
+      "987.56",
+      "407.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "slight brine, sweet & earthy finish",
+    "bbox": [
+      "69.20",
+      "405.17",
+      "190.13",
+      "416.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "mini buttered lobster roll 9.00",
+    "bbox": [
+      "812.60",
+      "413.00",
+      "968.58",
+      "425.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "wellfleet (wellfleet harbor, ma) 3.50",
+    "bbox": [
+      "42.58",
+      "432.02",
+      "228.20",
+      "444.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "firm, petite & juicy brine",
+    "bbox": [
+      "93.31",
+      "443.18",
+      "183.29",
+      "454.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9",
+    "bbox": [
+      "880.06",
+      "464.73",
+      "886.46",
+      "476.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "east beach blondes (ninigret, ri) 3.75",
+    "bbox": [
+      "40.01",
+      "475.44",
+      "230.51",
+      "487.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "cast iron buttered shrimp  34",
+    "bbox": [
+      "320.52",
+      "471.89",
+      "466.02",
+      "483.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "shrimp stuffed “half baked” lobster 39",
+    "bbox": [
+      "511.16",
+      "474.52",
+      "701.21",
+      "486.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "the pink flamingo  gin, strawberry, basil & lemon",
+    "bbox": [
+      "782.08",
+      "477.61",
+      "980.96",
+      "491.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "salt & peachy finish",
+    "bbox": [
+      "95.49",
+      "486.60",
+      "166.29",
+      "498.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "burst tomatoes, garbanzo beans,",
+    "bbox": [
+      "331.18",
+      "486.59",
+      "448.37",
+      "498.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "p  a  n  k  o  ,    d  i l l ,  charred corn & herb butter",
+    "bbox": [
+      "496.27",
+      "490.27",
+      "680.44",
+      "502.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "margarita tequila, triple sec & lime",
+    "bbox": [
+      "817.03",
+      "493.73",
+      "956.17",
+      "507.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "kalamata olives & smoked paprika",
+    "bbox": [
+      "331.18",
+      "500.99",
+      "456.51",
+      "512.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "hot & dirty  vodka, olive juice, peppadew & hot sauce",
+    "bbox": [
+      "782.40",
+      "512.26",
+      "982.98",
+      "525.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "whole mediterranean branzino  38",
+    "bbox": [
+      "308.14",
+      "531.59",
+      "479.73",
+      "543.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18 oz. bone-in kansas city sirloin steak  49",
+    "bbox": [
+      "505.62",
+      "531.59",
+      "722.91",
+      "543.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "dark & stormy  dark rum & ginger beer",
+    "bbox": [
+      "800.63",
+      "530.40",
+      "957.13",
+      "544.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "charred lemon, olive oil & sea salt                           roasted garlic, charred rapini, smoked sea salt & chimichurri",
+    "bbox": [
+      "311.18",
+      "546.63",
+      "724.44",
+      "558.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "aperol spritz  blanc de blancs & aperol aperitivo",
+    "bbox": [
+      "789.19",
+      "547.30",
+      "974.51",
+      "560.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "kusshi (deep bay, bc) 3.75",
+    "bbox": [
+      "75.44",
+      "560.16",
+      "206.09",
+      "572.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "white • red • sparkling  9",
+    "bbox": [
+      "824.70",
+      "563.91",
+      "954.40",
+      "576.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ultra plump & elegant",
+    "bbox": [
+      "78.06",
+      "570.73",
+      "171.24",
+      "582.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "draft beer  6",
+    "bbox": [
+      "843.00",
+      "581.14",
+      "915.90",
+      "593.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "consuming raw or undercooked meats, poultry, s eafood, shellfish,or eggs may increase  your risk of foodborne illness.",
+    "bbox": [
+      "325.85",
+      "586.98",
+      "712.46",
+      "599.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WHITE",
+    "bbox": [
+      "118.51",
+      "49.14",
+      "154.86",
+      "60.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "alvarinh  o           nortico 2020 (minho, portugal) 14",
+    "bbox": [
+      "42.53",
+      "64.15",
+      "224.14",
+      "77.00"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "alvarinh  o           nortico",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 30
+          }
+        ],
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 53
+          }
+        ],
+        "W": [
+          {
+            "text": "(minho, portugal)",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "domaine de ml’ec uus, cgaradneitte   24081 8  (loire, france)",
+    "bbox": [
+      "330.55",
+      "56.14",
+      "476.58",
+      "80.04"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "081 8",
+            "answer_start": 39
+          }
+        ],
+        "W": [
+          {
+            "text": "domaine d",
+            "answer_start": 0
+          },
+          {
+            "text": "l’ec uus, cgaradneitte   24",
+            "answer_start": 12
+          },
+          {
+            "text": "(loire, france)",
+            "answer_start": 46
+          }
+        ],
+        "P": [
+          {
+            "text": "e m",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "karines  a lanucveerrjarte 2 r0o18u g (elo  i4re4, f rance)",
+    "bbox": [
+      "583.92",
+      "60.09",
+      "700.22",
+      "83.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "karines  a lanuc",
+            "answer_start": 0
+          },
+          {
+            "text": "errjarte 2 r0o18u",
+            "answer_start": 18
+          },
+          {
+            "text": "o  i4re4, f rance)",
+            "answer_start": 41
+          }
+        ],
+        "V": [
+          {
+            "text": "g (el",
+            "answer_start": 36
+          }
+        ],
+        "P": [
+          {
+            "text": "ve",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "höple rp 2a0n2n0o (nbiucrage rnloasnéd ,4 a2ustria )",
+    "bbox": [
+      "832.00",
+      "58.78",
+      "943.90",
+      "81.67"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "höple rp 2a0n2n",
+            "answer_start": 0
+          },
+          {
+            "text": "(nbiuc",
+            "answer_start": 18
+          },
+          {
+            "text": "rnloasnéd ,4 a2ustria )",
+            "answer_start": 29
+          }
+        ],
+        "V": [
+          {
+            "text": "rage",
+            "answer_start": 24
+          }
+        ],
+        "P": [
+          {
+            "text": "0o",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "sauvignon blanc  barker’s arona 2020 (marlborough, new zealand)14",
+    "bbox": [
+      "29.23",
+      "82.04",
+      "265.46",
+      "94.15"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "sauvignon blanc  barker’s arona",
+            "answer_start": 0
+          },
+          {
+            "text": "(marlborough, new zealand)",
+            "answer_start": 37
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 32
+          }
+        ],
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 63
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "crozes-hermitage  70",
+    "bbox": [
+      "352.51",
+      "86.75",
+      "441.20",
+      "97.59"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "crozes-hermitage",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "70",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "pinot noir  65",
+    "bbox": [
+      "607.96",
+      "90.72",
+      "666.25",
+      "101.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "pinot noir",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "65",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "provence rosé 48",
+    "bbox": [
+      "852.94",
+      "89.27",
+      "922.80",
+      "100.11"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "provence rosé",
+            "answer_start": 0
+          },
+          {
+            "text": "proven",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "48",
+            "answer_start": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "sancerre  domaine michel thomas et fils  2020 (loire, france)  16",
+    "bbox": [
+      "34.47",
+      "100.03",
+      "252.46",
+      "112.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "sancerre  domaine michel thomas et fils",
+            "answer_start": 0
+          },
+          {
+            "text": "(loire, france)",
+            "answer_start": 46
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 41
+          }
+        ],
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 63
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "alain graillot 2019 (rhône, france)",
+    "bbox": [
+      "341.09",
+      "97.39",
+      "450.43",
+      "108.23"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 15
+          }
+        ],
+        "W": [
+          {
+            "text": "alain graillot",
+            "answer_start": 0
+          },
+          {
+            "text": "(rhône, france)",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "domaine devaux, hautes-côtes de beaune 2019 (burgundy, france)",
+    "bbox": [
+      "544.72",
+      "101.50",
+      "749.90",
+      "112.34"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "domaine devaux, hautes-côtes de beaune",
+            "answer_start": 0
+          },
+          {
+            "text": "(burgundy, france)",
+            "answer_start": 44
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "château de la deidière 2020 (provence, france)",
+    "bbox": [
+      "814.99",
+      "96.25",
+      "962.24",
+      "112.43"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 23
+          }
+        ],
+        "W": [
+          {
+            "text": "(provence, france)",
+            "answer_start": 28
+          },
+          {
+            "text": "château de la deidière",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "petit chablis domaine alain geoffroy 2020 (burgund  y, franc e  )       16",
+    "bbox": [
+      "31.56",
+      "116.51",
+      "261.28",
+      "128.43"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "petit chablis domaine alain geoffroy",
+            "answer_start": 0
+          },
+          {
+            "text": "(burgund  y, franc e  )",
+            "answer_start": 42
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 37
+          }
+        ],
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 72
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "pouilly-fumé    50",
+    "bbox": [
+      "360.73",
+      "117.48",
+      "430.88",
+      "128.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "pouilly-fumé",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "50",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "bordeaux  70",
+    "bbox": [
+      "608.74",
+      "120.69",
+      "663.74",
+      "132.61"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "bordeaux",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "70",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "sancerre rosé 58",
+    "bbox": [
+      "852.94",
+      "122.96",
+      "920.67",
+      "133.80"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "sancerre rosé",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "58",
+            "answer_start": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "domaine marcel langoux 2019 (loire, france)",
+    "bbox": [
+      "326.49",
+      "132.31",
+      "466.75",
+      "143.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "domaine marcel langoux 20",
+            "answer_start": 0
+          },
+          {
+            "text": "(loire, france)",
+            "answer_start": 28
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "chateau haut-brisson 2016 (saint émillion, france)",
+    "bbox": [
+      "550.84",
+      "133.29",
+      "711.37",
+      "144.13"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "chateau haut-brisson",
+            "answer_start": 0
+          },
+          {
+            "text": "(saint émillion, france)",
+            "answer_start": 26
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "domaine sautereau 2020 (loire, france)",
+    "bbox": [
+      "822.60",
+      "136.37",
+      "947.93",
+      "147.21"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 18
+          }
+        ],
+        "W": [
+          {
+            "text": "domaine sautereau",
+            "answer_start": 0
+          },
+          {
+            "text": "(loire, france)",
+            "answer_start": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RED",
+    "bbox": [
+      "125.13",
+      "143.24",
+      "149.69",
+      "155.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "sauvignon blanc  48",
+    "bbox": [
+      "352.51",
+      "151.50",
+      "435.07",
+      "162.34"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "sauvignon blanc",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "48",
+            "answer_start": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "barbera d’asti vietti  2019 (piedmont, italy)   14",
+    "bbox": [
+      "31.98",
+      "158.39",
+      "223.08",
+      "171.29"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "barbera d’asti vietti",
+            "answer_start": 0
+          },
+          {
+            "text": "(piedmont, italy)",
+            "answer_start": 28
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 23
+          }
+        ],
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "pelaverga  52",
+    "bbox": [
+      "614.29",
+      "156.13",
+      "667.63",
+      "166.97"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "pelaverga",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "52",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "marine dubard, coeur du mont 2020 (loire, france)",
+    "bbox": [
+      "312.32",
+      "165.79",
+      "473.53",
+      "177.05"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 29
+          }
+        ],
+        "W": [
+          {
+            "text": "marine dubard, coeur du mont",
+            "answer_start": 0
+          },
+          {
+            "text": "(loire, france)",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ccaasstteelllloo  ddii  vveerrdduunnoo,,  bbaassaaddoonnee  22001199  ((ppiieeddmmoonntt,,  iittaallyy))",
+    "bbox": [
+      "559.61",
+      "163.77",
+      "735.54",
+      "179.59"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ccaasstteelllloo  ddii  vveerr",
+            "answer_start": 0
+          },
+          {
+            "text": "oonnee  22001199  ((ppiieeddmm",
+            "answer_start": 52
+          },
+          {
+            "text": "nnoo,,  bbaassaadd",
+            "answer_start": 34
+          },
+          {
+            "text": "tt,,  iittaallyy))",
+            "answer_start": 86
+          }
+        ],
+        "V": [
+          {
+            "text": "dduu",
+            "answer_start": 30
+          },
+          {
+            "text": "oonn",
+            "answer_start": 82
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "pinot noir   planet oregon 2018 (willamette valley, oregon)  16",
+    "bbox": [
+      "32.81",
+      "173.41",
+      "252.39",
+      "185.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "pinot noir   planet oregon",
+            "answer_start": 0
+          },
+          {
+            "text": "(willamette valley, oregon)",
+            "answer_start": 32
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "pouilly-fuissé   65",
+    "bbox": [
+      "359.94",
+      "186.48",
+      "434.73",
+      "197.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "pouilly-fuissé",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "65",
+            "answer_start": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "cabernet sauvignon  nelms road 2019 (walla walla, washington)   18",
+    "bbox": [
+      "23.05",
+      "189.98",
+      "261.13",
+      "202.02"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "cabernet sauvignon  nelms road",
+            "answer_start": 0
+          },
+          {
+            "text": "(walla walla, washington)",
+            "answer_start": 36
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 31
+          }
+        ],
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 64
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "nebbiolo  58",
+    "bbox": [
+      "612.64",
+      "190.02",
+      "664.89",
+      "200.86"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "nebbiolo",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "58",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "domaine du chalet 2019 (burgundy, france)",
+    "bbox": [
+      "326.49",
+      "200.90",
+      "463.06",
+      "211.74"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 18
+          }
+        ],
+        "W": [
+          {
+            "text": "domaine du chalet",
+            "answer_start": 0
+          },
+          {
+            "text": "(burgundy, france)",
+            "answer_start": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "oddero 2018 (piedmont, italy)",
+    "bbox": [
+      "587.80",
+      "203.84",
+      "684.27",
+      "214.68"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "oddero",
+            "answer_start": 0
+          },
+          {
+            "text": "(piedmont, italy)",
+            "answer_start": 12
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "crémant 42",
+    "bbox": [
+      "862.98",
+      "207.28",
+      "911.15",
+      "218.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPARKLING",
+    "bbox": [
+      "108.22",
+      "219.98",
+      "179.94",
+      "236.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "pinot grigio  44",
+    "bbox": [
+      "364.18",
+      "218.05",
+      "429.03",
+      "228.89"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "pinot grigio",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "44",
+            "answer_start": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "frappato  44",
+    "bbox": [
+      "610.83",
+      "223.77",
+      "664.04",
+      "234.61"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "frappato",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "44",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "bailly lapierre nv (burgundy, france)",
+    "bbox": [
+      "831.25",
+      "219.21",
+      "943.21",
+      "229.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "prosecco ca’ furlan nv (veneto, italy) 13",
+    "bbox": [
+      "64.29",
+      "233.22",
+      "218.97",
+      "246.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "prosecco ca’ furlan nv (veneto, italy)",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "abazzia di novacella 2019 (alto adige,italy)",
+    "bbox": [
+      "326.49",
+      "230.35",
+      "461.93",
+      "241.61"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 21
+          }
+        ],
+        "W": [
+          {
+            "text": "abazzia di novacella",
+            "answer_start": 0
+          },
+          {
+            "text": "(alto adige,italy)",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "valle del’acate 2019 (sicily, italy)",
+    "bbox": [
+      "580.75",
+      "239.47",
+      "686.68",
+      "250.31"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "valle del’acate",
+            "answer_start": 0
+          },
+          {
+            "text": "(sicily, italy)",
+            "answer_start": 21
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "champagne 76",
+    "bbox": [
+      "860.62",
+      "237.78",
+      "919.49",
+      "248.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "cava   conquilla nv (catalunya, spain) 13",
+    "bbox": [
+      "63.62",
+      "248.23",
+      "213.67",
+      "261.63"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "cava   conquilla nv (catalunya, spain)",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "vermentino  46",
+    "bbox": [
+      "360.72",
+      "249.56",
+      "424.57",
+      "260.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "vermentino",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "46",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "gatinois äy grand cru nv (champagne, france)",
+    "bbox": [
+      "812.05",
+      "250.96",
+      "962.90",
+      "261.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "chianti classico   58",
+    "bbox": [
+      "595.73",
+      "257.26",
+      "679.53",
+      "269.18"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "chianti classico",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "58",
+            "answer_start": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "champagnejean laurent blanc de noirs brut nv (france)18",
+    "bbox": [
+      "42.53",
+      "264.32",
+      "250.47",
+      "275.61"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "champagne",
+            "answer_start": 0
+          },
+          {
+            "text": "an laurent blanc de noirs brut nv (france)18",
+            "answer_start": 11
+          }
+        ],
+        "P": [
+          {
+            "text": "je",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "terenzuola, vinge basse 2019 (liguria, italy)",
+    "bbox": [
+      "326.49",
+      "265.50",
+      "463.82",
+      "276.76"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 24
+          }
+        ],
+        "W": [
+          {
+            "text": "terenzuola, vinge basse",
+            "answer_start": 0
+          },
+          {
+            "text": "(liguria, italy)",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "castell’in villa 2017 (tuscany, italy)",
+    "bbox": [
+      "576.96",
+      "271.93",
+      "690.78",
+      "281.93"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "castell’in villa",
+            "answer_start": 0
+          },
+          {
+            "text": "(tuscany, italy)",
+            "answer_start": 22
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "rosé champagne  90",
+    "bbox": [
+      "848.75",
+      "271.94",
+      "930.68",
+      "282.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "joseph perrier cuvée royale nv (champagne, france)",
+    "bbox": [
+      "812.05",
+      "285.51",
+      "971.34",
+      "295.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROSÉ",
+    "bbox": [
+      "106.18",
+      "294.87",
+      "154.87",
+      "306.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "vijariego blanco 56",
+    "bbox": [
+      "354.97",
+      "291.43",
+      "435.70",
+      "302.27"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "vijariego blanco",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "56",
+            "answer_start": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "sangiovese  54",
+    "bbox": [
+      "607.00",
+      "293.54",
+      "664.50",
+      "304.38"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "sangiovese",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "54",
+            "answer_start": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "cabernet franc kiwi cuvée  2020 (loire, france)    13",
+    "bbox": [
+      "47.48",
+      "310.34",
+      "234.52",
+      "321.34"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "cabernet franc kiwi cuvée",
+            "answer_start": 0
+          },
+          {
+            "text": "(loire, france)",
+            "answer_start": 32
+          }
+        ],
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "bodegas viñátigo  2019 (canary islands, spain)",
+    "bbox": [
+      "325.65",
+      "306.00",
+      "467.97",
+      "321.67"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 18
+          }
+        ],
+        "W": [
+          {
+            "text": "(canary islands, spain)",
+            "answer_start": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "tenuta mara, guiry, 2019 (emilia-romagna, italy)",
+    "bbox": [
+      "556.16",
+      "306.44",
+      "712.71",
+      "317.28"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "tenuta mara, guiry,",
+            "answer_start": 0
+          },
+          {
+            "text": "(emilia-romagna, italy)",
+            "answer_start": 25
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "blanc de blanc brut 49",
+    "bbox": [
+      "840.30",
+      "304.95",
+      "934.02",
+      "315.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "onabay vineyards 2017 (north fork, new york)",
+    "bbox": [
+      "815.26",
+      "318.77",
+      "958.73",
+      "328.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "provence blend  château peyrassol  2019 (provence, france)    16",
+    "bbox": [
+      "32.29",
+      "325.48",
+      "256.22",
+      "336.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "provence blend  château peyrassol",
+            "answer_start": 0
+          },
+          {
+            "text": "(provence, france)",
+            "answer_start": 40
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 35
+          }
+        ],
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 62
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "alb ariño  58",
+    "bbox": [
+      "370.10",
+      "328.35",
+      "423.52",
+      "346.94"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "alb ariño",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "58",
+            "answer_start": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "malbec  48",
+    "bbox": [
+      "616.86",
+      "330.45",
+      "663.07",
+      "341.29"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "malbec",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "48",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "bodegas la caña navia 2018 (galicia, spain)",
+    "bbox": [
+      "329.72",
+      "341.47",
+      "465.46",
+      "352.30"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "bodegas la caña navia",
+            "answer_start": 0
+          },
+          {
+            "text": "(galicia, spain)",
+            "answer_start": 27
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "traslapiedra, paraje altamira 2018 (mendoza, argentina)",
+    "bbox": [
+      "549.72",
+      "344.15",
+      "731.18",
+      "354.99"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "traslapiedra, paraje altamira",
+            "answer_start": 0
+          },
+          {
+            "text": "(mendoza, argentina)",
+            "answer_start": 35
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ch  ardonnay 68",
+    "bbox": [
+      "363.35",
+      "362.20",
+      "427.35",
+      "375.06"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ch  ardonnay",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "68",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "tempranillo  44",
+    "bbox": [
+      "603.07",
+      "364.30",
+      "669.53",
+      "375.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "tempranillo",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "44",
+            "answer_start": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ghostwriter 2018 (santa cruz, california)",
+    "bbox": [
+      "329.04",
+      "378.66",
+      "456.33",
+      "389.50"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 12
+          }
+        ],
+        "W": [
+          {
+            "text": "ghostwriter 20",
+            "answer_start": 0
+          },
+          {
+            "text": "(santa cruz, california)",
+            "answer_start": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "sierra de toloño 2019 (rioja, spain)",
+    "bbox": [
+      "549.73",
+      "378.47",
+      "696.26",
+      "389.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "sierra de toloño",
+            "answer_start": 0
+          },
+          {
+            "text": "(rioja, spain)",
+            "answer_start": 22
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "15",
+    "bbox": [
+      "872.44",
+      "389.57",
+      "892.65",
+      "400.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "chenin blanc  44",
+    "bbox": [
+      "358.89",
+      "400.39",
+      "429.24",
+      "411.23"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "chenin blanc",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "44",
+            "answer_start": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "cabernet sauvignon  68",
+    "bbox": [
+      "589.28",
+      "402.08",
+      "684.20",
+      "412.92"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "cabernet sauvignon",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "68",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "8",
+    "bbox": [
+      "141.34",
+      "405.38",
+      "147.17",
+      "416.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "blood orange hospitality",
+    "bbox": [
+      "825.66",
+      "406.23",
+      "945.55",
+      "417.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "husch vineyards 2019 (mendocino, california)",
+    "bbox": [
+      "325.67",
+      "412.73",
+      "469.24",
+      "423.57"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 16
+          }
+        ],
+        "W": [
+          {
+            "text": "husch vineyards",
+            "answer_start": 0
+          },
+          {
+            "text": "(mendocino, california)",
+            "answer_start": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "hardin 2019 (napa valley, california)",
+    "bbox": [
+      "552.77",
+      "414.74",
+      "700.49",
+      "425.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "hardin",
+            "answer_start": 0
+          },
+          {
+            "text": "(napa valley, california)",
+            "answer_start": 12
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ON TAP",
+    "bbox": [
+      "123.45",
+      "422.68",
+      "167.20",
+      "433.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "jalapeño-infused tequila, blood orange, agave, lime",
+    "bbox": [
+      "790.13",
+      "419.82",
+      "983.02",
+      "430.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "montauk pilsner  (montauk, ny)    5.4%",
+    "bbox": [
+      "36.40",
+      "438.03",
+      "235.26",
+      "449.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "grüner veltliner  54",
+    "bbox": [
+      "351.69",
+      "432.87",
+      "435.75",
+      "443.71"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "grüner veltliner",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "54",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "grenache  54",
+    "bbox": [
+      "610.82",
+      "434.97",
+      "661.98",
+      "445.81"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "enache  54",
+            "answer_start": 2
+          }
+        ],
+        "P": [
+          {
+            "text": "gr",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "luna viola",
+    "bbox": [
+      "864.51",
+      "439.00",
+      "910.08",
+      "450.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "s  ixpoint bengali ipa (brooklyn, ny)     6.6%",
+    "bbox": [
+      "51.78",
+      "454.55",
+      "236.51",
+      "466.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "tatomer, meeresboden 2018 (santa barbara, california)",
+    "bbox": [
+      "305.41",
+      "447.34",
+      "477.80",
+      "458.18"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 21
+          }
+        ],
+        "W": [
+          {
+            "text": "tatomer, meeresboden",
+            "answer_start": 0
+          },
+          {
+            "text": "(santa barbara, california)",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "pennrose 2018 (amador county, california)",
+    "bbox": [
+      "570.75",
+      "449.45",
+      "706.53",
+      "460.29"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "pennrose",
+            "answer_start": 0
+          },
+          {
+            "text": "(amador county, california)",
+            "answer_start": 14
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "e  m   p ress indigo gin, rosemary, lemon",
+    "bbox": [
+      "795.06",
+      "449.06",
+      "945.30",
+      "463.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "moon wind",
+    "bbox": [
+      "855.19",
+      "475.41",
+      "911.06",
+      "486.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BOTTLES/CANS",
+    "bbox": [
+      "108.55",
+      "491.63",
+      "191.94",
+      "502.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "cognac, lillet rouge, peach, laphroaig, lemon",
+    "bbox": [
+      "798.65",
+      "488.51",
+      "964.81",
+      "500.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "five boroughs hoppy lager  (brooklyn, ny)  6%",
+    "bbox": [
+      "40.40",
+      "508.10",
+      "245.67",
+      "519.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "sirena",
+    "bbox": [
+      "873.15",
+      "508.96",
+      "901.60",
+      "519.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "mezcal, coffee-infused cynar, luxardo",
+    "bbox": [
+      "803.00",
+      "520.01",
+      "949.93",
+      "531.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "dogfish head seaquench sour ale   (milton, de) 4.9%",
+    "bbox": [
+      "35.47",
+      "526.78",
+      "257.08",
+      "538.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "tidal wave",
+    "bbox": [
+      "848.80",
+      "539.45",
+      "909.84",
+      "550.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "allagash white   (portland, me)  5.1%",
+    "bbox": [
+      "21.71",
+      "545.40",
+      "230.55",
+      "557.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "HAPPY HOUR",
+    "bbox": [
+      "361.97",
+      "555.24",
+      "430.23",
+      "565.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BRUNCH",
+    "bbox": [
+      "610.01",
+      "555.23",
+      "655.04",
+      "565.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "rum, passionfruit, ginger, lemon",
+    "bbox": [
+      "835.20",
+      "553.20",
+      "947.06",
+      "564.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "austin eastciders original dry cider     (austin, tx) 5%",
+    "bbox": [
+      "3.59",
+      "566.12",
+      "265.33",
+      "578.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Every day    4:30 pm - 6:30 pm",
+    "bbox": [
+      "342.35",
+      "570.16",
+      "457.19",
+      "581.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Saturday and Sunday11:00 am - 2:30 pm",
+    "bbox": [
+      "551.97",
+      "570.16",
+      "720.97",
+      "581.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "frosé",
+    "bbox": [
+      "875.88",
+      "574.25",
+      "903.47",
+      "586.17"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "flagship metropolitan amber lager     (staten island, ny) 5.6%",
+    "bbox": [
+      "19.01",
+      "584.43",
+      "267.84",
+      "596.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "rosé, strawberry",
+    "bbox": [
+      "839.43",
+      "584.74",
+      "913.58",
+      "595.74"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

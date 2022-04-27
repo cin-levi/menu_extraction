@@ -1,0 +1,1069 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/21/22, 9:07 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menus | Joe Allen Restaurant | New York City",
+    "bbox": [
+      "270.94",
+      "15.70",
+      "432.20",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MAILING LIST",
+    "bbox": [
+      "441.42",
+      "39.69",
+      "517.99",
+      "50.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "493.06",
+      "65.00",
+      "561.50",
+      "83.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MENUS",
+    "bbox": [
+      "246.31",
+      "71.35",
+      "291.83",
+      "84.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ABOUT",
+    "bbox": [
+      "321.84",
+      "71.35",
+      "366.69",
+      "84.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CONTACT/HOURS",
+    "bbox": [
+      "177.10",
+      "110.35",
+      "287.61",
+      "123.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GIFT CEMRETNIFUICSATES",
+    "bbox": [
+      "317.62",
+      "109.25",
+      "435.88",
+      "134.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MSAHINOWD EINSFSOERT",
+    "bbox": [
+      "261.35",
+      "146.65",
+      "353.95",
+      "162.85"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BRUNCH",
+    "bbox": [
+      "367.46",
+      "146.65",
+      "415.86",
+      "158.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE",
+    "bbox": [
+      "431.61",
+      "146.65",
+      "460.40",
+      "158.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BEER",
+    "bbox": [
+      "476.15",
+      "146.65",
+      "504.65",
+      "158.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(DOWNLOAD PDF)",
+    "bbox": [
+      "340.00",
+      "162.69",
+      "425.99",
+      "173.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HOUSE",
+    "bbox": [
+      "345.70",
+      "213.49",
+      "404.56",
+      "230.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PINOT GRIGIO",
+    "bbox": [
+      "189.50",
+      "238.15",
+      "268.72",
+      "250.15"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "PINOT GRIGIO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/4 LITER 14, 1/2 LITER 24, FULL LITER 44",
+    "bbox": [
+      "335.13",
+      "238.15",
+      "560.74",
+      "250.15"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "1/4 LITER 14, 1/2 LITER 24, FULL LITER 44",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ai galli, italy, 2018",
+    "bbox": [
+      "189.50",
+      "250.90",
+      "280.53",
+      "262.90"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "ai galli, italy, 20",
+            "answer_start": 0
+          },
+          {
+            "text": "2018",
+            "answer_start": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PRIMITIVO",
+    "bbox": [
+      "189.50",
+      "270.40",
+      "248.96",
+      "282.40"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "PRIMITIVO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/4 LITER 14, 1/2 LITER 24, FULL LITER 44",
+    "bbox": [
+      "335.13",
+      "270.40",
+      "560.74",
+      "282.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "1/4 LITER 14, 1/2 LITER 24, FULL LITER 44",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "le sciare, italy, 2017",
+    "bbox": [
+      "189.50",
+      "283.15",
+      "290.04",
+      "295.15"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "le sciare, italy,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPARKLING",
+    "bbox": [
+      "328.91",
+      "310.24",
+      "421.35",
+      "327.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PROSECCO",
+    "bbox": [
+      "189.50",
+      "334.90",
+      "253.75",
+      "346.90"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "PROSECCO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GLASS 13, BOTTLE 48",
+    "bbox": [
+      "440.43",
+      "334.90",
+      "560.75",
+      "346.90"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "GLASS 13, BOTTLE 48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "drusian valdobbiadene, italy, n.v.",
+    "bbox": [
+      "189.50",
+      "347.65",
+      "358.28",
+      "359.65"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "drusian valdobbiadene, italy,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "n.v.",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BRUT CHAMPAGNE",
+    "bbox": [
+      "189.50",
+      "367.15",
+      "298.70",
+      "379.15"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BRUT CHAMPAGNE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HALF 48, FULL 94",
+    "bbox": [
+      "461.26",
+      "367.15",
+      "560.75",
+      "379.15"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "HALF 48, FULL 94",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "laurent-perrier, france, n.v.",
+    "bbox": [
+      "189.50",
+      "379.90",
+      "324.57",
+      "391.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "laurent-perrier, france,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "n.v.",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE",
+    "bbox": [
+      "348.49",
+      "406.99",
+      "401.76",
+      "424.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FALANGHINA",
+    "bbox": [
+      "189.50",
+      "431.65",
+      "264.93",
+      "443.65"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FALANGHINA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/4 LITER 16, BOTTLE 47",
+    "bbox": [
+      "428.06",
+      "431.65",
+      "560.74",
+      "443.65"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "1/4 LITER 16, BOTTLE 47",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "la rivolta, Italy, 2019",
+    "bbox": [
+      "189.50",
+      "444.40",
+      "291.46",
+      "456.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "la rivolta, Italy,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "189.50",
+      "463.90",
+      "273.68",
+      "475.90"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/4 LITER 16, BOTTLE 47",
+    "bbox": [
+      "428.06",
+      "463.90",
+      "560.74",
+      "475.90"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "1/4 LITER 16, BOTTLE 47",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "joey tensley, california, 2018",
+    "bbox": [
+      "189.50",
+      "476.65",
+      "336.60",
+      "488.65"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "joey tensley, california,",
+            "answer_start": 0
+          },
+          {
+            "text": "2018",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RIESLING",
+    "bbox": [
+      "189.50",
+      "496.15",
+      "241.65",
+      "508.15"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RIESLING",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "44",
+    "bbox": [
+      "546.42",
+      "496.15",
+      "560.75",
+      "508.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "standing stone, new york, 2020",
+    "bbox": [
+      "189.50",
+      "508.90",
+      "355.65",
+      "520.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "standing stone, new york,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "189.50",
+      "528.40",
+      "302.90",
+      "540.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/4 LITER 17, BOTTLE 50",
+    "bbox": [
+      "428.91",
+      "528.40",
+      "560.75",
+      "540.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "1/4 LITER 17, BOTTLE 50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "domaine du salvard, france, 2018",
+    "bbox": [
+      "189.50",
+      "541.15",
+      "362.78",
+      "553.15"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "domaine du salvard, france,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PINOT BIANCO",
+    "bbox": [
+      "189.50",
+      "560.65",
+      "273.60",
+      "572.65"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT BIANCO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "52",
+    "bbox": [
+      "546.25",
+      "560.65",
+      "560.75",
+      "572.65"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "52",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "girl, alto adige, 2020",
+    "bbox": [
+      "189.50",
+      "573.40",
+      "298.26",
+      "585.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "girl, alto adige, 2",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "189.50",
+      "592.90",
+      "273.68",
+      "604.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "82",
+    "bbox": [
+      "546.28",
+      "592.90",
+      "560.75",
+      "604.90"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "82",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "zd, california, 2019",
+    "bbox": [
+      "189.50",
+      "605.65",
+      "286.86",
+      "617.65"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "zd, california, 20",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSÉ",
+    "bbox": [
+      "352.78",
+      "632.74",
+      "397.47",
+      "649.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MERLOT-SANGIOVESE",
+    "bbox": [
+      "189.50",
+      "657.40",
+      "313.48",
+      "669.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MERLOT-SANGIOVESE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/4 LITER 16, BOTTLE 47",
+    "bbox": [
+      "428.06",
+      "657.40",
+      "560.74",
+      "669.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "1/4 LITER 16, BOTTLE 47",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "le palaie, italy, 2019",
+    "bbox": [
+      "189.50",
+      "670.15",
+      "291.36",
+      "682.15"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "le palaie, italy, 2019",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RED",
+    "bbox": [
+      "358.36",
+      "697.24",
+      "391.89",
+      "714.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MONTEPULCIANO D'ABRUZZO",
+    "bbox": [
+      "189.50",
+      "721.90",
+      "360.57",
+      "733.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MONTEPULCIANO D'ABRUZZO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/4 LITER 16, BOTTLE 47",
+    "bbox": [
+      "428.06",
+      "721.90",
+      "560.74",
+      "733.90"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "1/4 LITER 16, BOTTLE 47",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "JOE ALLEN • 326 W 46TH STREET • /NEW YORK, NY 10036  •",
+    "bbox": [
+      "36.50",
+      "739.74",
+      "282.75",
+      "748.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "©2022 JOE ALLEN RESTAURANT | WEBSITE DESIGN BY",
+    "bbox": [
+      "352.81",
+      "739.74",
+      "576.50",
+      "748.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GET MAP  •  (212) 581-6464",
+    "bbox": [
+      "36.50",
+      "748.74",
+      "147.63",
+      "757.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ORPHMEDIA | JOE ALLEN RESTAURANTS | ACCESSIBILITY",
+    "bbox": [
+      "343.73",
+      "748.74",
+      "576.50",
+      "757.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://joeallenrestaurant.com/menus/wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "176.31",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/1",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

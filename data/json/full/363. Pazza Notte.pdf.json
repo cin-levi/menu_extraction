@@ -1,0 +1,2472 @@
+[
+  {
+    "page_number": 1,
+    "text": "HOME (/#HOME-1-SECTION) RESERVATIONS (/#RESERVATIONS-1-SECTION)",
+    "bbox": [
+      "56.38",
+      "70.00",
+      "553.11",
+      "83.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MENU HAPPY HOUR (/HAPPY-HOUR) CONTACT US (/CONTACT)",
+    "bbox": [
+      "86.92",
+      "96.25",
+      "522.57",
+      "109.29"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "APP (HTTPS://ITUNES.APPLE.COM/US/APP/PAZZA-NOTTE/ID684038905?MT=8)",
+    "bbox": [
+      "52.84",
+      "122.50",
+      "556.66",
+      "133.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "D",
+    "bbox": [
+      "223.41",
+      "298.00",
+      "245.33",
+      "352.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "r",
+    "bbox": [
+      "252.83",
+      "298.00",
+      "274.60",
+      "352.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "in",
+    "bbox": [
+      "282.10",
+      "298.00",
+      "323.02",
+      "352.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "k",
+    "bbox": [
+      "330.52",
+      "298.00",
+      "352.88",
+      "352.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "s",
+    "bbox": [
+      "360.00",
+      "298.00",
+      "380.09",
+      "352.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINES BY THE GLASS",
+    "bbox": [
+      "230.49",
+      "588.25",
+      "378.27",
+      "598.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$12",
+    "bbox": [
+      "295.53",
+      "616.00",
+      "315.16",
+      "627.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$12",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cabernet Sauvignon - 14 Hands, Washington",
+    "bbox": [
+      "167.97",
+      "668.12",
+      "442.73",
+      "680.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon - 14 Hands, Washington",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pinot Noir - Mark West, California",
+    "bbox": [
+      "202.81",
+      "705.62",
+      "407.89",
+      "718.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir - Mark West, California",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chianti - Da Vinci, Tuscany Italy",
+    "bbox": [
+      "208.48",
+      "743.12",
+      "402.22",
+      "755.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chianti - Da Vinci, Tuscany Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Malbec - Domaine Bousquet, Mendoza,Argentina",
+    "bbox": [
+      "154.27",
+      "14.87",
+      "456.43",
+      "27.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Malbec - Domaine Bousquet, Mendoza,Argentina",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cotes du Rhone Domaine Montvac- France",
+    "bbox": [
+      "173.69",
+      "52.37",
+      "437.00",
+      "64.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cotes du Rhone Domaine Montvac- France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Amarone - Palazzo della Torre, Italy",
+    "bbox": [
+      "195.51",
+      "89.87",
+      "415.19",
+      "102.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Amarone - Palazzo della Torre, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rose - Prophecy, France",
+    "bbox": [
+      "231.07",
+      "127.37",
+      "379.64",
+      "139.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rose - Prophecy, France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chardonnay - France",
+    "bbox": [
+      "240.93",
+      "164.12",
+      "369.77",
+      "176.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay - France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sauvignon Blanc - France",
+    "bbox": [
+      "226.42",
+      "201.62",
+      "384.29",
+      "214.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc - France",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pinot Grigio - Alverdi, Italy",
+    "bbox": [
+      "224.50",
+      "239.12",
+      "386.19",
+      "251.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Grigio - Alverdi, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Prosecco -Stellina di Notte, Italy",
+    "bbox": [
+      "205.30",
+      "276.62",
+      "405.40",
+      "289.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Prosecco -Stellina di Notte, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "12-5pm ‘Happy Hour’ 2 Glasses of Wine",
+    "bbox": [
+      "182.07",
+      "314.12",
+      "426.37",
+      "326.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "12-5pm ‘Happy Hour’ 2 Glasses of Wine",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$14",
+    "bbox": [
+      "295.89",
+      "334.75",
+      "314.82",
+      "346.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIANCO",
+    "bbox": [
+      "278.71",
+      "433.00",
+      "330.03",
+      "443.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2019 Alverdi Pinot Grigio Molise IT",
+    "bbox": [
+      "200.05",
+      "480.62",
+      "410.64",
+      "493.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "2019 Alverdi Pinot Grigio Molise IT",
+            "answer_start": 0
+          },
+          {
+            "text": "2019",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Melon White Peach Magnolia Blossom",
+    "bbox": [
+      "199.09",
+      "499.75",
+      "411.62",
+      "511.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Melon White Peach Magnolia Blossom",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$44",
+    "bbox": [
+      "295.28",
+      "520.00",
+      "315.43",
+      "531.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$44",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2018 Rose Prophecy FR",
+    "bbox": [
+      "233.48",
+      "560.87",
+      "377.22",
+      "573.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "2018 Rose Prophecy FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "White Peach Delicate Strawberry",
+    "bbox": [
+      "213.74",
+      "580.00",
+      "396.96",
+      "591.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "White Peach Delicate Strawberry",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$46",
+    "bbox": [
+      "295.01",
+      "600.25",
+      "315.70",
+      "611.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$46",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2019 Stellina di Notte PINOT GRIGIO IT 50",
+    "bbox": [
+      "177.20",
+      "641.87",
+      "433.51",
+      "654.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Stellina di Notte PINOT GRIGIO IT 50",
+            "answer_start": 5
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Silky Melon Kiwi Balanced",
+    "bbox": [
+      "232.81",
+      "660.25",
+      "377.89",
+      "671.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Silky Melon Kiwi Balanced",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$50",
+    "bbox": [
+      "295.02",
+      "680.50",
+      "315.68",
+      "691.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2019 Seleni Estate SAUVIGNON BLANC NZ",
+    "bbox": [
+      "174.94",
+      "722.12",
+      "435.75",
+      "734.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Seleni Estate SAUVIGNON BLANC NZ",
+            "answer_start": 5
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tropical Fruit Citrus Lush",
+    "bbox": [
+      "236.58",
+      "741.25",
+      "374.12",
+      "752.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tropical Fruit Citrus Lush",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$42",
+    "bbox": [
+      "295.41",
+      "761.50",
+      "315.30",
+      "772.75"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$42",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2017 Storypoint CHARDONNAY CA",
+    "bbox": [
+      "200.14",
+      "37.37",
+      "410.55",
+      "49.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Storypoint CHARDONNAY CA",
+            "answer_start": 5
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Butter Oaky Big Citrus",
+    "bbox": [
+      "244.23",
+      "56.50",
+      "366.45",
+      "67.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Butter Oaky Big Citrus",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$44",
+    "bbox": [
+      "295.28",
+      "76.75",
+      "315.43",
+      "88.00"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$44",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2018 Terrunyo SAUVIGNON BLANC CHI",
+    "bbox": [
+      "185.82",
+      "118.37",
+      "424.88",
+      "130.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Terrunyo SAUVIGNON BLANC CHI",
+            "answer_start": 5
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Herbs Grapefruit Crisp Ripe",
+    "bbox": [
+      "229.64",
+      "136.75",
+      "381.06",
+      "148.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Herbs Grapefruit Crisp Ripe",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$50",
+    "bbox": [
+      "295.02",
+      "157.00",
+      "315.68",
+      "168.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$50",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2018 Bex RIESLING GR",
+    "bbox": [
+      "236.30",
+      "198.62",
+      "374.40",
+      "211.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "2018 Bex RIESLING GR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Lemon Cream Honey Suckle Tangerine",
+    "bbox": [
+      "197.68",
+      "217.75",
+      "413.02",
+      "229.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Lemon Cream Honey Suckle Tangerine",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$46",
+    "bbox": [
+      "295.01",
+      "238.00",
+      "315.70",
+      "249.25"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$46",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2019 Angeline CHARDONNAY Martin Ray CA",
+    "bbox": [
+      "170.25",
+      "278.87",
+      "440.45",
+      "291.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Angeline CHARDONNAY Martin Ray CA",
+            "answer_start": 5
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Toasty Oak Vanilla Ripe Peach Bright",
+    "bbox": [
+      "203.96",
+      "298.00",
+      "406.74",
+      "309.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Toasty Oak Vanilla Ripe Peach Bright",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$48",
+    "bbox": [
+      "295.06",
+      "318.25",
+      "315.65",
+      "329.50"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$48",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "BUBBLES",
+    "bbox": [
+      "273.60",
+      "416.50",
+      "335.14",
+      "427.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2017 Stellina di Notte PROSECCO Veneto IT",
+    "bbox": [
+      "172.08",
+      "464.12",
+      "438.61",
+      "476.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Fragrant Fine Bubbles Floral Fresh",
+    "bbox": [
+      "210.04",
+      "483.25",
+      "400.67",
+      "494.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$46",
+    "bbox": [
+      "295.01",
+      "503.50",
+      "315.70",
+      "514.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "NV Destello CAVA Penedes SP",
+    "bbox": [
+      "212.42",
+      "544.37",
+      "398.28",
+      "556.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Floral Sparkling Zesty Citrus",
+    "bbox": [
+      "227.15",
+      "563.50",
+      "383.55",
+      "574.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$42",
+    "bbox": [
+      "295.41",
+      "583.75",
+      "315.30",
+      "595.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "2019 Bricco del Sole MOSCATO D’ASTI IT",
+    "bbox": [
+      "180.93",
+      "625.37",
+      "429.78",
+      "637.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$42",
+    "bbox": [
+      "295.41",
+      "646.00",
+      "315.30",
+      "657.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "~ ROSSO ~",
+    "bbox": [
+      "269.25",
+      "25.75",
+      "339.50",
+      "36.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2018 Da Vinci CHIANTI Tuscany IT",
+    "bbox": [
+      "201.51",
+      "76.37",
+      "409.19",
+      "88.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Fresh Ripe Fruit Strawberry Plum",
+    "bbox": [
+      "214.33",
+      "94.75",
+      "396.37",
+      "106.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$44",
+    "bbox": [
+      "295.28",
+      "115.00",
+      "315.43",
+      "126.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2017 Brooks PINOT NOIR Willamette Valley OR",
+    "bbox": [
+      "161.23",
+      "156.62",
+      "449.47",
+      "169.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Ripe Red Fruits Ground Spices Fresh Herbs",
+    "bbox": [
+      "186.91",
+      "175.75",
+      "423.78",
+      "187.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$53",
+    "bbox": [
+      "295.43",
+      "196.00",
+      "315.26",
+      "207.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2017 La Palazzetta SANGIOVESE Di Montalcino IT",
+    "bbox": [
+      "154.27",
+      "236.87",
+      "456.44",
+      "249.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Ruby-Red Vanilla Blackberries Well Balanced",
+    "bbox": [
+      "179.62",
+      "256.00",
+      "431.08",
+      "267.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$53",
+    "bbox": [
+      "295.43",
+      "276.25",
+      "315.26",
+      "287.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2018 Mark West PINOT NOIR North Coast CA",
+    "bbox": [
+      "168.87",
+      "317.12",
+      "441.84",
+      "329.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cassis Medium Body Oak Spice",
+    "bbox": [
+      "218.82",
+      "336.25",
+      "391.89",
+      "347.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$44",
+    "bbox": [
+      "295.28",
+      "356.50",
+      "315.43",
+      "367.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2016 Montori MONTEPULCIANO d’Abruzzo IT",
+    "bbox": [
+      "168.40",
+      "398.12",
+      "442.31",
+      "410.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Soft Cassis Fresh Fruity Full-Body",
+    "bbox": [
+      "212.59",
+      "417.25",
+      "398.12",
+      "428.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$44",
+    "bbox": [
+      "295.28",
+      "437.50",
+      "315.43",
+      "448.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2018 Gnarly Head 1924 CABERNET CA",
+    "bbox": [
+      "189.16",
+      "478.37",
+      "421.55",
+      "490.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Dark Berries Vanilla Mocha",
+    "bbox": [
+      "231.21",
+      "497.50",
+      "379.47",
+      "508.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$44",
+    "bbox": [
+      "295.28",
+      "517.75",
+      "315.43",
+      "529.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2019 Domaine Montvac, COTES du RHONE FR",
+    "bbox": [
+      "165.87",
+      "558.62",
+      "444.82",
+      "571.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Plummy Earthy Fruity Fine Tanins",
+    "bbox": [
+      "213.53",
+      "577.75",
+      "397.16",
+      "589.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$44",
+    "bbox": [
+      "295.28",
+      "598.00",
+      "315.43",
+      "609.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2018 Domaine Bousquet MALBEC Mendoza ARG",
+    "bbox": [
+      "157.87",
+      "639.62",
+      "452.83",
+      "652.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Organic Fig Raspberry Pleasant Tannins Jammy",
+    "bbox": [
+      "174.31",
+      "658.00",
+      "436.40",
+      "669.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$44",
+    "bbox": [
+      "295.28",
+      "678.25",
+      "315.43",
+      "689.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2017 14 Hands CABERNET SAUVIGNON WA",
+    "bbox": [
+      "173.68",
+      "719.87",
+      "437.02",
+      "732.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Blueberry Stewed Cherry Velvety",
+    "bbox": [
+      "213.41",
+      "739.00",
+      "397.28",
+      "750.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$44",
+    "bbox": [
+      "295.28",
+      "759.25",
+      "315.43",
+      "770.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "2017 Familia Mayol MALBEC Mendoza ARG",
+    "bbox": [
+      "174.72",
+      "35.13",
+      "435.97",
+      "47.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Blackberry Sweet Tannins Oak Violets",
+    "bbox": [
+      "200.89",
+      "54.25",
+      "409.80",
+      "65.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$48",
+    "bbox": [
+      "295.06",
+      "74.50",
+      "315.65",
+      "85.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "2016 Palazzo Della Torre AMARONE Verona IT",
+    "bbox": [
+      "165.14",
+      "116.13",
+      "445.55",
+      "128.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Red Berries Raisins Plums Dense",
+    "bbox": [
+      "214.81",
+      "134.50",
+      "395.89",
+      "145.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$52",
+    "bbox": [
+      "295.47",
+      "154.75",
+      "315.24",
+      "166.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "~ MARTINIS ~",
+    "bbox": [
+      "72.27",
+      "234.25",
+      "163.48",
+      "244.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "~ BEERS ~",
+    "bbox": [
+      "270.45",
+      "234.25",
+      "338.27",
+      "244.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "~COZY COCKTAILS~",
+    "bbox": [
+      "424.07",
+      "234.25",
+      "557.64",
+      "244.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "2 FOR 1 | EVERYDAY 12PM -",
+    "bbox": [
+      "54.33",
+      "248.69",
+      "183.35",
+      "258.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CLOSE | BUONISSIMO!",
+    "bbox": [
+      "65.85",
+      "262.19",
+      "171.83",
+      "271.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Peroni",
+    "bbox": [
+      "285.67",
+      "281.13",
+      "325.00",
+      "293.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cozy Cocktails to keep",
+    "bbox": [
+      "421.69",
+      "281.13",
+      "561.97",
+      "293.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "you warm and toasty",
+    "bbox": [
+      "427.27",
+      "296.13",
+      "556.39",
+      "308.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$18 the pair",
+    "bbox": [
+      "86.38",
+      "308.50",
+      "151.31",
+      "319.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Stella Artois",
+    "bbox": [
+      "267.54",
+      "318.63",
+      "343.12",
+      "331.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Hot Spiced Wine",
+    "bbox": [
+      "437.91",
+      "333.63",
+      "543.49",
+      "346.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "All About Eve",
+    "bbox": [
+      "77.32",
+      "350.13",
+      "160.36",
+      "362.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Red Wine, Cloves,",
+    "bbox": [
+      "439.96",
+      "352.75",
+      "543.71",
+      "364.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Heineken",
+    "bbox": [
+      "276.27",
+      "356.13",
+      "334.40",
+      "368.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Gin, Cucumber, Muddled",
+    "bbox": [
+      "50.82",
+      "368.50",
+      "186.87",
+      "379.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cinnamon, Star Anise",
+    "bbox": [
+      "433.18",
+      "367.00",
+      "550.48",
+      "378.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Mint, Fresh Lemon & Cane",
+    "bbox": [
+      "46.73",
+      "383.50",
+      "190.97",
+      "394.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Corona",
+    "bbox": [
+      "283.21",
+      "393.63",
+      "327.46",
+      "406.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sugar",
+    "bbox": [
+      "102.78",
+      "397.75",
+      "134.93",
+      "409.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "White Hot Russian",
+    "bbox": [
+      "435.10",
+      "404.13",
+      "548.57",
+      "416.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Kahlua, Vodka, Fresh Cream,",
+    "bbox": [
+      "413.51",
+      "423.25",
+      "570.14",
+      "434.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Blue Moon",
+    "bbox": [
+      "272.42",
+      "431.13",
+      "338.25",
+      "443.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Harvest Moon",
+    "bbox": [
+      "76.25",
+      "434.88",
+      "161.44",
+      "447.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Hot Coffee",
+    "bbox": [
+      "462.04",
+      "437.50",
+      "521.62",
+      "448.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Fresh Apple & Pear, Vodka,",
+    "bbox": [
+      "45.19",
+      "454.00",
+      "192.51",
+      "465.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pineapple & Apple Schnapps",
+    "bbox": [
+      "38.70",
+      "468.25",
+      "199.00",
+      "479.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Budweiser",
+    "bbox": [
+      "272.63",
+      "467.88",
+      "338.06",
+      "480.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Classic Hot Toddy",
+    "bbox": [
+      "436.55",
+      "474.63",
+      "547.11",
+      "487.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bourbon, Lemon, Hot",
+    "bbox": [
+      "433.27",
+      "493.00",
+      "550.38",
+      "504.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Jujubee",
+    "bbox": [
+      "94.35",
+      "505.38",
+      "143.33",
+      "517.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sierra Nevada",
+    "bbox": [
+      "261.96",
+      "505.38",
+      "348.71",
+      "517.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Honeyed Water, Cinnamon",
+    "bbox": [
+      "418.46",
+      "508.00",
+      "565.20",
+      "519.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Fresh Ginger Syrup, Pear",
+    "bbox": [
+      "50.76",
+      "524.50",
+      "186.94",
+      "535.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Purée & Vodka",
+    "bbox": [
+      "78.37",
+      "538.75",
+      "159.33",
+      "550.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Coors Light",
+    "bbox": [
+      "269.96",
+      "542.88",
+      "340.71",
+      "555.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Kingston Town",
+    "bbox": [
+      "73.54",
+      "575.88",
+      "164.15",
+      "588.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Brooklyn Lager",
+    "bbox": [
+      "258.26",
+      "580.38",
+      "352.42",
+      "592.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pomegranate Juice, Ginger",
+    "bbox": [
+      "44.24",
+      "594.25",
+      "193.44",
+      "605.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "~SANGRIA DI CASA~",
+    "bbox": [
+      "422.69",
+      "601.75",
+      "559.02",
+      "612.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Simple Syrup, Triple Sec &",
+    "bbox": [
+      "46.07",
+      "609.25",
+      "191.62",
+      "620.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Amstel Light",
+    "bbox": [
+      "266.03",
+      "617.88",
+      "344.65",
+      "630.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$12",
+    "bbox": [
+      "479.96",
+      "616.75",
+      "501.76",
+      "627.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Vodka",
+    "bbox": [
+      "101.75",
+      "623.50",
+      "135.94",
+      "634.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Lagunitas IPA",
+    "bbox": [
+      "263.38",
+      "654.63",
+      "347.30",
+      "667.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "The Sicilian",
+    "bbox": [
+      "83.17",
+      "660.63",
+      "154.52",
+      "673.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sangria Rosso",
+    "bbox": [
+      "448.41",
+      "664.38",
+      "535.24",
+      "676.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Blood Orange, Vodka, Fresh",
+    "bbox": [
+      "42.38",
+      "679.75",
+      "195.32",
+      "691.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cabernet Sauvingon, Brandy,",
+    "bbox": [
+      "412.07",
+      "682.75",
+      "571.59",
+      "694.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "lemon & Triple Sec",
+    "bbox": [
+      "66.74",
+      "694.00",
+      "170.95",
+      "705.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Triple Sec, Fresh OJ &",
+    "bbox": [
+      "432.10",
+      "697.75",
+      "551.56",
+      "709.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Marinated Fresh Fruit",
+    "bbox": [
+      "433.23",
+      "712.00",
+      "550.42",
+      "723.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Red Lantern",
+    "bbox": [
+      "81.10",
+      "731.13",
+      "156.59",
+      "743.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sangria Bianco",
+    "bbox": [
+      "445.60",
+      "749.13",
+      "538.06",
+      "761.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Vodka, Cane Sugar, Fresh",
+    "bbox": [
+      "49.35",
+      "12.25",
+      "188.34",
+      "23.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sauvingon Blanc, Brandy,",
+    "bbox": [
+      "422.01",
+      "12.25",
+      "561.66",
+      "23.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Lychee Puree, Vodka &",
+    "bbox": [
+      "55.67",
+      "27.25",
+      "182.03",
+      "38.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Triple Sec, Fresh OJ &",
+    "bbox": [
+      "432.10",
+      "27.25",
+      "551.56",
+      "38.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Triple Sec",
+    "bbox": [
+      "91.43",
+      "41.50",
+      "146.25",
+      "52.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Marinated Fresh Fruit",
+    "bbox": [
+      "433.23",
+      "41.50",
+      "550.42",
+      "52.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Castaway",
+    "bbox": [
+      "89.22",
+      "78.63",
+      "148.48",
+      "91.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Fresh Mango Puree, Vodka,",
+    "bbox": [
+      "43.96",
+      "97.00",
+      "193.72",
+      "108.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pineapple Juice & Lime",
+    "bbox": [
+      "54.21",
+      "112.00",
+      "183.47",
+      "123.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pappilon",
+    "bbox": [
+      "91.56",
+      "148.38",
+      "146.13",
+      "160.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Passion Fruit, Peach, Triple",
+    "bbox": [
+      "45.24",
+      "167.50",
+      "192.46",
+      "178.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sec, Vodka & Cane Sugar",
+    "bbox": [
+      "49.40",
+      "182.50",
+      "188.29",
+      "193.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Southern Belle",
+    "bbox": [
+      "72.57",
+      "218.88",
+      "165.14",
+      "231.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Peach Schnapps, Grenadine,",
+    "bbox": [
+      "40.28",
+      "238.00",
+      "197.42",
+      "249.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Orange Infused Vodka",
+    "bbox": [
+      "57.50",
+      "252.25",
+      "180.21",
+      "263.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "COPACABANA",
+    "bbox": [
+      "75.62",
+      "289.38",
+      "162.07",
+      "301.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Coconut Infused Vodka,",
+    "bbox": [
+      "53.15",
+      "308.50",
+      "184.54",
+      "319.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pineapple Juice, Fresh Lime",
+    "bbox": [
+      "41.69",
+      "322.75",
+      "196.01",
+      "334.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "PAZZA NOTTE, 1375 AVENUE OF THE AMERICAS, NEW YORK, NY 10019,",
+    "bbox": [
+      "131.75",
+      "541.00",
+      "478.50",
+      "550.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "USA(212) 765-6288PARTY@PAZZANOTTE.COM (MAILTO:PARTY@PAZZANOTTE.COM)",
+    "bbox": [
+      "94.35",
+      "559.00",
+      "515.91",
+      "568.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Copyright © 2014 Pazza Notte Restaurant & Lounge | All Rights Reserved|Designed by",
+    "bbox": [
+      "78.00",
+      "589.56",
+      "529.71",
+      "600.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "(http://www.cloudbreak.nyc)Cloud Break Partners, LLC. (http://www.cloudbreak.nyc)",
+    "bbox": [
+      "82.15",
+      "607.56",
+      "528.55",
+      "618.25"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

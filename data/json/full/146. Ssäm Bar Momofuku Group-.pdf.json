@@ -1,0 +1,5288 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/17/22, 9:28 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Wine | Ssäm Bar",
+    "bbox": [
+      "321.64",
+      "15.70",
+      "381.51",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "NEW YORK",
+    "bbox": [
+      "134.48",
+      "55.41",
+      "177.88",
+      "64.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "514.25",
+      "96.69",
+      "560.00",
+      "111.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "W",
+    "bbox": [
+      "50.00",
+      "130.81",
+      "71.58",
+      "153.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "INE",
+    "bbox": [
+      "71.58",
+      "130.81",
+      "108.66",
+      "153.31"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BAR & PATIO",
+    "bbox": [
+      "58.25",
+      "182.95",
+      "123.14",
+      "191.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "THE DINING ROOM – A LA CARTE",
+    "bbox": [
+      "58.25",
+      "207.70",
+      "226.69",
+      "216.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "THE DINING ROOM – SSÄM SET",
+    "bbox": [
+      "58.25",
+      "232.45",
+      "216.58",
+      "241.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPIRITS",
+    "bbox": [
+      "58.25",
+      "257.20",
+      "95.06",
+      "266.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE",
+    "bbox": [
+      "60.50",
+      "281.95",
+      "85.13",
+      "290.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "COCKTAILS + BEER",
+    "bbox": [
+      "58.25",
+      "306.70",
+      "151.58",
+      "315.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "4.14.22",
+    "bbox": [
+      "533.23",
+      "522.39",
+      "565.25",
+      "532.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINES BY THE GLASS",
+    "bbox": [
+      "47.75",
+      "549.39",
+      "148.65",
+      "559.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sparkling",
+    "bbox": [
+      "47.75",
+      "576.39",
+      "94.49",
+      "586.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Christophe Mittnacht Crémant Extra Brut Alsace, FR NV  15 /60",
+    "bbox": [
+      "47.75",
+      "593.64",
+      "344.74",
+      "603.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Christophe Mittnacht Crémant Extra Brut Alsace, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 51
+          }
+        ],
+        "P": [
+          {
+            "text": "15 /60",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Roger Coulon Hérie-Hodie 1er Cru Champagne, FR NV  25 / 100",
+    "bbox": [
+      "47.75",
+      "610.89",
+      "343.92",
+      "620.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Roger Coulon Hérie-Hodie 1er Cru Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 47
+          }
+        ],
+        "P": [
+          {
+            "text": "25 / 100",
+            "answer_start": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "White",
+    "bbox": [
+      "47.75",
+      "637.89",
+      "77.28",
+      "647.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Gruner Veltliner Ott Am Berg Wagram, AT 2020  15 / 60",
+    "bbox": [
+      "47.75",
+      "655.14",
+      "306.75",
+      "664.97"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Gruner Veltliner Ott Am Berg Wagram, AT",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 40
+          }
+        ],
+        "P": [
+          {
+            "text": "15 / 60",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chenin Blanc Bosman Generation 8 Wellington, SA 2020   14 / 56",
+    "bbox": [
+      "47.75",
+      "672.39",
+      "352.61",
+      "682.22"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chenin Blanc Bosman Generation 8 Wellington, SA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 48
+          }
+        ],
+        "P": [
+          {
+            "text": "14 / 56",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chardonnay Bodega Chacra Mainqué Patagonia, AR 2017  18 / 72",
+    "bbox": [
+      "47.75",
+      "689.64",
+      "349.79",
+      "699.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay Bodega Chacra Mainqué Patagonia, AR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 47
+          }
+        ],
+        "P": [
+          {
+            "text": "18 / 72",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rosé",
+    "bbox": [
+      "47.75",
+      "716.64",
+      "72.46",
+      "726.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Grenache Stolpman Love You Bunches Santa Barbara, CA 2021  15 / 60",
+    "bbox": [
+      "47.75",
+      "733.89",
+      "378.64",
+      "743.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grenache Stolpman Love You Bunches Santa Barbara, CA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2021",
+            "answer_start": 53
+          }
+        ],
+        "P": [
+          {
+            "text": "15 / 60",
+            "answer_start": 59
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sparkling Zucchi Lambrusco di Sorbara Emilia-Romagna IT NV  14 / 56",
+    "bbox": [
+      "47.75",
+      "751.14",
+      "373.78",
+      "760.97"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sparkling Zucchi Lambrusco di Sorbara Emilia-Romagna IT",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 56
+          }
+        ],
+        "P": [
+          {
+            "text": "14 / 56",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://ssambar.momofuku.com/menu/wine/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "180.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/17/22, 9:28 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Wine | Ssäm Bar",
+    "bbox": [
+      "321.64",
+      "15.70",
+      "381.51",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Red",
+    "bbox": [
+      "47.75",
+      "33.40",
+      "68.31",
+      "43.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pinot Noir Jean Etienne Chermette Champs Beaujolais, FR 2019  14 / 56",
+    "bbox": [
+      "47.75",
+      "50.65",
+      "383.11",
+      "60.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir Jean Etienne Chermette Champs Beaujolais, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 56
+          }
+        ],
+        "P": [
+          {
+            "text": "14 / 56",
+            "answer_start": 62
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Grenache Anne Pichon Sauvage Ventoux, FR 2020 16 / 64",
+    "bbox": [
+      "47.75",
+      "67.90",
+      "319.39",
+      "77.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grenache Anne Pichon Sauvage Ventoux, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 41
+          }
+        ],
+        "P": [
+          {
+            "text": "16 / 64",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sangiovese Sasso di Sole Brunello Montalcino, IT 2019  20 / 80",
+    "bbox": [
+      "47.75",
+      "85.15",
+      "340.86",
+      "94.97"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sangiovese Sasso di Sole Brunello Montalcino, IT",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 49
+          }
+        ],
+        "P": [
+          {
+            "text": "20 / 80",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Skin Contact",
+    "bbox": [
+      "47.75",
+      "112.15",
+      "109.87",
+      "121.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Grecanico + Insolio COS Rami Bianco Sicily, IT 2020  18 / 72",
+    "bbox": [
+      "47.75",
+      "129.40",
+      "324.21",
+      "139.22"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grecanico + Insolio COS Rami Bianco Sicily, IT",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 47
+          }
+        ],
+        "P": [
+          {
+            "text": "18 / 72",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rice",
+    "bbox": [
+      "47.75",
+      "156.40",
+      "70.50",
+      "166.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Yangchon Chungju Nonsan, South Korea 500ml 20/90",
+    "bbox": [
+      "47.75",
+      "173.65",
+      "304.02",
+      "183.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Yangchon Chungju Nonsan, South Korea 500ml",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "20/90",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BOTTLES",
+    "bbox": [
+      "47.75",
+      "200.72",
+      "91.85",
+      "210.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPARKLING",
+    "bbox": [
+      "47.75",
+      "227.65",
+      "103.41",
+      "237.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Champagne",
+    "bbox": [
+      "47.75",
+      "244.90",
+      "106.52",
+      "254.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Alexandre Filaine Cuvée Spéciale Champagne, FR NV  105",
+    "bbox": [
+      "47.75",
+      "262.15",
+      "321.95",
+      "271.97"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Alexandre Filaine Cuvée Spéciale Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 47
+          }
+        ],
+        "P": [
+          {
+            "text": "105",
+            "answer_start": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Françoise Bedel et Fils Originelle Champagne, NV  115",
+    "bbox": [
+      "47.75",
+      "279.40",
+      "302.86",
+      "289.22"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Françoise Bedel et Fils Originelle Champagne,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 46
+          }
+        ],
+        "P": [
+          {
+            "text": "115",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bérêche et Fils Brut Réserve Champagne, NV  120",
+    "bbox": [
+      "47.75",
+      "296.65",
+      "281.15",
+      "306.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bérêche et Fils Brut Réserve Champagne,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 40
+          }
+        ],
+        "P": [
+          {
+            "text": "120",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Stéphane Regnault Lydien Grand Cru N°45 Champagne, NV  120",
+    "bbox": [
+      "47.75",
+      "313.90",
+      "350.18",
+      "323.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Stéphane Regnault Lydien Grand Cru N°45 Champagne,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 51
+          }
+        ],
+        "P": [
+          {
+            "text": "120",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Guy Larmandier Vertus Brut Zero 1er Cru Champagne, FR NV  125",
+    "bbox": [
+      "47.75",
+      "331.15",
+      "353.84",
+      "340.97"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Guy Larmandier Vertus Brut Zero 1er Cru Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 54
+          }
+        ],
+        "P": [
+          {
+            "text": "125",
+            "answer_start": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Françoise Bedel et Fils Vin Secret Champagne, FR NV  130",
+    "bbox": [
+      "47.75",
+      "348.40",
+      "322.09",
+      "358.22"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Françoise Bedel et Fils Vin Secret Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 49
+          }
+        ],
+        "P": [
+          {
+            "text": "130",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Laherte Frères Blanc de Blancs Brut Nature Champagne, FR NV  140",
+    "bbox": [
+      "47.75",
+      "365.65",
+      "364.59",
+      "375.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Laherte Frères Blanc de Blancs Brut Nature Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 57
+          }
+        ],
+        "P": [
+          {
+            "text": "140",
+            "answer_start": 61
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Vouette & Sorbée Fidèle Champagne, FR 2016  145",
+    "bbox": [
+      "47.75",
+      "382.90",
+      "287.55",
+      "392.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Vouette & Sorbée Fidèle Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 38
+          }
+        ],
+        "P": [
+          {
+            "text": "145",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Vouette & Sorbée Blanc d’Argile Champagne, FR 2015  150",
+    "bbox": [
+      "47.75",
+      "400.15",
+      "323.16",
+      "409.97"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Vouette & Sorbée Blanc d’Argile Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 46
+          }
+        ],
+        "P": [
+          {
+            "text": "150",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Billecart-Salmon Brut Reserve Champagne, FR NV  160",
+    "bbox": [
+      "47.75",
+      "417.40",
+      "305.51",
+      "427.22"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Billecart-Salmon Brut Reserve Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 44
+          }
+        ],
+        "P": [
+          {
+            "text": "160",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chartogne Taillet Les Barres Extra Brut Champagne, FR  165",
+    "bbox": [
+      "47.75",
+      "434.65",
+      "328.68",
+      "444.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chartogne Taillet Les Barres Extra Brut Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "165",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bérêche et Fils Pauline Collin Cuvée Champagne, FR 2016  180",
+    "bbox": [
+      "47.75",
+      "451.90",
+      "340.69",
+      "461.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bérêche et Fils Pauline Collin Cuvée Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 51
+          }
+        ],
+        "P": [
+          {
+            "text": "80",
+            "answer_start": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Roger Coulon Blanc de Noirs Brut Millésime Champagne, FR 2012  195",
+    "bbox": [
+      "47.75",
+      "469.15",
+      "375.09",
+      "478.97"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Roger Coulon Blanc de Noirs Brut Millésime Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2012",
+            "answer_start": 57
+          }
+        ],
+        "P": [
+          {
+            "text": "195",
+            "answer_start": 63
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bérêche et Fils Rosé Campania Remensis Champagne, FR 2017 227",
+    "bbox": [
+      "47.75",
+      "486.40",
+      "361.39",
+      "496.22"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bérêche et Fils Rosé Campania Remensis Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 53
+          }
+        ],
+        "P": [
+          {
+            "text": "227",
+            "answer_start": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Roger Coulon Prestige Les Coteaux de Vallier Heritage Champagne, FR NV  280",
+    "bbox": [
+      "47.75",
+      "503.65",
+      "419.23",
+      "513.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Roger Coulon Prestige Les Coteaux de Vallier Heritage Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 68
+          }
+        ],
+        "P": [
+          {
+            "text": "280",
+            "answer_start": 72
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dhondt-Grellet Le Bateau Grand Cru Champagne, FR 2014  350",
+    "bbox": [
+      "47.75",
+      "520.90",
+      "346.92",
+      "530.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Dhondt-Grellet Le Bateau Grand Cru Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 49
+          }
+        ],
+        "P": [
+          {
+            "text": "350",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Vouette et Sorbée Extrait Brut Nature Champagne, FR 2009  350",
+    "bbox": [
+      "47.75",
+      "538.15",
+      "351.65",
+      "547.97"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Vouette et Sorbée Extrait Brut Nature Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2009",
+            "answer_start": 52
+          }
+        ],
+        "P": [
+          {
+            "text": "350",
+            "answer_start": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bérêche & Fils Re\u0000let d’Antan Champagne, FR NV  360",
+    "bbox": [
+      "47.75",
+      "555.40",
+      "301.17",
+      "565.22"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bérêche & Fils Re\u0000let d’Antan Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 44
+          }
+        ],
+        "P": [
+          {
+            "text": "360",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Ulysse Collin Roises BdB Extra Brut Champagne, FR 2014  375",
+    "bbox": [
+      "47.75",
+      "572.65",
+      "337.81",
+      "582.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Ulysse Collin Roises BdB Extra Brut Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 50
+          }
+        ],
+        "P": [
+          {
+            "text": "375",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Ulysse Collin Les Enfers BdB Extra Brut Champagne, FR 2014  350",
+    "bbox": [
+      "47.75",
+      "589.90",
+      "356.84",
+      "599.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Ulysse Collin Les Enfers BdB Extra Brut Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 54
+          }
+        ],
+        "P": [
+          {
+            "text": "350",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dom Pérignon Rosé Champagne, FR 2006  600",
+    "bbox": [
+      "47.75",
+      "607.15",
+      "273.36",
+      "616.97"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Dom Pérignon Rosé Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2006",
+            "answer_start": 32
+          }
+        ],
+        "P": [
+          {
+            "text": "600",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Georges Laval Cumières Les Hautes Chèvres BdN Champagne, FR 2014  400",
+    "bbox": [
+      "47.75",
+      "624.40",
+      "406.77",
+      "634.22"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Georges Laval Cumières Les Hautes Chèvres BdN Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "400",
+            "answer_start": 66
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Krug Grand Cuvée Champagne, FR NV 375ml  155",
+    "bbox": [
+      "47.75",
+      "641.65",
+      "281.24",
+      "651.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Krug Grand Cuvée Champagne, FR NV 375ml",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "155",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dhondt-Grellet Les Terres Fines BdB Champagne, FR NV 1.5L  350",
+    "bbox": [
+      "47.75",
+      "658.90",
+      "357.26",
+      "668.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Dhondt-Grellet Les Terres Fines BdB Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 50
+          }
+        ],
+        "P": [
+          {
+            "text": "1.5L  350",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pierre Gimonnet et Fils Collection Champagne, FR 1989 1.5L  640",
+    "bbox": [
+      "47.75",
+      "676.15",
+      "353.34",
+      "685.97"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pierre Gimonnet et Fils Collection Champagne, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "1989",
+            "answer_start": 49
+          }
+        ],
+        "P": [
+          {
+            "text": "1.5L  640",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sparkling – Elsewhere",
+    "bbox": [
+      "47.75",
+      "703.15",
+      "151.89",
+      "712.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Barry Family Cellars Cayuga Pet Gnat Finger Lakes, NY NV  58",
+    "bbox": [
+      "47.75",
+      "720.40",
+      "338.10",
+      "730.22"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Barry Family Cellars Cayuga Pet Gnat Finger Lakes, NY",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 54
+          }
+        ],
+        "P": [
+          {
+            "text": "58",
+            "answer_start": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RGNY White North Fork, NY NV  64",
+    "bbox": [
+      "47.75",
+      "737.65",
+      "400.27",
+      "747.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RGNY White North Fork, NY",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 26
+          }
+        ],
+        "P": [
+          {
+            "text": "64",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://ssambar.momofuku.com/menu/wine/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "180.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/17/22, 9:28 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Wine | Ssäm Bar",
+    "bbox": [
+      "321.64",
+      "15.70",
+      "381.51",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bloomer Creek Riesling Pétillant Finger Lakes, NY NV  70",
+    "bbox": [
+      "47.75",
+      "33.39",
+      "312.72",
+      "43.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Marcio Lopes Tubarao! Pet Nat Douro, Portugal 2020  72",
+    "bbox": [
+      "47.75",
+      "50.64",
+      "311.45",
+      "60.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Fritz Muller Rose Perlwein Trocken Rheinhessen, DE NV 74",
+    "bbox": [
+      "47.75",
+      "67.89",
+      "318.93",
+      "77.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Crocizia Besiosa Malvasia Emilia-Romagna, Italy 2020  82",
+    "bbox": [
+      "47.75",
+      "85.14",
+      "316.38",
+      "94.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Valerie Tissot Crémant du Jura Rosé FR NV  84",
+    "bbox": [
+      "47.75",
+      "102.39",
+      "266.22",
+      "112.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Donkey & Goat Lily’s Pet Nat Anderson Valley, CA 2020  98",
+    "bbox": [
+      "47.75",
+      "119.64",
+      "322.38",
+      "129.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sandhi Blanc de Blancs Sta. Rita Hills, CA 2014  155",
+    "bbox": [
+      "47.75",
+      "136.89",
+      "285.33",
+      "146.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ORANGE",
+    "bbox": [
+      "47.75",
+      "163.89",
+      "91.27",
+      "173.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Les Vins Pirouettes Saveurs des Claude Alsace, FR 2018  64",
+    "bbox": [
+      "47.75",
+      "181.14",
+      "328.43",
+      "190.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Suriol Cal Ron Penedès, SP 2020  68",
+    "bbox": [
+      "47.75",
+      "198.39",
+      "220.81",
+      "208.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Fio Glou Glou Orange Mosel, DE 2020  75",
+    "bbox": [
+      "47.75",
+      "215.64",
+      "242.31",
+      "225.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Clandestina Blanc Sense Papers Catalunya, SP 2020  77",
+    "bbox": [
+      "47.75",
+      "232.89",
+      "309.82",
+      "242.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Glassmaker Hillside Orange Sauvignon Blanc Sonoma County, CA 2020  78",
+    "bbox": [
+      "47.75",
+      "250.14",
+      "399.47",
+      "259.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Paolo Bea Arboreus Bianco Umbria, IT 2014  125",
+    "bbox": [
+      "47.75",
+      "267.39",
+      "272.17",
+      "277.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Vodopivec Vitovska Collezion Carso, IT 2009  180",
+    "bbox": [
+      "47.75",
+      "284.64",
+      "278.96",
+      "294.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ROSÉ",
+    "bbox": [
+      "47.75",
+      "311.64",
+      "75.85",
+      "321.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bojo do Luar Vinho Verde, PT 2020 60",
+    "bbox": [
+      "47.75",
+      "328.89",
+      "227.82",
+      "338.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Long Meadow Ranch Rosé of Pinot Noir Napa Valley, CA 2021  90",
+    "bbox": [
+      "47.75",
+      "346.14",
+      "352.74",
+      "355.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Triennes Méditerranée Provence, FR 2021 1.5L  120",
+    "bbox": [
+      "47.75",
+      "363.39",
+      "282.51",
+      "373.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Absentee Pink Mendocino, CA 2020 1.5L  168",
+    "bbox": [
+      "47.75",
+      "380.64",
+      "260.50",
+      "390.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WHITE",
+    "bbox": [
+      "47.75",
+      "407.64",
+      "80.77",
+      "417.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Riesling",
+    "bbox": [
+      "47.75",
+      "424.89",
+      "86.64",
+      "434.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "JB Becker Wallufer Trocken, Rheingau, DE 2019  58",
+    "bbox": [
+      "47.75",
+      "442.14",
+      "285.39",
+      "451.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Mittnacht Frères Gyotaku Alsace, FR 2019  62",
+    "bbox": [
+      "47.75",
+      "459.39",
+      "262.22",
+      "469.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Keller Limestone Kabinett, Rheinhessen, DE 2020  75",
+    "bbox": [
+      "47.75",
+      "476.64",
+      "295.36",
+      "486.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Eugen Müller Forster Kirchenstuck Auslese Pfalz, DE 2019 500 ml  88",
+    "bbox": [
+      "47.75",
+      "493.89",
+      "369.34",
+      "503.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Lauer Ayler Kabinett No. 87 Saar Valley, DE 2020  100",
+    "bbox": [
+      "47.75",
+      "511.14",
+      "296.79",
+      "520.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Selbach-Oster OMG Trocken Mosel, DE 2018  108",
+    "bbox": [
+      "47.75",
+      "528.39",
+      "280.45",
+      "538.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Weiser-Künstler Enkircher Ellergrub Trocken Mosel, DE 2018  135",
+    "bbox": [
+      "47.75",
+      "545.64",
+      "351.65",
+      "555.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Keller Westhofener Kirchspiel GG Rheinhessen, DE 2020  240",
+    "bbox": [
+      "47.75",
+      "562.89",
+      "334.50",
+      "572.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Keller Dalsheim Hubacker Trocken GG Rheinhessen, DE 2020  285",
+    "bbox": [
+      "47.75",
+      "580.14",
+      "353.76",
+      "589.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Keller Westenhofener Brunnenhäuschen Abts Erde GG Rheinhessen, DE 2014  650",
+    "bbox": [
+      "47.75",
+      "597.39",
+      "429.90",
+      "607.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Keller Morstein Grosses Gewächs Rheinhessen, DE 2014  725",
+    "bbox": [
+      "47.75",
+      "614.64",
+      "332.36",
+      "624.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Keller Nierstein Hipping Riesling Grosses Gewaches Rheinhessen, DE 2014  850",
+    "bbox": [
+      "47.75",
+      "631.89",
+      "419.47",
+      "641.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Keller Scharzho\u0000berger Auslese Rheinhessen DE 2018  1200",
+    "bbox": [
+      "47.75",
+      "649.14",
+      "327.19",
+      "658.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Keller Abts Erd G-Max Rheinhessen, DE 2014  2250",
+    "bbox": [
+      "47.75",
+      "666.39",
+      "283.91",
+      "676.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chardonnay – France",
+    "bbox": [
+      "47.75",
+      "693.39",
+      "148.80",
+      "703.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Lafon Burgundy, FR 2017  75",
+    "bbox": [
+      "47.75",
+      "710.64",
+      "180.81",
+      "720.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Lafon Mersault, FR 2017 145",
+    "bbox": [
+      "47.75",
+      "727.89",
+      "179.78",
+      "737.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Benjamin Leroux Burgundy, FR 2019  104",
+    "bbox": [
+      "47.75",
+      "745.14",
+      "242.04",
+      "754.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://ssambar.momofuku.com/menu/wine/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "180.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/17/22, 9:28 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Wine | Ssäm Bar",
+    "bbox": [
+      "321.64",
+      "15.70",
+      "381.51",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Paul Pernot Champ Canet-Clos del la Jaquelotte 1er Cru PM, FR 2015  150",
+    "bbox": [
+      "47.75",
+      "33.39",
+      "388.90",
+      "43.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Paul Pernot Pucelles 1er Cru Pugliny-Montrachet, FR 2013  185",
+    "bbox": [
+      "47.75",
+      "50.64",
+      "338.34",
+      "60.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Hubert Lamy Clos des Gravières 1er Cru Santenay, FR 2017  125",
+    "bbox": [
+      "47.75",
+      "67.89",
+      "343.09",
+      "77.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Hubert Lamy En Remilly 1er Cru Saint-Aubin, FR 2016  145",
+    "bbox": [
+      "47.75",
+      "85.14",
+      "315.51",
+      "94.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Les Dolomies Les Combes, Jura, FR 2018  100",
+    "bbox": [
+      "47.75",
+      "102.39",
+      "263.31",
+      "112.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Labet Les Parcelles Rares Les Varrons, Jura, FR 2016  115",
+    "bbox": [
+      "47.75",
+      "119.64",
+      "309.74",
+      "129.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Heitz Lochardet La Maltroie 1er Cru Chassagne-Montrachet, FR 2017  144",
+    "bbox": [
+      "47.75",
+      "136.89",
+      "389.86",
+      "146.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pierre Morey Mersault, FR 2017  1205",
+    "bbox": [
+      "47.75",
+      "154.14",
+      "222.46",
+      "163.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Maison Leroy Bourgogne, FR 2017  220",
+    "bbox": [
+      "47.75",
+      "171.39",
+      "232.72",
+      "181.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "J. Coudray-Bizot Les Combettes 1er Cru  Puligny-Montrachet, FR 2011  225",
+    "bbox": [
+      "47.75",
+      "188.64",
+      "395.20",
+      "198.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pierre Morey Perrières Meursault, FR 2017  335",
+    "bbox": [
+      "47.75",
+      "205.89",
+      "268.90",
+      "215.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Hubert Lamy Edouard HiDen 1er Cru Saint-Aubin, FR 2017  335",
+    "bbox": [
+      "47.75",
+      "223.14",
+      "341.31",
+      "232.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Dujac Les Combettes Puligny-Montrachet, FR 2017 335",
+    "bbox": [
+      "47.75",
+      "240.39",
+      "305.56",
+      "250.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Pierre Morey Bâtard Puligny-Montrachet, FR 2017  670",
+    "bbox": [
+      "47.75",
+      "257.64",
+      "303.02",
+      "267.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chardonnay – Chablis",
+    "bbox": [
+      "47.75",
+      "284.64",
+      "151.97",
+      "294.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Christophe et Fils Chablis, FR 2020  72",
+    "bbox": [
+      "47.75",
+      "301.89",
+      "231.53",
+      "311.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Christophe et Fils Mont de Milieu 1er Cru Chablis, FR 2020   130",
+    "bbox": [
+      "47.75",
+      "319.14",
+      "345.26",
+      "328.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Moreau-Naudet Forêts 1er Cru Chablis, FR 2017  110",
+    "bbox": [
+      "47.75",
+      "336.39",
+      "290.86",
+      "346.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Jean-Marc Brocard Fourchaume 1er Cru Chablis, FR 2020  108",
+    "bbox": [
+      "47.75",
+      "353.64",
+      "340.07",
+      "363.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Eleni et Edouard Vocoret Boucheron Chablis, FR 2019  126",
+    "bbox": [
+      "47.75",
+      "370.89",
+      "322.32",
+      "380.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Vincent Dauvissat Chablis, FR 2017  124",
+    "bbox": [
+      "47.75",
+      "388.14",
+      "236.55",
+      "397.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Moreau-Naudet Petit Chablis Chablis, FR 2017 1.5L  168",
+    "bbox": [
+      "47.75",
+      "405.39",
+      "304.53",
+      "415.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chardonnay – USA",
+    "bbox": [
+      "47.75",
+      "432.39",
+      "136.74",
+      "442.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Arnot-Roberts Trout Gulch Santa Cruz Mountains, CA 2018  70",
+    "bbox": [
+      "47.75",
+      "449.64",
+      "341.31",
+      "459.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Eyrie Vineyards Original Vines Dundee Hills, OR 2016  105",
+    "bbox": [
+      "47.75",
+      "466.89",
+      "318.95",
+      "476.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Peay Estate Sonoma County, CA 2017  108",
+    "bbox": [
+      "47.75",
+      "484.14",
+      "246.32",
+      "493.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Walter Scott Cuvée Anne Willamette Valley, OR 2017  95",
+    "bbox": [
+      "47.75",
+      "501.39",
+      "310.33",
+      "511.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Walter Scott Seven Springs Willamette Valley, OR 2017  120",
+    "bbox": [
+      "47.75",
+      "518.64",
+      "325.82",
+      "528.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cameron Abbey Ridge Willamette Valley, OR 2017  125",
+    "bbox": [
+      "47.75",
+      "535.89",
+      "302.08",
+      "545.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cameron Clos Electrique Willamette Valley, OR 2017  125",
+    "bbox": [
+      "47.75",
+      "553.14",
+      "312.50",
+      "562.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Grgich Hills Estate Estate Grown Napa Valley, CA 2019  135",
+    "bbox": [
+      "47.75",
+      "570.39",
+      "322.98",
+      "580.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Hope Well Eola-Amity Hills, OR 2018  200",
+    "bbox": [
+      "47.75",
+      "587.64",
+      "243.03",
+      "597.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Williams Selyem Hawk Hill Vineyard Russian River Valley, CA 2009  300",
+    "bbox": [
+      "47.75",
+      "604.89",
+      "383.35",
+      "614.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Williams Selyem Drake Estate Russian River Valley, CA 2009  300",
+    "bbox": [
+      "47.75",
+      "622.14",
+      "351.92",
+      "631.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chardonnay – Elsewhere",
+    "bbox": [
+      "47.75",
+      "649.14",
+      "164.57",
+      "658.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Aslina Western Cape, SA 2020  68",
+    "bbox": [
+      "47.75",
+      "666.39",
+      "209.24",
+      "676.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Villard Grand Vin Casablanca Valley, CL 2018  72",
+    "bbox": [
+      "47.75",
+      "683.64",
+      "275.27",
+      "693.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Kumeu River Coddington Aukland, NZ 2020  128",
+    "bbox": [
+      "47.75",
+      "700.89",
+      "273.25",
+      "710.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chenin Blanc",
+    "bbox": [
+      "47.75",
+      "727.89",
+      "112.04",
+      "737.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Kumusha Breedekloof Western Cape, SA 2020  66",
+    "bbox": [
+      "47.75",
+      "745.14",
+      "321.59",
+      "754.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://ssambar.momofuku.com/menu/wine/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "180.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/17/22, 9:28 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Wine | Ssäm Bar",
+    "bbox": [
+      "321.64",
+      "15.70",
+      "381.51",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bonnezeaux La Montagne Cuvée Salve Regina FR 2017  98",
+    "bbox": [
+      "47.75",
+      "33.39",
+      "320.52",
+      "43.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bonnezeaux Vieille Vigne du Fief Prevost Loire Valley, FR 2018  114",
+    "bbox": [
+      "47.75",
+      "50.64",
+      "355.94",
+      "60.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Philippe Foreau Domaine de la Naudin Vouvray Sec Vouvray, FR 2014  108",
+    "bbox": [
+      "47.75",
+      "67.89",
+      "391.27",
+      "77.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Arnaud Lambert Clos David Saumur, FR 2018  140",
+    "bbox": [
+      "47.75",
+      "85.14",
+      "282.26",
+      "94.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "+ Palomino Sadie Family Skerpioen Swartland, SA 2019  224",
+    "bbox": [
+      "47.75",
+      "102.39",
+      "328.12",
+      "112.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Nicolas Joly Clos de la Coulée de Serrant  Savennières, FR 2019  300",
+    "bbox": [
+      "47.75",
+      "119.64",
+      "367.82",
+      "129.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sauvignon Blanc",
+    "bbox": [
+      "47.75",
+      "146.64",
+      "128.29",
+      "156.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Kumusha Sondagskloof Western Cape, SA 2020  68",
+    "bbox": [
+      "47.75",
+      "163.89",
+      "290.86",
+      "173.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Domaine de Loye Menetou-Salon, FR 2019  70",
+    "bbox": [
+      "47.75",
+      "181.14",
+      "263.51",
+      "190.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Jean-Marc Brocard Sauvignon de Saint-Bris Burgundy, FR 2019  75",
+    "bbox": [
+      "47.75",
+      "198.39",
+      "359.24",
+      "208.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Shaw & Smith Adelaide Hills, AU 2020  72",
+    "bbox": [
+      "47.75",
+      "215.64",
+      "244.29",
+      "225.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Lucien Crochet Sancerre, FR 2019  90",
+    "bbox": [
+      "47.75",
+      "232.89",
+      "228.06",
+      "242.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "François Cotat Cul de Beaujeu Sancerre, FR 2019  124",
+    "bbox": [
+      "47.75",
+      "250.14",
+      "298.76",
+      "259.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Margaux Pavillon Blanc Bordeaux, FR 2016  556",
+    "bbox": [
+      "47.75",
+      "267.39",
+      "269.21",
+      "277.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Ssam-thing Diﬀerent",
+    "bbox": [
+      "47.75",
+      "294.39",
+      "146.03",
+      "304.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Moscato Giallo Ercole Moscato d’Asti Piemonte, IT 2019  62",
+    "bbox": [
+      "47.75",
+      "311.64",
+      "323.61",
+      "321.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Godello César Márquez Perez La Salvación Castilla y León, SP 2017  64",
+    "bbox": [
+      "47.75",
+      "328.89",
+      "380.28",
+      "338.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chasselas Doré Eyrie Willamette Valley, OR 2018  65",
+    "bbox": [
+      "47.75",
+      "346.14",
+      "290.62",
+      "355.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Picpoul Julie Benau Picpoul de Pinet Languedoc-Roussillon, FR 2020  72",
+    "bbox": [
+      "47.75",
+      "363.39",
+      "385.42",
+      "373.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sémillon Golden Cluster Coury Old Vine Willamette Valley, OR 2018  75",
+    "bbox": [
+      "47.75",
+      "380.64",
+      "380.64",
+      "390.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Aligoté Ernest Vineyards Edaphos Sonoma County, CA 2017  78",
+    "bbox": [
+      "47.75",
+      "397.89",
+      "345.92",
+      "407.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Catarratto Feudo Montoni Del Masso Sicily, IT 2019  78",
+    "bbox": [
+      "47.75",
+      "415.14",
+      "303.61",
+      "424.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Aligoté Claire Naudin Mallon Burgundy, FR 2019  80",
+    "bbox": [
+      "47.75",
+      "432.39",
+      "292.13",
+      "442.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Melon de Bourgogne Eyrie Willamette Valley, OR 2015  82",
+    "bbox": [
+      "47.75",
+      "449.64",
+      "317.00",
+      "459.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Savagnin Les Dolomies Premice Jura, FR 2018  90",
+    "bbox": [
+      "47.75",
+      "466.89",
+      "281.22",
+      "476.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chasselas Les Vignes Paradis Un P’tit Coin de Paradis Savoie, FR 2019  100",
+    "bbox": [
+      "47.75",
+      "484.14",
+      "396.57",
+      "493.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Weissburgunder Wasenhaus Möhlin, Baden, DE  165",
+    "bbox": [
+      "47.75",
+      "501.39",
+      "289.90",
+      "511.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RED",
+    "bbox": [
+      "47.75",
+      "528.39",
+      "69.11",
+      "538.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Gamay",
+    "bbox": [
+      "47.75",
+      "545.64",
+      "82.81",
+      "555.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Marrans Beaujolais Nouveau FR 2020  66",
+    "bbox": [
+      "47.75",
+      "562.89",
+      "242.23",
+      "572.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Anthony Thevenet Beaujolais-Villages, FR 2020  74",
+    "bbox": [
+      "47.75",
+      "580.14",
+      "287.50",
+      "589.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Bachelards Comtesse de Vazeilles Moulin-a-Vent, FR 2018  78",
+    "bbox": [
+      "47.75",
+      "597.39",
+      "333.70",
+      "607.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Lieu Dit Santa Ynez Valley, CA 2016  80",
+    "bbox": [
+      "47.75",
+      "614.64",
+      "230.91",
+      "624.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Mee Godard Les Michelons Moulin-à-Vent Beaujolais FR 2019  112",
+    "bbox": [
+      "47.75",
+      "631.89",
+      "351.48",
+      "641.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pierre Cotton Beaujolais, FR 2016  120",
+    "bbox": [
+      "47.75",
+      "649.14",
+      "228.13",
+      "658.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Guy Breton Morgon Beaujolais, FR 2019 1.5L  220",
+    "bbox": [
+      "47.75",
+      "666.39",
+      "276.25",
+      "676.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pinot Noir – France",
+    "bbox": [
+      "47.75",
+      "693.39",
+      "138.45",
+      "703.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Robert Chevillon Passetoutgrain Burgundy, FR 2016  80",
+    "bbox": [
+      "47.75",
+      "710.64",
+      "309.30",
+      "720.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Les Vins Pirouettes Brutal de Raphaël Alsace, FR 2019  95",
+    "bbox": [
+      "47.75",
+      "727.89",
+      "318.11",
+      "737.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Chandon des Brailles Les Lavières 1er Cru Savigny-les-Beaune, FR 2017  115",
+    "bbox": [
+      "47.75",
+      "745.14",
+      "399.09",
+      "754.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://ssambar.momofuku.com/menu/wine/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "180.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/17/22, 9:28 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Wine | Ssäm Bar",
+    "bbox": [
+      "321.64",
+      "15.70",
+      "381.51",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Taupenot-Merme Auxey Duresses 1er Cru Beaune, FR 2016  120",
+    "bbox": [
+      "47.75",
+      "33.40",
+      "343.73",
+      "43.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Taupenot-Merme Les Prulliers 1er Cru Nuits-Saint-Georges, FR 2016  200",
+    "bbox": [
+      "47.75",
+      "50.65",
+      "389.52",
+      "60.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Roblet Monnot Monthélie Village FR 2017  135",
+    "bbox": [
+      "47.75",
+      "67.90",
+      "263.02",
+      "77.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Roblet Monnot Brouillards 1er Cru Volnay, FR 2017  245",
+    "bbox": [
+      "47.75",
+      "85.15",
+      "305.59",
+      "94.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "David Duband Nuits-St-Georges, FR 2016  125",
+    "bbox": [
+      "47.75",
+      "102.40",
+      "263.27",
+      "112.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "David Duband Les Gruenchers 1er Cru Chambolle-Musigny, FR 2015  180",
+    "bbox": [
+      "47.75",
+      "119.65",
+      "386.62",
+      "129.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "David Duband Les Sentiers 1er Cru Chambolle-Musigny, FR 2016  245",
+    "bbox": [
+      "47.75",
+      "136.90",
+      "371.25",
+      "146.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Dominique Lafon Les Vignes Franches 1er Cru Beaune, FR 2017  140",
+    "bbox": [
+      "47.75",
+      "154.15",
+      "366.59",
+      "163.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Dominique Lafon Les Lurets 1er Cru Volnay, FR 2017  195",
+    "bbox": [
+      "47.75",
+      "171.40",
+      "311.65",
+      "181.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Louis Boillot et Fils Les Pruliers 1er Cru Nuits-St-Georges, FR 2013  165",
+    "bbox": [
+      "47.75",
+      "188.65",
+      "376.13",
+      "198.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Louis Boillot et Fils Cherbaudes 1er Cru Gevrey-Chambertin, FR 2014  185",
+    "bbox": [
+      "47.75",
+      "205.90",
+      "391.36",
+      "215.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Hubert Lamy Clos des Gravières 1er Cru Santenay, FR 2017  150",
+    "bbox": [
+      "47.75",
+      "223.15",
+      "344.22",
+      "232.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Joseph Voillot Les Caillerets 1er Cru Volnay, FR 2017  175",
+    "bbox": [
+      "47.75",
+      "240.40",
+      "311.29",
+      "250.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Prieuré Roch Coteaux Rouge Burgundy, FR 2017  195",
+    "bbox": [
+      "47.75",
+      "257.65",
+      "294.12",
+      "267.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Gérard Mugneret Les Charmes 1er Cru Chambolle-Musigny, FR 2017  255",
+    "bbox": [
+      "47.75",
+      "274.90",
+      "388.29",
+      "284.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Gérard Mugneret Aux Cras 1er Cru Nuits-St-Georges, FR 2017  265",
+    "bbox": [
+      "47.75",
+      "292.15",
+      "357.60",
+      "301.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Michel Lafarge Clos des Chenes 1er Cru Volnay, FR 2017  350",
+    "bbox": [
+      "47.75",
+      "309.40",
+      "335.32",
+      "319.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Michel Lafarge Les Mitans 1er Cru Volnay, FR 2017  350",
+    "bbox": [
+      "47.75",
+      "326.65",
+      "327.50",
+      "336.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Robert Chevillon Les Perrières 1er Cru Nuit-St-Georges, FR 2008  390",
+    "bbox": [
+      "47.75",
+      "343.90",
+      "375.15",
+      "353.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Robert Chevillon Pruliers 1er Cru Nuit-St-Georges, FR 2008  390",
+    "bbox": [
+      "47.75",
+      "361.15",
+      "349.96",
+      "370.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Chandon de Brailles Corton-Bressandes Grand Cru Aloxe-Corton, FR 2012  405",
+    "bbox": [
+      "47.75",
+      "378.40",
+      "417.94",
+      "388.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Comte Georges de Vogüé Chambolle-Musigny. FR 2006  655",
+    "bbox": [
+      "47.75",
+      "395.65",
+      "336.14",
+      "405.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Arnoux-Lachaux Latricières-Chambertin Grand Cru Vosnee-Romanee, FR 2014  530",
+    "bbox": [
+      "47.75",
+      "412.90",
+      "439.56",
+      "422.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "David Duband Chambertin 1er Cru Cotes-de-Nuits, FR 2016  730",
+    "bbox": [
+      "47.75",
+      "430.15",
+      "346.70",
+      "439.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pinot Noir – Oregon",
+    "bbox": [
+      "47.75",
+      "457.15",
+      "141.89",
+      "466.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "JK Carriere Provocateur Willamette Valley, OR 2019  85",
+    "bbox": [
+      "47.75",
+      "474.40",
+      "304.19",
+      "484.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Cameron Abbey Ridge Dundee Hills, OR 2017  105",
+    "bbox": [
+      "47.75",
+      "491.65",
+      "281.88",
+      "501.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Eyrie Willamette Valley, OR 2018  130",
+    "bbox": [
+      "47.75",
+      "508.90",
+      "222.16",
+      "518.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Cameron Julia Dundee Hills, OR 2016  160",
+    "bbox": [
+      "47.75",
+      "526.15",
+      "245.15",
+      "535.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Hope Well Eola-Amity Hills, OR 2018  175",
+    "bbox": [
+      "47.75",
+      "543.40",
+      "235.98",
+      "553.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Pinot Noir – Elsewhere",
+    "bbox": [
+      "47.75",
+      "570.40",
+      "153.79",
+      "580.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Moondarra Conception Gippsland, AU 2017  85",
+    "bbox": [
+      "47.75",
+      "587.65",
+      "269.07",
+      "597.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Nival Les Entêtés Québec, CA 2020  120",
+    "bbox": [
+      "47.75",
+      "604.90",
+      "235.46",
+      "614.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Cabernet Sauvignon",
+    "bbox": [
+      "47.75",
+      "631.90",
+      "148.22",
+      "641.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Keep Bengier Vineyard Napa, CA 2018  108",
+    "bbox": [
+      "47.75",
+      "649.15",
+      "248.25",
+      "658.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Stein Vom Berg Mosel, DE 2018  140",
+    "bbox": [
+      "47.75",
+      "666.40",
+      "217.25",
+      "676.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Matthiasson Napa Valley, CA 2018  168",
+    "bbox": [
+      "47.75",
+      "683.65",
+      "231.07",
+      "693.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Long Meadow Ranch EJ Church Estate Napa Valley, CA 2012  165",
+    "bbox": [
+      "47.75",
+      "700.90",
+      "350.82",
+      "710.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Di Costanzo Farella Napa Valley, CA 2016  185",
+    "bbox": [
+      "47.75",
+      "718.15",
+      "262.67",
+      "727.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Grgich Hills Estate Estate Grown Napa Valley, CA 2016  205",
+    "bbox": [
+      "47.75",
+      "735.40",
+      "326.63",
+      "745.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://ssambar.momofuku.com/menu/wine/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "180.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/17/22, 9:28 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Wine | Ssäm Bar",
+    "bbox": [
+      "321.64",
+      "15.70",
+      "381.51",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Philip Togni Napa Valley, CA 2015  300",
+    "bbox": [
+      "47.75",
+      "33.39",
+      "231.27",
+      "43.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Silver Oak Napa Valley, CA 1984  420",
+    "bbox": [
+      "47.75",
+      "50.64",
+      "223.07",
+      "60.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Silver Oak Napa Valley, CA 1989  390",
+    "bbox": [
+      "47.75",
+      "67.89",
+      "224.38",
+      "77.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Mayacamas Napa Valley, CA 2005  400",
+    "bbox": [
+      "47.75",
+      "85.14",
+      "235.24",
+      "94.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Favia Coombsville Napa Valley, CA 2015  300",
+    "bbox": [
+      "47.75",
+      "102.39",
+      "261.38",
+      "112.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Dunn Howell Mountain Napa Valley, CA 1995  450",
+    "bbox": [
+      "47.75",
+      "119.64",
+      "279.33",
+      "129.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Heitz Trailside Vineyard, CA 2013  350",
+    "bbox": [
+      "47.75",
+      "136.89",
+      "229.03",
+      "146.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Heitz Martha’s Vineyard, CA 2009  480",
+    "bbox": [
+      "47.75",
+      "154.14",
+      "232.22",
+      "163.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Diamond Creek Gravelly Meadow Napa Valley, CA 2004  460",
+    "bbox": [
+      "47.75",
+      "171.39",
+      "334.16",
+      "181.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Diamond Creek Gravelly Meadow Napa Valley, CA 2006  475",
+    "bbox": [
+      "47.75",
+      "188.64",
+      "331.92",
+      "198.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Diamond Creek Gravelly Meadow Napa Valley, CA 2002  550",
+    "bbox": [
+      "47.75",
+      "205.89",
+      "332.97",
+      "215.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Opus One Napa Valley, CA 2009  800",
+    "bbox": [
+      "47.75",
+      "223.14",
+      "226.76",
+      "232.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Opus One Napa Valley, CA 2005  800",
+    "bbox": [
+      "47.75",
+      "240.39",
+      "223.49",
+      "250.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Cabernet Franc",
+    "bbox": [
+      "47.75",
+      "267.39",
+      "122.04",
+      "277.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "+ Merlot Lestignac Va Te Faire Boire Southwest, FR 2020  75",
+    "bbox": [
+      "47.75",
+      "284.64",
+      "326.68",
+      "294.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "+ Zweigelt Christian Tschida Kapitel I Burgenland, AT 2020  115",
+    "bbox": [
+      "47.75",
+      "301.89",
+      "343.51",
+      "311.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Roches Neuves Outre Terre Saumur-Champigny, FR 2016  180",
+    "bbox": [
+      "47.75",
+      "319.14",
+      "338.21",
+      "328.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Ashes & Diamonds Grand Vin No 1 Napa Valley, CA 2014  195",
+    "bbox": [
+      "47.75",
+      "336.39",
+      "328.90",
+      "346.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Bordeaux Blend",
+    "bbox": [
+      "47.75",
+      "363.39",
+      "123.86",
+      "373.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Galouchey Vin de Jardin Bourdeaux, FR 2018  110",
+    "bbox": [
+      "47.75",
+      "380.64",
+      "278.71",
+      "390.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Cos d’Estournel Le Médoc de Cos Saint-Estèphe, FR 2014  115",
+    "bbox": [
+      "47.75",
+      "397.89",
+      "336.32",
+      "407.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Clerc Milon Pastourelle, Pauillac, FR 2012  125",
+    "bbox": [
+      "47.75",
+      "415.14",
+      "263.20",
+      "424.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Cos d’Estournel Les Pagodes de Cos Saint-Estèphe, FR 2012  220",
+    "bbox": [
+      "47.75",
+      "432.39",
+      "357.03",
+      "442.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Pontet Canet Pauillac, FR 2012  268",
+    "bbox": [
+      "47.75",
+      "449.64",
+      "215.39",
+      "459.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Grand-Puy-Lacoste Pauillac, FR 2003  300",
+    "bbox": [
+      "47.75",
+      "466.89",
+      "250.74",
+      "476.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Quintus Saint-Émilion, FR 2012  375",
+    "bbox": [
+      "47.75",
+      "484.14",
+      "216.00",
+      "493.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Montrose Saint-Estèphe, FR 1982  830",
+    "bbox": [
+      "47.75",
+      "501.39",
+      "226.52",
+      "511.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Côtes du Rhône",
+    "bbox": [
+      "47.75",
+      "528.39",
+      "123.95",
+      "538.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Domaine de Marcoux Vielle Vignes Châteauneuf-du-Pape, FR 2012  384",
+    "bbox": [
+      "47.75",
+      "545.64",
+      "380.66",
+      "555.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Grenache",
+    "bbox": [
+      "47.75",
+      "572.64",
+      "95.41",
+      "582.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Joan d’Anguera Finca l’Argata Monstant, SP 2016  92",
+    "bbox": [
+      "47.75",
+      "589.89",
+      "294.05",
+      "599.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "An Approach to Relaxation Sucette Barossa, AU 2017  120",
+    "bbox": [
+      "47.75",
+      "607.14",
+      "319.53",
+      "616.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "A Tribute to Grace Santa Barbara Highlands Vyd CA 2019  125",
+    "bbox": [
+      "47.75",
+      "624.39",
+      "336.50",
+      "634.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Sara Pérez y René Barbier Gratallops Partida Bellvisos, Priorat, SP 2011  130",
+    "bbox": [
+      "47.75",
+      "641.64",
+      "394.99",
+      "651.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Mourvèdre",
+    "bbox": [
+      "47.75",
+      "668.64",
+      "99.99",
+      "678.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Swick Columbia Valley, WA 2019  72",
+    "bbox": [
+      "47.75",
+      "685.89",
+      "216.88",
+      "695.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Tempier Pour Lulu Bandol, FR 2017  130",
+    "bbox": [
+      "47.75",
+      "703.14",
+      "233.06",
+      "712.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Terrebrune Bandol, FR 2013  100",
+    "bbox": [
+      "47.75",
+      "720.39",
+      "200.88",
+      "730.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://ssambar.momofuku.com/menu/wine/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "180.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/17/22, 9:28 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Wine | Ssäm Bar",
+    "bbox": [
+      "321.64",
+      "15.70",
+      "381.51",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Syrah",
+    "bbox": [
+      "47.75",
+      "33.39",
+      "76.47",
+      "43.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "+ Mourvedre Rimbert Mas au Schiste Languedoc-Roussillon, FR 2019  75",
+    "bbox": [
+      "47.75",
+      "50.64",
+      "385.04",
+      "60.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Julie Benau Syrah Languedoc-Roussillon, FR 2019  84",
+    "bbox": [
+      "47.75",
+      "67.89",
+      "298.87",
+      "77.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Coulet Matthieu Barret Brise Cailloux Cornas, FR 2016  110",
+    "bbox": [
+      "47.75",
+      "85.14",
+      "322.33",
+      "94.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Benoît Roseau Coteaux de Tupin Côte-Rôtie, FR 2016  115",
+    "bbox": [
+      "47.75",
+      "102.39",
+      "315.31",
+      "112.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Mickael Bourg P’tits Bouts Cornas, FR 2017  120",
+    "bbox": [
+      "47.75",
+      "119.64",
+      "270.52",
+      "129.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Combier Clos des Rives Crozes Hermitages, FR 2017  124",
+    "bbox": [
+      "47.75",
+      "136.89",
+      "313.57",
+      "146.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Jean-Louis Chave Clos Florentin Saint-Joseph, FR 2016  178",
+    "bbox": [
+      "47.75",
+      "154.14",
+      "325.02",
+      "163.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "+ Cab Sauv + Mourvèdre La Grange des Pères Herault, FR 2016  248",
+    "bbox": [
+      "47.75",
+      "171.39",
+      "364.97",
+      "181.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Jean-Michel Stephan Les Binardes Cote-Rotie, FR 2019  188",
+    "bbox": [
+      "47.75",
+      "188.64",
+      "327.70",
+      "198.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Cayuse Vineyards En Cerise, Walla Walla Valley, WA 2107  264",
+    "bbox": [
+      "47.75",
+      "205.89",
+      "336.34",
+      "215.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Standish The Standish Barossa Valley, AU 2016  255",
+    "bbox": [
+      "47.75",
+      "223.14",
+      "288.80",
+      "232.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Combier Crozes-Hermitage, FR 2017 1.5L  185",
+    "bbox": [
+      "47.75",
+      "240.39",
+      "258.69",
+      "250.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Nebbiolo",
+    "bbox": [
+      "47.75",
+      "267.39",
+      "92.40",
+      "277.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Roagna Rosso Langhe, IT 2014  79",
+    "bbox": [
+      "47.75",
+      "284.64",
+      "208.35",
+      "294.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Colombera & Garella Pizzaguerra Lessona Piedmont, IT 2016  108",
+    "bbox": [
+      "47.75",
+      "301.89",
+      "354.25",
+      "311.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Colombera & Garella Cascina Cottignano Bramaterra  Piedmont, IT 2016  108",
+    "bbox": [
+      "47.75",
+      "319.14",
+      "406.25",
+      "328.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Marcel Zanolari Valtellina Superiore Lombardia, IT 2011  110",
+    "bbox": [
+      "47.75",
+      "336.39",
+      "325.32",
+      "346.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Broccardo I Tre Pais Barolo, IT 2017  118",
+    "bbox": [
+      "47.75",
+      "353.64",
+      "233.04",
+      "363.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Brezza Castellero Barolo, IT 2015  120",
+    "bbox": [
+      "47.75",
+      "370.89",
+      "223.07",
+      "380.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Brezza Cannubi Barolo, IT 2015  125",
+    "bbox": [
+      "47.75",
+      "388.14",
+      "214.66",
+      "397.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Brezza Sarmassa, Barolo, IT 2007  250",
+    "bbox": [
+      "47.75",
+      "405.39",
+      "225.39",
+      "415.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Sangiovese",
+    "bbox": [
+      "47.75",
+      "432.39",
+      "103.21",
+      "442.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Sassetti Livio La Querciolina Rosso Montecucco, IT 2018  80",
+    "bbox": [
+      "47.75",
+      "449.64",
+      "329.55",
+      "459.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Il Colle Brunello di Montalcino IT 2015  140",
+    "bbox": [
+      "47.75",
+      "466.89",
+      "246.94",
+      "476.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Il Palazzone Brunello di Montalcino, IT 2016  200",
+    "bbox": [
+      "47.75",
+      "484.14",
+      "276.48",
+      "493.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Cerbaiona Brunello, IT 2013  350",
+    "bbox": [
+      "47.75",
+      "501.39",
+      "225.47",
+      "511.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Italy – Other",
+    "bbox": [
+      "47.75",
+      "528.39",
+      "106.75",
+      "538.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Nero d’Avola Feudo Montoni Lagnusa Sicily, IT 2019  78",
+    "bbox": [
+      "47.75",
+      "545.64",
+      "311.75",
+      "555.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Nerello Benanti Etna Rosso IT 2019  100",
+    "bbox": [
+      "47.75",
+      "562.89",
+      "231.15",
+      "572.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Ssam-thing Diﬀerent",
+    "bbox": [
+      "47.75",
+      "589.89",
+      "144.88",
+      "599.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Mencia Cesar Marquez El Rapolao Bierzo, SP 2017 80",
+    "bbox": [
+      "47.75",
+      "607.14",
+      "297.50",
+      "616.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Malbec Domaine de la Calmette Serpent à Plumes  Cahors, FR 2019  90",
+    "bbox": [
+      "47.75",
+      "624.39",
+      "379.22",
+      "634.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Merlot + Cab Sauv + Cab Franc Barboursville Octagon, VA 2016  125",
+    "bbox": [
+      "47.75",
+      "641.64",
+      "365.21",
+      "651.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Pinot Meunier Eyrie Vineyards Willamette Valley, OR 2016  138",
+    "bbox": [
+      "47.75",
+      "658.89",
+      "338.73",
+      "668.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Blaufrankish Gut Oggau Joschuari Rot Weinland, AT 2019  145",
+    "bbox": [
+      "47.75",
+      "676.14",
+      "334.96",
+      "685.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Lemberger Roterfaden Ednschleife Grand Cru Swabia, DE 2018  150",
+    "bbox": [
+      "47.75",
+      "693.39",
+      "365.15",
+      "703.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Tannat + Lagrein Stella di Campalto Choltempo Bella Tuscany, IT NV  165",
+    "bbox": [
+      "47.75",
+      "710.64",
+      "386.54",
+      "720.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Red Blend Joan d’Anguera Vinya de la Gloria Darmós Montsant, SP 2016  140",
+    "bbox": [
+      "47.75",
+      "727.89",
+      "402.45",
+      "737.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://ssambar.momofuku.com/menu/wine/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "180.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "4/17/22, 9:28 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Wine | Ssäm Bar",
+    "bbox": [
+      "321.64",
+      "15.70",
+      "381.51",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Dessert",
+    "bbox": [
+      "47.75",
+      "33.39",
+      "85.60",
+      "43.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Labet Vin de Paille Côtes du Jura, FR 2006 375ml  120",
+    "bbox": [
+      "47.75",
+      "50.64",
+      "300.63",
+      "60.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Suduiraut Lions de Suduiraut Sauternes, FR 2015  90",
+    "bbox": [
+      "47.75",
+      "67.89",
+      "295.72",
+      "77.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Raymond Lafon Sauternes, FR 2014  108",
+    "bbox": [
+      "47.75",
+      "85.14",
+      "238.29",
+      "94.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Château du Cros La Tradition Loupiac, FR 2011  140",
+    "bbox": [
+      "47.75",
+      "102.39",
+      "288.05",
+      "112.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Royal Tokaji Red Label 5 Puttonyos Tokaj, HU 2016 500ml  198",
+    "bbox": [
+      "47.75",
+      "119.64",
+      "338.11",
+      "129.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Château d’Yquem Sauternes, FR 2014  710",
+    "bbox": [
+      "47.75",
+      "136.89",
+      "245.36",
+      "146.72"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": " ",
+    "bbox": [
+      "478.58",
+      "205.30",
+      "510.38",
+      "218.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Print",
+    "bbox": [
+      "541.87",
+      "207.47",
+      "564.96",
+      "217.22"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "ssäm bar is part of the momofuku group",
+    "bbox": [
+      "65.75",
+      "271.73",
+      "187.93",
+      "280.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "our restaurants",
+    "bbox": [
+      "133.45",
+      "321.30",
+      "201.31",
+      "330.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "other ventures",
+    "bbox": [
+      "412.79",
+      "321.30",
+      "477.71",
+      "330.30"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "shop",
+    "bbox": [
+      "53.00",
+      "373.02",
+      "76.51",
+      "382.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "careers",
+    "bbox": [
+      "330.50",
+      "373.02",
+      "367.36",
+      "382.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "gift cards",
+    "bbox": [
+      "53.00",
+      "393.27",
+      "100.81",
+      "402.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "contact",
+    "bbox": [
+      "330.50",
+      "393.27",
+      "368.25",
+      "402.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "privacy policy terms of use",
+    "bbox": [
+      "53.75",
+      "439.73",
+      "190.91",
+      "448.73"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "https://ssambar.momofuku.com/menu/wine/",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "180.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "9/9",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

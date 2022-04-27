@@ -1,0 +1,281 @@
+[
+  {
+    "page_number": 1,
+    "text": "Happy Hour",
+    "bbox": [
+      "112.31",
+      "153.00",
+      "246.49",
+      "176.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Everyday Until 6:30pm",
+    "bbox": [
+      "120.41",
+      "179.10",
+      "238.37",
+      "192.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "House Wine | Red, White, Rosé, or Cava",
+    "bbox": [
+      "29.55",
+      "223.53",
+      "214.16",
+      "234.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "House Wine | Red, White, Rosé, or Cava",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "6",
+    "bbox": [
+      "323.60",
+      "223.53",
+      "329.26",
+      "234.53"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "6",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Huertas Vermouth | Red or White",
+    "bbox": [
+      "29.55",
+      "245.53",
+      "188.14",
+      "256.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Huertas Vermouth | Red or White",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "6",
+    "bbox": [
+      "323.60",
+      "245.53",
+      "329.26",
+      "256.53"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "6",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tap Beer | Mahou ‘Cinco Estrellas’",
+    "bbox": [
+      "29.55",
+      "267.53",
+      "190.71",
+      "278.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tap Beer | Mahou ‘Cinco Estrellas’",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "5",
+    "bbox": [
+      "324.75",
+      "267.53",
+      "329.26",
+      "278.53"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "5",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tap Cider | Isastegi ‘Sagardo Naturala’",
+    "bbox": [
+      "29.55",
+      "289.53",
+      "208.37",
+      "300.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tap Cider | Isastegi ‘Sagardo Naturala’",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "6",
+    "bbox": [
+      "323.60",
+      "289.53",
+      "329.26",
+      "300.53"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "6",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tap Gin-Tonic | Dorothy Parker Gin, Housemade Tonic",
+    "bbox": [
+      "29.55",
+      "311.53",
+      "289.15",
+      "322.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tap Gin-Tonic | Dorothy Parker Gin, Housemade Tonic",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9",
+    "bbox": [
+      "323.46",
+      "311.53",
+      "329.26",
+      "322.53"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "9",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Can & Conserva | ‘Simple Sour’ & Mackerel",
+    "bbox": [
+      "29.55",
+      "333.53",
+      "228.29",
+      "344.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Can & Conserva | ‘Simple Sour’ & Mackerel",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15",
+    "bbox": [
+      "320.69",
+      "333.53",
+      "329.26",
+      "344.53"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Half Oﬀ All Pintxos!",
+    "bbox": [
+      "91.50",
+      "370.21",
+      "259.70",
+      "389.21"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

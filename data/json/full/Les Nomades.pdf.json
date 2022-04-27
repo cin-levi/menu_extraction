@@ -1,0 +1,723 @@
+[
+  {
+    "page_number": 1,
+    "text": "Les Nomades Homepage",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "100.52",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "http://www.lesnomades.net/w/wine.html",
+    "bbox": [
+      "680.21",
+      "1.16",
+      "842.00",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1 av 2",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "24.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "2022-04-13 08:54",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Les Nomades Homepage",
+    "bbox": [
+      "0.00",
+      "1.16",
+      "100.52",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "http://www.lesnomades.net/w/wine.html",
+    "bbox": [
+      "680.21",
+      "1.16",
+      "842.00",
+      "11.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$75 corkage fee, limit one bottle per two guests",
+    "bbox": [
+      "384.61",
+      "48.63",
+      "603.65",
+      "59.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WINES BY THE GLASS",
+    "bbox": [
+      "219.88",
+      "84.63",
+      "339.39",
+      "95.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Champagne",
+    "bbox": [
+      "219.88",
+      "102.63",
+      "276.72",
+      "113.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Montaudon Brut, Champagne, Reims, France, NV",
+    "bbox": [
+      "219.88",
+      "120.63",
+      "441.37",
+      "131.63"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Montaudon Brut, Champagne, Reims, France",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "NV",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "19",
+    "bbox": [
+      "757.37",
+      "120.63",
+      "768.37",
+      "131.63"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "19",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Laurent-Perrier, Brut Rosé, Tours-sur-Marne, France, NV",
+    "bbox": [
+      "219.88",
+      "138.63",
+      "473.49",
+      "149.63"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Laurent-Perrier, Brut Rosé, Tours-sur-Marne, France",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "NV",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "28",
+    "bbox": [
+      "757.37",
+      "138.63",
+      "768.37",
+      "149.63"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "28",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dom Pérignon, Epernay, Brut, 2009",
+    "bbox": [
+      "219.88",
+      "156.63",
+      "378.97",
+      "167.63"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Dom Pérignon, Epernay, Brut",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2009",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "75",
+    "bbox": [
+      "757.37",
+      "156.63",
+      "768.37",
+      "167.63"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "75",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Whites",
+    "bbox": [
+      "219.88",
+      "192.63",
+      "252.88",
+      "203.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chardonnay, Domaine des Heritiers du Comte Lafon, Mâcon Milly-Lamartine, Mâconnais , France, 2018",
+    "bbox": [
+      "219.88",
+      "210.63",
+      "683.80",
+      "221.63"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Chardonnay, Domaine des Heritiers du Comte Lafon, Mâcon Milly-Lamartine, Mâconnais , France",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 93
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16",
+    "bbox": [
+      "757.38",
+      "210.63",
+      "768.38",
+      "221.63"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chardonnay, Flowers, Sonoma Coast, California, 2018",
+    "bbox": [
+      "219.88",
+      "228.63",
+      "460.81",
+      "239.63"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Chardonnay, Flowers, Sonoma Coast, California",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "757.37",
+      "228.63",
+      "768.37",
+      "239.63"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sauvignon Blanc, Jean-Max Roger, Cuvée Les Caillotes, Sancerre, France, 2019",
+    "bbox": [
+      "219.88",
+      "246.63",
+      "574.41",
+      "257.63"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Sauvignon Blanc, Jean-Max Roger, Cuvée Les Caillotes, Sancerre, France",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 72
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "757.37",
+      "246.63",
+      "768.37",
+      "257.63"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pinot Gris, Eguisheim, Emile Beyer, Alsace, France, 2019",
+    "bbox": [
+      "219.88",
+      "264.63",
+      "475.42",
+      "275.63"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Pinot Gris, Eguisheim, Emile Beyer, Alsace, France",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "12",
+    "bbox": [
+      "757.37",
+      "264.63",
+      "768.37",
+      "275.63"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "12",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bernkasteler Badstube Riesling Kabinett, Wwe Dr. H. Thanisch, Mosel, Germany, 2019",
+    "bbox": [
+      "219.88",
+      "282.63",
+      "607.13",
+      "293.63"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Bernkasteler Badstube Riesling Kabinett, Wwe Dr. H. Thanisch, Mosel, Germany,",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 78
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "12",
+    "bbox": [
+      "757.37",
+      "282.63",
+      "768.37",
+      "293.63"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "12",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Reds",
+    "bbox": [
+      "219.88",
+      "318.63",
+      "243.10",
+      "329.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pinot Noir, Réserve Bourgogne, Bouchard Père & Fils, 2019",
+    "bbox": [
+      "219.88",
+      "336.63",
+      "486.56",
+      "347.63"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Pinot Noir, Réserve Bourgogne, Bouchard Père & Fils",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "757.37",
+      "336.63",
+      "768.37",
+      "347.63"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Le Saint-Estèphe de Château Montrose, France, 2015",
+    "bbox": [
+      "219.88",
+      "354.63",
+      "455.09",
+      "365.63"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Le Saint-Estèphe de Château Montrose, France",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2015",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "757.37",
+      "354.63",
+      "768.37",
+      "365.63"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cabernet Sauvignon, Truchard Vineyards, Carneros Napa, California, 2019",
+    "bbox": [
+      "219.88",
+      "372.63",
+      "550.89",
+      "383.63"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Cabernet Sauvignon, Truchard Vineyards, Carneros Napa, California",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "757.37",
+      "372.63",
+      "768.37",
+      "383.63"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Syrah, Domaine Jean-Claude Marsanne, Saint-Joseph, Norhtern Rhône, France, 2015",
+    "bbox": [
+      "219.88",
+      "390.63",
+      "595.92",
+      "401.63"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Syrah, Domaine Jean-Claude Marsanne, Saint-Joseph, Norhtern Rhône, France",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2015",
+            "answer_start": 75
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "757.37",
+      "390.63",
+      "768.37",
+      "401.63"
+    ],
+    "annots": [
+      {
+        "p": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2 av 2",
+    "bbox": [
+      "0.00",
+      "586.16",
+      "24.44",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2022-04-13 08:54",
+    "bbox": [
+      "770.08",
+      "586.16",
+      "842.01",
+      "596.16"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

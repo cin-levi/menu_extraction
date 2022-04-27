@@ -1,0 +1,1916 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/20/22, 9:22 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Employees Only - Wine",
+    "bbox": [
+      "309.78",
+      "15.70",
+      "393.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DINNER",
+    "bbox": [
+      "156.12",
+      "102.15",
+      "180.00",
+      "107.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "COCKTAILS",
+    "bbox": [
+      "145.21",
+      "116.65",
+      "180.01",
+      "122.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPARKLING WINES & CHAMPAGNE NON‐VINTAGE",
+    "bbox": [
+      "201.00",
+      "117.12",
+      "433.11",
+      "125.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PEOPLE",
+    "bbox": [
+      "69.39",
+      "129.00",
+      "87.61",
+      "134.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE",
+    "bbox": [
+      "162.04",
+      "131.15",
+      "178.50",
+      "136.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MENUS",
+    "bbox": [
+      "69.33",
+      "139.50",
+      "87.67",
+      "144.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Employees Only Prosecco Brut, Zardetto, Veneta, Italy, NV13 /",
+    "bbox": [
+      "201.00",
+      "136.40",
+      "395.85",
+      "144.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GALLERIES",
+    "bbox": [
+      "65.24",
+      "150.00",
+      "91.76",
+      "155.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "46",
+    "bbox": [
+      "200.55",
+      "146.90",
+      "209.68",
+      "154.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ABOUT",
+    "bbox": [
+      "69.87",
+      "160.50",
+      "87.14",
+      "165.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Moët & Chandon \"Imperial\" 24 / 90",
+    "bbox": [
+      "201.00",
+      "157.40",
+      "313.59",
+      "165.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LOCATION",
+    "bbox": [
+      "65.03",
+      "171.00",
+      "91.96",
+      "176.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Perrier Jouët, 375ml “Grand Brut” 76",
+    "bbox": [
+      "201.00",
+      "167.90",
+      "315.49",
+      "175.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PRESS",
+    "bbox": [
+      "71.13",
+      "181.50",
+      "85.86",
+      "186.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Perrier Jouët, 750ml “Grand Brut” 142",
+    "bbox": [
+      "201.00",
+      "178.40",
+      "317.90",
+      "186.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "59.30",
+      "192.00",
+      "97.71",
+      "197.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "VINTAGE",
+    "bbox": [
+      "201.00",
+      "196.60",
+      "234.58",
+      "203.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "510 HUDSON ST",
+    "bbox": [
+      "60.26",
+      "209.20",
+      "95.74",
+      "213.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "NYC 10014",
+    "bbox": [
+      "65.95",
+      "216.70",
+      "90.05",
+      "220.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Moët & Chandon, “Grand Vintage” 2012 165",
+    "bbox": [
+      "201.00",
+      "213.90",
+      "343.47",
+      "221.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pol Roger, “Extra Cuvée de Réserve” 2012 256",
+    "bbox": [
+      "201.00",
+      "224.40",
+      "345.61",
+      "232.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "61.16",
+      "229.20",
+      "94.84",
+      "233.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DINNER ONLY",
+    "bbox": [
+      "62.28",
+      "236.70",
+      "93.73",
+      "240.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(212) 242-3021",
+    "bbox": [
+      "60.92",
+      "244.20",
+      "95.08",
+      "248.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSÉ",
+    "bbox": [
+      "201.00",
+      "242.60",
+      "220.38",
+      "249.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Mas Fi, Cava Rose N.V. 15 / 58",
+    "bbox": [
+      "201.00",
+      "259.90",
+      "300.27",
+      "267.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Taittinger, \"Cuvée Prestige\" Rosé 175",
+    "bbox": [
+      "201.00",
+      "270.40",
+      "313.54",
+      "278.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PHOTOGRAPHY:",
+    "bbox": [
+      "63.35",
+      "283.05",
+      "92.64",
+      "286.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Veuve Clicquot, \"Vintage Rosé, 2008 250",
+    "bbox": [
+      "201.00",
+      "280.90",
+      "329.86",
+      "288.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "EMILIE BALTZ",
+    "bbox": [
+      "66.04",
+      "288.05",
+      "89.97",
+      "291.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WEBSITE DESIGN:",
+    "bbox": [
+      "61.52",
+      "295.55",
+      "94.47",
+      "299.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WARREN RED",
+    "bbox": [
+      "66.06",
+      "300.55",
+      "89.94",
+      "304.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TÊTE DE CUVÉE",
+    "bbox": [
+      "201.00",
+      "299.10",
+      "257.38",
+      "306.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "“Dom Pérignon,” 2006 550",
+    "bbox": [
+      "201.00",
+      "316.40",
+      "286.77",
+      "324.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RED WINES",
+    "bbox": [
+      "201.00",
+      "349.75",
+      "251.87",
+      "357.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cotes‐du‐Rhone (Grenache/Mourvèdre/Syrah) 14 / 46",
+    "bbox": [
+      "201.00",
+      "367.73",
+      "376.47",
+      "376.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cotes‐du‐Rhone (Grenache/Mourvèdre/Syrah)",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "14 / 46",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chateau du Trignon, Rhone, France, 2017",
+    "bbox": [
+      "201.00",
+      "378.90",
+      "330.81",
+      "386.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chateau du Trignon, Rhone, France,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bourgogne (Pinot Noir) 14 / 46",
+    "bbox": [
+      "201.00",
+      "397.40",
+      "298.37",
+      "405.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14 / 46",
+            "answer_start": 23
+          }
+        ],
+        "W": [
+          {
+            "text": "Bourgogne (Pinot Noir)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Domaine Seguin-Manuel, Burgundy, France, 2017",
+    "bbox": [
+      "201.00",
+      "407.90",
+      "357.93",
+      "415.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Seguin-Manuel, Burgundy, France,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Newton \"Skyside\" (Cabernet Sauvignon) 15 / 56",
+    "bbox": [
+      "201.00",
+      "426.40",
+      "352.57",
+      "434.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15 / 56",
+            "answer_start": 38
+          }
+        ],
+        "W": [
+          {
+            "text": "Newton \"Skyside\" (Cabernet Sauvignon)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sonoma County, California, USA, 2017",
+    "bbox": [
+      "201.00",
+      "436.90",
+      "324.70",
+      "444.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sonoma County, California, USA,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chinon “Cuvee Terroir” (Cabernet Franc) 45",
+    "bbox": [
+      "201.00",
+      "455.40",
+      "337.99",
+      "463.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "45",
+            "answer_start": 40
+          }
+        ],
+        "W": [
+          {
+            "text": "Chinon “Cuvee Terroir” (Cabernet Franc)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Domaine Charles Joguet, Loire, France, 2017",
+    "bbox": [
+      "201.00",
+      "465.90",
+      "340.92",
+      "473.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Charles Joguet, Loire, France,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Patchwork Shiraz 45",
+    "bbox": [
+      "201.00",
+      "484.40",
+      "265.04",
+      "492.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "45",
+            "answer_start": 17
+          }
+        ],
+        "W": [
+          {
+            "text": "Patchwork Shiraz",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Yalumba, Barossa, Australia, 2017",
+    "bbox": [
+      "201.00",
+      "494.90",
+      "308.22",
+      "502.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Yalumba, Barossa, Australia,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Malbec 50",
+    "bbox": [
+      "201.00",
+      "513.40",
+      "235.87",
+      "521.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "50",
+            "answer_start": 7
+          }
+        ],
+        "W": [
+          {
+            "text": "Malbec",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Septima, Mendoza, Argentina, 2017",
+    "bbox": [
+      "201.00",
+      "523.90",
+      "315.66",
+      "531.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Septima, Mendoza, Argentina,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sancerre Rouge (Pinot Noir) 56",
+    "bbox": [
+      "201.00",
+      "542.40",
+      "298.93",
+      "550.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "56",
+            "answer_start": 28
+          }
+        ],
+        "W": [
+          {
+            "text": "Sancerre Rouge (Pinot Noir)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Domaine Hippolyte Reverdy, Loire, France, 2017",
+    "bbox": [
+      "201.00",
+      "552.90",
+      "352.26",
+      "560.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Hippolyte Reverdy, Loire, France,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rioja Reserva (Tempranillo) 64",
+    "bbox": [
+      "201.00",
+      "571.40",
+      "295.84",
+      "579.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "64",
+            "answer_start": 28
+          }
+        ],
+        "W": [
+          {
+            "text": "Rioja Reserva (Tempranillo)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bodegas Muga, Rioja, Spain, 2014",
+    "bbox": [
+      "201.00",
+      "581.90",
+      "311.70",
+      "589.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bodegas Muga, Rioja, Spain,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bordeaux (Merlot/Cabernet Sauvignon/Cabernet Franc) 62",
+    "bbox": [
+      "201.00",
+      "600.40",
+      "390.28",
+      "608.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "62",
+            "answer_start": 52
+          }
+        ],
+        "W": [
+          {
+            "text": "Bordeaux (Merlot/Cabernet Sauvignon/Cabernet Franc)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chateau Magneau, Graves, France, 2014",
+    "bbox": [
+      "201.00",
+      "610.90",
+      "332.06",
+      "618.90"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Barbaresco (Nebbiolo) 100",
+    "bbox": [
+      "201.00",
+      "629.40",
+      "287.00",
+      "637.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "100",
+            "answer_start": 22
+          }
+        ],
+        "W": [
+          {
+            "text": "Barbaresco (Nebbiolo)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cortese, Piemonte, Italy, 2016",
+    "bbox": [
+      "201.00",
+      "639.90",
+      "294.87",
+      "647.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cortese, Piemonte, Italy,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pinot Noir “Isabelle” 105",
+    "bbox": [
+      "201.00",
+      "658.40",
+      "278.41",
+      "666.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "105",
+            "answer_start": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Au Bon Climat, California, 2015",
+    "bbox": [
+      "201.00",
+      "668.90",
+      "300.62",
+      "676.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Au Bon Climat, California,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chateauneuf du Pape “Telegramme” 150",
+    "bbox": [
+      "201.00",
+      "687.40",
+      "327.78",
+      "695.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "150",
+            "answer_start": 33
+          }
+        ],
+        "W": [
+          {
+            "text": "Chateauneuf du Pape “Telegramme”",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(Grenache/Syrah/Mourvedre) Vieux Telegraphe, Rhone,",
+    "bbox": [
+      "201.00",
+      "697.90",
+      "380.29",
+      "705.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(Grenache/Syrah/Mourvedre) Vieux Telegraphe, Rhone,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "France, 2016",
+    "bbox": [
+      "201.00",
+      "708.40",
+      "242.26",
+      "716.40"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Amarone “Vigneto Monte Sant’ Urbano” 160",
+    "bbox": [
+      "201.00",
+      "726.90",
+      "341.42",
+      "734.90"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "160",
+            "answer_start": 37
+          }
+        ],
+        "W": [
+          {
+            "text": "Amarone “Vigneto Monte Sant’ Urbano”",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(Corvina/Molinara) Speri, Piemonte, Italy, 2013",
+    "bbox": [
+      "201.00",
+      "737.40",
+      "351.72",
+      "745.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "(Corvina/Molinara) Speri, Piemonte, Italy,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.employeesonlynyc.com/menus/wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "197.64",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/2",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/20/22, 9:22 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Employees Only - Wine",
+    "bbox": [
+      "309.78",
+      "15.70",
+      "393.36",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROSE WINE",
+    "bbox": [
+      "201.00",
+      "31.25",
+      "254.30",
+      "38.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Breezette Rosé 13 / 48",
+    "bbox": [
+      "201.00",
+      "49.90",
+      "271.56",
+      "57.90"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13 / 48",
+            "answer_start": 15
+          }
+        ],
+        "W": [
+          {
+            "text": "Breezette Rosé",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cotes de Provence, Provence, France, 2018",
+    "bbox": [
+      "201.00",
+      "60.40",
+      "336.42",
+      "68.40"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 37
+          }
+        ],
+        "W": [
+          {
+            "text": "Cotes de Provence, Provence, France,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WHITE WINES",
+    "bbox": [
+      "201.00",
+      "93.75",
+      "263.84",
+      "101.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chardonnay 14 / 46",
+    "bbox": [
+      "201.00",
+      "112.40",
+      "265.18",
+      "120.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14 / 46",
+            "answer_start": 11
+          }
+        ],
+        "W": [
+          {
+            "text": "Chardonnay",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Smoke Tree, Sonoma County, 2016",
+    "bbox": [
+      "201.00",
+      "122.90",
+      "311.17",
+      "130.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Smoke Tree, Sonoma County,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Vermentino 14 / 50",
+    "bbox": [
+      "201.00",
+      "141.40",
+      "260.90",
+      "149.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14 / 50",
+            "answer_start": 11
+          }
+        ],
+        "W": [
+          {
+            "text": "Vermentino",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tenuta Gaudo Al Tasso, New Zealand, 2017",
+    "bbox": [
+      "201.00",
+      "151.90",
+      "340.02",
+      "159.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Tenuta Gaudo Al Tasso, New Zealand,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sauvignon Blanc _15_56",
+    "bbox": [
+      "201.00",
+      "170.40",
+      "279.92",
+      "178.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "_15_56",
+            "answer_start": 16
+          }
+        ],
+        "W": [
+          {
+            "text": "Sauvignon Blanc _",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Nautilus, Marlborough, New Zealand, 2018",
+    "bbox": [
+      "201.00",
+      "180.90",
+      "339.83",
+      "188.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Nautilus, Marlborough, New Zealand,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chenin Blanc/Viognier 40",
+    "bbox": [
+      "201.00",
+      "199.40",
+      "283.54",
+      "207.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "40",
+            "answer_start": 22
+          }
+        ],
+        "W": [
+          {
+            "text": "Chenin Blanc/Viognier",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pine Ridge, Napa, California, 2018",
+    "bbox": [
+      "201.00",
+      "209.90",
+      "311.64",
+      "217.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pine Ridge, Napa, California,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Petit Chablis (Chardonnay) 50",
+    "bbox": [
+      "201.00",
+      "228.40",
+      "295.16",
+      "236.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "50",
+            "answer_start": 27
+          }
+        ],
+        "W": [
+          {
+            "text": "Petit Chablis (Chardonnay)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Olivier Savary, Burgundy, France, 2018",
+    "bbox": [
+      "201.00",
+      "238.90",
+      "324.62",
+      "246.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Olivier Savary, Burgundy, France,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Thalassitis (Assyrtiko) 56",
+    "bbox": [
+      "201.00",
+      "257.40",
+      "275.90",
+      "265.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "56",
+            "answer_start": 24
+          }
+        ],
+        "W": [
+          {
+            "text": "Thalassitis (Assyrtiko)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Gai'a Estate, Santorini, Greece, 2018",
+    "bbox": [
+      "201.00",
+      "267.90",
+      "317.77",
+      "275.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Gai'a Estate, Santorini, Greece,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sancerre (Sauvignon Blanc) 58",
+    "bbox": [
+      "201.00",
+      "286.40",
+      "298.25",
+      "294.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "58",
+            "answer_start": 27
+          }
+        ],
+        "W": [
+          {
+            "text": "Sancerre (Sauvignon Blanc)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Patrice Moreux, Pouilly sur Loire, France, 2018",
+    "bbox": [
+      "201.00",
+      "296.90",
+      "344.87",
+      "304.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Patrice Moreux, Pouilly sur Loire, France,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Puligny Montrachet (Chardonnay) 125",
+    "bbox": [
+      "201.00",
+      "315.40",
+      "319.45",
+      "323.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Puligny Montrachet (Chardonnay)",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Domaine Jean Chartron, Burgundy, France, 2016",
+    "bbox": [
+      "201.00",
+      "325.90",
+      "353.63",
+      "333.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Jean Chartron, Burgundy, France,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DESSERT WINES",
+    "bbox": [
+      "201.00",
+      "359.25",
+      "273.34",
+      "366.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pedro Ximenez, “Nectar” 12",
+    "bbox": [
+      "201.00",
+      "377.90",
+      "289.19",
+      "385.90"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "12",
+            "answer_start": 24
+          }
+        ],
+        "W": [
+          {
+            "text": "Pedro Ximenez, “Nectar”",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Gonzalez Byass, Sanlucar de Barrameda, Spain, NV",
+    "bbox": [
+      "201.00",
+      "388.40",
+      "366.62",
+      "396.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Gonzalez Byass, Sanlucar de Barrameda, Spain,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Late Harvest Chardonnay, “Diosa” 16 / 75",
+    "bbox": [
+      "201.00",
+      "406.90",
+      "333.60",
+      "414.90"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Late Harvest Chardonnay, “Diosa”",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Pedro Ximenez, “Noe” 30 Year 22",
+    "bbox": [
+      "201.00",
+      "417.40",
+      "308.14",
+      "425.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pedro Ximenez, “Noe” 30",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "Year 22",
+            "answer_start": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PORT WINE",
+    "bbox": [
+      "201.00",
+      "450.75",
+      "254.15",
+      "458.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Fonseca Porto Bin No.27 13",
+    "bbox": [
+      "201.00",
+      "469.40",
+      "288.38",
+      "477.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dow’s Fine Ruby 13",
+    "bbox": [
+      "201.00",
+      "479.90",
+      "261.95",
+      "487.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Graham’s Six Grapes 13",
+    "bbox": [
+      "201.00",
+      "490.40",
+      "277.74",
+      "498.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Ramos Pinto 10yr Tawny 14",
+    "bbox": [
+      "201.00",
+      "500.90",
+      "286.46",
+      "508.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Taylor Fladgate 30yr Tawny 33",
+    "bbox": [
+      "201.00",
+      "511.40",
+      "297.37",
+      "519.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.employeesonlynyc.com/menus/wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "197.64",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/2",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

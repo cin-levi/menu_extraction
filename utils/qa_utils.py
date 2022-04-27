@@ -1371,3 +1371,61 @@ def ner_evaluate(ner_predictions, examples, question_list):
         micro['micro_ner_p'] = p
         micro['micro_ner_f1'] = 2 * r * p / (r + p) if (r + p) != 0 else 0
     return (macro, micro, confusion_matrix)
+
+
+def dump_the_report(ner_predictions, examples, question_to_report):
+    # calculate ner by field
+    id_to_example = {example.uid: example for example in examples}
+    outputs = []
+    for id in id_to_example:
+        found = []
+        redundant = []
+        missing = []
+        example = id_to_example[id]
+        char_to_word_offset = example.char_to_word_offset
+        example_predictions = ner_predictions[id]
+        questions = example.question_texts
+        for i in range(len(questions)):
+            question = questions[i]
+            if question != question_to_report:
+                continue
+            gt = []
+            for answer in example.answers[i]:
+                gt.append({'answer_start': char_to_word_offset[answer['answer_start']], 'text': answer['text']})
+            preds = [{'answer_start': x['start'], 'text': x['text']} for x in example_predictions if
+                     x['entity_type'] == question]
+            # Remove duplication here
+
+            new_preds = []
+            for p in preds:
+                if p not in new_preds:
+                    new_preds.append(p)
+            preds = new_preds
+            # Check the overlap here
+
+            for pred in preds:
+                # Check if there is any overlapped section
+                pred_match_found = False
+                for ca in gt:
+                    if ca['answer_start'] <= pred['answer_start'] < ca['answer_start'] + \
+                            len(ca['text'].strip().split()) or pred['answer_start'] <= ca['answer_start'] < \
+                            pred['answer_start'] + len(pred['text'].strip().split()):
+                        pred_match_found = True
+                        found.append({'ground_truth': ca['text'],
+                                      'prediction': pred['text']})
+                if not pred_match_found:
+                    redundant.append(pred['text'])
+            for ca in gt:
+                ca_match_found = False
+                for pred in preds:
+                    if ca['answer_start'] <= pred['answer_start'] <= ca['answer_start'] + \
+                            len(ca['text'].strip().split()) or pred['answer_start'] <= ca['answer_start'] <= \
+                            pred['answer_start'] + len(pred['text'].strip().split()):
+                        ca_match_found = True
+                        break
+                if not ca_match_found:
+                    missing.append(ca['text'])
+        outputs.append({"answer_found": found,
+                        "missing": missing,
+                        "redundant_prediction": redundant})
+    return outputs

@@ -1,0 +1,2459 @@
+[
+  {
+    "page_number": 1,
+    "text": "cocktails",
+    "bbox": [
+      "33.16",
+      "36.77",
+      "118.06",
+      "84.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "beer",
+    "bbox": [
+      "260.04",
+      "37.36",
+      "299.28",
+      "83.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ON TAP",
+    "bbox": [
+      "259.97",
+      "82.55",
+      "298.42",
+      "92.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BOTTLES & CANS",
+    "bbox": [
+      "425.98",
+      "82.01",
+      "508.86",
+      "92.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "* large format, serves 6 $85",
+    "bbox": [
+      "31.00",
+      "86.62",
+      "162.26",
+      "96.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$85",
+            "answer_start": 25
+          }
+        ],
+        "W": [
+          {
+            "text": "large format, serves 6",
+            "answer_start": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MONTAUK PILSNER",
+    "bbox": [
+      "259.97",
+      "101.10",
+      "379.93",
+      "113.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MONTAUK PILSNER",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9",
+    "bbox": [
+      "405.34",
+      "101.10",
+      "412.97",
+      "113.10"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "9",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HEINEKEN",
+    "bbox": [
+      "425.98",
+      "101.15",
+      "492.48",
+      "113.15"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "HEINEKEN",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "8",
+    "bbox": [
+      "570.94",
+      "101.15",
+      "578.98",
+      "113.15"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "8",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BABY DOLL*",
+    "bbox": [
+      "32.00",
+      "110.16",
+      "110.79",
+      "122.16"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BABY DOLL*",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "210.86",
+      "110.16",
+      "226.24",
+      "122.16"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "STELLA ARTOIS",
+    "bbox": [
+      "259.97",
+      "119.86",
+      "358.85",
+      "131.86"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "STELLA ARTOIS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9",
+    "bbox": [
+      "405.34",
+      "119.86",
+      "412.97",
+      "131.86"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "9",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MONTAUK SUMMER",
+    "bbox": [
+      "425.98",
+      "119.91",
+      "546.19",
+      "131.91"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MONTAUK SUMMER",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "8",
+    "bbox": [
+      "570.94",
+      "119.91",
+      "578.98",
+      "131.91"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "8",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "vodka, watermelon, pineapple,",
+    "bbox": [
+      "32.00",
+      "124.56",
+      "195.19",
+      "136.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "vodka, watermelon, pineapple,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "lemon juice",
+    "bbox": [
+      "32.00",
+      "138.96",
+      "92.59",
+      "150.96"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "lemon juice",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "KONA BIG WAVE",
+    "bbox": [
+      "259.97",
+      "138.62",
+      "359.85",
+      "150.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "KONA BIG WAVE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9",
+    "bbox": [
+      "405.34",
+      "138.62",
+      "412.97",
+      "150.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "9",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CORONA",
+    "bbox": [
+      "425.98",
+      "138.67",
+      "480.88",
+      "150.67"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CORONA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "8",
+    "bbox": [
+      "570.94",
+      "138.67",
+      "578.98",
+      "150.67"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "8",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SAM ADAMS",
+    "bbox": [
+      "259.97",
+      "157.38",
+      "337.61",
+      "169.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "AMSTEL LIGHT",
+    "bbox": [
+      "425.98",
+      "157.43",
+      "518.85",
+      "169.43"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "AMSTEL LIGHT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "8",
+    "bbox": [
+      "570.94",
+      "157.43",
+      "578.98",
+      "169.43"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "8",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LUSTER",
+    "bbox": [
+      "32.00",
+      "161.72",
+      "82.89",
+      "173.72"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LUSTER",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "210.86",
+      "161.72",
+      "226.24",
+      "173.72"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WICKED HAZY",
+    "bbox": [
+      "259.97",
+      "169.38",
+      "349.21",
+      "181.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9",
+    "bbox": [
+      "405.34",
+      "169.38",
+      "412.97",
+      "181.38"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "9",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "gin, cucumber, lime,",
+    "bbox": [
+      "32.00",
+      "176.12",
+      "144.19",
+      "188.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "gin, cucumber, lime,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PERONI",
+    "bbox": [
+      "425.98",
+      "176.19",
+      "475.60",
+      "188.19"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PERONI",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9",
+    "bbox": [
+      "571.35",
+      "176.19",
+      "578.98",
+      "188.19"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "9",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "simple syrup",
+    "bbox": [
+      "32.00",
+      "190.52",
+      "102.46",
+      "202.52"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "simple syrup",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BLUE POINT",
+    "bbox": [
+      "259.97",
+      "188.14",
+      "336.44",
+      "200.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BLUE POINT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ANGRY ORCHARD",
+    "bbox": [
+      "425.98",
+      "194.95",
+      "531.93",
+      "206.95"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ANGRY ORCHARD",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TOASTED LAGER",
+    "bbox": [
+      "259.97",
+      "200.14",
+      "363.45",
+      "212.14"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "TOASTED LAGER",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9",
+    "bbox": [
+      "405.34",
+      "200.14",
+      "412.97",
+      "212.14"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "9",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PEACH MANGO CIDER",
+    "bbox": [
+      "425.98",
+      "206.95",
+      "554.23",
+      "218.95"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PEACH MANGO CIDER",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9",
+    "bbox": [
+      "571.35",
+      "206.95",
+      "578.98",
+      "218.95"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "9",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MEZCAL OLD FASHIONED",
+    "bbox": [
+      "32.00",
+      "213.28",
+      "186.65",
+      "225.28"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MEZCAL OLD FASHIONED",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "210.86",
+      "213.28",
+      "226.24",
+      "225.28"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "mezcal, orange bitters,",
+    "bbox": [
+      "32.00",
+      "227.68",
+      "161.47",
+      "239.68"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "mezcal, orange bitters,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "5 BOROUGHS",
+    "bbox": [
+      "425.98",
+      "225.71",
+      "509.22",
+      "237.71"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "5 BOROUGHS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TINY JUICY IPA",
+    "bbox": [
+      "425.98",
+      "237.71",
+      "522.86",
+      "249.71"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "TINY JUICY IPA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9",
+    "bbox": [
+      "571.35",
+      "237.71",
+      "578.98",
+      "249.71"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "9",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "simple syrup",
+    "bbox": [
+      "32.00",
+      "242.08",
+      "102.46",
+      "254.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "simple syrup",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "13TH FLOOR MARGARITA*  18",
+    "bbox": [
+      "32.00",
+      "264.84",
+      "226.24",
+      "276.84"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 23
+          }
+        ],
+        "W": [
+          {
+            "text": "13TH FLOOR MARGARITA*",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "wine",
+    "bbox": [
+      "260.04",
+      "262.02",
+      "304.11",
+      "308.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TRULY TROPICAL FLAVORS",
+    "bbox": [
+      "425.98",
+      "256.47",
+      "554.79",
+      "268.47"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "TRULY TROPICAL FLAVORS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "9",
+    "bbox": [
+      "571.35",
+      "256.47",
+      "578.98",
+      "268.47"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "9",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "tequila blanco, patron mango,",
+    "bbox": [
+      "32.00",
+      "279.24",
+      "198.68",
+      "291.24"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "tequila blanco, patron mango,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "habanero, lime",
+    "bbox": [
+      "32.00",
+      "293.64",
+      "113.13",
+      "305.64"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "habanero, lime",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE/SPARKLING",
+    "bbox": [
+      "258.88",
+      "305.36",
+      "348.24",
+      "315.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSÉ BY THE GLASS",
+    "bbox": [
+      "425.44",
+      "305.32",
+      "524.16",
+      "315.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TRES CUATRO PUNCH",
+    "bbox": [
+      "32.00",
+      "316.40",
+      "166.04",
+      "328.40"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "TRES CUATRO PUNCH",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "210.86",
+      "316.40",
+      "226.24",
+      "328.40"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BY THE GLASS",
+    "bbox": [
+      "258.88",
+      "315.36",
+      "325.48",
+      "325.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "IGC ROSÉ",
+    "bbox": [
+      "425.44",
+      "321.97",
+      "485.58",
+      "333.97"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "IGC ROSÉ",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15",
+    "bbox": [
+      "566.70",
+      "321.97",
+      "581.92",
+      "333.97"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "rum, lemon juice, passionfruit,",
+    "bbox": [
+      "32.00",
+      "330.80",
+      "201.71",
+      "342.80"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "rum, lemon juice, passionfruit,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "STORYPOINT",
+    "bbox": [
+      "258.88",
+      "332.51",
+      "339.86",
+      "344.51"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "STORYPOINT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "france",
+    "bbox": [
+      "425.44",
+      "334.97",
+      "460.53",
+      "346.97"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "france",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "pomegranate, ginger beer",
+    "bbox": [
+      "32.00",
+      "345.20",
+      "175.12",
+      "357.20"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "pomegranate, ginger beer",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "258.88",
+      "344.51",
+      "348.09",
+      "356.51"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "17",
+    "bbox": [
+      "400.65",
+      "344.51",
+      "415.36",
+      "356.51"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BELLE GLOS",
+    "bbox": [
+      "425.44",
+      "353.73",
+      "503.21",
+      "365.73"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BELLE GLOS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "17",
+    "bbox": [
+      "567.21",
+      "353.73",
+      "581.92",
+      "365.73"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "california",
+    "bbox": [
+      "258.88",
+      "357.51",
+      "310.46",
+      "369.51"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "california",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "APRICOT MINT SMASH",
+    "bbox": [
+      "32.00",
+      "367.96",
+      "169.94",
+      "379.96"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "APRICOT MINT SMASH",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "210.86",
+      "367.96",
+      "226.24",
+      "379.96"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "california",
+    "bbox": [
+      "425.44",
+      "366.73",
+      "477.02",
+      "378.73"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "california",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CASA LUNARDI",
+    "bbox": [
+      "258.88",
+      "376.27",
+      "353.93",
+      "388.27"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CASA LUNARDI",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "whiskey, apricot liqueur,",
+    "bbox": [
+      "32.00",
+      "382.36",
+      "167.27",
+      "394.36"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "whiskey, apricot liqueur,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PINOT GRIGIO",
+    "bbox": [
+      "258.88",
+      "388.27",
+      "344.84",
+      "400.27"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT GRIGIO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "17 CHANDON SPARKLING 17",
+    "bbox": [
+      "400.65",
+      "385.49",
+      "581.92",
+      "400.27"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 21
+          },
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ],
+        "W": [
+          {
+            "text": "CHANDON SPARKLING",
+            "answer_start": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "lemon juice, mint syrup",
+    "bbox": [
+      "32.00",
+      "396.76",
+      "160.40",
+      "408.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "lemon juice, mint syrup",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "italy",
+    "bbox": [
+      "258.88",
+      "401.27",
+      "283.17",
+      "413.27"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "california",
+    "bbox": [
+      "425.44",
+      "398.49",
+      "477.02",
+      "410.49"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "california",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "EMPIRE PALOMA",
+    "bbox": [
+      "32.00",
+      "419.52",
+      "136.36",
+      "431.52"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "EMPIRE PALOMA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "210.86",
+      "419.52",
+      "226.24",
+      "431.52"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PAUL BUISSE",
+    "bbox": [
+      "258.88",
+      "420.03",
+      "342.90",
+      "432.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PAUL BUISSE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "mezcal, pomp & whimsy,",
+    "bbox": [
+      "32.00",
+      "433.92",
+      "169.52",
+      "445.92"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "mezcal, pomp & whimsy,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "258.88",
+      "432.03",
+      "380.37",
+      "444.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "17",
+    "bbox": [
+      "400.65",
+      "432.03",
+      "415.36",
+      "444.03"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RED BY THE GLASS",
+    "bbox": [
+      "425.44",
+      "437.86",
+      "517.92",
+      "447.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "france",
+    "bbox": [
+      "258.88",
+      "445.03",
+      "293.97",
+      "457.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "france",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "simple syrup, grapefruit juice",
+    "bbox": [
+      "32.00",
+      "448.32",
+      "193.40",
+      "460.32"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "simple syrup, grapefruit juice",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BV CABERNET",
+    "bbox": [
+      "425.44",
+      "455.01",
+      "512.80",
+      "467.01"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BV CABERNET",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "17",
+    "bbox": [
+      "567.21",
+      "455.01",
+      "581.92",
+      "467.01"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "STELLINA DI NOTTE",
+    "bbox": [
+      "258.88",
+      "463.79",
+      "381.90",
+      "475.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "STELLINA DI NOTTE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "napa valley",
+    "bbox": [
+      "425.44",
+      "468.01",
+      "487.65",
+      "480.01"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "napa valley",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PROSECCO",
+    "bbox": [
+      "258.88",
+      "475.79",
+      "326.87",
+      "487.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PROSECCO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15",
+    "bbox": [
+      "400.14",
+      "475.79",
+      "415.36",
+      "487.79"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "rose all day",
+    "bbox": [
+      "33.16",
+      "482.83",
+      "153.64",
+      "532.06"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "italy",
+    "bbox": [
+      "258.88",
+      "488.79",
+      "283.17",
+      "500.79"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ELOUAN PINOT NOIR",
+    "bbox": [
+      "425.44",
+      "486.77",
+      "549.04",
+      "498.77"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ELOUAN PINOT NOIR",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "17",
+    "bbox": [
+      "567.21",
+      "486.77",
+      "581.92",
+      "498.77"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "oregon",
+    "bbox": [
+      "425.44",
+      "499.77",
+      "464.16",
+      "511.77"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "oregon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HEIDSIECK MONOPOLE",
+    "bbox": [
+      "258.88",
+      "507.55",
+      "395.14",
+      "519.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "HEIDSIECK MONOPOLE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BLUE TOP BRUT",
+    "bbox": [
+      "258.88",
+      "519.55",
+      "358.78",
+      "531.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BLUE TOP BRUT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "24 BONANZA CABERNET 17",
+    "bbox": [
+      "397.12",
+      "518.53",
+      "581.92",
+      "531.55"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 20
+          },
+          {
+            "text": "24",
+            "answer_start": 0
+          }
+        ],
+        "W": [
+          {
+            "text": "BONANZA CABERNET",
+            "answer_start": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FROSÉ",
+    "bbox": [
+      "32.00",
+      "533.33",
+      "75.67",
+      "545.33"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FROSÉ",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "172.58",
+      "533.33",
+      "226.24",
+      "545.33"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "france",
+    "bbox": [
+      "258.88",
+      "532.55",
+      "293.97",
+      "544.55"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "france",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "napa valley",
+    "bbox": [
+      "425.44",
+      "531.53",
+      "487.65",
+      "543.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "rosé, vodka, peach liqueur,",
+    "bbox": [
+      "32.00",
+      "547.73",
+      "171.61",
+      "559.73"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "rosé, vodka, peach liqueur,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "brunch",
+    "bbox": [
+      "261.13",
+      "546.53",
+      "330.07",
+      "593.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "simple syrup, lemon juice,",
+    "bbox": [
+      "32.00",
+      "562.13",
+      "168.55",
+      "574.13"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "simple syrup, lemon juice,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "* large format, serves 6 $75",
+    "bbox": [
+      "340.98",
+      "569.03",
+      "471.13",
+      "579.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "orange juice, strawberry",
+    "bbox": [
+      "32.00",
+      "576.53",
+      "158.02",
+      "588.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "orange juice, strawberry",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSÉ SPRITZ",
+    "bbox": [
+      "32.00",
+      "598.29",
+      "115.92",
+      "610.29"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ROSÉ SPRITZ",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "165.62",
+      "598.29",
+      "226.24",
+      "610.29"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "POMEGRANATE MARGARITA 17",
+    "bbox": [
+      "271.32",
+      "596.67",
+      "464.56",
+      "608.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "aperol, agave, orange juice,",
+    "bbox": [
+      "32.00",
+      "612.69",
+      "185.39",
+      "624.69"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "aperol, agave, orange juice,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "tequila rosa, pomegranate liqueur,",
+    "bbox": [
+      "271.32",
+      "611.07",
+      "451.61",
+      "623.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "lemon juice, sparkling rosé",
+    "bbox": [
+      "32.00",
+      "627.09",
+      "179.02",
+      "639.09"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "lemon juice, sparkling rosé",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "cucumber, bergamot liqueur,",
+    "bbox": [
+      "271.32",
+      "625.07",
+      "424.92",
+      "637.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "simple syrup, lime juice",
+    "bbox": [
+      "271.32",
+      "639.47",
+      "394.86",
+      "651.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSÉ SANGRIA*",
+    "bbox": [
+      "32.00",
+      "648.85",
+      "133.26",
+      "660.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ROSÉ SANGRIA*",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "18",
+    "bbox": [
+      "210.86",
+      "648.85",
+      "226.24",
+      "660.85"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PEACH BELLINI*",
+    "bbox": [
+      "271.32",
+      "659.23",
+      "374.27",
+      "671.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15",
+    "bbox": [
+      "449.06",
+      "659.23",
+      "461.32",
+      "671.23"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "rosé, orange juice,",
+    "bbox": [
+      "32.00",
+      "663.25",
+      "135.86",
+      "675.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "rosé, orange juice,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "orange liqueur, apples, oranges",
+    "bbox": [
+      "32.00",
+      "677.65",
+      "203.29",
+      "689.65"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "orange liqueur, apples, oranges",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MIMOSA*",
+    "bbox": [
+      "271.32",
+      "678.99",
+      "329.93",
+      "690.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15",
+    "bbox": [
+      "449.06",
+      "678.99",
+      "461.32",
+      "690.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSÉ TOWER",
+    "bbox": [
+      "32.00",
+      "699.41",
+      "114.09",
+      "711.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ROSÉ TOWER",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "110",
+    "bbox": [
+      "161.61",
+      "699.41",
+      "226.24",
+      "711.41"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "110",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BLOODY MARY*",
+    "bbox": [
+      "271.32",
+      "698.75",
+      "369.28",
+      "710.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15",
+    "bbox": [
+      "449.06",
+      "698.75",
+      "461.32",
+      "710.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "belle glos rosé, serves 8-10",
+    "bbox": [
+      "32.00",
+      "713.81",
+      "181.69",
+      "725.81"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "belle glos rosé, serves 8-10",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  }
+]

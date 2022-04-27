@@ -48,8 +48,8 @@ def train_kfold(data_folder, output_folder):
 
 
 def train_full_data(data_dir, output_folder):
-    train_file = f'train.json'
-    test_file = 'test.json'
+    train_file = f'full.json'
+    test_file = 'full.json'
     label_dict_file = data_dir + 'question_list.json'  # can be list or dict
 
     output_dir = output_folder
@@ -60,8 +60,8 @@ def train_full_data(data_dir, output_folder):
     attention_type = 'Single'
 
     tokenizer_name = 'microsoft/layoutlm-base-uncased'
-    pretrained_path = 'C:\\Users\\Levi\\Desktop\\model_epoch_15'
-    # pretrained_path = 'microsoft/layoutlm-base-uncased'
+    # pretrained_path = 'C:\\Users\\Levi\\Desktop\\model_epoch_15'
+    pretrained_path = 'microsoft/layoutlm-base-uncased'
     trainer = Trainer(pretrained_path, tokenizer_name, all_labels, embedding_from_encoder=False,
                       use_multiple_attention=attention_type == 'Multiple',
                       max_seq_len=128, doc_stride=64, version='v1')

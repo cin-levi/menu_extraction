@@ -1,0 +1,4077 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/18/22, 3:05 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menus | Loi Estiatorio in New York City",
+    "bbox": [
+      "282.88",
+      "15.70",
+      "420.27",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GREEK EASTER PRIX FIXE",
+    "bbox": [
+      "144.95",
+      "190.71",
+      "307.90",
+      "202.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A LA CARTE MENU",
+    "bbox": [
+      "349.51",
+      "190.71",
+      "467.30",
+      "202.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHEF SPECIALS",
+    "bbox": [
+      "113.14",
+      "237.96",
+      "213.57",
+      "249.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TAKE OUT",
+    "bbox": [
+      "255.17",
+      "237.96",
+      "318.44",
+      "249.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DESSERT",
+    "bbox": [
+      "360.04",
+      "237.96",
+      "417.91",
+      "249.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE",
+    "bbox": [
+      "461.76",
+      "237.96",
+      "496.84",
+      "249.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "W",
+    "bbox": [
+      "248.45",
+      "329.00",
+      "277.03",
+      "357.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ine",
+    "bbox": [
+      "277.47",
+      "329.00",
+      "317.30",
+      "357.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "W",
+    "bbox": [
+      "246.85",
+      "469.85",
+      "272.58",
+      "495.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "hite",
+    "bbox": [
+      "273.33",
+      "469.85",
+      "318.90",
+      "495.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROBOLA",
+    "bbox": [
+      "247.45",
+      "539.19",
+      "319.06",
+      "557.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ROBOLA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Robola, Bazigos, Kefalonia, GRC 2018",
+    "bbox": [
+      "153.54",
+      "568.83",
+      "412.96",
+      "583.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Robola, Bazigos, Kefalonia, GRC",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "59 / 16",
+    "bbox": [
+      "261.85",
+      "589.83",
+      "304.66",
+      "604.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "59 / 16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ASSYRTIKO",
+    "bbox": [
+      "235.13",
+      "629.94",
+      "331.36",
+      "647.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ASSYRTIKO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Santorini, Spyros Hatziyiannis, Santorini, GRC 2018",
+    "bbox": [
+      "106.45",
+      "659.58",
+      "460.05",
+      "673.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CALL (212) 713-0015",
+    "bbox": [
+      "245.61",
+      "675.21",
+      "366.73",
+      "686.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "64 / 17",
+    "bbox": [
+      "261.31",
+      "680.58",
+      "305.19",
+      "694.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "256.02",
+      "708.96",
+      "356.23",
+      "720.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ASSYRTIKO",
+    "bbox": [
+      "235.13",
+      "720.69",
+      "331.36",
+      "738.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "257.05",
+      "742.71",
+      "355.20",
+      "754.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.loiestiatorio.com/menus/#wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "176.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/11",
+    "bbox": [
+      "570.55",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/18/22, 3:05 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menus | Loi Estiatorio in New York City",
+    "bbox": [
+      "282.88",
+      "15.70",
+      "420.27",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sur Lie, Domaine Evharis, Megara, GRC 2017",
+    "bbox": [
+      "127.94",
+      "33.33",
+      "438.56",
+      "47.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "64 / 17",
+    "bbox": [
+      "261.31",
+      "55.08",
+      "305.19",
+      "69.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MINUTOLO BLANCO",
+    "bbox": [
+      "197.41",
+      "95.19",
+      "369.09",
+      "113.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MINUTOLO BLANCO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Alture, Cantine Paolo Leo, Valle D’Itria, IT 2018",
+    "bbox": [
+      "122.69",
+      "124.08",
+      "443.80",
+      "138.33"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 45
+          }
+        ],
+        "W": [
+          {
+            "text": "Alture, Cantine Paolo Leo, Valle D’Itria, IT",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "52 / 14",
+    "bbox": [
+      "261.80",
+      "145.83",
+      "304.70",
+      "160.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "52 / 14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "220.11",
+      "185.94",
+      "346.38",
+      "203.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Lion D’Or, Nico Lazaridi, Macedonia, GRC 2018",
+    "bbox": [
+      "121.10",
+      "214.83",
+      "445.41",
+      "229.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Lion D’Or, Nico Lazaridi, Macedonia, GRC",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "58 / 15",
+    "bbox": [
+      "261.95",
+      "236.58",
+      "304.55",
+      "250.83"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "58 / 15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHARDONNAY / ASSYRTIKO / RODITIS",
+    "bbox": [
+      "119.90",
+      "276.69",
+      "446.60",
+      "294.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY / ASSYRTIKO / RODITIS",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Queen of Hearts, Nico Lazaridi, Macedonia, GRC 2018",
+    "bbox": [
+      "96.08",
+      "305.58",
+      "470.43",
+      "319.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Queen of Hearts, Nico Lazaridi, Macedonia, GRC 2",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "52 / 14",
+    "bbox": [
+      "261.80",
+      "327.33",
+      "304.70",
+      "341.58"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "52 / 14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "198.78",
+      "367.44",
+      "367.71",
+      "385.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Magic Mountain, Nico Lazaridi, Agora, Drama, GRC 2017",
+    "bbox": [
+      "86.96",
+      "397.08",
+      "479.53",
+      "411.33"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Magic Mountain, Nico Lazaridi, Agora, Drama, GRC",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "78 / 19",
+    "bbox": [
+      "261.62",
+      "418.08",
+      "304.89",
+      "432.33"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "78 / 19",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SAUVIGNON BLANC/ SEMILLON",
+    "bbox": [
+      "148.30",
+      "458.19",
+      "418.21",
+      "476.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC/ SEMILLON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Black Sheep, Nico Lazaridi, Macedonia, GRC 2018",
+    "bbox": [
+      "110.28",
+      "487.83",
+      "456.21",
+      "502.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Black Sheep, Nico Lazaridi, Macedonia, GRC",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "58 / 15",
+    "bbox": [
+      "261.95",
+      "508.83",
+      "304.55",
+      "523.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "58 / 15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SAUVIGNON BLANC/ ASSYRTIKO/ UGNI BLANC",
+    "bbox": [
+      "84.08",
+      "548.94",
+      "482.42",
+      "566.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC/ ASSYRTIKO/ UGNI BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cavalieri, Nico Lazaridi, Agora, Drama, GRC 2017",
+    "bbox": [
+      "115.34",
+      "578.58",
+      "451.14",
+      "592.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cavalieri, Nico Lazaridi, Agora, Drama, GRC 2017",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "69 / 18",
+    "bbox": [
+      "261.34",
+      "599.58",
+      "305.17",
+      "613.83"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "69 / 18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CALL (212) 713-0015",
+    "bbox": [
+      "245.61",
+      "675.21",
+      "366.73",
+      "686.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sparkling & Rosé",
+    "bbox": [
+      "182.48",
+      "685.85",
+      "383.26",
+      "711.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "256.02",
+      "708.96",
+      "356.23",
+      "720.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "257.05",
+      "742.71",
+      "355.20",
+      "754.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.loiestiatorio.com/menus/#wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "176.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/11",
+    "bbox": [
+      "570.55",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/18/22, 3:05 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Menus | Loi Estiatorio in New York City",
+    "bbox": [
+      "282.88",
+      "15.70",
+      "420.27",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "TREBBIANO / MUSCAT (MUSCAT OF",
+    "bbox": [
+      "133.55",
+      "30.69",
+      "432.95",
+      "48.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ALEXANDRIA)",
+    "bbox": [
+      "223.05",
+      "57.69",
+      "343.45",
+      "75.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Solitaire, Nico Lazaridi, Agora, Drama, GRC N/V",
+    "bbox": [
+      "118.74",
+      "86.58",
+      "447.76",
+      "100.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "62 / 17",
+    "bbox": [
+      "261.98",
+      "108.33",
+      "304.53",
+      "122.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SYRAH / CABERNET SAUVIGNON",
+    "bbox": [
+      "145.32",
+      "148.44",
+      "421.17",
+      "166.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SYRAH / CABERNET SAUVIGNON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Black Sheep Rosé, Nico Lazaridi, Pangeon, GRC 2018",
+    "bbox": [
+      "97.91",
+      "177.33",
+      "468.58",
+      "191.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Black Sheep Rosé, Nico Lazaridi, Pangeon, GRC",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "60 / 16",
+    "bbox": [
+      "261.16",
+      "199.08",
+      "305.34",
+      "213.33"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "60 / 16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CABERNET FRANC / GRENACHE ROUGE",
+    "bbox": [
+      "116.93",
+      "239.19",
+      "449.57",
+      "257.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET FRANC / GRENACHE ROUGE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Solitaire Rosé, Nico Lazaridis, Agora, Drama, GRC N/V",
+    "bbox": [
+      "96.00",
+      "268.83",
+      "470.50",
+      "283.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Solitaire Rosé, Nico Lazaridis, Agora, Drama, GRC N",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "N/V",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "62 / 17",
+    "bbox": [
+      "261.98",
+      "289.83",
+      "304.53",
+      "304.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "62 / 17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Red",
+    "bbox": [
+      "260.88",
+      "376.10",
+      "304.88",
+      "401.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PINOT NOIR {ORGANIC}",
+    "bbox": [
+      "182.14",
+      "445.44",
+      "384.37",
+      "463.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT NOIR {ORGANIC}",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Pinot Noir, Papaioannou, Korinth, GRC 2018",
+    "bbox": [
+      "129.28",
+      "474.33",
+      "437.21",
+      "488.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Noir, Papaioannou, Korinth, GRC",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "88 / 22",
+    "bbox": [
+      "259.94",
+      "496.08",
+      "306.55",
+      "510.33"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "88 / 22",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MONTEPULCIANO D’ ABRUZZO {ORGANIC}",
+    "bbox": [
+      "103.13",
+      "536.19",
+      "463.37",
+      "554.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MONTEPULCIANO D’ ABRUZZO {ORGANIC}",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Monepulciano, Di Berardino, Fonteveccchia, IT 2018",
+    "bbox": [
+      "101.70",
+      "565.08",
+      "464.79",
+      "579.33"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Monepulciano, Di Berardino, Fonteveccchia, IT 2018",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "52 / 14",
+    "bbox": [
+      "261.80",
+      "586.83",
+      "304.70",
+      "601.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "52 / 14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SUSUMANIELLO",
+    "bbox": [
+      "215.84",
+      "626.94",
+      "350.67",
+      "644.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Alture, Cantine Paolo Leo, Valle D’Itria, IT 2018",
+    "bbox": [
+      "122.69",
+      "655.83",
+      "443.80",
+      "670.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CA5L2L  /( 21142) 713-0015",
+    "bbox": [
+      "245.61",
+      "675.21",
+      "366.73",
+      "691.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "256.02",
+      "708.96",
+      "356.23",
+      "720.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "PRIMITIVO DI MANDURIA",
+    "bbox": [
+      "175.40",
+      "717.69",
+      "391.09",
+      "735.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "257.05",
+      "742.71",
+      "355.20",
+      "754.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.loiestiatorio.com/menus/#wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "176.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/11",
+    "bbox": [
+      "570.55",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/18/22, 3:05 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Menus | Loi Estiatorio in New York City",
+    "bbox": [
+      "282.88",
+      "15.70",
+      "420.27",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Passo Del Cardinale, Paolo Leo, Manduria, IT 2018",
+    "bbox": [
+      "109.55",
+      "33.33",
+      "456.96",
+      "47.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "58 / 15",
+    "bbox": [
+      "261.95",
+      "55.08",
+      "304.55",
+      "69.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MERLOT / XINOMAVRO",
+    "bbox": [
+      "184.59",
+      "95.19",
+      "381.92",
+      "113.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MERLOT / XINOMAVRO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "King of Hearts, Nico Lazaridis Winery, Macedonia, GRC",
+    "bbox": [
+      "90.57",
+      "124.08",
+      "475.93",
+      "138.33"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "King of Hearts, Nico Lazaridis Winery, Macedonia,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "2018",
+    "bbox": [
+      "267.38",
+      "145.83",
+      "299.12",
+      "160.08"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "52 / 14",
+    "bbox": [
+      "261.80",
+      "166.83",
+      "304.70",
+      "181.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "52 / 14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "XINOMAVRO / KRASSATO / STAVROTO",
+    "bbox": [
+      "120.11",
+      "206.94",
+      "446.39",
+      "224.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "XINOMAVRO / KRASSATO / STAVROTO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Rapsani Reserve, Tsantali, Mt. Olympus, Rapsani, GRC 2013",
+    "bbox": [
+      "76.71",
+      "236.58",
+      "489.80",
+      "250.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rapsani Reserve, Tsantali, Mt. Olympus, Rapsani, GRC",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "76 / 19",
+    "bbox": [
+      "261.83",
+      "257.58",
+      "304.68",
+      "271.83"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "76 / 19",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "182.63",
+      "297.69",
+      "383.86",
+      "315.50"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET SAUVIGNON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Lion D’ Or, Nico Lazaridis, Macedonia, GRC 2017",
+    "bbox": [
+      "116.09",
+      "327.33",
+      "450.40",
+      "341.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Lion D’ Or, Nico Lazaridis, Macedonia, GRC",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "58 / 15",
+    "bbox": [
+      "261.95",
+      "348.33",
+      "304.55",
+      "362.58"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "58 / 15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CABERNET SAUVIGNON / CABERNET FRANC",
+    "bbox": [
+      "96.93",
+      "388.44",
+      "469.57",
+      "406.25"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET SAUVIGNON / CABERNET FRANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Magic Mountain, Nico Lazaridi, Drama, GRC 2011",
+    "bbox": [
+      "113.12",
+      "418.08",
+      "453.39",
+      "432.33"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Magic Mountain, Nico Lazaridi, Drama, GRC 2011",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2011",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "115 / 28",
+    "bbox": [
+      "259.36",
+      "439.83",
+      "307.14",
+      "454.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "115 / 28",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CABERNET FRANC / CABERNET SAUVIGNON /",
+    "bbox": [
+      "90.63",
+      "479.94",
+      "475.88",
+      "497.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET FRANC / CABERNET SAUVIGNON /",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MERLOT / SANGIOVESE",
+    "bbox": [
+      "184.19",
+      "506.19",
+      "382.32",
+      "524.00"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MERLOT / SANGIOVESE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Cavalieri Red, Nico Lazaridi, Agora, Drama, GRC 2013",
+    "bbox": [
+      "99.37",
+      "535.83",
+      "467.12",
+      "550.08"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cavalieri Red, Nico Lazaridi, Agora, Drama, GRC 2013",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "78 / 20",
+    "bbox": [
+      "259.78",
+      "556.83",
+      "306.73",
+      "571.08"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "78 / 20",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MERLOT / SYRAH",
+    "bbox": [
+      "210.50",
+      "596.94",
+      "355.99",
+      "614.75"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MERLOT / SYRAH",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Black Sheep, Nico Lazaridi, Pangeon, GRC 2017",
+    "bbox": [
+      "117.63",
+      "626.58",
+      "448.87",
+      "640.83"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Black Sheep, Nico Lazaridi, Pangeon, GRC",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "59 / 16",
+    "bbox": [
+      "261.85",
+      "647.58",
+      "304.66",
+      "661.83"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "59 / 16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CALL (212) 713-0015",
+    "bbox": [
+      "245.61",
+      "675.21",
+      "366.73",
+      "686.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "256.02",
+      "708.96",
+      "356.23",
+      "720.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "257.05",
+      "742.71",
+      "355.20",
+      "754.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.loiestiatorio.com/menus/#wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "176.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/11",
+    "bbox": [
+      "570.55",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/18/22, 3:05 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Menus | Loi Estiatorio in New York City",
+    "bbox": [
+      "282.88",
+      "15.70",
+      "420.27",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Aperitifs & Digestives",
+    "bbox": [
+      "152.69",
+      "62.60",
+      "413.07",
+      "88.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "GREECE",
+    "bbox": [
+      "249.57",
+      "131.94",
+      "316.94",
+      "149.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Ouzo 12",
+    "bbox": [
+      "255.96",
+      "160.83",
+      "310.54",
+      "175.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Tsipouro 12",
+    "bbox": [
+      "244.25",
+      "182.58",
+      "322.26",
+      "196.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Ya! Mastiha 12",
+    "bbox": [
+      "234.46",
+      "203.58",
+      "332.03",
+      "217.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Old Spirit 16",
+    "bbox": [
+      "241.14",
+      "225.33",
+      "325.36",
+      "239.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Mavrodaphne of Patras 14",
+    "bbox": [
+      "191.35",
+      "246.33",
+      "375.16",
+      "260.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Muscat of Patras 14",
+    "bbox": [
+      "215.00",
+      "268.08",
+      "351.50",
+      "282.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "FRANCE",
+    "bbox": [
+      "248.29",
+      "308.19",
+      "318.21",
+      "326.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Ricard Pastis 12",
+    "bbox": [
+      "229.05",
+      "337.08",
+      "337.46",
+      "351.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Calvados Du Pays D’Age Reserve 14",
+    "bbox": [
+      "158.04",
+      "358.83",
+      "408.46",
+      "373.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pernod Absinthe 12",
+    "bbox": [
+      "214.50",
+      "379.83",
+      "352.00",
+      "394.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Grand Marnier 14",
+    "bbox": [
+      "222.65",
+      "401.58",
+      "343.84",
+      "415.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "GREAT BRITAIN",
+    "bbox": [
+      "217.66",
+      "441.69",
+      "348.85",
+      "459.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Drambuie, Scotland 11",
+    "bbox": [
+      "205.40",
+      "470.58",
+      "361.11",
+      "484.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pimm’s No. 1, England 12",
+    "bbox": [
+      "196.23",
+      "492.33",
+      "370.28",
+      "506.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ITALY",
+    "bbox": [
+      "258.66",
+      "532.44",
+      "307.83",
+      "550.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Fernet Branca 12",
+    "bbox": [
+      "224.27",
+      "562.08",
+      "342.23",
+      "576.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sambuca Molinari 12",
+    "bbox": [
+      "210.08",
+      "583.08",
+      "356.42",
+      "597.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Romana Sambuca 12",
+    "bbox": [
+      "208.52",
+      "604.83",
+      "357.98",
+      "619.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Romana Black 14",
+    "bbox": [
+      "222.11",
+      "625.83",
+      "344.40",
+      "640.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Averna, Amaro Siciliano 12",
+    "bbox": [
+      "191.13",
+      "647.58",
+      "375.38",
+      "661.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Aperol 12",
+    "bbox": [
+      "251.37",
+      "668.58",
+      "315.12",
+      "682.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CALL (212) 713-0015",
+    "bbox": [
+      "245.61",
+      "675.21",
+      "366.73",
+      "686.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Campari 12",
+    "bbox": [
+      "244.20",
+      "690.33",
+      "322.29",
+      "704.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "LimOoRnDcEeRll oO N12LINE",
+    "bbox": [
+      "235.26",
+      "708.96",
+      "356.23",
+      "725.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Batasiolo, Grappa Di Moscato 15",
+    "bbox": [
+      "170.79",
+      "733.08",
+      "395.71",
+      "747.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "257.05",
+      "742.71",
+      "355.20",
+      "754.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.loiestiatorio.com/menus/#wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "176.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/11",
+    "bbox": [
+      "570.55",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/18/22, 3:05 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Menus | Loi Estiatorio in New York City",
+    "bbox": [
+      "282.88",
+      "15.70",
+      "420.27",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Dissarono Originale 12",
+    "bbox": [
+      "204.70",
+      "33.33",
+      "361.81",
+      "47.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Frangelico 14",
+    "bbox": [
+      "236.69",
+      "55.08",
+      "329.81",
+      "69.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Scotch",
+    "bbox": [
+      "243.36",
+      "140.60",
+      "322.39",
+      "166.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "JOHNNY WALKER BLACK",
+    "bbox": [
+      "176.68",
+      "209.94",
+      "389.82",
+      "227.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "14",
+    "bbox": [
+      "275.97",
+      "239.58",
+      "290.54",
+      "253.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "LAPHROAIG 10 YEAR",
+    "bbox": [
+      "196.65",
+      "279.69",
+      "369.86",
+      "297.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "16",
+    "bbox": [
+      "276.34",
+      "308.58",
+      "290.16",
+      "322.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "LAPHROAIG SELECT",
+    "bbox": [
+      "198.35",
+      "348.69",
+      "368.15",
+      "366.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "16",
+    "bbox": [
+      "276.34",
+      "378.33",
+      "290.16",
+      "392.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "TALISKER 10 YEAR",
+    "bbox": [
+      "206.83",
+      "418.44",
+      "359.66",
+      "436.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "16",
+    "bbox": [
+      "276.34",
+      "448.08",
+      "290.16",
+      "462.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MACALLAN 12 YEAR",
+    "bbox": [
+      "199.55",
+      "488.19",
+      "366.96",
+      "506.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "18",
+    "bbox": [
+      "276.14",
+      "517.08",
+      "290.37",
+      "531.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "GLENFIDDICH 12 YEAR",
+    "bbox": [
+      "187.87",
+      "557.19",
+      "378.63",
+      "575.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "18",
+    "bbox": [
+      "276.14",
+      "586.83",
+      "290.37",
+      "601.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "OBAN 14 YEAR",
+    "bbox": [
+      "223.07",
+      "626.94",
+      "343.42",
+      "644.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "22",
+    "bbox": [
+      "275.15",
+      "655.83",
+      "291.34",
+      "670.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "CALL (212) 713-0015",
+    "bbox": [
+      "245.61",
+      "675.21",
+      "366.73",
+      "686.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "MACALLAN SELECT",
+    "bbox": [
+      "200.75",
+      "695.94",
+      "365.75",
+      "713.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "256.02",
+      "708.96",
+      "356.23",
+      "720.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "26",
+    "bbox": [
+      "274.88",
+      "725.58",
+      "291.63",
+      "739.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "257.05",
+      "742.71",
+      "355.20",
+      "754.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://www.loiestiatorio.com/menus/#wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "176.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/11",
+    "bbox": [
+      "570.55",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/18/22, 3:05 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Menus | Loi Estiatorio in New York City",
+    "bbox": [
+      "282.88",
+      "15.70",
+      "420.27",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Bourbon & Rye",
+    "bbox": [
+      "195.92",
+      "62.60",
+      "369.83",
+      "88.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MAKER’S MARK",
+    "bbox": [
+      "218.33",
+      "131.94",
+      "348.18",
+      "149.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "14",
+    "bbox": [
+      "275.97",
+      "160.83",
+      "290.54",
+      "175.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "KNOB CREEK",
+    "bbox": [
+      "228.09",
+      "200.94",
+      "338.42",
+      "218.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "16",
+    "bbox": [
+      "276.34",
+      "230.58",
+      "290.16",
+      "244.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "WOODFORD RESERVE",
+    "bbox": [
+      "191.61",
+      "270.69",
+      "374.88",
+      "288.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "16",
+    "bbox": [
+      "276.34",
+      "299.58",
+      "290.16",
+      "313.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "BASIL HAYDENS",
+    "bbox": [
+      "215.42",
+      "339.69",
+      "351.08",
+      "357.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "18",
+    "bbox": [
+      "276.14",
+      "369.33",
+      "290.37",
+      "383.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "KNOB CREEK SINGLE BARREL",
+    "bbox": [
+      "160.13",
+      "409.44",
+      "406.37",
+      "427.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "18",
+    "bbox": [
+      "276.14",
+      "439.08",
+      "290.37",
+      "453.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "MICHTER’S RYE",
+    "bbox": [
+      "218.04",
+      "479.19",
+      "348.46",
+      "497.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "16",
+    "bbox": [
+      "276.34",
+      "508.08",
+      "290.16",
+      "522.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "KNOB CREEK RYE",
+    "bbox": [
+      "209.87",
+      "548.19",
+      "356.62",
+      "566.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "16",
+    "bbox": [
+      "276.34",
+      "577.83",
+      "290.16",
+      "592.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "W",
+    "bbox": [
+      "209.40",
+      "663.35",
+      "235.13",
+      "689.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "hiskey Etc",
+    "bbox": [
+      "235.88",
+      "663.35",
+      "356.36",
+      "689.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "CALL (212) 713-0015",
+    "bbox": [
+      "245.61",
+      "675.21",
+      "366.73",
+      "686.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "256.02",
+      "708.96",
+      "356.23",
+      "720.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "JAMESON IRISH WHISKEY",
+    "bbox": [
+      "173.18",
+      "733.44",
+      "393.32",
+      "751.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "257.05",
+      "742.71",
+      "355.20",
+      "754.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://www.loiestiatorio.com/menus/#wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "176.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/11",
+    "bbox": [
+      "570.55",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/18/22, 3:05 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Menus | Loi Estiatorio in New York City",
+    "bbox": [
+      "282.88",
+      "15.70",
+      "420.27",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "14",
+    "bbox": [
+      "275.97",
+      "33.33",
+      "290.54",
+      "47.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "RED BREAST IRISH WHISKEY",
+    "bbox": [
+      "163.65",
+      "73.44",
+      "402.85",
+      "91.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "16",
+    "bbox": [
+      "276.34",
+      "103.08",
+      "290.16",
+      "117.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "TULLAMORE DEW",
+    "bbox": [
+      "207.78",
+      "143.19",
+      "358.72",
+      "161.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "17",
+    "bbox": [
+      "276.48",
+      "172.08",
+      "290.01",
+      "186.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "JACK DANIELS",
+    "bbox": [
+      "221.22",
+      "212.19",
+      "345.29",
+      "230.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "14",
+    "bbox": [
+      "275.97",
+      "241.83",
+      "290.54",
+      "256.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "GENTLEMAN JACK",
+    "bbox": [
+      "203.70",
+      "281.94",
+      "362.80",
+      "299.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "16",
+    "bbox": [
+      "276.34",
+      "311.58",
+      "290.16",
+      "325.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CROWN ROYAL",
+    "bbox": [
+      "218.70",
+      "351.69",
+      "347.81",
+      "369.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "14",
+    "bbox": [
+      "275.97",
+      "380.58",
+      "290.54",
+      "394.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "CROWN ROYAL XO",
+    "bbox": [
+      "203.76",
+      "420.69",
+      "362.74",
+      "438.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "18",
+    "bbox": [
+      "276.14",
+      "450.33",
+      "290.37",
+      "464.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Cognac – Arm",
+    "bbox": [
+      "108.66",
+      "535.85",
+      "275.79",
+      "561.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "agnac – Brandy",
+    "bbox": [
+      "276.33",
+      "535.85",
+      "457.09",
+      "561.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "METAXA 7 YEAR BRANDY",
+    "bbox": [
+      "178.10",
+      "605.19",
+      "388.39",
+      "623.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "18",
+    "bbox": [
+      "276.14",
+      "634.83",
+      "290.37",
+      "649.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "PAUL BEAU CCOALGL N(21A2)C 7 1V3-S0,0 F15RANCE",
+    "bbox": [
+      "144.48",
+      "674.94",
+      "422.01",
+      "692.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "12",
+    "bbox": [
+      "276.63",
+      "704.58",
+      "289.87",
+      "718.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "256.02",
+      "708.96",
+      "356.23",
+      "720.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "257.05",
+      "742.71",
+      "355.20",
+      "754.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://www.loiestiatorio.com/menus/#wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "176.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/11",
+    "bbox": [
+      "570.55",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "4/18/22, 3:05 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Menus | Loi Estiatorio in New York City",
+    "bbox": [
+      "282.88",
+      "15.70",
+      "420.27",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "COURVOISIER COGNAC VSOP",
+    "bbox": [
+      "158.69",
+      "30.69",
+      "407.80",
+      "48.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "18",
+    "bbox": [
+      "276.14",
+      "60.33",
+      "290.37",
+      "74.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "GUILLON-PAINTRAUD COGNAC VSOP",
+    "bbox": [
+      "125.26",
+      "100.44",
+      "441.25",
+      "118.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "19",
+    "bbox": [
+      "276.34",
+      "129.33",
+      "290.16",
+      "143.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "PAUL BEAU, HORS D’AGE, COGNAC GRANDE",
+    "bbox": [
+      "100.17",
+      "169.44",
+      "466.32",
+      "187.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "CHAMPAGNE",
+    "bbox": [
+      "227.01",
+      "196.44",
+      "339.48",
+      "214.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "22",
+    "bbox": [
+      "275.15",
+      "226.08",
+      "291.34",
+      "240.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "DOMAINE D’ESPERANCE BAS-ARMANAC 5 YEAR",
+    "bbox": [
+      "83.50",
+      "266.19",
+      "482.70",
+      "284.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "24",
+    "bbox": [
+      "274.66",
+      "295.08",
+      "291.85",
+      "309.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Port & Sherry",
+    "bbox": [
+      "203.35",
+      "381.35",
+      "362.40",
+      "407.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "SANDEMAN PORT, 10 YEAR",
+    "bbox": [
+      "171.42",
+      "450.69",
+      "395.07",
+      "468.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "16",
+    "bbox": [
+      "276.34",
+      "479.58",
+      "290.16",
+      "493.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "FONSECA PORT, 10 YEAR",
+    "bbox": [
+      "180.98",
+      "519.69",
+      "385.52",
+      "537.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "17",
+    "bbox": [
+      "276.48",
+      "549.33",
+      "290.01",
+      "563.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "EL MAESTRO SIERRA AMONTILLADO",
+    "bbox": [
+      "129.43",
+      "589.44",
+      "437.07",
+      "607.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "12",
+    "bbox": [
+      "276.63",
+      "619.08",
+      "289.87",
+      "633.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "BODEGAS ARGÜESO SAN LEON MANZANILLA",
+    "bbox": [
+      "93.09",
+      "659.19",
+      "473.40",
+      "677.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "CALL (212) 713-0015",
+    "bbox": [
+      "245.61",
+      "675.21",
+      "366.73",
+      "686.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "14",
+    "bbox": [
+      "275.97",
+      "688.08",
+      "290.54",
+      "702.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "256.02",
+      "708.96",
+      "356.23",
+      "720.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "257.05",
+      "742.71",
+      "355.20",
+      "754.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "https://www.loiestiatorio.com/menus/#wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "176.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "9/11",
+    "bbox": [
+      "570.55",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "4/18/22, 3:05 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Menus | Loi Estiatorio in New York City",
+    "bbox": [
+      "282.88",
+      "15.70",
+      "420.27",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Beer",
+    "bbox": [
+      "256.29",
+      "39.35",
+      "309.48",
+      "65.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "MYTHOS, GREECE",
+    "bbox": [
+      "208.39",
+      "108.69",
+      "358.10",
+      "126.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "9",
+    "bbox": [
+      "278.91",
+      "137.58",
+      "287.59",
+      "151.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "ALFA, GREECE",
+    "bbox": [
+      "223.54",
+      "177.69",
+      "342.96",
+      "195.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "9",
+    "bbox": [
+      "278.91",
+      "207.33",
+      "287.59",
+      "221.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "KEO, GREECE",
+    "bbox": [
+      "228.01",
+      "247.44",
+      "338.50",
+      "265.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "9",
+    "bbox": [
+      "278.91",
+      "277.08",
+      "287.59",
+      "291.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "FIX, GREECE",
+    "bbox": [
+      "231.05",
+      "317.19",
+      "335.44",
+      "335.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "9",
+    "bbox": [
+      "278.91",
+      "346.08",
+      "287.59",
+      "360.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Signature Cocktails",
+    "bbox": [
+      "166.26",
+      "432.35",
+      "399.48",
+      "458.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "GREEK FASHIONED",
+    "bbox": [
+      "202.26",
+      "501.69",
+      "364.23",
+      "519.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Michter’s Rye, Tsipouro, Mandarin Orange",
+    "bbox": [
+      "135.52",
+      "531.33",
+      "430.97",
+      "545.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "18",
+    "bbox": [
+      "276.14",
+      "552.33",
+      "290.37",
+      "566.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "LOITINI",
+    "bbox": [
+      "250.11",
+      "592.44",
+      "316.39",
+      "610.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Grey Goose Vodka, Kalamata Olives, Feta",
+    "bbox": [
+      "138.73",
+      "622.08",
+      "427.77",
+      "636.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "18",
+    "bbox": [
+      "276.14",
+      "643.08",
+      "290.37",
+      "657.33"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "CALL (212) 713-0015",
+    "bbox": [
+      "245.61",
+      "675.21",
+      "366.73",
+      "686.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "XIOS SPRITZ",
+    "bbox": [
+      "230.42",
+      "683.19",
+      "336.07",
+      "701.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "256.02",
+      "708.96",
+      "356.23",
+      "720.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Aperol, Ya Mastiha, Blink",
+    "bbox": [
+      "196.36",
+      "712.83",
+      "370.15",
+      "727.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "16",
+    "bbox": [
+      "276.34",
+      "733.83",
+      "290.16",
+      "748.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "257.05",
+      "742.71",
+      "355.20",
+      "754.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "https://www.loiestiatorio.com/menus/#wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "176.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "10/11",
+    "bbox": [
+      "566.09",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "4/18/22, 3:05 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Menus | Loi Estiatorio in New York City",
+    "bbox": [
+      "282.88",
+      "15.70",
+      "420.27",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "MI LAMDA",
+    "bbox": [
+      "239.05",
+      "30.69",
+      "327.45",
+      "48.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Leblon Cachaça, Ya Mastiha, Mint, Bitters, Tonic",
+    "bbox": [
+      "115.62",
+      "60.33",
+      "450.88",
+      "74.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "18",
+    "bbox": [
+      "276.14",
+      "81.33",
+      "290.37",
+      "95.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "CALL (212) 713-0015",
+    "bbox": [
+      "245.61",
+      "675.21",
+      "366.73",
+      "686.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "ORDER ONLINE",
+    "bbox": [
+      "256.02",
+      "708.96",
+      "356.23",
+      "720.36"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "257.05",
+      "742.71",
+      "355.20",
+      "754.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "https://www.loiestiatorio.com/menus/#wine",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "176.74",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "11/11",
+    "bbox": [
+      "566.69",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

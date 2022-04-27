@@ -1,0 +1,4266 @@
+[
+  {
+    "page_number": 1,
+    "text": "ANTIPASTI",
+    "bbox": [
+      "137.27",
+      "70.89",
+      "210.71",
+      "84.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PASTA",
+    "bbox": [
+      "416.15",
+      "70.89",
+      "459.08",
+      "84.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CLASSIC ANTIPASTI",
+    "bbox": [
+      "130.58",
+      "86.82",
+      "217.61",
+      "96.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CLASSIC",
+    "bbox": [
+      "418.54",
+      "86.82",
+      "456.80",
+      "96.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MINESTRONE                                                                      10",
+    "bbox": [
+      "68.18",
+      "98.82",
+      "280.09",
+      "108.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPAGHETTI AGLIO & OLIO “AL PACINO”                       17",
+    "bbox": [
+      "331.76",
+      "98.82",
+      "543.58",
+      "108.42"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Homemade everyday with fresh garden vegetables",
+    "bbox": [
+      "68.18",
+      "107.56",
+      "258.11",
+      "116.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Extra virgin olive oil, red pepper, garlic",
+    "bbox": [
+      "331.76",
+      "107.56",
+      "475.70",
+      "116.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "& Parmigiano Reggiano",
+    "bbox": [
+      "331.76",
+      "115.56",
+      "417.69",
+      "124.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BRUSCHETTA                                                                               11",
+    "bbox": [
+      "68.18",
+      "118.82",
+      "280.00",
+      "128.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Toasted bread with fresh tomatoes, basil,",
+    "bbox": [
+      "68.18",
+      "127.56",
+      "225.77",
+      "136.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ORECCHIETTE                                                                             17",
+    "bbox": [
+      "331.76",
+      "126.82",
+      "543.57",
+      "136.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "extra virgin olive oil & touch of garlic",
+    "bbox": [
+      "68.18",
+      "135.56",
+      "204.23",
+      "144.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Spicy sausage & broccoli rabe",
+    "bbox": [
+      "331.76",
+      "135.56",
+      "444.04",
+      "144.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CALAMARI                                                                                     14",
+    "bbox": [
+      "68.18",
+      "146.82",
+      "280.00",
+      "156.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PENNE ALLA VODKA                                                                 18",
+    "bbox": [
+      "331.76",
+      "146.82",
+      "543.58",
+      "156.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Fried calamari served with our homemade spicy tomato dip",
+    "bbox": [
+      "68.18",
+      "155.56",
+      "278.50",
+      "164.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Homemade tomato sauce with a splash",
+    "bbox": [
+      "331.76",
+      "155.56",
+      "479.64",
+      "164.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "of vodka & cream",
+    "bbox": [
+      "331.76",
+      "163.56",
+      "397.79",
+      "172.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CROSTINI DI SOFIA                                                        15",
+    "bbox": [
+      "68.18",
+      "166.82",
+      "280.07",
+      "176.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Toasted bread topped with fresh melted Italian",
+    "bbox": [
+      "68.18",
+      "175.56",
+      "247.98",
+      "184.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FETTUCCINE DI PORTOFINO                                          18",
+    "bbox": [
+      "331.76",
+      "174.82",
+      "543.67",
+      "184.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "mozzarella & prosciutto di Parma",
+    "bbox": [
+      "68.18",
+      "183.56",
+      "192.75",
+      "192.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Homemade pesto sauce, string beans,",
+    "bbox": [
+      "331.76",
+      "183.56",
+      "477.68",
+      "192.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "pine nuts & potatoes",
+    "bbox": [
+      "331.76",
+      "191.56",
+      "411.06",
+      "200.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MEATBALLS                                                                                16",
+    "bbox": [
+      "68.18",
+      "194.82",
+      "280.00",
+      "204.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Homemade meatballs topped with Parmigiano Reggiano,",
+    "bbox": [
+      "68.18",
+      "203.56",
+      "275.04",
+      "212.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TAGLIOLINI AL POLLO                                                             18",
+    "bbox": [
+      "331.76",
+      "202.82",
+      "543.58",
+      "212.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "served with tomato sauce, basil & toasted bread",
+    "bbox": [
+      "68.18",
+      "211.56",
+      "250.48",
+      "220.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Free range chicken breast, cream, peas & mushrooms",
+    "bbox": [
+      "331.76",
+      "211.56",
+      "531.22",
+      "220.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GARGANELLI AI POMODORINI DI COLLINA               19",
+    "bbox": [
+      "331.76",
+      "222.82",
+      "543.61",
+      "232.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CARPACCIO & TARTARE",
+    "bbox": [
+      "121.21",
+      "233.07",
+      "227.01",
+      "242.57"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Imported Italian cherry tomato sauce",
+    "bbox": [
+      "331.76",
+      "231.56",
+      "475.36",
+      "240.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CARPACCIO MALATESTA                                                  17",
+    "bbox": [
+      "68.19",
+      "245.06",
+      "280.16",
+      "254.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PAGLIA & FIENO                                                                 19",
+    "bbox": [
+      "331.76",
+      "242.82",
+      "543.76",
+      "252.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Thin slices of marinated beef with baby arugula,",
+    "bbox": [
+      "68.19",
+      "253.80",
+      "250.37",
+      "262.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Homemade white & spinach fettuccine, tomato sauce,",
+    "bbox": [
+      "331.76",
+      "251.56",
+      "536.40",
+      "260.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "vegetables & aged Parmigiano Reggiano",
+    "bbox": [
+      "68.19",
+      "261.80",
+      "216.67",
+      "270.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "basil, Parmigiano Reggiano & a touch of cream",
+    "bbox": [
+      "331.76",
+      "259.56",
+      "506.13",
+      "268.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "TARTARE DI SOFIA                                                           20",
+    "bbox": [
+      "68.19",
+      "273.06",
+      "279.80",
+      "282.67"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CACIO E PEPE                                                                             20",
+    "bbox": [
+      "331.76",
+      "270.82",
+      "543.57",
+      "280.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "A selection of the best tuna & salmon with avocado,",
+    "bbox": [
+      "68.19",
+      "281.80",
+      "266.34",
+      "290.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pecorino Romano, crushed black pepper &",
+    "bbox": [
+      "331.76",
+      "279.56",
+      "494.56",
+      "288.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "marinated the Italian way",
+    "bbox": [
+      "68.19",
+      "289.80",
+      "162.39",
+      "298.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "extra virgin olive oil",
+    "bbox": [
+      "331.76",
+      "287.56",
+      "403.33",
+      "296.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BUCATINI ALLA MATRICIANA                                       23",
+    "bbox": [
+      "331.76",
+      "298.82",
+      "543.46",
+      "308.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pancetta, onions, tomatoes & hot peppers",
+    "bbox": [
+      "331.76",
+      "307.56",
+      "492.05",
+      "316.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MOZZARELLA & BURRATA",
+    "bbox": [
+      "116.94",
+      "311.30",
+      "231.25",
+      "320.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FETTUCCINE CASARECCIE ALLA BOLOGNESE        23",
+    "bbox": [
+      "331.76",
+      "318.82",
+      "543.56",
+      "328.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BUFFALO MOZZARELLA, POMODORO & BASILICO     18",
+    "bbox": [
+      "68.18",
+      "323.30",
+      "280.00",
+      "332.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "In tomato base, with our special homemade beef ragout",
+    "bbox": [
+      "331.76",
+      "327.56",
+      "543.18",
+      "336.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(with prosciutto di Parma add $3)",
+    "bbox": [
+      "68.18",
+      "332.03",
+      "193.94",
+      "340.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Italian buffalo mozzarella served with sliced tomatoes",
+    "bbox": [
+      "68.18",
+      "340.04",
+      "269.67",
+      "348.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LINGUINE ALLE VONGOLE                                              24",
+    "bbox": [
+      "331.76",
+      "338.82",
+      "543.63",
+      "348.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Manila clams, cherry tomatoes, Pinot Grigio",
+    "bbox": [
+      "331.76",
+      "347.56",
+      "497.12",
+      "356.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PROSCIUTTO E BUFALINE                                               21",
+    "bbox": [
+      "68.18",
+      "351.30",
+      "279.83",
+      "360.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "& red pepper ﬂakes",
+    "bbox": [
+      "331.76",
+      "355.56",
+      "406.79",
+      "364.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Prosciutto di Parma & Italian buffalo mozzarella",
+    "bbox": [
+      "68.18",
+      "360.03",
+      "245.93",
+      "368.58"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BURRATA Italian burrata cheese",
+    "bbox": [
+      "68.18",
+      "371.69",
+      "189.81",
+      "380.90"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "With cherry tomatoes  20       Prosciutto di Parma  23",
+    "bbox": [
+      "68.18",
+      "379.30",
+      "280.00",
+      "388.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SERAFINA GOURMET",
+    "bbox": [
+      "391.06",
+      "384.51",
+      "484.28",
+      "394.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GNOCCHI DI MAMMA                                              19",
+    "bbox": [
+      "331.76",
+      "396.51",
+      "543.58",
+      "406.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "INSALATE",
+    "bbox": [
+      "140.34",
+      "404.89",
+      "207.64",
+      "418.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Homemade gnocchi, fresh cherry tomato sauce, Parmigiano",
+    "bbox": [
+      "331.76",
+      "405.25",
+      "540.34",
+      "413.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Reggiano & basil. Try with Bolognese or Pesto + 2",
+    "bbox": [
+      "331.76",
+      "413.25",
+      "516.16",
+      "421.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MISTA VERDE                                                                                12",
+    "bbox": [
+      "68.18",
+      "423.92",
+      "280.00",
+      "433.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FARFALLE AL LIMONCELLO                                        21",
+    "bbox": [
+      "331.76",
+      "424.51",
+      "542.99",
+      "434.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Fresh seasonal greens & lemon vinaigrette",
+    "bbox": [
+      "68.18",
+      "432.65",
+      "226.89",
+      "441.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bow tie pasta, baby shrimp, cream & lemon zest",
+    "bbox": [
+      "331.76",
+      "433.25",
+      "512.66",
+      "441.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DI SOFIA                                                                                         14",
+    "bbox": [
+      "68.18",
+      "443.92",
+      "280.00",
+      "453.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Classic Caesar with Parmigiano Reggiano",
+    "bbox": [
+      "68.18",
+      "452.65",
+      "220.91",
+      "461.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ARUGULA E PARMIGIANO                                                      15",
+    "bbox": [
+      "68.18",
+      "463.92",
+      "280.00",
+      "473.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RAVIOLI & RISOTTI",
+    "bbox": [
+      "395.73",
+      "462.20",
+      "479.61",
+      "471.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Baby arugula, cherry tomatoes, shaved",
+    "bbox": [
+      "68.18",
+      "472.65",
+      "214.22",
+      "481.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RAVIOLI ALLA SALVIA                                                             19",
+    "bbox": [
+      "331.76",
+      "474.20",
+      "543.58",
+      "483.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Parmigiano Reggiano & ﬁg vinaigrette",
+    "bbox": [
+      "68.18",
+      "480.66",
+      "207.01",
+      "489.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Spinach & ricotta ravioli served with butter & sage",
+    "bbox": [
+      "331.76",
+      "482.94",
+      "520.45",
+      "491.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PORTO CERVO                                                                   14",
+    "bbox": [
+      "68.18",
+      "491.92",
+      "280.00",
+      "501.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RAVIOLI DI RICOTTA                                                                19",
+    "bbox": [
+      "331.76",
+      "494.20",
+      "543.58",
+      "503.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Romaine, carrots, hearts of palm, avocado,",
+    "bbox": [
+      "68.18",
+      "500.65",
+      "230.17",
+      "509.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Light tomato sauce & a touch of cream",
+    "bbox": [
+      "331.76",
+      "502.94",
+      "479.12",
+      "511.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "corn & oregano-lemon dressing",
+    "bbox": [
+      "68.18",
+      "508.66",
+      "187.22",
+      "517.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RAVIOLI DEGLI INNAMORATI                                              25",
+    "bbox": [
+      "331.76",
+      "514.20",
+      "543.58",
+      "523.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "THE CHOPRA SALAD                                                         16",
+    "bbox": [
+      "68.18",
+      "519.92",
+      "279.80",
+      "529.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Heart-shaped lobster ravioli in a lobster bisque sauce",
+    "bbox": [
+      "331.76",
+      "522.94",
+      "534.36",
+      "531.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Mixed greens, pears, cherry tomatoes, corn,",
+    "bbox": [
+      "68.18",
+      "528.65",
+      "236.55",
+      "537.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "asparagus, walnuts & lemon dressing",
+    "bbox": [
+      "68.18",
+      "536.66",
+      "205.04",
+      "545.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RISOTTO PORCINI (Please allow 15 min)                                   27",
+    "bbox": [
+      "331.76",
+      "534.20",
+      "543.58",
+      "543.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Carnaroli rice with porcini mushrooms",
+    "bbox": [
+      "331.76",
+      "542.94",
+      "476.36",
+      "551.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "KALE SALAD                                                                       16",
+    "bbox": [
+      "68.18",
+      "547.92",
+      "279.96",
+      "557.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Kale, Brussels sprouts, walnuts, Parmigiano",
+    "bbox": [
+      "68.18",
+      "556.65",
+      "230.51",
+      "565.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RISOTTO TARTUFO & PROSECCO (Please allow 15 min)   29",
+    "bbox": [
+      "331.76",
+      "554.20",
+      "543.58",
+      "563.81"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Reggiano & light mustard dressing",
+    "bbox": [
+      "68.18",
+      "564.66",
+      "194.74",
+      "573.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Carnaroli rice with Prosecco & black trufﬂe",
+    "bbox": [
+      "331.76",
+      "562.94",
+      "494.52",
+      "571.49"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GOAT CHEESE & SPINACH SALAD                                    17",
+    "bbox": [
+      "68.18",
+      "575.92",
+      "280.00",
+      "585.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Traditionally cooked al dente like in Italy",
+    "bbox": [
+      "371.58",
+      "578.52",
+      "504.37",
+      "586.12"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Honey, roasted pine nuts & balsamic vinaigrette",
+    "bbox": [
+      "68.18",
+      "584.65",
+      "247.53",
+      "593.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Artisan gluten free pasta (+ 3) & whole wheat pastas are available",
+    "bbox": [
+      "332.40",
+      "587.64",
+      "543.55",
+      "595.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SERAFINA CHICKEN SALAD                                                  18",
+    "bbox": [
+      "68.18",
+      "595.92",
+      "280.00",
+      "605.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Free range chicken breast, romaine, mesclun, sun dried",
+    "bbox": [
+      "68.18",
+      "604.65",
+      "271.17",
+      "613.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "tomatoes, raisins, pine nuts & pesto dressing",
+    "bbox": [
+      "68.18",
+      "612.66",
+      "235.88",
+      "621.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "AVOCADO SAN PIETRO                                                          18",
+    "bbox": [
+      "68.18",
+      "623.92",
+      "280.00",
+      "633.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Baby shrimp, arugula, grape tomatoes, cannellini",
+    "bbox": [
+      "68.18",
+      "632.65",
+      "250.10",
+      "641.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "beans & Champagne mustard sauce",
+    "bbox": [
+      "68.18",
+      "640.66",
+      "203.44",
+      "649.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SECONDI PIATTI",
+    "bbox": [
+      "380.32",
+      "641.96",
+      "494.94",
+      "655.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CARCIOFI E PARMIGIANO                                              20",
+    "bbox": [
+      "68.18",
+      "651.92",
+      "279.96",
+      "661.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Raw sliced artichoke hearts with Parmigiano Reggiano,",
+    "bbox": [
+      "68.18",
+      "660.65",
+      "275.62",
+      "669.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "VEGETARIAN",
+    "bbox": [
+      "409.30",
+      "657.90",
+      "466.05",
+      "667.40"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "lemon & extra virgin olive oil",
+    "bbox": [
+      "68.18",
+      "668.66",
+      "173.36",
+      "677.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "VEGETARIAN PLATTER                                                     19",
+    "bbox": [
+      "331.76",
+      "669.90",
+      "543.58",
+      "679.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Spaghetti squash with sautéed mixed vegetables, pine",
+    "bbox": [
+      "331.76",
+      "678.64",
+      "536.82",
+      "687.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(+...Half chicken paillard 8,  seared ﬁlet mignon  9, shrimp 10)",
+    "bbox": [
+      "72.64",
+      "682.61",
+      "275.78",
+      "690.21"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "nuts & tomato sauce",
+    "bbox": [
+      "331.76",
+      "686.64",
+      "409.97",
+      "695.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "EGGPLANT PARMIGIANA                                                 21",
+    "bbox": [
+      "331.76",
+      "697.90",
+      "543.58",
+      "707.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SIDES",
+    "bbox": [
+      "154.27",
+      "706.30",
+      "193.80",
+      "719.60"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Eggplant, “ﬁor di latte” mozzarella homemade tomato",
+    "bbox": [
+      "331.76",
+      "706.64",
+      "535.61",
+      "715.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "sauce, fresh basil & Parmigiano Reggiano",
+    "bbox": [
+      "331.76",
+      "714.64",
+      "484.57",
+      "723.19"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CESTINO DI FOCACCIA  Baked with herbs                     8",
+    "bbox": [
+      "68.17",
+      "722.33",
+      "279.98",
+      "731.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FRENCH FRIES                                                                     9",
+    "bbox": [
+      "68.17",
+      "732.83",
+      "280.18",
+      "742.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FISH",
+    "bbox": [
+      "427.61",
+      "738.09",
+      "447.74",
+      "747.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BRUSSELS SPROUTS  Sautéed with garlic & extra virgin olive oil  9",
+    "bbox": [
+      "68.17",
+      "743.33",
+      "280.00",
+      "752.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SAUTÉED SPINACH  Sautéed with garlic & extra virgin olive oil  9",
+    "bbox": [
+      "68.17",
+      "753.83",
+      "280.00",
+      "763.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ATLANTIC SALMON                                                                  28",
+    "bbox": [
+      "331.76",
+      "750.09",
+      "543.58",
+      "759.69"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Grilled, served with lentils, baby spinach",
+    "bbox": [
+      "331.76",
+      "758.82",
+      "481.99",
+      "767.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROASTED POTATOES  Roasted with rosemary                9",
+    "bbox": [
+      "68.17",
+      "764.33",
+      "279.93",
+      "773.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "& Champagne mustard sauce",
+    "bbox": [
+      "331.76",
+      "766.83",
+      "442.23",
+      "775.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CONTORNO  Broccoli, potatoes, peppers & artichokes   9",
+    "bbox": [
+      "68.17",
+      "774.83",
+      "279.99",
+      "784.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BRANZINO AI CHERRY TOMATOES                                   32",
+    "bbox": [
+      "331.76",
+      "778.09",
+      "543.58",
+      "787.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CARCIOFFI  Artichokes & potatoes                                   9",
+    "bbox": [
+      "68.17",
+      "785.33",
+      "279.91",
+      "794.93"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sautéed in white wine & cherry tomatoes,",
+    "bbox": [
+      "331.76",
+      "786.82",
+      "491.68",
+      "795.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "served with roasted potatoes & asparagus",
+    "bbox": [
+      "331.76",
+      "794.83",
+      "490.65",
+      "803.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "I NOSTRI DOLCI",
+    "bbox": [
+      "116.88",
+      "817.20",
+      "230.22",
+      "830.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MEAT",
+    "bbox": [
+      "425.77",
+      "818.28",
+      "449.58",
+      "827.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "IL TIRAMISÙ*                                                                                12",
+    "bbox": [
+      "68.18",
+      "831.35",
+      "280.00",
+      "840.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SERAFINA BURGER                                                                   21",
+    "bbox": [
+      "331.76",
+      "830.28",
+      "543.58",
+      "839.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Lady ﬁngers, mascarpone, espresso & cocoa dusting",
+    "bbox": [
+      "68.18",
+      "840.08",
+      "266.64",
+      "848.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Double R Ranch beef, mozzarella or gorgonzola,",
+    "bbox": [
+      "331.76",
+      "839.01",
+      "511.41",
+      "847.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "on top. Just like Grandma used to make, maybe better",
+    "bbox": [
+      "68.18",
+      "848.09",
+      "264.12",
+      "856.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "avocado, caramelized onions & French fries",
+    "bbox": [
+      "331.76",
+      "847.01",
+      "496.27",
+      "855.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "THE CHOCOLATE SENSATION*                                           12",
+    "bbox": [
+      "68.18",
+      "859.35",
+      "280.00",
+      "868.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHICKEN BREAST PAILLARD                                               24",
+    "bbox": [
+      "331.76",
+      "858.28",
+      "543.58",
+      "867.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "7 chocolate layers with hazelnut cream & hazelnut",
+    "bbox": [
+      "68.18",
+      "868.08",
+      "259.21",
+      "876.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Free range chicken breast with arugula & tomatoes",
+    "bbox": [
+      "331.76",
+      "867.01",
+      "524.02",
+      "875.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "crunch, served with fresh whipped cream",
+    "bbox": [
+      "68.18",
+      "876.09",
+      "225.89",
+      "884.64"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHICKEN MILANESE                                                         27",
+    "bbox": [
+      "331.76",
+      "878.28",
+      "543.54",
+      "887.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FOCCACIA ALLA NUTELLA*                                           16",
+    "bbox": [
+      "68.18",
+      "887.35",
+      "280.00",
+      "896.96"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sautéed breaded chicken with arugula tomatoes & basil",
+    "bbox": [
+      "331.76",
+      "887.01",
+      "541.77",
+      "895.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Special nutella sauce & strawberries. Perfect to share!",
+    "bbox": [
+      "68.18",
+      "896.08",
+      "272.65",
+      "904.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "VEAL SCALOPPINE AL LIMONE                                    28",
+    "bbox": [
+      "331.76",
+      "898.28",
+      "543.48",
+      "907.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "*(Contains hazelnut & peanut oil)",
+    "bbox": [
+      "110.48",
+      "906.17",
+      "237.56",
+      "913.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sautéed in white wine & lemon,",
+    "bbox": [
+      "331.76",
+      "907.01",
+      "452.73",
+      "915.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "served with broccoli & roasted potatoes",
+    "bbox": [
+      "331.76",
+      "915.01",
+      "484.25",
+      "923.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LET US KNOW OF ANY FOOD ALLERGIES YOU MIGHT HAVE",
+    "bbox": [
+      "74.87",
+      "926.86",
+      "273.56",
+      "934.46"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "STEAK & FRIES                                                                           32",
+    "bbox": [
+      "331.76",
+      "926.28",
+      "543.58",
+      "935.88"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PLEASE REFRIGERATE ALL ITEMS IF NOT CONSUMED",
+    "bbox": [
+      "84.38",
+      "935.41",
+      "264.05",
+      "943.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Grilled, 10oz free range, grass fed Double R Ranch",
+    "bbox": [
+      "331.76",
+      "935.01",
+      "521.08",
+      "943.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WITHIN 10 MIN OF DELIVERY",
+    "bbox": [
+      "125.45",
+      "943.96",
+      "222.96",
+      "951.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "sirloin, served with fries",
+    "bbox": [
+      "331.76",
+      "943.01",
+      "421.50",
+      "951.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Consuming raw or undercooked meats, poultry, seafood, shellﬁsh or eggs may increase your risk of food borne illness.",
+    "bbox": [
+      "106.67",
+      "967.49",
+      "505.34",
+      "974.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Please let us know of any food allergies you might have.",
+    "bbox": [
+      "212.85",
+      "976.04",
+      "399.15",
+      "983.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "P",
+    "bbox": [
+      "257.62",
+      "34.83",
+      "275.38",
+      "64.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "IZ",
+    "bbox": [
+      "278.69",
+      "34.83",
+      "307.73",
+      "64.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Z",
+    "bbox": [
+      "311.93",
+      "34.83",
+      "328.67",
+      "64.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "A",
+    "bbox": [
+      "332.95",
+      "34.83",
+      "351.37",
+      "64.83"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ITALIAN CLASSICA",
+    "bbox": [
+      "133.87",
+      "65.58",
+      "215.71",
+      "75.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "GOURMET DI SERAFINA",
+    "bbox": [
+      "389.53",
+      "65.58",
+      "495.14",
+      "75.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MARGHERITA                                                                              17",
+    "bbox": [
+      "68.87",
+      "77.58",
+      "280.69",
+      "87.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "White pizza",
+    "bbox": [
+      "421.95",
+      "78.05",
+      "462.73",
+      "85.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tomato, mozzarella, basil & olives",
+    "bbox": [
+      "68.87",
+      "88.58",
+      "193.43",
+      "97.13"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BIANCA                                                                                          21",
+    "bbox": [
+      "336.43",
+      "88.58",
+      "548.23",
+      "98.18"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "V.I.P. MARGHERITA                                                                 20",
+    "bbox": [
+      "68.87",
+      "99.84",
+      "280.69",
+      "109.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Mozzarella, fontina, baby arugula & shaved",
+    "bbox": [
+      "336.43",
+      "96.92",
+      "495.15",
+      "105.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Parmigiano Reggiano",
+    "bbox": [
+      "336.43",
+      "105.92",
+      "414.59",
+      "114.47"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tomato, “ﬁor di latte” mozzarella & basil",
+    "bbox": [
+      "68.87",
+      "110.84",
+      "218.50",
+      "119.39"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TARTUFO NERO                                                                         30",
+    "bbox": [
+      "336.43",
+      "117.19",
+      "548.24",
+      "126.79"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "REGINA MARGHERITA                                                             22",
+    "bbox": [
+      "68.87",
+      "122.10",
+      "280.69",
+      "131.71"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Secret recipe, a bouquet of Italian cheeses",
+    "bbox": [
+      "336.43",
+      "125.52",
+      "495.71",
+      "134.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tomato, buffalo mozzarella & basil",
+    "bbox": [
+      "68.87",
+      "133.10",
+      "196.72",
+      "141.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "& black trufﬂe",
+    "bbox": [
+      "336.43",
+      "134.52",
+      "388.54",
+      "143.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DI VITTORIO                                                                23",
+    "bbox": [
+      "68.87",
+      "144.36",
+      "280.11",
+      "153.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Burrata, tomato & fresh basil",
+    "bbox": [
+      "68.87",
+      "155.36",
+      "177.35",
+      "163.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ORIGINALI",
+    "bbox": [
+      "413.68",
+      "172.27",
+      "460.29",
+      "181.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DI SERAFINA",
+    "bbox": [
+      "146.61",
+      "187.25",
+      "202.96",
+      "196.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4 STAGIONI                                                                                  19",
+    "bbox": [
+      "331.08",
+      "183.67",
+      "542.89",
+      "193.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tomato, mozzarella, mushrooms, artichokes,",
+    "bbox": [
+      "331.08",
+      "192.00",
+      "497.88",
+      "200.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PRIMAVERA                                                                                  17",
+    "bbox": [
+      "68.87",
+      "198.65",
+      "280.69",
+      "208.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "pesto & prosciutto di Parma",
+    "bbox": [
+      "331.08",
+      "201.00",
+      "437.39",
+      "209.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tomato, mozzarella & seasonal garden vegetables",
+    "bbox": [
+      "68.87",
+      "206.98",
+      "253.90",
+      "215.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ALLA NORCINA                                                          20",
+    "bbox": [
+      "331.08",
+      "211.67",
+      "542.74",
+      "221.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PORTOFINO                                                                                 19",
+    "bbox": [
+      "68.87",
+      "217.65",
+      "280.69",
+      "227.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tomato, mozzarella, mushrooms & spicy sausage",
+    "bbox": [
+      "331.08",
+      "220.00",
+      "513.23",
+      "228.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tomato, mozzarella, homemade pesto & pine nuts",
+    "bbox": [
+      "68.87",
+      "225.98",
+      "257.42",
+      "234.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SUPER VEGAN                                                                             22",
+    "bbox": [
+      "331.08",
+      "230.67",
+      "542.89",
+      "240.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "AI FUNGHI                                                                                    19",
+    "bbox": [
+      "68.87",
+      "236.65",
+      "280.69",
+      "246.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tomato, artichokes, mushrooms & broccoli rabe",
+    "bbox": [
+      "331.08",
+      "239.00",
+      "512.19",
+      "247.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tomato, mozzarella & mushrooms",
+    "bbox": [
+      "68.87",
+      "244.98",
+      "195.47",
+      "253.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DI FABIO                                                                                        20",
+    "bbox": [
+      "68.87",
+      "255.65",
+      "280.69",
+      "265.25"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Tomato, mozzarella, prosciutto di Parma",
+    "bbox": [
+      "68.87",
+      "263.98",
+      "220.38",
+      "272.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "& chopped tomatoes",
+    "bbox": [
+      "68.87",
+      "272.99",
+      "149.20",
+      "281.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LA FOCACCIA",
+    "bbox": [
+      "405.88",
+      "276.76",
+      "468.11",
+      "286.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "IL CESTINO                                                                                    8",
+    "bbox": [
+      "331.08",
+      "288.16",
+      "542.89",
+      "297.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Focaccia baked with herbs",
+    "bbox": [
+      "331.08",
+      "296.49",
+      "431.84",
+      "305.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LIGURE                                                                                         21",
+    "bbox": [
+      "331.08",
+      "307.16",
+      "542.89",
+      "316.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "“Fior di latte” mozzarella, sliced tomatoes,",
+    "bbox": [
+      "331.08",
+      "315.49",
+      "490.26",
+      "324.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "prosciutto di Parma & basil",
+    "bbox": [
+      "331.08",
+      "324.49",
+      "432.74",
+      "333.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DI SOFIA                                                                              22",
+    "bbox": [
+      "331.08",
+      "335.16",
+      "542.57",
+      "344.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Al Tartufo d’Alba.  Our own specialty & secret",
+    "bbox": [
+      "331.08",
+      "344.89",
+      "501.78",
+      "353.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Our pizza ingredients all come from Italy:",
+    "bbox": [
+      "232.75",
+      "373.10",
+      "378.91",
+      "380.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "San Marzano tomatoes, mozzarella, buffalo mozzarella, burrata, extra virgin olive oil & even our sea salt",
+    "bbox": [
+      "122.34",
+      "380.95",
+      "489.32",
+      "387.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "W",
+    "bbox": [
+      "263.70",
+      "423.59",
+      "291.30",
+      "453.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "IN",
+    "bbox": [
+      "293.85",
+      "423.59",
+      "326.16",
+      "453.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "E",
+    "bbox": [
+      "328.05",
+      "423.59",
+      "345.30",
+      "453.59"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "* All wines are current release",
+    "bbox": [
+      "428.77",
+      "420.79",
+      "543.13",
+      "429.34"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WHITE BY THE GLASS",
+    "bbox": [
+      "125.67",
+      "461.24",
+      "223.70",
+      "470.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RED BY THE GLASS",
+    "bbox": [
+      "393.82",
+      "461.24",
+      "480.60",
+      "470.74"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PINOT GRIGIO, Fantinel Riserva, SeraVino                           12",
+    "bbox": [
+      "68.77",
+      "473.16",
+      "280.62",
+      "482.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT GRIGIO, Fantinel Riserva, SeraVino",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "12",
+            "answer_start": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MONTEPULCIANO, Arche                                                              12",
+    "bbox": [
+      "331.29",
+      "473.16",
+      "543.44",
+      "482.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MONTEPULCIANO, Arche",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "12",
+            "answer_start": 82
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SAUVIGNON BLANC, Reserve SeraVino                                 13",
+    "bbox": [
+      "68.77",
+      "484.56",
+      "280.55",
+      "493.43"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC, Reserve SeraVino",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MALBEC, Antigal Uno, SeraVino, Mendoza                            13",
+    "bbox": [
+      "331.29",
+      "484.56",
+      "543.16",
+      "493.43"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MALBEC, Antigal Uno, SeraVino, Mendoza",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHARDONNAY, SeraVino, Tuscany                                            14",
+    "bbox": [
+      "68.77",
+      "495.96",
+      "280.66",
+      "504.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY, SeraVino, Tuscany",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 73
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHIANTI RISERVA, DOCG Tenuta Il Palazzo                          14",
+    "bbox": [
+      "331.29",
+      "495.96",
+      "543.16",
+      "504.82"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHIANTI RISERVA, DOCG Tenuta Il Palazzo",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "VERMENTINO TOSCANO, SeraVino                                          14",
+    "bbox": [
+      "68.77",
+      "507.35",
+      "280.61",
+      "516.22"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VERMENTINO TOSCANO, SeraVino",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PINOT NOIR, Lyric Etude, Santa Barbara                                15",
+    "bbox": [
+      "331.29",
+      "507.35",
+      "543.20",
+      "516.22"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT NOIR, Lyric Etude, Santa Barbara",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SANCERRE, Les Vignes du Baron, Loire                                  16",
+    "bbox": [
+      "68.77",
+      "518.75",
+      "280.70",
+      "527.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SANCERRE, Les Vignes du Baron, Loire",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MERLOT, La Roncaia, Friuli-Venezia Giulia                            15",
+    "bbox": [
+      "331.29",
+      "518.75",
+      "543.13",
+      "527.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MERLOT, La Roncaia, Friuli-Venezia Giulia",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHARDONNAY, Sonoma Cutrer                                                  16",
+    "bbox": [
+      "68.77",
+      "530.15",
+      "280.59",
+      "539.02"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY, Sonoma Cutrer",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 75
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CABERNET SAUV, St. Francis, SeraVino, Napa Valley       15",
+    "bbox": [
+      "331.29",
+      "530.15",
+      "543.09",
+      "539.02"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET SAUV, St. Francis, SeraVino, Napa Valley",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SUPER TUSCAN, Under the Tuscan Sun                                  16",
+    "bbox": [
+      "331.29",
+      "541.55",
+      "543.04",
+      "550.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SUPER TUSCAN, Under the Tuscan Sun",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPARKLING BY THE GLASS",
+    "bbox": [
+      "114.68",
+      "579.18",
+      "234.69",
+      "588.68"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SERAVINO, Moscato Spumante Dolce                                    10",
+    "bbox": [
+      "68.77",
+      "591.10",
+      "280.47",
+      "599.97"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SERAVINO, Moscato Spumante Dolce",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "10",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SERAVINO, Prosecco, Riserva Fantinel                               13",
+    "bbox": [
+      "68.77",
+      "602.50",
+      "280.49",
+      "611.36"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SERAVINO, Prosecco, Riserva Fantinel",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROSÉ BY THE GLASS",
+    "bbox": [
+      "390.85",
+      "601.98",
+      "483.58",
+      "611.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SERAVINO ROSÉ, Brut Riserva Fantinel                                  14",
+    "bbox": [
+      "68.77",
+      "613.89",
+      "280.54",
+      "622.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SERAVINO ROSÉ, Brut Riserva Fantinel",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHATEAU PIGOUDET RESERVE, SeraVino, Provence     14",
+    "bbox": [
+      "331.30",
+      "613.90",
+      "543.13",
+      "622.77"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHATEAU PIGOUDET RESERVE, SeraVino, Provence",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WHITE WINE",
+    "bbox": [
+      "135.49",
+      "652.64",
+      "214.33",
+      "665.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RED WINE",
+    "bbox": [
+      "406.10",
+      "652.64",
+      "468.76",
+      "665.94"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ITALIAN",
+    "bbox": [
+      "157.54",
+      "671.58",
+      "191.84",
+      "681.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ITALIAN",
+    "bbox": [
+      "420.06",
+      "671.58",
+      "454.36",
+      "681.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SERAVINO, Fantinel Riserva, Pinot Grigio                             48",
+    "bbox": [
+      "68.77",
+      "683.71",
+      "280.50",
+      "692.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SERAVINO, Fantinel Riserva, Pinot Grigio",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "48",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SERAVINO, Tenuta Il Palazzo, Chianti Riserva DOCG       55",
+    "bbox": [
+      "331.29",
+      "683.71",
+      "543.13",
+      "692.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SERAVINO, Tenuta Il Palazzo, Chianti Riserva DOCG",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "55",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SERAVINO, Tenuta Il Palazzo, Chardonnay                           53",
+    "bbox": [
+      "68.77",
+      "695.11",
+      "280.68",
+      "703.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SERAVINO, Tenuta Il Palazzo, Chardonnay",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "53",
+            "answer_start": 66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SERAVINO, Under the Tuscan Sun, Super Tuscan             64",
+    "bbox": [
+      "331.29",
+      "695.11",
+      "543.10",
+      "703.97"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SERAVINO, Under the Tuscan Sun, Super Tuscan",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "64",
+            "answer_start": 57
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SERAVINO, Vermentino Toscano                                               55",
+    "bbox": [
+      "68.78",
+      "706.51",
+      "280.46",
+      "715.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SERAVINO, Vermentino Toscano",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "55",
+            "answer_start": 75
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LA RONCAIA, Friuli-Venezia Giulia, Merlot                          65",
+    "bbox": [
+      "331.29",
+      "706.50",
+      "543.05",
+      "715.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LA RONCAIA, Friuli-Venezia Giulia, Merlot",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "65",
+            "answer_start": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "VILLA SPARINA, Gavi di Gavi                                                        55",
+    "bbox": [
+      "68.78",
+      "717.90",
+      "280.46",
+      "726.77"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VILLA SPARINA, Gavi di Gavi",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "55",
+            "answer_start": 83
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "OCCHETTI, Prunotto, Nebbiolo                                                65",
+    "bbox": [
+      "331.29",
+      "717.90",
+      "543.30",
+      "726.77"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "OCCHETTI, Prunotto, Nebbiolo",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "65",
+            "answer_start": 76
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ANTINORI, Bramito, Chardonnay                                              57",
+    "bbox": [
+      "68.78",
+      "729.30",
+      "280.47",
+      "738.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ANTINORI, Bramito, Chardonnay",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "57",
+            "answer_start": 75
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ANTINORI, Peppoli, Chianti Classico DOCG                        68",
+    "bbox": [
+      "331.29",
+      "729.30",
+      "543.06",
+      "738.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ANTINORI, Peppoli, Chianti Classico DOCG",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "68",
+            "answer_start": 64
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LIVIO FELLUGA, Pinot Grigio                                                       67",
+    "bbox": [
+      "68.78",
+      "740.70",
+      "280.64",
+      "749.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LIVIO FELLUGA, Pinot Grigio",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "67",
+            "answer_start": 82
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ANTINORI, Brunello di Montalcino                                         120",
+    "bbox": [
+      "331.29",
+      "740.70",
+      "543.12",
+      "749.56"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ANTINORI, Brunello di Montalcino",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "120",
+            "answer_start": 73
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LA SCOLCA, Gavi di Gavi, Black Label                                    95",
+    "bbox": [
+      "68.78",
+      "752.09",
+      "280.63",
+      "760.96"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LA SCOLCA, Gavi di Gavi, Black Label",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "95",
+            "answer_start": 72
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "PIO CESARE, Barolo                                                                       129",
+    "bbox": [
+      "331.29",
+      "752.09",
+      "543.08",
+      "760.96"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PIO CESARE, Barolo",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "129",
+            "answer_start": 89
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ANTINORI, Castello Della Sala, Cervaro                               120",
+    "bbox": [
+      "68.78",
+      "763.49",
+      "280.57",
+      "772.36"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ANTINORI, Castello Della Sala, Cervaro",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "120",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ARGENTINIAN",
+    "bbox": [
+      "406.36",
+      "774.49",
+      "468.06",
+      "783.99"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "FRENCH",
+    "bbox": [
+      "155.90",
+      "788.85",
+      "193.47",
+      "798.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SERAVINO, Malbec, Antigal Uno, Mendoza                           58",
+    "bbox": [
+      "331.30",
+      "786.63",
+      "543.13",
+      "795.49"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SERAVINO, Malbec, Antigal Uno, Mendoza",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "58",
+            "answer_start": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LES VIGNES DU BARON, Sancerre, Loire                      69",
+    "bbox": [
+      "68.77",
+      "800.25",
+      "280.64",
+      "809.85"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LES VIGNES DU BARON, Sancerre, Loire",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "69",
+            "answer_start": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "AMERICAN",
+    "bbox": [
+      "413.48",
+      "809.01",
+      "460.93",
+      "818.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LYRIC ETUDE, Pinot Noir, Santa Barbara                               58",
+    "bbox": [
+      "331.29",
+      "821.15",
+      "543.24",
+      "830.01"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LYRIC ETUDE, Pinot Noir, Santa Barbara",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "58",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "AMERICAN",
+    "bbox": [
+      "150.97",
+      "826.32",
+      "198.41",
+      "835.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ST. FRANCIS, Cabernet Sauvignon, Napa Valley                64",
+    "bbox": [
+      "331.29",
+      "832.54",
+      "543.08",
+      "841.41"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ST. FRANCIS, Cabernet Sauvignon, Napa Valley",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "64",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CHARLES KRUG, Sauvignon Blanc, Napa Valley                 58",
+    "bbox": [
+      "68.77",
+      "838.45",
+      "280.57",
+      "847.31"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARLES KRUG, Sauvignon Blanc, Napa Valley",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "58",
+            "answer_start": 59
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ETUDE, Pinot Noir, Carneros Estate                                        95",
+    "bbox": [
+      "331.29",
+      "843.94",
+      "543.04",
+      "852.81"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ETUDE, Pinot Noir, Carneros Estate",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "95",
+            "answer_start": 74
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SONOMA CUTRER, Russian River, Chardonnay                 60",
+    "bbox": [
+      "68.77",
+      "849.85",
+      "280.56",
+      "858.71"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SONOMA CUTRER, Russian River, Chardonnay",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "60",
+            "answer_start": 57
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "JOSEPH PHELPS, Cabernet Sauvignon, Napa Valley     129",
+    "bbox": [
+      "331.29",
+      "855.34",
+      "543.09",
+      "864.20"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "JOSEPH PHELPS, Cabernet Sauvignon, Napa Valley",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "129",
+            "answer_start": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "FAR NIENTE, Chardonnay, Napa Valley                                   99",
+    "bbox": [
+      "68.77",
+      "861.24",
+      "280.52",
+      "870.11"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "FAR NIENTE, Chardonnay, Napa Valley",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "99",
+            "answer_start": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "NEW ZEALAND",
+    "bbox": [
+      "141.35",
+      "886.58",
+      "208.02",
+      "896.08"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SERAVINO, Reserve, Sauvignon Blanc, Marlborough      53",
+    "bbox": [
+      "68.77",
+      "898.72",
+      "280.61",
+      "907.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SERAVINO, Reserve, Sauvignon Blanc, Marlborough",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "53",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPARKLING",
+    "bbox": [
+      "401.46",
+      "897.14",
+      "472.96",
+      "910.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CLOUDY BAY, Sauvignon Blanc, Marlborough                     85",
+    "bbox": [
+      "68.77",
+      "910.11",
+      "280.63",
+      "918.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CLOUDY BAY, Sauvignon Blanc, Marlborough",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "85",
+            "answer_start": 61
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SERAVINO, Moscato Spumante Dolce                                   45",
+    "bbox": [
+      "331.30",
+      "911.72",
+      "543.23",
+      "920.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SERAVINO, Moscato Spumante Dolce",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "45",
+            "answer_start": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SERAVINO, Prosecco Riserva Fantinel                                  60",
+    "bbox": [
+      "331.30",
+      "923.11",
+      "543.24",
+      "931.98"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SERAVINO, Prosecco Riserva Fantinel",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "60",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SERAVINO, Rosé Brut Riserva Fantinel                                 65",
+    "bbox": [
+      "331.30",
+      "934.51",
+      "543.18",
+      "943.38"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SERAVINO, Rosé Brut Riserva Fantinel",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "65",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "VEUVE CLICQUOT, Brut Yellow Label                                   110",
+    "bbox": [
+      "331.30",
+      "945.91",
+      "543.14",
+      "954.77"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "VEUVE CLICQUOT, Brut Yellow Label",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "110",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROSÉ",
+    "bbox": [
+      "157.79",
+      "954.14",
+      "191.59",
+      "967.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "KRUG                                                                                                     375",
+    "bbox": [
+      "331.30",
+      "957.30",
+      "542.86",
+      "966.17"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "KRUG",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "375",
+            "answer_start": 105
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SERAVINO, Chateau Pigoudet Reserve, Provence 750ml    60",
+    "bbox": [
+      "68.77",
+      "967.98",
+      "280.60",
+      "977.58"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SERAVINO, Chateau Pigoudet Reserve, Provence 750ml",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "60",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "LOUIS ROEDERER, Cristal                                                          495",
+    "bbox": [
+      "331.30",
+      "968.70",
+      "543.23",
+      "977.57"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "LOUIS ROEDERER, Cristal",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "495",
+            "answer_start": 81
+          }
+        ]
+      }
+    ]
+  }
+]

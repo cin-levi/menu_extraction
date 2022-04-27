@@ -1,0 +1,914 @@
+[
+  {
+    "page_number": 1,
+    "text": "COCTELES",
+    "bbox": [
+      "262.15",
+      "25.00",
+      "355.45",
+      "41.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Classic Margarita",
+    "bbox": [
+      "260.36",
+      "58.20",
+      "354.60",
+      "72.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "blanco tequila, lime, agave 14",
+    "bbox": [
+      "230.36",
+      "71.70",
+      "384.60",
+      "86.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "with mezcal 15",
+    "bbox": [
+      "268.90",
+      "85.20",
+      "346.06",
+      "99.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Spicy Mango Margarita",
+    "bbox": [
+      "247.20",
+      "106.20",
+      "367.76",
+      "120.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "blanco tequila, lime, agave, house spicy tincture  15",
+    "bbox": [
+      "173.56",
+      "116.70",
+      "441.40",
+      "131.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "with mezcal 16",
+    "bbox": [
+      "268.69",
+      "130.20",
+      "346.27",
+      "144.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Oaxacan Hot Toddy",
+    "bbox": [
+      "256.37",
+      "151.20",
+      "358.59",
+      "165.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "bourbon, mezcal, hibiscus, canela  15",
+    "bbox": [
+      "211.51",
+      "161.70",
+      "403.45",
+      "176.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "La Flama Blanca",
+    "bbox": [
+      "263.98",
+      "182.70",
+      "362.81",
+      "197.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "mezcal, vermouth, cocchi americano 14",
+    "bbox": [
+      "206.39",
+      "193.20",
+      "408.57",
+      "207.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Extranjero en Oaxaca",
+    "bbox": [
+      "250.70",
+      "214.20",
+      "364.25",
+      "228.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "reposado tequila, mezcal, calvados, mole bitters  15",
+    "bbox": [
+      "171.96",
+      "224.70",
+      "443.00",
+      "239.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Aguas el Tepache!",
+    "bbox": [
+      "259.58",
+      "245.70",
+      "355.38",
+      "260.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "mezcal, tepache, pasilla honey, mint  15",
+    "bbox": [
+      "204.17",
+      "256.20",
+      "410.78",
+      "270.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "El Cafetero de Jalisco",
+    "bbox": [
+      "248.59",
+      "277.20",
+      "366.36",
+      "291.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "raicilla, smoked coffee vermouth, red bitter  16",
+    "bbox": [
+      "183.90",
+      "287.70",
+      "431.06",
+      "302.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "El Mariachi",
+    "bbox": [
+      "277.94",
+      "308.70",
+      "339.98",
+      "323.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "mezcal, cocchi, hibiscus, rosemary 15",
+    "bbox": [
+      "209.74",
+      "319.20",
+      "405.22",
+      "333.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "FROZEN",
+    "bbox": [
+      "274.80",
+      "352.70",
+      "342.27",
+      "367.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Coco Enano",
+    "bbox": [
+      "276.88",
+      "374.50",
+      "338.08",
+      "389.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "rums, coconut, passionfruit, pineapple 15",
+    "bbox": [
+      "200.51",
+      "385.00",
+      "414.45",
+      "399.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Purple Rain",
+    "bbox": [
+      "277.30",
+      "406.00",
+      "337.66",
+      "420.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "serrano infused tequila, concord grape, lime  15",
+    "bbox": [
+      "184.56",
+      "415.56",
+      "431.06",
+      "431.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "VINO",
+    "bbox": [
+      "283.42",
+      "462.24",
+      "334.18",
+      "478.24"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPARKLING",
+    "bbox": [
+      "261.83",
+      "488.94",
+      "355.24",
+      "503.44"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Via de la Plata Cava, Macabeo, Parellada Extremadura, ESP 13/52",
+    "bbox": [
+      "131.74",
+      "511.04",
+      "483.22",
+      "525.54"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Via de la Plata Cava, Macabeo, Parellada Extremadura, ESP",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "13/52",
+            "answer_start": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Clos Lentiscus Rosé Brut Nature, Carignan 2013  Catalonia, ESP  64",
+    "bbox": [
+      "130.27",
+      "532.04",
+      "484.69",
+      "546.54"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Clos Lentiscus Rosé Brut Nature, Carignan",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2013",
+            "answer_start": 42
+          }
+        ],
+        "p": [
+          {
+            "text": "64",
+            "answer_start": 64
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE",
+    "bbox": [
+      "280.07",
+      "568.54",
+      "337.01",
+      "583.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Adega Eloi Lorenzo “Villa Paz” Albariño Blend 2017  Ribeiro, ESP  14/56",
+    "bbox": [
+      "121.56",
+      "583.54",
+      "493.40",
+      "598.04"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Adega Eloi Lorenzo “Villa Paz” Albariño Blend",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 46
+          }
+        ],
+        "p": [
+          {
+            "text": "14/56",
+            "answer_start": 66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Ismael Gozalo “La Banda Del Argilico” Verdejo 2018  Castilla y Leon, ESP 14/56",
+    "bbox": [
+      "101.51",
+      "604.54",
+      "513.45",
+      "619.04"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Ismael Gozalo “La Banda Del Argilico” Verdejo",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 46
+          }
+        ],
+        "p": [
+          {
+            "text": "14/56",
+            "answer_start": 73
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Antigua Clásico, Tempranillo Blanco  2014  Rioja, ESP 15/60",
+    "bbox": [
+      "149.96",
+      "625.54",
+      "465.00",
+      "640.04"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Antigua Clásico, Tempranillo Blanco",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2014",
+            "answer_start": 37
+          }
+        ],
+        "p": [
+          {
+            "text": "15/60",
+            "answer_start": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSÉ + ORANGE",
+    "bbox": [
+      "240.88",
+      "662.04",
+      "376.19",
+      "676.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Gaintza Txakolina, Hondarrabi Beltza + Zuri 2018  Getaria, ESP 14/56",
+    "bbox": [
+      "121.98",
+      "677.04",
+      "492.98",
+      "691.54"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Gaintza Txakolina, Hondarrabi Beltza + Zuri",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 44
+          }
+        ],
+        "p": [
+          {
+            "text": "14/56",
+            "answer_start": 63
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Keltis “Žan” Rumeni Plavec, Muscat, Traminec+ 2019  Bizeljsko, SVN 16/64",
+    "bbox": [
+      "109.64",
+      "698.04",
+      "505.32",
+      "712.54"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Keltis “Žan” Rumeni Plavec, Muscat, Traminec",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2019",
+            "answer_start": 46
+          }
+        ],
+        "p": [
+          {
+            "text": "16/64",
+            "answer_start": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Fabien Jouves “Á Table!!!” Malbec, Merlot 2018  Cahors, FRA 1.5 liter 85",
+    "bbox": [
+      "119.48",
+      "719.04",
+      "495.48",
+      "733.54"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Fabien Jouves “Á Table!!!” Malbec, Merlot",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2018",
+            "answer_start": 42
+          }
+        ],
+        "p": [
+          {
+            "text": "85",
+            "answer_start": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RED",
+    "bbox": [
+      "290.88",
+      "755.54",
+      "356.64",
+      "770.04"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cueva “Vi Viu” Syrah 2018  Utiel-Requena, ESP  15/60",
+    "bbox": [
+      "164.28",
+      "768.84",
+      "456.59",
+      "783.34"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Cueva “Vi Viu” Syrah 2018  Utiel-Requena, ESP",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "15/60",
+            "answer_start": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "*chilled*",
+    "bbox": [
+      "282.39",
+      "779.34",
+      "332.56",
+      "793.84"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "*chilled*",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Campo, Malbec 2017  Mendoza, ARG  13/52",
+    "bbox": [
+      "193.42",
+      "800.34",
+      "421.54",
+      "814.84"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Campo, Malbec",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 14
+          }
+        ],
+        "p": [
+          {
+            "text": "13/52",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "L.A. Cetto “Don Luis Reservada” Cabernet Sauvignon, Merlot+ 2015  Baja CA, MEX",
+    "bbox": [
+      "92.30",
+      "821.34",
+      "522.66",
+      "835.84"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "L.A. Cetto “Don Luis Reservada” Cabernet Sauvignon, Merlot+",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2015",
+            "answer_start": 60
+          }
+        ],
+        "p": [
+          {
+            "text": "Sauvign",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "15/60",
+    "bbox": [
+      "312.32",
+      "831.84",
+      "350.63",
+      "846.34"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "15/60",
+            "answer_start": 0
+          }
+        ],
+        "p": [
+          {
+            "text": "15/60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Partida Creus “SM” Sumoll 2017  Catalonia, ESP  62",
+    "bbox": [
+      "173.33",
+      "852.84",
+      "441.63",
+      "867.34"
+    ],
+    "annots": [
+      {
+        "w": [
+          {
+            "text": "Partida Creus “SM” Sumoll",
+            "answer_start": 0
+          }
+        ],
+        "v": [
+          {
+            "text": "2017",
+            "answer_start": 26
+          }
+        ],
+        "p": [
+          {
+            "text": "62",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CERVEZA",
+    "bbox": [
+      "186.18",
+      "919.05",
+      "257.10",
+      "933.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "REFRESCOS",
+    "bbox": [
+      "377.61",
+      "917.80",
+      "468.14",
+      "931.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Monopolio Clara  7",
+    "bbox": [
+      "174.59",
+      "934.05",
+      "266.64",
+      "948.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Coke  4",
+    "bbox": [
+      "402.36",
+      "932.80",
+      "441.35",
+      "946.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Negra Modelo  6",
+    "bbox": [
+      "179.24",
+      "949.05",
+      "261.99",
+      "963.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Diet Coke  4",
+    "bbox": [
+      "390.32",
+      "947.80",
+      "453.39",
+      "961.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Finback IPA 9",
+    "bbox": [
+      "185.71",
+      "964.05",
+      "255.53",
+      "978.05"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Squirt  4",
+    "bbox": [
+      "399.07",
+      "962.80",
+      "444.63",
+      "976.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Threes Vliet Pilsner 9",
+    "bbox": [
+      "165.13",
+      "979.05",
+      "273.25",
+      "993.05"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

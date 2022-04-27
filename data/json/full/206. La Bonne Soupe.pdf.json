@@ -1,0 +1,1372 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/18/22, 7:51 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE LIST - La Bonne (Soupe)",
+    "bbox": [
+      "295.55",
+      "15.70",
+      "407.60",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "le MENU",
+    "bbox": [
+      "80.26",
+      "74.27",
+      "123.87",
+      "84.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RSVP",
+    "bbox": [
+      "270.83",
+      "74.27",
+      "299.16",
+      "84.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Find Us",
+    "bbox": [
+      "378.61",
+      "74.27",
+      "415.89",
+      "84.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Order Online",
+    "bbox": [
+      "469.65",
+      "74.27",
+      "532.62",
+      "84.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Return to Main Menu",
+    "bbox": [
+      "149.64",
+      "215.44",
+      "212.97",
+      "224.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE LIST",
+    "bbox": [
+      "151.89",
+      "240.19",
+      "211.21",
+      "248.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne",
+    "bbox": [
+      "149.64",
+      "264.19",
+      "200.51",
+      "272.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "P. Vaillette Couer de Craie Rilly La Montagne 2015       162",
+    "bbox": [
+      "149.64",
+      "288.19",
+      "382.26",
+      "296.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "P. Vaillette Couer de Craie Rilly La Montagne",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 46
+          }
+        ],
+        "P": [
+          {
+            "text": "162",
+            "answer_start": 57
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Saint-Chamant Champagne Brut Rosé N.V.    136",
+    "bbox": [
+      "149.64",
+      "300.94",
+      "344.48",
+      "309.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Saint-Chamant Champagne Brut Rosé",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "N.V.",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Laurent-Perrier Brut N.V.        *100",
+    "bbox": [
+      "149.64",
+      "312.94",
+      "286.08",
+      "321.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Laurent-Perrier Brut",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "N.V.",
+            "answer_start": 21
+          }
+        ],
+        "P": [
+          {
+            "text": "*100",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rosé",
+    "bbox": [
+      "149.64",
+      "336.94",
+      "173.48",
+      "345.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Provence, Château Saint Baillon 2020        15/45",
+    "bbox": [
+      "149.64",
+      "361.69",
+      "342.16",
+      "370.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Provence, Château Saint Baillon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 32
+          }
+        ],
+        "P": [
+          {
+            "text": "15/45",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Provence, Bandol, Tour du Bon   2020  57",
+    "bbox": [
+      "149.64",
+      "373.69",
+      "315.05",
+      "382.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Provence, Bandol, Tour du Bon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 32
+          }
+        ],
+        "P": [
+          {
+            "text": "57",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "*Sparkling Rosé, Limod’ânes   16 / 48",
+    "bbox": [
+      "149.64",
+      "385.69",
+      "296.49",
+      "394.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "*Sparkling Rosé, Limod’ânes",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "16 / 48",
+            "answer_start": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "White",
+    "bbox": [
+      "149.64",
+      "409.69",
+      "179.50",
+      "418.37"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bourgogne, Mâcon-Villages, La Crochette 2018        15 / 45",
+    "bbox": [
+      "149.64",
+      "434.44",
+      "380.58",
+      "443.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bourgogne, Mâcon-Villages, La Crochette",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 40
+          }
+        ],
+        "P": [
+          {
+            "text": "15 / 45",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bourgogne, Pouilly-Fuissé, J.J. Vincent et Fils 2018        60",
+    "bbox": [
+      "149.64",
+      "446.44",
+      "382.19",
+      "455.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bourgogne, Pouilly-Fuissé, J.J. Vincent et Fils",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 48
+          }
+        ],
+        "P": [
+          {
+            "text": "60",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "* Bourgogne, Chablis, Oudin 2018        20 / 74",
+    "bbox": [
+      "149.64",
+      "458.44",
+      "328.12",
+      "467.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "* Bourgogne, Chablis, Oudin",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 28
+          }
+        ],
+        "P": [
+          {
+            "text": "20 / 74",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bourgogne, Saint-Aubin 1er Cru, Olivier Leﬂaive 2017    115",
+    "bbox": [
+      "149.64",
+      "470.44",
+      "385.60",
+      "479.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bourgogne, Saint-Aubin 1er Cru, Olivier Leﬂaive",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 48
+          }
+        ],
+        "P": [
+          {
+            "text": "115",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Loire, Sancerre, Domaine Fernand Girard 2019     17 / 51",
+    "bbox": [
+      "149.64",
+      "483.19",
+      "376.28",
+      "491.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Loire, Sancerre, Domaine Fernand Girard",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 40
+          }
+        ],
+        "P": [
+          {
+            "text": "17 / 51",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Loire, Vouvray, François Pinon 2018     60",
+    "bbox": [
+      "149.64",
+      "495.19",
+      "317.20",
+      "503.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Loire, Vouvray, François Pinon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 31
+          }
+        ],
+        "P": [
+          {
+            "text": "60",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Touraine, Chenin Blanc, Gaspard 2018    14 / 42",
+    "bbox": [
+      "149.64",
+      "507.19",
+      "337.84",
+      "515.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Touraine, Chenin Blanc, Gaspard",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 32
+          }
+        ],
+        "P": [
+          {
+            "text": "14 / 42",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Riesling, Hugel 2019        57",
+    "bbox": [
+      "149.64",
+      "519.19",
+      "260.86",
+      "527.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Riesling, Hugel",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 16
+          }
+        ],
+        "P": [
+          {
+            "text": "57",
+            "answer_start": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "* Pecorino, Italy, Raone Pecorino 2020      14/ 42",
+    "bbox": [
+      "149.64",
+      "543.94",
+      "342.61",
+      "552.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "* Pecorino, Italy, Raone Pecorino",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Red",
+    "bbox": [
+      "149.64",
+      "567.94",
+      "168.11",
+      "576.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bourgogne, Mercurey, Domaine Chanzy 2017         60",
+    "bbox": [
+      "149.64",
+      "591.94",
+      "362.44",
+      "600.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bourgogne, Mercurey, Domaine Chanzy",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 36
+          }
+        ],
+        "P": [
+          {
+            "text": "60",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bourgogne, Fixin, Domaine Berthaut-Gerbet 2017         80",
+    "bbox": [
+      "149.64",
+      "604.69",
+      "380.24",
+      "613.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bourgogne, Fixin, Domaine Berthaut-Gerbet",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 42
+          }
+        ],
+        "P": [
+          {
+            "text": "80",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bourgogne, Domaine Faiveley, Nuits-Saint Georges   2014   108",
+    "bbox": [
+      "149.64",
+      "616.69",
+      "400.53",
+      "625.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bourgogne, Domaine Faiveley, Nuits-Saint Georges",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "108",
+            "answer_start": 58
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bourgogne, En Champans, Volnay Iᴱᴿ Cru   2018   149",
+    "bbox": [
+      "149.64",
+      "628.19",
+      "363.02",
+      "637.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bourgogne, En Champans, Volnay Iᴱᴿ Cru",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 41
+          }
+        ],
+        "P": [
+          {
+            "text": "149",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "*Bordeaux, DieM, Château Tire Pé 2019       15 / 45",
+    "bbox": [
+      "149.64",
+      "640.69",
+      "351.63",
+      "649.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "*Bordeaux, DieM, Château Tire Pé",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 33
+          }
+        ],
+        "P": [
+          {
+            "text": "15 / 45",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bordeaux, Pessac-Léognan, Château Smith Haut Laﬁtte 2015         89",
+    "bbox": [
+      "149.64",
+      "652.69",
+      "425.63",
+      "661.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bordeaux, Pessac-Léognan, Château Smith Haut Laﬁtte",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 52
+          }
+        ],
+        "P": [
+          {
+            "text": "89",
+            "answer_start": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bordeaux, Pessac-Léognan, Château Olivier   2015       111",
+    "bbox": [
+      "149.64",
+      "665.44",
+      "375.54",
+      "674.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bordeaux, Pessac-Léognan, Château Olivier",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 44
+          }
+        ],
+        "P": [
+          {
+            "text": "111",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bordeaux, Pauillac, Château Lynch-Bages 2015         248",
+    "bbox": [
+      "149.64",
+      "677.44",
+      "373.11",
+      "686.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bordeaux, Pauillac, Château Lynch-Bages",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 40
+          }
+        ],
+        "P": [
+          {
+            "text": "248",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bordeaux, Pomerol, Château La Pointe 2015         94",
+    "bbox": [
+      "149.64",
+      "689.44",
+      "358.29",
+      "698.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bordeaux, Pomerol, Château La Pointe",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2015",
+            "answer_start": 37
+          }
+        ],
+        "P": [
+          {
+            "text": "94",
+            "answer_start": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bordeaux, Saint-Julien, Château Gloria 2014         120",
+    "bbox": [
+      "149.64",
+      "701.44",
+      "362.51",
+      "710.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bordeaux, Saint-Julien, Château Gloria",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2014",
+            "answer_start": 39
+          }
+        ],
+        "P": [
+          {
+            "text": "120",
+            "answer_start": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bordeaux, Margaux 4éme GCC, Château Prieuré Lichine 2018    148",
+    "bbox": [
+      "149.64",
+      "713.44",
+      "422.04",
+      "722.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bordeaux, Margaux 4éme GCC, Château Prieuré Lichine",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 52
+          }
+        ],
+        "P": [
+          {
+            "text": "148",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Côtes du Rhône, Château Mont-Redon 2018         14 / 42",
+    "bbox": [
+      "149.64",
+      "726.19",
+      "373.75",
+      "734.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Côtes du Rhône, Château Mont-Redon",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 35
+          }
+        ],
+        "P": [
+          {
+            "text": "14 / 42",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Côtes du Rhône, Châteauneuf du Pape, Télégramme Domaine du Vieux",
+    "bbox": [
+      "149.64",
+      "738.19",
+      "434.31",
+      "746.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Côtes du Rhône, Châteauneuf du Pape, Télégramme Domaine du Vieux",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Télégraphe 2018          89",
+    "bbox": [
+      "149.64",
+      "750.19",
+      "248.39",
+      "758.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Télégraphe",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 11
+          }
+        ],
+        "P": [
+          {
+            "text": "89",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://labonnenyc.com/WINE-LIST",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "151.39",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/2",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/18/22, 7:51 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WINE LIST - La Bonne (Soupe)",
+    "bbox": [
+      "295.55",
+      "15.70",
+      "407.60",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Côtes du Rhône, Gigondas, Château de Saint Cosme 2018          118",
+    "bbox": [
+      "149.64",
+      "31.69",
+      "416.52",
+      "40.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Côtes du Rhône, Gigondas, Château de Saint Cosme",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 49
+          }
+        ],
+        "P": [
+          {
+            "text": "118",
+            "answer_start": 63
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bourgogne, Les Genévrières, Frédéric Esmonin  2020   17 / 51",
+    "bbox": [
+      "149.64",
+      "43.69",
+      "393.91",
+      "52.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bourgogne, Les Genévrières, Frédéric Esmonin",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 46
+          }
+        ],
+        "P": [
+          {
+            "text": "17 / 51",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "*Southern France, Hecht & Bannier 2019        14 / 42",
+    "bbox": [
+      "149.64",
+      "55.69",
+      "357.39",
+      "64.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "*Southern France, Hecht & Bannier",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 34
+          }
+        ],
+        "P": [
+          {
+            "text": "14 / 42",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "California, USA, Sandlands, Red Table Wine     68",
+    "bbox": [
+      "149.64",
+      "80.44",
+      "357.52",
+      "89.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "California, USA, Sandlands, Red Table Wine",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "68",
+            "answer_start": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "*Oregon, USA, Grape Ink, Pinot Noir 2019    60",
+    "bbox": [
+      "149.64",
+      "92.44",
+      "338.32",
+      "101.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "*Oregon, USA, Grape Ink, Pinot Noir",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 36
+          }
+        ],
+        "P": [
+          {
+            "text": "60",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "*Rioja, Spain, Viña Alberdi Reserva 2016  50",
+    "bbox": [
+      "149.64",
+      "104.44",
+      "328.49",
+      "113.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rioja, Spain, Viña Alberdi Reserva",
+            "answer_start": 1
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 36
+          }
+        ],
+        "P": [
+          {
+            "text": "50",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "* Organic",
+    "bbox": [
+      "149.64",
+      "129.19",
+      "190.19",
+      "137.87"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "",
+    "bbox": [
+      "520.81",
+      "192.06",
+      "532.72",
+      "200.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "© HADIDI",
+    "bbox": [
+      "80.26",
+      "196.93",
+      "108.91",
+      "203.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Employee Portal",
+    "bbox": [
+      "368.26",
+      "196.93",
+      "416.00",
+      "203.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://labonnenyc.com/WINE-LIST",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "151.39",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/2",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

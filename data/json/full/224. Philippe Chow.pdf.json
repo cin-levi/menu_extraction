@@ -1,0 +1,1435 @@
+[
+  {
+    "page_number": 1,
+    "text": "SPECIALTY COCKTAILS",
+    "bbox": [
+      "74.17",
+      "49.09",
+      "231.83",
+      "64.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE BY THE GLASS",
+    "bbox": [
+      "386.96",
+      "49.09",
+      "531.04",
+      "64.09"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PHILIPPTINI 19",
+    "bbox": [
+      "115.76",
+      "76.54",
+      "190.24",
+      "86.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITES",
+    "bbox": [
+      "441.75",
+      "76.53",
+      "476.25",
+      "85.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tito’s vodka, lychee &",
+    "bbox": [
+      "103.54",
+      "87.86",
+      "202.47",
+      "97.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "pineapple juices, Creme de Cassis",
+    "bbox": [
+      "76.06",
+      "98.86",
+      "229.95",
+      "108.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PINOT GRIGIO",
+    "bbox": [
+      "425.95",
+      "98.53",
+      "492.06",
+      "107.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT GRIGIO",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Livio Felluga Friuli, ITA 2019 19",
+    "bbox": [
+      "394.91",
+      "112.10",
+      "523.09",
+      "122.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Livio Felluga Friuli, ITA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 26
+          }
+        ],
+        "P": [
+          {
+            "text": "19",
+            "answer_start": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WATERMELON MARGARITA 21",
+    "bbox": [
+      "76.82",
+      "132.54",
+      "229.19",
+      "142.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "412.34",
+      "134.53",
+      "505.66",
+      "143.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Patrón Silver Tequila, Cointreau,",
+    "bbox": [
+      "80.66",
+      "143.86",
+      "228.12",
+      "153.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Trinchero Mary’s Vineyards Napa, CA 2018 22",
+    "bbox": [
+      "361.98",
+      "148.10",
+      "556.02",
+      "158.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Trinchero Mary’s Vineyards Napa, CA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 36
+          }
+        ],
+        "P": [
+          {
+            "text": "22",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "fresh watermelon puree, lime juice",
+    "bbox": [
+      "75.02",
+      "154.86",
+      "230.98",
+      "164.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RIESLING",
+    "bbox": [
+      "437.63",
+      "170.53",
+      "480.37",
+      "179.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RIESLING",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GIN FLING 19",
+    "bbox": [
+      "118.53",
+      "188.54",
+      "187.47",
+      "198.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "The Seeker Mosel, GER 2019 16",
+    "bbox": [
+      "391.30",
+      "184.10",
+      "526.70",
+      "194.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "The Seeker Mosel, GER",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 22
+          }
+        ],
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bombay Sapphire gin, Cointreau, cucumber,",
+    "bbox": [
+      "53.60",
+      "199.86",
+      "252.40",
+      "209.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "424.91",
+      "206.53",
+      "493.09",
+      "215.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ginger beer, fresh lime juice",
+    "bbox": [
+      "90.31",
+      "210.86",
+      "215.69",
+      "220.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Carpe Diem,",
+    "bbox": [
+      "430.48",
+      "220.10",
+      "490.31",
+      "230.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Carpe Diem,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Anderson Valley, CA 2018 22",
+    "bbox": [
+      "406.28",
+      "232.54",
+      "511.72",
+      "240.59"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Anderson Valley, CA 201",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 20
+          }
+        ],
+        "P": [
+          {
+            "text": "22",
+            "answer_start": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MEZmerizer 21",
+    "bbox": [
+      "115.57",
+      "244.54",
+      "190.43",
+      "254.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Creyente Mezcal Joven,",
+    "bbox": [
+      "98.81",
+      "255.86",
+      "209.97",
+      "265.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSÉ",
+    "bbox": [
+      "446.65",
+      "261.53",
+      "471.35",
+      "270.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ginger beer, fresh lime",
+    "bbox": [
+      "102.07",
+      "266.86",
+      "203.93",
+      "276.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chapoutier “Marius” Pays d’Oc Provence, FRA 2020 16",
+    "bbox": [
+      "342.72",
+      "275.10",
+      "575.28",
+      "285.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chapoutier “Marius” Pays d’Oc Provence, FRA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 44
+          }
+        ],
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Domaine Ott BY.OTT Provence, FRA 2020 19",
+    "bbox": [
+      "362.79",
+      "289.10",
+      "555.21",
+      "299.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Ott BY.OTT Provence, FRA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 33
+          }
+        ],
+        "P": [
+          {
+            "text": "19",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SHANGHAI PHILIPPE 21",
+    "bbox": [
+      "93.72",
+      "300.54",
+      "212.28",
+      "310.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Stoli strawberry, fresh strawberries,",
+    "bbox": [
+      "72.83",
+      "311.86",
+      "233.17",
+      "321.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "REDS",
+    "bbox": [
+      "446.98",
+      "319.53",
+      "471.02",
+      "328.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "elderfl ower syrup,",
+    "bbox": [
+      "111.98",
+      "322.86",
+      "196.81",
+      "332.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "topped off with Champagne",
+    "bbox": [
+      "88.82",
+      "333.86",
+      "217.20",
+      "343.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "430.83",
+      "341.53",
+      "487.17",
+      "350.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "PINOT NOIR",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Maison Louis Jadot Bourgogne, FRA  2018 24",
+    "bbox": [
+      "365.47",
+      "355.10",
+      "552.53",
+      "365.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Maison Louis Jadot Bourgogne, FRA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 35
+          }
+        ],
+        "P": [
+          {
+            "text": "24",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "LYCHEE MARTINI 19",
+    "bbox": [
+      "102.71",
+      "367.54",
+      "203.30",
+      "377.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Hangar 1 vodka, lychee juice, coconut cream",
+    "bbox": [
+      "52.01",
+      "378.86",
+      "253.99",
+      "388.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MALBEC",
+    "bbox": [
+      "439.61",
+      "377.53",
+      "478.40",
+      "386.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MALBEC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bodega Norton Reserva Mendoza, ARG 2019 17",
+    "bbox": [
+      "358.32",
+      "391.10",
+      "559.68",
+      "401.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bodega Norton Reserva Mendoza, ARG",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 35
+          }
+        ],
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PARADISE BAY 21",
+    "bbox": [
+      "108.71",
+      "412.54",
+      "197.29",
+      "422.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RHÔNE",
+    "bbox": [
+      "441.97",
+      "413.53",
+      "476.03",
+      "422.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "RHÔNE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bacardí Banana rum, peach schnapps,",
+    "bbox": [
+      "66.39",
+      "423.86",
+      "239.62",
+      "433.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Delas Freres, Côtes du Rhône FRA 2019 17",
+    "bbox": [
+      "363.14",
+      "427.10",
+      "554.86",
+      "437.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Delas Freres, Côtes du Rhône FRA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 33
+          }
+        ],
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "pineapple juice, grenadine",
+    "bbox": [
+      "93.18",
+      "434.86",
+      "212.82",
+      "444.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BORDEAUX",
+    "bbox": [
+      "432.47",
+      "449.53",
+      "485.53",
+      "458.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "BORDEAUX",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Château Larose Trintaudon Haut Medoc, FRA 2011 22",
+    "bbox": [
+      "347.45",
+      "463.10",
+      "570.55",
+      "473.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Château Larose Trintaudon Haut Medoc, FRA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2011",
+            "answer_start": 42
+          }
+        ],
+        "P": [
+          {
+            "text": "22",
+            "answer_start": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ESPRESSO D’ORO MARTINI 19",
+    "bbox": [
+      "77.82",
+      "468.54",
+      "228.18",
+      "478.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Grey Goose La Vanille, Kahlua,",
+    "bbox": [
+      "83.89",
+      "479.86",
+      "222.11",
+      "489.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CABERNET",
+    "bbox": [
+      "434.20",
+      "485.53",
+      "483.80",
+      "494.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Costa D’oro espresso",
+    "bbox": [
+      "104.27",
+      "490.86",
+      "201.74",
+      "500.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cline Cellars CA 2018 17",
+    "bbox": [
+      "405.25",
+      "499.10",
+      "512.75",
+      "509.10"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 17
+          }
+        ],
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 22
+          }
+        ],
+        "W": [
+          {
+            "text": "Cline Cellars CA 2",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Charles Krug Napa, CA 2016 26",
+    "bbox": [
+      "393.19",
+      "513.10",
+      "524.81",
+      "523.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Charles Krug Napa, CA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 22
+          }
+        ],
+        "P": [
+          {
+            "text": "26",
+            "answer_start": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE PEARL SANGRIA 19",
+    "bbox": [
+      "86.41",
+      "524.54",
+      "219.60",
+      "534.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rosé wine, peach schnapps,",
+    "bbox": [
+      "89.74",
+      "535.86",
+      "216.27",
+      "545.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ZINFANDEL",
+    "bbox": [
+      "432.18",
+      "535.53",
+      "485.82",
+      "544.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "ZINFANDEL",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "lychee juice, lychees, orange, blueberries",
+    "bbox": [
+      "60.21",
+      "546.86",
+      "245.81",
+      "556.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "St. Francis, Sonoma CA 2018  22",
+    "bbox": [
+      "389.30",
+      "549.10",
+      "528.70",
+      "559.10"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 23
+          }
+        ],
+        "P": [
+          {
+            "text": "22",
+            "answer_start": 29
+          }
+        ],
+        "W": [
+          {
+            "text": "St. Francis, Sonoma CA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MIDNIGHT MOJITO 19",
+    "bbox": [
+      "97.09",
+      "580.54",
+      "208.92",
+      "590.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BUBBLES",
+    "bbox": [
+      "438.54",
+      "579.53",
+      "479.46",
+      "588.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Stoli blueberry, fresh mint,",
+    "bbox": [
+      "93.28",
+      "591.86",
+      "212.72",
+      "601.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Luca Paretti Prosecco Brut NV Treviso, ITA 17",
+    "bbox": [
+      "361.35",
+      "593.10",
+      "556.65",
+      "603.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Luca Paretti Prosecco Brut",
+            "answer_start": 0
+          },
+          {
+            "text": "Treviso, ITA",
+            "answer_start": 30
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 27
+          }
+        ],
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "fresh blueberries, lime juice",
+    "bbox": [
+      "90.88",
+      "602.86",
+      "215.13",
+      "612.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Ballatore Moscato Rosé NV Modesto, CA 19",
+    "bbox": [
+      "364.69",
+      "607.10",
+      "555.53",
+      "617.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Ballatore Moscato Rosé",
+            "answer_start": 0
+          },
+          {
+            "text": "Modesto, CA",
+            "answer_start": 26
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 23
+          }
+        ],
+        "P": [
+          {
+            "text": "19",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Piper-Heidsieck NV Champagne, FRA 21",
+    "bbox": [
+      "374.83",
+      "621.10",
+      "543.17",
+      "631.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Piper-Heidsieck",
+            "answer_start": 0
+          },
+          {
+            "text": "Champagne, FRA",
+            "answer_start": 19
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 16
+          }
+        ],
+        "P": [
+          {
+            "text": "21",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "PHILIPPE PASSION 19",
+    "bbox": [
+      "99.19",
+      "636.54",
+      "206.82",
+      "646.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Moet & Chandon Rosé Imperial Champagne FRA 39",
+    "bbox": [
+      "348.93",
+      "635.10",
+      "571.29",
+      "645.10"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Moet & Chandon Rosé Imperial Champagne FRA",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "39",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Grey Goose La Poire vodka, Absolut Apeach",
+    "bbox": [
+      "52.20",
+      "647.86",
+      "256.58",
+      "657.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "vodka, cranberry, mango purée",
+    "bbox": [
+      "82.22",
+      "658.86",
+      "223.77",
+      "668.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BEERS 11",
+    "bbox": [
+      "435.86",
+      "665.53",
+      "482.14",
+      "674.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tsingtao Lager, China",
+    "bbox": [
+      "415.29",
+      "679.10",
+      "504.94",
+      "689.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SUMMER LIGHT MARGARITA 22",
+    "bbox": [
+      "74.37",
+      "692.54",
+      "231.63",
+      "702.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Heineken Lager, Amsterdam",
+    "bbox": [
+      "402.58",
+      "693.10",
+      "517.64",
+      "703.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Casamigos blanco, Cointreau, lime juice",
+    "bbox": [
+      "62.97",
+      "703.86",
+      "243.03",
+      "713.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Founders All Day IPA IPA, Grand Rapids, MI",
+    "bbox": [
+      "369.64",
+      "707.10",
+      "550.58",
+      "717.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Allagash White Wheat Beer, Portland,ME",
+    "bbox": [
+      "377.56",
+      "721.10",
+      "540.44",
+      "731.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "EAST MEETS MANHATTAN 19",
+    "bbox": [
+      "79.64",
+      "737.54",
+      "226.36",
+      "747.54"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Abita Light Lager, Abita Springs, LA",
+    "bbox": [
+      "388.52",
+      "735.10",
+      "529.48",
+      "745.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bulleit Bourbon, sweet vermouth,",
+    "bbox": [
+      "77.14",
+      "748.86",
+      "231.64",
+      "758.86"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bell’s Amber Ale American Amber Ale, MI",
+    "bbox": [
+      "375.15",
+      "749.10",
+      "542.85",
+      "759.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "bitters, cocktail cherry",
+    "bbox": [
+      "102.62",
+      "759.86",
+      "203.37",
+      "769.86"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

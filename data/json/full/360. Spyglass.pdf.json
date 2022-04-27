@@ -1,0 +1,1712 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/21/22, 10:00 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menus - Spyglass Rooftop Bar in New York, NY",
+    "bbox": [
+      "269.47",
+      "15.70",
+      "438.14",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "EATS",
+    "bbox": [
+      "254.55",
+      "590.90",
+      "280.41",
+      "600.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DRINKS",
+    "bbox": [
+      "317.30",
+      "590.90",
+      "357.68",
+      "600.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "CALL 212.730.0538",
+    "bbox": [
+      "259.14",
+      "683.15",
+      "353.10",
+      "692.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.46",
+      "713.15",
+      "346.80",
+      "722.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "",
+    "bbox": [
+      "545.00",
+      "722.56",
+      "578.00",
+      "755.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "266.84",
+      "742.40",
+      "345.40",
+      "752.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.spyglassnyc.com/menus/#drinks",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "184.73",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/21/22, 10:00 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menus - Spyglass Rooftop Bar in New York, NY",
+    "bbox": [
+      "269.47",
+      "15.70",
+      "438.14",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BEER",
+    "bbox": [
+      "266.52",
+      "23.00",
+      "346.47",
+      "53.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WARSTEINER PILSNER",
+    "bbox": [
+      "230.49",
+      "108.51",
+      "381.76",
+      "120.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "302.16",
+      "126.51",
+      "310.83",
+      "138.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MONTAUK IPA",
+    "bbox": [
+      "258.55",
+      "174.51",
+      "353.71",
+      "186.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "302.16",
+      "192.51",
+      "310.83",
+      "204.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "MONTAUK PUMPKIN ALE",
+    "bbox": [
+      "222.31",
+      "240.51",
+      "389.94",
+      "252.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "302.16",
+      "258.51",
+      "310.83",
+      "270.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "AUSTIN EASTCIDER",
+    "bbox": [
+      "241.44",
+      "306.51",
+      "370.82",
+      "318.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "302.16",
+      "324.51",
+      "310.83",
+      "336.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "NITE LITE LAGER",
+    "bbox": [
+      "250.02",
+      "372.51",
+      "362.24",
+      "384.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "11",
+    "bbox": [
+      "302.16",
+      "390.51",
+      "310.83",
+      "402.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "C",
+    "bbox": [
+      "220.53",
+      "428.75",
+      "241.44",
+      "458.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "O",
+    "bbox": [
+      "241.44",
+      "428.75",
+      "267.00",
+      "458.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "C",
+    "bbox": [
+      "267.00",
+      "428.75",
+      "287.91",
+      "458.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "K",
+    "bbox": [
+      "287.91",
+      "428.75",
+      "309.03",
+      "458.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "TA",
+    "bbox": [
+      "309.03",
+      "428.75",
+      "345.69",
+      "458.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ILS",
+    "bbox": [
+      "345.69",
+      "428.75",
+      "392.46",
+      "458.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ARCHER'S PAPER PLANE",
+    "bbox": [
+      "222.85",
+      "514.26",
+      "389.39",
+      "526.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "bourbon, kina l'aéro d'or, aperol, lemon",
+    "bbox": [
+      "190.07",
+      "532.26",
+      "422.92",
+      "544.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "300.51",
+      "550.26",
+      "312.50",
+      "562.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "OAXACA LOVE",
+    "bbox": [
+      "258.76",
+      "598.26",
+      "353.50",
+      "610.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "mezcal, ancho reyes, blood orange, agave",
+    "bbox": [
+      "182.56",
+      "616.26",
+      "430.43",
+      "628.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "19",
+    "bbox": [
+      "300.68",
+      "634.26",
+      "312.32",
+      "646.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "CCOALLLLE 2T12T.7I 3R0.O05Y3A8L",
+    "bbox": [
+      "249.98",
+      "682.26",
+      "362.26",
+      "694.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "tres agaves reposado, st germain, blood orange juice, sparkling rosé",
+    "bbox": [
+      "104.11",
+      "700.26",
+      "508.89",
+      "712.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.46",
+      "713.15",
+      "346.80",
+      "722.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "19",
+    "bbox": [
+      "300.68",
+      "718.26",
+      "312.32",
+      "730.26"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "",
+    "bbox": [
+      "545.00",
+      "722.56",
+      "578.00",
+      "755.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "266.84",
+      "742.40",
+      "345.40",
+      "752.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.spyglassnyc.com/menus/#drinks",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "184.73",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/21/22, 10:00 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Menus - Spyglass Rooftop Bar in New York, NY",
+    "bbox": [
+      "269.47",
+      "15.70",
+      "438.14",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "WINTER SUNSHINE",
+    "bbox": [
+      "241.65",
+      "32.76",
+      "370.60",
+      "44.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "dark rum, pineapple, crème de coco, orgeat",
+    "bbox": [
+      "175.88",
+      "50.76",
+      "437.11",
+      "62.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "19",
+    "bbox": [
+      "300.68",
+      "68.76",
+      "312.32",
+      "80.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "SUMMER MEMORIES",
+    "bbox": [
+      "236.69",
+      "116.76",
+      "375.57",
+      "128.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "hanson vodka, lychee purée, lemon, rose water",
+    "bbox": [
+      "166.55",
+      "134.76",
+      "446.44",
+      "146.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "18",
+    "bbox": [
+      "300.51",
+      "152.76",
+      "312.50",
+      "164.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CHAMO-BERRY",
+    "bbox": [
+      "254.81",
+      "200.76",
+      "357.43",
+      "212.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "tres agaves blanco, blackberry purée, chamomile syrup, lime",
+    "bbox": [
+      "125.59",
+      "218.76",
+      "487.41",
+      "230.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "18",
+    "bbox": [
+      "300.51",
+      "236.76",
+      "312.50",
+      "248.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RIVIERA PALOMA",
+    "bbox": [
+      "248.15",
+      "284.76",
+      "364.09",
+      "296.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "mirabeau dry rosé gin, pink grapefruit juice, agave, pink grapefruit soda",
+    "bbox": [
+      "92.80",
+      "302.76",
+      "520.21",
+      "314.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "19",
+    "bbox": [
+      "300.68",
+      "320.76",
+      "312.32",
+      "332.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "W",
+    "bbox": [
+      "263.34",
+      "389.00",
+      "294.03",
+      "419.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "IN",
+    "bbox": [
+      "294.03",
+      "389.00",
+      "329.67",
+      "419.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "E",
+    "bbox": [
+      "329.67",
+      "389.00",
+      "349.65",
+      "419.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sparkling",
+    "bbox": [
+      "277.86",
+      "492.51",
+      "335.14",
+      "504.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "MUMM SPARKLING",
+    "bbox": [
+      "242.23",
+      "540.51",
+      "370.00",
+      "552.51"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MUMM SPARKLING",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "brut prestige, napa, california",
+    "bbox": [
+      "218.93",
+      "558.51",
+      "394.08",
+      "570.51"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "brut prestige, napa, california",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "18",
+    "bbox": [
+      "300.51",
+      "576.51",
+      "312.50",
+      "588.51"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "NICOLAS FEUILLATTE CHAMPAGNE",
+    "bbox": [
+      "187.85",
+      "624.51",
+      "424.40",
+      "636.51"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "NICOLAS FEUILLATTE CHAMPAGNE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "reserve exclusive brut, chouilly, france",
+    "bbox": [
+      "194.18",
+      "642.51",
+      "418.82",
+      "654.51"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "reserve exclusive brut, chouilly, france",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "20",
+    "bbox": [
+      "299.13",
+      "660.51",
+      "313.86",
+      "672.51"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "20",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "CALL 212.730.0538",
+    "bbox": [
+      "259.14",
+      "683.15",
+      "353.10",
+      "692.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "LA FOLIE SPARKLING ROSÉ",
+    "bbox": [
+      "214.61",
+      "708.51",
+      "397.64",
+      "720.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.46",
+      "713.15",
+      "346.80",
+      "722.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "",
+    "bbox": [
+      "545.00",
+      "722.56",
+      "578.00",
+      "755.56"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "mirabeau, provence, france",
+    "bbox": [
+      "225.43",
+      "726.51",
+      "387.56",
+      "738.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "EMAIL1 7SIGNUP",
+    "bbox": [
+      "266.84",
+      "742.40",
+      "345.40",
+      "756.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.spyglassnyc.com/menus/#drinks",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "184.73",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/21/22, 10:00 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Menus - Spyglass Rooftop Bar in New York, NY",
+    "bbox": [
+      "269.47",
+      "15.70",
+      "438.14",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "White",
+    "bbox": [
+      "288.22",
+      "50.76",
+      "324.78",
+      "62.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SANCERRE",
+    "bbox": [
+      "269.61",
+      "98.76",
+      "342.64",
+      "110.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SANCERRE",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "jean-max roger les caillottes, loire valley, france, 2019",
+    "bbox": [
+      "150.99",
+      "116.76",
+      "462.01",
+      "128.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "jean-max roger les caillottes, loire valley, france,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "15",
+    "bbox": [
+      "300.93",
+      "134.76",
+      "312.06",
+      "146.76"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SAUVIGNON BLANC",
+    "bbox": [
+      "239.76",
+      "182.76",
+      "372.49",
+      "194.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SAUVIGNON BLANC",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "stag's leap wine cellars, \"aveta,\" napa, california, 2019",
+    "bbox": [
+      "148.43",
+      "200.76",
+      "464.57",
+      "212.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "stag's leap wine cellars, \"aveta,\" napa, california,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "16",
+    "bbox": [
+      "300.68",
+      "218.76",
+      "312.32",
+      "230.76"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CHARDONNAY",
+    "bbox": [
+      "257.30",
+      "266.76",
+      "354.94",
+      "278.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CHARDONNAY",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "antinori family antica, napa, california, 2018",
+    "bbox": [
+      "178.46",
+      "284.76",
+      "434.54",
+      "296.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "antinori family antica, napa, california,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "17",
+    "bbox": [
+      "300.80",
+      "302.76",
+      "312.20",
+      "314.76"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Rosé",
+    "bbox": [
+      "291.85",
+      "368.76",
+      "321.16",
+      "380.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "SCALABRONE ROSÉ",
+    "bbox": [
+      "239.41",
+      "416.76",
+      "372.85",
+      "428.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SCALABRONE ROSÉ",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "bolgheri, italy 2017",
+    "bbox": [
+      "251.35",
+      "434.76",
+      "361.64",
+      "446.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "bolgheri, italy 2017",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "13",
+    "bbox": [
+      "300.95",
+      "452.76",
+      "312.05",
+      "464.76"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MIRAVAL ROSÉ",
+    "bbox": [
+      "255.58",
+      "500.76",
+      "356.68",
+      "512.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "MIRAVAL ROSÉ",
+            "answer_start": 0
+          },
+          {
+            "text": "MIRAVAL",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "cotes de provence, france",
+    "bbox": [
+      "230.30",
+      "518.76",
+      "382.70",
+      "530.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "cotes de provence, france",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "16",
+    "bbox": [
+      "300.68",
+      "536.76",
+      "312.32",
+      "548.76"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Red",
+    "bbox": [
+      "294.46",
+      "602.76",
+      "318.52",
+      "614.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "PINOT NOIR",
+    "bbox": [
+      "265.77",
+      "650.76",
+      "346.50",
+      "662.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "erath, oregon, 2019",
+    "bbox": [
+      "250.20",
+      "668.76",
+      "362.80",
+      "680.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "CALL 212.730.0538",
+    "bbox": [
+      "259.14",
+      "683.15",
+      "353.10",
+      "692.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "15",
+    "bbox": [
+      "300.93",
+      "686.76",
+      "312.06",
+      "698.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.46",
+      "713.15",
+      "346.80",
+      "722.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "MALBEC",
+    "bbox": [
+      "277.85",
+      "734.76",
+      "334.41",
+      "746.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "266.84",
+      "742.40",
+      "345.40",
+      "752.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.spyglassnyc.com/menus/#drinks",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "184.73",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/21/22, 10:00 AM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "91.83",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Menus - Spyglass Rooftop Bar in New York, NY",
+    "bbox": [
+      "269.47",
+      "15.70",
+      "438.14",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "les jamelles, languedoc-roussillon, france, 2019",
+    "bbox": [
+      "168.31",
+      "32.76",
+      "444.68",
+      "44.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "16",
+    "bbox": [
+      "300.68",
+      "50.76",
+      "312.32",
+      "62.76"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CABERNET SAUVIGNON",
+    "bbox": [
+      "226.46",
+      "98.76",
+      "385.78",
+      "110.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "CABERNET SAUVIGNON",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "iron + sand, paso robles, california, 2019",
+    "bbox": [
+      "190.20",
+      "116.76",
+      "422.80",
+      "128.76"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "iron + sand, paso robles, california,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "17",
+    "bbox": [
+      "300.80",
+      "134.76",
+      "312.20",
+      "146.76"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "CALL 212.730.0538",
+    "bbox": [
+      "259.14",
+      "683.15",
+      "353.10",
+      "692.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "RESERVATIONS",
+    "bbox": [
+      "265.46",
+      "713.15",
+      "346.80",
+      "722.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "EMAIL SIGNUP",
+    "bbox": [
+      "266.84",
+      "742.40",
+      "345.40",
+      "752.00"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.spyglassnyc.com/menus/#drinks",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "184.73",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/5",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

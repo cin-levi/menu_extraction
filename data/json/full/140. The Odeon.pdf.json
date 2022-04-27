@@ -1,0 +1,4402 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/17/22, 2:56 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Menus — The Odeon Restaurant",
+    "bbox": [
+      "292.66",
+      "15.70",
+      "410.50",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "145 WEST",
+    "bbox": [
+      "82.25",
+      "210.65",
+      "147.94",
+      "221.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "NEW YORK, NY,",
+    "bbox": [
+      "249.27",
+      "210.65",
+      "360.59",
+      "221.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "(212) 233-0507",
+    "bbox": [
+      "417.65",
+      "210.65",
+      "527.62",
+      "221.15"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BROADWAY",
+    "bbox": [
+      "82.25",
+      "233.15",
+      "159.65",
+      "243.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "10013",
+    "bbox": [
+      "285.14",
+      "233.15",
+      "324.72",
+      "243.65"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "HOMEHOURSMENUSSAFETY PROTOCOLSDIGITAL GIFT CARDS",
+    "bbox": [
+      "107.75",
+      "264.57",
+      "508.89",
+      "277.32"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "GIFTSICE CREAM",
+    "bbox": [
+      "107.75",
+      "286.32",
+      "213.47",
+      "299.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DIRECTIONSSISTER RESTAURANTSCONTACT US",
+    "bbox": [
+      "226.23",
+      "286.32",
+      "514.54",
+      "299.07"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ODEON DELIVERY",
+    "bbox": [
+      "107.75",
+      "308.07",
+      "208.78",
+      "320.82"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "*All menu prices are subject to change without notice.",
+    "bbox": [
+      "158.21",
+      "397.02",
+      "454.78",
+      "411.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "DINNER LUNCH BRUNCH DESSERT WINE",
+    "bbox": [
+      "139.20",
+      "444.03",
+      "471.53",
+      "459.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "COCKTAILS & BEER",
+    "bbox": [
+      "244.75",
+      "465.78",
+      "368.23",
+      "481.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "White W",
+    "bbox": [
+      "197.98",
+      "528.54",
+      "272.01",
+      "549.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ines By The Glass",
+    "bbox": [
+      "272.01",
+      "528.54",
+      "415.03",
+      "549.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pinot Grigio",
+    "bbox": [
+      "104.68",
+      "594.03",
+      "189.78",
+      "609.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Grigio",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$14",
+    "bbox": [
+      "485.82",
+      "592.77",
+      "508.31",
+      "607.02"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Friuli Isonzo 2020 Italy",
+    "bbox": [
+      "104.68",
+      "616.02",
+      "232.07",
+      "630.27"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Friuli Isonzo 202",
+            "answer_start": 0
+          },
+          {
+            "text": "Italy",
+            "answer_start": 19
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sauvignon Blanc",
+    "bbox": [
+      "104.68",
+      "663.78",
+      "222.99",
+      "679.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "$15",
+    "bbox": [
+      "485.82",
+      "662.52",
+      "508.31",
+      "676.77"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bordeaux 2021 France (organic)",
+    "bbox": [
+      "104.68",
+      "685.77",
+      "286.08",
+      "700.02"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bordeaux 2021 Franc",
+            "answer_start": 0
+          },
+          {
+            "text": "France (organic)",
+            "answer_start": 14
+          }
+        ],
+        "V": [
+          {
+            "text": "2021",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://www.theodeonrestaurant.com/menu-1",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "185.65",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/17/22, 2:56 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menus — The Odeon Restaurant",
+    "bbox": [
+      "292.66",
+      "15.70",
+      "410.50",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Sancerre",
+    "bbox": [
+      "104.68",
+      "33.03",
+      "167.51",
+      "48.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sancerre",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$18",
+    "bbox": [
+      "485.82",
+      "31.77",
+      "508.31",
+      "46.02"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Loire 2020 France",
+    "bbox": [
+      "104.68",
+      "55.02",
+      "206.34",
+      "69.27"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Loire 2020",
+            "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 11
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chardonnay",
+    "bbox": [
+      "104.68",
+      "102.78",
+      "193.54",
+      "118.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$17",
+    "bbox": [
+      "485.63",
+      "101.52",
+      "508.31",
+      "115.77"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bourgogne 2020 France",
+    "bbox": [
+      "104.68",
+      "124.77",
+      "241.62",
+      "139.02"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bourgogne 2020",
+            "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 15
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Red W",
+    "bbox": [
+      "206.35",
+      "242.04",
+      "263.64",
+      "263.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ines By The Glass",
+    "bbox": [
+      "263.64",
+      "242.04",
+      "406.66",
+      "263.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bourgogne",
+    "bbox": [
+      "104.68",
+      "307.53",
+      "183.62",
+      "323.20"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bourgogne",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$18",
+    "bbox": [
+      "485.82",
+      "306.27",
+      "508.31",
+      "320.52"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bourgogne 2020 France",
+    "bbox": [
+      "104.68",
+      "329.52",
+      "241.62",
+      "343.77"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bourgogne 20",
+            "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 15
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Côtes de Provence",
+    "bbox": [
+      "104.68",
+      "377.28",
+      "234.44",
+      "392.95"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Côtes de Provence",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$15 / $60",
+    "bbox": [
+      "446.46",
+      "376.02",
+      "508.29",
+      "390.27"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15 / $60",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "“June 21st” Château de L’escarelle, Provence 2020 France",
+    "bbox": [
+      "104.68",
+      "399.27",
+      "427.81",
+      "413.52"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "“June 21st” Château de L’escarelle, Provence",
+            "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 50
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rioja",
+    "bbox": [
+      "104.68",
+      "447.03",
+      "141.50",
+      "462.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rioja",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$15",
+    "bbox": [
+      "485.82",
+      "445.77",
+      "508.31",
+      "460.02"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rioja 2016 Spain",
+    "bbox": [
+      "104.68",
+      "469.02",
+      "200.57",
+      "483.27"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rioja 2",
+            "answer_start": 0
+          },
+          {
+            "text": "Spain",
+            "answer_start": 11
+          }
+        ],
+        "V": [
+          {
+            "text": "2016",
+            "answer_start": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Merlot",
+    "bbox": [
+      "104.68",
+      "516.03",
+      "151.27",
+      "531.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Merlot",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$16",
+    "bbox": [
+      "485.46",
+      "514.77",
+      "508.31",
+      "529.02"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Bordeaux 2020 France",
+    "bbox": [
+      "104.68",
+      "538.02",
+      "233.93",
+      "552.27"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Bordeaux",
+            "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 14
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Cabernet Sauvignon",
+    "bbox": [
+      "104.68",
+      "585.78",
+      "249.56",
+      "601.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Cabernet Sauvignon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "$17",
+    "bbox": [
+      "485.63",
+      "584.52",
+      "508.31",
+      "598.77"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Napa 2020 California",
+    "bbox": [
+      "104.68",
+      "607.77",
+      "231.28",
+      "622.02"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Napa 2020 California",
+            "answer_start": 0
+          },
+          {
+            "text": "California",
+            "answer_start": 10
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rosé By The Glass",
+    "bbox": [
+      "231.38",
+      "725.04",
+      "381.63",
+      "746.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://www.theodeonrestaurant.com/menu-1",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "185.65",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "4/17/22, 2:56 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Menus — The Odeon Restaurant",
+    "bbox": [
+      "292.66",
+      "15.70",
+      "410.50",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Côtes de Provence",
+    "bbox": [
+      "104.68",
+      "33.03",
+      "234.44",
+      "48.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Côtes de Provence",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$15",
+    "bbox": [
+      "485.82",
+      "31.78",
+      "508.31",
+      "46.03"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$15",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Provence 2020 France",
+    "bbox": [
+      "104.68",
+      "55.03",
+      "230.61",
+      "69.28"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Provence 2020 France",
+            "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 14
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Sancerre",
+    "bbox": [
+      "104.68",
+      "102.78",
+      "167.51",
+      "118.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sancerre",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$17",
+    "bbox": [
+      "485.63",
+      "101.53",
+      "508.31",
+      "115.78"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Loire 2020 France",
+    "bbox": [
+      "104.68",
+      "124.78",
+      "206.34",
+      "139.03"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Loire 2020",
+            "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 11
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Champagne & Sparkling By The Glass",
+    "bbox": [
+      "147.92",
+      "242.04",
+      "465.08",
+      "263.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "De Perrière",
+    "bbox": [
+      "104.68",
+      "307.53",
+      "184.72",
+      "323.20"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "De Perrière",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$16",
+    "bbox": [
+      "485.46",
+      "306.28",
+      "508.31",
+      "320.53"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Blanc de Blancs Brut NV France",
+    "bbox": [
+      "104.68",
+      "329.53",
+      "279.94",
+      "343.78"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Blanc de Blancs Brut",
+            "answer_start": 0
+          },
+          {
+            "text": "France",
+            "answer_start": 24
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Gruet Rosé",
+    "bbox": [
+      "104.68",
+      "377.28",
+      "182.74",
+      "392.95"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Gruet Rosé",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$16",
+    "bbox": [
+      "485.46",
+      "376.03",
+      "508.31",
+      "390.28"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Brut NV United States (organic)",
+    "bbox": [
+      "104.68",
+      "399.28",
+      "277.99",
+      "413.53"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Brut NV United",
+            "answer_start": 0
+          },
+          {
+            "text": "United States (organic)",
+            "answer_start": 8
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Prosecco",
+    "bbox": [
+      "104.68",
+      "447.03",
+      "167.11",
+      "462.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Prosecco",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$17",
+    "bbox": [
+      "485.63",
+      "445.78",
+      "508.31",
+      "460.03"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "NV Italy",
+    "bbox": [
+      "104.68",
+      "469.03",
+      "150.41",
+      "483.28"
+    ],
+    "annots": [
+      {
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 0
+          }
+        ],
+        "W": [
+          {
+            "text": "Italy",
+            "answer_start": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chapuy",
+    "bbox": [
+      "104.68",
+      "516.03",
+      "159.97",
+      "531.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chapuy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$20",
+    "bbox": [
+      "484.39",
+      "514.78",
+      "508.31",
+      "529.03"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "$20",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Brut NV France (organic)",
+    "bbox": [
+      "104.68",
+      "538.03",
+      "242.65",
+      "552.28"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Brut NV Fr",
+            "answer_start": 0
+          },
+          {
+            "text": "France (organic)",
+            "answer_start": 8
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Chardonnay",
+    "bbox": [
+      "254.23",
+      "655.29",
+      "358.76",
+      "676.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Bourgogne",
+    "bbox": [
+      "104.68",
+      "721.53",
+      "183.62",
+      "737.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "$68",
+    "bbox": [
+      "484.04",
+      "720.28",
+      "508.31",
+      "734.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "Famille Paquet, Bourgogne 2020 France",
+    "bbox": [
+      "104.68",
+      "743.53",
+      "328.50",
+      "757.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "https://www.theodeonrestaurant.com/menu-1",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "185.65",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 3,
+    "text": "3/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/17/22, 2:56 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Menus — The Odeon Restaurant",
+    "bbox": [
+      "292.66",
+      "15.70",
+      "410.50",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chardonnay",
+    "bbox": [
+      "104.68",
+      "55.53",
+      "193.54",
+      "71.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$82",
+    "bbox": [
+      "484.58",
+      "54.27",
+      "508.31",
+      "68.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Earnest Vineyards, Sonoma 2018 California",
+    "bbox": [
+      "104.68",
+      "77.52",
+      "346.92",
+      "91.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Chablis Premiere Cru",
+    "bbox": [
+      "104.68",
+      "125.28",
+      "253.20",
+      "140.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$88",
+    "bbox": [
+      "484.04",
+      "124.02",
+      "508.31",
+      "138.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "“Côte de Lechet” Daniel Dampt & Fils, Bourgogne 2019 France",
+    "bbox": [
+      "104.68",
+      "147.27",
+      "452.35",
+      "161.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Ladoix",
+    "bbox": [
+      "104.68",
+      "195.03",
+      "153.84",
+      "210.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$99",
+    "bbox": [
+      "484.04",
+      "193.77",
+      "508.31",
+      "208.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Camille Giroud, Bourgogne 2016 France",
+    "bbox": [
+      "104.68",
+      "217.02",
+      "331.13",
+      "231.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Meursault",
+    "bbox": [
+      "104.68",
+      "264.78",
+      "176.03",
+      "280.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$130",
+    "bbox": [
+      "477.90",
+      "263.52",
+      "508.31",
+      "277.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "“Clos du Cromin” Domaine Bitouzet Prieur, Bourgogne 2017",
+    "bbox": [
+      "104.68",
+      "286.77",
+      "438.43",
+      "301.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "France",
+    "bbox": [
+      "104.68",
+      "304.77",
+      "141.77",
+      "319.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sauvignon Blanc",
+    "bbox": [
+      "236.63",
+      "422.04",
+      "376.36",
+      "443.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sauvignon Blanc",
+    "bbox": [
+      "104.68",
+      "488.28",
+      "222.99",
+      "503.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$60",
+    "bbox": [
+      "484.04",
+      "487.02",
+      "508.31",
+      "501.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Château Tour de Goupin, Bordeaux 2020 France (organic)",
+    "bbox": [
+      "104.68",
+      "510.27",
+      "432.10",
+      "524.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Fumé Blanc",
+    "bbox": [
+      "104.68",
+      "557.28",
+      "185.09",
+      "572.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$64",
+    "bbox": [
+      "484.04",
+      "556.02",
+      "508.31",
+      "570.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Grgich Hills Estate, Napa Valley 2018 California (organic)",
+    "bbox": [
+      "104.68",
+      "579.27",
+      "427.47",
+      "593.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Sancerre",
+    "bbox": [
+      "104.68",
+      "627.03",
+      "167.51",
+      "642.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "$72",
+    "bbox": [
+      "484.75",
+      "625.77",
+      "508.32",
+      "640.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "Domaine Daulny, Loire 2020 France",
+    "bbox": [
+      "104.68",
+      "649.02",
+      "306.19",
+      "663.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "https://www.theodeonrestaurant.com/menu-1",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "185.65",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 4,
+    "text": "4/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "4/17/22, 2:56 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Menus — The Odeon Restaurant",
+    "bbox": [
+      "292.66",
+      "15.70",
+      "410.50",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pouilly Fumé",
+    "bbox": [
+      "104.68",
+      "33.03",
+      "195.58",
+      "48.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$72",
+    "bbox": [
+      "484.75",
+      "31.77",
+      "508.32",
+      "46.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "“Les Cris” Domaine Alain Cailbourdin, Loire 2019 France",
+    "bbox": [
+      "104.68",
+      "55.02",
+      "418.59",
+      "69.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "(organic)",
+    "bbox": [
+      "104.68",
+      "73.77",
+      "155.30",
+      "88.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sauvignon Blanc",
+    "bbox": [
+      "104.68",
+      "120.78",
+      "222.99",
+      "136.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$82",
+    "bbox": [
+      "484.58",
+      "119.52",
+      "508.31",
+      "133.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "ZD Wines, Napa Valley 2019 California",
+    "bbox": [
+      "104.68",
+      "143.52",
+      "328.48",
+      "157.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Sauvignon Blanc",
+    "bbox": [
+      "104.68",
+      "190.53",
+      "222.99",
+      "206.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$99",
+    "bbox": [
+      "484.04",
+      "189.27",
+      "508.31",
+      "203.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Cade Winery, Napa Valley 2018 California",
+    "bbox": [
+      "104.68",
+      "212.52",
+      "348.60",
+      "226.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Other White Varietals",
+    "bbox": [
+      "217.70",
+      "329.79",
+      "395.30",
+      "351.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pinot Grigio",
+    "bbox": [
+      "104.68",
+      "395.28",
+      "189.78",
+      "410.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$56",
+    "bbox": [
+      "484.04",
+      "394.02",
+      "508.31",
+      "408.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Villa Dugo, Friuli Isonza 2020 Italy",
+    "bbox": [
+      "104.68",
+      "418.02",
+      "297.57",
+      "432.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Pinot Gris",
+    "bbox": [
+      "104.68",
+      "465.03",
+      "173.65",
+      "480.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$62",
+    "bbox": [
+      "484.57",
+      "463.77",
+      "508.31",
+      "478.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Elizabeth Chambers, Willamette Valley 2017 Oregon (organic)",
+    "bbox": [
+      "104.68",
+      "487.02",
+      "453.28",
+      "501.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Gewurztraminer",
+    "bbox": [
+      "104.68",
+      "534.78",
+      "222.51",
+      "550.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$66",
+    "bbox": [
+      "484.04",
+      "533.52",
+      "508.31",
+      "547.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Domaine Zinck, Alsace 2016 France",
+    "bbox": [
+      "104.68",
+      "556.77",
+      "305.36",
+      "571.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Trebbiano",
+    "bbox": [
+      "104.68",
+      "604.53",
+      "177.22",
+      "620.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "$98",
+    "bbox": [
+      "484.23",
+      "603.27",
+      "508.32",
+      "617.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "“L’Erta” Marchionni a Vigliano, Tuscany 2017 Italy",
+    "bbox": [
+      "104.68",
+      "626.52",
+      "383.94",
+      "640.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "Rosé",
+    "bbox": [
+      "286.74",
+      "743.79",
+      "326.26",
+      "765.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "https://www.theodeonrestaurant.com/menu-1",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "185.65",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 5,
+    "text": "5/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "4/17/22, 2:56 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Menus — The Odeon Restaurant",
+    "bbox": [
+      "292.66",
+      "15.70",
+      "410.50",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Côtes de Provence",
+    "bbox": [
+      "104.68",
+      "74.28",
+      "234.44",
+      "89.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$60",
+    "bbox": [
+      "484.04",
+      "73.02",
+      "508.31",
+      "87.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Château de Pourcieux, Provence 2020 France",
+    "bbox": [
+      "104.68",
+      "96.27",
+      "359.81",
+      "110.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Sancerre",
+    "bbox": [
+      "104.68",
+      "144.03",
+      "167.51",
+      "159.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$68",
+    "bbox": [
+      "484.04",
+      "142.77",
+      "508.31",
+      "157.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Régis Jouan, Loire 2020 France",
+    "bbox": [
+      "104.68",
+      "166.02",
+      "278.74",
+      "180.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Corvina",
+    "bbox": [
+      "104.68",
+      "213.78",
+      "160.61",
+      "229.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$74",
+    "bbox": [
+      "486.01",
+      "212.52",
+      "508.32",
+      "226.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Siletto Vineyard, San Benito 2017 California (organic)",
+    "bbox": [
+      "104.68",
+      "235.77",
+      "403.05",
+      "250.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Côtes de Provence",
+    "bbox": [
+      "104.68",
+      "282.78",
+      "234.44",
+      "298.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$99",
+    "bbox": [
+      "484.04",
+      "281.52",
+      "508.31",
+      "295.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Château d’Esclans, Provence 2019 France",
+    "bbox": [
+      "104.68",
+      "304.77",
+      "337.48",
+      "319.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Champagne & Sparkling",
+    "bbox": [
+      "203.28",
+      "422.04",
+      "409.72",
+      "443.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Moscato Giallo",
+    "bbox": [
+      "104.68",
+      "488.28",
+      "211.68",
+      "503.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$56",
+    "bbox": [
+      "484.04",
+      "487.02",
+      "508.31",
+      "501.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "“Dilì”, Maeli, Veneto 2018 Italy (natural, chilled)",
+    "bbox": [
+      "104.68",
+      "510.27",
+      "372.08",
+      "524.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "De Perrière",
+    "bbox": [
+      "104.68",
+      "557.28",
+      "184.72",
+      "572.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$64",
+    "bbox": [
+      "484.04",
+      "556.02",
+      "508.31",
+      "570.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Blanc de Blancs Brut, Crémant de Bourgogne NV France",
+    "bbox": [
+      "104.68",
+      "579.27",
+      "416.64",
+      "593.52"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Gruet Brut Rosé",
+    "bbox": [
+      "104.68",
+      "627.03",
+      "215.35",
+      "642.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$32 half bottle / $64 full bottle",
+    "bbox": [
+      "333.20",
+      "625.77",
+      "508.27",
+      "640.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "NV United States (organic)",
+    "bbox": [
+      "104.68",
+      "649.02",
+      "253.21",
+      "663.27"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Bisol - Jeio Prosecco",
+    "bbox": [
+      "104.68",
+      "696.78",
+      "246.19",
+      "712.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "$68",
+    "bbox": [
+      "484.04",
+      "695.52",
+      "508.31",
+      "709.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "Brut, Veneto NV Italy",
+    "bbox": [
+      "104.68",
+      "718.77",
+      "220.82",
+      "733.02"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "https://www.theodeonrestaurant.com/menu-1",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "185.65",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 6,
+    "text": "6/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "4/17/22, 2:56 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Menus — The Odeon Restaurant",
+    "bbox": [
+      "292.66",
+      "15.70",
+      "410.50",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Chapuy",
+    "bbox": [
+      "104.68",
+      "33.03",
+      "159.97",
+      "48.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$40 half bottle / $80 full bottle",
+    "bbox": [
+      "332.49",
+      "31.78",
+      "508.28",
+      "46.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Brut Tradition, Oger NV France (organic)",
+    "bbox": [
+      "104.68",
+      "55.03",
+      "330.03",
+      "69.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Goutorbe-Bouillot",
+    "bbox": [
+      "104.68",
+      "102.78",
+      "232.59",
+      "118.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$99",
+    "bbox": [
+      "484.04",
+      "101.53",
+      "508.31",
+      "115.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "”Carte d’Or” Brut, Vallée de la Marne NV France",
+    "bbox": [
+      "104.68",
+      "124.78",
+      "378.96",
+      "139.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Veuve Clicquot",
+    "bbox": [
+      "104.68",
+      "172.53",
+      "210.58",
+      "188.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$150",
+    "bbox": [
+      "477.72",
+      "171.28",
+      "508.31",
+      "185.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Yellow Label Brut, Reims NV France",
+    "bbox": [
+      "104.68",
+      "194.53",
+      "300.06",
+      "208.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Billecart-Salmon Rosé",
+    "bbox": [
+      "104.68",
+      "241.53",
+      "258.92",
+      "257.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$170",
+    "bbox": [
+      "478.25",
+      "240.28",
+      "508.31",
+      "254.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Brut, Mareuil-sur-Ay NV France",
+    "bbox": [
+      "104.68",
+      "263.53",
+      "279.21",
+      "277.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Pinot Noir & Gamay",
+    "bbox": [
+      "221.47",
+      "380.79",
+      "391.53",
+      "402.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Brouilly",
+    "bbox": [
+      "104.68",
+      "447.03",
+      "160.00",
+      "462.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$62",
+    "bbox": [
+      "484.57",
+      "445.78",
+      "508.31",
+      "460.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Château de la Terrière, Beaujolais 2019 France",
+    "bbox": [
+      "104.68",
+      "469.03",
+      "364.97",
+      "483.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Pinot Noir",
+    "bbox": [
+      "104.68",
+      "516.03",
+      "176.58",
+      "531.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$72",
+    "bbox": [
+      "484.75",
+      "514.78",
+      "508.32",
+      "529.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Vincent, Willamette 2018 Oregon",
+    "bbox": [
+      "104.68",
+      "538.03",
+      "291.38",
+      "552.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Pinot Noir",
+    "bbox": [
+      "104.68",
+      "585.78",
+      "176.58",
+      "601.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$82",
+    "bbox": [
+      "484.58",
+      "584.53",
+      "508.31",
+      "598.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "“Gravenstein Highway” Peter Paul, Sonoma 2019 California",
+    "bbox": [
+      "104.68",
+      "607.78",
+      "437.89",
+      "622.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Pinot Noir",
+    "bbox": [
+      "104.68",
+      "655.53",
+      "176.58",
+      "671.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "$86",
+    "bbox": [
+      "484.04",
+      "654.28",
+      "508.31",
+      "668.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "Saintsbury, Carneros 2019 Califorinia",
+    "bbox": [
+      "104.68",
+      "677.53",
+      "313.88",
+      "691.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "https://www.theodeonrestaurant.com/menu-1",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "185.65",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 7,
+    "text": "7/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "4/17/22, 2:56 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Menus — The Odeon Restaurant",
+    "bbox": [
+      "292.66",
+      "15.70",
+      "410.50",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Chassagne - Montrachet",
+    "bbox": [
+      "104.68",
+      "33.03",
+      "276.24",
+      "48.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$108",
+    "bbox": [
+      "476.84",
+      "31.78",
+      "508.31",
+      "46.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Henri Prudhon, Bourgogne 2016 France",
+    "bbox": [
+      "104.68",
+      "55.03",
+      "325.34",
+      "69.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Côte de Nuits-Villages",
+    "bbox": [
+      "104.68",
+      "102.78",
+      "262.13",
+      "118.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$120",
+    "bbox": [
+      "478.44",
+      "101.53",
+      "508.31",
+      "115.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Gevrey-Chambertin, Domaine Philippe Rossignol, Bourgogne",
+    "bbox": [
+      "104.68",
+      "124.78",
+      "444.30",
+      "139.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "2019 France",
+    "bbox": [
+      "104.68",
+      "143.53",
+      "174.09",
+      "157.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Syrah & Other Rhone Varietals",
+    "bbox": [
+      "180.17",
+      "260.04",
+      "432.82",
+      "281.41"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Côtes du Rhône",
+    "bbox": [
+      "104.68",
+      "326.28",
+      "214.39",
+      "341.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$60",
+    "bbox": [
+      "484.04",
+      "325.03",
+      "508.31",
+      "339.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Domaine La Manarine, Rhone 2020 France",
+    "bbox": [
+      "104.68",
+      "348.28",
+      "346.16",
+      "362.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Vacqueyras",
+    "bbox": [
+      "104.68",
+      "395.28",
+      "189.69",
+      "410.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$64",
+    "bbox": [
+      "484.04",
+      "394.03",
+      "508.31",
+      "408.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Domaine de L’Oiselet, Rhône 2017 France (organic)",
+    "bbox": [
+      "104.68",
+      "418.03",
+      "391.75",
+      "432.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Syrah",
+    "bbox": [
+      "104.68",
+      "465.03",
+      "146.81",
+      "480.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$72",
+    "bbox": [
+      "484.75",
+      "463.78",
+      "508.32",
+      "478.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "“First Flight” Graeme & Julie Bott, Rhone 2018 France",
+    "bbox": [
+      "104.68",
+      "487.03",
+      "397.96",
+      "501.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Châteauneuf-du-Pape",
+    "bbox": [
+      "104.68",
+      "534.78",
+      "261.38",
+      "550.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$78",
+    "bbox": [
+      "484.93",
+      "533.53",
+      "508.31",
+      "547.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Domaine Giuliani, Rhône 2017 France",
+    "bbox": [
+      "104.68",
+      "556.78",
+      "316.35",
+      "571.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Gigondas",
+    "bbox": [
+      "104.68",
+      "604.53",
+      "174.14",
+      "620.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "$82",
+    "bbox": [
+      "484.58",
+      "603.28",
+      "508.31",
+      "617.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Domaine les Goubert, Rhône 2017 France",
+    "bbox": [
+      "104.68",
+      "626.53",
+      "337.82",
+      "640.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "Merlot",
+    "bbox": [
+      "278.87",
+      "743.79",
+      "334.14",
+      "765.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "https://www.theodeonrestaurant.com/menu-1",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "185.65",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 8,
+    "text": "8/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "4/17/22, 2:56 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Menus — The Odeon Restaurant",
+    "bbox": [
+      "292.66",
+      "15.70",
+      "410.50",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Bordeaux",
+    "bbox": [
+      "104.68",
+      "74.28",
+      "175.33",
+      "89.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$64",
+    "bbox": [
+      "484.04",
+      "73.03",
+      "508.31",
+      "87.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "\"Vignobles Pueyo\", Tellus Vinea, Bordeaux 2020 France",
+    "bbox": [
+      "104.68",
+      "96.28",
+      "414.56",
+      "110.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Merlot",
+    "bbox": [
+      "104.68",
+      "144.03",
+      "151.27",
+      "159.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$78",
+    "bbox": [
+      "484.93",
+      "142.78",
+      "508.31",
+      "157.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Whitehall Lane, Napa 2017 California",
+    "bbox": [
+      "104.68",
+      "166.03",
+      "317.80",
+      "180.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Lalande de Pomerol",
+    "bbox": [
+      "104.68",
+      "213.78",
+      "246.27",
+      "229.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$82",
+    "bbox": [
+      "484.58",
+      "212.53",
+      "508.31",
+      "226.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Château des Moines, Bordeaux 2016 France",
+    "bbox": [
+      "104.68",
+      "235.78",
+      "353.40",
+      "250.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Fronsac",
+    "bbox": [
+      "104.68",
+      "282.78",
+      "159.37",
+      "298.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$90",
+    "bbox": [
+      "484.04",
+      "281.53",
+      "508.31",
+      "295.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Château Dalem, Bordeaux 2001 France",
+    "bbox": [
+      "104.68",
+      "304.78",
+      "326.92",
+      "319.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Margaux",
+    "bbox": [
+      "104.68",
+      "352.53",
+      "171.31",
+      "368.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$115",
+    "bbox": [
+      "480.93",
+      "351.28",
+      "508.31",
+      "365.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Confidences de Prieuré-Lichine, Bordeaux 2015 France",
+    "bbox": [
+      "104.68",
+      "374.53",
+      "408.93",
+      "388.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Sangiovese & Other Italian Varietals",
+    "bbox": [
+      "156.37",
+      "491.79",
+      "456.63",
+      "513.16"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Barbera d’Alba “Tom”",
+    "bbox": [
+      "104.68",
+      "557.28",
+      "266.96",
+      "572.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$56",
+    "bbox": [
+      "484.04",
+      "556.03",
+      "508.31",
+      "570.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Eugenio Bocchino, Piedmont 2019 Italy (biodynamic)",
+    "bbox": [
+      "104.68",
+      "579.28",
+      "398.37",
+      "593.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Chianti Classico",
+    "bbox": [
+      "104.68",
+      "627.03",
+      "215.33",
+      "642.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$72",
+    "bbox": [
+      "484.75",
+      "625.78",
+      "508.32",
+      "640.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Castello di Volpaia, Tuscany 2019 Italy (organic)",
+    "bbox": [
+      "104.68",
+      "649.03",
+      "374.08",
+      "663.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Rosso Di Montalcino",
+    "bbox": [
+      "104.68",
+      "696.78",
+      "248.23",
+      "712.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "$80",
+    "bbox": [
+      "484.04",
+      "695.53",
+      "508.31",
+      "709.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "Piancornello, Tuscany 2018 Italy",
+    "bbox": [
+      "104.68",
+      "718.78",
+      "283.15",
+      "733.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "https://www.theodeonrestaurant.com/menu-1",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "185.65",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 9,
+    "text": "9/12",
+    "bbox": [
+      "569.95",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "4/17/22, 2:56 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Menus — The Odeon Restaurant",
+    "bbox": [
+      "292.66",
+      "15.70",
+      "410.50",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Barolo",
+    "bbox": [
+      "104.68",
+      "33.03",
+      "152.08",
+      "48.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$105",
+    "bbox": [
+      "476.84",
+      "31.78",
+      "508.31",
+      "46.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Eraldo Viberti, Piedmont 2015 Italy",
+    "bbox": [
+      "104.68",
+      "55.03",
+      "297.00",
+      "69.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Cabernet Sauvignon",
+    "bbox": [
+      "220.94",
+      "172.29",
+      "392.05",
+      "193.66"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Cabernet Sauvignon",
+    "bbox": [
+      "104.68",
+      "237.78",
+      "249.56",
+      "253.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$68",
+    "bbox": [
+      "484.04",
+      "236.53",
+      "508.31",
+      "250.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Routestock, Napa Valley 2020 California",
+    "bbox": [
+      "104.68",
+      "259.78",
+      "334.80",
+      "274.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Cabernet Sauvignon",
+    "bbox": [
+      "104.68",
+      "307.53",
+      "249.56",
+      "323.20"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$75",
+    "bbox": [
+      "485.29",
+      "306.28",
+      "508.31",
+      "320.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Oeno, Russian River Valley 2019 California (organic)",
+    "bbox": [
+      "104.68",
+      "329.53",
+      "397.43",
+      "343.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Pauillac",
+    "bbox": [
+      "104.68",
+      "377.28",
+      "160.69",
+      "392.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$86",
+    "bbox": [
+      "484.04",
+      "376.03",
+      "508.31",
+      "390.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "”Récolte” Château Tour Sieujean, Bordeaux 2015 France",
+    "bbox": [
+      "104.68",
+      "399.28",
+      "418.74",
+      "413.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Cabernet Sauvignon",
+    "bbox": [
+      "104.68",
+      "447.03",
+      "249.56",
+      "462.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$130",
+    "bbox": [
+      "477.90",
+      "445.78",
+      "508.31",
+      "460.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "\"Belle Cousine\" Hyde Vineyard, Napa 2017 California",
+    "bbox": [
+      "104.68",
+      "469.03",
+      "407.43",
+      "483.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Other Red Varietals",
+    "bbox": [
+      "226.06",
+      "585.54",
+      "386.93",
+      "606.91"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "Rioja",
+    "bbox": [
+      "104.68",
+      "651.78",
+      "141.50",
+      "667.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "$64",
+    "bbox": [
+      "484.04",
+      "650.53",
+      "508.31",
+      "664.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "“Ermita de San Felices” Reserva, Santabla, Rioja 2016 Spain",
+    "bbox": [
+      "104.68",
+      "673.78",
+      "440.47",
+      "688.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "https://www.theodeonrestaurant.com/menu-1",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "185.65",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 10,
+    "text": "10/12",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "4/17/22, 2:56 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Menus — The Odeon Restaurant",
+    "bbox": [
+      "292.66",
+      "15.70",
+      "410.50",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Chinon",
+    "bbox": [
+      "104.68",
+      "33.03",
+      "154.49",
+      "48.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "$66",
+    "bbox": [
+      "484.04",
+      "31.78",
+      "508.31",
+      "46.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "“Les Terrasses” Domaine Béatrice et Pascal Lambert, Loire 2020",
+    "bbox": [
+      "104.68",
+      "55.03",
+      "456.06",
+      "69.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "France (organic)",
+    "bbox": [
+      "104.68",
+      "73.78",
+      "195.71",
+      "88.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Trousseau",
+    "bbox": [
+      "104.68",
+      "120.78",
+      "176.61",
+      "136.45"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "$74",
+    "bbox": [
+      "486.01",
+      "119.53",
+      "508.32",
+      "133.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "“Combe” Stolpman Vineyards, Ballard Canyon 2018 California",
+    "bbox": [
+      "104.68",
+      "143.53",
+      "455.83",
+      "157.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "(organic, natural)",
+    "bbox": [
+      "104.68",
+      "161.53",
+      "200.78",
+      "175.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Zinfandel",
+    "bbox": [
+      "104.68",
+      "209.28",
+      "173.07",
+      "224.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "$94",
+    "bbox": [
+      "484.75",
+      "208.03",
+      "508.32",
+      "222.28"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "“Old Hill Ranch” Bucklin, Sonoma 2017 California",
+    "bbox": [
+      "104.68",
+      "231.28",
+      "383.67",
+      "245.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Order Odeon Delivery Online Now",
+    "bbox": [
+      "124.50",
+      "364.70",
+      "487.76",
+      "387.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "The Odeon is offering delivery and pick up for our extended",
+    "bbox": [
+      "139.64",
+      "401.53",
+      "473.37",
+      "415.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "neighborhood.",
+    "bbox": [
+      "263.81",
+      "422.53",
+      "352.50",
+      "436.78"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Monday through Friday  11am to 9pm",
+    "bbox": [
+      "192.90",
+      "444.28",
+      "423.41",
+      "458.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Saturday and Sunday  10am to 9pm",
+    "bbox": [
+      "199.86",
+      "465.28",
+      "413.13",
+      "479.53"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Sign up with your email address to receive news and updates.",
+    "bbox": [
+      "140.86",
+      "625.10",
+      "471.38",
+      "637.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "Email Address",
+    "bbox": [
+      "172.77",
+      "680.38",
+      "234.34",
+      "691.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "REGISTER",
+    "bbox": [
+      "379.75",
+      "680.38",
+      "423.34",
+      "691.63"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "We respect your privacy. We'll never share your information with anyone.",
+    "bbox": [
+      "151.70",
+      "733.70",
+      "460.54",
+      "742.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "https://www.theodeonrestaurant.com/menu-1",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "185.65",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 11,
+    "text": "11/12",
+    "bbox": [
+      "566.09",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "4/17/22, 2:56 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "Menus — The Odeon Restaurant",
+    "bbox": [
+      "292.66",
+      "15.70",
+      "410.50",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "© 2017 The Odeon Restaurant. All",
+    "bbox": [
+      "82.25",
+      "66.35",
+      "268.67",
+      "78.35"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "rights reserved.",
+    "bbox": [
+      "82.25",
+      "85.10",
+      "163.83",
+      "97.10"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "https://www.theodeonrestaurant.com/menu-1",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "185.65",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 12,
+    "text": "12/12",
+    "bbox": [
+      "565.50",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]

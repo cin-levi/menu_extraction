@@ -235,6 +235,10 @@
           {
             "text": "lambrusco fattoria moretto monovitigno",
             "answer_start": 0
+          },
+          {
+            "text": "(it)",
+            "answer_start": 44
           }
         ],
         "V": [
@@ -306,6 +310,10 @@
           {
             "text": "malvasia/trebbianomarchese frascati",
             "answer_start": 0
+          },
+          {
+            "text": "(it)",
+            "answer_start": 41
           }
         ],
         "V": [
@@ -370,6 +378,10 @@
           {
             "text": "favoritaangelo negro onorata",
             "answer_start": 0
+          },
+          {
+            "text": "(it)",
+            "answer_start": 34
           }
         ],
         "V": [
@@ -402,6 +414,10 @@
           {
             "text": "vermentinopunta crena vigneto isaco",
             "answer_start": 0
+          },
+          {
+            "text": "(it)",
+            "answer_start": 41
           }
         ],
         "V": [
@@ -447,6 +463,10 @@
           {
             "text": "nebbioloioppa rusin",
             "answer_start": 0
+          },
+          {
+            "text": "(it)",
+            "answer_start": 25
           }
         ],
         "V": [
@@ -479,6 +499,10 @@
           {
             "text": "verdejo cantalapiedra mondo",
             "answer_start": 0
+          },
+          {
+            "text": "(sp)",
+            "answer_start": 33
           }
         ],
         "V": [
@@ -676,16 +700,22 @@
     ],
     "annots": [
       {
-        "W": [
-          {
-            "text": "glera bisol prosecco jeio nv",
-            "answer_start": 0
-          }
-        ],
         "P": [
           {
             "text": "40",
             "answer_start": 29
+          }
+        ],
+        "W": [
+          {
+            "text": "glera bisol prosecco jeio",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "nv",
+            "answer_start": 26
           }
         ]
       }
@@ -1033,20 +1063,20 @@
     ],
     "annots": [
       {
-        "E": [
+        "W": [
           {
             "text": "prie blanc ermes pavese blanc de morgex",
             "answer_start": 0
-          }
-        ],
-        "W": [
-          {
-            "text": "2019",
-            "answer_start": 40
           },
           {
             "text": "60",
             "answer_start": 45
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 40
           }
         ]
       }
@@ -1347,6 +1377,12 @@
     ],
     "annots": [
       {
+        "V": [
+          {
+            "text": "2020 7",
+            "answer_start": 51
+          }
+        ],
         "W": [
           {
             "text": "sauvignon blanc arnot-roberts randle hill vineyard",

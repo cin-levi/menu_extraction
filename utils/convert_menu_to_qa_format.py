@@ -198,12 +198,13 @@ def read_data(files):
     # with open(prj_path + '/data/question_list.json', 'w', encoding='utf-8') as f:
     #     json.dump(sorted(list(set(all_keys))), f, ensure_ascii=False)
 
-    with open(prj_path + '/data/train.json', 'w', encoding='utf-8') as f:
+    with open(prj_path + '/data/full.json', 'w', encoding='utf-8') as f:
         json.dump(full_data, f, ensure_ascii=False)
 
 
 if __name__ == '__main__':
-    files = glob(prj_path + '/data/json/train/*.json')
+    # files = glob(prj_path + '/data/json/train/*.json')
+    files = glob('D:\\menu_extraction\\data\\json\\full/*.json')
     # files = ['D:\\menu_extraction\\data\\json\\train\\397. Lafayette Grand Cafe and Bakery.pdf.json']
     read_data(files)
     pass

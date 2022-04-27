@@ -11,6 +11,7 @@ from processors.fastqa_based_processor import CustomProcessor, Result, NerResult
 from transformers import AutoTokenizer
 # from layoutlmv2.tokenization_layoutlmv2 import LayoutLMv2Tokenizer
 from torch.utils.data import DataLoader
+from utils.qa_utils import dump_the_report
 
 from processors import prj_path
 
@@ -152,8 +153,10 @@ class Evaluator(object):
                                                                        test_examples)
 
         #
-        detailed_predictions = dump_report(ner_predictions, test_examples)
+        outputs = dump_the_report(ner_predictions, test_examples, 'w')
         (macro_ner, micro_ner, ner_detail) = self.processor.ner_evaluate_by_field(ner_predictions, test_examples)
+        (macro_ner_char, micro_ner_char, ner_detail_char) = self.processor.ner_evaluate_by_char(ner_predictions,
+                                                                                                test_examples)
 
         nbest_to_save = {id: [{'text': x['text'], 'probability': x['probability']} for x in nbest_predictions[id]] for
                          id in nbest_predictions}
@@ -181,7 +184,7 @@ class Evaluator(object):
             nathan_score = evaluation_function(ca_data, result)
             squad_acc_dict.update(nathan_score)
 
-        return squad_acc_dict, macro_ner, micro_ner, ner_detail, detailed_predictions
+        return squad_acc_dict, macro_ner, micro_ner, ner_detail, ner_detail_char, outputs
 
     def load(self, checkpoint_path):
         self.model.from_pretrained(checkpoint_path)
@@ -198,16 +201,17 @@ class Evaluator(object):
             test_features = documents[document]['features']
             test_examples = documents[document]['examples']
             test_dataloader = DataLoader(test_dataset, batch_size=test_bs, num_workers=0, shuffle=False)
-            squad_acc_dict, macro_ner, micro_ner, ner_detail, detailed_predictions = self.evaluate(test_dataloader,
-                                                                                                   test_features,
-                                                                                                   test_examples,
-                                                                                                   0, training_mode,
-                                                                                                   evaluation_function,
-                                                                                                   ca_data)
-            report_dict[document] = {'Accuracy': ner_detail,
-                                     'prediction': detailed_predictions}
+            _, _, _, ner_detail, ner_detail_char, outputs = self.evaluate(test_dataloader,
+                                                                          test_features,
+                                                                          test_examples,
+                                                                          0, training_mode,
+                                                                          evaluation_function,
+                                                                          ca_data)
+            report_dict[document] = {'metric_by_field': ner_detail,
+                                     'metric_by_char': ner_detail_char,
+                                     'prediction': outputs}
 
-        with open("evaluate_detailed.json", 'w', encoding='utf-8') as f:
+        with open("trainset_detailed.json", 'w', encoding='utf-8') as f:
             json.dump(report_dict, f, ensure_ascii=False)
 
 
@@ -219,7 +223,7 @@ if __name__ == '__main__':
 
     fold_prefix = 'fold_'
     train_file = f'train.json'
-    test_file = 'test.json'
+    test_file = 'train.json'
     data_dir = 'D:\\menu_extraction\\data/'
     label_dict_file = data_dir + 'question_list.json'  # can be list or dict
 
@@ -231,11 +235,11 @@ if __name__ == '__main__':
     attention_type = 'Single'
 
     tokenizer_name = 'microsoft/layoutlm-base-uncased'
-    pretrained_path = 'C:\\Users\\Levi\\Desktop\\model_epoch_15'
+    pretrained_path = 'C:\\Users\\Levi\\Desktop\\model_epoch_20'
 
     trainer = Evaluator(pretrained_path, tokenizer_name, all_labels, embedding_from_encoder=False,
                         use_multiple_attention=attention_type == 'Multiple',
-                        max_seq_len=128, doc_stride=32, version='v1')
+                        max_seq_len=128, doc_stride=64, version='v1')
 
     training_mode = 'QANER'
     batch_size = 8

@@ -1,0 +1,4256 @@
+[
+  {
+    "page_number": 1,
+    "text": "COCKTAILS",
+    "bbox": [
+      "53.29",
+      "71.97",
+      "138.08",
+      "84.97"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WHITE",
+    "bbox": [
+      "468.00",
+      "73.77",
+      "501.65",
+      "84.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RED",
+    "bbox": [
+      "871.00",
+      "74.03",
+      "894.20",
+      "86.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "J.L Chave Offerus, St Joseph, 2018",
+    "bbox": [
+      "881.38",
+      "95.62",
+      "1027.79",
+      "105.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2018",
+            "answer_start": 30
+          }
+        ],
+        "W": [
+          {
+            "text": "J.L Chave Offerus, St Joseph,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "75",
+    "bbox": [
+      "1133.39",
+      "95.62",
+      "1148.99",
+      "105.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "75",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "KIWI KUKAMA",
+    "bbox": [
+      "76.99",
+      "105.03",
+      "151.23",
+      "115.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "21",
+    "bbox": [
+      "328.98",
+      "104.51",
+      "339.78",
+      "114.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Nigl Riesling Senftenberger Piri Riesling, 2019",
+    "bbox": [
+      "478.38",
+      "108.62",
+      "670.65",
+      "118.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Nigl Riesling Senftenberger Piri Riesling",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "93",
+    "bbox": [
+      "730.39",
+      "108.62",
+      "745.99",
+      "118.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "93",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dom Michel Gros, Clos Vougeot, Grand Cru, Burgundy,2017    445",
+    "bbox": [
+      "881.38",
+      "115.62",
+      "1150.61",
+      "125.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "445",
+            "answer_start": 59
+          },
+          {
+            "text": ",2017",
+            "answer_start": 50
+          }
+        ],
+        "W": [
+          {
+            "text": "Dom Michel Gros, Clos Vougeot, Grand Cru, Burgundy,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Ketel One Citron Vodka, St. Germain, Kiwi & Cucumber",
+    "bbox": [
+      "77.04",
+      "124.01",
+      "276.10",
+      "133.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Schiopetto Pinot Grigio, Frioli, 2019",
+    "bbox": [
+      "478.38",
+      "127.62",
+      "626.42",
+      "137.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Schiopetto Pinot Grigio, Frioli,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "80",
+    "bbox": [
+      "730.39",
+      "127.62",
+      "745.99",
+      "137.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "80",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Cascina Bruciata, Barolo Cannubi Muscatel, 2013",
+    "bbox": [
+      "881.38",
+      "135.62",
+      "1099.79",
+      "145.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2013",
+            "answer_start": 43
+          }
+        ],
+        "W": [
+          {
+            "text": "Cascina Bruciata, Barolo Cannubi Muscatel,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "125",
+    "bbox": [
+      "1133.39",
+      "135.62",
+      "1149.59",
+      "145.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "125",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RED SUNSET",
+    "bbox": [
+      "77.09",
+      "143.03",
+      "151.23",
+      "153.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "21",
+    "bbox": [
+      "328.98",
+      "142.51",
+      "339.78",
+      "152.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "W. Scott Chardonnay Cuvee Anne Eola-Amity Hill OR, 2018 105",
+    "bbox": [
+      "478.38",
+      "146.62",
+      "746.58",
+      "156.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "W. Scott Chardonnay Cuvee Anne Eola-Amity Hill OR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 51
+          }
+        ],
+        "P": [
+          {
+            "text": "105",
+            "answer_start": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "La Dame De Montrose Saint Estephe, 2015",
+    "bbox": [
+      "881.38",
+      "155.62",
+      "1063.79",
+      "165.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2015",
+            "answer_start": 35
+          }
+        ],
+        "W": [
+          {
+            "text": "La Dame De Montrose Saint Estephe",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "130",
+    "bbox": [
+      "1133.39",
+      "155.62",
+      "1149.59",
+      "165.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "130",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chipolte Infused Casa Dragones, Watermelon, Agave",
+    "bbox": [
+      "77.14",
+      "162.01",
+      "270.35",
+      "171.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Frank Familly Chardonnay Carneros, 2019",
+    "bbox": [
+      "478.38",
+      "165.62",
+      "660.79",
+      "175.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Frank Familly Chardonnay Carneros,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "105",
+    "bbox": [
+      "730.39",
+      "165.62",
+      "746.59",
+      "175.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "105",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bruno Rocca, Barbaresco, Peimont, 2017",
+    "bbox": [
+      "881.38",
+      "175.62",
+      "1063.79",
+      "185.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2017",
+            "answer_start": 34
+          }
+        ],
+        "W": [
+          {
+            "text": "Bruno Rocca, Barbaresco, Peimont,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "135",
+    "bbox": [
+      "1133.39",
+      "175.62",
+      "1149.59",
+      "185.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "135",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "RENDEZVOUS",
+    "bbox": [
+      "77.19",
+      "181.03",
+      "151.23",
+      "191.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "21",
+    "bbox": [
+      "328.98",
+      "180.51",
+      "339.78",
+      "190.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "La Doucette Pouilly Fume FR, 2019",
+    "bbox": [
+      "478.38",
+      "184.62",
+      "626.21",
+      "194.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "La Doucette Pouilly Fume FR,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "110",
+    "bbox": [
+      "730.39",
+      "184.62",
+      "746.59",
+      "194.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "110",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Farella, Cabernet Sauvignon, 2017",
+    "bbox": [
+      "881.38",
+      "195.62",
+      "1027.79",
+      "205.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2017",
+            "answer_start": 29
+          }
+        ],
+        "W": [
+          {
+            "text": "Farella, Cabernet Sauvignon,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "200",
+    "bbox": [
+      "1133.39",
+      "195.62",
+      "1149.59",
+      "205.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "200",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Mount Gay Rum, Chile Ancho Reyes, Mango & Guava",
+    "bbox": [
+      "77.23",
+      "200.01",
+      "269.20",
+      "209.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Martinetti Gavi \"Minaia\", 2019",
+    "bbox": [
+      "478.38",
+      "203.62",
+      "624.79",
+      "213.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Martinetti Gavi \"Minaia\",",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "115",
+    "bbox": [
+      "730.39",
+      "203.62",
+      "746.59",
+      "213.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "115",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SERENITY",
+    "bbox": [
+      "77.28",
+      "219.03",
+      "124.41",
+      "229.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "21",
+    "bbox": [
+      "328.98",
+      "218.51",
+      "339.78",
+      "228.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dom. Chevillon, Nuit St George, Vieille Vignes, 2017                245",
+    "bbox": [
+      "881.38",
+      "215.62",
+      "1149.59",
+      "225.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "245",
+            "answer_start": 68
+          },
+          {
+            "text": "2017",
+            "answer_start": 48
+          }
+        ],
+        "W": [
+          {
+            "text": "Dom. Chevillon, Nuit St George, Vieille Vignes,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Jean-Marc Brocard 1er Cru Montee De Tonerre Chablis, 2018 140",
+    "bbox": [
+      "478.38",
+      "222.62",
+      "746.59",
+      "232.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Jean-Marc Brocard 1er Cru Montee De Tonerre Chablis,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 53
+          }
+        ],
+        "P": [
+          {
+            "text": "140",
+            "answer_start": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Belvedere Vodka, Lychee Puree, Lemon, Matcha",
+    "bbox": [
+      "77.33",
+      "238.01",
+      "249.36",
+      "247.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dom Pierre -Jean Villa Cote Rotie Carmina, 2018",
+    "bbox": [
+      "881.38",
+      "235.62",
+      "1099.79",
+      "245.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2018",
+            "answer_start": 43
+          }
+        ],
+        "W": [
+          {
+            "text": "Dom Pierre -Jean Villa Cote Rotie Carmina,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "210",
+    "bbox": [
+      "1133.39",
+      "235.62",
+      "1149.59",
+      "245.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "210",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Far Niente Chardonnay Napa, 2019",
+    "bbox": [
+      "478.38",
+      "241.62",
+      "624.79",
+      "251.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Far Niente Chardonnay Napa,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "155",
+    "bbox": [
+      "730.39",
+      "241.62",
+      "746.59",
+      "251.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "155",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "BELLE FEMME",
+    "bbox": [
+      "77.38",
+      "257.03",
+      "151.23",
+      "267.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "21",
+    "bbox": [
+      "328.98",
+      "256.51",
+      "339.78",
+      "266.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chateau Brane Cantenac Margaux, 2012",
+    "bbox": [
+      "881.38",
+      "255.62",
+      "1063.79",
+      "265.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2012",
+            "answer_start": 32
+          }
+        ],
+        "W": [
+          {
+            "text": "Chateau Brane Cantenac Margaux",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "220",
+    "bbox": [
+      "1133.39",
+      "255.62",
+      "1149.59",
+      "265.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "220",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Antinori Castello Cervaro Della Sala Chardonnay, 2019",
+    "bbox": [
+      "478.38",
+      "260.62",
+      "703.79",
+      "270.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Antinori Castello Cervaro Della Sala Chardonnay,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "155",
+    "bbox": [
+      "730.39",
+      "260.62",
+      "746.59",
+      "270.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "155",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Plymouth Gin, Blueberry, Cointreau, Yuzu, Champagne",
+    "bbox": [
+      "77.42",
+      "276.01",
+      "273.96",
+      "285.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Arnaud Mortet Gevrey Chambertin Burgundy, 2018",
+    "bbox": [
+      "881.38",
+      "275.62",
+      "1099.79",
+      "285.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2018",
+            "answer_start": 42
+          }
+        ],
+        "W": [
+          {
+            "text": "Arnaud Mortet Gevrey Chambertin Burgundy,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "230",
+    "bbox": [
+      "1133.39",
+      "275.62",
+      "1149.59",
+      "285.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "230",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Trimbach, Alsace Riesling Cuvée Frédéric Emile, 2011",
+    "bbox": [
+      "478.38",
+      "279.62",
+      "696.79",
+      "289.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Trimbach, Alsace Riesling Cuvée Frédéric Emile,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2011",
+            "answer_start": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "165",
+    "bbox": [
+      "730.39",
+      "279.62",
+      "746.59",
+      "289.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "165",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ESSENCE",
+    "bbox": [
+      "77.47",
+      "295.03",
+      "120.56",
+      "305.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "21",
+    "bbox": [
+      "328.98",
+      "294.51",
+      "339.78",
+      "304.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "William Fevre, Chablis, Grand Cru, Valmur 2018",
+    "bbox": [
+      "478.38",
+      "298.62",
+      "672.42",
+      "308.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "William Fevre, Chablis, Grand Cru, Valmur",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "420",
+    "bbox": [
+      "730.39",
+      "298.62",
+      "746.59",
+      "308.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "420",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dom Tollot-Beaut & ﬁls, Chorey Les Beaune Burgundy, 2018 135",
+    "bbox": [
+      "881.38",
+      "295.62",
+      "1149.59",
+      "305.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "135",
+            "answer_start": 57
+          },
+          {
+            "text": "2018",
+            "answer_start": 52
+          }
+        ],
+        "W": [
+          {
+            "text": "Dom Tollot-Beaut & ﬁls, Chorey Les Beaune Burgundy,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "El Silencio Mezcal, Vermouth, Lillet, Lemon, Agave",
+    "bbox": [
+      "77.52",
+      "314.01",
+      "259.41",
+      "323.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Ronchi Di Cialla Cialla Bianco, 1998",
+    "bbox": [
+      "478.38",
+      "317.62",
+      "624.79",
+      "327.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Ronchi Di Cialla Cialla Bianco,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "1998",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "165",
+    "bbox": [
+      "730.39",
+      "317.62",
+      "746.59",
+      "327.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "165",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Siro Pacenti Brunello Di Montalcino Vecchie Vigne, 2015",
+    "bbox": [
+      "881.38",
+      "315.62",
+      "1112.42",
+      "325.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2015",
+            "answer_start": 51
+          }
+        ],
+        "W": [
+          {
+            "text": "Siro Pacenti Brunello Di Montalcino Vecchie Vigne,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "260",
+    "bbox": [
+      "1133.39",
+      "315.62",
+      "1149.59",
+      "325.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "260",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "MILLION $ MAN",
+    "bbox": [
+      "77.57",
+      "333.03",
+      "151.23",
+      "343.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "21",
+    "bbox": [
+      "328.98",
+      "332.51",
+      "339.78",
+      "342.51"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Hyde de Villaine, Chardonnay, Carneros, 2017",
+    "bbox": [
+      "478.38",
+      "336.62",
+      "665.39",
+      "346.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Hyde de Villaine, Chardonnay, Carneros",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "180",
+    "bbox": [
+      "730.39",
+      "336.62",
+      "746.59",
+      "346.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "180",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Far Niente Oakville, Cabernet Sauvignon 2018",
+    "bbox": [
+      "881.38",
+      "335.62",
+      "1070.95",
+      "345.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2018",
+            "answer_start": 40
+          }
+        ],
+        "W": [
+          {
+            "text": "Far Niente Oakville, Cabernet Sauvignon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "270",
+    "bbox": [
+      "1133.39",
+      "335.62",
+      "1439.99",
+      "345.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "270",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bulliet Burbon, St. Germain, Raspberry, Lemon",
+    "bbox": [
+      "77.62",
+      "352.01",
+      "246.48",
+      "361.01"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Aubert Eastside, Chardonnay, Russian River, 2019",
+    "bbox": [
+      "478.38",
+      "355.62",
+      "696.79",
+      "365.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Aubert Eastside, Chardonnay, Russian River,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "190",
+    "bbox": [
+      "730.39",
+      "355.62",
+      "748.99",
+      "365.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "190",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "The Mascot Cabernet Sauvignon, 2015",
+    "bbox": [
+      "881.38",
+      "355.62",
+      "1041.74",
+      "365.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2015",
+            "answer_start": 31
+          }
+        ],
+        "W": [
+          {
+            "text": "The Mascot Cabernet Sauvignon,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "350",
+    "bbox": [
+      "1133.39",
+      "355.62",
+      "1149.59",
+      "365.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "350",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "J.M Boillot, Puligny-Montrachet, 1er Cru Les Referts 2018 300",
+    "bbox": [
+      "478.38",
+      "374.62",
+      "746.59",
+      "384.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "J.M Boillot, Puligny-Montrachet, 1er Cru Les Referts",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 53
+          }
+        ],
+        "P": [
+          {
+            "text": "300",
+            "answer_start": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dom de Beaurenard, C.N.D.P. Boisrenard, 2017",
+    "bbox": [
+      "881.38",
+      "375.62",
+      "1099.79",
+      "385.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2017",
+            "answer_start": 40
+          }
+        ],
+        "W": [
+          {
+            "text": "Dom de Beaurenard, C.N.D.P. Boisrenard,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "385",
+    "bbox": [
+      "1133.39",
+      "375.62",
+      "1149.59",
+      "385.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "385",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Famillia Torres, Milmanda Chardonnay, Spain2017",
+    "bbox": [
+      "478.38",
+      "393.62",
+      "696.79",
+      "403.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Famillia Torres, Milmanda Chardonnay, Spain2",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "200",
+    "bbox": [
+      "730.39",
+      "393.62",
+      "746.59",
+      "403.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "200",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chateau Figeac, Saint Emilion, 2015",
+    "bbox": [
+      "881.38",
+      "395.62",
+      "1029.23",
+      "405.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2015",
+            "answer_start": 31
+          }
+        ],
+        "W": [
+          {
+            "text": "Chateau Figeac, Saint Emilion,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "450",
+    "bbox": [
+      "1133.39",
+      "395.62",
+      "1389.59",
+      "405.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "450",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "WINE AND SAKÉ BY THE BOTTLE",
+    "bbox": [
+      "53.29",
+      "402.98",
+      "309.28",
+      "415.98"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SpottsWoode, Sauvignon Blanc, Napa 2020",
+    "bbox": [
+      "478.38",
+      "412.62",
+      "696.79",
+      "422.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "SpottsWoode, Sauvignon Blanc, Napa",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "100",
+    "bbox": [
+      "730.39",
+      "412.62",
+      "746.59",
+      "422.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "100",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Rudd Oakville Estate Cabernet Sauvignon Napa, 2016",
+    "bbox": [
+      "881.38",
+      "415.62",
+      "1108.87",
+      "425.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2016",
+            "answer_start": 46
+          }
+        ],
+        "W": [
+          {
+            "text": "Rudd Oakville Estate Cabernet Sauvignon Napa,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "500",
+    "bbox": [
+      "1133.39",
+      "415.62",
+      "1149.59",
+      "425.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "500",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SPARKLING",
+    "bbox": [
+      "67.00",
+      "431.77",
+      "123.78",
+      "442.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "F. Carillon, Chas.-Montrachet, 1er Cru Les Macherelles 2018 280",
+    "bbox": [
+      "478.38",
+      "431.62",
+      "746.59",
+      "441.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "F. Carillon, Chas.-Montrachet, 1er Cru Les Macherelles",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 55
+          }
+        ],
+        "P": [
+          {
+            "text": "280",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Xavier Monnot, Volnay 1er Cru, Clos Des Chênes, 2016",
+    "bbox": [
+      "881.38",
+      "435.62",
+      "1105.48",
+      "445.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2016",
+            "answer_start": 48
+          }
+        ],
+        "W": [
+          {
+            "text": "Xavier Monnot, Volnay 1er Cru, Clos Des Chênes,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "190",
+    "bbox": [
+      "1133.39",
+      "435.62",
+      "1149.59",
+      "445.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "190",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dom La Roche Les Blanchots, Chardonnay 2018",
+    "bbox": [
+      "478.38",
+      "450.62",
+      "696.79",
+      "460.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Dom La Roche Les Blanchots, Chardonnay",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "305",
+    "bbox": [
+      "730.39",
+      "450.62",
+      "746.59",
+      "460.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "305",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne Deutz Brut Classic, NV",
+    "bbox": [
+      "76.98",
+      "454.48",
+      "223.38",
+      "464.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne Deutz Brut Classic",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": ", NV",
+            "answer_start": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "125",
+    "bbox": [
+      "328.98",
+      "454.48",
+      "345.18",
+      "464.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "125",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Futo Wine Oakville Estate, Cabernet Sauvignon 2012",
+    "bbox": [
+      "881.38",
+      "455.62",
+      "1099.79",
+      "465.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2012",
+            "answer_start": 46
+          }
+        ],
+        "W": [
+          {
+            "text": "Futo Wine Oakville Estate, Cabernet Sauvignon",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "600",
+    "bbox": [
+      "1133.39",
+      "455.62",
+      "1775.98",
+      "465.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "600",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dom Leﬂaive 1er Cru Clavoillon, Chardonnay 2018                    600",
+    "bbox": [
+      "478.38",
+      "469.62",
+      "746.59",
+      "479.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Dom Leﬂaive 1er Cru Clavoillon, Chardonnay",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 43
+          }
+        ],
+        "P": [
+          {
+            "text": "600",
+            "answer_start": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne Deutz Brut Rose, NV",
+    "bbox": [
+      "77.00",
+      "473.48",
+      "223.38",
+      "483.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne Deutz Brut Rose,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "165",
+    "bbox": [
+      "328.98",
+      "473.48",
+      "345.18",
+      "483.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "165",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Peter Michael “Les Pavots” Cabernet Sauvignon Napa, 2017 900",
+    "bbox": [
+      "881.38",
+      "475.62",
+      "1403.99",
+      "485.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "900",
+            "answer_start": 57
+          },
+          {
+            "text": "2017",
+            "answer_start": 52
+          }
+        ],
+        "W": [
+          {
+            "text": "Peter Michael “Les Pavots” Cabernet Sauvignon Napa,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champagne Lallier Blanc De Blanc, NV",
+    "bbox": [
+      "77.02",
+      "492.48",
+      "237.45",
+      "502.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champagne Lallier Blanc De Blanc,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "135",
+    "bbox": [
+      "328.97",
+      "492.48",
+      "345.17",
+      "502.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "135",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dominus, Napa Valley Cabernet Sauvignon, 2011",
+    "bbox": [
+      "881.38",
+      "495.62",
+      "1099.79",
+      "505.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2011",
+            "answer_start": 41
+          }
+        ],
+        "W": [
+          {
+            "text": "Dominus, Napa Valley Cabernet Sauvignon,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "550",
+    "bbox": [
+      "1133.39",
+      "495.62",
+      "1149.59",
+      "505.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "550",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Henriot Rosé, 2004",
+    "bbox": [
+      "77.04",
+      "511.48",
+      "163.34",
+      "521.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Henriot Rosé,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2004",
+            "answer_start": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "220",
+    "bbox": [
+      "328.97",
+      "511.48",
+      "345.17",
+      "521.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "220",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "SAKÉ",
+    "bbox": [
+      "469.00",
+      "510.03",
+      "499.79",
+      "522.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Casteglion Del Bosco, Brunello Di Montalcino iT, 2015",
+    "bbox": [
+      "881.38",
+      "515.62",
+      "1101.94",
+      "525.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2015",
+            "answer_start": 49
+          }
+        ],
+        "W": [
+          {
+            "text": "Casteglion Del Bosco, Brunello Di Montalcino iT,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "140",
+    "bbox": [
+      "1133.39",
+      "515.62",
+      "1149.59",
+      "525.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "140",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Louis Roederer, Brut X Philipe Stark",
+    "bbox": [
+      "77.06",
+      "530.48",
+      "233.80",
+      "540.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Louis Roederer, Brut X Philipe Stark",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "300",
+    "bbox": [
+      "328.97",
+      "530.48",
+      "345.17",
+      "540.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "300",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Masumi, Sanka Mountain Flower Daiginjo",
+    "bbox": [
+      "479.38",
+      "531.62",
+      "661.79",
+      "541.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "200",
+    "bbox": [
+      "731.39",
+      "531.62",
+      "865.19",
+      "541.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Familia Torres, Altos Ibericos Reserva,Tempranillo,Spain 2015    75",
+    "bbox": [
+      "881.38",
+      "535.62",
+      "1152.07",
+      "545.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "75",
+            "answer_start": 65
+          },
+          {
+            "text": "2015",
+            "answer_start": 57
+          }
+        ],
+        "W": [
+          {
+            "text": "Familia Torres, Altos Ibericos Reserva,Tempranillo,Spain",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dom Perignon, Brut Vintage 2010",
+    "bbox": [
+      "77.08",
+      "549.48",
+      "223.37",
+      "559.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Dom Perignon, Brut Vintage",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2010",
+            "answer_start": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "550",
+    "bbox": [
+      "328.97",
+      "549.48",
+      "347.57",
+      "559.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "550",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tsukinokatsura, Willow Tree“ Yanagi”, Jumai Ginjo",
+    "bbox": [
+      "479.38",
+      "550.62",
+      "697.79",
+      "560.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "130",
+    "bbox": [
+      "731.39",
+      "550.62",
+      "747.59",
+      "560.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pride, Mountain Vineyards, Napa, Sonoma 2018",
+    "bbox": [
+      "881.38",
+      "555.62",
+      "1078.00",
+      "565.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2018",
+            "answer_start": 40
+          }
+        ],
+        "W": [
+          {
+            "text": "Pride, Mountain Vineyards, Napa, Sonoma",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "195",
+    "bbox": [
+      "1133.39",
+      "555.62",
+      "1149.59",
+      "565.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "195",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Mod Selection Reserve, NV",
+    "bbox": [
+      "77.10",
+      "568.48",
+      "196.39",
+      "578.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Mod Selection Reserve,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "980",
+    "bbox": [
+      "328.96",
+      "568.48",
+      "345.16",
+      "578.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sawanoi, Tokyo Kurabito, Jumai Ginjo",
+    "bbox": [
+      "479.38",
+      "569.62",
+      "635.49",
+      "579.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "90",
+    "bbox": [
+      "731.39",
+      "569.62",
+      "746.99",
+      "579.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Marchand.Tawse, Morey St Denis, Clos des Ormes,FR  2017     220",
+    "bbox": [
+      "881.38",
+      "575.62",
+      "1154.47",
+      "585.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "220",
+            "answer_start": 60
+          },
+          {
+            "text": "2017",
+            "answer_start": 51
+          }
+        ],
+        "W": [
+          {
+            "text": "Marchand.Tawse, Morey St Denis, Clos des Ormes,FR",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Armand De Brignac, Ace Of Spades, Brut, NV",
+    "bbox": [
+      "77.12",
+      "587.48",
+      "267.86",
+      "597.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Armand De Brignac, Ace Of Spades, Brut,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "590",
+    "bbox": [
+      "328.96",
+      "587.48",
+      "345.16",
+      "597.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "590",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Tenryo Koshu, Aged Sake, Junmai Daiginjo",
+    "bbox": [
+      "479.38",
+      "588.62",
+      "661.79",
+      "598.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "95",
+    "bbox": [
+      "731.39",
+      "588.62",
+      "996.59",
+      "598.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Bryant Family Vineyards, Cabernet Sauvignon, Napa 2015     1500",
+    "bbox": [
+      "881.38",
+      "595.62",
+      "1148.94",
+      "605.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "1500",
+            "answer_start": 59
+          },
+          {
+            "text": "2015",
+            "answer_start": 50
+          }
+        ],
+        "W": [
+          {
+            "text": "Bryant Family Vineyards, Cabernet Sauvignon, Nap",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Louis Roederer, “Cristal” 2013",
+    "bbox": [
+      "77.14",
+      "606.48",
+      "237.03",
+      "616.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Louis Roederer, “Cristal”",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "800",
+    "bbox": [
+      "328.96",
+      "606.48",
+      "345.16",
+      "616.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "800",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sesshu Otokoyama, Tokubetsu Junmai",
+    "bbox": [
+      "479.38",
+      "607.62",
+      "666.35",
+      "617.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "95",
+    "bbox": [
+      "731.39",
+      "607.62",
+      "1361.38",
+      "617.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Domaine Laurent, Gevrey Chambertin, Bonnes Mares 2016     930",
+    "bbox": [
+      "881.38",
+      "615.62",
+      "1148.13",
+      "625.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "930",
+            "answer_start": 58
+          },
+          {
+            "text": "2016",
+            "answer_start": 49
+          }
+        ],
+        "W": [
+          {
+            "text": "Domaine Laurent, Gevrey Chambertin, Bonnes Mare",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Armand De Brignac, Ace Of Spades, Brut Rosé NV               990",
+    "bbox": [
+      "77.16",
+      "625.48",
+      "345.16",
+      "635.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Armand De Brignac, Ace Of Spades, Brut Rosé",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "990",
+            "answer_start": 61
+          }
+        ],
+        "V": [
+          {
+            "text": "NV",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Kan Nihonkai, Fisherman’s Sake, Junmai Ginjo",
+    "bbox": [
+      "479.38",
+      "626.62",
+      "667.78",
+      "636.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "100",
+    "bbox": [
+      "731.39",
+      "626.62",
+      "747.59",
+      "636.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Ghost Block, Estate, Cabernet Sauvignon Oakville 2018         1030",
+    "bbox": [
+      "881.38",
+      "635.62",
+      "1148.40",
+      "645.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "1030",
+            "answer_start": 62
+          },
+          {
+            "text": "2018",
+            "answer_start": 49
+          }
+        ],
+        "W": [
+          {
+            "text": "Ghost Block, Estate, Cabernet Sauvignon Oakvill",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Armand De Brignac, Ace Of Spades, Brut Blanc De Blancs      1360",
+    "bbox": [
+      "77.18",
+      "644.48",
+      "346.20",
+      "654.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Armand De Brignac, Ace Of Spades, Brut Blanc De Blancs",
+            "answer_start": 0
+          }
+        ],
+        "P": [
+          {
+            "text": "1360",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Hokkaido Otokoyama, Tokubetsu Junmai",
+    "bbox": [
+      "479.38",
+      "645.62",
+      "676.05",
+      "655.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "95",
+    "bbox": [
+      "731.39",
+      "645.62",
+      "746.99",
+      "655.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Miner, Cabernet Sauvignon, Oakville 2017",
+    "bbox": [
+      "881.38",
+      "655.62",
+      "1063.79",
+      "665.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2017",
+            "answer_start": 36
+          }
+        ],
+        "W": [
+          {
+            "text": "Miner, Cabernet Sauvignon, Oakville",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "210",
+    "bbox": [
+      "1133.39",
+      "655.62",
+      "1151.99",
+      "665.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "210",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Ohyama, Big Moutain Cloudy, Nigori 500ml",
+    "bbox": [
+      "479.38",
+      "664.62",
+      "661.79",
+      "674.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "85",
+    "bbox": [
+      "731.39",
+      "664.62",
+      "746.99",
+      "674.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Dom Gachot-Monot, Nuit St Georges, Aux Crots,2018",
+    "bbox": [
+      "881.38",
+      "675.62",
+      "1105.43",
+      "685.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": ",2018",
+            "answer_start": 44
+          }
+        ],
+        "W": [
+          {
+            "text": "Dom Gachot-Monot, Nuit St Georges, Aux Crots,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "230",
+    "bbox": [
+      "1133.39",
+      "675.62",
+      "1149.59",
+      "685.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "230",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Hanahato, “Kijoshu”, Flower Bird, Aged Sake, Junmai 500ml 120",
+    "bbox": [
+      "479.38",
+      "683.62",
+      "749.99",
+      "693.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "ROSÉ",
+    "bbox": [
+      "69.00",
+      "686.77",
+      "95.73",
+      "697.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Turnbull Reserve, Cabernet Sauvignon, Oakville, 2018",
+    "bbox": [
+      "881.38",
+      "695.62",
+      "1099.89",
+      "705.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2018",
+            "answer_start": 48
+          }
+        ],
+        "W": [
+          {
+            "text": "Turnbull Reserve, Cabernet Sauvignon, Oakville,",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "230",
+    "bbox": [
+      "1133.39",
+      "695.62",
+      "1149.59",
+      "705.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "230",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Kimurashiki Kiseki No Osake, Junmai Daiginjo",
+    "bbox": [
+      "461.76",
+      "702.62",
+      "666.84",
+      "717.55"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "215",
+    "bbox": [
+      "731.39",
+      "702.62",
+      "752.39",
+      "712.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Domaine Ott \"Clos Mireille\", 2020",
+    "bbox": [
+      "79.38",
+      "708.62",
+      "225.79",
+      "718.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Ott \"Clos Mireille\",",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "\", 2020",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "120",
+    "bbox": [
+      "331.39",
+      "708.62",
+      "347.59",
+      "718.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "120",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "L’ecole 41, Cabernet sauvignon, Wallla Walla Valley 2017",
+    "bbox": [
+      "881.38",
+      "715.62",
+      "1112.79",
+      "725.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "2017",
+            "answer_start": 52
+          }
+        ],
+        "W": [
+          {
+            "text": "L’ecole 41, Cabernet sauvignon, Wallla Walla Valley",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "110",
+    "bbox": [
+      "1133.39",
+      "715.62",
+      "1149.59",
+      "725.62"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "110",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WINE BY THE GLASS",
+    "bbox": [
+      "46.29",
+      "83.89",
+      "205.69",
+      "96.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "SPARKLING",
+    "bbox": [
+      "60.00",
+      "124.77",
+      "116.78",
+      "135.77"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Schramsberg Rose Sonoma Coast, CA",
+    "bbox": [
+      "70.11",
+      "141.48",
+      "225.34",
+      "151.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Schramsberg Rose Sonoma Coast, CA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "23",
+    "bbox": [
+      "321.98",
+      "141.48",
+      "332.78",
+      "151.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "23",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Moet & Chandon, NV Champagne, FR",
+    "bbox": [
+      "70.45",
+      "159.48",
+      "252.38",
+      "169.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Moet & Chandon, NV Champagne, FR",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "28",
+    "bbox": [
+      "321.98",
+      "159.48",
+      "541.58",
+      "169.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "28",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WHITE",
+    "bbox": [
+      "60.00",
+      "198.03",
+      "99.11",
+      "210.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Hermann J Wiemer Riesling Finger Lake, NY, 2018",
+    "bbox": [
+      "70.02",
+      "218.48",
+      "288.38",
+      "228.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Hermann J Wiemer Riesling Finger Lake, NY,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "17",
+    "bbox": [
+      "321.98",
+      "218.48",
+      "332.78",
+      "228.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "El Enmigo Chardonnay Argentina, 2018",
+    "bbox": [
+      "70.14",
+      "236.48",
+      "252.38",
+      "246.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "El Enmigo Chardonnay Argentina,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "19",
+    "bbox": [
+      "321.98",
+      "236.48",
+      "332.78",
+      "246.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "19",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Albaririno \"Leirana\" Bodegas Forjas Del Salnes Spain, 2019 19",
+    "bbox": [
+      "70.26",
+      "254.48",
+      "332.77",
+      "264.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albaririno \"Leirana\" Bodegas Forjas Del Salnes Spain,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 54
+          }
+        ],
+        "P": [
+          {
+            "text": "19",
+            "answer_start": 59
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Domaine Alphonse Mellot Sancerre FR, 2020",
+    "bbox": [
+      "70.38",
+      "272.48",
+      "257.51",
+      "282.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Alphonse Mellot Sancerre FR,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 37
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "23",
+    "bbox": [
+      "321.97",
+      "272.48",
+      "332.77",
+      "282.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "23",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Heitz Chardonnay Napa Valley, CA, 2018",
+    "bbox": [
+      "70.50",
+      "290.48",
+      "252.37",
+      "300.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Heitz Chardonnay Napa Valley, CA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "23",
+    "bbox": [
+      "321.97",
+      "290.48",
+      "332.77",
+      "300.48"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "WINE LIST",
+    "bbox": [
+      "973.92",
+      "291.61",
+      "1078.98",
+      "308.61"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chablis Gerard Tremblay 1er Cru Burgundy, FR, 2018",
+    "bbox": [
+      "70.62",
+      "308.48",
+      "294.82",
+      "318.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chablis Gerard Tremblay 1er Cru Burgundy, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2018",
+            "answer_start": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "30",
+    "bbox": [
+      "321.97",
+      "308.48",
+      "332.77",
+      "318.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "30",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "ROSÉ",
+    "bbox": [
+      "59.00",
+      "361.03",
+      "89.96",
+      "373.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Domaine Routas, Cote de Provence FR 2020",
+    "bbox": [
+      "69.15",
+      "381.48",
+      "251.38",
+      "391.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Domaine Routas, Cote de Provence FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2020",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "17",
+    "bbox": [
+      "320.98",
+      "381.48",
+      "331.78",
+      "391.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "17",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Rock Angel Rose, Cote de Provence, FR 2019",
+    "bbox": [
+      "69.60",
+      "399.48",
+      "253.05",
+      "409.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Rock Angel Rose, Cote de Provence, FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "21",
+    "bbox": [
+      "320.98",
+      "399.48",
+      "331.78",
+      "409.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "21",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "RED",
+    "bbox": [
+      "59.00",
+      "448.03",
+      "82.20",
+      "460.03"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "M. Chapoutier Cote Du Rhone FR, 2019",
+    "bbox": [
+      "69.03",
+      "468.48",
+      "251.38",
+      "478.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "M. Chapoutier Cote Du Rhone FR",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "320.98",
+      "468.48",
+      "334.18",
+      "478.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Dom Camp Atthalin Savigny Les Beaunes Pinot Noir, 2017 18",
+    "bbox": [
+      "69.17",
+      "486.48",
+      "331.78",
+      "496.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Dom Camp Atthalin Savigny Les Beaunes Pinot Noir,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2017",
+            "answer_start": 50
+          }
+        ],
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chateau Des Lauret Saint-Émilion Merlot FR, 2011",
+    "bbox": [
+      "69.31",
+      "504.48",
+      "287.38",
+      "514.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chateau Des Lauret Saint-Émilion Merlot FR,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2011",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "18",
+    "bbox": [
+      "320.98",
+      "504.48",
+      "331.78",
+      "514.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "18",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "DAOU Cabernet Sauvignon Paso Robles CA, 2019",
+    "bbox": [
+      "69.45",
+      "522.48",
+      "287.38",
+      "532.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "DAOU Cabernet Sauvignon Paso Robles CA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "20",
+    "bbox": [
+      "320.98",
+      "522.48",
+      "331.78",
+      "532.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "20",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Presqu'il Santa Barbara Pinot Noir CA, 2019                              22",
+    "bbox": [
+      "69.59",
+      "540.48",
+      "332.81",
+      "550.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Presqu'il Santa Barbara Pinot Noir CA",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2019",
+            "answer_start": 39
+          }
+        ],
+        "P": [
+          {
+            "text": "22",
+            "answer_start": 73
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Petterino, Gattinara, Piemont, 2010",
+    "bbox": [
+      "69.73",
+      "558.48",
+      "221.79",
+      "568.48"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Petterino, Gattinara, Piemont,",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "201",
+            "answer_start": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "23",
+    "bbox": [
+      "320.98",
+      "558.48",
+      "581.38",
+      "568.48"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "23",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "BEER",
+    "bbox": [
+      "58.96",
+      "618.11",
+      "88.57",
+      "630.11"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Hitachino Nest, Real Ginger Ale, Japan",
+    "bbox": [
+      "68.98",
+      "638.57",
+      "230.08",
+      "648.57"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Hitachino Nest, Real Ginger Ale, Japan",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "320.94",
+      "638.57",
+      "331.74",
+      "648.57"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Orion Breweries, Premium Okinawa’s Craft, Japan",
+    "bbox": [
+      "69.08",
+      "656.57",
+      "287.35",
+      "666.57"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Orion Breweries, Premium Okinawa’s Craft, Japan",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13",
+    "bbox": [
+      "320.95",
+      "656.57",
+      "331.75",
+      "666.57"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Hakkaisan Rydeen Beer IPA, Japan",
+    "bbox": [
+      "69.17",
+      "674.57",
+      "228.52",
+      "684.57"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Hakkaisan Rydeen Beer IPA, Japan",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "16",
+    "bbox": [
+      "248.94",
+      "674.57",
+      "331.74",
+      "684.57"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "16",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Echigo Stout, Japan",
+    "bbox": [
+      "69.27",
+      "692.57",
+      "154.76",
+      "702.57"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Echigo Stout, Japan",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "13",
+    "bbox": [
+      "320.95",
+      "692.57",
+      "331.75",
+      "702.57"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "13",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Kagua Blanc , premium Ale with Spice, Japan",
+    "bbox": [
+      "69.37",
+      "710.57",
+      "255.02",
+      "720.57"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Kagua Blanc , premium Ale with Spice, Japan",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "14",
+    "bbox": [
+      "284.95",
+      "710.57",
+      "331.75",
+      "720.57"
+    ],
+    "annots": [
+      {
+        "P": [
+          {
+            "text": "14",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  }
+]

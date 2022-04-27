@@ -1,0 +1,624 @@
+[
+  {
+    "page_number": 1,
+    "text": "4/20/22, 7:44 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "The National Bar & Dining Rooms menu in New York, NY 10022 | Order American (New) American (Traditional) Brasserie Breakfa…",
+    "bbox": [
+      "117.63",
+      "15.70",
+      "585.52",
+      "23.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "THE NATIONAL BAR & DINING ROOMS",
+    "bbox": [
+      "169.44",
+      "71.00",
+      "443.57",
+      "86.75"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": " MENU (/NEW-YORK/#DEFAULT)",
+    "bbox": [
+      "237.84",
+      "115.39",
+      "436.89",
+      "127.43"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": " Back to Categories",
+    "bbox": [
+      "188.56",
+      "225.68",
+      "285.68",
+      "234.89"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Wines by the Glass  - White",
+    "bbox": [
+      "38.00",
+      "245.75",
+      "218.16",
+      "261.50"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Serra da Estrela 2012",
+    "bbox": [
+      "45.50",
+      "285.45",
+      "173.35",
+      "295.95"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Serra da Estrela",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2012",
+            "answer_start": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Albariño, Rías Baixas, Spain",
+    "bbox": [
+      "45.50",
+      "309.20",
+      "171.07",
+      "318.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Albariño, Rías Baixas, Spain",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Natura 2012",
+    "bbox": [
+      "45.50",
+      "352.20",
+      "119.35",
+      "362.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Natura",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2012",
+            "answer_start": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sauvignon  Blanc, Casablanca, Chile",
+    "bbox": [
+      "45.50",
+      "375.95",
+      "205.47",
+      "384.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sauvignon  Blanc, Casablanca, Chile",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Jermann 2012",
+    "bbox": [
+      "45.50",
+      "418.95",
+      "130.05",
+      "429.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Jermann",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2012",
+            "answer_start": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Pinot Grigio, Venezia Giulia, Italy",
+    "bbox": [
+      "45.50",
+      "442.70",
+      "193.52",
+      "451.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Pinot Grigio, Venezia Giulia, Italy",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Huber ‘Obere Steigen’ 2012",
+    "bbox": [
+      "45.50",
+      "485.70",
+      "208.94",
+      "496.20"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Huber ‘Obere Steigen",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2012",
+            "answer_start": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Grüner Veltliner, Traisental, Austria",
+    "bbox": [
+      "45.50",
+      "509.45",
+      "202.43",
+      "518.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Grüner Veltliner, Traisental, Austria",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Trione ‘River Road Ranch’ 2012",
+    "bbox": [
+      "45.50",
+      "552.45",
+      "231.28",
+      "562.95"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Trione ‘River Road Ranch",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2012",
+            "answer_start": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Sauvignon Blanc, Russian River Valley, CA",
+    "bbox": [
+      "45.50",
+      "576.20",
+      "234.55",
+      "585.12"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Sauvignon Blanc, Russian River Valley, CA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Champalou “Cuvee des Fondraux” 2011",
+    "bbox": [
+      "45.50",
+      "619.20",
+      "279.87",
+      "629.70"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Champalou “Cuvee des Fondraux”",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2011",
+            "answer_start": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Chenin Blanc, Vouvray",
+    "bbox": [
+      "45.50",
+      "642.95",
+      "146.42",
+      "651.87"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chenin Blanc, Vouvray",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Paumanok ‘Semi-Dry’ 2013",
+    "bbox": [
+      "45.50",
+      "685.95",
+      "206.50",
+      "696.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Paumanok ‘Semi-Dry",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2013",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "Riesling, North Fork Long Island, New York",
+    "bbox": [
+      "45.50",
+      "709.70",
+      "237.78",
+      "718.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Riesling, North Fork Long Island, New York",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "https://thenationalbaranddiningrooms.netwaiter.com/new-york/#wines-by-the-glass---white",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "344.38",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 1,
+    "text": "1/2",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "4/20/22, 7:44 PM",
+    "bbox": [
+      "26.45",
+      "15.70",
+      "87.38",
+      "23.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "The National Bar & Dining Rooms menu in New York, NY 10022 | Order American (New) American (Traditional) Brasserie Breakfa…",
+    "bbox": [
+      "117.63",
+      "15.70",
+      "585.52",
+      "23.80"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Charles Mauger 2011",
+    "bbox": [
+      "45.50",
+      "31.95",
+      "170.62",
+      "42.45"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Charles Mauger",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2011",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chardonnay, Meursault, Burgundy, FR",
+    "bbox": [
+      "45.50",
+      "55.70",
+      "215.42",
+      "64.62"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay, Meursault, Burgundy, FR",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Jordan 2011",
+    "bbox": [
+      "45.50",
+      "98.70",
+      "119.04",
+      "109.20"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Jordan",
+            "answer_start": 0
+          }
+        ],
+        "V": [
+          {
+            "text": "2011",
+            "answer_start": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Chardonnay, Russian River Valley, Sonoma County, CA",
+    "bbox": [
+      "45.50",
+      "122.45",
+      "290.16",
+      "131.37"
+    ],
+    "annots": [
+      {
+        "W": [
+          {
+            "text": "Chardonnay, Russian River Valley, Sonoma County, CA",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": " Back to Categories",
+    "bbox": [
+      "188.56",
+      "170.93",
+      "285.68",
+      "180.14"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Menu information provided by Locu.",
+    "bbox": [
+      "38.00",
+      "208.70",
+      "199.93",
+      "217.62"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "Amp Menu (/new-york/menu/)",
+    "bbox": [
+      "38.00",
+      "228.38",
+      "84.40",
+      "231.38"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "(https://my.netwaiter.com)",
+    "bbox": [
+      "427.38",
+      "252.45",
+      "574.99",
+      "262.95"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "https://thenationalbaranddiningrooms.netwaiter.com/new-york/#wines-by-the-glass---white",
+    "bbox": [
+      "26.45",
+      "768.70",
+      "344.38",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  },
+  {
+    "page_number": 2,
+    "text": "2/2",
+    "bbox": [
+      "574.41",
+      "768.70",
+      "585.51",
+      "776.70"
+    ],
+    "annots": [
+      null
+    ]
+  }
+]
